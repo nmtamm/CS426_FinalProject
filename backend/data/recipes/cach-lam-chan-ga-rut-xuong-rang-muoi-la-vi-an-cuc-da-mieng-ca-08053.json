@@ -1,0 +1,91 @@
+{
+  "source_id": "08053",
+  "name": "Chân gà rút xương rang muối",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/da96265cd9f11b85.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chan-ga-rut-xuong-rang-muoi-la-vi-an-cuc-da-mieng-ca-08053",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chan-ga-rut-xuong-rang-muoi-la-vi-an-cuc-da-mieng-ca-08053",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chân gà 5 cái",
+      "raw_name": "Chân gà",
+      "quantity": 5,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành tím 1 củ (thái lát)",
+      "raw_name": "Hành tím",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "thái lát",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sả 4 nhánh (thái sợi mỏng)",
+      "raw_name": "Sả",
+      "quantity": 4,
+      "unit": "nhánh",
+      "note": "thái sợi mỏng",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng 1/2 củ (thái lát)",
+      "raw_name": "Gừng",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": "thái lát",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột mì 120 gr",
+      "raw_name": "Bột mì",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối rang gà 3 muỗng canh",
+      "raw_name": "Muối rang gà",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước mắm 1/3 muỗng cà phê",
+      "raw_name": "Nước mắm",
+      "quantity": 0.333,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối/ hạt nêm 1 ít",
+      "raw_name": "Muối/ hạt nêm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:17:10Z",
+  "page_title": "Cách làm chân gà rút xương rang muối lạ vị ăn cực đã miệng cả nhà đều mê",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/thumb1-1200x676-9.jpg"
+}

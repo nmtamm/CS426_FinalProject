@@ -1,0 +1,83 @@
+{
+  "source_id": "12098",
+  "name": "Bông cải ngâm chua ngọt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/232bd7bbbd2a008f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bong-cai-ngam-chua-ngot-gion-ngon-hap-dan-ai-cung-me-12098",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bong-cai-ngam-chua-ngot-gion-ngon-hap-dan-ai-cung-me-12098",
+  "servings_text": "Cho 2 hũ",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bông cải trắng 2 cái",
+      "raw_name": "Bông cải trắng",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt hiểm 10 quả",
+      "raw_name": "Ớt hiểm",
+      "quantity": 10,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Giấm gạo 400 ml",
+      "raw_name": "Giấm gạo",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước lọc 1.2 lít",
+      "raw_name": "Nước lọc 1.2 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường cát trắng 650 gr",
+      "raw_name": "Đường cát trắng",
+      "quantity": 650,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 2 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:26:10Z",
+  "page_title": "Cách làm bông cải ngâm chua ngọt giòn ngon hấp dẫn ai cũng mê",
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookProduct/SupLoNgamChuaNgot-CachLamBongCaiNgamChuaGionNgot-MonNgonMeNau9-22screenshot-1200x676.jpg"
+}

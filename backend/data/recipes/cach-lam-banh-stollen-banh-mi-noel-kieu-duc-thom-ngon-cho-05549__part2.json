@@ -1,0 +1,149 @@
+{
+  "source_id": "05549",
+  "name": "Bánh stollen nhân bánh hạnh nhân",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b17148ff37580baf.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-stollen-banh-mi-noel-kieu-duc-thom-ngon-cho-05549",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-stollen-banh-mi-noel-kieu-duc-thom-ngon-cho-05549",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột bánh mì trắng 375 gr",
+      "raw_name": "Bột bánh mì trắng",
+      "quantity": 375,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột hạnh nhân 115 gr",
+      "raw_name": "Bột hạnh nhân",
+      "quantity": 115,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nho khô Sultanas 75 gr",
+      "raw_name": "Nho khô Sultanas",
+      "quantity": 75,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trứng 2 quả",
+      "raw_name": "Trứng",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chanh 1/2 quả",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nho khô đỏ 50 gr",
+      "raw_name": "Nho khô đỏ",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Mứt cam chanh hỗn hợp 50 gr",
+      "raw_name": "Mứt cam chanh hỗn hợp",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hạt hạnh nhân khô 50 gr",
+      "raw_name": "Hạt hạnh nhân khô",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Men khô 2 muỗng cà phê",
+      "raw_name": "Men khô",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Rượu rum đen 50 ml",
+      "raw_name": "Rượu rum đen",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Sữa ấm 120 ml",
+      "raw_name": "Sữa ấm",
+      "quantity": 120,
+      "unit": "ml",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Đường mía 100 gr (caster sugar)",
+      "raw_name": "Đường mía",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "caster sugar",
+      "display_order": 12
+    },
+    {
+      "raw_text": "Đường bột 50 gr",
+      "raw_name": "Đường bột",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Bột quế 1/2 muỗng cà phê",
+      "raw_name": "Bột quế",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Bột bạch đậu khấu 1/2 muỗng cà phê",
+      "raw_name": "Bột bạch đậu khấu",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T19:39:57Z",
+  "page_title": "3 cách làm bánh stollen - bánh mì Noel kiểu Đức thơm ngon cho Giáng Sinh",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookRecipe/Avatar/stollen-nhan-banh-hanh-nhan-thumbnail.jpg"
+}

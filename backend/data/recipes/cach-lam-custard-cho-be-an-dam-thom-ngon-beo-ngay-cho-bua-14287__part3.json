@@ -1,0 +1,53 @@
+{
+  "source_id": "14287",
+  "name": "Custard bắp cho bé ăn dặm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d1831eeaf1c61424.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-custard-cho-be-an-dam-thom-ngon-beo-ngay-cho-bua-14287",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-custard-cho-be-an-dam-thom-ngon-beo-ngay-cho-bua-14287",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bắp ngọt 1/2 quả",
+      "raw_name": "Bắp ngọt",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lòng đỏ trứng gà 1 cái",
+      "raw_name": "Lòng đỏ trứng gà",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột bắp hữu cơ 3 gr",
+      "raw_name": "Bột bắp hữu cơ",
+      "quantity": 3,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa mẹ 50 ml (hoặc sữa công thức)",
+      "raw_name": "Sữa mẹ",
+      "quantity": 50,
+      "unit": "ml",
+      "note": "hoặc sữa công thức",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:21:54Z",
+  "page_title": "3 cách làm custard cho bé ăn dặm thơm ngon béo ngậy cho bữa phụ thật ngon",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/custard-bap-cho-be-an-dam-thumbnail-1.jpg"
+}

@@ -1,0 +1,74 @@
+{
+  "source_id": "01838",
+  "name": "Sinh tố protein Frosty (Low Carb Fosty protein smoothie)",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/15e143c4b4658baf.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/10-loai-sinh-to-giau-protein-thom-ngon-don-gian-d-01838",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/10-loai-sinh-to-giau-protein-thom-ngon-don-gian-d-01838",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột protein hương socola 1 muỗng",
+      "raw_name": "Bột protein hương socola",
+      "quantity": 1,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa hạnh nhân không đường 180 ml (sữa tươi không đường)",
+      "raw_name": "Sữa hạnh nhân không đường",
+      "quantity": 180,
+      "unit": "ml",
+      "note": "sữa tươi không đường",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà phê espresso pha sẵn 120 ml (pha phin/pha máy/hòa tan)",
+      "raw_name": "Cà phê espresso pha sẵn",
+      "quantity": 120,
+      "unit": "ml",
+      "note": "pha phin/pha máy/hòa tan",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Kem béo 60 gram",
+      "raw_name": "Kem béo 60 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột cacao 1 muỗng canh",
+      "raw_name": "Bột cacao",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường ăn kiêng 1/8 muỗng cà phê",
+      "raw_name": "Đường ăn kiêng",
+      "quantity": 0.125,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:02:53Z",
+  "page_title": "10 loại sinh tố giàu Protein thơm ngon, đơn giản dành người tập Gym",
+  "variant_index": 8,
+  "variant_count": 10,
+  "note": null,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/sinh-to-protein-frosty-low-carb-fosty-protein-smoothie-thumbnail.jpg"
+}

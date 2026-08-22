@@ -1,0 +1,99 @@
+{
+  "source_id": "23729",
+  "name": "chả ram chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b2387d2f7d2ca5a5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-ram-chay-gion-ngon-khong-bi-tham-dau-don-gian-23729",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-ram-chay-gion-ngon-khong-bi-tham-dau-don-gian-23729",
+  "servings_text": "Cho 44 cây chả ram",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu xanh 150 gr",
+      "raw_name": "Đậu xanh",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bún tàu 1 ít (4 vắt)",
+      "raw_name": "Bún tàu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "4 vắt",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nấm mèo khô 1 ít",
+      "raw_name": "Nấm mèo khô",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 1 củ (nhỏ)",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "nhỏ",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành lá 1 ít (hoặc hành baro)",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hoặc hành baro",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đậu hũ 1 miếng (200 gr)",
+      "raw_name": "Đậu hũ 1 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": "200 gr",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hạt bắp Mỹ 1 ít",
+      "raw_name": "Hạt bắp Mỹ",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành phi 1 thìa canh (hoặc hành baro phi)",
+      "raw_name": "Hành phi",
+      "quantity": 1,
+      "unit": "thìa canh",
+      "note": "hoặc hành baro phi",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Chanh 1 lát",
+      "raw_name": "Chanh 1 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (dầu ăn/ hạt nêm/ tiêu/ đường/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "dầu ăn/ hạt nêm/ tiêu/ đường/ bột ngọt",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:35:00Z",
+  "page_title": "Cách làm chả ram chay giòn ngon, không bị thấm dầu đơn giản tại nhà",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/cha-ram-chay-1200x676.jpg"
+}

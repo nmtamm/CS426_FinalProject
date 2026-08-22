@@ -1,0 +1,90 @@
+{
+  "source_id": "09563",
+  "name": "Sinh tố xoài muối ớt Mexico",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b8c8254e447958fc.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/12-cach-lam-sinh-to-xoai-ngot-mat-giai-khat-ngay-nang-nong-09563",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/12-cach-lam-sinh-to-xoai-ngot-mat-giai-khat-ngay-nang-nong-09563",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Xoài xanh 1 quả",
+      "raw_name": "Xoài xanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xoài chín 1 quả",
+      "raw_name": "Xoài chín",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Siro xoài 40 ml",
+      "raw_name": "Siro xoài",
+      "quantity": 40,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mứt xoài 35 ml",
+      "raw_name": "Mứt xoài",
+      "quantity": 35,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sốt Chamoy 25 ml",
+      "raw_name": "Sốt Chamoy",
+      "quantity": 25,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối Tajin Mexico 5 gr",
+      "raw_name": "Muối Tajin Mexico",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đá viên 100 gr",
+      "raw_name": "Đá viên",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường 15 gr",
+      "raw_name": "Đường",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:57:31Z",
+  "page_title": "14 cách làm sinh tố xoài ngọt mát giải khát ngày nóng",
+  "variant_index": 14,
+  "variant_count": 14,
+  "note": null,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/sinh-to-xoai-muoi-ot-mexico-thumbnail-3.jpg"
+}

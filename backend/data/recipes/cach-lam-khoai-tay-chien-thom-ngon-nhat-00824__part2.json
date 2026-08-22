@@ -1,0 +1,65 @@
+{
+  "source_id": "00824",
+  "name": "Khoai tây chiên giòn bằng bột chiên giòn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8d459678b32507d7.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-khoai-tay-chien-thom-ngon-nhat-00824",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-khoai-tay-chien-thom-ngon-nhat-00824",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai tây 2 củ",
+      "raw_name": "Khoai tây",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột chiên giòn 1/2 gói",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 0.5,
+      "unit": "gói",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột phô mai Cheddar 1 muỗng canh",
+      "raw_name": "Bột phô mai Cheddar",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:08:46Z",
+  "page_title": "3 cách làm khoai tây chiên giòn, vàng rụm cực đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2022/10/CookRecipe/Avatar/khoai-tay-chien-gion-bang-bot-chien-gion-thumbnail.jpg"
+}

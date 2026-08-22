@@ -1,0 +1,90 @@
+{
+  "source_id": "01797",
+  "name": "Bánh mì dưa hấu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6cf15be263040a6d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-mi-va-banh-cookie-hinh-dua-hau-dep-mat-01797",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-mi-va-banh-cookie-hinh-dua-hau-dep-mat-01797",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì số 11 280 g",
+      "raw_name": "Bột mì số 11",
+      "quantity": 280,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bơ 30 g",
+      "raw_name": "Bơ",
+      "quantity": 30,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nho khô 120 g",
+      "raw_name": "Nho khô",
+      "quantity": 120,
+      "unit": "g",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường trắng 50 g",
+      "raw_name": "Đường trắng",
+      "quantity": 50,
+      "unit": "g",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Men nở 8 g (bạn chọn loại men instant)",
+      "raw_name": "Men nở",
+      "quantity": 8,
+      "unit": "g",
+      "note": "bạn chọn loại men instant",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Trứng gà 1 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Màu thực phẩm xanh và đỏ 1/8 muỗng cà phê",
+      "raw_name": "Màu thực phẩm xanh và đỏ",
+      "quantity": 0.125,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:28:59Z",
+  "page_title": "2 cách làm bánh mì và bánh cookie hình dưa hấu đẹp mắt, thơm ngon",
+  "variant_index": 1,
+  "variant_count": 2,
+  "note": null,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/banh-mi-dua-hau-thumbnail.jpg"
+}

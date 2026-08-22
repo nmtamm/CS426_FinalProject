@@ -1,0 +1,67 @@
+{
+  "source_id": "24231",
+  "name": "Nộm ức gà",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c4e6520fd9df64d1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/bi-quyet-lam-nom-uc-ga-xoai-xanh-ca-rot-gion-ngon-giam-can-24231",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/bi-quyet-lam-nom-uc-ga-xoai-xanh-ca-rot-gion-ngon-giam-can-24231",
+  "servings_text": "Cho 1 - 2 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ức gà 350 gr",
+      "raw_name": "Ức gà",
+      "quantity": 350,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 130 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 130,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Xoài xanh 100 gr",
+      "raw_name": "Xoài xanh",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lạc rang 30 gr (đậu phộng)",
+      "raw_name": "Lạc rang",
+      "quantity": 30,
+      "unit": "gr",
+      "note": "đậu phộng",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rau thơm 1 ít (rau mùi/ rau bạc hà)",
+      "raw_name": "Rau thơm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "rau mùi/ rau bạc hà",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (nước lọc/ nước mắm/ đường ăn kiêng/ tỏi băm/ ớt băm/ nước cốt chanh)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "nước lọc/ nước mắm/ đường ăn kiêng/ tỏi băm/ ớt băm/ nước cốt chanh",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T17:50:23Z",
+  "page_title": "Bí quyết làm nộm ức gà xoài xanh cà rốt giòn ngon giảm cân cực đơn giản",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t03%201200676%20%2895%29.jpg"
+}

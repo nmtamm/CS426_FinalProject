@@ -1,0 +1,61 @@
+{
+  "source_id": "14630",
+  "name": "Pudding trứng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/adc23bfede43ee1a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-pudding-trung-trong-tra-sua-mem-muot-beo-ngay-uong-14630",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-pudding-trung-trong-tra-sua-mem-muot-beo-ngay-uong-14630",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lòng đỏ trứng gà 3 cái",
+      "raw_name": "Lòng đỏ trứng gà",
+      "quantity": 3,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Kem sữa tươi 180 ml",
+      "raw_name": "Kem sữa tươi",
+      "quantity": 180,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột gelatin 1 muỗng cà phê",
+      "raw_name": "Bột gelatin",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước 60 ml",
+      "raw_name": "Nước",
+      "quantity": 60,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường cát trắng 2 muỗng canh",
+      "raw_name": "Đường cát trắng",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:10:34Z",
+  "page_title": "2 cách làm pudding trứng trong trà sữa mềm mướt béo ngậy uống là ghiền",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/pudding-trung-thumbnail-1.jpg"
+}

@@ -1,0 +1,109 @@
+{
+  "source_id": "05215",
+  "name": "Salad cà tím ớt chuông",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/351636f0c21e8c72.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-salad-ca-tim-moi-la-hap-dan-cuc-ngon-mieng-05215",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-salad-ca-tim-moi-la-hap-dan-cuc-ngon-mieng-05215",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cà tím 450 gr",
+      "raw_name": "Cà tím",
+      "quantity": 450,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt chuông đỏ 113 gr",
+      "raw_name": "Ớt chuông đỏ",
+      "quantity": 113,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt chuông xanh 113 gr",
+      "raw_name": "Ớt chuông xanh",
+      "quantity": 113,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tây tím 113 gr",
+      "raw_name": "Hành tây tím",
+      "quantity": 113,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rau mùi tây cắt nhỏ 31 gr (parsley)",
+      "raw_name": "Rau mùi tây cắt nhỏ",
+      "quantity": 31,
+      "unit": "gr",
+      "note": "parsley",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ngò rí cắt nhỏ 31 gr",
+      "raw_name": "Ngò rí cắt nhỏ",
+      "quantity": 31,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Thì là sấy khô 1/2 muỗng cà phê",
+      "raw_name": "Thì là sấy khô",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước cốt chanh 4 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tỏi 20 gr",
+      "raw_name": "Tỏi",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu oliu 9 muỗng canh",
+      "raw_name": "Dầu oliu",
+      "quantity": 9,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị 1 ít (đường; muối; tiêu)",
+      "raw_name": "Gia vị",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường; muối; tiêu",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T17:58:27Z",
+  "page_title": "2 cách làm salad cà tím mới lạ hấp dẫn cực ngon miệng",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookRecipe/Avatar/salad-ca-tim-ot-chuong-thumbnail-1.jpg"
+}

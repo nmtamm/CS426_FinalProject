@@ -1,0 +1,141 @@
+{
+  "source_id": "00785",
+  "name": "Gà cay phô mai Hàn Quốc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ca7a98ac0e794ca7.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-cay-pho-mai-chuan-vi-han-quoc-00785",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-cay-pho-mai-chuan-vi-han-quoc-00785",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt gà 500 gr",
+      "raw_name": "Thịt gà",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng gà 1 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột mì 3 muỗng canh",
+      "raw_name": "Bột mì",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột bắp 3 muỗng canh",
+      "raw_name": "Bột bắp",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột nếp 3 muỗng canh",
+      "raw_name": "Bột nếp",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột chiên giòn 3 muỗng canh",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Baking soda 1 muỗng cà phê",
+      "raw_name": "Baking soda",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Phô mai Mozzarella 300 gr",
+      "raw_name": "Phô mai Mozzarella",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Mật ong 1 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Tương ớt Hàn Quốc 3 muỗng canh",
+      "raw_name": "Tương ớt Hàn Quốc",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Tương cà 5 muỗng canh",
+      "raw_name": "Tương cà",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Giấm 1 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Dầu ăn 300 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ tiêu xay/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ tiêu xay/ hạt nêm",
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T18:13:46Z",
+  "page_title": "2 Cách làm gà cay phô mai Hàn Quốc đơn giản cực hấp dẫn",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://img.youtube.com/vi/s8kPMhNLcV4/maxresdefault.jpg"
+}

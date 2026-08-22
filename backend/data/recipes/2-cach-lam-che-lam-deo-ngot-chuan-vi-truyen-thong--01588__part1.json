@@ -1,0 +1,85 @@
+{
+  "source_id": "01588",
+  "name": "Chè lam truyền thống",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ee0c5a8000dd6e48.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-che-lam-deo-ngot-chuan-vi-truyen-thong--01588",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-che-lam-deo-ngot-chuan-vi-truyen-thong--01588",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gạo nếp 300 gram",
+      "raw_name": "Gạo nếp 300 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường mật 100 gram",
+      "raw_name": "Đường mật 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gừng tươi 30 gram",
+      "raw_name": "Gừng tươi 30 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mạch nha 30 gram",
+      "raw_name": "Mạch nha 30 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường vàng 50 gram",
+      "raw_name": "Đường vàng 50 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đậu phộng 50 gram",
+      "raw_name": "Đậu phộng 50 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Lạc đã rang sẵn 50 gram",
+      "raw_name": "Lạc đã rang sẵn 50 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:29:29Z",
+  "page_title": "2 cách làm chè lam dẻo ngọt chuẩn vị truyền thống",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/che-lam-truyen-thong-thumbnail.jpg"
+}

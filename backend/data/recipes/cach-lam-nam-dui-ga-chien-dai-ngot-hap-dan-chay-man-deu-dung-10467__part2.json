@@ -1,0 +1,69 @@
+{
+  "source_id": "10467",
+  "name": "Nấm đùi gà chiên da giòn kèm nước xốt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/86bf5d55a121730b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nam-dui-ga-chien-dai-ngot-hap-dan-chay-man-deu-dung-10467",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nam-dui-ga-chien-dai-ngot-hap-dan-chay-man-deu-dung-10467",
+  "servings_text": "Cho 3 người ăn",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nấm đùi gà 3 cây",
+      "raw_name": "Nấm đùi gà",
+      "quantity": 3,
+      "unit": "cây",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột chiên giòn 80 gram",
+      "raw_name": "Bột chiên giòn 80 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột chiên xù 80 gram",
+      "raw_name": "Bột chiên xù 80 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt 2 trái",
+      "raw_name": "Ớt",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị 1 ít (dầu hào chay/ tương ớt/ nước tương/ đường/ dấm/ tiêu xay/ hạt nêm chay/ muỗi)",
+      "raw_name": "Gia vị",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "dầu hào chay/ tương ớt/ nước tương/ đường/ dấm/ tiêu xay/ hạt nêm chay/ muỗi",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:43:33Z",
+  "page_title": "3 cách làm nấm đùi gà chiên dai, giòn ngọt hấp dẫn chay mặn đều dùng được",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2023/08/CookRecipe/Avatar/nam-dui-ga-chien-da-gion-kem-nuoc-xot-thumbnail.jpg"
+}

@@ -1,0 +1,141 @@
+{
+  "source_id": "01553",
+  "name": "Lẩu nấm thái chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/492b62f81810f338.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/thanh-dam-bo-mat-cuoi-tuan-voi-2-mon-lau-nam-chay-don-gian-01553",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/thanh-dam-bo-mat-cuoi-tuan-voi-2-mon-lau-nam-chay-don-gian-01553",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dứa 1 quả",
+      "raw_name": "Dứa",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu phụ chiên 2 miếng",
+      "raw_name": "Đậu phụ chiên 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bún tươi 500 gr (hoặc mì chay)",
+      "raw_name": "Bún tươi",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "hoặc mì chay",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nấm rơm 50 gr",
+      "raw_name": "Nấm rơm",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nấm bào ngư 50 gr",
+      "raw_name": "Nấm bào ngư",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nấm kim châm 100 gr",
+      "raw_name": "Nấm kim châm",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Táo đỏ 70 gr",
+      "raw_name": "Táo đỏ",
+      "quantity": 70,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tỏi 2 củ",
+      "raw_name": "Tỏi",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Cà chua 5 quả",
+      "raw_name": "Cà chua",
+      "quantity": 5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Me chua 50 gr",
+      "raw_name": "Me chua",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Rau ăn kèm 200 gr (cần/ rau muống/ rau cải thảo/ đậu bắp...)",
+      "raw_name": "Rau ăn kèm",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "cần/ rau muống/ rau cải thảo/ đậu bắp...",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Chả quế 100 gr",
+      "raw_name": "Chả quế",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Gia vị lẩu thái 50 gr",
+      "raw_name": "Gia vị lẩu thái",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Ớt 3 trái",
+      "raw_name": "Ớt",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Gia vị 50 gr (nước mắm chay/ muối/ bột nêm/ đường...)",
+      "raw_name": "Gia vị",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "nước mắm chay/ muối/ bột nêm/ đường...",
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T18:46:16Z",
+  "page_title": "3 cách nấu lẩu nấm chay, lẩu thái chay và lẩu nấm lá é thanh đạm đơn giản",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/lau-nam-thai-chay-thumbnail.jpg"
+}

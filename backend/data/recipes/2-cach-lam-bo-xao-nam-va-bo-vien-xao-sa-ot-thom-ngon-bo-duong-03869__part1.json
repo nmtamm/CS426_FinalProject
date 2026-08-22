@@ -1,0 +1,105 @@
+{
+  "source_id": "03869",
+  "name": "Bò viên xào sả ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9f952babf6849b8f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-bo-xao-nam-va-bo-vien-xao-sa-ot-thom-ngon-bo-duong-03869",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-bo-xao-nam-va-bo-vien-xao-sa-ot-thom-ngon-bo-duong-03869",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bò viên 300 gr",
+      "raw_name": "Bò viên",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt 3 trái",
+      "raw_name": "Ớt",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 1 củ (băm nhuyễn)",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "băm nhuyễn",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tím 1 củ (băm nhuyễn)",
+      "raw_name": "Hành tím",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "băm nhuyễn",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sả 2 nhánh (băm nhuyễn)",
+      "raw_name": "Sả",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": "băm nhuyễn",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hạt dầu điều 2 muỗng cà phê",
+      "raw_name": "Hạt dầu điều",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hũ sa tế tôm 1 cái",
+      "raw_name": "Hũ sa tế tôm",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước mắm cá cơm than 1/3 muỗng canh",
+      "raw_name": "Nước mắm cá cơm than",
+      "quantity": 0.333,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ bột ngọt/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ bột ngọt/ hạt nêm",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:31:08Z",
+  "page_title": "2 cách làm bò viên xào sả ớt và xào bông hẹ thơm ngon đậm đà hấp dẫn",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookRecipe/Avatar/bo-vien-kho-sa-ot-thumbnail-1.jpg"
+}

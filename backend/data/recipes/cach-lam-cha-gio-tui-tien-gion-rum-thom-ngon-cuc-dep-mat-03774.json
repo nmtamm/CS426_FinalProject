@@ -1,0 +1,167 @@
+{
+  "source_id": "03774",
+  "name": "Chả giò túi tiền",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d645eee4faf4efa1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-gio-tui-tien-gion-rum-thom-ngon-cuc-dep-mat-03774",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-gio-tui-tien-gion-rum-thom-ngon-cuc-dep-mat-03774",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nạc dăm xay 300 gr",
+      "raw_name": "Nạc dăm xay",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Giò sống 100 gr",
+      "raw_name": "Giò sống",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 50 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tây 50 gr",
+      "raw_name": "Hành tây",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đầu hành 5 gr",
+      "raw_name": "Đầu hành",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tím 5 gr",
+      "raw_name": "Hành tím",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi xay 5 gr",
+      "raw_name": "Tỏi xay",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nấm mèo 5 gr",
+      "raw_name": "Nấm mèo",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối 1/5 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hạt nêm 1/2 muỗng cà phê",
+      "raw_name": "Hạt nêm",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đường 1/2 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu hào 1/2 muỗng cà phê",
+      "raw_name": "Dầu hào",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước mắm 1/2 muỗng cà phê",
+      "raw_name": "Nước mắm",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Tiêu 1/4 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Dầu mè 1 muỗng cà phê",
+      "raw_name": "Dầu mè",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Dầu ăn 200 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Bánh tráng pò pía 20 miếng",
+      "raw_name": "Bánh tráng pò pía 20 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 17
+    },
+    {
+      "raw_text": "Hành lá 20 lá",
+      "raw_name": "Hành lá",
+      "quantity": 20,
+      "unit": "lá",
+      "note": null,
+      "display_order": 18
+    }
+  ],
+  "scraped_at": "2026-08-19T20:37:24Z",
+  "page_title": "Cách làm chả giò túi tiền giòn rụm, thơm ngon cực đẹp mắt",
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookProduct/Untitled-3-1200x676-1.jpg"
+}

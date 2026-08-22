@@ -1,0 +1,83 @@
+{
+  "source_id": "12089",
+  "name": "Sinh tố ức gà luộc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7c9782b771c3e48c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sinh-to-uc-ga-luoc-giau-protein-cho-ho-tro-tang-co-12089",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sinh-to-uc-ga-luoc-giau-protein-cho-ho-tro-tang-co-12089",
+  "servings_text": "Cho 1 ly lớn",
+  "topics": [
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ức gà 1 miếng",
+      "raw_name": "Ức gà 1 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xoài 1 quả",
+      "raw_name": "Xoài",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cải bó xôi 5 gr (khoảng 2 - 3 lá)",
+      "raw_name": "Cải bó xôi",
+      "quantity": 5,
+      "unit": "gr",
+      "note": "khoảng 2 - 3 lá",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa chua uống ít đường 1 hộp",
+      "raw_name": "Sữa chua uống ít đường",
+      "quantity": 1,
+      "unit": "hộp",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sữa chua không đường 1 hộp",
+      "raw_name": "Sữa chua không đường",
+      "quantity": 1,
+      "unit": "hộp",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Yến mạch cán dẹt 2 muỗng canh",
+      "raw_name": "Yến mạch cán dẹt",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bơ đậu phộng 1 muỗng canh",
+      "raw_name": "Bơ đậu phộng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Các loại hạt 1 ít (hạnh nhân/hạt điều/óc chó)",
+      "raw_name": "Các loại hạt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hạnh nhân/hạt điều/óc chó",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:09:28Z",
+  "page_title": "Cách làm sinh tố ức gà luộc giàu protein hỗ trợ tăng cơ bắp cực dễ uống",
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookProduct/120-1200x676.jpg"
+}

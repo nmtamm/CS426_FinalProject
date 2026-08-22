@@ -1,0 +1,49 @@
+{
+  "source_id": "08298",
+  "name": "Túi trứng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f9575a7b83bd77b4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-luoc-trung-sieu-dai-va-tui-trung-dep-mat-don-gian-08298",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-luoc-trung-sieu-dai-va-tui-trung-dep-mat-don-gian-08298",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trứng gà 3 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành lá 1 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:21:31Z",
+  "page_title": "2 Cách luộc trứng siêu dài và túi trứng đẹp mắt đơn giản nhanh cấp tốc",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/tui-trung-thumbnail.jpg"
+}

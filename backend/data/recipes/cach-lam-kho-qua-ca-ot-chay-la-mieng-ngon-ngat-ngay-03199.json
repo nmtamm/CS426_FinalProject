@@ -1,0 +1,67 @@
+{
+  "source_id": "03199",
+  "name": "Khổ qua cà ớt chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b57a7f2518ac5eb9.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kho-qua-ca-ot-chay-la-mieng-ngon-ngat-ngay-03199",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kho-qua-ca-ot-chay-la-mieng-ngon-ngat-ngay-03199",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cà tím 250 gr",
+      "raw_name": "Cà tím",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Khổ qua 300 gr",
+      "raw_name": "Khổ qua",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt sừng không cay 100 gr",
+      "raw_name": "Ớt sừng không cay",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đậu hũ 300 gr",
+      "raw_name": "Đậu hũ",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nấm mèo 50 gr (băm nhỏ)",
+      "raw_name": "Nấm mèo",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "băm nhỏ",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột năng 20 gr",
+      "raw_name": "Bột năng",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:38:52Z",
+  "page_title": "Cách làm khổ qua cà ớt kho chay lạ miệng ngon ngất ngây",
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookProduct/thum-1200x676-2.jpg"
+}

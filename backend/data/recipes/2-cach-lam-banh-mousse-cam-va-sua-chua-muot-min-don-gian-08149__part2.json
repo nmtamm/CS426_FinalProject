@@ -1,0 +1,90 @@
+{
+  "source_id": "08149",
+  "name": "Mousse cam sữa chua",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3684d3701ce37bc6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-mousse-cam-va-sua-chua-muot-min-don-gian-08149",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-mousse-cam-va-sua-chua-muot-min-don-gian-08149",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cam 1 trái",
+      "raw_name": "Cam",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước cốt cam 320 ml",
+      "raw_name": "Nước cốt cam",
+      "quantity": 320,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bánh quy 50 gr",
+      "raw_name": "Bánh quy",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bơ lạc 20 gr",
+      "raw_name": "Bơ lạc",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sữa chua không đường 90 gr",
+      "raw_name": "Sữa chua không đường",
+      "quantity": 90,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Whipping cream 180 gr",
+      "raw_name": "Whipping cream",
+      "quantity": 180,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gelatin 30 gr",
+      "raw_name": "Gelatin",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường 60 gr",
+      "raw_name": "Đường",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:22:37Z",
+  "page_title": "2 cách làm bánh mousse cam và cam sữa chua mướt mịn, đơn giản",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": null,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/mousse-cam-thumbnail-1.jpg"
+}

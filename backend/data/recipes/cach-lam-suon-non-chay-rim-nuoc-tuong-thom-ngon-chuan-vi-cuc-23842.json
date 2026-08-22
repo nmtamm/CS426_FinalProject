@@ -1,0 +1,83 @@
+{
+  "source_id": "23842",
+  "name": "sườn non chay rim nước tương",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9a2753e59806a68f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-suon-non-chay-rim-nuoc-tuong-thom-ngon-chuan-vi-cuc-23842",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-suon-non-chay-rim-nuoc-tuong-thom-ngon-chuan-vi-cuc-23842",
+  "servings_text": "Cho 2-3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sườn non chay 100 gr",
+      "raw_name": "Sườn non chay",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cơm dừa rám 1/2 trái",
+      "raw_name": "Cơm dừa rám",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tím 20 gr",
+      "raw_name": "Hành tím",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu dừa 1 muỗng canh",
+      "raw_name": "Dầu dừa",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước tương hữu cơ 3 muỗng canh",
+      "raw_name": "Nước tương hữu cơ",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Mè rang 1 ít",
+      "raw_name": "Mè rang",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (hạt nêm chay/ đường/ dầu ăn/ nước lọc)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hạt nêm chay/ đường/ dầu ăn/ nước lọc",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:34:43Z",
+  "page_title": "Cách làm sườn non chay rim nước tương thơm ngon chuẩn vị, cực hao cơm",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/s%C6%B0%E1%BB%9Dn%20non%20chay%20rim%20n%C6%B0%E1%BB%9Bc%20t%C6%B0%C6%A1ng%201200x676.jpg"
+}

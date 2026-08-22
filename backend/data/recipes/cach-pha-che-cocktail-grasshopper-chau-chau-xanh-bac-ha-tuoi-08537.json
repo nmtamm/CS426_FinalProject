@@ -1,0 +1,51 @@
+{
+  "source_id": "08537",
+  "name": "Cocktail Grasshopper (Châu Chấu)",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2f9a7b7190563429.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-che-cocktail-grasshopper-chau-chau-xanh-bac-ha-tuoi-08537",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-che-cocktail-grasshopper-chau-chau-xanh-bac-ha-tuoi-08537",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rượu mùi Creme de Cacao Brun 30 ml",
+      "raw_name": "Rượu mùi Creme de Cacao Brun",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rượu mùi Creme de Menthe 30 ml",
+      "raw_name": "Rượu mùi Creme de Menthe",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cream half and half 30 ml",
+      "raw_name": "Cream half and half",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bạc hà 1 ít",
+      "raw_name": "Bạc hà",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:06:40Z",
+  "page_title": "Cách pha chế Cocktail Grasshopper (Châu Chấu) xanh bạc hà tươi mát lôi cuốn",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/okk-1200x675.jpg"
+}

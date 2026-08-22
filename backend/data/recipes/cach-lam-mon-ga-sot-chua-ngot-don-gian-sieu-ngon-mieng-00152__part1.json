@@ -1,0 +1,69 @@
+{
+  "source_id": "00152",
+  "name": "Gà sốt chua ngọt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6537b0625d786a8e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-ga-sot-chua-ngot-don-gian-sieu-ngon-mieng-00152",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-ga-sot-chua-ngot-don-gian-sieu-ngon-mieng-00152",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Phi lê gà 400 g",
+      "raw_name": "Phi lê gà",
+      "quantity": 400,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành tây 150 g",
+      "raw_name": "Hành tây",
+      "quantity": 150,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà chua 200 g",
+      "raw_name": "Cà chua",
+      "quantity": 200,
+      "unit": "g",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu hào 1.5 muỗng",
+      "raw_name": "Dầu hào",
+      "quantity": 1.5,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Hạt nêm/ tiêu/ dầu ăn/ đường/...)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Hạt nêm/ tiêu/ dầu ăn/ đường/...",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:11:47Z",
+  "page_title": "Cách làm món gà sốt chua ngọt thơm ngon, đơn giản, siêu ngon miệng",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/06/CookRecipe/Avatar/ga-sot-chua-ngot-thumbnail-1.jpg"
+}

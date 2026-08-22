@@ -1,0 +1,121 @@
+{
+  "source_id": "08089",
+  "name": "Củ hủ dừa kho tộ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/791e5d27e06c211e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-cu-hu-dua-kho-thom-ngon-dam-da-de-lam-tai-nha-08089",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-cu-hu-dua-kho-thom-ngon-dam-da-de-lam-tai-nha-08089",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-kho",
+      "name": "Món kho"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Củ hủ dừa 300 gr",
+      "raw_name": "Củ hủ dừa",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành lá 1 ít",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành băm 1 ít",
+      "raw_name": "Hành băm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sả cây 2 nhánh",
+      "raw_name": "Sả cây",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước tương 4 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi băm 1 ít",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tím 4 củ",
+      "raw_name": "Hành tím",
+      "quantity": 4,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường thốt nốt 2 muỗng canh",
+      "raw_name": "Đường thốt nốt",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ớt 4 trái",
+      "raw_name": "Ớt",
+      "quantity": 4,
+      "unit": "trái",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Màu gạch tôm 1 ống",
+      "raw_name": "Màu gạch tôm 1 ống",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/đường/bột ngọt/hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/đường/bột ngọt/hạt nêm",
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:37:13Z",
+  "page_title": "3 cách làm củ hủ dừa kho thơm ngon đậm đà dễ làm tại nhà",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/cu-hu-dua-kho-to-thumbnail.jpg"
+}

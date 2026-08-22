@@ -1,0 +1,59 @@
+{
+  "source_id": "24201",
+  "name": "Mì căn xào sả ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/52a5c5125c3f8520.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-mi-can-xao-sa-ot-thom-nong-hap-dan-cuc-ky-bat-24201",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-mi-can-xao-sa-ot-thom-nong-hap-dan-cuc-ky-bat-24201",
+  "servings_text": "Cho 2 - 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mì căn ống 400 gr",
+      "raw_name": "Mì căn ống",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sả 100 gr",
+      "raw_name": "Sả",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt 1 ít",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (nước tương/ nước mắm chay/ tương ớt/ đường/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "nước tương/ nước mắm chay/ tương ớt/ đường/ hạt nêm",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T18:34:26Z",
+  "page_title": "Cách làm món mì căn xào sả ớt thơm nồng hấp dẫn cực kỳ bắt cơm tại nhà",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t03%201200676%20%2854%29.jpg"
+}

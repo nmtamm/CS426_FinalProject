@@ -1,0 +1,65 @@
+{
+  "source_id": "13560",
+  "name": "Socola truffle hoa hồng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/66ff64a42eaca14f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cac-cach-lam-keo-socola-hoa-hong-ngot-ngao-sieu-don-gian-cho-13560",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cac-cach-lam-keo-socola-hoa-hong-ngot-ngao-sieu-don-gian-cho-13560",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Whipping cream 43 ml",
+      "raw_name": "Whipping cream",
+      "quantity": 43,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Socola trắng 300 gr",
+      "raw_name": "Socola trắng",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cánh hoa hồng khô 10 cái",
+      "raw_name": "Cánh hoa hồng khô",
+      "quantity": 10,
+      "unit": "cái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Màu hồng thực phẩm 1 ít (2 giọt)",
+      "raw_name": "Màu hồng thực phẩm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "2 giọt",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tinh chất hoa hồng 1 ít (4 giọt)",
+      "raw_name": "Tinh chất hoa hồng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "4 giọt",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:19:09Z",
+  "page_title": "2 cách làm kẹo socola hoa hồng ngọt ngào siêu đơn giản cho bạn nam trổ tài",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/socola-truffle-hoa-hong-thumbnail-1.jpg"
+}

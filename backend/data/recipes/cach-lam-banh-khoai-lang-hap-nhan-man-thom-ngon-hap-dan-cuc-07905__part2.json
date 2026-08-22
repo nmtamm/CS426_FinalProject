@@ -1,0 +1,121 @@
+{
+  "source_id": "07905",
+  "name": "Bánh khoai lang vàng hấp",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e53dcf23391c4d4e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-khoai-lang-hap-nhan-man-thom-ngon-hap-dan-cuc-07905",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-khoai-lang-hap-nhan-man-thom-ngon-hap-dan-cuc-07905",
+  "servings_text": "Cho 6 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt heo xay 400 gr",
+      "raw_name": "Thịt heo xay",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tôm khô 25 gr",
+      "raw_name": "Tôm khô",
+      "quantity": 25,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột năng 45 gr",
+      "raw_name": "Bột năng",
+      "quantity": 45,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột nếp 120 gr",
+      "raw_name": "Bột nếp",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Khoai lang vàng 250 gr",
+      "raw_name": "Khoai lang vàng",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nấm hương khô 8 cái (tai)",
+      "raw_name": "Nấm hương khô",
+      "quantity": 8,
+      "unit": "cái",
+      "note": "tai",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hạt kỷ tử 1 ít (không bắt buộc)",
+      "raw_name": "Hạt kỷ tử",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "không bắt buộc",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Măng 350 gr",
+      "raw_name": "Măng",
+      "quantity": 350,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hành tím 50 gr",
+      "raw_name": "Hành tím",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu salad 20 ml (dầu mè/dầu dừa/dầu hạt cải hoặc dầu ăn)",
+      "raw_name": "Dầu salad",
+      "quantity": 20,
+      "unit": "ml",
+      "note": "dầu mè/dầu dừa/dầu hạt cải hoặc dầu ăn",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ muối/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ muối/ bột ngọt",
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T19:18:08Z",
+  "page_title": "2 Cách làm bánh khoai lang hấp nhân mặn thơm ngon hấp dẫn cực dễ làm",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/banh-khoai-lang-hap-nhan-man-thumbnail.jpg"
+}

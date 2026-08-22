@@ -1,0 +1,83 @@
+{
+  "source_id": "03979",
+  "name": "Chả cua chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a544a5311cc563c0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-cua-chay-thom-ngon-don-gian-ngon-nhu-ngoai-hang-03979",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-cua-chay-thom-ngon-don-gian-ngon-nhu-ngoai-hang-03979",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tàu hủ ky tươi 100 gr (loại cọng)",
+      "raw_name": "Tàu hủ ky tươi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "loại cọng",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu hủ 150 gr",
+      "raw_name": "Đậu hủ",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rong biển 1 lá",
+      "raw_name": "Rong biển",
+      "quantity": 1,
+      "unit": "lá",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu điều 1 muỗng cà phê",
+      "raw_name": "Dầu điều",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tím cắt lát 10 gr",
+      "raw_name": "Hành tím cắt lát",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tiêu 1 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 2 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hạt nêm chay 2 muỗng cà phê",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:38:51Z",
+  "page_title": "Cách làm chả cua chay thơm ngon đơn giản ngon như ngoài hàng",
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookProduct/1-1200x676-31.jpg"
+}

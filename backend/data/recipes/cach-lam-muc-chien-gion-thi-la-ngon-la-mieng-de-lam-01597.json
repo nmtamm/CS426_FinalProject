@@ -1,0 +1,103 @@
+{
+  "source_id": "01597",
+  "name": "Mực chiên giòn thì là",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/45946cbd85d6bf89.png",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-muc-chien-gion-thi-la-ngon-la-mieng-de-lam-01597",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-muc-chien-gion-thi-la-ngon-la-mieng-de-lam-01597",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mực 600 gr",
+      "raw_name": "Mực",
+      "quantity": 600,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dầu oliu 3 muỗng canh",
+      "raw_name": "Dầu oliu",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Thì là 15 gr",
+      "raw_name": "Thì là",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 10 gr",
+      "raw_name": "Tỏi",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Mayonnaise 6 muỗng canh",
+      "raw_name": "Mayonnaise",
+      "quantity": 6,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước cốt chanh 3 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tiêu 1 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Ớt bột 1 muỗng cà phê",
+      "raw_name": "Ớt bột",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T19:12:41Z",
+  "page_title": "Cách làm mực chiên giòn thì là, ngon lạ miệng dễ làm tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/01/08/1230561/-video-cach-lam-muc-chien-gion-thi-la-ngon-la-mieng-de-lam-tai-nha-760x367.png"
+}

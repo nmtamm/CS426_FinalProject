@@ -1,0 +1,119 @@
+{
+  "source_id": "23213",
+  "name": "Thịt ngâm mắm miền Trung",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d16094d5fec5c0fb.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-ngam-mam-kieu-mien-trung-ngon-dam-da-bao-quan-23213",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-ngam-mam-kieu-mien-trung-ngon-dam-da-bao-quan-23213",
+  "servings_text": "Cho 2kg thịt",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt ba rọi 2 kg (thịt ba chỉ)",
+      "raw_name": "Thịt ba rọi",
+      "quantity": 2,
+      "unit": "kg",
+      "note": "thịt ba chỉ",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối hột 2 muỗng canh",
+      "raw_name": "Muối hột",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Giấm/nước cốt chanh 2 muỗng canh",
+      "raw_name": "Giấm/nước cốt chanh",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dừa tươi 2 trái (lấy nước)",
+      "raw_name": "Dừa tươi",
+      "quantity": 2,
+      "unit": "trái",
+      "note": "lấy nước",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tím 50 gr",
+      "raw_name": "Hành tím",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường phèn 430 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 430,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gừng 90 gr",
+      "raw_name": "Gừng",
+      "quantity": 90,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tỏi 40 gr",
+      "raw_name": "Tỏi",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ớt hiểm 15 trái (tùy khẩu vị)",
+      "raw_name": "Ớt hiểm",
+      "quantity": 15,
+      "unit": "trái",
+      "note": "tùy khẩu vị",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tiêu hạt đen 2 muỗng cà phê",
+      "raw_name": "Tiêu hạt đen",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Hoa hồi 2 cái",
+      "raw_name": "Hoa hồi",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Bột ngọt 1 muỗng cà phê (có thể không dùng)",
+      "raw_name": "Bột ngọt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "có thể không dùng",
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T19:33:38Z",
+  "page_title": "Cách làm thịt ngâm mắm kiểu miền Trung ngon đậm đà, bảo quản được lâu",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20thumb%20to%20t8%20-%202025-09-17T151518.654.jpg"
+}

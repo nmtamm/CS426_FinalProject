@@ -1,0 +1,53 @@
+{
+  "source_id": "12701",
+  "name": "Trà sữa mật ong trà xanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7d3fe63cc4bc63d3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-pha-tra-sua-mat-ong-thom-beo-ngot-diu-ai-cung-thuc-12701",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-pha-tra-sua-mat-ong-thom-beo-ngot-diu-ai-cung-thuc-12701",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà xanh 2 muỗng canh",
+      "raw_name": "Trà xanh",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột sữa 2 muỗng canh",
+      "raw_name": "Bột sữa",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mật ong 3 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:10:23Z",
+  "page_title": "3 cách pha trà sữa mật ong thơm béo, ngọt dịu ai cũng thực hiện được",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/tra-sua-tra-xanh-mat-ong-thumbnail.jpg"
+}

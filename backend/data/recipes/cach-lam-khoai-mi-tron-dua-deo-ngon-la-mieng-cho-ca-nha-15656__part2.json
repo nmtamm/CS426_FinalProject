@@ -1,0 +1,62 @@
+{
+  "source_id": "15656",
+  "name": "Khoai mì mỡ hành",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/031b87c0da5ad9f5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-khoai-mi-tron-dua-deo-ngon-la-mieng-cho-ca-nha-15656",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-khoai-mi-tron-dua-deo-ngon-la-mieng-cho-ca-nha-15656",
+  "servings_text": "Cho 1 - 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai mì 500 gr",
+      "raw_name": "Khoai mì",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa đặc 5 muỗng",
+      "raw_name": "Sữa đặc",
+      "quantity": 5,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành lá 1 ít",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hạt nêm 1 ít",
+      "raw_name": "Hạt nêm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:07:43Z",
+  "page_title": "Cách làm khoai mì trộn dừa dẻo ngon lạ miệng cho cả nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "Công thức được chia sẻ từ Tiktok vào bếp cùng Điện máy XANH",
+  "original_image_url": "https://cdn.tgdd.vn/2023/10/CookRecipe/Avatar/khoai-mi-mo-hanh-cong-thuc-duoc-chia-se-tu-tiktok-vao-bep-cung-dien-may-xanh-thumbnail.jpg"
+}

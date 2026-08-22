@@ -1,0 +1,95 @@
+{
+  "source_id": "11219",
+  "name": "Đậu bắp nhồi thịt chiên giòn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/30c347ee99ba2f58.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-bap-nhoi-thit-chien-gion-thom-ngon-la-mieng-cuc-11219",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-bap-nhoi-thit-chien-gion-thom-ngon-la-mieng-cuc-11219",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu bắp 20 trái",
+      "raw_name": "Đậu bắp",
+      "quantity": 20,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt heo 100 gr (băm nhỏ)",
+      "raw_name": "Thịt heo",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "băm nhỏ",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chả cá thác lác 100 gr",
+      "raw_name": "Chả cá thác lác",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trứng gà 1 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột chiên giòn 100 gr",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tím 1 củ (băm nhuyễn)",
+      "raw_name": "Hành tím",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "băm nhuyễn",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành lá 1 nhánh (cắt nhỏ)",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": "cắt nhỏ",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu ăn 200 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ hạt nêm/ bột ngọt/ tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ hạt nêm/ bột ngọt/ tiêu",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:20:13Z",
+  "page_title": "Cách làm đậu bắp nhồi thịt chiên giòn, thơm ngon, lạ miệng cực đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookProduct/d1-1200x676.jpg"
+}

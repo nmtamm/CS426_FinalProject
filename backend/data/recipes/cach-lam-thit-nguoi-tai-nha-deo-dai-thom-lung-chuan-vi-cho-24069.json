@@ -1,0 +1,107 @@
+{
+  "source_id": "24069",
+  "name": "Thịt nguội",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c8758f4cae487497.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-nguoi-tai-nha-deo-dai-thom-lung-chuan-vi-cho-24069",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-nguoi-tai-nha-deo-dai-thom-lung-chuan-vi-cho-24069",
+  "servings_text": "Cho 1 cây thịt nguội (khoảng 850gr)",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt đùi heo 400 gr",
+      "raw_name": "Thịt đùi heo",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Da heo 150 gr",
+      "raw_name": "Da heo",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Giò sống 300 gr",
+      "raw_name": "Giò sống",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tím 5 gr",
+      "raw_name": "Hành tím",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 5 gr",
+      "raw_name": "Tỏi",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Chanh 2 quả",
+      "raw_name": "Chanh",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành lá 10 gr (phần đầu hành trắng)",
+      "raw_name": "Hành lá",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "phần đầu hành trắng",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gừng 1 ít (đập dập)",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đập dập",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tiêu sọ nguyên hạt 10 gr",
+      "raw_name": "Tiêu sọ nguyên hạt",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Muối hồng 1 ít",
+      "raw_name": "Muối hồng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Bột năng/ bột ngọt/ nước mắm/ hạt nêm/ muối/ tiêu xay/ đường)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Bột năng/ bột ngọt/ nước mắm/ hạt nêm/ muối/ tiêu xay/ đường",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T19:32:12Z",
+  "page_title": "Cách làm thịt nguội tại nhà dẻo dai, thơm lừng chuẩn vị cho ngày lễ Tết",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t02%201200676%20%2811%29.jpg"
+}

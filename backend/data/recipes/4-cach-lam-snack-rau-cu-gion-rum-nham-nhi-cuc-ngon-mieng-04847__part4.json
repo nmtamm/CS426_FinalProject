@@ -1,0 +1,61 @@
+{
+  "source_id": "04847",
+  "name": "Snack bắp cải",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3bfc7ba36c68c728.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-snack-rau-cu-gion-rum-nham-nhi-cuc-ngon-mieng-04847",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-snack-rau-cu-gion-rum-nham-nhi-cuc-ngon-mieng-04847",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bắp cải nhăn 300 gr",
+      "raw_name": "Bắp cải nhăn",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mè trắng 20 gr",
+      "raw_name": "Mè trắng",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Húng tây khô 20 gr",
+      "raw_name": "Húng tây khô",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu oliu 20 ml",
+      "raw_name": "Dầu oliu",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 10 gr",
+      "raw_name": "Muối",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:07:01Z",
+  "page_title": "4 cách làm snack rau củ giòn rụm nhâm nhi cực ngon miệng",
+  "variant_index": 4,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookRecipe/Avatar/snack-bap-cai-thumbnail.jpg"
+}

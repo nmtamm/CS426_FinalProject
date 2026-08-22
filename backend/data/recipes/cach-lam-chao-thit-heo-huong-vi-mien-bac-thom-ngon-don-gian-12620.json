@@ -1,0 +1,103 @@
+{
+  "source_id": "12620",
+  "name": "Chạo thịt heo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5bd357dfb7c229ef.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chao-thit-heo-huong-vi-mien-bac-thom-ngon-don-gian-12620",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chao-thit-heo-huong-vi-mien-bac-thom-ngon-don-gian-12620",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    },
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt đùi heo 500 gr",
+      "raw_name": "Thịt đùi heo",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xoài 1 trái",
+      "raw_name": "Xoài",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Khế 3 trái",
+      "raw_name": "Khế",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mè trắng 100 gr",
+      "raw_name": "Mè trắng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lá Chanh 10 cái",
+      "raw_name": "Lá Chanh",
+      "quantity": 10,
+      "unit": "cái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Riềng 1 củ",
+      "raw_name": "Riềng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Sả 50 g",
+      "raw_name": "Sả",
+      "quantity": 50,
+      "unit": "g",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/bột ngọt/bột canh/tiêu xay/hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/bột ngọt/bột canh/tiêu xay/hạt nêm",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T17:52:26Z",
+  "page_title": "Cách làm chạo thịt heo hương vị miền Bắc thơm ngon đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/z268870966367447c180feb59fdd898ff432899bce3600-1200x676.jpg"
+}

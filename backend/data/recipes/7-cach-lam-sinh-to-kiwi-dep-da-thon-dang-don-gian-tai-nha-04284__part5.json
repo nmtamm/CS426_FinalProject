@@ -1,0 +1,49 @@
+{
+  "source_id": "04284",
+  "name": "Sinh tố dưa leo kiwi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/07ccefdabb8a8556.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/7-cach-lam-sinh-to-kiwi-dep-da-thon-dang-don-gian-tai-nha-04284",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/7-cach-lam-sinh-to-kiwi-dep-da-thon-dang-don-gian-tai-nha-04284",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa leo 1 trái",
+      "raw_name": "Dưa leo",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Kiwi 2 trái",
+      "raw_name": "Kiwi",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường trắng 1 muỗng canh",
+      "raw_name": "Đường trắng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:55:28Z",
+  "page_title": "8 cách làm sinh tố kiwi đẹp da, thon dáng, đơn giản tại nhà",
+  "variant_index": 5,
+  "variant_count": 7,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/sinh-to-dua-leo-kiwi-thumbnail.jpg"
+}

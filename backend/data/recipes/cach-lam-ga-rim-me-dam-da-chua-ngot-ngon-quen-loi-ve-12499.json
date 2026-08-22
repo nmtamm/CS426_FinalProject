@@ -1,0 +1,71 @@
+{
+  "source_id": "12499",
+  "name": "Gà rim me",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8d0e58f9c4b86ccf.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-rim-me-dam-da-chua-ngot-ngon-quen-loi-ve-12499",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-rim-me-dam-da-chua-ngot-ngon-quen-loi-ve-12499",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt gà 500 gr",
+      "raw_name": "Thịt gà",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Me chín 50 gr",
+      "raw_name": "Me chín",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 4 tép",
+      "raw_name": "Tỏi 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 200 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ bột ngọt",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:16:30Z",
+  "page_title": "Cách làm gà rim me đậm đà, chua ngọt ngon quên lối về",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/Cachlamgarimmedamdachuangotngonquenloive-1200x676-1.jpg"
+}

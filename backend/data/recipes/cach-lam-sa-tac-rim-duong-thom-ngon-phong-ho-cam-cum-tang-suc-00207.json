@@ -1,0 +1,63 @@
+{
+  "source_id": "00207",
+  "name": "Sả tắc rim đường",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/09b5c8412ebd6a1c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sa-tac-rim-duong-thom-ngon-phong-ho-cam-cum-tang-suc-00207",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sa-tac-rim-duong-thom-ngon-phong-ho-cam-cum-tang-suc-00207",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "meo-vao-bep",
+      "name": "Mẹo vào bếp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trái tắc 200 gr",
+      "raw_name": "Trái tắc",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường phèn 120 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước 1 lít",
+      "raw_name": "Nước 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1 muỗng cafe",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cafe",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sả 2 nhánh",
+      "raw_name": "Sả",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:07:28Z",
+  "page_title": "Cách làm sả tắc rim đường thơm ngon, phòng ho cảm cúm, tăng sức đề kháng",
+  "original_image_url": "https://cdn.tgdd.vn/2020/06/CookProduct/hinhthumb-1200x676.jpg"
+}

@@ -1,0 +1,207 @@
+{
+  "source_id": "07694",
+  "name": "Phở khô Gia Lai",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7cabe1e16f0b58db.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-pho-kho-gia-lai-ngon-mieng-hap-dan-chuan-vi-tai-nha-07694",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-pho-kho-gia-lai-ngon-mieng-hap-dan-chuan-vi-tai-nha-07694",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-nuoc",
+      "name": "Món nước"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Phở 1 kg",
+      "raw_name": "Phở",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xương ống 2 kg",
+      "raw_name": "Xương ống",
+      "quantity": 2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gà 1 con",
+      "raw_name": "Gà 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Thịt bò 1 kg",
+      "raw_name": "Thịt bò",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Thịt băm 500 gr",
+      "raw_name": "Thịt băm",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi băm 2 muỗng cà phê",
+      "raw_name": "Tỏi băm",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tím băm 3 muỗng cà phê",
+      "raw_name": "Hành tím băm",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hành lá 2 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hoa hồi 4 lát",
+      "raw_name": "Hoa hồi 4 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Hạt ngò 1/2 muỗng cà phê",
+      "raw_name": "Hạt ngò",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Đinh hương 15 nhánh",
+      "raw_name": "Đinh hương",
+      "quantity": 15,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Đường phèn 1 muỗng cà phê",
+      "raw_name": "Đường phèn",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Dầu hào 3.5 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 3.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Nước tương 2.5 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 2.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Sa tế 1 muỗng cà phê",
+      "raw_name": "Sa tế",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Tương ngọt 1 muỗng canh",
+      "raw_name": "Tương ngọt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 17
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 18
+    },
+    {
+      "raw_text": "Bột bắp pha loãng 1 muỗng canh",
+      "raw_name": "Bột bắp pha loãng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 19
+    },
+    {
+      "raw_text": "Bột năng 1/2 muỗng canh",
+      "raw_name": "Bột năng",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 20
+    },
+    {
+      "raw_text": "Dầu ăn 4 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 21
+    },
+    {
+      "raw_text": "Rau sống 500 gr (giá/ húng quế/ xà lách)",
+      "raw_name": "Rau sống",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "giá/ húng quế/ xà lách",
+      "display_order": 22
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ bột ngọt/ hạt nêm/ tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ bột ngọt/ hạt nêm/ tiêu",
+      "display_order": 23
+    }
+  ],
+  "scraped_at": "2026-08-19T18:15:41Z",
+  "page_title": "Cách nấu phở khô Gia Lai ngon miệng hấp dẫn chuẩn vị tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookProduct/thumb1-1200x676-13.jpg"
+}

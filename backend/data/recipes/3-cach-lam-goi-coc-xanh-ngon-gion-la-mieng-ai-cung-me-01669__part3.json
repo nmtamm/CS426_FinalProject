@@ -1,0 +1,93 @@
+{
+  "source_id": "01669",
+  "name": "Gỏi cóc xanh khô bò",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bfd31bf46289f87a.png",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-goi-coc-xanh-ngon-gion-la-mieng-ai-cung-me-01669",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-goi-coc-xanh-ngon-gion-la-mieng-ai-cung-me-01669",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cóc non 400 gr",
+      "raw_name": "Cóc non",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt hiểm 5 gr",
+      "raw_name": "Ớt hiểm",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu phộng 5 gr",
+      "raw_name": "Đậu phộng",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tắc 4 trái",
+      "raw_name": "Tắc",
+      "quantity": 4,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường trắng 1 muỗng canh",
+      "raw_name": "Đường trắng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt bột 1 muỗng canh",
+      "raw_name": "Ớt bột",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 1 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Khô bò 5 gr (tùy theo sở thích)",
+      "raw_name": "Khô bò",
+      "quantity": 5,
+      "unit": "gr",
+      "note": "tùy theo sở thích",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T17:55:50Z",
+  "page_title": "3 cách làm gỏi cóc xanh ngon, giòn, lạ miệng ai cũng mê",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/goi-coc-xanh-kho-bo-thumbnail.png"
+}

@@ -1,0 +1,71 @@
+{
+  "source_id": "04572",
+  "name": "Miến xào lòng gà",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ca6ad8b0229edbc8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-mien-xao-long-ga-don-gian-thom-ngon-tham-vi-04572",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-mien-xao-long-ga-don-gian-thom-ngon-tham-vi-04572",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lòng gà 200 gr (1 bộ)",
+      "raw_name": "Lòng gà",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "1 bộ",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Miến 300 gr",
+      "raw_name": "Miến",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tím 2 củ",
+      "raw_name": "Hành tím",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá/ngò rí 1 ít",
+      "raw_name": "Hành lá/ngò rí",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ tiêu/ hạt nêm/ đường/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ tiêu/ hạt nêm/ đường/ bột ngọt",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:12:48Z",
+  "page_title": "Cách làm miến xào lòng gà thơm ngon, đơn giản đổi vị cho cả nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2022/10/CookDish/cach-lam-nom-sua-hanh-tay-thom-ngon-hap-dan-don-gian-cho-gia-avt-1200x676-1.jpg"
+}

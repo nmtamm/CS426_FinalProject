@@ -1,0 +1,127 @@
+{
+  "source_id": "05651",
+  "name": "Chả tôm Thanh Hóa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2aeec1da907883b1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-tom-thanh-hoa-nong-hoi-hap-dan-tai-nha-05651",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-tom-thanh-hoa-nong-hoi-hap-dan-tai-nha-05651",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt ba chỉ 200 gr",
+      "raw_name": "Thịt ba chỉ",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tôm tươi 200 gr",
+      "raw_name": "Tôm tươi",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gấc 100 gr (đã lấy hạt)",
+      "raw_name": "Gấc",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "đã lấy hạt",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bánh phở 300 gr",
+      "raw_name": "Bánh phở",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đu đủ xanh 50 gr",
+      "raw_name": "Đu đủ xanh",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Cà rốt 50 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tím 1 muỗng cà phê (băm nhuyễn)",
+      "raw_name": "Hành tím",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "băm nhuyễn",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tỏi 1/3 muỗng cà phê (băm nhuyễn)",
+      "raw_name": "Tỏi",
+      "quantity": 0.333,
+      "unit": "muỗng cà phê",
+      "note": "băm nhuyễn",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ớt 1/3 muỗng cà phê (cắt lát)",
+      "raw_name": "Ớt",
+      "quantity": 0.333,
+      "unit": "muỗng cà phê",
+      "note": "cắt lát",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Rượu trắng 30 ml",
+      "raw_name": "Rượu trắng",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/hạt nêm/tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/hạt nêm/tiêu",
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T20:35:36Z",
+  "page_title": "Cách làm chả tôm Thanh Hóa nóng hổi, hấp dẫn tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookProduct/1200-1200x676-6.jpg"
+}

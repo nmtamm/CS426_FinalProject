@@ -1,0 +1,77 @@
+{
+  "source_id": "01396",
+  "name": "Trứng cút lắc phô mai",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b7133bf32e00407d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-trung-cut-lac-sa-te-toi-lac-pho-mai-cuc-de-lam-01396",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-trung-cut-lac-sa-te-toi-lac-pho-mai-cuc-de-lam-01396",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trứn cút 50 g",
+      "raw_name": "Trứn cút",
+      "quantity": 50,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột phô mai 100 gr",
+      "raw_name": "Bột phô mai",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột xù 100 gr",
+      "raw_name": "Bột xù",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột mì 100 gr",
+      "raw_name": "Bột mì",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Trứng gà 3 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 100 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành phi 1 muỗng canh",
+      "raw_name": "Hành phi",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:09:40Z",
+  "page_title": "3 Cách làm trứng cút lắc sa tế tỏi, lắc phô mai cực ngon độc đáo dễ làm",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/trung-cut-lac-pho-mai-thumbnail-1.jpg"
+}

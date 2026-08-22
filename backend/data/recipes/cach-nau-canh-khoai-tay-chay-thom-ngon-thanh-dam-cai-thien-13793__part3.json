@@ -1,0 +1,137 @@
+{
+  "source_id": "13793",
+  "name": "Canh khoai tây đậu phụ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/23a57fa32a819f63.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-canh-khoai-tay-chay-thom-ngon-thanh-dam-cai-thien-13793",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-canh-khoai-tay-chay-thom-ngon-thanh-dam-cai-thien-13793",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-canh",
+      "name": "Món canh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai tây 2 củ",
+      "raw_name": "Khoai tây",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà chua 1 trái",
+      "raw_name": "Cà chua",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu phụ 1 miếng (Đậu hũ)",
+      "raw_name": "Đậu phụ 1 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": "Đậu hũ",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá 1 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gừng 5 gr (1 lát)",
+      "raw_name": "Gừng",
+      "quantity": 5,
+      "unit": "gr",
+      "note": "1 lát",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 4 tép",
+      "raw_name": "Tỏi 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt hiểm 2 trái",
+      "raw_name": "Ớt hiểm",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột năng 3 muỗng canh",
+      "raw_name": "Bột năng",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước tương 3 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tương cà 2 muỗng canh",
+      "raw_name": "Tương cà",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Ớt sa tế 1/2 muỗng cà phê",
+      "raw_name": "Ớt sa tế",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Ớt bột 1/2 muỗng cà phê",
+      "raw_name": "Ớt bột",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu ăn 265 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 265,
+      "unit": "ml",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T18:48:37Z",
+  "page_title": "5 cách nấu canh khoai tây chay thơm ngon thanh đạm cải thiện dinh dưỡng",
+  "variant_index": 3,
+  "variant_count": 5,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/canh-khoai-tay-dau-phu-thumbnail.jpg"
+}

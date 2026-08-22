@@ -1,0 +1,141 @@
+{
+  "source_id": "01528",
+  "name": "Chân gà tàu xì",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bdb830caf44e3c57.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chan-ga-hap-tau-xi-va-hap-bia-dep-gion-ngon-tai-nha-01528",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chan-ga-hap-tau-xi-va-hap-bia-dep-gion-ngon-tai-nha-01528",
+  "servings_text": "Cho 2 - 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chân gà 500 gram",
+      "raw_name": "Chân gà 500 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Baking soda/ muối nở 15 gram",
+      "raw_name": "Baking soda/ muối nở 15 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dấm gạo 15 ml",
+      "raw_name": "Dấm gạo",
+      "quantity": 15,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng 30 gram",
+      "raw_name": "Gừng 30 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 5 gram",
+      "raw_name": "Tỏi 5 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Quế 2 gram",
+      "raw_name": "Quế 2 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hoa hồi 3 cái",
+      "raw_name": "Hoa hồi",
+      "quantity": 3,
+      "unit": "cái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột năng 100 gram",
+      "raw_name": "Bột năng 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu ăn 50 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Xì dầu 15 ml",
+      "raw_name": "Xì dầu",
+      "quantity": 15,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu hào 15 ml",
+      "raw_name": "Dầu hào",
+      "quantity": 15,
+      "unit": "ml",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Tương đậu đen 45 ml",
+      "raw_name": "Tương đậu đen",
+      "quantity": 45,
+      "unit": "ml",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu vừng 5 ml",
+      "raw_name": "Dầu vừng",
+      "quantity": 5,
+      "unit": "ml",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Bột ngũ vị hương 2 gram",
+      "raw_name": "Bột ngũ vị hương 2 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Tiêu xay 2 gram",
+      "raw_name": "Tiêu xay 2 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T18:15:55Z",
+  "page_title": "Cách làm chân gà hấp tàu xì, chân gà hấp bia đẹp giòn ngon tại nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/chan-ga-tau-xi-thumbnail.jpg"
+}

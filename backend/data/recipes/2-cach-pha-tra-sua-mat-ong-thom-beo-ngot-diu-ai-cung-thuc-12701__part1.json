@@ -1,0 +1,69 @@
+{
+  "source_id": "12701",
+  "name": "Trà sữa mật ong trân châu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/aacb9ce2887b6e6c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-pha-tra-sua-mat-ong-thom-beo-ngot-diu-ai-cung-thuc-12701",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-pha-tra-sua-mat-ong-thom-beo-ngot-diu-ai-cung-thuc-12701",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà đen 2 muỗng canh (hoặc 2 gói trà đen túi lọc)",
+      "raw_name": "Trà đen",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "hoặc 2 gói trà đen túi lọc",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trân châu đen 50 gr",
+      "raw_name": "Trân châu đen",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mật ong 4 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa tươi không đường 100 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường phèn 2 muỗng canh",
+      "raw_name": "Đường phèn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường nâu 1 muỗng canh",
+      "raw_name": "Đường nâu",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:10:23Z",
+  "page_title": "3 cách pha trà sữa mật ong thơm béo, ngọt dịu ai cũng thực hiện được",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/tra-sua-tran-chau-mat-ong-thumbnail.jpg"
+}

@@ -1,0 +1,51 @@
+{
+  "source_id": "12688",
+  "name": "Khô cá cơm kho tiêu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/099ba8c2f7a20da1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kho-ca-com-kho-tieu-dam-da-gia-vi-thom-ngon-an-la-12688",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kho-ca-com-kho-tieu-dam-da-gia-vi-thom-ngon-an-la-12688",
+  "servings_text": "Cho 6 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cá cơm khô 180 gr",
+      "raw_name": "Cá cơm khô",
+      "quantity": 180,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tỏi 10 tép",
+      "raw_name": "Tỏi 10 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước mắm 1/2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tiêu/đường 1 ít",
+      "raw_name": "Tiêu/đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:27:59Z",
+  "page_title": "Cách làm khô cá cơm kho tiêu đậm đà gia vị thơm ngon ăn là ghiền",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/1-1200x676-27.jpg"
+}

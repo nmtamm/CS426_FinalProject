@@ -1,0 +1,79 @@
+{
+  "source_id": "11062",
+  "name": "Canh bông hẹ đậu hũ nấm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d02d5e616e000009.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-canh-bong-he-dau-hu-nam-chay-thanh-mat-giai-nhiet-11062",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-canh-bong-he-dau-hu-nam-chay-thanh-mat-giai-nhiet-11062",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-canh",
+      "name": "Món canh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu hũ trắng 2 miếng (khoảng 100gr)",
+      "raw_name": "Đậu hũ trắng 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 100gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bông hẹ 300 gr",
+      "raw_name": "Bông hẹ",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành lá 2 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nấm rơm 100 gr",
+      "raw_name": "Nấm rơm",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hạt nêm chay 2 muỗng canh",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ bột ngọt/ tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ bột ngọt/ tiêu",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:39:27Z",
+  "page_title": "Cách nấu canh bông hẹ đậu hũ nấm chay thanh mát giải nhiệt",
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookProduct/cthum-1200x676.jpg"
+}

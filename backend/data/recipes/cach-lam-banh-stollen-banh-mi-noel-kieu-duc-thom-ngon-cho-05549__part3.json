@@ -1,0 +1,149 @@
+{
+  "source_id": "05549",
+  "name": "Bánh stollen socola",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/dcaf2eff322e9ca9.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-stollen-banh-mi-noel-kieu-duc-thom-ngon-cho-05549",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-stollen-banh-mi-noel-kieu-duc-thom-ngon-cho-05549",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cake flour 32 gr",
+      "raw_name": "Cake flour",
+      "quantity": 32,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột bánh mì 80 gr",
+      "raw_name": "Bột bánh mì",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bơ lạt 40 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ca cao nguyên chất 15 gr",
+      "raw_name": "Ca cao nguyên chất",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sữa 80 ml",
+      "raw_name": "Sữa",
+      "quantity": 80,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bánh hạnh nhân 32 gr",
+      "raw_name": "Bánh hạnh nhân",
+      "quantity": 32,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Socola chips đen 50 gr",
+      "raw_name": "Socola chips đen",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nam việt quất khô 30 gr",
+      "raw_name": "Nam việt quất khô",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nho khô 30 gr",
+      "raw_name": "Nho khô",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hạnh nhân lát 25 gr",
+      "raw_name": "Hạnh nhân lát",
+      "quantity": 25,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Men nở 2 gr",
+      "raw_name": "Men nở",
+      "quantity": 2,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Rượu rum 10 ml",
+      "raw_name": "Rượu rum",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Mật ong 3 gr",
+      "raw_name": "Mật ong",
+      "quantity": 3,
+      "unit": "gr",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Đường cát 40 gr",
+      "raw_name": "Đường cát",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Đường bột 40 gr",
+      "raw_name": "Đường bột",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Muối 20 gr",
+      "raw_name": "Muối",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T19:39:57Z",
+  "page_title": "3 cách làm bánh stollen - bánh mì Noel kiểu Đức thơm ngon cho Giáng Sinh",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookRecipe/Avatar/banh-stollen-socola-thumbnail.jpg"
+}

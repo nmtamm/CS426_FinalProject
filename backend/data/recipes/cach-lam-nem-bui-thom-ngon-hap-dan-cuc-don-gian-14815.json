@@ -1,0 +1,91 @@
+{
+  "source_id": "14815",
+  "name": "Nem Bùi Bắc Ninh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/622e196d9bebf997.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nem-bui-thom-ngon-hap-dan-cuc-don-gian-14815",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nem-bui-thom-ngon-hap-dan-cuc-don-gian-14815",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt nạc heo 300 gr (nên chọn thịt nạc thăn)",
+      "raw_name": "Thịt nạc heo",
+      "quantity": 300,
+      "unit": "gr",
+      "note": "nên chọn thịt nạc thăn",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bì heo 200 gr",
+      "raw_name": "Bì heo",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mỡ heo 150 gr (chọn mỡ ở phần gáy heo)",
+      "raw_name": "Mỡ heo",
+      "quantity": 150,
+      "unit": "gr",
+      "note": "chọn mỡ ở phần gáy heo",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Thính gạo 50 gr",
+      "raw_name": "Thính gạo",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lá sung 15 lá",
+      "raw_name": "Lá sung",
+      "quantity": 15,
+      "unit": "lá",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 3 củ (băm nhuyễn)",
+      "raw_name": "Tỏi",
+      "quantity": 3,
+      "unit": "củ",
+      "note": "băm nhuyễn",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt 1 quả (băm nhuyễn)",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "băm nhuyễn",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ bột ngọt",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T20:28:52Z",
+  "page_title": "Cách làm nem Bùi thơm ngon, hấp dẫn, cực đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookDish/cach-lam-nem-bui-thom-ngon-hap-dan-cuc-don-gian-avt-1200x676.jpg"
+}

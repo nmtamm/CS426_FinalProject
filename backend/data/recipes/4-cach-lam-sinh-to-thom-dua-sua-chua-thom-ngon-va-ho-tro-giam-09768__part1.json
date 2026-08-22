@@ -1,0 +1,81 @@
+{
+  "source_id": "09768",
+  "name": "Sinh tố dứa (thơm)",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3053ee7158000c05.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-sinh-to-thom-dua-sua-chua-thom-ngon-va-ho-tro-giam-09768",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-sinh-to-thom-dua-sua-chua-thom-ngon-va-ho-tro-giam-09768",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dứa 1/2 trái (thơm)",
+      "raw_name": "Dứa",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": "thơm",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa dừa 100 ml",
+      "raw_name": "Sữa dừa",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đặc 2 muỗng canh",
+      "raw_name": "Sữa đặc",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Húng lủi 4 lá",
+      "raw_name": "Húng lủi",
+      "quantity": 4,
+      "unit": "lá",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chanh 1/2 trái",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đá đông lạnh 50 gr",
+      "raw_name": "Đá đông lạnh",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:49:02Z",
+  "page_title": "7 cách làm sinh tố dứa (thơm) chua ngọt thanh mát đẹp da giữ dáng",
+  "variant_index": 1,
+  "variant_count": 7,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/sinh-to-thom-dua-thumbnail.jpg"
+}

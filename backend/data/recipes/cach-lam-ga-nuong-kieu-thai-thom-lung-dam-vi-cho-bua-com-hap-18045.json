@@ -1,0 +1,135 @@
+{
+  "source_id": "18045",
+  "name": "Gà nướng kiểu Thái",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3980204110a05e59.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-nuong-kieu-thai-thom-lung-dam-vi-cho-bua-com-hap-18045",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-nuong-kieu-thai-thom-lung-dam-vi-cho-bua-com-hap-18045",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà ta 1 con (nguyên con)",
+      "raw_name": "Gà ta 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": "nguyên con",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hạt ngò 2 muỗng cà phê",
+      "raw_name": "Hạt ngò",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tiêu sọ 1 muỗng canh",
+      "raw_name": "Tiêu sọ",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt hiểm 6 trái",
+      "raw_name": "Ớt hiểm",
+      "quantity": 6,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 5 tép",
+      "raw_name": "Tỏi 5 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sả băm 2 nhánh",
+      "raw_name": "Sả băm",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Rễ ngò 3 nhánh",
+      "raw_name": "Rễ ngò",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Chanh 15 lá",
+      "raw_name": "Chanh",
+      "quantity": 15,
+      "unit": "lá",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Mật ong 2 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước tương 1 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu màu điều 2 muỗng canh",
+      "raw_name": "Dầu màu điều",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Bột nêm 3 muỗng canh",
+      "raw_name": "Bột nêm",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Ngũ vị hương 1/3 muỗng cà phê",
+      "raw_name": "Ngũ vị hương",
+      "quantity": 0.333,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T18:10:03Z",
+  "page_title": "Cách làm gà nướng kiểu Thái bùng nổ vị giác cay nồng đậm vị",
+  "original_image_url": "https://cdn.tgdd.vn/2022/08/CookDish/cach-lam-ga-nuong-kieu-thai-thom-lung-cho-bua-com-hap-dan-avt-1200x676.jpg"
+}

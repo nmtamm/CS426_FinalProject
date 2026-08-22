@@ -1,0 +1,99 @@
+{
+  "source_id": "24380",
+  "name": "nước sâm bí đao",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0120b6d6e8440a7c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-nuoc-sam-bi-dao-thanh-mat-giai-nhiet-tai-nha-cuc-don-24380",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-nuoc-sam-bi-dao-thanh-mat-giai-nhiet-tai-nha-cuc-don-24380",
+  "servings_text": "Cho 4 lít nước sâm",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bí đao tươi 2 kg (gồm 1kg dùng tươi và 1kg phơi/sấy khô rang vàng)",
+      "raw_name": "Bí đao tươi",
+      "quantity": 2,
+      "unit": "kg",
+      "note": "gồm 1kg dùng tươi và 1kg phơi/sấy khô rang vàng",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường phèn 100 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường cát 100 gr",
+      "raw_name": "Đường cát",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "La hán quả 20 gr (1 quả)",
+      "raw_name": "La hán quả",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "1 quả",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Thục địa 10 gr",
+      "raw_name": "Thục địa",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Mía lau 0.5 kg",
+      "raw_name": "Mía lau",
+      "quantity": 0.5,
+      "unit": "kg",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Lá dứa 100 gr",
+      "raw_name": "Lá dứa",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hoa cúc 3 gr (10 đến 15 bông)",
+      "raw_name": "Hoa cúc",
+      "quantity": 3,
+      "unit": "gr",
+      "note": "10 đến 15 bông",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước 4 lít",
+      "raw_name": "Nước 4 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T19:46:19Z",
+  "page_title": "Cách nấu nước sâm bí đao thanh mát, giải nhiệt tại nhà cực đơn giản",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/c%C3%A1ch%20n%E1%BA%A5u%20n%C6%B0%E1%BB%9Bc%20s%C3%A2m%20b%C3%AD%20%C4%91ao%201200x676.jpg"
+}

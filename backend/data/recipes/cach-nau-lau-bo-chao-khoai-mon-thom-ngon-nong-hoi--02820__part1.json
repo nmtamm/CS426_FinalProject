@@ -1,0 +1,153 @@
+{
+  "source_id": "02820",
+  "name": "Lẩu bò khoai môn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/84bb932af4e23035.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-lau-bo-chao-khoai-mon-thom-ngon-nong-hoi--02820",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-lau-bo-chao-khoai-mon-thom-ngon-nong-hoi--02820",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-lau",
+      "name": "Món lẩu"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bắp bò 500 gr",
+      "raw_name": "Thịt bắp bò",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sườn bò 1 kg",
+      "raw_name": "Sườn bò",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Khoai môn 300 gr",
+      "raw_name": "Khoai môn",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đậu hũ trắng 100 gr (2 miếng)",
+      "raw_name": "Đậu hũ trắng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "2 miếng",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tàu hũ ky 20 gr",
+      "raw_name": "Tàu hũ ky",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị lẩu bò 1 gói",
+      "raw_name": "Gia vị lẩu bò",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Sả 4 nhánh",
+      "raw_name": "Sả",
+      "quantity": 4,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hành tím 3 củ",
+      "raw_name": "Hành tím",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đầu hành lá 10 nhánh",
+      "raw_name": "Đầu hành lá",
+      "quantity": 10,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gừng 1 nhánh",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu ăn 4 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Giấm ăn 200 ml",
+      "raw_name": "Giấm ăn",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Vắt mì ăn liền 1 ít",
+      "raw_name": "Vắt mì ăn liền",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Rau ăn kèm 1 ít (rau má/ mồng tơi/ rau cải đắng)",
+      "raw_name": "Rau ăn kèm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "rau má/ mồng tơi/ rau cải đắng",
+      "display_order": 15
+    },
+    {
+      "raw_text": "Muối 2.5 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 2.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T18:29:07Z",
+  "page_title": "2 cách nấu lẩu bò khoai môn thơm ngon nóng hổi cho ngày mưa se lạnh",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/lau-bo-khoai-mon-thumbnail.jpg"
+}

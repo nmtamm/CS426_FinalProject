@@ -1,0 +1,93 @@
+{
+  "source_id": "02077",
+  "name": "Cơm chiên nấm đông cô",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ca8887c502127fe3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-com-chien-chay-bat-buu-chay-va-chien-nam-bao-ngu-02077",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-com-chien-chay-bat-buu-chay-va-chien-nam-bao-ngu-02077",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cơm ấm 1 tô",
+      "raw_name": "Cơm ấm",
+      "quantity": 1,
+      "unit": "tô",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm đông cô tươi 100 gram",
+      "raw_name": "Nấm đông cô tươi 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cải bó xôi 100 gram",
+      "raw_name": "Cải bó xôi 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 1/2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đậu cove 100 gram",
+      "raw_name": "Đậu cove 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bắp Mỹ 1/2 trái",
+      "raw_name": "Bắp Mỹ",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Chả lụa 100 gram",
+      "raw_name": "Chả lụa 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hạt điều 50 gram",
+      "raw_name": "Hạt điều 50 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị 1 ít (muối/ hạt nêm/ đường)",
+      "raw_name": "Gia vị",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ hạt nêm/ đường",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:42:06Z",
+  "page_title": "Cách làm 4 món cơm chiên bát bửu chay và cơm chiên nấm thơm ngon",
+  "variant_index": 4,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2023/11/CookRecipe/Avatar/com-chien-nam-dong-co-thumbnail.jpg"
+}

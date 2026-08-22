@@ -1,0 +1,57 @@
+{
+  "source_id": "04231",
+  "name": "Gà cuộn lạp xưởng chiên",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0595ca0587a55d98.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-ga-cuon-chien-gion-ngon-hap-dan-an-la-ghien-04231",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-ga-cuon-chien-gion-ngon-hap-dan-an-la-ghien-04231",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ức gà 300 gr",
+      "raw_name": "Ức gà",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lạp xưởng 4 cái",
+      "raw_name": "Lạp xưởng",
+      "quantity": 4,
+      "unit": "cái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột chiên xù 100 gr",
+      "raw_name": "Bột chiên xù",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sốt Mayonnaise 4 muỗng",
+      "raw_name": "Sốt Mayonnaise",
+      "quantity": 4,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:25:03Z",
+  "page_title": "3 cách làm gà cuộn chiên giòn ngon, hấp dẫn ăn là ghiền",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/1200gclx1.jpg"
+}

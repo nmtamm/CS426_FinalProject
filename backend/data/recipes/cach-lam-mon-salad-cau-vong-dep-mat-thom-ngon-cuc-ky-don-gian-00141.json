@@ -1,0 +1,131 @@
+{
+  "source_id": "00141",
+  "name": "Salad cầu vồng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/839459178fcb32db.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-salad-cau-vong-dep-mat-thom-ngon-cuc-ky-don-gian-00141",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-salad-cau-vong-dep-mat-thom-ngon-cuc-ky-don-gian-00141",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ức gà 150 g",
+      "raw_name": "Ức gà",
+      "quantity": 150,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bắp Mỹ 1 trái",
+      "raw_name": "Bắp Mỹ",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt chuông 300 g",
+      "raw_name": "Ớt chuông",
+      "quantity": 300,
+      "unit": "g",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bắp cải tím 150 g",
+      "raw_name": "Bắp cải tím",
+      "quantity": 150,
+      "unit": "g",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dưa leo 150 g",
+      "raw_name": "Dưa leo",
+      "quantity": 150,
+      "unit": "g",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đậu Hà Lan 150 g",
+      "raw_name": "Đậu Hà Lan",
+      "quantity": 150,
+      "unit": "g",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Cà rốt 150 g",
+      "raw_name": "Cà rốt",
+      "quantity": 150,
+      "unit": "g",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành tây cắt múi cau 10 g",
+      "raw_name": "Hành tây cắt múi cau",
+      "quantity": 10,
+      "unit": "g",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hành tây băm 15 g",
+      "raw_name": "Hành tây băm",
+      "quantity": 15,
+      "unit": "g",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Giấm vang trắng 50 g",
+      "raw_name": "Giấm vang trắng",
+      "quantity": 50,
+      "unit": "g",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Cỏ xạ hương 5 g",
+      "raw_name": "Cỏ xạ hương",
+      "quantity": 5,
+      "unit": "g",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Ngò tây băm 20 g",
+      "raw_name": "Ngò tây băm",
+      "quantity": 20,
+      "unit": "g",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Hành lá băm 10 g",
+      "raw_name": "Hành lá băm",
+      "quantity": 10,
+      "unit": "g",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Đường/ muối/ mù tạt/ tiêu trắng/ dầu oliu/...)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Đường/ muối/ mù tạt/ tiêu trắng/ dầu oliu/...",
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T17:58:23Z",
+  "page_title": "Cách làm món salad cầu vồng đẹp mắt, thơm ngon, cực kỳ đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/2020/06/CookProduct/1-730x412.jpg"
+}

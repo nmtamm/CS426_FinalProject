@@ -1,0 +1,97 @@
+{
+  "source_id": "01574",
+  "name": "Nem tai thính",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/17a6da7ad4202254.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nem-thinh-bi-heo-va-nem-tai-thinh-cuc-gion-thom-01574",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nem-thinh-bi-heo-va-nem-tai-thinh-cuc-gion-thom-01574",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tai heo 200 gr",
+      "raw_name": "Tai heo",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt má heo 100 gr",
+      "raw_name": "Thịt má heo",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Thính gạo rang 100 gr (làm sẵn)",
+      "raw_name": "Thính gạo rang",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "làm sẵn",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 1 củ (băm nhỏ)",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "băm nhỏ",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột canh 2 muỗng cà phê",
+      "raw_name": "Bột canh",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Giấm ăn 3 muỗng cà phê",
+      "raw_name": "Giấm ăn",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước lọc 3 muỗng canh",
+      "raw_name": "Nước lọc",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (bột ngọt/ đường/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "bột ngọt/ đường/ tiêu xay",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T17:56:13Z",
+  "page_title": "2 cách làm nem tai thính và nem thính bì heo giòn ngon đơn giản ăn là mê",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2022/03/CookRecipe/Avatar/Duanmoi.jpg"
+}

@@ -1,0 +1,73 @@
+{
+  "source_id": "04915",
+  "name": "Bánh khoai lang tím cuộn bằng bột nếp",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/593744eb8a6e5a5b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-khoai-lang-tim-cuon-thom-ngon-dep-mat-de-lam-04915",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-khoai-lang-tim-cuon-thom-ngon-dep-mat-de-lam-04915",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột nếp 200 gr",
+      "raw_name": "Bột nếp",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Khoai lang tím 300 gr",
+      "raw_name": "Khoai lang tím",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đặc 2 muỗng canh",
+      "raw_name": "Sữa đặc",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 3 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lá chuối 1 ít",
+      "raw_name": "Lá chuối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:16:05Z",
+  "page_title": "2 Cách làm bánh khoai lang tím cuộn thơm ngon, đẹp mắt, ai cũng có thể làm",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/banh-khoai-lang-tim-cuon-bang-bot-bep-thumbnail.jpg"
+}

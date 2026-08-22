@@ -1,0 +1,109 @@
+{
+  "source_id": "05481",
+  "name": "Salad bắp cải tí hon hạt hồ đào",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/412447d23cd05646.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-salad-bap-cai-ti-hon-tuoi-mat-gion-ngon-hap-dan-05481",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-salad-bap-cai-ti-hon-tuoi-mat-gion-ngon-hap-dan-05481",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bắp cải tí hon 900 gr",
+      "raw_name": "Bắp cải tí hon",
+      "quantity": 900,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dầu ô liu 6 muỗng canh",
+      "raw_name": "Dầu ô liu",
+      "quantity": 6,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hạt hồ đào 60 gr",
+      "raw_name": "Hạt hồ đào",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Phô mai ricotta 100 gr",
+      "raw_name": "Phô mai ricotta",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Giấm balsamic 1 muỗng canh",
+      "raw_name": "Giấm balsamic",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Mật ong 1/2 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột quế 1/4 muỗng cà phê (cinnamon)",
+      "raw_name": "Bột quế",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": "cinnamon",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nam việt quất hoặc nho khô 2 muỗng canh",
+      "raw_name": "Nam việt quất hoặc nho khô",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng cà phê",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Muối/tiêu 1 ít",
+      "raw_name": "Muối/tiêu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đường nâu 4 muỗng canh",
+      "raw_name": "Đường nâu",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T17:56:19Z",
+  "page_title": "2 cách làm salad bắp cải tí hon tươi mát giòn ngon hấp dẫn",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookRecipe/Avatar/salad-bap-cai-ti-hon-hat-ho-dao-thumbnail.jpg"
+}

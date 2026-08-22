@@ -1,0 +1,54 @@
+{
+  "source_id": "08139",
+  "name": "Snack rong biển lắc phô mai",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/944ad005563f35f0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-snack-rong-bien-kep-hat-bo-duong-gion-ngon-cuc-de-08139",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-snack-rong-bien-kep-hat-bo-duong-gion-ngon-cuc-de-08139",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rong biển vuông 1 lá (loại to dùng để cuốn cơm)",
+      "raw_name": "Rong biển vuông",
+      "quantity": 1,
+      "unit": "lá",
+      "note": "loại to dùng để cuốn cơm",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bánh tráng mỏng mè đen 1 lá (hoặc bánh tráng mỏng thường)",
+      "raw_name": "Bánh tráng mỏng mè đen",
+      "quantity": 1,
+      "unit": "lá",
+      "note": "hoặc bánh tráng mỏng thường",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột phô mai 1 ít",
+      "raw_name": "Bột phô mai",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 100 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:12:15Z",
+  "page_title": "3 cách làm snack rong biển lắc phô mai và kẹp hạt giòn ngon dễ làm",
+  "variant_index": 2,
+  "variant_count": 3,
+  "note": "công thức được chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookRecipe/Avatar/snack-rong-bien-lac-pho-mai-cong-thuc-duoc-chia-se-tu-nguoi-dung-thumbnail.jpg"
+}

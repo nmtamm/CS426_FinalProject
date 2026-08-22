@@ -1,0 +1,67 @@
+{
+  "source_id": "23430",
+  "name": "Hành tím thái lát ngâm ăn liền",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bd22ae0459f9e024.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-ngam-hanh-tim-thai-lat-an-lien-an-bun-bo-hue-chuan-vi-23430",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-ngam-hanh-tim-thai-lat-an-lien-an-bun-bo-hue-chuan-vi-23430",
+  "servings_text": "Cho 300gr hành củ",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hành củ 300 gr (hành Cô Đơn)",
+      "raw_name": "Hành củ",
+      "quantity": 300,
+      "unit": "gr",
+      "note": "hành Cô Đơn",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 100 gr",
+      "raw_name": "Đường",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Giấm gạo 100 ml",
+      "raw_name": "Giấm gạo",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước lọc 100 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 1 thìa cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "thìa cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T17:51:28Z",
+  "page_title": "Cách ngâm hành tím thái lát ăn liền ăn bún bò Huế chuẩn vị",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/cach-ngam-hanh-tim-thai-lat-an-lien-an-bun-bo-hue-chuan-vil.jpg"
+}

@@ -1,0 +1,85 @@
+{
+  "source_id": "07269",
+  "name": "Bò tái cuốn cải xanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/796af7c15df575ba.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-bo-cuon-cai-xanh-hap-dan-de-lam-tai-nha-cho-bua-an-07269",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-bo-cuon-cai-xanh-hap-dan-de-lam-tai-nha-cho-bua-an-07269",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò phi lê 250 gr",
+      "raw_name": "Thịt bò phi lê",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cải bẹ xanh 1 bó (khoảng 200gr)",
+      "raw_name": "Cải bẹ xanh 1 bó",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 200gr",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nấm hương khô 10 cái (nấm đông cô khô)",
+      "raw_name": "Nấm hương khô",
+      "quantity": 10,
+      "unit": "cái",
+      "note": "nấm đông cô khô",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng tươi 1 củ",
+      "raw_name": "Gừng tươi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt sừng 2 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Xì dầu đặc hương nấm 4 muỗng canh",
+      "raw_name": "Xì dầu đặc hương nấm",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Mù tạt 1 muỗng cà phê",
+      "raw_name": "Mù tạt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối/tiêu 1 ít",
+      "raw_name": "Muối/tiêu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:37:28Z",
+  "page_title": "3 Cách làm bò cuốn lá cải siêu ngon cho ngày nắng hanh hao",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookRecipe/Avatar/bo-tai-cuon-cai-xanh-thumbnail.jpg"
+}

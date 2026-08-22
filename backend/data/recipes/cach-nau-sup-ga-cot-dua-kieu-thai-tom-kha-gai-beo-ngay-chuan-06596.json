@@ -1,0 +1,147 @@
+{
+  "source_id": "06596",
+  "name": "Súp gà cốt dừa kiểu Thái - Tom Kha Gai",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/42544d472e0ae8c2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-sup-ga-cot-dua-kieu-thai-tom-kha-gai-beo-ngay-chuan-06596",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-sup-ga-cot-dua-kieu-thai-tom-kha-gai-beo-ngay-chuan-06596",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ức gà 1 miếng",
+      "raw_name": "Ức gà 1 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm linh chi nâu 150 gr (có thể thay thế bằng các loại khác tùy sở thích)",
+      "raw_name": "Nấm linh chi nâu",
+      "quantity": 150,
+      "unit": "gr",
+      "note": "có thể thay thế bằng các loại khác tùy sở thích",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước cốt dừa 400 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước dùng gà 500 ml",
+      "raw_name": "Nước dùng gà",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cà chua 1 trái",
+      "raw_name": "Cà chua",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tím 4 củ",
+      "raw_name": "Hành tím",
+      "quantity": 4,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành lá 2 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Sả 2 cây",
+      "raw_name": "Sả",
+      "quantity": 2,
+      "unit": "cây",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Riềng 1 củ",
+      "raw_name": "Riềng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Ớt tươi 1 trái",
+      "raw_name": "Ớt tươi",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Ngò rí 1 ít",
+      "raw_name": "Ngò rí",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Lá chanh 3 lá",
+      "raw_name": "Lá chanh",
+      "quantity": 3,
+      "unit": "lá",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Chanh 2 trái",
+      "raw_name": "Chanh",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Đường thốt nốt 2 muỗng cà phê",
+      "raw_name": "Đường thốt nốt",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T18:14:35Z",
+  "page_title": "Cách nấu súp gà cốt dừa kiểu Thái - Tom Kha Gai béo ngậy chuẩn vị Thái",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/Thumb-1200x676-10.jpg"
+}

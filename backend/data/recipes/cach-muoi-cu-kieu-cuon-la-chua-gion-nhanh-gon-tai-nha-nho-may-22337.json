@@ -1,0 +1,103 @@
+{
+  "source_id": "22337",
+  "name": "Kiệu cuốn lá",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b3db0d1477827843.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-muoi-cu-kieu-cuon-la-chua-gion-nhanh-gon-tai-nha-nho-may-22337",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-muoi-cu-kieu-cuon-la-chua-gion-nhanh-gon-tai-nha-nho-may-22337",
+  "servings_text": "Cho 1kg dưa kiệu",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Kiệu có lá 1 kg",
+      "raw_name": "Kiệu có lá",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước mắm 1 chén",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 1 chén",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Giấm 1/3 chén",
+      "raw_name": "Giấm",
+      "quantity": 0.333,
+      "unit": "chén",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước lọc 1 chén",
+      "raw_name": "Nước lọc",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt chuông cỡ vừa 1 quả",
+      "raw_name": "Ớt chuông cỡ vừa",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt đỏ 3 quả (2 quả ớt sừng)",
+      "raw_name": "Ớt đỏ",
+      "quantity": 3,
+      "unit": "quả",
+      "note": "2 quả ớt sừng",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tỏi lớn 4 tép",
+      "raw_name": "Tỏi lớn 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gừng nhỏ 1 củ",
+      "raw_name": "Gừng nhỏ",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Muối hạt 1 ít",
+      "raw_name": "Muối hạt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T19:34:44Z",
+  "page_title": "Cách muối củ kiệu cuốn lá chua giòn, nhanh gọn tại nhà nhờ máy xay tỏi ớt",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Ch%C6%B0a%20c%C3%B3%20t%C3%AAn%20%281200%20x%20676%20px%29.jpg"
+}

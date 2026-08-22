@@ -1,0 +1,153 @@
+{
+  "source_id": "10573",
+  "name": "Lẩu đuôi bò kim chi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/803fd4b4cb873fb6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-lau-bo-kim-chi-chua-cay-ngon-hap-dan-de-lam-cho-10573",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-lau-bo-kim-chi-chua-cay-ngon-hap-dan-de-lam-cho-10573",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-lau",
+      "name": "Món lẩu"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đuôi bò 1 kg",
+      "raw_name": "Đuôi bò",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt bắp bò 200 gr",
+      "raw_name": "Thịt bắp bò",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Kim chi 300 gr",
+      "raw_name": "Kim chi",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rau cải 200 gr",
+      "raw_name": "Rau cải",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nấm đùi gà 300 gr",
+      "raw_name": "Nấm đùi gà",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Cà chua 2 trái",
+      "raw_name": "Cà chua",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt sa tế 2 muỗng canh",
+      "raw_name": "Ớt sa tế",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Sả 3 tép",
+      "raw_name": "Sả 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Hành tím băm 1/2 muỗng canh",
+      "raw_name": "Hành tím băm",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Tỏi băm 1/2 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Viên thả lẩu 1 ít (cá viên/ bò viên/ đậu hũ hải sản)",
+      "raw_name": "Viên thả lẩu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "cá viên/ bò viên/ đậu hũ hải sản",
+      "display_order": 13
+    },
+    {
+      "raw_text": "Bột ớt Hàn Quốc 1/2 muỗng canh",
+      "raw_name": "Bột ớt Hàn Quốc",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ muối/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ muối/ hạt nêm",
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T18:21:17Z",
+  "page_title": "2 cách nấu lẩu bò kim chi chua cay ngon hấp dẫn dễ làm cho bữa tiệc",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookRecipe/Avatar/lau-duoi-bo-kim-chi-thumbnail-2.jpg"
+}

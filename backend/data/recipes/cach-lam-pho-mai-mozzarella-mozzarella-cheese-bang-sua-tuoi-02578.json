@@ -1,0 +1,47 @@
+{
+  "source_id": "02578",
+  "name": "Phô mai Mozzarella - Mozzarella Cheese",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/71d494ee8e5b60af.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-pho-mai-mozzarella-mozzarella-cheese-bang-sua-tuoi-02578",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-pho-mai-mozzarella-mozzarella-cheese-bang-sua-tuoi-02578",
+  "servings_text": "Cho 600gr phô mai",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sữa bò tươi 4 lít",
+      "raw_name": "Sữa bò tươi 4 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Axit citric 8 gr",
+      "raw_name": "Axit citric",
+      "quantity": 8,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rennet 10 ml (12 giọt)",
+      "raw_name": "Rennet",
+      "quantity": 10,
+      "unit": "ml",
+      "note": "12 giọt",
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:27:02Z",
+  "page_title": "Cách làm phô mai Mozzarella - Mozzarella cheese bằng sữa tươi đơn giàn",
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookProduct/Untitled-1-1200x676-7.jpg"
+}

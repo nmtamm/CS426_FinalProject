@@ -1,0 +1,85 @@
+{
+  "source_id": "04550",
+  "name": "Cocktail nhện đen",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4de7d37c21b04c58.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/5-cach-lam-cocktail-cho-dem-tiec-halloween-tai-nha-cuc-don-04550",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/5-cach-lam-cocktail-cho-dem-tiec-halloween-tai-nha-cuc-don-04550",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rượu Tequila 116 ml",
+      "raw_name": "Rượu Tequila",
+      "quantity": 116,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rượu Triple sec 56 ml (rượu vỏ cam)",
+      "raw_name": "Rượu Triple sec",
+      "quantity": 56,
+      "unit": "ml",
+      "note": "rượu vỏ cam",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước cốt chanh 50 ml",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường cát 2 muỗng cà phê",
+      "raw_name": "Đường cát",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Màu thực phẩm xanh dương 1 ít",
+      "raw_name": "Màu thực phẩm xanh dương",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Màu thực phẩm xanh lá 1 ít",
+      "raw_name": "Màu thực phẩm xanh lá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Màu thực phẩm đỏ 1 ít",
+      "raw_name": "Màu thực phẩm đỏ",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đá viên 100 gr",
+      "raw_name": "Đá viên",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:03:42Z",
+  "page_title": "7 cách làm cocktail cho đêm tiệc Halloween tại nhà cực đơn giản",
+  "variant_index": 1,
+  "variant_count": 7,
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookRecipe/Avatar/1.jpg"
+}

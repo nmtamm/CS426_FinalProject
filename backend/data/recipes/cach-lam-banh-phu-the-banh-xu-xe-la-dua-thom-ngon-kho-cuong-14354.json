@@ -1,0 +1,95 @@
+{
+  "source_id": "14354",
+  "name": "Bánh phu thê - bánh xu xê lá dứa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c313c8a7dcb5e728.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-phu-the-banh-xu-xe-la-dua-thom-ngon-kho-cuong-14354",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-phu-the-banh-xu-xe-la-dua-thom-ngon-kho-cuong-14354",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột năng 200 gr",
+      "raw_name": "Bột năng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu xanh cà vỏ 70 gr",
+      "raw_name": "Đậu xanh cà vỏ",
+      "quantity": 70,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá dứa 5 lá",
+      "raw_name": "Lá dứa",
+      "quantity": 5,
+      "unit": "lá",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cơm dừa tươi 200 gr",
+      "raw_name": "Cơm dừa tươi",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Mè trắng rang 1 ít",
+      "raw_name": "Mè trắng rang",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lá chuối 1 ít",
+      "raw_name": "Lá chuối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 10 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường 170 gr",
+      "raw_name": "Đường",
+      "quantity": 170,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:18:36Z",
+  "page_title": "Cách làm bánh phu thê - bánh xu xê lá dứa thơm ngon khó cưỡng cực dễ làm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-banh-phu-the-banh-xu-xe-la-dua-thom-ngon-kho-cuong-avt-1200x676.jpg"
+}

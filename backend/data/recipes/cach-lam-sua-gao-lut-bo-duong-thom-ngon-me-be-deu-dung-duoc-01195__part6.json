@@ -1,0 +1,53 @@
+{
+  "source_id": "01195",
+  "name": "Sữa gạo lứt óc chó",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c0577fcec30bbbf3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-gao-lut-bo-duong-thom-ngon-me-be-deu-dung-duoc-01195",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-gao-lut-bo-duong-thom-ngon-me-be-deu-dung-duoc-01195",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gạo lứt 20 gr",
+      "raw_name": "Gạo lứt",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Óc chó 10 hạt",
+      "raw_name": "Óc chó 10 hạt",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước 1 lít",
+      "raw_name": "Nước 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường/ Muối 1 ít",
+      "raw_name": "Đường/ Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:57:10Z",
+  "page_title": "6 cách làm sữa gạo lứt giảm cân bổ dưỡng thơm ngon, mẹ và bé đều dùng được",
+  "variant_index": 6,
+  "variant_count": 6,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/sua-gao-lut-oc-cho-thumbnail.jpg"
+}

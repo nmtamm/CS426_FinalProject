@@ -1,0 +1,91 @@
+{
+  "source_id": "24259",
+  "name": "Đùi gà sốt chua ngọt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/66093b8d404f920c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dui-ga-sot-chua-ngot-gion-rum-thom-ngon-chuan-vi-tai-24259",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dui-ga-sot-chua-ngot-gion-rum-thom-ngon-chuan-vi-tai-24259",
+  "servings_text": "Cho 3 - 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đùi gà 650 gr (khoảng 5 cái)",
+      "raw_name": "Đùi gà",
+      "quantity": 650,
+      "unit": "gr",
+      "note": "khoảng 5 cái",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lá chanh 1 ít",
+      "raw_name": "Lá chanh",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tắc 7 quả (quất)",
+      "raw_name": "Tắc",
+      "quantity": 7,
+      "unit": "quả",
+      "note": "quất",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Vừng vàng 1 muỗng canh (mè trắng)",
+      "raw_name": "Vừng vàng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "mè trắng",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột chiên giòn 3 muỗng canh (hoặc bột bắp)",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": "hoặc bột bắp",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột ớt/ bột tỏi 1 ít (nếu có)",
+      "raw_name": "Bột ớt/ bột tỏi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "nếu có",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ nước mắm/ hạt nêm/ tiêu xay/ dầu ăn)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ nước mắm/ hạt nêm/ tiêu xay/ dầu ăn",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:03:45Z",
+  "page_title": "Cách làm đùi gà sốt chua ngọt giòn rụm, thơm ngon chuẩn vị tại nhà",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t03%201200676%20-%202026-03-27T105329.857.jpg"
+}

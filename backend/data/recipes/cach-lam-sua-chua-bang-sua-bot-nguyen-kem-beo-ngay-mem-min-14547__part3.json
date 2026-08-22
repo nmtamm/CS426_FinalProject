@@ -1,0 +1,45 @@
+{
+  "source_id": "14547",
+  "name": "Sữa chua bằng sữa bột không cần sữa chua cái",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/04ca784991877581.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-chua-bang-sua-bot-nguyen-kem-beo-ngay-mem-min-14547",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-chua-bang-sua-bot-nguyen-kem-beo-ngay-mem-min-14547",
+  "servings_text": "Cho 5 hũ",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sữa bột 240 gr",
+      "raw_name": "Sữa bột",
+      "quantity": 240,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Giấm trắng 90 ml",
+      "raw_name": "Giấm trắng",
+      "quantity": 90,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước lọc 120 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 120,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T20:17:01Z",
+  "page_title": "3 cách làm sữa chua bằng sữa bột nguyên kem béo ngậy mềm mịn đơn giản",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/sua-chua-bang-sua-bot-khong-can-sua-chua-cai-thumbnail.jpg"
+}

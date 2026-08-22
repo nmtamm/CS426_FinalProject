@@ -1,0 +1,110 @@
+{
+  "source_id": "11662",
+  "name": "Khô gà miếng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d5d51221d0e70e48.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kho-ga-mieng-moi-la-vang-uom-thom-ngon-hap-dan-11662",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kho-ga-mieng-moi-la-vang-uom-thom-ngon-hap-dan-11662",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ức gà 1 kg",
+      "raw_name": "Ức gà",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột hành 1 ít",
+      "raw_name": "Bột hành",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột tỏi 1 ít",
+      "raw_name": "Bột tỏi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột sả 1 ít (hoặc 1 cây sả tươi băm nhỏ)",
+      "raw_name": "Bột sả",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hoặc 1 cây sả tươi băm nhỏ",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt bột Hàn Quốc 1 muỗng cà phê",
+      "raw_name": "Ớt bột Hàn Quốc",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng cà phê",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng cà phê",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu màu điều 3 muỗng canh",
+      "raw_name": "Dầu màu điều",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (hạt nêm/ bột ngọt/ muối/ đường)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hạt nêm/ bột ngọt/ muối/ đường",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T20:29:10Z",
+  "page_title": "Cách làm khô gà miếng vàng đẹp siêu ngon, nhâm nhi ngày Tết",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "công thức được chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2022/01/CookRecipe/Avatar/cach-lam-kho-ga-mieng-vang-dep-sieu-ngon-nham-nhi-ngay-tet-thumbnail.jpg"
+}

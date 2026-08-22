@@ -1,0 +1,90 @@
+{
+  "source_id": "04040",
+  "name": "Nấm chiên giòn sốt trứng muối",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8d0ce3e8663a89e9.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nam-chien-gion-sot-chanh-day-chua-ngot-gion-tan-cuc-04040",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nam-chien-gion-sot-chanh-day-chua-ngot-gion-tan-cuc-04040",
+  "servings_text": "Cho 1 - 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì 1 chén",
+      "raw_name": "Bột mì",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột bắp 1/2 chén",
+      "raw_name": "Bột bắp",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng gà 1 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nấm đùi gà 6 cây",
+      "raw_name": "Nấm đùi gà",
+      "quantity": 6,
+      "unit": "cây",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Trứng muối 2 quả",
+      "raw_name": "Trứng muối",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 1 muỗng",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột chiên giòn khô 1 ít",
+      "raw_name": "Bột chiên giòn khô",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:06:34Z",
+  "page_title": "Cách làm nấm chiên giòn sốt chanh dây và trứng muối giòn tan cực ngon",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "Công thức được chia sẻ từ Tiktok Vào bếp cùng Điện máy XANH",
+  "original_image_url": "https://cdn.tgdd.vn/2023/11/CookRecipe/Avatar/nam-chien-gion-sot-trung-muoi-cong-thuc-duoc-chia-se-tu-tiktok-vao-bep-cung-dien-may-xanh-thumbnail.jpg"
+}

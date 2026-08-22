@@ -1,0 +1,69 @@
+{
+  "source_id": "02095",
+  "name": "Snack khoai lang",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6c793ec7360805b5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-snack-khoai-lang-tam-gia-vi-khoai-lang--02095",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-snack-khoai-lang-tam-gia-vi-khoai-lang--02095",
+  "servings_text": "Cho 03 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai lang 2 củ",
+      "raw_name": "Khoai lang",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối 1 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường nâu 1 muỗng canh (bạn có thể sử dụng đường cát trắng)",
+      "raw_name": "Đường nâu",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "bạn có thể sử dụng đường cát trắng",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt bột 2 muỗng cà phê",
+      "raw_name": "Ớt bột",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Xạ hương 1 muỗng cà phê (có hoặc không đều được)",
+      "raw_name": "Xạ hương",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "có hoặc không đều được",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 200 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:06:54Z",
+  "page_title": "2 cách làm snack khoai lang - khoai lang lắc thơm ngon giòn rụm",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookRecipe/Avatar/snack-khoai-lang-thumbnail.jpg"
+}

@@ -1,0 +1,73 @@
+{
+  "source_id": "14517",
+  "name": "Chả nấm chiên giòn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/fbea6ddc13366d4b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-nam-chien-gion-dai-ngon-sieu-de-lam-chay-man-deu-14517",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-nam-chien-gion-dai-ngon-sieu-de-lam-chay-man-deu-14517",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nấm kim châm 200 gr",
+      "raw_name": "Nấm kim châm",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm mèo khô 5 gr",
+      "raw_name": "Nấm mèo khô",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột chiên giòn 30 gr",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 150 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hạt nêm chay 1 muỗng cà phê",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Đường/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Đường/ tiêu xay",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:46:23Z",
+  "page_title": "Cách làm chả nấm chiên giòn dai ngon siêu dễ làm chay mặn đều dùng được",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/cha-nam-chien-gion-thumbnail.jpg"
+}

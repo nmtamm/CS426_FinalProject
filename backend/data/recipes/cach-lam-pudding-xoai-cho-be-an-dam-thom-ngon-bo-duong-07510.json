@@ -1,0 +1,39 @@
+{
+  "source_id": "07510",
+  "name": "Pudding xoài",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d2644518e9d9efc4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-pudding-xoai-cho-be-an-dam-thom-ngon-bo-duong-07510",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-pudding-xoai-cho-be-an-dam-thom-ngon-bo-duong-07510",
+  "servings_text": "Cho 1 phần ăn",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Xoài xay 50 ml",
+      "raw_name": "Xoài xay",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gelatin hữu cơ 1 muỗng cà phê (bột rau câu)",
+      "raw_name": "Gelatin hữu cơ",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "bột rau câu",
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:14:02Z",
+  "page_title": "Cách làm pudding xoài cho bé ăn dặm thơm ngon bổ dưỡng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookProduct/xoai-1200x676.jpg"
+}

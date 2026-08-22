@@ -1,0 +1,77 @@
+{
+  "source_id": "00890",
+  "name": "Trà dưa hấu chanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/08bf72cc7505d11b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/bat-mi-cach-pha-tra-dua-hau-vi-ngon-hon-o-quan--00890",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/bat-mi-cach-pha-tra-dua-hau-vi-ngon-hon-o-quan--00890",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa hấu nhỏ 1 trái",
+      "raw_name": "Dưa hấu nhỏ",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chanh 1 trái",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bạc hà 5 lá",
+      "raw_name": "Bạc hà",
+      "quantity": 5,
+      "unit": "lá",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trà xanh 6 gr (3 túi trà lọc)",
+      "raw_name": "Trà xanh",
+      "quantity": 6,
+      "unit": "gr",
+      "note": "3 túi trà lọc",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Vỏ quế 8 gr (1 thanh)",
+      "raw_name": "Vỏ quế",
+      "quantity": 8,
+      "unit": "gr",
+      "note": "1 thanh",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước sôi 500 ml",
+      "raw_name": "Nước sôi",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:57:23Z",
+  "page_title": "2 cách pha trà dưa hấu chanh và húng tây thanh mát, giải nhiệt mùa nắng",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/tra-dua-hau-chanh-thumbnail.jpg"
+}

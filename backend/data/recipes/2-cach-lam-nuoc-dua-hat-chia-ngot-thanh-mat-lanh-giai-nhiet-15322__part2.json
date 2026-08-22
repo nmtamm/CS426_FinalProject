@@ -1,0 +1,61 @@
+{
+  "source_id": "15322",
+  "name": "Nước dừa hạt chia hoa đậu biếc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8f84dd7599616296.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-dua-hat-chia-ngot-thanh-mat-lanh-giai-nhiet-15322",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-dua-hat-chia-ngot-thanh-mat-lanh-giai-nhiet-15322",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hoa đậu biếc khô 5 gr",
+      "raw_name": "Hoa đậu biếc khô",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước dừa tươi 300 ml",
+      "raw_name": "Nước dừa tươi",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hạt chia 1 muỗng cà phê",
+      "raw_name": "Hạt chia",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chanh 1/2 quả",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước sôi 200 ml",
+      "raw_name": "Nước sôi",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:54:55Z",
+  "page_title": "2 cách làm nước dừa hạt chia ngọt thanh, mát lạnh giải nhiệt cơ thể",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/nuoc-dua-hat-chia-hoa-dau-biec-thumbnail.jpg"
+}

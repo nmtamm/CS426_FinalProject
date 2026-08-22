@@ -1,0 +1,27 @@
+{
+  "source_id": "08882",
+  "name": "Nước lá mã đề",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b8680e9dcae94cb2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-nuoc-la-ma-de-loi-tieu-cho-nguoi-bi-cac-benh-duong-08882",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-nuoc-la-ma-de-loi-tieu-cho-nguoi-bi-cac-benh-duong-08882",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lá mã đề 50 gr",
+      "raw_name": "Lá mã đề",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    }
+  ],
+  "scraped_at": "2026-08-19T20:06:00Z",
+  "page_title": "Cách nấu nước lá mã đề lợi tiểu cho người bị các bệnh đường tiết niệu",
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookProduct/1.6-1200x676.jpg"
+}

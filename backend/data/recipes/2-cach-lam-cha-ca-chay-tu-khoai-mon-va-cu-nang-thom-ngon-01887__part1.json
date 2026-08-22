@@ -1,0 +1,117 @@
+{
+  "source_id": "01887",
+  "name": "Chả cá chay khoai môn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/458d92b846a9379b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-cha-ca-chay-tu-khoai-mon-va-cu-nang-thom-ngon-01887",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-cha-ca-chay-tu-khoai-mon-va-cu-nang-thom-ngon-01887",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bã đậu nành 250 gr",
+      "raw_name": "Bã đậu nành",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu hũ trắng 350 gr",
+      "raw_name": "Đậu hũ trắng",
+      "quantity": 350,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Khoai môn 200 gr",
+      "raw_name": "Khoai môn",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 70 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 70,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành boa rô 10 gr",
+      "raw_name": "Hành boa rô",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ngò rí 10 gr",
+      "raw_name": "Ngò rí",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột mì 50 gram",
+      "raw_name": "Bột mì 50 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột chiên xù 200 gr",
+      "raw_name": "Bột chiên xù",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hạt nêm 2 muỗng cà phê",
+      "raw_name": "Hạt nêm",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đường 2 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:42:21Z",
+  "page_title": "3 cách làm chả cá chay từ khoai môn, củ năng và đậu xanh thơm ngon đơn giản",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/cha-ca-chay-khoai-mon-thumbnail.jpg"
+}

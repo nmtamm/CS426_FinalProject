@@ -1,0 +1,103 @@
+{
+  "source_id": "00259",
+  "name": "bánh Butter Mochi dừa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/de06475e686b5012.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/lam-banh-butter-mochi-dua-thom-ngon-bang-noi-com-dien-00259",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/lam-banh-butter-mochi-dua-thom-ngon-bang-noi-com-dien-00259",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mochiko 230 g (hay còn gọi là bột gạo nếp Nhật)",
+      "raw_name": "Mochiko",
+      "quantity": 230,
+      "unit": "g",
+      "note": "hay còn gọi là bột gạo nếp Nhật",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường cát 200 g",
+      "raw_name": "Đường cát",
+      "quantity": 200,
+      "unit": "g",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường bột 45 g (đường dạng bột mịn chứ không phải dạng hạt)",
+      "raw_name": "Đường bột",
+      "quantity": 45,
+      "unit": "g",
+      "note": "đường dạng bột mịn chứ không phải dạng hạt",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột nở 1 muỗng cà phê",
+      "raw_name": "Bột nở",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bơ đun chảy 80 g",
+      "raw_name": "Bơ đun chảy",
+      "quantity": 80,
+      "unit": "g",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước cốt dừa 130 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 130,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Sữa cô đặc không đường 130 ml",
+      "raw_name": "Sữa cô đặc không đường",
+      "quantity": 130,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu dừa nguyên chất 1 thìa",
+      "raw_name": "Dầu dừa nguyên chất",
+      "quantity": 1,
+      "unit": "thìa",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Cơm dừa mài nhỏ 100 g",
+      "raw_name": "Cơm dừa mài nhỏ",
+      "quantity": 100,
+      "unit": "g",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T19:31:46Z",
+  "page_title": "Cách làm bánh Butter Mochi dừa thơm ngon bằng nồi cơm điện",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2014/05/05/544550/lam-banh-Butter-Mochi-dua-8-600x400.jpg"
+}

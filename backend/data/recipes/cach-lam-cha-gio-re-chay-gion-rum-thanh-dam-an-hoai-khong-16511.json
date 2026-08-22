@@ -1,0 +1,91 @@
+{
+  "source_id": "16511",
+  "name": "Chả giò rế chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9afcff182a9e5dd1.jpeg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-gio-re-chay-gion-rum-thanh-dam-an-hoai-khong-16511",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-gio-re-chay-gion-rum-thanh-dam-an-hoai-khong-16511",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh tráng rế 1 gói",
+      "raw_name": "Bánh tráng rế",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu hũ non 2 miếng (100gr)",
+      "raw_name": "Đậu hũ non 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": "100gr",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Khoai môn 1 củ (100gr)",
+      "raw_name": "Khoai môn",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "100gr",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 1 củ (100gr)",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "100gr",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nấm rơm 100 gr",
+      "raw_name": "Nấm rơm",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành lá 2 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 100 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng cà phê",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/hạt nêm/bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/hạt nêm/bột ngọt",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:46:52Z",
+  "page_title": "Cách làm chả giò rế chay giòn rụm, thanh đạm ăn hoài không ngán",
+  "original_image_url": "https://cdn.tgdd.vn/2022/01/CookDish/cach-lam-cha-gio-re-chay-gion-rum-thanh-dam-an-hoai-khong-avt-1200x676-2.jpeg"
+}

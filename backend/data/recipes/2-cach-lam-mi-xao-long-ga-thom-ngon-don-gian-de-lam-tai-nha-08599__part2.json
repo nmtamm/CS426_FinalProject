@@ -1,0 +1,97 @@
+{
+  "source_id": "08599",
+  "name": "Mì xào lòng gà trứng non",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/fc7610f98b1bae79.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mi-xao-long-ga-thom-ngon-don-gian-de-lam-tai-nha-08599",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mi-xao-long-ga-thom-ngon-don-gian-de-lam-tai-nha-08599",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mì trứng 90 gr (khoảng 3 cuộn)",
+      "raw_name": "Mì trứng",
+      "quantity": 90,
+      "unit": "gr",
+      "note": "khoảng 3 cuộn",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lòng gà 200 gr (khoảng 1 bộ)",
+      "raw_name": "Lòng gà",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "khoảng 1 bộ",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng non 200 gr",
+      "raw_name": "Trứng non",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt chuông Đà Lạt 2 quả",
+      "raw_name": "Ớt chuông Đà Lạt",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi băm 2 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước tương 3 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu ăn 5 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Đường/ muối/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Đường/ muối/ bột ngọt",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:18:53Z",
+  "page_title": "2 cách làm mì xào lòng gà thơm ngon đơn giản dễ làm tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/mi-xao-long-ga-trung-non-thumbnail.jpg"
+}

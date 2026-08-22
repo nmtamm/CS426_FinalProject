@@ -1,0 +1,51 @@
+{
+  "source_id": "15225",
+  "name": "Siro cóc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ca7990bbdb479529.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-siro-coc-tuoi-ngon-chua-ngot-sang-khoai-giai-nhiet-15225",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-siro-coc-tuoi-ngon-chua-ngot-sang-khoai-giai-nhiet-15225",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cóc bao tử 1 kg (Cóc non)",
+      "raw_name": "Cóc bao tử",
+      "quantity": 1,
+      "unit": "kg",
+      "note": "Cóc non",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 500 gr",
+      "raw_name": "Đường",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Vani 1 ít",
+      "raw_name": "Vani",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:54:02Z",
+  "page_title": "Cách làm siro cóc tươi ngon, chua ngọt sảng khoái giải nhiệt ngày oi bức",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookDish/cach-lam-siro-coc-tuoi-ngon-chua-ngot-sang-khoai-giai-nhiet-avt-1200x676-2.jpg"
+}

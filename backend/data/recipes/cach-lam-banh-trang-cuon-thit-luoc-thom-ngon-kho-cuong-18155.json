@@ -1,0 +1,75 @@
+{
+  "source_id": "18155",
+  "name": "Bánh tráng cuốn thịt luộc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b3ca7d1486cddf97.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trang-cuon-thit-luoc-thom-ngon-kho-cuong-18155",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trang-cuon-thit-luoc-thom-ngon-kho-cuong-18155",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt ba chỉ heo 200 gr",
+      "raw_name": "Thịt ba chỉ heo",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bánh tráng 5 miếng",
+      "raw_name": "Bánh tráng 5 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rau ăn kèm 1 ít (Xà lách/húng quế/rau thơm/diếp cá)",
+      "raw_name": "Rau ăn kèm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Xà lách/húng quế/rau thơm/diếp cá",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 1/2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bún tươi 1 ít (hoặc bún gạo lứt)",
+      "raw_name": "Bún tươi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hoặc bún gạo lứt",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt bột 1 muỗng cà phê",
+      "raw_name": "Ớt bột",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/đường/bột ngọt/hạt nêm/tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/đường/bột ngọt/hạt nêm/tiêu xay",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:37:34Z",
+  "page_title": "Cách làm bánh tráng cuốn thịt luộc thơm ngon khó cưỡng",
+  "original_image_url": "https://cdn.tgdd.vn/2022/09/CookDish/cach-lam-banh-trang-cuon-thit-luoc-thom-ngon-kho-cuong-avt-1200x676.jpg"
+}

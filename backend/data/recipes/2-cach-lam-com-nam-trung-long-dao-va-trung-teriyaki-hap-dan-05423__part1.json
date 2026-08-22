@@ -1,0 +1,93 @@
+{
+  "source_id": "05423",
+  "name": "Cơm nắm trứng lòng đào kim chi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e48c2cdfd13634eb.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-com-nam-trung-long-dao-va-trung-teriyaki-hap-dan-05423",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-com-nam-trung-long-dao-va-trung-teriyaki-hap-dan-05423",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cơm 1 chén",
+      "raw_name": "Cơm",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng gà 4 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 4,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Kim chi 30 gr (cắt nhỏ)",
+      "raw_name": "Kim chi",
+      "quantity": 30,
+      "unit": "gr",
+      "note": "cắt nhỏ",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước tương 1 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tương ớt 1/2 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu mè 1/2 muỗng canh",
+      "raw_name": "Dầu mè",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rong biển 4 miếng (loại nhỏ dài)",
+      "raw_name": "Rong biển 4 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": "loại nhỏ dài",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:05:18Z",
+  "page_title": "2 cách làm cơm nắm trứng lòng đào thơm ngon hấp dẫn lạ miệng",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookRecipe/Avatar/com-nam-trung-long-dao-kim-chi-thumbnail.jpg"
+}

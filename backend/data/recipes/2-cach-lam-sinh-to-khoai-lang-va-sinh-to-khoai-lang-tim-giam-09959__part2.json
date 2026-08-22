@@ -1,0 +1,97 @@
+{
+  "source_id": "09959",
+  "name": "Sinh tố khoai lang mật",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/572e3792c9107c24.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sinh-to-khoai-lang-va-sinh-to-khoai-lang-tim-giam-09959",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sinh-to-khoai-lang-va-sinh-to-khoai-lang-tim-giam-09959",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai lang mật 2 củ",
+      "raw_name": "Khoai lang mật",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chuối 2 quả",
+      "raw_name": "Chuối",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa hạnh nhân 500 ml",
+      "raw_name": "Sữa hạnh nhân",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bơ hạnh nhân 1 muỗng canh",
+      "raw_name": "Bơ hạnh nhân",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Siro lá phong 50 ml",
+      "raw_name": "Siro lá phong",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tinh chất vani 1 muỗng cà phê",
+      "raw_name": "Tinh chất vani",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Granola 3 muỗng canh (dùng ăn kèm)",
+      "raw_name": "Granola",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": "dùng ăn kèm",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Việt quất 18 quả (dùng ăn kèm)",
+      "raw_name": "Việt quất",
+      "quantity": 18,
+      "unit": "quả",
+      "note": "dùng ăn kèm",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đá lạnh 1 ít",
+      "raw_name": "Đá lạnh",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:49:07Z",
+  "page_title": "3 cách làm sinh tố khoai lang và sinh tố khoai lang tím giảm cân hiệu quả",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/sinh-to-khoai-lang-mat-voi-chuoi-thumbnail-1.jpg"
+}

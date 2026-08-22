@@ -1,0 +1,117 @@
+{
+  "source_id": "02125",
+  "name": "Gỏi đu đủ Thái chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/42a6168807e0351c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-du-du-chay-goi-du-du-thai-chay-gio-02125",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-du-du-chay-goi-du-du-thai-chay-gio-02125",
+  "servings_text": "Cho 3 - 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đu đủ xanh bào 300 g",
+      "raw_name": "Đu đủ xanh bào",
+      "quantity": 300,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt bào 1 củ",
+      "raw_name": "Cà rốt bào",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu hũ chiên 100 g",
+      "raw_name": "Đậu hũ chiên",
+      "quantity": 100,
+      "unit": "g",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đậu phộng rang 40 g",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 40,
+      "unit": "g",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đậu đũa 30 g",
+      "raw_name": "Đậu đũa",
+      "quantity": 30,
+      "unit": "g",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Mì căn 200 g",
+      "raw_name": "Mì căn",
+      "quantity": 200,
+      "unit": "g",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nấm bào ngư 20 g",
+      "raw_name": "Nấm bào ngư",
+      "quantity": 20,
+      "unit": "g",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Củ kiệu muối chua 20 g",
+      "raw_name": "Củ kiệu muối chua",
+      "quantity": 20,
+      "unit": "g",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ớt sừng 2 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Cà chua 100 g",
+      "raw_name": "Cà chua",
+      "quantity": 100,
+      "unit": "g",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Cốt me 70 ml",
+      "raw_name": "Cốt me",
+      "quantity": 70,
+      "unit": "ml",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Tỏi 2 nhánh",
+      "raw_name": "Tỏi",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:40:54Z",
+  "page_title": "3 cách làm gỏi đu đủ chay, gỏi đu đủ Thái chay giòn ngon",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/goi-du-du-thai-chay-thumbnail.jpg"
+}

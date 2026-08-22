@@ -1,0 +1,61 @@
+{
+  "source_id": "14264",
+  "name": "Nước detox cam lựu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/24dabfd228195cae.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-detox-cam-thai-doc-tot-cho-suc-khoe-14264",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-detox-cam-thai-doc-tot-cho-suc-khoe-14264",
+  "servings_text": "Cho 1 bình",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cam đào 50 gr",
+      "raw_name": "Cam đào",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cam vàng 150 gr",
+      "raw_name": "Cam vàng",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hạt lựu 50 gr",
+      "raw_name": "Hạt lựu",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước lọc 300 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:04:47Z",
+  "page_title": "2 cách làm detox cam thải độc tốt cho sức khỏe",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/nuoc-detox-cam-luu-thumbnail.jpg"
+}

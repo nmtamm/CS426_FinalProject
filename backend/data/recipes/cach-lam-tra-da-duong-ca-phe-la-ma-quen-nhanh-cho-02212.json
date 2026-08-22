@@ -1,0 +1,75 @@
+{
+  "source_id": "02212",
+  "name": "Trà đá đường",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f148f3da8d9f3d9a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-da-duong-ca-phe-la-ma-quen-nhanh-cho-02212",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-da-duong-ca-phe-la-ma-quen-nhanh-cho-02212",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà xanh khô 7 gr",
+      "raw_name": "Trà xanh khô",
+      "quantity": 7,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Siro đường 120 ml",
+      "raw_name": "Siro đường",
+      "quantity": 120,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước nóng 250 ml (75 - 80 độ)",
+      "raw_name": "Nước nóng",
+      "quantity": 250,
+      "unit": "ml",
+      "note": "75 - 80 độ",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước sôi để nguội 500 ml",
+      "raw_name": "Nước sôi để nguội",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đá viên 320 gr",
+      "raw_name": "Đá viên",
+      "quantity": 320,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột cà phê 30 gr",
+      "raw_name": "Bột cà phê",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước sôi 300 ml",
+      "raw_name": "Nước sôi",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:58:29Z",
+  "page_title": "Cách làm trà đá đường cà phê lạ mà quen, nhanh chóng, đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookProduct/4a2e0259-5761-4693-8b56-43d7b227c2c1-1200x676.jpg"
+}

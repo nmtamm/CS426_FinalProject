@@ -1,0 +1,59 @@
+{
+  "source_id": "22963",
+  "name": "Nước bột sắn dây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a42fe2f369c39c8d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-nuoc-bot-san-day-uong-giai-nhiet-don-gian-bang-binh-22963",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-nuoc-bot-san-day-uong-giai-nhiet-don-gian-bang-binh-22963",
+  "servings_text": "Cho 1 ly (khoảng 600ml)",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột sắn dây 2 muỗng cà phê (đầy)",
+      "raw_name": "Bột sắn dây",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": "đầy",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước lọc 200 ml (nguội)",
+      "raw_name": "Nước lọc",
+      "quantity": 200,
+      "unit": "ml",
+      "note": "nguội",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước sôi 400 ml (100 độ)",
+      "raw_name": "Nước sôi",
+      "quantity": 400,
+      "unit": "ml",
+      "note": "100 độ",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường thốt nốt 1 muỗng cà phê",
+      "raw_name": "Đường thốt nốt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Táo đỏ 2 trái",
+      "raw_name": "Táo đỏ",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:51:38Z",
+  "page_title": "Cách pha nước bột sắn dây uống giải nhiệt đơn giản bằng bình đun siêu tốc",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/nuoc-bot-san-day-2.jpg"
+}

@@ -1,0 +1,69 @@
+{
+  "source_id": "04162",
+  "name": "Mojito chanh mâm xôi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1166a318c15b5a3d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-mojito-tu-chanh-don-gian-giai-khat-ngay-he-04162",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-mojito-tu-chanh-don-gian-giai-khat-ngay-he-04162",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nước cốt chanh 200 ml",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chanh 1 trái",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mâm xôi 200 gr",
+      "raw_name": "Mâm xôi",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường trắng 200 gr",
+      "raw_name": "Đường trắng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Soda 620 ml (2 lon)",
+      "raw_name": "Soda",
+      "quantity": 620,
+      "unit": "ml",
+      "note": "2 lon",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đá viên 100 gr",
+      "raw_name": "Đá viên",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:06:50Z",
+  "page_title": "4 cách làm mojito chanh đơn giản, mát lạnh giải nhiệt mùa hè",
+  "variant_index": 3,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/mojito-chanh-mam-xoi-thumbnail-1.jpg"
+}

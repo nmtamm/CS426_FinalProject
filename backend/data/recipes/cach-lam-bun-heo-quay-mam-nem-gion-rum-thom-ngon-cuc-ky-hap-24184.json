@@ -1,0 +1,99 @@
+{
+  "source_id": "24184",
+  "name": "Bún heo quay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0789e0360d018bec.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bun-heo-quay-mam-nem-gion-rum-thom-ngon-cuc-ky-hap-24184",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bun-heo-quay-mam-nem-gion-rum-thom-ngon-cuc-ky-hap-24184",
+  "servings_text": "Cho 2 - 3 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt ba chỉ 600 gr",
+      "raw_name": "Thịt ba chỉ",
+      "quantity": 600,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành tím 80 gr",
+      "raw_name": "Hành tím",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 30 gr",
+      "raw_name": "Tỏi",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mắm nêm 1/3 chén",
+      "raw_name": "Mắm nêm",
+      "quantity": 0.333,
+      "unit": "chén",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đậu phộng rang 1/2 chén",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Thơm 50 gr (dứa)",
+      "raw_name": "Thơm",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "dứa",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Mít non luộc 500 gr",
+      "raw_name": "Mít non luộc",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột năng 2 muỗng canh",
+      "raw_name": "Bột năng",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ bột ngũ vị hương/ hạt nêm/ đường/ dầu ăn)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ bột ngũ vị hương/ hạt nêm/ đường/ dầu ăn",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Rau ăn kèm 1 ít (húng lủi/ húng quế/ chanh/ ớt/ dưa leo/ bún tươi)",
+      "raw_name": "Rau ăn kèm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "húng lủi/ húng quế/ chanh/ ớt/ dưa leo/ bún tươi",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T20:32:15Z",
+  "page_title": "Cách làm bún heo quay mắm nêm giòn rụm thơm ngon cực kỳ hấp dẫn tại nhà",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t03%201200676%20%2835%29.jpg"
+}

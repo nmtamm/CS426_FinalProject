@@ -1,0 +1,65 @@
+{
+  "source_id": "13480",
+  "name": "Kem bơ chuối xay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6ecf03072f4d9d72.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kem-bo-chuoi-thom-ngot-beo-ngay-don-gian-tai-nha-13480",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kem-bo-chuoi-thom-ngot-beo-ngay-don-gian-tai-nha-13480",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-kem",
+      "name": "Món kem"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chuối 1 quả",
+      "raw_name": "Chuối",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bơ 1 quả",
+      "raw_name": "Bơ",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chanh 1/2 quả",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Siro lá phong 3 muỗng canh (hoặc siro trái cây)",
+      "raw_name": "Siro lá phong",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": "hoặc siro trái cây",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lá bạc hà 4 lá",
+      "raw_name": "Lá bạc hà",
+      "quantity": 4,
+      "unit": "lá",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:14:53Z",
+  "page_title": "2 cách làm kem bơ chuối thơm ngọt béo ngậy đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/cach-lam-kem-bo-chuoi-thom-ngot-beo-ngay-don-gian-tai-nha-thumbnail.jpg"
+}

@@ -1,0 +1,105 @@
+{
+  "source_id": "03148",
+  "name": "Nấu tokbokki chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/84fc6dbfd9a37867.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-gao-cay-tokbokki-chay-tu-banh-trang-thom-ngon-03148",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-gao-cay-tokbokki-chay-tu-banh-trang-thom-ngon-03148",
+  "servings_text": "Cho 3 người ăn",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh gạo 200 gram",
+      "raw_name": "Bánh gạo 200 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm đùi gà 100 gram",
+      "raw_name": "Nấm đùi gà 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nấm đông cô tươi 100 gram",
+      "raw_name": "Nấm đông cô tươi 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trái thơm 50 gram",
+      "raw_name": "Trái thơm 50 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cải thảo 50 gram",
+      "raw_name": "Cải thảo 50 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu mè 1 muỗng canh",
+      "raw_name": "Dầu mè",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tương ớt Hàn Quốc 1.5 muỗng canh",
+      "raw_name": "Tương ớt Hàn Quốc",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước 200 ml",
+      "raw_name": "Nước",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường 2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:46:30Z",
+  "page_title": "2 cách làm bánh gạo cay - tokbokki chay từ bánh tráng thơm ngon đơn giản",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2023/05/CookRecipe/Avatar/tokbokki-chay-thumbnail.jpg"
+}

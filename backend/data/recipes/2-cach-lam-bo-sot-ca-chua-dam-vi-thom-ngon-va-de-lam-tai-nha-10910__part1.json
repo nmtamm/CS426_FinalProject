@@ -1,0 +1,101 @@
+{
+  "source_id": "10910",
+  "name": "Bò sốt cà chua hầm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d1d602e8805d6d9f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-bo-sot-ca-chua-dam-vi-thom-ngon-va-de-lam-tai-nha-10910",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-bo-sot-ca-chua-dam-vi-thom-ngon-va-de-lam-tai-nha-10910",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò 400 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà chua 3 trái",
+      "raw_name": "Cà chua",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 4 tép",
+      "raw_name": "Tỏi 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành lá 3 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hạt nêm 1 muỗng cà phê",
+      "raw_name": "Hạt nêm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột ngọt 1/2 muỗng cà phê",
+      "raw_name": "Bột ngọt",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tương cà 1 muỗng canh",
+      "raw_name": "Tương cà",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:21:50Z",
+  "page_title": "2 cách làm bò sốt cà chua đậm vị, thơm ngon và dễ làm tại nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookRecipe/Avatar/bo-sot-ca-chua-ham-thumbnail-1.jpg"
+}

@@ -1,0 +1,117 @@
+{
+  "source_id": "08706",
+  "name": "Xôi gà rôti",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/607999be250c2fc4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-xoi-ga-roti-va-xoi-ga-trung-non-thom-ngon-hap-dan-08706",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-xoi-ga-roti-va-xoi-ga-trung-non-thom-ngon-hap-dan-08706",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đùi gà 4 cái",
+      "raw_name": "Đùi gà",
+      "quantity": 4,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gạo nếp 2 chén (chén ăn cơm)",
+      "raw_name": "Gạo nếp",
+      "quantity": 2,
+      "unit": "chén",
+      "note": "chén ăn cơm",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành lá 4 nhánh (băm nhuyễn)",
+      "raw_name": "Hành lá",
+      "quantity": 4,
+      "unit": "nhánh",
+      "note": "băm nhuyễn",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 1 củ (băm nhuyễn)",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "băm nhuyễn",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành phi 1 muỗng canh",
+      "raw_name": "Hành phi",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước tương 3 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ngũ vị hương 1 muỗng cà phê",
+      "raw_name": "Ngũ vị hương",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước dừa tươi 250 ml",
+      "raw_name": "Nước dừa tươi",
+      "quantity": 250,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Mỡ hành 1 muỗng canh",
+      "raw_name": "Mỡ hành",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Mỡ gà 1 muỗng canh",
+      "raw_name": "Mỡ gà",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ hạt nêm/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ hạt nêm/ tiêu xay",
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:14:11Z",
+  "page_title": "2 cách làm xôi gà rôti và xôi gà trứng non thơm ngon, hấp dẫn cho bữa ăn",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/xoi-ga-roti-thumbnail.jpg"
+}

@@ -1,0 +1,43 @@
+{
+  "source_id": "08366",
+  "name": "Mứt hạt mít",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5b22e7a6f5ee452b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-hat-mit-beo-bui-thom-ngon-chieu-dai-gia-dinh-08366",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-hat-mit-beo-bui-thom-ngon-chieu-dai-gia-dinh-08366",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hạt mít 300 gr",
+      "raw_name": "Hạt mít",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường cát trắng 400 gr",
+      "raw_name": "Đường cát trắng",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối ăn 1 ít",
+      "raw_name": "Muối ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:21:43Z",
+  "page_title": "Cách làm mứt hạt mít béo bùi thơm ngon chiêu đãi gia đình",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/Muthatmit-1200x676.jpg"
+}

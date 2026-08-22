@@ -1,0 +1,119 @@
+{
+  "source_id": "02854",
+  "name": "Bánh bông lan cuộn socola",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/48e7108403ecd93b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-bong-lan-cuon-socola-thom-ngon-don--02854",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-bong-lan-cuon-socola-thom-ngon-don--02854",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trứng gà 4 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 4,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 115 gram",
+      "raw_name": "Đường 115 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối 1 gram",
+      "raw_name": "Muối 1 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chiết xuất vani 4 gram",
+      "raw_name": "Chiết xuất vani 4 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu thực vật 30 gram (hoặc dầu hạt nho)",
+      "raw_name": "Dầu thực vật 30 gram",
+      "quantity": null,
+      "unit": null,
+      "note": "hoặc dầu hạt nho",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sữa tươi không đường 50 gram",
+      "raw_name": "Sữa tươi không đường 50 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột bánh 55 gram (cake flour - Có thể sử dụng bột mì số 8 thay thế)",
+      "raw_name": "Bột bánh 55 gram",
+      "quantity": null,
+      "unit": null,
+      "note": "cake flour - Có thể sử dụng bột mì số 8 thay thế",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột ca cao 15 gram",
+      "raw_name": "Bột ca cao 15 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột nở 2 gram (baking powder)",
+      "raw_name": "Bột nở 2 gram",
+      "quantity": null,
+      "unit": null,
+      "note": "baking powder",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Kem phô mai 170 gram",
+      "raw_name": "Kem phô mai 170 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Bánh Oreo 5 cái",
+      "raw_name": "Bánh Oreo",
+      "quantity": 5,
+      "unit": "cái",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Heavy cream 100 gram (kem tươi hàm lượng béo từ 40% trở lên)",
+      "raw_name": "Heavy cream 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": "kem tươi hàm lượng béo từ 40% trở lên",
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T19:01:31Z",
+  "page_title": "Cách làm bánh bông lan cuộn socola thơm ngon, đơn giản, dễ làm",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/06/24/1265298/cach-lam-banh-bong-lan-cuon-socola-thom-ngon-don--10-760x367.jpg"
+}

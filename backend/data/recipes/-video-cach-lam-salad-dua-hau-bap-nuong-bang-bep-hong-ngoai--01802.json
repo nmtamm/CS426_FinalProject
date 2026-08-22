@@ -1,0 +1,59 @@
+{
+  "source_id": "01802",
+  "name": "Salad dưa hấu bắp",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/93686ea5b3c6888e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/-video-cach-lam-salad-dua-hau-bap-nuong-bang-bep-hong-ngoai--01802",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/-video-cach-lam-salad-dua-hau-bap-nuong-bang-bep-hong-ngoai--01802",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa hấu 300 g",
+      "raw_name": "Dưa hấu",
+      "quantity": 300,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bắp ngọt 1 trái",
+      "raw_name": "Bắp ngọt",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bơ thực vật 20 g",
+      "raw_name": "Bơ thực vật",
+      "quantity": 20,
+      "unit": "g",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ngò rí 5 g",
+      "raw_name": "Ngò rí",
+      "quantity": 5,
+      "unit": "g",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 1 thìa cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "thìa cà phê",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T17:59:15Z",
+  "page_title": "Cách làm Salad dưa hấu bắp nướng bằng bếp hồng ngoại",
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookProduct/14-1200x676-7.jpg"
+}

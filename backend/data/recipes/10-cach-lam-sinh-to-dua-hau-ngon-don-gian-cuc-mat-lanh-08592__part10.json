@@ -1,0 +1,90 @@
+{
+  "source_id": "08592",
+  "name": "Sinh tố dưa hấu dừa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e8d2688094d779a0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/10-cach-lam-sinh-to-dua-hau-ngon-don-gian-cuc-mat-lanh-08592",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/10-cach-lam-sinh-to-dua-hau-ngon-don-gian-cuc-mat-lanh-08592",
+  "servings_text": "Cho 2 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa hấu 300 gr",
+      "raw_name": "Dưa hấu",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cùi dừa 100 gr",
+      "raw_name": "Cùi dừa",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chanh 1 trái",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường trắng 1 muỗng canh",
+      "raw_name": "Đường trắng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cốt dừa 130 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 130,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước dừa 30 ml",
+      "raw_name": "Nước dừa",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Mật ong 2 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:59:40Z",
+  "page_title": "16 Cách làm sinh tố dưa hấu ngon, đơn giản, cực mát lạnh",
+  "variant_index": 10,
+  "variant_count": 16,
+  "note": null,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/sinh-to-dua-hau-dua-thumbnail.jpg"
+}

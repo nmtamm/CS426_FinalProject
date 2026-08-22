@@ -1,0 +1,57 @@
+{
+  "source_id": "00562",
+  "name": "Sinh tố bơ với các loại hạt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a92b015842b37292.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sinh-to-bo-ngon-beo-ngot-dung-vi-00562",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sinh-to-bo-ngon-beo-ngot-dung-vi-00562",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bơ chín 1 trái (150gr - 160gr)",
+      "raw_name": "Bơ chín",
+      "quantity": 1,
+      "unit": "trái",
+      "note": "150gr - 160gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa hạt hạnh nhân không đường 300 ml",
+      "raw_name": "Sữa hạt hạnh nhân không đường",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mật ong 3 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Các loại hạt 1 muỗng canh (Hạnh nhân/ óc chó/ nho khô/ hạt bí/ hạt dưa)",
+      "raw_name": "Các loại hạt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "Hạnh nhân/ óc chó/ nho khô/ hạt bí/ hạt dưa",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:01:07Z",
+  "page_title": "3 cách làm sinh tố bơ ngon dẻo béo mịn thơm ngon khó cưỡng",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/sinh-to-bo-voi-cac-loai-hat-thumbnail.jpg"
+}

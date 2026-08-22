@@ -1,0 +1,95 @@
+{
+  "source_id": "10880",
+  "name": "Bánh mì nướng tôm phô mai",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4eb6f59dad6d277a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-mi-nuong-tom-pho-mai-thom-beo-bang-chao-cuc-don-10880",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-mi-nuong-tom-pho-mai-thom-beo-bang-chao-cuc-don-10880",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tôm tươi 200 gr",
+      "raw_name": "Tôm tươi",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bánh mì 1 cái (nên dùng bánh baguette)",
+      "raw_name": "Bánh mì",
+      "quantity": 1,
+      "unit": "cái",
+      "note": "nên dùng bánh baguette",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Phô mai mozzarella 200 gr (bào sợi)",
+      "raw_name": "Phô mai mozzarella",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "bào sợi",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sốt mayonnaise 50 gr",
+      "raw_name": "Sốt mayonnaise",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Whipping cream 100 gr",
+      "raw_name": "Whipping cream",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bơ lạt 4 muỗng canh",
+      "raw_name": "Bơ lạt",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ngò tây 1 muỗng canh (cắt nhỏ)",
+      "raw_name": "Ngò tây",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "cắt nhỏ",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:20:28Z",
+  "page_title": "Cách làm bánh mì nướng tôm phô mai thơm béo bằng chảo cực đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookProduct/BanhMiNuongTomPhoMai-CachLamDonGianTaiNhaCookyTV1-4screenshot-1200x676.jpg"
+}

@@ -1,0 +1,57 @@
+{
+  "source_id": "14945",
+  "name": "Kem socola hạnh nhân từ bột ca cao",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ee26463151858536.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-kem-socola-hanh-nhan-thom-beo-mat-lanh-ca-nha-ai-14945",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-kem-socola-hanh-nhan-thom-beo-mat-lanh-ca-nha-ai-14945",
+  "servings_text": "Cho 4 - 5 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-kem",
+      "name": "Món kem"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Heavy whipping cream 240 ml",
+      "raw_name": "Heavy whipping cream",
+      "quantity": 240,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa đặc 380 ml",
+      "raw_name": "Sữa đặc",
+      "quantity": 380,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hạnh nhân 240 gr",
+      "raw_name": "Hạnh nhân",
+      "quantity": 240,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột ca cao 125 gr",
+      "raw_name": "Bột ca cao",
+      "quantity": 125,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T18:54:48Z",
+  "page_title": "2 Cách làm kem socola hạnh nhân thơm béo, mát lạnh cả nhà ai cũng mê",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/kem-socola-hanh-nhan-tu-bot-ca-cao-thumbnail.jpg"
+}

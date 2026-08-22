@@ -1,0 +1,43 @@
+{
+  "source_id": "22248",
+  "name": "Rau sắn muối chua",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bd84f1b52bb6b233.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-rau-san-muoi-chua-don-gian-ngon-gion-dep-mat-ngay-22248",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-rau-san-muoi-chua-don-gian-ngon-gion-dep-mat-ngay-22248",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lá sắn non 1 ít",
+      "raw_name": "Lá sắn non",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T20:27:49Z",
+  "page_title": "Cách làm rau sắn muối chua đơn giản, ngon giòn đẹp mắt ngay tại nhà",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Ch%C6%B0a%20c%C3%B3%20t%C3%AAn%20%28800%20x%20800%20px%29%20%2856%29.jpg"
+}

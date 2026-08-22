@@ -1,0 +1,99 @@
+{
+  "source_id": "23032",
+  "name": "Gà om nấm hương",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9dc8c8ed42dacf76.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-ga-om-nam-huong-mem-thom-dam-da-thit-khong-bo-nat-23032",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-ga-om-nam-huong-mem-thom-dam-da-thit-khong-bo-nat-23032",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đùi gà góc tư 600 gr",
+      "raw_name": "Đùi gà góc tư",
+      "quantity": 600,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm hương khô 40 gr",
+      "raw_name": "Nấm hương khô",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rau cải thìa 200 gr (10 cây)",
+      "raw_name": "Rau cải thìa",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "10 cây",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rau mùi 1 ít",
+      "raw_name": "Rau mùi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gừng 30 gr",
+      "raw_name": "Gừng",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành khô 2 củ (hành tím)",
+      "raw_name": "Hành khô",
+      "quantity": 2,
+      "unit": "củ",
+      "note": "hành tím",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước cốt hành 1 thìa canh (hành khô giã nát vắt lấy nước cốt)",
+      "raw_name": "Nước cốt hành",
+      "quantity": 1,
+      "unit": "thìa canh",
+      "note": "hành khô giã nát vắt lấy nước cốt",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước cốt tỏi 1 thìa canh (tỏi giã nát vắt lấy nước cốt)",
+      "raw_name": "Nước cốt tỏi",
+      "quantity": 1,
+      "unit": "thìa canh",
+      "note": "tỏi giã nát vắt lấy nước cốt",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước dùng gà 800 ml (có thể thay bằng nước ngâm nấm hương đã lọc)",
+      "raw_name": "Nước dùng gà",
+      "quantity": 800,
+      "unit": "ml",
+      "note": "có thể thay bằng nước ngâm nấm hương đã lọc",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ nước mắmm/ bột canh/ hạt nêm/ mì chính/ hạt tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ nước mắmm/ bột canh/ hạt nêm/ mì chính/ hạt tiêu",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:06:31Z",
+  "page_title": "Cách nấu gà om nấm hương mềm thơm, đậm đà, thịt không bở nát với nồi inox",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20thumb%20to%20t7%20%2833%29.jpg"
+}

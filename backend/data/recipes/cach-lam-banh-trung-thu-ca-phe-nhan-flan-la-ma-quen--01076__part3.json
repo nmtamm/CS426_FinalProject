@@ -1,0 +1,65 @@
+{
+  "source_id": "01076",
+  "name": "Bánh Trung Thu rau câu bơ nhân bánh flan",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b1ec10060fe4037d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-ca-phe-nhan-flan-la-ma-quen--01076",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-ca-phe-nhan-flan-la-ma-quen--01076",
+  "servings_text": "Cho 2 cái bánh",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bơ 2 quả",
+      "raw_name": "Bơ",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột rau câu giòn 10 gr",
+      "raw_name": "Bột rau câu giòn",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bánh flan dừa 2 cái (hoặc vị khác tùy thích)",
+      "raw_name": "Bánh flan dừa",
+      "quantity": 2,
+      "unit": "cái",
+      "note": "hoặc vị khác tùy thích",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 50 gr",
+      "raw_name": "Đường",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước lọc 400 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:22:04Z",
+  "page_title": "4 cách làm bánh Trung Thu rau câu nhân bánh flan mát lạnh núng nính đẹp mắt",
+  "variant_index": 3,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/banh-trung-thu-rau-cau-bo-nhan-banh-flan-thumbnail.jpg"
+}

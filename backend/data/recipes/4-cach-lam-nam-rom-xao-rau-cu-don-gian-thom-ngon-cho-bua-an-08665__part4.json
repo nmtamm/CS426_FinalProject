@@ -1,0 +1,113 @@
+{
+  "source_id": "08665",
+  "name": "Nấm rơm xào chua ngọt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4b0a8f39059de81d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-nam-rom-xao-rau-cu-don-gian-thom-ngon-cho-bua-an-08665",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-nam-rom-xao-rau-cu-don-gian-thom-ngon-cho-bua-an-08665",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nấm rơm 300 gr",
+      "raw_name": "Nấm rơm",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà chua 3 trái",
+      "raw_name": "Cà chua",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dưa leo 2 trái",
+      "raw_name": "Dưa leo",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dứa 1 trái (thơm/ khóm)",
+      "raw_name": "Dứa",
+      "quantity": 1,
+      "unit": "trái",
+      "note": "thơm/ khóm",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành lá 3 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 3 tép",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tím 2 củ",
+      "raw_name": "Hành tím",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt 1 trái",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ bột ngọt/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ bột ngọt/ hạt nêm",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng cà phê",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:50:10Z",
+  "page_title": "4 cách làm nấm rơm xào rau củ đơn giản thơm ngon cho bữa ăn chay",
+  "variant_index": 4,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/nam-rom-xao-chua-ngot-thumbnail.jpg"
+}

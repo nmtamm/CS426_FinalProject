@@ -1,0 +1,97 @@
+{
+  "source_id": "11537",
+  "name": "Bánh bông lan cam tươi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/def79dd96f3455fd.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-bong-lan-cam-tuoi-mem-xop-kho-cuong-thom-ngon-11537",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-bong-lan-cam-tuoi-mem-xop-kho-cuong-thom-ngon-11537",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cam vàng 3 quả",
+      "raw_name": "Cam vàng",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường cát trắng 130 gr",
+      "raw_name": "Đường cát trắng",
+      "quantity": 130,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng gà 6 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 6,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột mì đa dụng 100 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột nở 3 gr (baking powder)",
+      "raw_name": "Bột nở",
+      "quantity": 3,
+      "unit": "gr",
+      "note": "baking powder",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tinh bột bắp 20 gr",
+      "raw_name": "Tinh bột bắp",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột đường vani 5 gr (hoặc 1/2 muỗng cà phê tinh chất vani)",
+      "raw_name": "Bột đường vani",
+      "quantity": 5,
+      "unit": "gr",
+      "note": "hoặc 1/2 muỗng cà phê tinh chất vani",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước cốt chanh 2 ml",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 2,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu ăn 60 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 60,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:00:55Z",
+  "page_title": "2 cách làm bánh bông lan cam tươi mềm xốp khó cưỡng, đơn giản tại nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/banh-bong-lan-cam-tuoi-thumbnail-1.jpg"
+}

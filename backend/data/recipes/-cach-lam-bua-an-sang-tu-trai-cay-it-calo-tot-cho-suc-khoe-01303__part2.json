@@ -1,0 +1,54 @@
+{
+  "source_id": "01303",
+  "name": "Bánh mì sandwich bơ và chuối",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a8c2faf1deab8372.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/-cach-lam-bua-an-sang-tu-trai-cay-it-calo-tot-cho-suc-khoe-01303",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/-cach-lam-bua-an-sang-tu-trai-cay-it-calo-tot-cho-suc-khoe-01303",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh mì sandwich 1 lát",
+      "raw_name": "Bánh mì sandwich 1 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chuối 1/2 trái",
+      "raw_name": "Chuối",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cam 2 quả",
+      "raw_name": "Cam",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bơ lạt 10 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:24:14Z",
+  "page_title": "4 cách làm bữa ăn sáng từ trái cây ít calo, tốt cho sức khỏe",
+  "variant_index": 2,
+  "variant_count": 4,
+  "note": null,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/banh-mi-sandwich-bo-va-chuoi-thumbnail.jpg"
+}

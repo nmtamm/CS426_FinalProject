@@ -1,0 +1,57 @@
+{
+  "source_id": "00784",
+  "name": "Đào ngâm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/917b0802ad858292.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dao-ngam-gion-ngon-nhu-mua-ngoai-tiem-00784",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dao-ngam-gion-ngon-nhu-mua-ngoai-tiem-00784",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đào tươi 1 kg",
+      "raw_name": "Đào tươi",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường cát trắng 400 gr (hoặc đường vàng)",
+      "raw_name": "Đường cát trắng",
+      "quantity": 400,
+      "unit": "gr",
+      "note": "hoặc đường vàng",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:04:29Z",
+  "page_title": "3 cách làm đào ngâm giòn ngon để pha trà đào đơn giản tại nhà",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://img.youtube.com/vi/NpgB-2BZ3Uw/maxresdefault.jpg"
+}

@@ -1,0 +1,61 @@
+{
+  "source_id": "11460",
+  "name": "Trà sữa hoa đậu biếc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/20f5f8154153ed91.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-sua-hoa-dau-biec-hot-hit-sieu-dep-mat-11460",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-sua-hoa-dau-biec-hot-hit-sieu-dep-mat-11460",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hoa đậu biếc khô 2 gr",
+      "raw_name": "Hoa đậu biếc khô",
+      "quantity": 2,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trà đen 1 gói",
+      "raw_name": "Trà đen",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đặc 30 ml",
+      "raw_name": "Sữa đặc",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Whipping cream 110 ml",
+      "raw_name": "Whipping cream",
+      "quantity": 110,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:10:24Z",
+  "page_title": "2 cách làm trà sữa hoa đậu biếc hot hit siêu đẹp mắt, ngọt ngào hấp dẫn",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/tra-sua-hoa-dau-biec-thumbnail.jpg"
+}

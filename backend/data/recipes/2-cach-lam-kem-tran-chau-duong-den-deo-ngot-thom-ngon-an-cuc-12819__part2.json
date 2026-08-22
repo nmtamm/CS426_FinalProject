@@ -1,0 +1,57 @@
+{
+  "source_id": "12819",
+  "name": "Kem trân châu đường đen",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ff1ef988ed2e609b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-kem-tran-chau-duong-den-deo-ngot-thom-ngon-an-cuc-12819",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-kem-tran-chau-duong-den-deo-ngot-thom-ngon-an-cuc-12819",
+  "servings_text": "Cho 4 que kem",
+  "topics": [
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    },
+    {
+      "slug": "mon-kem",
+      "name": "Món kem"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Whipping cream 250 gr",
+      "raw_name": "Whipping cream",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa đặc 50 gr",
+      "raw_name": "Sữa đặc",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa bột 30 gr",
+      "raw_name": "Sữa bột",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trân châu đường đen 300 gr",
+      "raw_name": "Trân châu đường đen",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:10:19Z",
+  "page_title": "2 cách làm kem trân châu đường đen dẻo ngọt, thơm ngon ăn cực mê",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/kem-tran-chau-duong-den-thumbnail.jpg"
+}

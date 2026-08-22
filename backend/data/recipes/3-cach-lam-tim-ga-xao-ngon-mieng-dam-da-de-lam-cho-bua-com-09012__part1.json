@@ -1,0 +1,113 @@
+{
+  "source_id": "09012",
+  "name": "Tim gà xào bắp non",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/647031f7c250b9c5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-tim-ga-xao-ngon-mieng-dam-da-de-lam-cho-bua-com-09012",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-tim-ga-xao-ngon-mieng-dam-da-de-lam-cho-bua-com-09012",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tim gà 300 gr",
+      "raw_name": "Tim gà",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bắp non 100 gr",
+      "raw_name": "Bắp non",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rượu gạo 250 ml",
+      "raw_name": "Rượu gạo",
+      "quantity": 250,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tây 1/2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành lá 3 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi 3 tép",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước tương 1 muỗng cà phê",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng cà phê",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (bột ngọt/hạt nêm/tiêu/muối)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "bột ngọt/hạt nêm/tiêu/muối",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:18:41Z",
+  "page_title": "3 cách làm tim gà xào ngon miệng đậm đà dễ làm cho bữa cơm",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookRecipe/Avatar/tim-ga-xao-bap-non-thumbnail-3.jpg"
+}

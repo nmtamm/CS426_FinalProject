@@ -1,0 +1,119 @@
+{
+  "source_id": "07141",
+  "name": "Lạp xưởng trứng muối",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/62f0200655aec295.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-lap-xuong-trung-muoi-thom-ngon-don-gian-de-lam-07141",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-lap-xuong-trung-muoi-thom-ngon-don-gian-de-lam-07141",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt nạc đùi 1 kg",
+      "raw_name": "Thịt nạc đùi",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mỡ heo 400 gr",
+      "raw_name": "Mỡ heo",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ruột heo khô 200 gr",
+      "raw_name": "Ruột heo khô",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi phi thơm 50 gr",
+      "raw_name": "Tỏi phi thơm",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột tỏi 1 muỗng canh",
+      "raw_name": "Bột tỏi",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sốt xá xíu 1 gói",
+      "raw_name": "Sốt xá xíu",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Lòng đỏ trứng muối hấp chín 10 cái",
+      "raw_name": "Lòng đỏ trứng muối hấp chín",
+      "quantity": 10,
+      "unit": "cái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Rượu mai quế lộ 70 ml",
+      "raw_name": "Rượu mai quế lộ",
+      "quantity": 70,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tiêu hạt 1.5 muỗng canh",
+      "raw_name": "Tiêu hạt",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Giấm 2 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ bột ngọt",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dây cột 1 ít",
+      "raw_name": "Dây cột",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T19:43:00Z",
+  "page_title": "Cách làm lạp xưởng trứng muối thơm ngon đơn giản dễ làm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/thum1-1200x676-6.jpg"
+}

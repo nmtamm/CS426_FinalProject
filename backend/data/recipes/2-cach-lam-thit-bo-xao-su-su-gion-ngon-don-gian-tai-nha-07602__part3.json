@@ -1,0 +1,74 @@
+{
+  "source_id": "07602",
+  "name": "Thịt bò xào su su",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/78bbad2a4dd826e5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-thit-bo-xao-su-su-gion-ngon-don-gian-tai-nha-07602",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-thit-bo-xao-su-su-gion-ngon-don-gian-tai-nha-07602",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò 200 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Su su 2 quả",
+      "raw_name": "Su su",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng cà phê",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 4 muỗng cà phê",
+      "raw_name": "Dầu ăn",
+      "quantity": 4,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ hạt nêm/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ hạt nêm/ tiêu xay",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:25:46Z",
+  "page_title": "3 cách làm thịt bò xào su su giòn ngon, đơn giản tại nhà",
+  "variant_index": 3,
+  "variant_count": 3,
+  "note": "Công thức được chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2022/07/CookRecipe/Avatar/thit-bo-xao-su-su-cong-thuc-duoc-chia-se-tu-nguoi-dung-thumbnail-3.jpg"
+}

@@ -1,0 +1,91 @@
+{
+  "source_id": "23877",
+  "name": "dưa món chua ngọt ăn liền",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ebc9e8172397aad4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dua-mon-chua-ngot-an-lien-khong-can-phoi-de-lau-23877",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dua-mon-chua-ngot-an-lien-khong-can-phoi-de-lau-23877",
+  "servings_text": "Cho 1 hũ dưa (khoảng 1.8kg rau củ)",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Su hào 2 củ",
+      "raw_name": "Su hào",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đu đủ xanh 1 quả",
+      "raw_name": "Đu đủ xanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối hạt 100 gr",
+      "raw_name": "Muối hạt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt tươi 1 ít (sắt lát)",
+      "raw_name": "Ớt tươi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "sắt lát",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 1 ít (sắt lát)",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "sắt lát",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 290 gr",
+      "raw_name": "Đường",
+      "quantity": 290,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước mắm 200 gr (40 độ đạm)",
+      "raw_name": "Nước mắm",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "40 độ đạm",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước lọc 200 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:32:22Z",
+  "page_title": "Cách làm dưa món chua ngọt ăn liền không cần phơi để lâu không úng",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/odsjd.jpg"
+}

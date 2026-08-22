@@ -1,0 +1,50 @@
+{
+  "source_id": "01567",
+  "name": "Bánh chưng (bánh tét) chiên nước",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1644c2eb322da6bc.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-tet-chien-banh-chung-chien-ran-ngon-01567",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-tet-chien-banh-chung-chien-ran-ngon-01567",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh chưng hoặc bánh tét 1 cái",
+      "raw_name": "Bánh chưng hoặc bánh tét",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mè rang 20 gr",
+      "raw_name": "Mè rang",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước Lọc 300 ml",
+      "raw_name": "Nước Lọc",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:39:24Z",
+  "page_title": "4 cách làm bánh chưng chiên, bánh tét chiên (rán) ngon giải ngấy sau Tết",
+  "variant_index": 1,
+  "variant_count": 4,
+  "note": null,
+  "original_image_url": "https://cdn.tgdd.vn/2022/01/CookRecipe/Avatar/banh-chung-banh-tet-chien-nuoc-thumbnail.jpg"
+}

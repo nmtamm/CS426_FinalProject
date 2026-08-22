@@ -1,0 +1,103 @@
+{
+  "source_id": "03937",
+  "name": "Bánh mì sandwich nhân kem dâu tây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/79358aee8c1b1a48.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-sandwich-nhan-kem-dau-tay-thom-ngon-don-gian-03937",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-sandwich-nhan-kem-dau-tay-thom-ngon-don-gian-03937",
+  "servings_text": "Cho 3 - 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trứng 190 gr",
+      "raw_name": "Trứng",
+      "quantity": 190,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 120 gr",
+      "raw_name": "Đường",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mật ong 13 gr",
+      "raw_name": "Mật ong",
+      "quantity": 13,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chiết xuất vani 3 gr",
+      "raw_name": "Chiết xuất vani",
+      "quantity": 3,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bơ lạt 55 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 55,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sữa tươi không đường 35 gr",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 35,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột bánh 110 g (cake flour)",
+      "raw_name": "Bột bánh",
+      "quantity": 110,
+      "unit": "g",
+      "note": "cake flour",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột ca cao 15 gr",
+      "raw_name": "Bột ca cao",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Kem tươi 350 gr (whipping cream)",
+      "raw_name": "Kem tươi",
+      "quantity": 350,
+      "unit": "gr",
+      "note": "whipping cream",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Sữa đặc 70 gr",
+      "raw_name": "Sữa đặc",
+      "quantity": 70,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T19:25:30Z",
+  "page_title": "Cách làm bánh sandwich nhân kem dâu tây thơm ngon, đơn giản cho bữa ăn sáng",
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookProduct/Webp.net-resizeimage-2020-08-23T195012.130-1200x676.jpg"
+}

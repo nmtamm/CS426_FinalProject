@@ -1,0 +1,67 @@
+{
+  "source_id": "15201",
+  "name": "Dưa bông điên điển",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8cc0c83036e7e197.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dua-bong-dien-dien-don-gian-ngon-dung-dieu-15201",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dua-bong-dien-dien-don-gian-ngon-dung-dieu-15201",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bông điên điển 500 gr",
+      "raw_name": "Bông điên điển",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt sừng 3 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước vo gạo 500 ml",
+      "raw_name": "Nước vo gạo",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Giấm 200 ml",
+      "raw_name": "Giấm",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường/ muối 1 ít",
+      "raw_name": "Đường/ muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước lọc 400 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:26:54Z",
+  "page_title": "Cách làm dưa bông điên điển đơn giản ngon đúng điệu",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookDish/cach-lam-dua-bong-dien-dien-don-gian-ngon-dung-dieu-avt-1200x676.jpg"
+}

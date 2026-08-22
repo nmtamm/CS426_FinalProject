@@ -1,0 +1,51 @@
+{
+  "source_id": "09340",
+  "name": "Thạch nho kyoho",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/dbe8003247eac414.gif",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thach-nho-kyoho-chua-ngot-dai-dai-cuc-ngon-09340",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thach-nho-kyoho-chua-ngot-dai-dai-cuc-ngon-09340",
+  "servings_text": "Cho 6 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột rau câu dẻo 6 gr",
+      "raw_name": "Bột rau câu dẻo",
+      "quantity": 6,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 20 gr",
+      "raw_name": "Đường",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột hương vị 5 gr (bột chuối/bột nho/bột mâm xôi/bột táo xanh)",
+      "raw_name": "Bột hương vị",
+      "quantity": 5,
+      "unit": "gr",
+      "note": "bột chuối/bột nho/bột mâm xôi/bột táo xanh",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rượu trắng 1 ít (hoặc giấm ăn)",
+      "raw_name": "Rượu trắng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hoặc giấm ăn",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:22:29Z",
+  "page_title": "Cách làm thạch nho kyoho - kyoho jelly tại nhà dai dai ăn cực thích",
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookProduct/4-1200x676.gif"
+}

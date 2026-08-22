@@ -1,0 +1,101 @@
+{
+  "source_id": "14793",
+  "name": "Cải chua xào đậu hũ chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8f50f9b5b5543acf.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-cai-chua-xao-chay-thom-ngon-hap-dan-don-gian-tai-14793",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-cai-chua-xao-chay-thom-ngon-hap-dan-don-gian-tai-14793",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu hũ 2 miếng",
+      "raw_name": "Đậu hũ 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dưa cải 400 gr",
+      "raw_name": "Dưa cải",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tây 1/2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 2 tép",
+      "raw_name": "Tỏi 2 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt 2 quả",
+      "raw_name": "Ớt",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành lá 2 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Giấm 1 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước tương 5 muỗng cà phê",
+      "raw_name": "Nước tương",
+      "quantity": 5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu ăn 50 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đường/ bột ngọt 1 ít",
+      "raw_name": "Đường/ bột ngọt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:44:57Z",
+  "page_title": "2 cách làm cải chua xào chay thơm ngon hấp dẫn đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/cai-chua-xao-dau-hu-chay-thumbnail.jpg"
+}

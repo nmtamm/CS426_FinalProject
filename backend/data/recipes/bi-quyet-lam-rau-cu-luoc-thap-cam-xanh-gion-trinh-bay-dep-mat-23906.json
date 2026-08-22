@@ -1,0 +1,63 @@
+{
+  "source_id": "23906",
+  "name": "Rau củ luộc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a0f90906b4c2b436.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/bi-quyet-lam-rau-cu-luoc-thap-cam-xanh-gion-trinh-bay-dep-mat-23906",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/bi-quyet-lam-rau-cu-luoc-thap-cam-xanh-gion-trinh-bay-dep-mat-23906",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bí xanh 1/2 quả",
+      "raw_name": "Bí xanh",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Su su 1 quả",
+      "raw_name": "Su su",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Củ cải trắng 1 củ",
+      "raw_name": "Củ cải trắng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bông cải xanh 1/2 cây",
+      "raw_name": "Bông cải xanh",
+      "quantity": 0.5,
+      "unit": "cây",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T18:34:38Z",
+  "page_title": "Bí quyết làm rau củ luộc thập cẩm xanh giòn, trình bày đẹp mắt tại nhà",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20m%C3%B3n%20an%20t01%20%281200%20x%20676%20px%29%20%283%29.jpg"
+}

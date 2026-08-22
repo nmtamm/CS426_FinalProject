@@ -1,0 +1,101 @@
+{
+  "source_id": "03963",
+  "name": "Mề gà xào cay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/55ecb6a7bcedb225.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-me-ga-xao-cay-va-me-ga-xao-ca-chua-thom-ngon-cho-03963",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-me-ga-xao-cay-va-me-ga-xao-ca-chua-thom-ngon-cho-03963",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mề gà 500 gr",
+      "raw_name": "Mề gà",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dầu hào 2 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sa tế 1/2 muỗng canh",
+      "raw_name": "Sa tế",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu điều 5 ml",
+      "raw_name": "Dầu điều",
+      "quantity": 5,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt 1 trái",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành khô 1 củ",
+      "raw_name": "Hành khô",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước 10 ml",
+      "raw_name": "Nước",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ngò tây 10 gr (mùi tàu)",
+      "raw_name": "Ngò tây",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "mùi tàu",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hành lá 5 gr",
+      "raw_name": "Hành lá",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:09:54Z",
+  "page_title": "2 cách làm mề gà xào cay và mề gà xào cà chua thơm ngon cho bữa cơm",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookRecipe/Avatar/me-ga-xao-cay-thumbnail.jpg"
+}

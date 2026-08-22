@@ -1,0 +1,125 @@
+{
+  "source_id": "10759",
+  "name": "Nộm sứa rau thơm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8c3b42a0cac7b2b1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nom-sua-du-du-va-nom-sua-rau-thom-dai-gion-thom-10759",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nom-sua-du-du-va-nom-sua-rau-thom-dai-gion-thom-10759",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sứa ngâm chua ngọt 200 gr",
+      "raw_name": "Sứa ngâm chua ngọt",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tai heo ngâm chua ngọt 200 gr",
+      "raw_name": "Tai heo ngâm chua ngọt",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Khế 1 trái",
+      "raw_name": "Khế",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tây 1/2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cà rốt 1/2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Chuối chát 1 trái",
+      "raw_name": "Chuối chát",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Rau thơm 1 ít (lá quế/ rau thơm/ bạc hà...)",
+      "raw_name": "Rau thơm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "lá quế/ rau thơm/ bạc hà...",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Giấm 4 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Ớt băm 1 muỗng cà phê",
+      "raw_name": "Ớt băm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng cà phê",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Mè rang 1 muỗng canh",
+      "raw_name": "Mè rang",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Đường/ muối 1 ít",
+      "raw_name": "Đường/ muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T17:51:11Z",
+  "page_title": "2 cách làm nộm sứa đu đủ và nộm sứa rau thơm dai giòn thơm ngon hấp dẫn",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookRecipe/Avatar/nom-sua-rau-thom-thumbnail-2.jpg"
+}

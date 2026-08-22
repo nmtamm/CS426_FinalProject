@@ -1,0 +1,97 @@
+{
+  "source_id": "11661",
+  "name": "Khô gà xé cay bằng lò nướng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ec95bee6e9d6585e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-kho-ga-xe-cay-thom-ngon-dam-vi-cay-nong-hap-dan-11661",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-kho-ga-xe-cay-thom-ngon-dam-vi-cay-nong-hap-dan-11661",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ức gà 500 gr",
+      "raw_name": "Ức gà",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành tím 6 củ",
+      "raw_name": "Hành tím",
+      "quantity": 6,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gừng 20 gr (1 củ)",
+      "raw_name": "Gừng",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "1 củ",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sả 4 cây",
+      "raw_name": "Sả",
+      "quantity": 4,
+      "unit": "cây",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 7 tép",
+      "raw_name": "Tỏi 7 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt bột 2 muỗng cà phê",
+      "raw_name": "Ớt bột",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước mắm 4 muỗng cà phê",
+      "raw_name": "Nước mắm",
+      "quantity": 4,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường thốt nốt 3 muỗng cà phê",
+      "raw_name": "Đường thốt nốt",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:07:17Z",
+  "page_title": "2 cách làm khô gà xé cay thơm ngon đậm vị cay nồng hấp dẫn",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/kho-ga-xe-cay-bang-lo-nuong-thumbnail-1.jpg"
+}

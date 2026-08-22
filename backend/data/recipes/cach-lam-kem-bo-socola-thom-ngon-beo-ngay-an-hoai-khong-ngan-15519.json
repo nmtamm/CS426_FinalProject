@@ -1,0 +1,79 @@
+{
+  "source_id": "15519",
+  "name": "Kem bơ socola",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/be87e6ce5bfdaad0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kem-bo-socola-thom-ngon-beo-ngay-an-hoai-khong-ngan-15519",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kem-bo-socola-thom-ngon-beo-ngay-an-hoai-khong-ngan-15519",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-kem",
+      "name": "Món kem"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bơ 2 quả",
+      "raw_name": "Bơ",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột cacao 64 gr",
+      "raw_name": "Bột cacao",
+      "quantity": 64,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Socola 20 gr (dạng thanh)",
+      "raw_name": "Socola",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "dạng thanh",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Whipping cream 96 ml",
+      "raw_name": "Whipping cream",
+      "quantity": 96,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cốt dừa 96 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 96,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hạnh nhân cắt lát 10 gr",
+      "raw_name": "Hạnh nhân cắt lát",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 16 gr",
+      "raw_name": "Đường",
+      "quantity": 16,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:15:30Z",
+  "page_title": "Cách làm kem bơ socola thơm ngon, béo ngậy ăn hoài không ngán",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookDish/cach-lam-kem-bo-socola-thom-ngon-beo-ngay-an-hoai-khong-ngan-avt-1200x676.jpg"
+}

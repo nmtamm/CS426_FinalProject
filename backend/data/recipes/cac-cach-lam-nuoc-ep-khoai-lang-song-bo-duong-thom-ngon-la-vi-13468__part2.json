@@ -1,0 +1,69 @@
+{
+  "source_id": "13468",
+  "name": "Nước ép khoai lang củ dền",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/dc464be52514e215.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cac-cach-lam-nuoc-ep-khoai-lang-song-bo-duong-thom-ngon-la-vi-13468",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cac-cach-lam-nuoc-ep-khoai-lang-song-bo-duong-thom-ngon-la-vi-13468",
+  "servings_text": "Cho 3 ly",
+  "topics": [
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai lang 2 củ",
+      "raw_name": "Khoai lang",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Củ dền 1 củ",
+      "raw_name": "Củ dền",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Táo xanh 2 quả",
+      "raw_name": "Táo xanh",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng 1/2 củ",
+      "raw_name": "Gừng",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chanh 2 quả",
+      "raw_name": "Chanh",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:12:23Z",
+  "page_title": "2 cách làm nước ép khoai lang sống bổ dưỡng thơm ngon lạ vị dễ uống",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/nuoc-ep-khoai-lang-cu-den-thumbnail.jpg"
+}

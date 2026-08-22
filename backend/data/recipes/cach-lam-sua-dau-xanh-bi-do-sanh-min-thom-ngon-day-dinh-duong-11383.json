@@ -1,0 +1,51 @@
+{
+  "source_id": "11383",
+  "name": "Sữa đậu xanh bí đỏ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a758962a8f2bad17.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-dau-xanh-bi-do-sanh-min-thom-ngon-day-dinh-duong-11383",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-dau-xanh-bi-do-sanh-min-thom-ngon-day-dinh-duong-11383",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bí đỏ 350 gr",
+      "raw_name": "Bí đỏ",
+      "quantity": 350,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu xanh không vỏ 100 gr",
+      "raw_name": "Đậu xanh không vỏ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đặc 150 ml",
+      "raw_name": "Sữa đặc",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 100 gr",
+      "raw_name": "Đường",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:53:44Z",
+  "page_title": "Cách làm sữa đậu xanh bí đỏ sánh mịn thơm ngon đầy dinh dưỡng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookProduct/Sua-Bi-Do-Dau-Xanh--thom-mat-bo-duong-cho-ca-nha-3-38-screenshot-1200x676.jpg"
+}

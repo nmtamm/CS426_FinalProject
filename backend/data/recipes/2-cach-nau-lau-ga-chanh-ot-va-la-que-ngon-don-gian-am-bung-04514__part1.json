@@ -1,0 +1,145 @@
+{
+  "source_id": "04514",
+  "name": "Lẩu gà chanh ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/dfb21924251995c6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-lau-ga-chanh-ot-va-la-que-ngon-don-gian-am-bung-04514",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-lau-ga-chanh-ot-va-la-que-ngon-don-gian-am-bung-04514",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-lau",
+      "name": "Món lẩu"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà ta 1 con (1.2 kg)",
+      "raw_name": "Gà ta 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": "1.2 kg",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xương gà 200 gr",
+      "raw_name": "Xương gà",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Củ cải trắng 100 gr",
+      "raw_name": "Củ cải trắng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cải thảo 1 cây",
+      "raw_name": "Cải thảo",
+      "quantity": 1,
+      "unit": "cây",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rau muống 100 gr",
+      "raw_name": "Rau muống",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành lá 2 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Sả 100 gr",
+      "raw_name": "Sả",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bắp chuối bào 50 gr",
+      "raw_name": "Bắp chuối bào",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rau húng quế 1 ít",
+      "raw_name": "Rau húng quế",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hành tím băm 50 gr",
+      "raw_name": "Hành tím băm",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Ớt xiêm xanh 50 gr",
+      "raw_name": "Ớt xiêm xanh",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Ớt hiểm đỏ 30 gr",
+      "raw_name": "Ớt hiểm đỏ",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Ớt sừng 3 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Bún 100 gr",
+      "raw_name": "Bún",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Bột chanh 2 muỗng canh",
+      "raw_name": "Bột chanh",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T18:08:09Z",
+  "page_title": "2 cách nấu lẩu gà chanh ớt và lá quế ngon đơn giản ấm bụng ngày mưa",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/lau-ga-chanh-ot-thumbnail-1.jpg"
+}

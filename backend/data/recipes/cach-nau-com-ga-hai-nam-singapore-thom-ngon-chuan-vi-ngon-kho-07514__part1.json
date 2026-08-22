@@ -1,0 +1,157 @@
+{
+  "source_id": "07514",
+  "name": "Cơm gà Hải Nam Singapore",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ac6041d4bc0c8383.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-com-ga-hai-nam-singapore-thom-ngon-chuan-vi-ngon-kho-07514",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-com-ga-hai-nam-singapore-thom-ngon-chuan-vi-ngon-kho-07514",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà nguyên con 1.2 kg",
+      "raw_name": "Gà nguyên con",
+      "quantity": 1.2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gạo 600 gr",
+      "raw_name": "Gạo",
+      "quantity": 600,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gừng 1 củ (lớn)",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "lớn",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá 2 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ngò rí 1 ít",
+      "raw_name": "Ngò rí",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dưa leo 1 trái",
+      "raw_name": "Dưa leo",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Chanh 1/2 trái",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Lá nếp 2 nhánh",
+      "raw_name": "Lá nếp",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hành tím 3 củ",
+      "raw_name": "Hành tím",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tỏi 2 tép",
+      "raw_name": "Tỏi 2 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Ớt hiểm 3 trái",
+      "raw_name": "Ớt hiểm",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Ớt sừng 1 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu mè 1 muỗng cà phê",
+      "raw_name": "Dầu mè",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Dầu tỏi 1 muỗng cà phê",
+      "raw_name": "Dầu tỏi",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Nước mắm 1/2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Nước tương 2 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (hạt nêm/ muối/ đường)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hạt nêm/ muối/ đường",
+      "display_order": 17
+    }
+  ],
+  "scraped_at": "2026-08-19T18:17:02Z",
+  "page_title": "2 cách nấu cơm gà Hải Nam Singapore thơm ngon chuẩn vị khó cưỡng tại nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookRecipe/Avatar/com-ga-hai-nam-thumbnail.jpg"
+}

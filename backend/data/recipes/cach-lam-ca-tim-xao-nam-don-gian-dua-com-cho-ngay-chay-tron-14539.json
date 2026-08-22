@@ -1,0 +1,95 @@
+{
+  "source_id": "14539",
+  "name": "Cà tím xào nấm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/423ecac5ec74a140.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-tim-xao-nam-don-gian-dua-com-cho-ngay-chay-tron-14539",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-tim-xao-nam-don-gian-dua-com-cho-ngay-chay-tron-14539",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cà tím 1 quả",
+      "raw_name": "Cà tím",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm bạch tuyết 200 gr (hoặc loại nấm yêu thích)",
+      "raw_name": "Nấm bạch tuyết",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "hoặc loại nấm yêu thích",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1/2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt chuông 1/2 quả",
+      "raw_name": "Ớt chuông",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sả 2 nhánh",
+      "raw_name": "Sả",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước tương 4 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu ăn 4 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường/ muối 1 ít",
+      "raw_name": "Đường/ muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:48:28Z",
+  "page_title": "Cách làm cà tím xào nấm đơn giản đưa cơm cho ngày chay tròn vị",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-ca-tim-xao-nam-don-gian-dua-com-cho-ngay-chay-tron-avt-1200x676.jpg"
+}

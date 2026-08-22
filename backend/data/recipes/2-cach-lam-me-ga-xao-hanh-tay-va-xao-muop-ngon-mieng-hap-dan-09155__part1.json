@@ -1,0 +1,113 @@
+{
+  "source_id": "09155",
+  "name": "Mề gà xào hành tây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/eb91d5d657832794.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-me-ga-xao-hanh-tay-va-xao-muop-ngon-mieng-hap-dan-09155",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-me-ga-xao-hanh-tay-va-xao-muop-ngon-mieng-hap-dan-09155",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mề gà 100 gr",
+      "raw_name": "Mề gà",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tim gà 50 gr",
+      "raw_name": "Tim gà",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gan gà 50 gr",
+      "raw_name": "Gan gà",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sả 2 cây (băm nhỏ)",
+      "raw_name": "Sả",
+      "quantity": 2,
+      "unit": "cây",
+      "note": "băm nhỏ",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 4 tép (băm nhỏ)",
+      "raw_name": "Tỏi 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": "băm nhỏ",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt 2 trái (cắt nhỏ)",
+      "raw_name": "Ớt",
+      "quantity": 2,
+      "unit": "trái",
+      "note": "cắt nhỏ",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột nghệ 1 muỗng cà phê",
+      "raw_name": "Bột nghệ",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột canh 1/2 muỗng cà phê",
+      "raw_name": "Bột canh",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ muối/ tiêu xay/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ muối/ tiêu xay/ hạt nêm",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:18:44Z",
+  "page_title": "2 cách làm mề gà xào hành tây và xào mướp ngon miệng hấp dẫn dễ làm tại nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookRecipe/Avatar/me-ga-xao-hanh-tay-thumbnail.jpg"
+}

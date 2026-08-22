@@ -1,0 +1,63 @@
+{
+  "source_id": "04526",
+  "name": "Bánh quy chanh dây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8167ae279a8248da.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-quy-cookies-chanh-day-tay-ban-nha-thom-ngon-04526",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-quy-cookies-chanh-day-tay-ban-nha-thom-ngon-04526",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì 120 gr",
+      "raw_name": "Bột mì",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bơ lạt 70 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 70,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường bột 60 gr",
+      "raw_name": "Đường bột",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chanh dây 1 trái",
+      "raw_name": "Chanh dây",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:00:52Z",
+  "page_title": "Cách làm bánh quy cookies chanh dây Tây Ban Nha thơm ngon giòn rụm",
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookProduct/1200-1200x676-32.jpg"
+}

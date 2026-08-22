@@ -1,0 +1,43 @@
+{
+  "source_id": "23486",
+  "name": "Gừng sấy khô",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/468a1d9139a01b74.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-gung-say-kho-so-luong-lon-su-dung-ngay-le-tet-23486",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-gung-say-kho-so-luong-lon-su-dung-ngay-le-tet-23486",
+  "servings_text": "Cho 500 gr gừng tươi",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gừng 500 gr",
+      "raw_name": "Gừng",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chanh 1/2 quả",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước đá lạnh 1 ít",
+      "raw_name": "Nước đá lạnh",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T18:55:00Z",
+  "page_title": "Cách làm gừng sấy khô số lượng lớn sử dụng ngày lễ Tết",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/sdsdsds.jpg"
+}

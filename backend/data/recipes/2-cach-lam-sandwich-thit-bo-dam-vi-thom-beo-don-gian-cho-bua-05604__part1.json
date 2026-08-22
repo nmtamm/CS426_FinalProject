@@ -1,0 +1,129 @@
+{
+  "source_id": "05604",
+  "name": "Sandwich thịt bò phô mai",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/82607607cdaa419d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sandwich-thit-bo-dam-vi-thom-beo-don-gian-cho-bua-05604",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sandwich-thit-bo-dam-vi-thom-beo-don-gian-cho-bua-05604",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò xay 200 gr",
+      "raw_name": "Thịt bò xay",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bánh sandwich 2 miếng",
+      "raw_name": "Bánh sandwich 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Phô mai Mozzarella 150 gr",
+      "raw_name": "Phô mai Mozzarella",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 1 tép (lớn)",
+      "raw_name": "Tỏi 1 tép",
+      "quantity": null,
+      "unit": null,
+      "note": "lớn",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước sốt Worcestershire 1 muỗng canh",
+      "raw_name": "Nước sốt Worcestershire",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước sốt cà chua 2 muỗng canh",
+      "raw_name": "Nước sốt cà chua",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Mù tạt vàng 1 muỗng canh",
+      "raw_name": "Mù tạt vàng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường nâu 2 muỗng canh",
+      "raw_name": "Đường nâu",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Sốt mayonnaise 2 muỗng canh",
+      "raw_name": "Sốt mayonnaise",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Ớt bột 1/2 muỗng cà phê",
+      "raw_name": "Ớt bột",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Tiêu xay 1 muỗng cà phê",
+      "raw_name": "Tiêu xay",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T19:08:36Z",
+  "page_title": "2 cách làm sandwich thịt bò đậm vị thơm béo đơn giản cho bữa sáng",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookRecipe/Avatar/sandwich-thit-bo-pho-mai-thumbnail.jpg"
+}

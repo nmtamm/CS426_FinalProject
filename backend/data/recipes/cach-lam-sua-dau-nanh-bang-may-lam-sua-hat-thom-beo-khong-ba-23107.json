@@ -1,0 +1,59 @@
+{
+  "source_id": "23107",
+  "name": "Làm sữa đậu nành bằng máy làm sữa hạt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b51f02eb147eb75a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-dau-nanh-bang-may-lam-sua-hat-thom-beo-khong-ba-23107",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-dau-nanh-bang-may-lam-sua-hat-thom-beo-khong-ba-23107",
+  "servings_text": "Cho 1 lít sữa thành phẩm",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu nành 20 gr",
+      "raw_name": "Đậu nành",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mè đen 10 gr",
+      "raw_name": "Mè đen",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hạnh nhân đã sấy 10 gr",
+      "raw_name": "Hạnh nhân đã sấy",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước 1 lít",
+      "raw_name": "Nước 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/đá)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/đá",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:51:07Z",
+  "page_title": "Cách làm sữa đậu nành bằng máy làm sữa hạt thơm béo không bã",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/sua-dau.nanh-bang-mayy.jpg"
+}

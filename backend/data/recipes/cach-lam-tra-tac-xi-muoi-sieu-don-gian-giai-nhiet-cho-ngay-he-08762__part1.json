@@ -1,0 +1,61 @@
+{
+  "source_id": "08762",
+  "name": "Trà tắc xí muội",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/606bbb11180d5269.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-tac-xi-muoi-sieu-don-gian-giai-nhiet-cho-ngay-he-08762",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-tac-xi-muoi-sieu-don-gian-giai-nhiet-cho-ngay-he-08762",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà túi lọc 1 gói (hồng trà)",
+      "raw_name": "Trà túi lọc",
+      "quantity": 1,
+      "unit": "gói",
+      "note": "hồng trà",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước cốt tắc 1 muỗng canh",
+      "raw_name": "Nước cốt tắc",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Xí muội 3 trái",
+      "raw_name": "Xí muội",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước đường thốt nốt 2.5 muỗng canh",
+      "raw_name": "Nước đường thốt nốt",
+      "quantity": 2.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước đá bi 1 ít",
+      "raw_name": "Nước đá bi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:58:53Z",
+  "page_title": "2 cách làm trà tắc xí muội thơm mát, giải nhiệt cho ngày nắng nóng",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/tra-tac-xi-muoi-thumbnail.jpg"
+}

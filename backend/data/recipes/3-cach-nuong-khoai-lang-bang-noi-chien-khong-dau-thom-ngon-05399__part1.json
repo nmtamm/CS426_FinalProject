@@ -1,0 +1,41 @@
+{
+  "source_id": "05399",
+  "name": "Khoai lang mật nướng bằng nồi chiên không dầu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7c358583cbb6d1a8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-nuong-khoai-lang-bang-noi-chien-khong-dau-thom-ngon-05399",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-nuong-khoai-lang-bang-noi-chien-khong-dau-thom-ngon-05399",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai lang mật 3 củ",
+      "raw_name": "Khoai lang mật",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối 2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:07:32Z",
+  "page_title": "3 cách nướng khoai lang bằng nồi chiên không dầu thơm ngon hấp dẫn",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookRecipe/Avatar/khoai-lang-nuong-bo-bang-noi-chien-khong-dau-thumbnail.jpg"
+}

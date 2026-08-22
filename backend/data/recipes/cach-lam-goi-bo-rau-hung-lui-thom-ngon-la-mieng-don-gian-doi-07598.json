@@ -1,0 +1,115 @@
+{
+  "source_id": "07598",
+  "name": "Gỏi bò rau húng lũi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5d4c32a8ba873262.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-bo-rau-hung-lui-thom-ngon-la-mieng-don-gian-doi-07598",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-bo-rau-hung-lui-thom-ngon-la-mieng-don-gian-doi-07598",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hành tím cắt lát 6 củ",
+      "raw_name": "Hành tím cắt lát",
+      "quantity": 6,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu phộng rang 50 gr",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt sừng 1 quả",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Chanh 2 quả",
+      "raw_name": "Chanh",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt hiểm 6 trái",
+      "raw_name": "Ớt hiểm",
+      "quantity": 6,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tỏi 4 tép",
+      "raw_name": "Tỏi 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hành tím 4 củ",
+      "raw_name": "Hành tím",
+      "quantity": 4,
+      "unit": "củ",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Rau hũng lũi 30 gr (hay còn gọi húng nhũi/húng nhủi/húng bạc hà)",
+      "raw_name": "Rau hũng lũi",
+      "quantity": 30,
+      "unit": "gr",
+      "note": "hay còn gọi húng nhũi/húng nhủi/húng bạc hà",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dừa tươi 1 quả",
+      "raw_name": "Dừa tươi",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gừng cắt lát 2 củ",
+      "raw_name": "Gừng cắt lát",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T17:55:37Z",
+  "page_title": "Cách làm gỏi bò rau húng lũi thơm ngon lạ miệng đơn giản đổi vị cho bữa ăn",
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookProduct/Cachlamgoiborauhungluithomngonlamiengdongiandoivichobuaan-1200x676.jpg"
+}

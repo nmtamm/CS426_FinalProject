@@ -1,0 +1,65 @@
+{
+  "source_id": "02720",
+  "name": "Bánh cookie yến mạch",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/fcfb5da11d197ce1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-quy-cookie-keto-yen-mach-don-gian-th-02720",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-quy-cookie-keto-yen-mach-don-gian-th-02720",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Yến mạch cán dẹt 100 gr",
+      "raw_name": "Yến mạch cán dẹt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Khoai lang 100 gr (vàng hoặc tím đều được)",
+      "raw_name": "Khoai lang",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "vàng hoặc tím đều được",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bơ đậu phộng 30 gr",
+      "raw_name": "Bơ đậu phộng",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lòng đỏ trứng gà 1 cái",
+      "raw_name": "Lòng đỏ trứng gà",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Mật ong 20 ml",
+      "raw_name": "Mật ong",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:08:52Z",
+  "page_title": "2 cách làm bánh cookie yến mạch keto giòn ngon thơm lừng cực đơn giản",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/banh-quy-cookie-keto-yen-mach-thumbnail-1.jpg"
+}

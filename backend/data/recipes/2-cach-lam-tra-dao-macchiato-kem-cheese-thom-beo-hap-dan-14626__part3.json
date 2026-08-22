@@ -1,0 +1,61 @@
+{
+  "source_id": "14626",
+  "name": "Kem cheese từ phô mai con bò cười",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/049381aca3e53bb1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-dao-macchiato-kem-cheese-thom-beo-hap-dan-14626",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-dao-macchiato-kem-cheese-thom-beo-hap-dan-14626",
+  "servings_text": "Cho 4 ngườii",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Phô mai con bò cười 4 miếng",
+      "raw_name": "Phô mai con bò cười 4 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Kem tươi dạng đặc 230 gr (hoặc 150ml whipping cream đánh bông)",
+      "raw_name": "Kem tươi dạng đặc",
+      "quantity": 230,
+      "unit": "gr",
+      "note": "hoặc 150ml whipping cream đánh bông",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đặc 30 ml",
+      "raw_name": "Sữa đặc",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa tươi không đường 100 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối tinh 2 gr (hoặc muối hồng Himalaya)",
+      "raw_name": "Muối tinh",
+      "quantity": 2,
+      "unit": "gr",
+      "note": "hoặc muối hồng Himalaya",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:53:56Z",
+  "page_title": "3 Cách làm trà đào macchiato và kem cheese thơm béo hấp dẫn",
+  "variant_index": 3,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2022/02/CookRecipe/Avatar/kem-cheese-tu-pho-mai-con-bo-cuoi-thumbnail.jpg"
+}

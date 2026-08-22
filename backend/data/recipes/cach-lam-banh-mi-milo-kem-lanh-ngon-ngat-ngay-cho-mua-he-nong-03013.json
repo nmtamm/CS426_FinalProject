@@ -1,0 +1,87 @@
+{
+  "source_id": "03013",
+  "name": "Bánh mì milo kem lạnh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/087b8719e807d494.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-mi-milo-kem-lanh-ngon-ngat-ngay-cho-mua-he-nong-03013",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-mi-milo-kem-lanh-ngon-ngat-ngay-cho-mua-he-nong-03013",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì số 13 250 g",
+      "raw_name": "Bột mì số 13",
+      "quantity": 250,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột mì đa dụng 30 g (bột mì số 11)",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 30,
+      "unit": "g",
+      "note": "bột mì số 11",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột milo 66 g (3 gói)",
+      "raw_name": "Bột milo",
+      "quantity": 66,
+      "unit": "g",
+      "note": "3 gói",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Men instant vàng 5 g",
+      "raw_name": "Men instant vàng",
+      "quantity": 5,
+      "unit": "g",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bơ lạt 42 g",
+      "raw_name": "Bơ lạt",
+      "quantity": 42,
+      "unit": "g",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Whipping cream 220 g (Kem sữa tươi)",
+      "raw_name": "Whipping cream",
+      "quantity": 220,
+      "unit": "g",
+      "note": "Kem sữa tươi",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Sữa tươi 330 g",
+      "raw_name": "Sữa tươi",
+      "quantity": 330,
+      "unit": "g",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Trứng gà 3 trái",
+      "raw_name": "Trứng gà",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:26:41Z",
+  "page_title": "Cách làm bánh mì milo kem lạnh ngon ngất ngây cho mùa hè nóng bức",
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookProduct/1-1200x676-6.jpg"
+}

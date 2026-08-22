@@ -1,0 +1,115 @@
+{
+  "source_id": "12627",
+  "name": "Chạo tai heo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/fe886edd47867efd.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chao-tai-heo-don-gian-hap-dan-moi-la-thom-ngon-kho-12627",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chao-tai-heo-don-gian-hap-dan-moi-la-thom-ngon-kho-12627",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tai heo 350 gr",
+      "raw_name": "Tai heo",
+      "quantity": 350,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Riềng băm nhuyễn 80 gr",
+      "raw_name": "Riềng băm nhuyễn",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Xoài xanh 1 trái (hoặc 2 trái khế chua)",
+      "raw_name": "Xoài xanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": "hoặc 2 trái khế chua",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Vừng 15 gr (mè)",
+      "raw_name": "Vừng",
+      "quantity": 15,
+      "unit": "gr",
+      "note": "mè",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chanh 5 lá",
+      "raw_name": "Chanh",
+      "quantity": 5,
+      "unit": "lá",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sả 4 củ",
+      "raw_name": "Sả",
+      "quantity": 4,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt 2 trái",
+      "raw_name": "Ớt",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Chanh 1 quả",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Rau ăn kèm 1 ít (lá sung/lá đinh lăng/lá mơ/rau thơm các loại ...)",
+      "raw_name": "Rau ăn kèm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "lá sung/lá đinh lăng/lá mơ/rau thơm các loại ...",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Giấm 1 ít",
+      "raw_name": "Giấm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Muối/bột ngọt 1 ít",
+      "raw_name": "Muối/bột ngọt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T17:54:25Z",
+  "page_title": "Cách làm chạo tai heo đơn giản hấp dẫn mới lạ thơm ngon khó cưỡng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/chunhat-1200x676.jpg"
+}

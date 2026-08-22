@@ -1,0 +1,83 @@
+{
+  "source_id": "23542",
+  "name": "Mắm ruốc xào sả ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9c90ca1019c35823.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mam-ruoc-xao-sa-ot-dam-da-de-an-com-cham-trai-cay-23542",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mam-ruoc-xao-sa-ot-dam-da-de-an-com-cham-trai-cay-23542",
+  "servings_text": "Cho khoảng 22 - 23 hũ 120ml",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mắm ruốc đặc 3 kg",
+      "raw_name": "Mắm ruốc đặc",
+      "quantity": 3,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Khóm đã gọt vỏ 1.4 kg (dứa)",
+      "raw_name": "Khóm đã gọt vỏ",
+      "quantity": 1.4,
+      "unit": "kg",
+      "note": "dứa",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 100 gr",
+      "raw_name": "Tỏi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sả 100 gr",
+      "raw_name": "Sả",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 2 kg",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột ngọt 50 gr",
+      "raw_name": "Bột ngọt",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt băm 1.5 muỗng canh",
+      "raw_name": "Ớt băm",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít (khoảng 100 - 200ml)",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "khoảng 100 - 200ml",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:25:52Z",
+  "page_title": "Cách làm mắm ruốc xào sả ớt đậm đà để ăn cơm, chấm trái cây đều ngon",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20m%C3%B3n%20an%20t11%20%281200%20x%20676%20px%29%20-%202025-11-25T172325.257.jpg"
+}

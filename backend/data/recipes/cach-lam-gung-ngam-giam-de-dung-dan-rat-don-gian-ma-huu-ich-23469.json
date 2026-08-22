@@ -1,0 +1,51 @@
+{
+  "source_id": "23469",
+  "name": "Gừng ngâm giấm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/eebc49b41109d1d5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-gung-ngam-giam-de-dung-dan-rat-don-gian-ma-huu-ich-23469",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-gung-ngam-giam-de-dung-dan-rat-don-gian-ma-huu-ich-23469",
+  "servings_text": "Cho 500 gram gừng tươi",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gừng tươi 500 gr",
+      "raw_name": "Gừng tươi",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Giấm 250 ml (giấm táo/giấm gạo)",
+      "raw_name": "Giấm",
+      "quantity": 250,
+      "unit": "ml",
+      "note": "giấm táo/giấm gạo",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường cát 100 gr",
+      "raw_name": "Đường cát",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:26:04Z",
+  "page_title": "Cách làm gừng ngâm giấm để dùng dần rất đơn giản mà hữu ích",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/cach-lam-keo-keo-dau-phong-gion-khong-dinh-don-gian-tai-nhahhh.jpg"
+}

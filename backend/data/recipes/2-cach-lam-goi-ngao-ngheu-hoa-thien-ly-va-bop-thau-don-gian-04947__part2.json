@@ -1,0 +1,165 @@
+{
+  "source_id": "04947",
+  "name": "Gỏi ngao bóp thấu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/06db7e5eab5848fb.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-ngao-ngheu-hoa-thien-ly-va-bop-thau-don-gian-04947",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-ngao-ngheu-hoa-thien-ly-va-bop-thau-don-gian-04947",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ngao 1 kg (nghêu)",
+      "raw_name": "Ngao",
+      "quantity": 1,
+      "unit": "kg",
+      "note": "nghêu",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt heo 500 gr",
+      "raw_name": "Thịt heo",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tây tím 1 củ",
+      "raw_name": "Hành tây tím",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dưa leo 2 quả",
+      "raw_name": "Dưa leo",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 4 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tương ớt 2 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tỏi 10 gr",
+      "raw_name": "Tỏi",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hạt nêm 1 muỗng cà phê",
+      "raw_name": "Hạt nêm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đậu phộng rang 10 gr",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Rau răm 10 gr",
+      "raw_name": "Rau răm",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Húng quế 5 gr",
+      "raw_name": "Húng quế",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Muối 2.5 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 2.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Ngò rí 5 gr",
+      "raw_name": "Ngò rí",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Ớt 20 gr",
+      "raw_name": "Ớt",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Chanh 3 quả",
+      "raw_name": "Chanh",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 17
+    },
+    {
+      "raw_text": "Muối hột 1 ít",
+      "raw_name": "Muối hột",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 18
+    }
+  ],
+  "scraped_at": "2026-08-19T18:02:47Z",
+  "page_title": "3 cách làm gỏi ngao (nghêu) đơn giản dễ làm thơm ngon khó cưỡng",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookRecipe/Avatar/goi-ngao-bop-thau-thumbnail-3.jpg"
+}

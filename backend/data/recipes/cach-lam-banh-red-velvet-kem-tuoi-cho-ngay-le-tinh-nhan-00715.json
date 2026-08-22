@@ -1,0 +1,119 @@
+{
+  "source_id": "00715",
+  "name": "Bánh red velvet cupcake kem tươi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6ea1c5a9e58e244f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-red-velvet-kem-tuoi-cho-ngay-le-tinh-nhan-00715",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-red-velvet-kem-tuoi-cho-ngay-le-tinh-nhan-00715",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sữa tươi không đường 240 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 240,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Giấm trắng 15 ml",
+      "raw_name": "Giấm trắng",
+      "quantity": 15,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột mì 240 g",
+      "raw_name": "Bột mì",
+      "quantity": 240,
+      "unit": "g",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột ca cao 25 g",
+      "raw_name": "Bột ca cao",
+      "quantity": 25,
+      "unit": "g",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Baking soda 1.5 muỗng cà phê (mua ở các cửa hiệu bán đồ làm bánh)",
+      "raw_name": "Baking soda",
+      "quantity": 1.5,
+      "unit": "muỗng cà phê",
+      "note": "mua ở các cửa hiệu bán đồ làm bánh",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bơ lạt để mềm ở nhiệt độ phòng 120 g",
+      "raw_name": "Bơ lạt để mềm ở nhiệt độ phòng",
+      "quantity": 120,
+      "unit": "g",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường bột 170 g",
+      "raw_name": "Đường bột",
+      "quantity": 170,
+      "unit": "g",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Vani dạng nước 5 ml",
+      "raw_name": "Vani dạng nước",
+      "quantity": 5,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Màu thực phẩm đỏ dạng nước 25 ml (bạn có thể dùng màu dạng gel tùy theo sở thích cho màu đậm hay nhạt)",
+      "raw_name": "Màu thực phẩm đỏ dạng nước",
+      "quantity": 25,
+      "unit": "ml",
+      "note": "bạn có thể dùng màu dạng gel tùy theo sở thích cho màu đậm hay nhạt",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Kem tươi 200 ml (whipping cream có thể mua ở siêu thị)",
+      "raw_name": "Kem tươi",
+      "quantity": 200,
+      "unit": "ml",
+      "note": "whipping cream có thể mua ở siêu thị",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Đường bột đánh cùng kem 80 g",
+      "raw_name": "Đường bột đánh cùng kem",
+      "quantity": 80,
+      "unit": "g",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T19:45:33Z",
+  "page_title": "Cách làm bánh red velvet cupcake kem tươi",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2017/02/02/944358/cach-lam-banh-red-velvet-kem-tuoi-cho-ngay-le-tinh-nhan-1-760x367.jpg"
+}

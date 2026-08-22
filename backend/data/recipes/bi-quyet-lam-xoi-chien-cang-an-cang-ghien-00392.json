@@ -1,0 +1,79 @@
+{
+  "source_id": "00392",
+  "name": "Xôi chiên nhân thịt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c3b0883e8f3a26e6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/bi-quyet-lam-xoi-chien-cang-an-cang-ghien-00392",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/bi-quyet-lam-xoi-chien-cang-an-cang-ghien-00392",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt băm 300 gr",
+      "raw_name": "Thịt băm",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm mèo 1/2 chén (cắt nhỏ)",
+      "raw_name": "Nấm mèo",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": "cắt nhỏ",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sắn 1/2 củ (băm nhỏ)",
+      "raw_name": "Sắn",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": "băm nhỏ",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 1/4 củ (băm nhỏ)",
+      "raw_name": "Cà rốt",
+      "quantity": 0.25,
+      "unit": "củ",
+      "note": "băm nhỏ",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tím 1 củ (băm nhỏ)",
+      "raw_name": "Hành tím",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "băm nhỏ",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gạo nếp 500 gr",
+      "raw_name": "Gạo nếp",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ đường/ hạt nêm/ bột ngọt/...)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ đường/ hạt nêm/ bột ngọt/...",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:31:14Z",
+  "page_title": "Cách làm xôi chiên nhân thịt ngon ngất ngây con gà tây",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2014/10/09/572276/bi-quyet-lam-xoi-chien-cang-an-cang-ghien-760x367.jpg"
+}

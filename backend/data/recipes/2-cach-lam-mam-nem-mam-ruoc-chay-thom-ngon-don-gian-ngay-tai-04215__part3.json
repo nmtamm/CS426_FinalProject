@@ -1,0 +1,70 @@
+{
+  "source_id": "04215",
+  "name": "Mắm ruốc chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9959b70329867ced.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mam-nem-mam-ruoc-chay-thom-ngon-don-gian-ngay-tai-04215",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mam-nem-mam-ruoc-chay-thom-ngon-don-gian-ngay-tai-04215",
+  "servings_text": "Cho 3 người ăn",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sả băm 1 muỗng canh",
+      "raw_name": "Sả băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mắm đậu 140 gram",
+      "raw_name": "Mắm đậu 140 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cơm chao 120 gram",
+      "raw_name": "Cơm chao 120 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt bột Hàn Quốc 2 muỗng canh",
+      "raw_name": "Ớt bột Hàn Quốc",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường thốt nốt 2 muỗng canh",
+      "raw_name": "Đường thốt nốt",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:46:19Z",
+  "page_title": "3 cách làm mắm nêm, mắm ruốc chay thơm ngon đơn giản ngay tại nhà",
+  "variant_index": 3,
+  "variant_count": 3,
+  "note": "Công thức được chia sẻ từ Tiktok Bếp chay XANH",
+  "original_image_url": "https://cdn.tgdd.vn/2023/05/CookRecipe/Avatar/mam-ruoc-chay-cong-thuc-khac-thumbnail.jpg"
+}

@@ -1,0 +1,45 @@
+{
+  "source_id": "09870",
+  "name": "Siro hoa hồng bằng hoa hồng tươi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e1b25eef959d462f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-siro-hoa-hong-tu-nhien-va-an-toan-tai-nha-09870",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-siro-hoa-hong-tu-nhien-va-an-toan-tai-nha-09870",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hoa hồng 40 gr (50 bông hoa tươi)",
+      "raw_name": "Hoa hồng",
+      "quantity": 40,
+      "unit": "gr",
+      "note": "50 bông hoa tươi",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bạch đậu khấu 1/2 muỗng cà phê (loại bột)",
+      "raw_name": "Bạch đậu khấu",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": "loại bột",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường phèn 300 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:54:56Z",
+  "page_title": "2 cách làm siro hoa hồng tự nhiên đơn giản và an toàn tại nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/siro-hoa-hong-thumbnail.jpg"
+}

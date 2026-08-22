@@ -1,0 +1,61 @@
+{
+  "source_id": "13108",
+  "name": "Soda việt quất chanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e5b5b5df0e62ba62.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cac-cach-lam-soda-viet-quat-chua-ngot-mat-lanh-khuay-dong-13108",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cac-cach-lam-soda-viet-quat-chua-ngot-mat-lanh-khuay-dong-13108",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Quả việt quất 100 gr",
+      "raw_name": "Quả việt quất",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chanh vàng 2 trái",
+      "raw_name": "Chanh vàng",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 80 gr",
+      "raw_name": "Đường",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước lọc 80 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 80,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Soda 360 ml",
+      "raw_name": "Soda",
+      "quantity": 360,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:05:11Z",
+  "page_title": "3 cách làm soda việt quất - blueberry soda chua ngọt mát lạnh ngày hè",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookRecipe/Avatar/soda-viet-quat-chanh-thumbnail.jpg"
+}

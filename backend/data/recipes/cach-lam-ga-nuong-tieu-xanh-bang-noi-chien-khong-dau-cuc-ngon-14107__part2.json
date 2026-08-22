@@ -1,0 +1,74 @@
+{
+  "source_id": "14107",
+  "name": "Gà nướng tỏi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/246e61a818a9f29f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-nuong-tieu-xanh-bang-noi-chien-khong-dau-cuc-ngon-14107",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-nuong-tieu-xanh-bang-noi-chien-khong-dau-cuc-ngon-14107",
+  "servings_text": "Cho 1 - 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tỏi 40 gr",
+      "raw_name": "Tỏi",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Má đùi gà 300 gr",
+      "raw_name": "Má đùi gà",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hắc xì dầu 1 muỗng",
+      "raw_name": "Hắc xì dầu",
+      "quantity": 1,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu hào 2 muỗng",
+      "raw_name": "Dầu hào",
+      "quantity": 2,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hạt nêm 1 muỗng",
+      "raw_name": "Hạt nêm",
+      "quantity": 1,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 1 muỗng",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:11:26Z",
+  "page_title": "Cách làm gà nướng tiêu xanh và tỏi bằng nồi chiên không dầu cực ngon",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "Công thức được chia sẻ từ Tiktok Vào bếp cùng Điện máy XANH",
+  "original_image_url": "https://cdn.tgdd.vn/2023/11/CookRecipe/Avatar/ga-nuong-toi-cong-thuc-duoc-chia-se-tu-tiktok-vao-bep-cung-dien-may-xanh-thumbnail.jpg"
+}

@@ -1,0 +1,77 @@
+{
+  "source_id": "11187",
+  "name": "Mojito xoài chanh tươi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1f7125d40eb97cb6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mojito-xoai-mango-mojito-mat-lanh-don-gian-tai-nha-11187",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mojito-xoai-mango-mojito-mat-lanh-don-gian-tai-nha-11187",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Xoài 2 quả",
+      "raw_name": "Xoài",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chanh 7 miếng",
+      "raw_name": "Chanh 7 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá bạc hà 1/2 chén",
+      "raw_name": "Lá bạc hà",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mật ong 3 muỗng canh (hoặc siro lá phong)",
+      "raw_name": "Mật ong",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": "hoặc siro lá phong",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cốt chanh 4 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Soda 1 ít (khoảng 1 lon)",
+      "raw_name": "Soda",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "khoảng 1 lon",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:05:33Z",
+  "page_title": "2 cách làm mojito xoài - mango mojito mát lạnh đơn giản tại nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookRecipe/Avatar/mojito-xoai-chanh-tuoi-thumbnail-1.jpg"
+}

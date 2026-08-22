@@ -1,0 +1,107 @@
+{
+  "source_id": "06819",
+  "name": "Gỏi tôm sống xoài xanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3a8a21a2296634b3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-tom-song-xoai-xanh-chua-chua-cay-cay-cuc-don-06819",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-tom-song-xoai-xanh-chua-chua-cay-cay-cuc-don-06819",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tôm 400 gr",
+      "raw_name": "Tôm",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xoài 2 quả",
+      "raw_name": "Xoài",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Soda 150 ml",
+      "raw_name": "Soda",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột baking soda 1 muỗng canh",
+      "raw_name": "Bột baking soda",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt 13 quả",
+      "raw_name": "Ớt",
+      "quantity": 13,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tím 2 củ",
+      "raw_name": "Hành tím",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Mắm nêm 70 ml",
+      "raw_name": "Mắm nêm",
+      "quantity": 70,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Chanh 4 quả",
+      "raw_name": "Chanh",
+      "quantity": 4,
+      "unit": "quả",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ớt bột 2 muỗng cà phê",
+      "raw_name": "Ớt bột",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đường thốt nốt 50 gr",
+      "raw_name": "Đường thốt nốt",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T17:59:41Z",
+  "page_title": "Cách làm gỏi tôm sống xoài xanh chua chua cay cay cực đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/1200676gdf-1200x675.jpg"
+}

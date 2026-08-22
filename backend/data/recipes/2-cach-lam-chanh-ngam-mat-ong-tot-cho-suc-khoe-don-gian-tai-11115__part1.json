@@ -1,0 +1,53 @@
+{
+  "source_id": "11115",
+  "name": "Chanh ngâm mật ong",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/32f166964249cf90.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-chanh-ngam-mat-ong-tot-cho-suc-khoe-don-gian-tai-11115",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-chanh-ngam-mat-ong-tot-cho-suc-khoe-don-gian-tai-11115",
+  "servings_text": "Cho 1 hũ lớn",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chanh 3 quả",
+      "raw_name": "Chanh",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đinh hương 1 muỗng cà phê",
+      "raw_name": "Đinh hương",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mật ong 500 ml",
+      "raw_name": "Mật ong",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:02:48Z",
+  "page_title": "2 cách làm chanh ngâm mật ong tốt cho sức khỏe, đơn giản tại nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookRecipe/Avatar/cham-ngam-mat-ong-thumbnail-2.jpg"
+}

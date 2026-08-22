@@ -1,0 +1,141 @@
+{
+  "source_id": "06807",
+  "name": "Bánh kem dâu tây socola hình trái tim",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3d1fb40a922817ee.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-kem-dau-tay-socola-hinh-trai-tim-don-gian-cho-06807",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-kem-dau-tay-socola-hinh-trai-tim-don-gian-cho-06807",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột làm bánh 53 gr (bột mì số 8)",
+      "raw_name": "Bột làm bánh",
+      "quantity": 53,
+      "unit": "gr",
+      "note": "bột mì số 8",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột bắp 10 gr",
+      "raw_name": "Bột bắp",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột cacao 7 gr",
+      "raw_name": "Bột cacao",
+      "quantity": 7,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bơ lạt 17 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 17,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sữa tươi 280 ml",
+      "raw_name": "Sữa tươi",
+      "quantity": 280,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 115 gr",
+      "raw_name": "Đường",
+      "quantity": 115,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gelatin 1 lá (2gr)",
+      "raw_name": "Gelatin",
+      "quantity": 1,
+      "unit": "lá",
+      "note": "2gr",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Trứng gà 95 gr",
+      "raw_name": "Trứng gà",
+      "quantity": 95,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Lòng đỏ trứng gà 3 cái",
+      "raw_name": "Lòng đỏ trứng gà",
+      "quantity": 3,
+      "unit": "cái",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Siro bắp 7 ml",
+      "raw_name": "Siro bắp",
+      "quantity": 7,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Tinh chất vani 4 ml",
+      "raw_name": "Tinh chất vani",
+      "quantity": 4,
+      "unit": "ml",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dâu xay nhuyễn 30 gr",
+      "raw_name": "Dâu xay nhuyễn",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Whipping cream 80 gr (đã đánh bông)",
+      "raw_name": "Whipping cream",
+      "quantity": 80,
+      "unit": "gr",
+      "note": "đã đánh bông",
+      "display_order": 13
+    },
+    {
+      "raw_text": "Dâu tây tươi 1 ít (để trang trí)",
+      "raw_name": "Dâu tây tươi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "để trang trí",
+      "display_order": 14
+    },
+    {
+      "raw_text": "Ganache (để phủ bánh) 1 ít (gồm 70gr socola và 35gr whipping cream)",
+      "raw_name": "Ganache (để phủ bánh)",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "gồm 70gr socola và 35gr whipping cream",
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T19:41:00Z",
+  "page_title": "4 cách làm bánh kem trái tim đơn giản đẹp mắt thơm ngon tặng mẹ ngày 20/10",
+  "variant_index": 2,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookRecipe/Avatar/banh-kem-dau-tay-socola-hinh-trai-tim-thumbnail.jpg"
+}

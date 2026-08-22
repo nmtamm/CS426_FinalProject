@@ -1,0 +1,91 @@
+{
+  "source_id": "16230",
+  "name": "Gỏi đu đủ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a6c236479829fc6f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-du-du-chua-ngot-thom-ngon-thanh-mat-kich-thich-16230",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-du-du-chua-ngot-thom-ngon-thanh-mat-kich-thich-16230",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đu đủ xanh 500 gr",
+      "raw_name": "Đu đủ xanh",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rau thơm ăn kèm 100 gr (húng quế/ rau răm/ húng lủi/...)",
+      "raw_name": "Rau thơm ăn kèm",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "húng quế/ rau răm/ húng lủi/...",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu phộng 200 gr",
+      "raw_name": "Đậu phộng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chanh 2 trái",
+      "raw_name": "Chanh",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt sừng 1 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 1 củ (loại nhỏ)",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "loại nhỏ",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột canh 2 muỗng cà phê",
+      "raw_name": "Bột canh",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường/ muối 1 ít",
+      "raw_name": "Đường/ muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T17:54:01Z",
+  "page_title": "Cách làm gỏi đu đủ chua ngọt thơm ngon thanh mát, kích thích vị giác",
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookDish/cach-lam-goi-du-du-chua-ngot-thom-ngon-thanh-mat-kich-thich-avt-1200x676.jpg"
+}

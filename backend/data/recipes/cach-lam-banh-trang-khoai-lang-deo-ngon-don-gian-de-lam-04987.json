@@ -1,0 +1,63 @@
+{
+  "source_id": "04987",
+  "name": "Bánh tráng khoai lang dẻo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/03cfb0f53ac2b91a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trang-khoai-lang-deo-ngon-don-gian-de-lam-04987",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trang-khoai-lang-deo-ngon-don-gian-de-lam-04987",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai lang tím 1 củ",
+      "raw_name": "Khoai lang tím",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Khoai lang vàng 1 củ",
+      "raw_name": "Khoai lang vàng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gừng 20 gr",
+      "raw_name": "Gừng",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mè đen 2 muỗng canh",
+      "raw_name": "Mè đen",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 4 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:23:45Z",
+  "page_title": "Cách làm bánh tráng khoai lang dẻo ngon đơn giản dễ làm",
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookProduct/1200-1200x676-8.jpg"
+}

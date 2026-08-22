@@ -1,0 +1,99 @@
+{
+  "source_id": "14712",
+  "name": "Sinh tố bơ đậu phộng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/277c4e2cdc975fe2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sinh-to-bo-dau-phong-thom-beo-cho-bua-sang-day-dinh-14712",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sinh-to-bo-dau-phong-thom-beo-cho-bua-sang-day-dinh-14712",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bơ đậu phộng 2 muỗng canh",
+      "raw_name": "Bơ đậu phộng",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột bơ đậu phộng 2 muỗng canh (peanut butter powder)",
+      "raw_name": "Bột bơ đậu phộng",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "peanut butter powder",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột protein 10 gr (loại tùy chọn)",
+      "raw_name": "Bột protein",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "loại tùy chọn",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Whipping cream 75 ml",
+      "raw_name": "Whipping cream",
+      "quantity": 75,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sữa hạnh nhân không đường 75 ml (hoặc sữa tươi không đường)",
+      "raw_name": "Sữa hạnh nhân không đường",
+      "quantity": 75,
+      "unit": "ml",
+      "note": "hoặc sữa tươi không đường",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Siro cây phong 1 muỗng cà phê (maple syrup)",
+      "raw_name": "Siro cây phong",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "maple syrup",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đậu phộng rang 1 ít (giã dập)",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "giã dập",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Topping cream 1 ít (dùng trang trí)",
+      "raw_name": "Topping cream",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "dùng trang trí",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối 1/6 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.167,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T20:08:45Z",
+  "page_title": "Cách làm sinh tố bơ đậu phộng thơm béo cho bữa sáng đầy dinh dưỡng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-sinh-to-bo-dau-phong-thom-beo-cho-bua-sang-day-dinh-avt-1200x676.jpg"
+}

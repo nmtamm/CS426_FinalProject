@@ -1,0 +1,119 @@
+{
+  "source_id": "22844",
+  "name": "Bì cuốn miền Tây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/59b20bd562874d51.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bi-cuon-mien-tay-thom-ngon-chuan-vi-voi-chao-inox-de-22844",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bi-cuon-mien-tay-thom-ngon-chuan-vi-voi-chao-inox-de-22844",
+  "servings_text": "Cho 4 - 6 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt ba rọi rút sườn 500 gr (có thể thay bằng thịt nạc vai hoặc thịt đùi)",
+      "raw_name": "Thịt ba rọi rút sườn",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "có thể thay bằng thịt nạc vai hoặc thịt đùi",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Da bì tươi 400 gr",
+      "raw_name": "Da bì tươi",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi ớt băm 2 muỗng canh (dùng để ướp thịt và trộn bì)",
+      "raw_name": "Tỏi ớt băm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "dùng để ướp thịt và trộn bì",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột ngũ vị hương 1 ít",
+      "raw_name": "Bột ngũ vị hương",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường thốt nốt 1 muỗng canh",
+      "raw_name": "Đường thốt nốt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Giấm 1 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 ít",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Cà rốt bào sợi 1 ít",
+      "raw_name": "Cà rốt bào sợi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tỏi phi 1 muỗng canh",
+      "raw_name": "Tỏi phi",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Thính gạo 1 ít",
+      "raw_name": "Thính gạo",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Rau cuốn gỏi/ bánh tráng phơi sương 1 ít",
+      "raw_name": "Rau cuốn gỏi/ bánh tráng phơi sương",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ nước mắm/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ nước mắm/ bột ngọt",
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T19:34:06Z",
+  "page_title": "Cách làm bì cuốn miền Tây thơm ngon chuẩn vị với chảo inox để đãi tiệc",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/20052025%20%286%29.jpg"
+}

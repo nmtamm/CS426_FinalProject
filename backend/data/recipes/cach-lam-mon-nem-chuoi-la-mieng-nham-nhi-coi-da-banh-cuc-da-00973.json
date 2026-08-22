@@ -1,0 +1,55 @@
+{
+  "source_id": "00973",
+  "name": "Nem chuối",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/08d33a1a1c72ef27.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-nem-chuoi-la-mieng-nham-nhi-coi-da-banh-cuc-da-00973",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-nem-chuoi-la-mieng-nham-nhi-coi-da-banh-cuc-da-00973",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh tráng bía 1 gói",
+      "raw_name": "Bánh tráng bía",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chuối chín 4 trái",
+      "raw_name": "Chuối chín",
+      "quantity": 4,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Phô mai Emmental 50 gr",
+      "raw_name": "Phô mai Emmental",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 1 chén",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:30:42Z",
+  "page_title": "Cách làm món nem chuối lạ miệng, nhâm nhi coi đá banh cực đã",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2018/06/09/1094250/doi-vi-voi-mon-nem-chuoi-cho-mua-bong-da-2018-5-760x367.jpg"
+}

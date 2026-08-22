@@ -1,0 +1,86 @@
+{
+  "source_id": "13205",
+  "name": "Cà pháo muối xổi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b7c92b65fddfc55f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-phao-muoi-xoi-an-lien-chua-cay-gion-ngon-don-gian-13205",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-phao-muoi-xoi-an-lien-chua-cay-gion-ngon-don-gian-13205",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đường vàng 100 gr",
+      "raw_name": "Đường vàng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tương ớt 3 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước quất 100 ml",
+      "raw_name": "Nước quất",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dấm 100 ml",
+      "raw_name": "Dấm",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 50 gr",
+      "raw_name": "Tỏi",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gừng 20 gr",
+      "raw_name": "Gừng",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Giềng 20 gr",
+      "raw_name": "Giềng",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt sừng 3 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:00:24Z",
+  "page_title": "3 cách làm cà pháo muối xổi ăn liền chua cay giòn ngon đơn giản tại nhà",
+  "variant_index": 3,
+  "variant_count": 3,
+  "note": "Công thức được chia sẻ từ TikTok Vào bếp cùng Điện máy XANH",
+  "original_image_url": "https://cdn.tgdd.vn/2023/05/CookRecipe/Avatar/ca-phao-muoi-xoi-thumbnail.jpg"
+}

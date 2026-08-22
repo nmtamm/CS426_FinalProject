@@ -1,0 +1,53 @@
+{
+  "source_id": "00860",
+  "name": "Nước ép bí đao bạc hà",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1228af13ff5fa187.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-bi-dao-chanh-tuoi-thanh-nhiet-ngay-tet-00860",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-bi-dao-chanh-tuoi-thanh-nhiet-ngay-tet-00860",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bí đao 1/2 trái",
+      "raw_name": "Bí đao",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lá bạc hà 8 lá",
+      "raw_name": "Lá bạc hà",
+      "quantity": 8,
+      "unit": "lá",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước cốt chanh 10 ml",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối/ tiêu 1 ít",
+      "raw_name": "Muối/ tiêu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:12:48Z",
+  "page_title": "6 cách làm nước ép bí đao dễ uống, thanh mát, hỗ trợ giảm cân",
+  "variant_index": 3,
+  "variant_count": 6,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/nuoc-ep-bi-dao-bac-ha-thumbnail.jpg"
+}

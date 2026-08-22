@@ -1,0 +1,49 @@
+{
+  "source_id": "02395",
+  "name": "Xúc xích ngôi sao",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/466313e4383bcbfd.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-xuc-xich-bach-tuoc-va-xuc-xich-ngoi-sao-02395",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-xuc-xich-bach-tuoc-va-xuc-xich-ngoi-sao-02395",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Xúc xích 500 gr",
+      "raw_name": "Xúc xích",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng gà 4 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 4,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Xiên que 0.5 kg",
+      "raw_name": "Xiên que",
+      "quantity": 0.5,
+      "unit": "kg",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:26:32Z",
+  "page_title": "2 cách làm xúc xích bạch tuộc và xúc xích ngôi sao thơm ngon, hấp dẫn",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/xuc-xich-ngoi-sao-thumbnail.jpg"
+}

@@ -1,0 +1,55 @@
+{
+  "source_id": "09090",
+  "name": "Thạch viên phô mai tươi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a9061d4026827bc0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thach-vien-pho-mai-tuoi-thom-ngon-beo-mem-09090",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thach-vien-pho-mai-tuoi-thom-ngon-beo-mem-09090",
+  "servings_text": "Cho 6 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột năng 70 gr",
+      "raw_name": "Bột năng",
+      "quantity": 70,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Phô mai 12 miếng",
+      "raw_name": "Phô mai 12 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường xay 75 gr",
+      "raw_name": "Đường xay",
+      "quantity": 75,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường cát 150 gr",
+      "raw_name": "Đường cát",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:09:24Z",
+  "page_title": "Cách làm thạch viên phô mai tươi thơm ngon béo mềm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookProduct/1200-1200x676-36.jpg"
+}

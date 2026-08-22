@@ -1,0 +1,63 @@
+{
+  "source_id": "12372",
+  "name": "Canh cải bó xôi nấu thịt gà băm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/fcc49e89c23ff7de.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-canh-cai-bo-xoi-nau-thit-ga-bam-ngot-mat-day-dinh-12372",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-canh-cai-bo-xoi-nau-thit-ga-bam-ngot-mat-day-dinh-12372",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-canh",
+      "name": "Món canh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt đùi gà 200 gr (loại đã lọc bỏ da và xương)",
+      "raw_name": "Thịt đùi gà",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "loại đã lọc bỏ da và xương",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cải bó xôi 2 bó (rau bina)",
+      "raw_name": "Cải bó xôi 2 bó",
+      "quantity": null,
+      "unit": null,
+      "note": "rau bina",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gừng 1 củ (củ nhỏ khoảng 20gr)",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "củ nhỏ khoảng 20gr",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ bột ngọt/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ bột ngọt/ hạt nêm",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T18:07:59Z",
+  "page_title": "Cách nấu canh cải bó xôi nấu thịt gà băm ngọt mát, đầy dinh dưỡng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/thum1200-1200x676-6.jpg"
+}

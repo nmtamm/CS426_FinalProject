@@ -1,0 +1,69 @@
+{
+  "source_id": "12552",
+  "name": "Trà sữa socola nutella",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d8dbff5cc474f665.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-sua-socola-dam-vi-thom-ngon-cuc-don-gian-tai-12552",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-sua-socola-dam-vi-thom-ngon-cuc-don-gian-tai-12552",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà túi lọc 2 gói",
+      "raw_name": "Trà túi lọc",
+      "quantity": 2,
+      "unit": "gói",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Kem béo thực vật 55 ml (hoặc whipping cream)",
+      "raw_name": "Kem béo thực vật",
+      "quantity": 55,
+      "unit": "ml",
+      "note": "hoặc whipping cream",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đặc 55 gr",
+      "raw_name": "Sữa đặc",
+      "quantity": 55,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nutella 50 gr",
+      "raw_name": "Nutella",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước nóng 200 ml",
+      "raw_name": "Nước nóng",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đá 1 ít",
+      "raw_name": "Đá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:10:31Z",
+  "page_title": "6 cách làm trà sữa socola tại nhà đậm vị thơm ngon cực đơn giản",
+  "variant_index": 4,
+  "variant_count": 6,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/tra-sua-socola-nutella-thumbnail.jpg"
+}

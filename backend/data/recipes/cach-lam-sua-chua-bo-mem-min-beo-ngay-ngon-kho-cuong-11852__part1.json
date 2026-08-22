@@ -1,0 +1,69 @@
+{
+  "source_id": "11852",
+  "name": "Sữa chua bơ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8c36c7a572b795c8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-chua-bo-mem-min-beo-ngay-ngon-kho-cuong-11852",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-chua-bo-mem-min-beo-ngay-ngon-kho-cuong-11852",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bơ 1 quả (lớn)",
+      "raw_name": "Bơ",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "lớn",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa chua 2 hộp (có đường hoặc không đường)",
+      "raw_name": "Sữa chua",
+      "quantity": 2,
+      "unit": "hộp",
+      "note": "có đường hoặc không đường",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đặc 380 gr (1 hộp)",
+      "raw_name": "Sữa đặc",
+      "quantity": 380,
+      "unit": "gr",
+      "note": "1 hộp",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa tươi không đường 440 ml (2 bịch)",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 440,
+      "unit": "ml",
+      "note": "2 bịch",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 30 gr",
+      "raw_name": "Đường",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước sôi 700 ml",
+      "raw_name": "Nước sôi",
+      "quantity": 700,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:16:33Z",
+  "page_title": "2 cách làm sữa chua bơ thơm ngon tuyệt hạng, màu sắc bắt mắt",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/sua-chua-bo-thumbnail-1.jpg"
+}

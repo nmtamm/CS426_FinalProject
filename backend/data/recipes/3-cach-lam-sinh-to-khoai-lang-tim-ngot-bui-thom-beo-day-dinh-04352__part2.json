@@ -1,0 +1,37 @@
+{
+  "source_id": "04352",
+  "name": "Sinh tố khoai lang tím sữa tươi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/29f2e057589fd03c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sinh-to-khoai-lang-tim-ngot-bui-thom-beo-day-dinh-04352",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sinh-to-khoai-lang-tim-ngot-bui-thom-beo-day-dinh-04352",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai lang tím 300 gr",
+      "raw_name": "Khoai lang tím",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa tươi 400 ml",
+      "raw_name": "Sữa tươi",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T20:09:44Z",
+  "page_title": "3 cách làm sinh tố khoai lang tím ngọt bùi, thơm béo đầy dinh dưỡng tại nhà",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/sinh-to-khoai-lang-tim-sua-tuoi-thumbnail.jpg"
+}

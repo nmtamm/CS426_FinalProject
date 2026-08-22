@@ -1,0 +1,35 @@
+{
+  "source_id": "01942",
+  "name": "Rượu chuối hột",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c4a12a454f9d4045.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-ngam-ruou-chuoi-hot-don-gian-de-lam-01942",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-ngam-ruou-chuoi-hot-don-gian-de-lam-01942",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chuối hột khô 1 kg",
+      "raw_name": "Chuối hột khô",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rượu 3 lít",
+      "raw_name": "Rượu 3 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T20:13:03Z",
+  "page_title": "Cách ngâm rượu chuối hột đơn giản dễ làm",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/04/03/1246355/cach-ngam-ruou-chuoi-hot-don-gian-de-lam-4-760x367.jpg"
+}

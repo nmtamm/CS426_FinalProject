@@ -1,0 +1,71 @@
+{
+  "source_id": "14846",
+  "name": "Gà hầm thuốc bắc ngải cứu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d1cc704fe4130503.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-ham-thuoc-bac-ngai-cuu-thom-ngon-bo-duong-14846",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-ham-thuoc-bac-ngai-cuu-thom-ngon-bo-duong-14846",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-canh",
+      "name": "Món canh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà ác 2 con (khoảng 800gr)",
+      "raw_name": "Gà ác 2 con",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 800gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rau ngải cứu 50 gr",
+      "raw_name": "Rau ngải cứu",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hạt sen 50 gr",
+      "raw_name": "Hạt sen",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Thuốc bắc hầm gà 50 gr (táo tàu/ kỷ tử/ nhãn nhục/ hoài sơn/ đảng sâm)",
+      "raw_name": "Thuốc bắc hầm gà",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "táo tàu/ kỷ tử/ nhãn nhục/ hoài sơn/ đảng sâm",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ hạt nêm/ bột ngọt/ đường)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ hạt nêm/ bột ngọt/ đường",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:17:56Z",
+  "page_title": "Cách làm gà hầm thuốc bắc ngải cứu thơm ngon bổ dưỡng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookDish/cach-lam-ga-ham-thuoc-bac-ngai-cuu-thom-ngon-bo-duong-avt-1200x676.jpg"
+}

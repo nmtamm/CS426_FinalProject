@@ -1,0 +1,97 @@
+{
+  "source_id": "02622",
+  "name": "Ức gà nướng phô mai sốt cam cay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e2928ad5c40c5741.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-uc-ga-nuong-pho-mai-xot-cam-cay-thom-ngon-02622",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-uc-ga-nuong-pho-mai-xot-cam-cay-thom-ngon-02622",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ức gà 100 gr",
+      "raw_name": "Ức gà",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cam 1/2 quả",
+      "raw_name": "Cam",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột ớt paprika 2 muỗng cà phê (hoặc bột ớt thường)",
+      "raw_name": "Bột ớt paprika",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": "hoặc bột ớt thường",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Phô mai mozzarella 50 gr",
+      "raw_name": "Phô mai mozzarella",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Mật ong 2 muỗng cà phê",
+      "raw_name": "Mật ong",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ngò tây 5 gr",
+      "raw_name": "Ngò tây",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu hào 2 muỗng cà phê",
+      "raw_name": "Dầu hào",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu oliu 1 muỗng cà phê",
+      "raw_name": "Dầu oliu",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị 1 ít (Muối/tiêu)",
+      "raw_name": "Gia vị",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/tiêu",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:13:15Z",
+  "page_title": "2 cách làm ức gà nướng phô mai béo ngậy thơm ngon hấp dẫn",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/uc-ga-nuong-pho-mai-sot-cam-cay-thumbnail.jpg"
+}

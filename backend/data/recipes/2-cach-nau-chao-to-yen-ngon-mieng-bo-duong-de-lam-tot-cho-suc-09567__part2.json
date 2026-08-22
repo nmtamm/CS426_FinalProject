@@ -1,0 +1,89 @@
+{
+  "source_id": "09567",
+  "name": "Cháo tổ yến thịt băm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/621c2aa03e612771.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-chao-to-yen-ngon-mieng-bo-duong-de-lam-tot-cho-suc-09567",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-chao-to-yen-ngon-mieng-bo-duong-de-lam-tot-cho-suc-09567",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-chao",
+      "name": "Món cháo"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cháo trắng 1 chén (loại chén ăn cơm)",
+      "raw_name": "Cháo trắng",
+      "quantity": 1,
+      "unit": "chén",
+      "note": "loại chén ăn cơm",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt băm 30 gr",
+      "raw_name": "Thịt băm",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Yến 5 gr",
+      "raw_name": "Yến",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rau cải 1 nhánh",
+      "raw_name": "Rau cải",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ô liu 1 muỗng cà phê",
+      "raw_name": "Dầu ô liu",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng cà phê",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước mắm 1/3 muỗng cà phê",
+      "raw_name": "Nước mắm",
+      "quantity": 0.333,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 1/5 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:05:26Z",
+  "page_title": "2 cách nấu cháo tổ yến ngon miệng bổ dưỡng dễ làm tốt cho sức khỏe",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookRecipe/Avatar/chao-to-yen-thit-bam-thumbnail-1.jpg"
+}

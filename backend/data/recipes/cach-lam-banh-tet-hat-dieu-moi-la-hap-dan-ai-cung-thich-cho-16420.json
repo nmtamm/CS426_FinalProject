@@ -1,0 +1,51 @@
+{
+  "source_id": "16420",
+  "name": "Bánh tét hạt điều",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/553ceb94ca9e9e5e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-tet-hat-dieu-moi-la-hap-dan-ai-cung-thich-cho-16420",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-tet-hat-dieu-moi-la-hap-dan-ai-cung-thich-cho-16420",
+  "servings_text": "Cho 10 đòn bánh",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nếp 3 kg",
+      "raw_name": "Nếp",
+      "quantity": 3,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hạt điều 1.5 kg",
+      "raw_name": "Hạt điều",
+      "quantity": 1.5,
+      "unit": "kg",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Thịt ba rọi 500 gr",
+      "raw_name": "Thịt ba rọi",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ tiêu xay",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:39:07Z",
+  "page_title": "Cách làm bánh tét hạt điều mới lạ hấp dẫn ai cũng thích cho ngày Tết",
+  "original_image_url": "https://cdn.tgdd.vn/2022/01/CookDish/cach-lam-banh-tet-hat-dieu-moi-la-hap-dan-ai-cung-thich-cho-avt-1200x676.jpg"
+}

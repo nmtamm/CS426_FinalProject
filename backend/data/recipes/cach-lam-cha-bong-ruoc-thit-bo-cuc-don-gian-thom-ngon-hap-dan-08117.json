@@ -1,0 +1,111 @@
+{
+  "source_id": "08117",
+  "name": "Chà bông (ruốc) thịt bò",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6f2fe73761ee8f0e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-bong-ruoc-thit-bo-cuc-don-gian-thom-ngon-hap-dan-08117",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-bong-ruoc-thit-bo-cuc-don-gian-thom-ngon-hap-dan-08117",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thăn bò 400 gr",
+      "raw_name": "Thăn bò",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành tím băm 1 muỗng cà phê",
+      "raw_name": "Hành tím băm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng cà phê",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột gừng 1 muỗng cà phê",
+      "raw_name": "Bột gừng",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt bột 1 muỗng cà phê",
+      "raw_name": "Ớt bột",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sa tế 1 muỗng cà phê",
+      "raw_name": "Sa tế",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng cà phê",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng cà phê",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Xì dầu 1 muỗng cà phê",
+      "raw_name": "Xì dầu",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Tiêu xay/ đường 1 ít",
+      "raw_name": "Tiêu xay/ đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T20:31:24Z",
+  "page_title": "Cách làm chà bông (ruốc) thịt bò cực đơn giản, thơm ngon hấp dẫn",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/thum1200-1200x676.jpg"
+}

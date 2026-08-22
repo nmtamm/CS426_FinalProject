@@ -1,0 +1,77 @@
+{
+  "source_id": "08951",
+  "name": "Nấm linh chi xào ớt chuông",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a26eb8614d6b3978.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nam-linh-chi-xao-chay-thom-ngon-thanh-dam-don-gian-08951",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nam-linh-chi-xao-chay-thom-ngon-thanh-dam-don-gian-08951",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nấm linh chi 300 gr",
+      "raw_name": "Nấm linh chi",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt chuông đỏ 1/2 trái",
+      "raw_name": "Ớt chuông đỏ",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt chuông xanh 1/2 trái",
+      "raw_name": "Ớt chuông xanh",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành boa rô 1 nhánh",
+      "raw_name": "Hành boa rô",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu hào chay 1 muỗng canh",
+      "raw_name": "Dầu hào chay",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường/ bột ngọt 1 ít",
+      "raw_name": "Đường/ bột ngọt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:45:09Z",
+  "page_title": "3 cách làm nấm linh chi xào chay thơm ngon, thanh đạm đơn giản tại nhà",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookRecipe/Avatar/nam-linh-chi-xao-ot-chuong-thumbnail-2.jpg"
+}

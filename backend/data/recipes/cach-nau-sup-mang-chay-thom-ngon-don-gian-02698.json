@@ -1,0 +1,119 @@
+{
+  "source_id": "02698",
+  "name": "Súp măng chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c768176e1d48d97b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-sup-mang-chay-thom-ngon-don-gian-02698",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-sup-mang-chay-thom-ngon-don-gian-02698",
+  "servings_text": "Cho 6 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-canh",
+      "name": "Món canh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nấm rơm 100 gr (dành cho phần súp măng)",
+      "raw_name": "Nấm rơm",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "dành cho phần súp măng",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm bào ngư 100 gr (dành cho phần súp măng)",
+      "raw_name": "Nấm bào ngư",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "dành cho phần súp măng",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tàu hũ ky tươi 100 gr (dành cho phần súp măng)",
+      "raw_name": "Tàu hũ ky tươi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "dành cho phần súp măng",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Măng tươi đóng hộp 200 gr (hoặc măng tươi tuy nhiên mùi măng hơi nặng sẽ khó ăn hơn)",
+      "raw_name": "Măng tươi đóng hộp",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "hoặc măng tươi tuy nhiên mùi măng hơi nặng sẽ khó ăn hơn",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột năng 50 gr (dành cho phần súp măng)",
+      "raw_name": "Bột năng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "dành cho phần súp măng",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Củ sắn 100 gr (dành cho phần nước dùng)",
+      "raw_name": "Củ sắn",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "dành cho phần nước dùng",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Mướp 100 gr (dành cho phần nước dùng)",
+      "raw_name": "Mướp",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "dành cho phần nước dùng",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Củ cải muối 50 gr (Xá bấu - dành cho phần nước dùng)",
+      "raw_name": "Củ cải muối",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "Xá bấu - dành cho phần nước dùng",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Cà rốt 100 gr (dành cho phần nước dùng)",
+      "raw_name": "Cà rốt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "dành cho phần nước dùng",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Su su hoặc su hào 100 gr (dành cho phần nước dùng)",
+      "raw_name": "Su su hoặc su hào",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "dành cho phần nước dùng",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nấm đông cô 50 gr (dành cho phần nước dùng)",
+      "raw_name": "Nấm đông cô",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "dành cho phần nước dùng",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nấm rơm khô 50 g (dành cho phần nước dùng)",
+      "raw_name": "Nấm rơm khô",
+      "quantity": 50,
+      "unit": "g",
+      "note": "dành cho phần nước dùng",
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:52:05Z",
+  "page_title": "Cách nấu súp măng chay thơm ngon, cho ngày chay thêm vị",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/06/05/1260899/cach-nau-sup-mang-chay-thom-ngon-cho-ngay-chay-th-6-760x367.jpg"
+}

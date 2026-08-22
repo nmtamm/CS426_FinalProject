@@ -1,0 +1,75 @@
+{
+  "source_id": "10716",
+  "name": "Rau câu xoài 3 tầng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a75acd78b1fbe11b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-rau-cau-xoai-3-tang-dep-mat-mon-trang-mieng-cuc-ngon-10716",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-rau-cau-xoai-3-tang-dep-mat-mon-trang-mieng-cuc-ngon-10716",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột rau câu 10 gr (rau câu giòn)",
+      "raw_name": "Bột rau câu",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "rau câu giòn",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xoài 1 trái",
+      "raw_name": "Xoài",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chanh 1/2 trái",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bông hoa đậu biếc khô 10 cái",
+      "raw_name": "Bông hoa đậu biếc khô",
+      "quantity": 10,
+      "unit": "cái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 200 gr",
+      "raw_name": "Đường",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sữa đặc 190 gr (1/2 lon)",
+      "raw_name": "Sữa đặc",
+      "quantity": 190,
+      "unit": "gr",
+      "note": "1/2 lon",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tinh chất vani 1 ống (2.2kg)",
+      "raw_name": "Tinh chất vani 1 ống",
+      "quantity": null,
+      "unit": null,
+      "note": "2.2kg",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:19:21Z",
+  "page_title": "Cách làm rau câu xoài 3 tầng đẹp mắt, món tráng miệng cực ngon",
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookProduct/11-1200x676-1.jpg"
+}

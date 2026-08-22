@@ -1,0 +1,77 @@
+{
+  "source_id": "15197",
+  "name": "Sữa chua phô mai nha đam",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/df1df19804a7d10d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-chua-pho-mai-ngon-beo-an-la-ghien-dam-bao-thanh-15197",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-chua-pho-mai-ngon-beo-an-la-ghien-dam-bao-thanh-15197",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nha đam 6 nhánh (cỡ nhỏ)",
+      "raw_name": "Nha đam",
+      "quantity": 6,
+      "unit": "nhánh",
+      "note": "cỡ nhỏ",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Phô mai con bò cười 6 miếng",
+      "raw_name": "Phô mai con bò cười 6 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đặc 380 gr (1 lon)",
+      "raw_name": "Sữa đặc",
+      "quantity": 380,
+      "unit": "gr",
+      "note": "1 lon",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa tươi có đường 440 ml (2 bịch)",
+      "raw_name": "Sữa tươi có đường",
+      "quantity": 440,
+      "unit": "ml",
+      "note": "2 bịch",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sữa chua 200 gr (2 hũ)",
+      "raw_name": "Sữa chua",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "2 hũ",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước lọc 300 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:16:52Z",
+  "page_title": "3 cách làm sữa chua phô mai ngon béo, ăn là ghiền đảm bảo thành công",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/sua-chua-pho-mai-nha-dam-thumbnail-1.jpg"
+}

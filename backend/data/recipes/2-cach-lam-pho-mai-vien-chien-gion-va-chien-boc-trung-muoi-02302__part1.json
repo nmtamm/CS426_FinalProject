@@ -1,0 +1,57 @@
+{
+  "source_id": "02302",
+  "name": "Phô mai viên chiên giòn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/cd618dec2b26b802.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-pho-mai-vien-chien-gion-va-chien-boc-trung-muoi-02302",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-pho-mai-vien-chien-gion-va-chien-boc-trung-muoi-02302",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Phô mai mozzarella 300 gr",
+      "raw_name": "Phô mai mozzarella",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột mì 100 gr",
+      "raw_name": "Bột mì",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột chiên xù 200 gr",
+      "raw_name": "Bột chiên xù",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:13:06Z",
+  "page_title": "2 cách làm phô mai viên chiên giòn và chiên bọc trứng muối thơm ngon",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/pho-mai-vien-chien-gion-thumbnail.jpg"
+}

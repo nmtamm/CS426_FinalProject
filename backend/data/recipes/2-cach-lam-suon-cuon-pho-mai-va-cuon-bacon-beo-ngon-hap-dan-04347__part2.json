@@ -1,0 +1,121 @@
+{
+  "source_id": "04347",
+  "name": "Sườn cuộn bacon",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/09de52b3d6da404c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-suon-cuon-pho-mai-va-cuon-bacon-beo-ngon-hap-dan-04347",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-suon-cuon-pho-mai-va-cuon-bacon-beo-ngon-hap-dan-04347",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sườn non 500 gr",
+      "raw_name": "Sườn non",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt xông khói 300 gr",
+      "raw_name": "Thịt xông khói",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột chiên giòn 200 gr",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tỏi băm 30 gr",
+      "raw_name": "Hành tỏi băm",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tiêu lốp 10 gr",
+      "raw_name": "Tiêu lốp",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt hiểm 20 gr",
+      "raw_name": "Ớt hiểm",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Mè đen 20 gr",
+      "raw_name": "Mè đen",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hạt nêm 10 gr",
+      "raw_name": "Hạt nêm",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước tương 20 ml",
+      "raw_name": "Nước tương",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Mayonnaise 50 gr",
+      "raw_name": "Mayonnaise",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước 200 ml",
+      "raw_name": "Nước",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu ăn 200 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T20:38:30Z",
+  "page_title": "2 cách làm sườn cuộn phô mai và cuộn bacon béo ngon hấp dẫn",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/suòn-non-cuọn-thịt-xong-khói-thumbnail.jpg"
+}

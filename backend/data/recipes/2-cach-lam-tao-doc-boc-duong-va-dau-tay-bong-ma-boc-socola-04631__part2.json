@@ -1,0 +1,61 @@
+{
+  "source_id": "04631",
+  "name": "Dâu tây bóng ma bọc socola",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4ab2387849c5f084.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tao-doc-boc-duong-va-dau-tay-bong-ma-boc-socola-04631",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tao-doc-boc-duong-va-dau-tay-bong-ma-boc-socola-04631",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dâu tây 10 quả",
+      "raw_name": "Dâu tây",
+      "quantity": 10,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dầu dừa 1 muỗng cà phê",
+      "raw_name": "Dầu dừa",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Socola trắng 2 muỗng canh (tan chảy)",
+      "raw_name": "Socola trắng",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "tan chảy",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Socola chip 10 gr",
+      "raw_name": "Socola chip",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Socola đen 1 cây (loại nhỏ)",
+      "raw_name": "Socola đen",
+      "quantity": 1,
+      "unit": "cây",
+      "note": "loại nhỏ",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:43:54Z",
+  "page_title": "2 cách làm táo độc bọc đường và dâu tây bóng ma bọc socola cho Halloween",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookRecipe/Avatar/dau-ma-quai-boc-socola-thumbnail.jpg"
+}

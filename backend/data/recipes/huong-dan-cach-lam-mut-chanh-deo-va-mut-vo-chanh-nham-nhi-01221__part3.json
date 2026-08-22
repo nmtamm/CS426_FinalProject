@@ -1,0 +1,57 @@
+{
+  "source_id": "01221",
+  "name": "Mứt chanh kem trứng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a1c153993cea7ed3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-cach-lam-mut-chanh-deo-va-mut-vo-chanh-nham-nhi-01221",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-cach-lam-mut-chanh-deo-va-mut-vo-chanh-nham-nhi-01221",
+  "servings_text": "Cho 1 cốc",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chanh 3 quả",
+      "raw_name": "Chanh",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng gà 6 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 6,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường cát trắng 200 gr",
+      "raw_name": "Đường cát trắng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bơ lạt 113 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 113,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:16:58Z",
+  "page_title": "4 cách làm mứt chanh thơm ngon đơn giản hấp dẫn nhâm nhi ngày Tết",
+  "variant_index": 3,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2022/01/CookRecipe/Avatar/mut-chanh-kem-trung-thumbnail.jpg"
+}

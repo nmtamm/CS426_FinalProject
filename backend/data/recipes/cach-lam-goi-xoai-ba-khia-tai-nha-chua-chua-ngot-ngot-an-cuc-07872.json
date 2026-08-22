@@ -1,0 +1,91 @@
+{
+  "source_id": "07872",
+  "name": "Gỏi xoài ba khía",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f9ca1277158f275c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-xoai-ba-khia-tai-nha-chua-chua-ngot-ngot-an-cuc-07872",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-xoai-ba-khia-tai-nha-chua-chua-ngot-ngot-an-cuc-07872",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mắm ba khía 500 gr",
+      "raw_name": "Mắm ba khía",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xoài 3 trái",
+      "raw_name": "Xoài",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt băm 1 muỗng canh",
+      "raw_name": "Ớt băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chanh 1 trái",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rau răm 1 ít",
+      "raw_name": "Rau răm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đậu phộng 1 muỗng canh",
+      "raw_name": "Đậu phộng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành phi 1 muỗng canh",
+      "raw_name": "Hành phi",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T17:58:17Z",
+  "page_title": "Cách làm gỏi xoài ba khía tại nhà chua chua ngọt ngọt ăn cực đã miệng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/GoiXoaiTronBaKhiaBanhRanDoremonNhanHatDe....-1200x676.jpg"
+}

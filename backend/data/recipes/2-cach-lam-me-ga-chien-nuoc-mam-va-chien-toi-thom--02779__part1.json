@@ -1,0 +1,97 @@
+{
+  "source_id": "02779",
+  "name": "Mề gà chiên nước mắm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7271c14d83e4ea1d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-me-ga-chien-nuoc-mam-va-chien-toi-thom--02779",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-me-ga-chien-nuoc-mam-va-chien-toi-thom--02779",
+  "servings_text": "Cho 04 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mề gà 400 gram",
+      "raw_name": "Mề gà 400 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành tím băm 10 gram",
+      "raw_name": "Hành tím băm 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi băm 10 gram",
+      "raw_name": "Tỏi băm 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt băm 2 trái",
+      "raw_name": "Ớt băm",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành lá băm 10 gram",
+      "raw_name": "Hành lá băm 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 10 gram",
+      "raw_name": "Đường 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước mắm 10 gram",
+      "raw_name": "Nước mắm 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hạt tiêu 10 gram",
+      "raw_name": "Hạt tiêu 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu hào 10 gram",
+      "raw_name": "Dầu hào 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:08:23Z",
+  "page_title": "2 cách làm mề gà chiên nước mắm và chiên tỏi thơm lừng ngon miệng",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/me-ga-chien-nuoc-mam-thumbnail.jpg"
+}

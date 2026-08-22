@@ -1,0 +1,65 @@
+{
+  "source_id": "01803",
+  "name": "Bánh xốp thanh long",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8a23c81c8d4e607f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-banh-tu-thanh-long-ruot-do-ngon-ngot-mat-lim-01803",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-banh-tu-thanh-long-ruot-do-ngon-ngot-mat-lim-01803",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thanh long ruột đỏ 110 gr",
+      "raw_name": "Thanh long ruột đỏ",
+      "quantity": 110,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột mì đa dụng 100 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa bột 10 gr",
+      "raw_name": "Sữa bột",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Men nở instant 1 gr",
+      "raw_name": "Men nở instant",
+      "quantity": 1,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 1 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:14:16Z",
+  "page_title": "3 cách làm bánh thanh long ruột đỏ ngon ngọt, mát lịm để chiêu đãi gia đình",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/banh-xop-thanh-long-thumbnail.jpg"
+}

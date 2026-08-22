@@ -1,0 +1,103 @@
+{
+  "source_id": "01685",
+  "name": "Kẹo chuối khô",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4fe788a66db4832c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-keo-chuoi-don-gian-thom-ngon-don-tet-cung-gia-dinh-01685",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-keo-chuoi-don-gian-thom-ngon-don-tet-cung-gia-dinh-01685",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chuối khô 1 kg",
+      "raw_name": "Chuối khô",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mè trắng rang vàng 0.2 kg",
+      "raw_name": "Mè trắng rang vàng",
+      "quantity": 0.2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dứa 1 quả",
+      "raw_name": "Dứa",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tắc 150 g (vắt lấy nước cốt và cắt sợi vỏ)",
+      "raw_name": "Tắc",
+      "quantity": 150,
+      "unit": "g",
+      "note": "vắt lấy nước cốt và cắt sợi vỏ",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gừng 100 g (xay nhỏ hoặc cắt sợi)",
+      "raw_name": "Gừng",
+      "quantity": 100,
+      "unit": "g",
+      "note": "xay nhỏ hoặc cắt sợi",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Cơm dừa xắt sợi 0.5 kg",
+      "raw_name": "Cơm dừa xắt sợi",
+      "quantity": 0.5,
+      "unit": "kg",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đậu phộng 0.5 kg (rang vàng bỏ vỏ)",
+      "raw_name": "Đậu phộng",
+      "quantity": 0.5,
+      "unit": "kg",
+      "note": "rang vàng bỏ vỏ",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường thốt nốt 1 kg (hoặc đường tinh luyện)",
+      "raw_name": "Đường thốt nốt",
+      "quantity": 1,
+      "unit": "kg",
+      "note": "hoặc đường tinh luyện",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rượu Rhum 100 ml (có thể bỏ qua)",
+      "raw_name": "Rượu Rhum",
+      "quantity": 100,
+      "unit": "ml",
+      "note": "có thể bỏ qua",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước cốt dừa 300 g",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 300,
+      "unit": "g",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T19:16:17Z",
+  "page_title": "Cách làm kẹo chuối đơn giản, thơm ngon đón Tết cùng gia đình",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/02/23/1238075/2-cach-lam-keo-chuoi-don-gian-thom-ngon-don-tet-cung-gia-dinh-12-760x367.jpg"
+}

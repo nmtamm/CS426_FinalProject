@@ -1,0 +1,47 @@
+{
+  "source_id": "16697",
+  "name": "Bánh mì trứng nướng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5248865d4c38d05b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-mi-trung-nuong-bang-noi-chien-khong-dau-sieu-16697",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-mi-trung-nuong-bang-noi-chien-khong-dau-sieu-16697",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh mì sandwich 3 miếng",
+      "raw_name": "Bánh mì sandwich 3 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng gà 1 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đặc 1 muỗng cà phê",
+      "raw_name": "Sữa đặc",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T18:55:53Z",
+  "page_title": "Cách làm bánh mì trứng nướng bằng nồi chiên không dầu siêu giòn",
+  "original_image_url": "https://cdn.tgdd.vn/2022/03/CookDish/cach-lam-banh-mi-trung-nuong-bang-noi-chien-khong-dau-sieu-avt-1200x676.jpg"
+}

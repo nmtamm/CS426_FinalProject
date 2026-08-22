@@ -1,0 +1,83 @@
+{
+  "source_id": "06659",
+  "name": "Lạp xưởng trứng muối",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/14f8476f3bcc2a4b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-lap-xuong-trung-muoi-doc-la-moi-me-de-danh-an-tet-06659",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-lap-xuong-trung-muoi-doc-la-moi-me-de-danh-an-tet-06659",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt nạc heo 1.3 kg",
+      "raw_name": "Thịt nạc heo",
+      "quantity": 1.3,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mỡ heo 400 gr",
+      "raw_name": "Mỡ heo",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng vịt muối 15 cái",
+      "raw_name": "Trứng vịt muối",
+      "quantity": 15,
+      "unit": "cái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tiêu hạt 1 muỗng canh",
+      "raw_name": "Tiêu hạt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rượu mai quế lộ 2.5 muỗng canh",
+      "raw_name": "Rượu mai quế lộ",
+      "quantity": 2.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rượu trắng 1 ít",
+      "raw_name": "Rượu trắng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối diêm 1 gr",
+      "raw_name": "Muối diêm",
+      "quantity": 1,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vi thông dụng 1 ít (muối/đường/tiêu xay/hạt nêm/bột ngọt)",
+      "raw_name": "Gia vi thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/đường/tiêu xay/hạt nêm/bột ngọt",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:38:28Z",
+  "page_title": "Cách làm lạp xưởng trứng muối độc lạ mới mẻ để dành ăn Tết",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/CachlamlapxuongtrungmuoidoclamoimededanhanTet-1200x676.jpg"
+}

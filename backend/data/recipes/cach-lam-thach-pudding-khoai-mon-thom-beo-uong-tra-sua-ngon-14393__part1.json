@@ -1,0 +1,45 @@
+{
+  "source_id": "14393",
+  "name": "Pudding khoai môn từ khoai môn tươi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bfcd6c8a537e0625.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thach-pudding-khoai-mon-thom-beo-uong-tra-sua-ngon-14393",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thach-pudding-khoai-mon-thom-beo-uong-tra-sua-ngon-14393",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai môn 200 gr",
+      "raw_name": "Khoai môn",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa tươi có đường 500 ml",
+      "raw_name": "Sữa tươi có đường",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột rau câu dẻo 30 gr",
+      "raw_name": "Bột rau câu dẻo",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T20:11:14Z",
+  "page_title": "2 cách làm thạch pudding khoai môn thơm béo uống trà sữa ngon hết sẩy",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/pudding-khoai-mon-tu-khoai-mon-thumbnail.jpg"
+}

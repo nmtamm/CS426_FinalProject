@@ -1,0 +1,53 @@
+{
+  "source_id": "22793",
+  "name": "Cách làm kem muối với kem béo Rich’s",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2dc1cce09bd71e0a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-kem-man-cho-tra-sua-hay-ca-phe-tai-nha-bang-may-22793",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-kem-man-cho-tra-sua-hay-ca-phe-tai-nha-bang-may-22793",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Muối hồng Himalaya 2 muỗng cà phê (hoặc muối biển tinh khiết)",
+      "raw_name": "Muối hồng Himalaya",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": "hoặc muối biển tinh khiết",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa đặc 50 ml",
+      "raw_name": "Sữa đặc",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Kem béo Rich 1 hộp",
+      "raw_name": "Kem béo Rich",
+      "quantity": 1,
+      "unit": "hộp",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước lọc 20 ml (có thể thay thế bằng sữa tươi không đường)",
+      "raw_name": "Nước lọc",
+      "quantity": 20,
+      "unit": "ml",
+      "note": "có thể thay thế bằng sữa tươi không đường",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:51:52Z",
+  "page_title": "2 cách làm kem mặn cho trà sữa hay cà phê tại nhà bằng máy đánh trứng",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2025/05/CookRecipe/Avatar/cach-lam-kem-muoi-voi-rich’s-thumbnail.jpg"
+}

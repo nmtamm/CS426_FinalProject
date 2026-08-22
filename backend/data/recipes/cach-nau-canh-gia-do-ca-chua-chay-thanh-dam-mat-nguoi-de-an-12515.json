@@ -1,0 +1,59 @@
+{
+  "source_id": "12515",
+  "name": "Canh giá đỗ cà chua",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9cf2470972cd41ce.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-canh-gia-do-ca-chua-chay-thanh-dam-mat-nguoi-de-an-12515",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-canh-gia-do-ca-chua-chay-thanh-dam-mat-nguoi-de-an-12515",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Giá 100 gr",
+      "raw_name": "Giá",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà chua 2 trái",
+      "raw_name": "Cà chua",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành lá 4 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 4,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hạt nêm chay 2 muỗng cà phê",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ tiêu/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ tiêu/ bột ngọt",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T18:35:16Z",
+  "page_title": "Cách nấu canh giá đỗ cà chua chay thanh đạm mát người dễ ăn",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/canh-gia-do-ca-chua-thumbchunhat-1200x676.jpg"
+}

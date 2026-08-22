@@ -1,0 +1,107 @@
+{
+  "source_id": "06611",
+  "name": "Bánh tét trứng muối đậu phộng thịt khìa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0431217dc0e4fab9.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-tet-trung-muoi-thit-khia-dau-phong-thom-ngon-la-06611",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-tet-trung-muoi-thit-khia-dau-phong-thom-ngon-la-06611",
+  "servings_text": "Cho 5 đòn bánh",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gạo nếp 2 chén",
+      "raw_name": "Gạo nếp",
+      "quantity": 2,
+      "unit": "chén",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt ba rọi 1 kg",
+      "raw_name": "Thịt ba rọi",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu phộng 150 gr",
+      "raw_name": "Đậu phộng",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trứng muối 10 quả",
+      "raw_name": "Trứng muối",
+      "quantity": 10,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tím 2 củ (băm nhuyễn)",
+      "raw_name": "Hành tím",
+      "quantity": 2,
+      "unit": "củ",
+      "note": "băm nhuyễn",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước tương 1 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 ít",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rượu Mai Quế Lộ 1 muỗng cà phê",
+      "raw_name": "Rượu Mai Quế Lộ",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ muối/ hạt nêm/ tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ muối/ hạt nêm/ tiêu",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T19:37:39Z",
+  "page_title": "Cách làm bánh tét trứng muối đậu phộng thịt khìa thơm ngon lạ miệng đón Tết",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/0-1200x675-6.jpg"
+}

@@ -1,0 +1,87 @@
+{
+  "source_id": "06091",
+  "name": "Canh thịt bò nấu nấm kim châm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/847cf0a89aaa8d76.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-canh-thit-bo-nau-nam-kim-cham-don-gian-thom-ngon-de-06091",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-canh-thit-bo-nau-nam-kim-cham-don-gian-thom-ngon-de-06091",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-canh",
+      "name": "Món canh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt ba chỉ bò 300 gr",
+      "raw_name": "Thịt ba chỉ bò",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm kim châm 200 gr",
+      "raw_name": "Nấm kim châm",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành lá 5 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tím 3 củ",
+      "raw_name": "Hành tím",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đậu hũ non 100 gr",
+      "raw_name": "Đậu hũ non",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Cà rốt 1/2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/muối/hạt nêm/bột ngọt/tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/muối/hạt nêm/bột ngọt/tiêu",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:33:44Z",
+  "page_title": "Cách nấu canh thịt bò nấu nấm kim châm đơn giản thơm ngon dễ làm",
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookProduct/thumbcn-1200x676-22.jpg"
+}

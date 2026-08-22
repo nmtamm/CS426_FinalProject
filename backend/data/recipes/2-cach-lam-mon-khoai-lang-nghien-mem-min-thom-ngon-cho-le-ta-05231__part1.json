@@ -1,0 +1,61 @@
+{
+  "source_id": "05231",
+  "name": "Khoai lang nghiền",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/498df0c5a17162c4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mon-khoai-lang-nghien-mem-min-thom-ngon-cho-le-ta-05231",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mon-khoai-lang-nghien-mem-min-thom-ngon-cho-le-ta-05231",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai lang 500 gr (2 củ)",
+      "raw_name": "Khoai lang",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "2 củ",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Kem sữa half and half 240 ml",
+      "raw_name": "Kem sữa half and half",
+      "quantity": 240,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bơ lạt 15 gr (3 viên)",
+      "raw_name": "Bơ lạt",
+      "quantity": 15,
+      "unit": "gr",
+      "note": "3 viên",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường nâu 2 muỗng canh",
+      "raw_name": "Đường nâu",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối/ tiêu xay 1 ít",
+      "raw_name": "Muối/ tiêu xay",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:40:13Z",
+  "page_title": "4 cách làm khoai lang nghiền mềm mịn thơm ngon cho lễ Giáng sinh",
+  "variant_index": 1,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/khoai-lang-nghien-thumbnail.jpg"
+}

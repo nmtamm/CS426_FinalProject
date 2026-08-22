@@ -1,0 +1,129 @@
+{
+  "source_id": "09668",
+  "name": "Bò nướng tía tô",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d153e91f680f86b1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-bo-nuong-pho-mai-va-tia-to-thom-ngon-hap-dan-don-09668",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-bo-nuong-pho-mai-va-tia-to-thom-ngon-hap-dan-don-09668",
+  "servings_text": "Cho 6 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò 500 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tía tô 20 lá (kinh giới)",
+      "raw_name": "Tía tô",
+      "quantity": 20,
+      "unit": "lá",
+      "note": "kinh giới",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tây đỏ 1 củ",
+      "raw_name": "Hành tây đỏ",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sả băm 50 gr",
+      "raw_name": "Sả băm",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đậu phộng rang 50 gr (đãi vỏ)",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "đãi vỏ",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột ngũ vị hương 1/2 muỗng cà phê",
+      "raw_name": "Bột ngũ vị hương",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột nghệ 1 muỗng cà phê",
+      "raw_name": "Bột nghệ",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột tỏi 1 muỗng cà phê (có thể thay bằng 1 củ tỏi tươi)",
+      "raw_name": "Bột tỏi",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "có thể thay bằng 1 củ tỏi tươi",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước tương 2 muỗng cà phê",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Mỡ hành 1 chén",
+      "raw_name": "Mỡ hành",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Đường/ muối 1 ít",
+      "raw_name": "Đường/ muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T18:32:04Z",
+  "page_title": "2 cách làm bò nướng phô mai và tía tô thơm ngon hấp dẫn đơn giản",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/bo-nuong-tia-to-thumbnail.jpg"
+}

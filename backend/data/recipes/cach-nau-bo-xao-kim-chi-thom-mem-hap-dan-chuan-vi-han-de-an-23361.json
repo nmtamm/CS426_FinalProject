@@ -1,0 +1,91 @@
+{
+  "source_id": "23361",
+  "name": "Bò xào kim chi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d2cc04f45732bba7.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-bo-xao-kim-chi-thom-mem-hap-dan-chuan-vi-han-de-an-23361",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-bo-xao-kim-chi-thom-mem-hap-dan-chuan-vi-han-de-an-23361",
+  "servings_text": "Cho 2 - 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò 300 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Kim chi 400 gr",
+      "raw_name": "Kim chi",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước kim chi 60 gr",
+      "raw_name": "Nước kim chi",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tây 200 gr",
+      "raw_name": "Hành tây",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lê Hàn Quốc 150 gr",
+      "raw_name": "Lê Hàn Quốc",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 9 gr",
+      "raw_name": "Tỏi",
+      "quantity": 9,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước tương 3 muỗng canh (xì dầu)",
+      "raw_name": "Nước tương",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": "xì dầu",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Rượu nấu ăn Mirin 1 muỗng canh",
+      "raw_name": "Rượu nấu ăn Mirin",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hạt nêm/ tiêu xay/ dầu ăn 1 ít",
+      "raw_name": "Hạt nêm/ tiêu xay/ dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:21:34Z",
+  "page_title": "Cách nấu bò xào kim chi thơm mềm, hấp dẫn, chuẩn vị Hàn để ăn cùng cơm nóng",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20thumb%20m%C3%B3n%20an%20t10%20%2824%29.jpg"
+}

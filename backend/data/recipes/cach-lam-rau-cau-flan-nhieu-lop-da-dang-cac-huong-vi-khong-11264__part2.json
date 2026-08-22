@@ -1,0 +1,125 @@
+{
+  "source_id": "11264",
+  "name": "Rau câu flan cà phê nhiều lớp",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ca7140eb43195993.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-rau-cau-flan-nhieu-lop-da-dang-cac-huong-vi-khong-11264",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-rau-cau-flan-nhieu-lop-da-dang-cac-huong-vi-khong-11264",
+  "servings_text": "Cho 6 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột rau câu giòn 25 gr (hiệu con cá/ 1 gói)",
+      "raw_name": "Bột rau câu giòn",
+      "quantity": 25,
+      "unit": "gr",
+      "note": "hiệu con cá/ 1 gói",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột rau câu dẻo 5 gr",
+      "raw_name": "Bột rau câu dẻo",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột cacao nguyên chất 5 gr",
+      "raw_name": "Bột cacao nguyên chất",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột cà phê sữa hòa tan 8 gr",
+      "raw_name": "Bột cà phê sữa hòa tan",
+      "quantity": 8,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chanh 1/4 quả",
+      "raw_name": "Chanh",
+      "quantity": 0.25,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lá dứa 6 lá",
+      "raw_name": "Lá dứa",
+      "quantity": 6,
+      "unit": "lá",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Trứng gà 3 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước cốt dừa 200 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Sữa đặc 250 gr",
+      "raw_name": "Sữa đặc",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Sữa tươi không đường 250 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 250,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đường trắng 200 gr",
+      "raw_name": "Đường trắng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Đường vàng 50 gr",
+      "raw_name": "Đường vàng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T19:03:18Z",
+  "page_title": "Cách làm rau câu flan nhiều lớp đa dạng các hương vị không nên bỏ lỡ",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/rau-cau-flan-khong-can-hap-thumbnail.jpg"
+}

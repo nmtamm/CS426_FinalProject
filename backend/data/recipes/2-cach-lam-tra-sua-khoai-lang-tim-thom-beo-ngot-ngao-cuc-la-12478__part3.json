@@ -1,0 +1,69 @@
+{
+  "source_id": "12478",
+  "name": "Trà sữa khoai lang tím tươi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5dd14929bb367d72.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-sua-khoai-lang-tim-thom-beo-ngot-ngao-cuc-la-12478",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-sua-khoai-lang-tim-thom-beo-ngot-ngao-cuc-la-12478",
+  "servings_text": "Cho 2 ly",
+  "topics": [
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai lang tím 200 gr",
+      "raw_name": "Khoai lang tím",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trà túi lọc 2 gói (loại tùy chọn)",
+      "raw_name": "Trà túi lọc",
+      "quantity": 2,
+      "unit": "gói",
+      "note": "loại tùy chọn",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột sữa béo 180 gr",
+      "raw_name": "Bột sữa béo",
+      "quantity": 180,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa đặc 40 gr",
+      "raw_name": "Sữa đặc",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 130 gr",
+      "raw_name": "Đường",
+      "quantity": 130,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:10:10Z",
+  "page_title": "2 cách làm trà sữa khoai lang tím thơm béo, ngọt ngào cực lạ miệng",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/tra-sua-da-xay-thumbnail.jpg"
+}

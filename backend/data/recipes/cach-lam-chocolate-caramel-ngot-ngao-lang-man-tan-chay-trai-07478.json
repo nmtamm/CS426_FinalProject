@@ -1,0 +1,55 @@
+{
+  "source_id": "07478",
+  "name": "Kẹo chocolate caramel",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a4d6fd3aa4afc442.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chocolate-caramel-ngot-ngao-lang-man-tan-chay-trai-07478",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chocolate-caramel-ngot-ngao-lang-man-tan-chay-trai-07478",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chocolate trắng 350 gr",
+      "raw_name": "Chocolate trắng",
+      "quantity": 350,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Màu thực phẩm 1 ít",
+      "raw_name": "Màu thực phẩm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu phộng rang 50 gr",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sốt caramel 100 gr",
+      "raw_name": "Sốt caramel",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:22:01Z",
+  "page_title": "Cách làm kẹo chocolate caramel ngọt ngào, lãng mạn tan chảy trái tim",
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookProduct/ban1-1200x676.jpg"
+}

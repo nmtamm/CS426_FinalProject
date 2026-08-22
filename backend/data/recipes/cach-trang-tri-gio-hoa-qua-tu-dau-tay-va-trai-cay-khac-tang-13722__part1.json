@@ -1,0 +1,41 @@
+{
+  "source_id": "13722",
+  "name": "Xếp giỏ hoa dâu tây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/59df99f91b2f8462.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-trang-tri-gio-hoa-qua-tu-dau-tay-va-trai-cay-khac-tang-13722",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-trang-tri-gio-hoa-qua-tu-dau-tay-va-trai-cay-khac-tang-13722",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "meo-vao-bep",
+      "name": "Mẹo vào bếp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dâu tây 300 gr",
+      "raw_name": "Dâu tây",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hoa salem trắng 10 cây (hoặc hoa baby trắng)",
+      "raw_name": "Hoa salem trắng",
+      "quantity": 10,
+      "unit": "cây",
+      "note": "hoặc hoa baby trắng",
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:41:09Z",
+  "page_title": "2 cách trang trí giỏ hoa quả từ dâu tây và trái cây khác tặng mẹ ngày 20/10",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/thumb1-1.jpg"
+}

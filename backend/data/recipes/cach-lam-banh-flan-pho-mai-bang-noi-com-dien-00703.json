@@ -1,0 +1,95 @@
+{
+  "source_id": "00703",
+  "name": "bánh flan phô mai bằng nồi cơm điện",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e72452011a01acc7.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-flan-pho-mai-bang-noi-com-dien-00703",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-flan-pho-mai-bang-noi-com-dien-00703",
+  "servings_text": "Cho 3 người ăn",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đường trắng 50 g",
+      "raw_name": "Đường trắng",
+      "quantity": 50,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chanh 1/4 quả",
+      "raw_name": "Chanh",
+      "quantity": 0.25,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đặc có đường 100 ml",
+      "raw_name": "Sữa đặc có đường",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa tươi không đường 300 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Phô mai 2 miếng",
+      "raw_name": "Phô mai 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Vani 1 muỗng cà phê",
+      "raw_name": "Vani",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước lọc 100 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bơ 15 g (để chống dính cho khuôn)",
+      "raw_name": "Bơ",
+      "quantity": 15,
+      "unit": "g",
+      "note": "để chống dính cho khuôn",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:30:38Z",
+  "page_title": "Cách làm bánh flan phô mai bằng nồi cơm điện",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2017/01/07/935016/cach-lam-banh-flan-pho-mai-bang-noi-com-dien-4-760x367.jpg"
+}

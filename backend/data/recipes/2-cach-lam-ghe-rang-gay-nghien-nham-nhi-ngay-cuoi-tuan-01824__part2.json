@@ -1,0 +1,81 @@
+{
+  "source_id": "01824",
+  "name": "Ghẹ rang muối ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a54738523f04e621.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-ghe-rang-gay-nghien-nham-nhi-ngay-cuoi-tuan-01824",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-ghe-rang-gay-nghien-nham-nhi-ngay-cuoi-tuan-01824",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Càng ghẹ 300 gr",
+      "raw_name": "Càng ghẹ",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối tôm 20 gr",
+      "raw_name": "Muối tôm",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt xay 20 gr",
+      "raw_name": "Ớt xay",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 40 gr",
+      "raw_name": "Đường",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bơ 20 gr",
+      "raw_name": "Bơ",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:28:54Z",
+  "page_title": "2 cách làm ghẹ rang me và rang muối ớt gây nghiện nhâm nhi ngày cuối tuần",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/ghe-rang-muoi-ot-thumbnail.jpg"
+}

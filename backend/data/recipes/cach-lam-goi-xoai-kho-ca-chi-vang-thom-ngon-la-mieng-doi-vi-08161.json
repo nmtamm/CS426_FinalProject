@@ -1,0 +1,99 @@
+{
+  "source_id": "08161",
+  "name": "Gỏi xoài khô cá chỉ vàng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/45ad105b2498922c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-xoai-kho-ca-chi-vang-thom-ngon-la-mieng-doi-vi-08161",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-xoai-kho-ca-chi-vang-thom-ngon-la-mieng-doi-vi-08161",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khô cá chỉ vàng 10 con",
+      "raw_name": "Khô cá chỉ vàng 10 con",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xoài xanh 2 trái",
+      "raw_name": "Xoài xanh",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 7 tép",
+      "raw_name": "Tỏi 7 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt 3 trái",
+      "raw_name": "Ớt",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chanh 1 trái",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rau răm 1 ít",
+      "raw_name": "Rau răm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Xà lách/ cà chua 1 ít (trang trí)",
+      "raw_name": "Xà lách/ cà chua",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "trang trí",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường 1.5 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Muối 1/3 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.333,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:00:27Z",
+  "page_title": "Cách làm gỏi xoài khô cá chỉ vàng thơm ngon, lạ miệng đổi vị cuối tuần",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/Huongdancachlamgoicachivangxoaixanh-Greenmangowithstripetrevallysaladvoifeedy1-9screenshot-1200x676.jpg"
+}

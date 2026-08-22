@@ -1,0 +1,107 @@
+{
+  "source_id": "13662",
+  "name": "Gỏi xoài cá trê kiểu Thái",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7abc27a763ed9915.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-xoai-ca-tre-kieu-thai-la-mieng-doc-dao-va-vo-13662",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-xoai-ca-tre-kieu-thai-la-mieng-doc-dao-va-vo-13662",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cá trê 1 con (khoảng 1kg)",
+      "raw_name": "Cá trê 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 1kg",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xoài keo xanh 1 quả",
+      "raw_name": "Xoài keo xanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chanh 1/2 quả",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt sừng 2 quả",
+      "raw_name": "Ớt sừng",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rau răm 5 nhánh",
+      "raw_name": "Rau răm",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tím 6 củ",
+      "raw_name": "Hành tím",
+      "quantity": 6,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đậu phộng 50 gr",
+      "raw_name": "Đậu phộng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước mắm 3 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ đường/ hạt nêm/ bột ngọt/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ đường/ hạt nêm/ bột ngọt/ tiêu xay",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T17:51:04Z",
+  "page_title": "Cách làm gỏi xoài cá trê kiểu Thái lạ miệng, độc đáo và vô cùng đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookDish/cach-lam-goi-xoai-ca-tre-kieu-thai-la-mieng-doc-dao-va-vo-avt-1200x676.jpg"
+}

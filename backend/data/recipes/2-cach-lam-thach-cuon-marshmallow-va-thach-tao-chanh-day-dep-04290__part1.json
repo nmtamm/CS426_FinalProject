@@ -1,0 +1,61 @@
+{
+  "source_id": "04290",
+  "name": "Thạch táo chanh dây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f68f3db9c6387510.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-thach-cuon-marshmallow-va-thach-tao-chanh-day-dep-04290",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-thach-cuon-marshmallow-va-thach-tao-chanh-day-dep-04290",
+  "servings_text": "Cho 2 - 3 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Táo 350 gr",
+      "raw_name": "Táo",
+      "quantity": 350,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chanh dây 150 gr",
+      "raw_name": "Chanh dây",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường trắng 10 gr",
+      "raw_name": "Đường trắng",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước ấm 500 ml",
+      "raw_name": "Nước ấm",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gelatin 3 lá",
+      "raw_name": "Gelatin",
+      "quantity": 3,
+      "unit": "lá",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:18:31Z",
+  "page_title": "2 cách làm thạch táo caramel và thạch táo chanh dây đẹp mắt, đơn giản",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/thach-tao-chanh-day-thumbnail.jpg"
+}

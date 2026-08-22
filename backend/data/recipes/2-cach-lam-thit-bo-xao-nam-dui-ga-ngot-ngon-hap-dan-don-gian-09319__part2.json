@@ -1,0 +1,113 @@
+{
+  "source_id": "09319",
+  "name": "Thịt bò xào nấm đùi gà rau củ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3914f8f7fc4e0d2d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-thit-bo-xao-nam-dui-ga-ngot-ngon-hap-dan-don-gian-09319",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-thit-bo-xao-nam-dui-ga-ngot-ngon-hap-dan-don-gian-09319",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò 300 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm đùi gà 100 gr",
+      "raw_name": "Nấm đùi gà",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Su su 1 trái",
+      "raw_name": "Su su",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành lá/ ngò rí 1 ít",
+      "raw_name": "Hành lá/ ngò rí",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gừng băm 1 muỗng canh",
+      "raw_name": "Gừng băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi băm 1.5 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột canh 1 muỗng cà phê",
+      "raw_name": "Bột canh",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hạt nêm/ bột ngọt 1 ít",
+      "raw_name": "Hạt nêm/ bột ngọt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước tương 1 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:33:16Z",
+  "page_title": "2 cách làm thịt bò xào nấm đùi gà ngọt ngon hấp dẫn đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookRecipe/Avatar/thit-bo-xao-nam-dui-ga-rau-cu-thumbnail.jpg"
+}

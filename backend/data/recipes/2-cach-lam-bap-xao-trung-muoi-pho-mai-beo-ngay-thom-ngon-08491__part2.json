@@ -1,0 +1,73 @@
+{
+  "source_id": "08491",
+  "name": "Bắp xào trứng gà",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1966e70ef922357f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-bap-xao-trung-muoi-pho-mai-beo-ngay-thom-ngon-08491",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-bap-xao-trung-muoi-pho-mai-beo-ngay-thom-ngon-08491",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bắp Mỹ 2 trái",
+      "raw_name": "Bắp Mỹ",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng gà 3 trái",
+      "raw_name": "Trứng gà",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bơ thực vật 1/2 muỗng canh",
+      "raw_name": "Bơ thực vật",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá 4 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 4,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 7 tép",
+      "raw_name": "Tỏi 7 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối/ đường 1 ít",
+      "raw_name": "Muối/ đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:11:39Z",
+  "page_title": "2 cách làm bắp xào trứng muối phô mai và trứng gà béo ngậy, ăn là mê",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/bap-xao-trung-ga-thumbnail-1.jpg"
+}

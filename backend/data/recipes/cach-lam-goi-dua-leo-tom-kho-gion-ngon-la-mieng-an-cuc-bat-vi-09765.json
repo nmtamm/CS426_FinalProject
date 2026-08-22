@@ -1,0 +1,123 @@
+{
+  "source_id": "09765",
+  "name": "Gỏi dưa leo tôm khô",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/96bd0355d9574bae.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-dua-leo-tom-kho-gion-ngon-la-mieng-an-cuc-bat-vi-09765",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-dua-leo-tom-kho-gion-ngon-la-mieng-an-cuc-bat-vi-09765",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa leo 5 quả",
+      "raw_name": "Dưa leo",
+      "quantity": 5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tôm khô 20 gr",
+      "raw_name": "Tôm khô",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Củ cải trắng 1 củ",
+      "raw_name": "Củ cải trắng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt sừng 1 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rau thơm 200 gr (rau răm/ rau quế)",
+      "raw_name": "Rau thơm",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "rau răm/ rau quế",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Chanh đào 1 trái (hoặc 2 trái chanh thường)",
+      "raw_name": "Chanh đào",
+      "quantity": 1,
+      "unit": "trái",
+      "note": "hoặc 2 trái chanh thường",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tắc 5 trái",
+      "raw_name": "Tắc",
+      "quantity": 5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đậu phộng rang 10 gr (1 nắm tay)",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "1 nắm tay",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hành tím phi 1 ít",
+      "raw_name": "Hành tím phi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Tương ớt 2 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước mắm 5 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Đường 5 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T17:57:02Z",
+  "page_title": "Cách làm gỏi dưa leo tôm khô giòn ngon, lạ miệng ăn cực bắt vị",
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookProduct/t1-1200x676-3.jpg"
+}

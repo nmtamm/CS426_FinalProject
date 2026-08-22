@@ -1,0 +1,37 @@
+{
+  "source_id": "08702",
+  "name": "Sữa khoai môn hạt sen",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/aa9ffaf2df3e21d9.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sua-khoai-mon-thom-beo-bui-ngay-sieu-bo-duong-08702",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sua-khoai-mon-thom-beo-bui-ngay-sieu-bo-duong-08702",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai môn 300 gr",
+      "raw_name": "Khoai môn",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hạt sen 50 gr",
+      "raw_name": "Hạt sen",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:58:58Z",
+  "page_title": "3 cách làm sữa khoai môn thơm béo, bùi ngậy siêu bổ dưỡng",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/sua-khoai-mon-hat-sen-thumbnail-1.jpg"
+}

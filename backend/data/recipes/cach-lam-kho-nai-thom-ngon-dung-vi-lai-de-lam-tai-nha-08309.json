@@ -1,0 +1,83 @@
+{
+  "source_id": "08309",
+  "name": "Khô nai",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b7bfe381320ad461.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kho-nai-thom-ngon-dung-vi-lai-de-lam-tai-nha-08309",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kho-nai-thom-ngon-dung-vi-lai-de-lam-tai-nha-08309",
+  "servings_text": "Cho 6 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt nai 1 kg",
+      "raw_name": "Thịt nai",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sả 200 gr",
+      "raw_name": "Sả",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt 3 trái",
+      "raw_name": "Ớt",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng 1 củ (cỡ nhỏ)",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "cỡ nhỏ",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ngũ vị hương 1 gói",
+      "raw_name": "Ngũ vị hương",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước mắm 3 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hạt màu điều 1 muỗng cà phê",
+      "raw_name": "Hạt màu điều",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Đường/ Bột nêm/ Bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Đường/ Bột nêm/ Bột ngọt",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:06:49Z",
+  "page_title": "Cách làm khô nai thơm ngon đúng vị lại dễ làm tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/0-1200x675.jpg"
+}

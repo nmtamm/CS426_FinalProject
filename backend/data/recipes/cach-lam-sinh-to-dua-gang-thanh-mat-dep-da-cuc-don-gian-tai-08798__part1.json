@@ -1,0 +1,65 @@
+{
+  "source_id": "08798",
+  "name": "Sinh tố dưa gang",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a1d46cdb7ae6bf8d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sinh-to-dua-gang-thanh-mat-dep-da-cuc-don-gian-tai-08798",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sinh-to-dua-gang-thanh-mat-dep-da-cuc-don-gian-tai-08798",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa gang 400 gr (dưa bở)",
+      "raw_name": "Dưa gang",
+      "quantity": 400,
+      "unit": "gr",
+      "note": "dưa bở",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa tươi không đường 20 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đặc 40 ml",
+      "raw_name": "Sữa đặc",
+      "quantity": 40,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa chua không đường 100 ml",
+      "raw_name": "Sữa chua không đường",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:03:07Z",
+  "page_title": "8 cách làm sinh tố dưa gang thanh mát, đẹp da cực đơn giản tại nhà",
+  "variant_index": 1,
+  "variant_count": 8,
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookRecipe/Avatar/sinh-to-dua-gang-thumbnail-2.jpg"
+}

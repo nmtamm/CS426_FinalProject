@@ -1,0 +1,55 @@
+{
+  "source_id": "04072",
+  "name": "Bánh bột mì trái bơ hấp",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c5503dbbce6e5165.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-bot-mi-trai-bo-hap-thom-ngon-mem-min-don-gian-04072",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-bot-mi-trai-bo-hap-thom-ngon-mem-min-don-gian-04072",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì đa dụng 40 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bơ 1 trái",
+      "raw_name": "Bơ",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng 1 quả",
+      "raw_name": "Trứng",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:18:24Z",
+  "page_title": "Cách làm bánh bột mì trái bơ hấp thơm ngon, mềm mịn, đơn giản dễ làm",
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookProduct/1200-1200x676-2.jpg"
+}

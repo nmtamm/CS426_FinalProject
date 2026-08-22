@@ -1,0 +1,51 @@
+{
+  "source_id": "12541",
+  "name": "Mắm cá nục",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2630138cf842ef8e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mam-ca-nuc-thom-ngon-an-toan-cho-ca-gia-dinh-thuong-12541",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mam-ca-nuc-thom-ngon-an-toan-cho-ca-gia-dinh-thuong-12541",
+  "servings_text": "Cho 10 (khoảng 2 lít nước mắm cốt)",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cá nục 8 kí",
+      "raw_name": "Cá nục 8 kí",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối hạt 2 kg",
+      "raw_name": "Muối hạt",
+      "quantity": 2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Thơm 1 trái",
+      "raw_name": "Thơm",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mật ong 100 ml",
+      "raw_name": "Mật ong",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:28:05Z",
+  "page_title": "Cách làm mắm cá nục thơm ngon ăn toàn cho cả gia đình thưởng thức",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/13-1200x676-2.jpg"
+}

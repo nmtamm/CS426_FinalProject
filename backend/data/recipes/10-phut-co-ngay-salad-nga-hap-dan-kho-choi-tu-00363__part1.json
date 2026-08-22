@@ -1,0 +1,110 @@
+{
+  "source_id": "00363",
+  "name": "Salad Nga",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e5ae4255dda4af5a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/10-phut-co-ngay-salad-nga-hap-dan-kho-choi-tu-00363",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/10-phut-co-ngay-salad-nga-hap-dan-kho-choi-tu-00363",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai tây 2 củ",
+      "raw_name": "Khoai tây",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dưa leo 2 quả",
+      "raw_name": "Dưa leo",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bắp Mỹ 2 quả (hoặc 1 lon)",
+      "raw_name": "Bắp Mỹ",
+      "quantity": 2,
+      "unit": "quả",
+      "note": "hoặc 1 lon",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đậu Hà Lan 400 gr (hoặc 1 lon)",
+      "raw_name": "Đậu Hà Lan",
+      "quantity": 400,
+      "unit": "gr",
+      "note": "hoặc 1 lon",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Giò lụa 400 gr",
+      "raw_name": "Giò lụa",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Sốt Mayonnaise 260 gr",
+      "raw_name": "Sốt Mayonnaise",
+      "quantity": 260,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dấm 2 muỗng cà phê",
+      "raw_name": "Dấm",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bột canh 1/2 muỗng cà phê",
+      "raw_name": "Bột canh",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ bột ngọt",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T17:53:07Z",
+  "page_title": "Cách làm salad Nga ngon miệng đơn giản dễ làm ngay tại nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "note": null,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/salad-nga-thumbnail.jpg"
+}

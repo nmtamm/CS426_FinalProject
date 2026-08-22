@@ -1,0 +1,37 @@
+{
+  "source_id": "02392",
+  "name": "hạt dẻ rang bơ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b42c881deb5d946a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-hat-de-rang-bo-va-rang-mat-ong-don-gian-02392",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-hat-de-rang-bo-va-rang-mat-ong-don-gian-02392",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hạt dẻ 1 kg",
+      "raw_name": "Hạt dẻ",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bơ 10 g",
+      "raw_name": "Bơ",
+      "quantity": 10,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:05:47Z",
+  "page_title": "2 cách làm hạt dẻ rang bơ và rang mật ong đơn giản, bùi béo, thơm lừng",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/hat-de-rang-bo-thumbnail-1.jpg"
+}

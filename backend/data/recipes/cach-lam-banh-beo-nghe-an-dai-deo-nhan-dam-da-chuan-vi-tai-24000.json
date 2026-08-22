@@ -1,0 +1,71 @@
+{
+  "source_id": "24000",
+  "name": "Bánh bèo Nghệ An",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4740d813e7a2039a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-beo-nghe-an-dai-deo-nhan-dam-da-chuan-vi-tai-24000",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-beo-nghe-an-dai-deo-nhan-dam-da-chuan-vi-tai-24000",
+  "servings_text": "Cho 400 gram bột năng (cho 3 người)",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột năng 400 gr",
+      "raw_name": "Bột năng",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột gạo 3 thìa canh",
+      "raw_name": "Bột gạo",
+      "quantity": 3,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Thịt ba chỉ 250 gr",
+      "raw_name": "Thịt ba chỉ",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tôm 250 gr",
+      "raw_name": "Tôm",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tím lớn 1/2 củ",
+      "raw_name": "Hành tím lớn",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ hạt nêm/ bột ngọt/ tiêu/ nước mắm/ đường/ dầu ăn)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ hạt nêm/ bột ngọt/ tiêu/ nước mắm/ đường/ dầu ăn",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:53:31Z",
+  "page_title": "Cách làm bánh bèo Nghệ An dai dẻo, nhân đậm đà, chuẩn vị tại nhà",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/banh-beo-nghe-an%20%282%29.jpg"
+}

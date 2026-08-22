@@ -1,0 +1,53 @@
+{
+  "source_id": "02109",
+  "name": "Kẹo cứng hương dâu tây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/74e776896f261311.png",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-keo-cung-vi-dau-va-tra-xanh-thom-ngon--02109",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-keo-cung-vi-dau-va-tra-xanh-thom-ngon--02109",
+  "servings_text": "Cho 10 viên kẹo tuỳ kích cỡ khuôn.",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đường: 120 gr",
+      "raw_name": "Đường:",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường bắp: 20 ml",
+      "raw_name": "Đường bắp:",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tinh chất dâu tây: 5 ml",
+      "raw_name": "Tinh chất dâu tây:",
+      "quantity": 5,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước: 60 ml",
+      "raw_name": "Nước:",
+      "quantity": 60,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:28:29Z",
+  "page_title": "2 Cách làm kẹo cứng vị dâu và trà xanh thơm ngon, dễ làm",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/keo-cung-huong-dau-tay-thumbnail.png"
+}

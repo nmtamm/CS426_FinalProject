@@ -1,0 +1,69 @@
+{
+  "source_id": "11716",
+  "name": "Trà sữa dâu tằm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e6e65bf07c4525d9.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-tra-sua-dau-thom-ngon-hap-dan-cuc-ky-de-lam-11716",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-tra-sua-dau-thom-ngon-hap-dan-cuc-ky-de-lam-11716",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dâu tằm 50 gr",
+      "raw_name": "Dâu tằm",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trà túi lọc 4 gr (khoảng 2 gói)",
+      "raw_name": "Trà túi lọc",
+      "quantity": 4,
+      "unit": "gr",
+      "note": "khoảng 2 gói",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Siro dâu 100 ml",
+      "raw_name": "Siro dâu",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột năng 100 gr",
+      "raw_name": "Bột năng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sữa đặc 80 ml",
+      "raw_name": "Sữa đặc",
+      "quantity": 80,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước đường 50 ml",
+      "raw_name": "Nước đường",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:10:32Z",
+  "page_title": "4 cách làm trà sữa dâu thơm ngon hấp dẫn cực kỳ dễ làm",
+  "variant_index": 4,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/tra-sua-dau-tam-thumbnail.jpg"
+}

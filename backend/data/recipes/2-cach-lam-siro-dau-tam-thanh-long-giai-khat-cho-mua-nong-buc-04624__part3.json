@@ -1,0 +1,45 @@
+{
+  "source_id": "04624",
+  "name": "Siro dâu tằm đường phèn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7927ea1c57bc64e3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-siro-dau-tam-thanh-long-giai-khat-cho-mua-nong-buc-04624",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-siro-dau-tam-thanh-long-giai-khat-cho-mua-nong-buc-04624",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dâu tằm 1 kg",
+      "raw_name": "Dâu tằm",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường phèn 1 kg",
+      "raw_name": "Đường phèn",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối trắng 50 gr",
+      "raw_name": "Muối trắng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:55:13Z",
+  "page_title": "3 cách làm siro dâu tằm, thanh long giải khát cho mùa nóng bức",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2022/06/CookRecipe/Avatar/siro-dau-tàm-duòng-phèn-thumbnail.jpg"
+}

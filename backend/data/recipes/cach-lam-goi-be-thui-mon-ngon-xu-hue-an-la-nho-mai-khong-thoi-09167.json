@@ -1,0 +1,115 @@
+{
+  "source_id": "09167",
+  "name": "Gỏi bê thui",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/69e807a742dedba1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-be-thui-mon-ngon-xu-hue-an-la-nho-mai-khong-thoi-09167",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-be-thui-mon-ngon-xu-hue-an-la-nho-mai-khong-thoi-09167",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bê thui 300 gr",
+      "raw_name": "Thịt bê thui",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chanh 1 trái",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt 3 trái",
+      "raw_name": "Ớt",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 5 tép",
+      "raw_name": "Tỏi 5 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rau cần/ ngò rí 1 ít",
+      "raw_name": "Rau cần/ ngò rí",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đậu phộng rang 2 muỗng cà phê",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Mè trắng rang vàng 2 muỗng cà phê",
+      "raw_name": "Mè trắng rang vàng",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hành phi 2 muỗng cà phê",
+      "raw_name": "Hành phi",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước mắm 1/2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ tiêu/ đường/ bột ngọt/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ tiêu/ đường/ bột ngọt/ hạt nêm",
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T17:55:05Z",
+  "page_title": "Cách làm gỏi bê thui món ngon xứ Huế, ăn là nhớ mãi không thôi",
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookProduct/HuongDancachlamGOIBETHUIMonNgonXuHue10-40screenshot(2)-1200x676.jpg"
+}

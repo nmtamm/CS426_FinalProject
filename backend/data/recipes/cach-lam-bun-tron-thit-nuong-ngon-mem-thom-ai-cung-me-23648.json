@@ -1,0 +1,143 @@
+{
+  "source_id": "23648",
+  "name": "Bún trộn thịt nướng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8f6d4e45e43cc79f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bun-tron-thit-nuong-ngon-mem-thom-ai-cung-me-23648",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bun-tron-thit-nuong-ngon-mem-thom-ai-cung-me-23648",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt nạc dăm 1 kg",
+      "raw_name": "Thịt nạc dăm",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bún tươi 500 gr",
+      "raw_name": "Bún tươi",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rau sống 400 gr",
+      "raw_name": "Rau sống",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Củ cải trắng 200 gr",
+      "raw_name": "Củ cải trắng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt 4 trái",
+      "raw_name": "Ớt",
+      "quantity": 4,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Cà rốt 100 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Sả 3 cây",
+      "raw_name": "Sả",
+      "quantity": 3,
+      "unit": "cây",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hành tím 6 củ",
+      "raw_name": "Hành tím",
+      "quantity": 6,
+      "unit": "củ",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Sữa tươi có đường 55 ml",
+      "raw_name": "Sữa tươi có đường",
+      "quantity": 55,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Xá xíu 70 gr",
+      "raw_name": "Xá xíu",
+      "quantity": 70,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Mè rang sơ 1 thìa canh",
+      "raw_name": "Mè rang sơ",
+      "quantity": 1,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Giấm gạo 40 gram",
+      "raw_name": "Giấm gạo 40 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Đậu phộng rang 100 gr",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (dầu hào/ dầu ăn/ bột ngọt/ bột ngũ vị hương/ muối/nước mắm/ đường)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "dầu hào/ dầu ăn/ bột ngọt/ bột ngũ vị hương/ muối/nước mắm/ đường",
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T20:32:37Z",
+  "page_title": "Cách làm bún trộn thịt nướng ngon mềm thơm ai cũng mê",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/cach-lam-bun-tron-thit-nuong-thumb.jpg"
+}

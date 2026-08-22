@@ -1,0 +1,95 @@
+{
+  "source_id": "10465",
+  "name": "Cheesecake sữa chua trái cây phiên bản mini",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e25c3cdc05e9d5da.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cheesecake-sua-chua-trai-cay-nuong-phien-ban-mini-10465",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cheesecake-sua-chua-trai-cay-nuong-phien-ban-mini-10465",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trứng 2 quả",
+      "raw_name": "Trứng",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Kiwi/ dâu tây/ việt quất 1 ít",
+      "raw_name": "Kiwi/ dâu tây/ việt quất",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bánh quy lạt 100 gr",
+      "raw_name": "Bánh quy lạt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Creamcheese 200 gr",
+      "raw_name": "Creamcheese",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bơ lạt 30 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước cốt chanh 10 ml (1 lát chanh lớn)",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 10,
+      "unit": "ml",
+      "note": "1 lát chanh lớn",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột bắp 10 gr",
+      "raw_name": "Bột bắp",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Sữa chua 170 gr",
+      "raw_name": "Sữa chua",
+      "quantity": 170,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường 100 gr",
+      "raw_name": "Đường",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T20:22:24Z",
+  "page_title": "Cách làm cheesecake sữa chua trái cây nướng phiên bản mini thơm béo tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookProduct/Cheesecakesuachuatraicaynuongphienbanmini-1200x676.jpg"
+}

@@ -1,0 +1,55 @@
+{
+  "source_id": "10034",
+  "name": "Bí nụ xào thịt bò",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b52525f3b3bab2cf.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bi-nu-xao-thit-bo-thom-ngon-de-lam-cho-bua-com-ngay-10034",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bi-nu-xao-thit-bo-thom-ngon-de-lam-cho-bua-com-ngay-10034",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò 300 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bí nụ 100 gr (5 - 6 bông)",
+      "raw_name": "Bí nụ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "5 - 6 bông",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (hạt nêm/ bột ngọt/ muối)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hạt nêm/ bột ngọt/ muối",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T18:33:10Z",
+  "page_title": "Cách làm bí nụ xào thịt bò thơm ngon dễ làm cho bữa cơm ngày tất bật",
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookProduct/Binuxaothitbo-1200x676.jpg"
+}

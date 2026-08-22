@@ -1,0 +1,93 @@
+{
+  "source_id": "01502",
+  "name": "Khô mực rim nước mắm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/716cffca402437c2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cong-thuc-lam-muc-rim-me-rim-nuoc-mam-cuc-ngon-com-01502",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cong-thuc-lam-muc-rim-me-rim-nuoc-mam-cuc-ngon-com-01502",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mực khô 50 gr",
+      "raw_name": "Mực khô",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bia 1 ly",
+      "raw_name": "Bia 1 ly",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước mắm 1/2 chén",
+      "raw_name": "Nước mắm",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường trắng 1/2 chén",
+      "raw_name": "Đường trắng",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường thốt nốt 1/4 chén",
+      "raw_name": "Đường thốt nốt",
+      "quantity": 0.25,
+      "unit": "chén",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tương ớt 1/4 chén",
+      "raw_name": "Tương ớt",
+      "quantity": 0.25,
+      "unit": "chén",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt bột 1 muỗng cà phê",
+      "raw_name": "Ớt bột",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bơ 1 muỗng cà phê",
+      "raw_name": "Bơ",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tỏi 1 muỗng cà phê",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T20:30:21Z",
+  "page_title": "2 cách làm khô mực rim me và rim nước mắm cực ngon cơm ngày mưa gió",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2023/04/CookRecipe/Avatar/6.jpg"
+}

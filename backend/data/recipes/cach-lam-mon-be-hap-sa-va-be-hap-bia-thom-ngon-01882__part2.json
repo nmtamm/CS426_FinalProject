@@ -1,0 +1,145 @@
+{
+  "source_id": "01882",
+  "name": "Bê hấp bia",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/19c7d9889086d436.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-be-hap-sa-va-be-hap-bia-thom-ngon-01882",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-be-hap-sa-va-be-hap-bia-thom-ngon-01882",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bê 300 gr",
+      "raw_name": "Thịt bê",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bia 200 ml",
+      "raw_name": "Bia",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sả 2 cây",
+      "raw_name": "Sả",
+      "quantity": 2,
+      "unit": "cây",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột năng 1 muỗng cà phê",
+      "raw_name": "Bột năng",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Mè rang 1 muỗng canh",
+      "raw_name": "Mè rang",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành lá 30 gr",
+      "raw_name": "Hành lá",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ớt sừng 1 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hạt nêm 1 muỗng cà phê",
+      "raw_name": "Hạt nêm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Tiêu 1/2 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Đường 1 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Bột ngọt 1/4 muỗng",
+      "raw_name": "Bột ngọt",
+      "quantity": 0.25,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Tương ớt 2 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Nước tương 2 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T18:26:53Z",
+  "page_title": "Cách làm món bê hấp sả và bê hấp bia thơm ngon, mềm ngọt",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/be-hap-bia-thumbnail.jpg"
+}

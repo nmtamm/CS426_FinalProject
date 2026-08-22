@@ -1,0 +1,62 @@
+{
+  "source_id": "13569",
+  "name": "Thạch rau câu dưa hấu sữa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c5bdf80974bb2650.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thach-rau-cau-dua-hau-mat-lanh-tuoi-ngon-13569",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thach-rau-cau-dua-hau-mat-lanh-tuoi-ngon-13569",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa hấu 1 trái",
+      "raw_name": "Dưa hấu",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột rau câu giòn 10 gr (bột rau câu Agar)",
+      "raw_name": "Bột rau câu giòn",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "bột rau câu Agar",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đặc 190 gr (1/2 lon)",
+      "raw_name": "Sữa đặc",
+      "quantity": 190,
+      "unit": "gr",
+      "note": "1/2 lon",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước 1 lít",
+      "raw_name": "Nước 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 150 gr",
+      "raw_name": "Đường",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:17:09Z",
+  "page_title": "4 cách làm thạch rau câu dưa hấu giòn ngon, ngọt mát cực đơn giản",
+  "variant_index": 3,
+  "variant_count": 4,
+  "note": "công thức được chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookRecipe/Avatar/thach-rau-cau-dua-hau-sua-cong-thuc-duoc-chia-se-tu-nguoi-dung-thumbnail.jpg"
+}

@@ -1,0 +1,67 @@
+{
+  "source_id": "05189",
+  "name": "Kẹo dẻo cam từ cam tươi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d67a62001425b2ce.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-keo-deo-cam-tu-cam-tuoi-thom-ngon-la-mieng-05189",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-keo-deo-cam-tu-cam-tuoi-thom-ngon-la-mieng-05189",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cam 600 gr",
+      "raw_name": "Cam",
+      "quantity": 600,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 250 gr",
+      "raw_name": "Đường",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Siro bắp 250 gr",
+      "raw_name": "Siro bắp",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước 150 ml",
+      "raw_name": "Nước",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Baking soda 1 ít",
+      "raw_name": "Baking soda",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối hột 1 ít",
+      "raw_name": "Muối hột",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:23:42Z",
+  "page_title": "Cách làm kẹo dẻo cam từ cam tươi thơm ngon lạ miệng",
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookProduct/1260-1200x643-7.jpg"
+}

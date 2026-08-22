@@ -1,0 +1,125 @@
+{
+  "source_id": "13963",
+  "name": "Nui xào gà",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/26d089b7de29027c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nui-xao-ga-hap-dan-ngon-mieng-de-lam-cho-bua-sang-13963",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nui-xao-ga-hap-dan-ngon-mieng-de-lam-cho-bua-sang-13963",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ức gà 300 gr",
+      "raw_name": "Ức gà",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nui khô 100 gr",
+      "raw_name": "Nui khô",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bông cải xanh 100 gr",
+      "raw_name": "Bông cải xanh",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bông cải xanh 200 gr",
+      "raw_name": "Bông cải xanh",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt chuông 1 trái",
+      "raw_name": "Ớt chuông",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tây 1/2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi 3 tép",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành lá 4 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 4,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột ớt 1 muỗng cà phê",
+      "raw_name": "Bột ớt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bột tỏi 1 muỗng cà phê",
+      "raw_name": "Bột tỏi",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Tương đen 1 muỗng cà phê",
+      "raw_name": "Tương đen",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu ăn 5.5 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 5.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ muối/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ muối/ tiêu xay",
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T18:12:44Z",
+  "page_title": "2 cách làm nui xào gà hấp dẫn ngon miệng dễ làm cho bữa sáng",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/nui-xao-ga-thumbnail-1.jpg"
+}

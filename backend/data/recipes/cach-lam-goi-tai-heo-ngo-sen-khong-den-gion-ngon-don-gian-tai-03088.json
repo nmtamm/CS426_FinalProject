@@ -1,0 +1,139 @@
+{
+  "source_id": "03088",
+  "name": "Gỏi ngó sen tai heo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/92ffc13e527981d8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-tai-heo-ngo-sen-khong-den-gion-ngon-don-gian-tai-03088",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-tai-heo-ngo-sen-khong-den-gion-ngon-don-gian-tai-03088",
+  "servings_text": "Cho 4 - 5 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tai heo 500 gr",
+      "raw_name": "Tai heo",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ngó sen 300 gr",
+      "raw_name": "Ngó sen",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tím 3 củ",
+      "raw_name": "Hành tím",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dưa leo 2 trái",
+      "raw_name": "Dưa leo",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cà rốt 2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tắc 200 g (chanh)",
+      "raw_name": "Tắc",
+      "quantity": 200,
+      "unit": "g",
+      "note": "chanh",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tây 2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Rau rắm 10 g",
+      "raw_name": "Rau rắm",
+      "quantity": 10,
+      "unit": "g",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gừng 5 g (cắt lát)",
+      "raw_name": "Gừng",
+      "quantity": 5,
+      "unit": "g",
+      "note": "cắt lát",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đậu phộng rang đập dập 1 chén",
+      "raw_name": "Đậu phộng rang đập dập",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Hành phi sẵn 1 chén",
+      "raw_name": "Hành phi sẵn",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Ớt 30 g (6 trái)",
+      "raw_name": "Ớt",
+      "quantity": 30,
+      "unit": "g",
+      "note": "6 trái",
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nhỏ dầu hành 1 chén",
+      "raw_name": "Nhỏ dầu hành",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Tỏi 10 g",
+      "raw_name": "Tỏi",
+      "quantity": 10,
+      "unit": "g",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Gia vị 10 g (nước mắm/muối/đường/...)",
+      "raw_name": "Gia vị",
+      "quantity": 10,
+      "unit": "g",
+      "note": "nước mắm/muối/đường/...",
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T17:56:22Z",
+  "page_title": "Cách làm gỏi tai heo ngó sen không đen, giòn ngon đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookProduct/cn-1200x676-7.jpg"
+}

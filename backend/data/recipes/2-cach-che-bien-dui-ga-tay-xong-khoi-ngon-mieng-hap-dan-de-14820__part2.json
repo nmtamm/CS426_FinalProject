@@ -1,0 +1,122 @@
+{
+  "source_id": "14820",
+  "name": "Salad đùi gà tây xông khói",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/14350f34bd348b25.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-che-bien-dui-ga-tay-xong-khoi-ngon-mieng-hap-dan-de-14820",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-che-bien-dui-ga-tay-xong-khoi-ngon-mieng-hap-dan-de-14820",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đùi gà tây xông khói 0.5 kg",
+      "raw_name": "Đùi gà tây xông khói",
+      "quantity": 0.5,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rau xà lách 100 gr",
+      "raw_name": "Rau xà lách",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rau húng lủi 20 gr",
+      "raw_name": "Rau húng lủi",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà chua bi 100 gr",
+      "raw_name": "Cà chua bi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Khoai tây 1 củ",
+      "raw_name": "Khoai tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành phi 1 muỗng canh",
+      "raw_name": "Hành phi",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước cốt chanh 2 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Sốt mayonnaise 5 muỗng canh",
+      "raw_name": "Sốt mayonnaise",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Sữa đặc 2 muỗng canh",
+      "raw_name": "Sữa đặc",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu ăn 115 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 115,
+      "unit": "ml",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Muối/ tiêu xay 1 ít",
+      "raw_name": "Muối/ tiêu xay",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:01:38Z",
+  "page_title": "2 cách chế biến đùi gà tây xông khói ngon miệng hấp dẫn dễ làm tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": null,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/salad-dui-ga-tay-xong-khoi-thumbnail-1.jpg"
+}

@@ -1,0 +1,35 @@
+{
+  "source_id": "08278",
+  "name": "Hạt dẻ rang muối",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/16f2c44fc923cfae.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-hat-de-rang-muoi-beo-bui-sieu-ngon-cac-be-thich-me-08278",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-hat-de-rang-muoi-beo-bui-sieu-ngon-cac-be-thich-me-08278",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hạt dẻ 800 gr",
+      "raw_name": "Hạt dẻ",
+      "quantity": 800,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối hột 300 gr",
+      "raw_name": "Muối hột",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:03:12Z",
+  "page_title": "Cách làm hạt dẻ rang muối béo bùi siêu ngon các bé thích mê",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/1200-1200x676-44.jpg"
+}

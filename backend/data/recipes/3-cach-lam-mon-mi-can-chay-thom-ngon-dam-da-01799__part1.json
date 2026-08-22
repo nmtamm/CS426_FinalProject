@@ -1,0 +1,77 @@
+{
+  "source_id": "01799",
+  "name": "Mì căn cà ri sả ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/41ef40f4e065e887.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-mon-mi-can-chay-thom-ngon-dam-da-01799",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-mon-mi-can-chay-thom-ngon-dam-da-01799",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mì căn 8 cây",
+      "raw_name": "Mì căn",
+      "quantity": 8,
+      "unit": "cây",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt băm 50 g",
+      "raw_name": "Ớt băm",
+      "quantity": 50,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi băm 50 g",
+      "raw_name": "Tỏi băm",
+      "quantity": 50,
+      "unit": "g",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sả băm 1 chén",
+      "raw_name": "Sả băm",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước tương 4 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hạt nêm chay 1 muỗng canh",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột cà ri 1 muỗng canh",
+      "raw_name": "Bột cà ri",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:42:39Z",
+  "page_title": "4 cách làm món mì căn chay thơm ngon, đậm đà hương vị, ăn là ghiền",
+  "variant_index": 1,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/mi-can-ca-ri-sa-ot-thumbnail.jpg"
+}

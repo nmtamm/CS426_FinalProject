@@ -1,0 +1,71 @@
+{
+  "source_id": "02287",
+  "name": "Bánh men",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5f9dbeb4500d96f2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-men-thom-ngon-gion-rum-don-gian-de-l-02287",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-men-thom-ngon-gion-rum-don-gian-de-l-02287",
+  "servings_text": "Cho 80 cái",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột năng 170 gr",
+      "raw_name": "Bột năng",
+      "quantity": 170,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột gạo 20 gr",
+      "raw_name": "Bột gạo",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá dứa 10 gr",
+      "raw_name": "Lá dứa",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường bột 80 gr",
+      "raw_name": "Đường bột",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cốt dừa 80 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 80,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tinh chất vani 1 muỗng cà phê",
+      "raw_name": "Tinh chất vani",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:27:53Z",
+  "page_title": "Cách làm bánh men thơm ngon giòn rụm đơn giản dễ làm",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/05/05/1253646/cach-lam-banh-men-thom-ngon-gion-rum-don-gian-de-l-8-760x367.jpg"
+}

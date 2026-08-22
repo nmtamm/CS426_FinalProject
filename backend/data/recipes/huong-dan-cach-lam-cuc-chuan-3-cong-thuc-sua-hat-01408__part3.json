@@ -1,0 +1,61 @@
+{
+  "source_id": "01408",
+  "name": "Sữa hạt điều bí đỏ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/85a24b3d9cedeac5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-cach-lam-cuc-chuan-3-cong-thuc-sua-hat-01408",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-cach-lam-cuc-chuan-3-cong-thuc-sua-hat-01408",
+  "servings_text": "Cho 1 chai",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hạt điều 80 gr",
+      "raw_name": "Hạt điều",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bí đỏ 120 gr",
+      "raw_name": "Bí đỏ",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chà là 3 trái",
+      "raw_name": "Chà là",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối hồng 1/2 muỗng cà phê",
+      "raw_name": "Muối hồng",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước lọc 1 lít",
+      "raw_name": "Nước lọc 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:59:22Z",
+  "page_title": "8 cách làm sữa hạt điều tươi thơm ngon đơn giản tốt cho sức khỏe",
+  "variant_index": 3,
+  "variant_count": 8,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/sua-hat-dieu-bi-do-thumbnail.jpg"
+}

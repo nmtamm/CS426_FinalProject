@@ -1,0 +1,51 @@
+{
+  "source_id": "15228",
+  "name": "Chao Huế",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/149e3be61854a171.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chao-hue-beo-beo-thom-ngon-chuan-vi-an-gi-cung-ngon-15228",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chao-hue-beo-beo-thom-ngon-chuan-vi-an-gi-cung-ngon-15228",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu hũ trắng 1 miếng",
+      "raw_name": "Đậu hũ trắng 1 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rượu trắng 60 ml",
+      "raw_name": "Rượu trắng",
+      "quantity": 60,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ muối)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ muối",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối tiêu 1 ít",
+      "raw_name": "Muối tiêu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:26:43Z",
+  "page_title": "Cách làm chao Huế beo béo thơm ngon chuẩn vị ăn gì cũng ngon",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookDish/cach-nau-canh-gia-do-nau-chua-thanh-mat-ngon-ngot-va-don-gian-avt-1200x676-1.jpg"
+}

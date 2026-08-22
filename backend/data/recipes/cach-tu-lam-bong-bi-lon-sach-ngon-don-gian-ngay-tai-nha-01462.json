@@ -1,0 +1,39 @@
+{
+  "source_id": "01462",
+  "name": "Bóng bì lợn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0083afd31bcf70e8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-tu-lam-bong-bi-lon-sach-ngon-don-gian-ngay-tai-nha-01462",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-tu-lam-bong-bi-lon-sach-ngon-don-gian-ngay-tai-nha-01462",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bì lợn 1 kg (da heo)",
+      "raw_name": "Bì lợn",
+      "quantity": 1,
+      "unit": "kg",
+      "note": "da heo",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rượu gừng 100 ml",
+      "raw_name": "Rượu gừng",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:27:42Z",
+  "page_title": "Cách tự làm bóng bì lợn sạch, ngon, đơn giản ngay tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2019/11/16/1219434/5-tac-dung-bat-ngo-cua-bong-bi-lon-va-cach-tu-lam-bong-bi-lon-sach-ngon-ngay-tai-nha-7-760x367.jpg"
+}

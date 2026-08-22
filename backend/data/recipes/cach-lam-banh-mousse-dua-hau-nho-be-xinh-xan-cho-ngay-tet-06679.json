@@ -1,0 +1,147 @@
+{
+  "source_id": "06679",
+  "name": "Bánh mousse dưa hấu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/37c525264ee49ced.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-mousse-dua-hau-nho-be-xinh-xan-cho-ngay-tet-06679",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-mousse-dua-hau-nho-be-xinh-xan-cho-ngay-tet-06679",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa hấu 1/2 trái",
+      "raw_name": "Dưa hấu",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Heavy cream 185 gr",
+      "raw_name": "Heavy cream",
+      "quantity": 185,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cake flour 10 gr",
+      "raw_name": "Cake flour",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gelatin 15 gr",
+      "raw_name": "Gelatin",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cream 120 gr",
+      "raw_name": "Cream",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 304 gr",
+      "raw_name": "Đường",
+      "quantity": 304,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bơ cacao 10 gr",
+      "raw_name": "Bơ cacao",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Socola trắng 40 gr",
+      "raw_name": "Socola trắng",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rượu anh đào 15 ml",
+      "raw_name": "Rượu anh đào",
+      "quantity": 15,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Sữa đặc 60 gr",
+      "raw_name": "Sữa đặc",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước đường 16 gr",
+      "raw_name": "Nước đường",
+      "quantity": 16,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước cốt chanh 5 ml",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 5,
+      "unit": "ml",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Rượu vang trắng 5 ml",
+      "raw_name": "Rượu vang trắng",
+      "quantity": 5,
+      "unit": "ml",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Màu thực phẩm 1 ít (xanh lá/đỏ)",
+      "raw_name": "Màu thực phẩm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "xanh lá/đỏ",
+      "display_order": 14
+    },
+    {
+      "raw_text": "Bút vẽ socola 3 cái (2 đen/1 xanh lá)",
+      "raw_name": "Bút vẽ socola",
+      "quantity": 3,
+      "unit": "cái",
+      "note": "2 đen/1 xanh lá",
+      "display_order": 15
+    },
+    {
+      "raw_text": "Tinh chất vani 1 ít",
+      "raw_name": "Tinh chất vani",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T19:36:35Z",
+  "page_title": "Cách làm bánh mousse dưa hấu nhỏ bé xinh xắn cho ngày Tết",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/9-1200x676-1.jpg"
+}

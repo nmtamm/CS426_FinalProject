@@ -1,0 +1,69 @@
+{
+  "source_id": "13680",
+  "name": "Nước ép chanh dây bạc hà",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/39a504614383be92.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nuoc-ep-chanh-day-chua-ngot-thom-ngon-mat-lanh-13680",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nuoc-ep-chanh-day-chua-ngot-thom-ngon-mat-lanh-13680",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chanh dây 4 quả",
+      "raw_name": "Chanh dây",
+      "quantity": 4,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lá bạc hà 5 gr",
+      "raw_name": "Lá bạc hà",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gừng 2 lát",
+      "raw_name": "Gừng 2 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước lọc 500 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:12:33Z",
+  "page_title": "3 cách làm nước ép chanh dây chua ngọt, thơm ngon mát lạnh giải nhiệt",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/nuoc-ep-chanh-day-bac-ha-thumbnail-2.jpg"
+}

@@ -1,0 +1,61 @@
+{
+  "source_id": "10469",
+  "name": "Nước sấu đá",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bcf95fdb1f8f5018.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-pha-nuoc-sau-da-ngon-ngot-chua-thanh-giai-nhiet-co-the-10469",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-pha-nuoc-sau-da-ngon-ngot-chua-thanh-giai-nhiet-co-the-10469",
+  "servings_text": "Cho 1 ly (tăng thêm nguyên liệu để tăng khẩu phần)",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nước sấu ngâm 30 ml",
+      "raw_name": "Nước sấu ngâm",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sấu ngâm 3 quả",
+      "raw_name": "Sấu ngâm",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước đường 10 ml",
+      "raw_name": "Nước đường",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chanh 1 quả",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước lọc 150 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:59:25Z",
+  "page_title": "2 cách pha nước sấu đá ngon ngọt, chua thanh giải nhiệt cơ thể",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/SauDa-LAI20787vndcoc7-51screenshot.jpg"
+}

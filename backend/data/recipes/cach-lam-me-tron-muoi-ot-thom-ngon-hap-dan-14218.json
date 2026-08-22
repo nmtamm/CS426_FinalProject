@@ -1,0 +1,59 @@
+{
+  "source_id": "14218",
+  "name": "Me trộn muối ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ff759c55230d6354.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-me-tron-muoi-ot-thom-ngon-hap-dan-14218",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-me-tron-muoi-ot-thom-ngon-hap-dan-14218",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Me chín 300 gr",
+      "raw_name": "Me chín",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 500 gr",
+      "raw_name": "Đường",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt bột 1 muỗng cà phê",
+      "raw_name": "Ớt bột",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột nếp 12 gr",
+      "raw_name": "Bột nếp",
+      "quantity": 12,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:37:54Z",
+  "page_title": "Cách làm me trộn muối ớt thơm ngon, hấp dẫn",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-thit-ngan-xao-rau-ma-dan-da-la-vi-doi-mon-cho-bua-avt-1200x676-1.jpg"
+}

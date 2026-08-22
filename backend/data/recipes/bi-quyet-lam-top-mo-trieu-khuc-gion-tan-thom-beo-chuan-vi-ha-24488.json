@@ -1,0 +1,71 @@
+{
+  "source_id": "24488",
+  "name": "Tóp mỡ Triều Khúc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0e8f66e34e483546.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/bi-quyet-lam-top-mo-trieu-khuc-gion-tan-thom-beo-chuan-vi-ha-24488",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/bi-quyet-lam-top-mo-trieu-khuc-gion-tan-thom-beo-chuan-vi-ha-24488",
+  "servings_text": "Cho 3 - 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mỡ nọng hoặc mỡ gáy 1 kg (hoặc thịt ba chỉ)",
+      "raw_name": "Mỡ nọng hoặc mỡ gáy",
+      "quantity": 1,
+      "unit": "kg",
+      "note": "hoặc thịt ba chỉ",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gừng 1 nhánh",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành khô/ tỏi/ hành lá 1 ít",
+      "raw_name": "Hành khô/ tỏi/ hành lá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Món ăn kèm 1 ít (dưa chua/ tương ớt)",
+      "raw_name": "Món ăn kèm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "dưa chua/ tương ớt",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rượu nấu ăn 1 ít (tùy chọn)",
+      "raw_name": "Rượu nấu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "tùy chọn",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ mì chính/ dầu ăn)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ mì chính/ dầu ăn",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:52:25Z",
+  "page_title": "Bí quyết làm tóp mỡ Triều Khúc giòn tan thơm béo chuẩn vị Hà Nội tại nhà",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t05%201200676%20%2857%29.jpg"
+}

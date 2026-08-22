@@ -1,0 +1,177 @@
+{
+  "source_id": "09724",
+  "name": "Bánh mì thịt bò nướng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d6ac9e2193307182.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-banh-mi-thit-bo-thom-ngon-don-gian-ai-cung-lam-09724",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-banh-mi-thit-bo-thom-ngon-don-gian-ai-cung-lam-09724",
+  "servings_text": "Cho 4 người ăn",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh mì 4 cái",
+      "raw_name": "Bánh mì",
+      "quantity": 4,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt bò băm 500 gr",
+      "raw_name": "Thịt bò băm",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dưa chuột 1 trái",
+      "raw_name": "Dưa chuột",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 1/2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Củ cải trắng 1/2 củ",
+      "raw_name": "Củ cải trắng",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sả 6 cây",
+      "raw_name": "Sả",
+      "quantity": 6,
+      "unit": "cây",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi 8 tép",
+      "raw_name": "Tỏi 8 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành tím 3 củ",
+      "raw_name": "Hành tím",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rau ngò 1 ít",
+      "raw_name": "Rau ngò",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bột bắp 4 muỗng cà phê",
+      "raw_name": "Bột bắp",
+      "quantity": 4,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Ngũ vị hương 1/2 muỗng cà phê",
+      "raw_name": "Ngũ vị hương",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Mật ong 2 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Hắc xì dầu 1/2 muỗng cà phê",
+      "raw_name": "Hắc xì dầu",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Nước tương 2 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Dầu ăn 5 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Tương đen 2 muỗng canh",
+      "raw_name": "Tương đen",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 17
+    },
+    {
+      "raw_text": "Giấm 80 ml",
+      "raw_name": "Giấm",
+      "quantity": 80,
+      "unit": "ml",
+      "note": null,
+      "display_order": 18
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ muối/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ muối/ tiêu xay",
+      "display_order": 19
+    }
+  ],
+  "scraped_at": "2026-08-19T18:33:14Z",
+  "page_title": "3 cách làm bánh mì thịt bò thơm ngon, đơn giản ai cũng làm được",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/banh-mi-thit-bo-nuong-thumbnail-1.jpg"
+}

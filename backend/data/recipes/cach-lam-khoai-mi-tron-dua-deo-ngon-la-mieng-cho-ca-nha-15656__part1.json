@@ -1,0 +1,85 @@
+{
+  "source_id": "15656",
+  "name": "Khoai mì trộn dừa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2653f0a8dba90356.jpeg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-khoai-mi-tron-dua-deo-ngon-la-mieng-cho-ca-nha-15656",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-khoai-mi-tron-dua-deo-ngon-la-mieng-cho-ca-nha-15656",
+  "servings_text": "Cho 4 dĩa",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai mì 1 kg",
+      "raw_name": "Khoai mì",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước cốt dừa 200 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dừa nạo 200 gr",
+      "raw_name": "Dừa nạo",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đậu phộng rang 100 gr",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành lá 3 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước lọc 200 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường/ muối 1 ít",
+      "raw_name": "Đường/ muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:07:43Z",
+  "page_title": "Cách làm khoai mì trộn dừa dẻo ngon lạ miệng cho cả nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookRecipe/Avatar/khoai-mi-tron-dua-thumbnail.jpeg"
+}

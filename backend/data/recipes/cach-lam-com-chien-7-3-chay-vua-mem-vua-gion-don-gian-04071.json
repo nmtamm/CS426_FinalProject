@@ -1,0 +1,99 @@
+{
+  "source_id": "04071",
+  "name": "Cơm chiên 7/3 chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2de8f8c3dd7e9f94.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-com-chien-7-3-chay-vua-mem-vua-gion-don-gian-04071",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-com-chien-7-3-chay-vua-mem-vua-gion-don-gian-04071",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cơm nguội 7 chén",
+      "raw_name": "Cơm nguội",
+      "quantity": 7,
+      "unit": "chén",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tàu hũ ky khô 50 g (sườn non chay)",
+      "raw_name": "Tàu hũ ky khô",
+      "quantity": 50,
+      "unit": "g",
+      "note": "sườn non chay",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gừng băm 10 gr",
+      "raw_name": "Gừng băm",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ngò rí băm 5 gr",
+      "raw_name": "Ngò rí băm",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lá cải thảo 3 cái",
+      "raw_name": "Lá cải thảo",
+      "quantity": 3,
+      "unit": "cái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Chao trắng 10 gr",
+      "raw_name": "Chao trắng",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Chao đỏ 10 gr",
+      "raw_name": "Chao đỏ",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hạt nêm 3 muỗng cà phê",
+      "raw_name": "Hạt nêm",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường 1 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 1 lít",
+      "raw_name": "Dầu ăn 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:51:28Z",
+  "page_title": "Cách làm cơm chiên 7/3 có hạt giòn chay đơn giản ai cũng làm được",
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookProduct/1200..-1200x676.jpg"
+}

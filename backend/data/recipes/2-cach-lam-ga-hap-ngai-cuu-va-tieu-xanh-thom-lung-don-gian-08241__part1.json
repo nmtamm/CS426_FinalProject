@@ -1,0 +1,89 @@
+{
+  "source_id": "08241",
+  "name": "Gà hấp ngải cứu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2aca902bb5c0c6bf.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-ga-hap-ngai-cuu-va-tieu-xanh-thom-lung-don-gian-08241",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-ga-hap-ngai-cuu-va-tieu-xanh-thom-lung-don-gian-08241",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà 1 con (1 kg)",
+      "raw_name": "Gà 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": "1 kg",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lá ngải cứu 300 gr",
+      "raw_name": "Lá ngải cứu",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tím 2 củ",
+      "raw_name": "Hành tím",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng 1 nhánh",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt 1 trái",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rượu trắng 4 muỗng canh",
+      "raw_name": "Rượu trắng",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Giấm 1 ít",
+      "raw_name": "Giấm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ tiêu/ bột ngot/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ tiêu/ bột ngot/ hạt nêm",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:10:15Z",
+  "page_title": "2 cách làm gà hấp ngải cứu và tiêu xanh thơm lừng đơn giản tại nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/trung-ga-hap-ngai-cuu-thumbnail.jpg"
+}

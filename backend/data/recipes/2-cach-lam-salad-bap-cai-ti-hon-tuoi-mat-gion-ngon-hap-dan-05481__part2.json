@@ -1,0 +1,149 @@
+{
+  "source_id": "05481",
+  "name": "Salad bắp cải tí hon trái cây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f35028a48ca5337d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-salad-bap-cai-ti-hon-tuoi-mat-gion-ngon-hap-dan-05481",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-salad-bap-cai-ti-hon-tuoi-mat-gion-ngon-hap-dan-05481",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bắp cải tí hon 450 gr",
+      "raw_name": "Bắp cải tí hon",
+      "quantity": 450,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nam việt quất khô 125 gr (cranberries)",
+      "raw_name": "Nam việt quất khô",
+      "quantity": 125,
+      "unit": "gr",
+      "note": "cranberries",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lựu 2 quả",
+      "raw_name": "Lựu",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lê 1 quả",
+      "raw_name": "Lê",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Táo xanh 1 quả",
+      "raw_name": "Táo xanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Táo đỏ 1 quả",
+      "raw_name": "Táo đỏ",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Thịt xông khói áp chảo 225 gr",
+      "raw_name": "Thịt xông khói áp chảo",
+      "quantity": 225,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hạt óc chó 2 muỗng canh",
+      "raw_name": "Hạt óc chó",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Phô mai feta 125 gr",
+      "raw_name": "Phô mai feta",
+      "quantity": 125,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hành lá cắt nhỏ 1 muỗng canh",
+      "raw_name": "Hành lá cắt nhỏ",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu ô liu 8 muỗng canh",
+      "raw_name": "Dầu ô liu",
+      "quantity": 8,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước cốt chanh 4 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Mật ong 2 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Mù tạt 1/2 muỗng cà phê",
+      "raw_name": "Mù tạt",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Hạt chia 1 muỗng canh",
+      "raw_name": "Hạt chia",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T17:56:19Z",
+  "page_title": "2 cách làm salad bắp cải tí hon tươi mát giòn ngon hấp dẫn",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookRecipe/Avatar/salad-bap-cai-ti-hon-trai-cay-thumbnail.jpg"
+}

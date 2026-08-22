@@ -1,0 +1,35 @@
+{
+  "source_id": "23051",
+  "name": "Mận ngâm đường phèn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/21666915590b89c2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-man-ngam-duong-phen-bao-quan-duoc-lau-voi-hop-dung-23051",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-man-ngam-duong-phen-bao-quan-duoc-lau-voi-hop-dung-23051",
+  "servings_text": "Cho 1kg mận hậu",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mận hậu Hà Nội 1 kg",
+      "raw_name": "Mận hậu Hà Nội",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường phèn 1 kg",
+      "raw_name": "Đường phèn",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:51:20Z",
+  "page_title": "Cách làm mận ngâm đường phèn bảo quản được lâu với hộp đựng thực phẩm",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/man-ngam-du%CC%9Bo%CC%9Bng-phennn.jpg"
+}

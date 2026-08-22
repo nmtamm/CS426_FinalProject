@@ -1,0 +1,69 @@
+{
+  "source_id": "08703",
+  "name": "Nấm đùi gà kho sả ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/629bf7596dca159e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nam-dui-ga-kho-chay-voi-gung-va-sa-ot-thom-ngon-08703",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nam-dui-ga-kho-chay-voi-gung-va-sa-ot-thom-ngon-08703",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nấm đùi gà mini 1 gói",
+      "raw_name": "Nấm đùi gà mini",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sa tế chay 2 muỗng cà phê",
+      "raw_name": "Sa tế chay",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sả băm 1 muỗng canh",
+      "raw_name": "Sả băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước tương 1/2 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành lá 1 ít",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:50:09Z",
+  "page_title": "2 cách làm nấm đùi gà kho chay với gừng và sả ớt thơm ngon đậm đà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2022/10/CookRecipe/Avatar/nam-dui-ga-kho-sa-ot-thumbnail-1.jpg"
+}

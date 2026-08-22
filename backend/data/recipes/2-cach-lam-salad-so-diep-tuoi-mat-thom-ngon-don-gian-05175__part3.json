@@ -1,0 +1,125 @@
+{
+  "source_id": "05175",
+  "name": "Salad sò điệp chiên giòn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a3ef53ed797669cc.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-salad-so-diep-tuoi-mat-thom-ngon-don-gian-05175",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-salad-so-diep-tuoi-mat-thom-ngon-don-gian-05175",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cồi sò điệp 150 gr",
+      "raw_name": "Cồi sò điệp",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lê 1 quả",
+      "raw_name": "Lê",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bông cải xanh 150 gr",
+      "raw_name": "Bông cải xanh",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 100 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Thanh cua 5 cái",
+      "raw_name": "Thanh cua",
+      "quantity": 5,
+      "unit": "cái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Húng lủi 3 nhánh",
+      "raw_name": "Húng lủi",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 muỗng cà phê",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Sốt mayonnaise 1 ít",
+      "raw_name": "Sốt mayonnaise",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tương ớt 1 ít",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Mè đen rang 1 ít",
+      "raw_name": "Mè đen rang",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Bột chiên giòn 150 gr (1 gói)",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 150,
+      "unit": "gr",
+      "note": "1 gói",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu ăn 200 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Muối/tiêu 1 ít",
+      "raw_name": "Muối/tiêu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T18:01:06Z",
+  "page_title": "3 cách làm salad sò điệp thơm ngon, hấp dẫn, chuẩn vị nhà hàng",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/salad-so-diep-chien-gion-thumbnail.jpg"
+}

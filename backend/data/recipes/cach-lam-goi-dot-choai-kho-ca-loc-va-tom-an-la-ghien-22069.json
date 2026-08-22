@@ -1,0 +1,139 @@
+{
+  "source_id": "22069",
+  "name": "Gỏi đọt choại khô cá lóc tôm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/044a0354c037555c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-dot-choai-kho-ca-loc-va-tom-an-la-ghien-22069",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-dot-choai-kho-ca-loc-va-tom-an-la-ghien-22069",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đọt choại 500 gr",
+      "raw_name": "Đọt choại",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rau râm 200 gr",
+      "raw_name": "Rau râm",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Xoài sống 1 trái",
+      "raw_name": "Xoài sống",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tôm 500 gr",
+      "raw_name": "Tôm",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Khô cá lóc 2 con",
+      "raw_name": "Khô cá lóc 2 con",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đậu phộng rang 300 gr",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 2 chén",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "chén",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước mắm 1 chén",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Ớt sừng đỏ 10 trái",
+      "raw_name": "Ớt sừng đỏ",
+      "quantity": 10,
+      "unit": "trái",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Bánh phồng tôm 500 gr",
+      "raw_name": "Bánh phồng tôm",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gia vị thông thường 1 ít (muối/đường/bột ngọt)",
+      "raw_name": "Gia vị thông thường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/đường/bột ngọt",
+      "display_order": 12
+    },
+    {
+      "raw_text": "Chanh 3 trái",
+      "raw_name": "Chanh",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Đá viên 500 gr",
+      "raw_name": "Đá viên",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Rau răm 200 gr",
+      "raw_name": "Rau răm",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T17:53:37Z",
+  "page_title": "Cách làm gỏi đọt choại khô cá lóc và tôm ăn là ghiền",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/goi-dot-choai.jpg"
+}

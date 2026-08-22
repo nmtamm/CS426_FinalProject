@@ -1,0 +1,43 @@
+{
+  "source_id": "14101",
+  "name": "Sữa bí đỏ hạt sen",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e3a1201b5ca7b64a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-bi-do-hat-sen-thom-ngon-bo-duong-cho-ca-nha-14101",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-bi-do-hat-sen-thom-ngon-bo-duong-cho-ca-nha-14101",
+  "servings_text": "Cho 2 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bí đỏ 200 gr",
+      "raw_name": "Bí đỏ",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hạt sen 100 gr",
+      "raw_name": "Hạt sen",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đặc 2 muỗng canh",
+      "raw_name": "Sữa đặc",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:54:46Z",
+  "page_title": "Cách làm sữa bí đỏ hạt sen thơm ngon bổ dưỡng cho cả nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-sua-bi-do-hat-sen-thom-ngon-bo-duong-cho-ca-nha-avt-1200x676.jpg"
+}

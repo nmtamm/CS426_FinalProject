@@ -1,0 +1,65 @@
+{
+  "source_id": "01526",
+  "name": "Bánh chuối chiên mè bằng bột chiên chuối",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f88f4f816782bbd8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-banh-chuoi-chien-gion-rum-cuc-de-ai-an-cung-me-01526",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-banh-chuoi-chien-gion-rum-cuc-de-ai-an-cung-me-01526",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chuối xiêm chín mùi 6 trái",
+      "raw_name": "Chuối xiêm chín mùi",
+      "quantity": 6,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột chuối chiên 150 gr (1 bịch)",
+      "raw_name": "Bột chuối chiên",
+      "quantity": 150,
+      "unit": "gr",
+      "note": "1 bịch",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mè 50 gr (mè trắng hay đen đều được)",
+      "raw_name": "Mè",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "mè trắng hay đen đều được",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 500 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:15:09Z",
+  "page_title": "2 Cách làm bánh chuối chiên mè giòn rụm đơn giản, ngọt ngon như ngoài hàng",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/banh-chuoi-chien-me-bang-bot-chien-chuoi-thumbnail-1.jpg"
+}

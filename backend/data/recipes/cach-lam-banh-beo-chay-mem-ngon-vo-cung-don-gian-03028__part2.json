@@ -1,0 +1,138 @@
+{
+  "source_id": "03028",
+  "name": "Bánh bèo chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/51928fd6924afffa.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-beo-chay-mem-ngon-vo-cung-don-gian-03028",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-beo-chay-mem-ngon-vo-cung-don-gian-03028",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột bánh gạo 170 gr",
+      "raw_name": "Bột bánh gạo",
+      "quantity": 170,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột năng 30 gr",
+      "raw_name": "Bột năng",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nấm đùi gà mini 20 gr",
+      "raw_name": "Nấm đùi gà mini",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nấm đông cô khô 3 cái",
+      "raw_name": "Nấm đông cô khô",
+      "quantity": 3,
+      "unit": "cái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cà rốt 1/2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt chuông 1/2 trái",
+      "raw_name": "Ớt chuông",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hạt bắp 10 gr",
+      "raw_name": "Hạt bắp",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành tím 1 củ",
+      "raw_name": "Hành tím",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột bắp 1 muỗng cà phê",
+      "raw_name": "Bột bắp",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bột nêm rau củ 1 muỗng cà phê",
+      "raw_name": "Bột nêm rau củ",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước tương 2 muỗng cà phê",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Đường phèn 1/4 muỗng cà phê",
+      "raw_name": "Đường phèn",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu ăn 6 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 6,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Nước sôi 600 ml",
+      "raw_name": "Nước sôi",
+      "quantity": 600,
+      "unit": "ml",
+      "note": null,
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T18:39:06Z",
+  "page_title": "2 Cách làm bánh bèo chay mềm ngon vô cùng đơn giản",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "công thức chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2022/09/CookRecipe/Avatar/banh-beo-chay-cong-thuc-chia-se-tu-nguoi-dung-thumbnail.jpg"
+}

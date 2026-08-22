@@ -1,0 +1,37 @@
+{
+  "source_id": "12309",
+  "name": "Soda dưa hấu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bbbef7f2a06261a5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-soda-dua-hau-mat-lanh-giai-nhiet-mua-he-cuc-don-12309",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-soda-dua-hau-mat-lanh-giai-nhiet-mua-he-cuc-don-12309",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa hấu 1/2 quả",
+      "raw_name": "Dưa hấu",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Soda 1 cái (lon)",
+      "raw_name": "Soda",
+      "quantity": 1,
+      "unit": "cái",
+      "note": "lon",
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:59:20Z",
+  "page_title": "2 cách làm soda dưa hấu mát lạnh, giải nhiệt mùa hè cực đơn giản",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/soda-dua-hau-thumbnail-2.jpg"
+}

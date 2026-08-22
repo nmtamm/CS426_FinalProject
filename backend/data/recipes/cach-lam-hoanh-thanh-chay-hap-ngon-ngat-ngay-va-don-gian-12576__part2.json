@@ -1,0 +1,113 @@
+{
+  "source_id": "12576",
+  "name": "Hoành thánh hấp chay xốt cay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/707fa3531b04a05b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-hoanh-thanh-chay-hap-ngon-ngat-ngay-va-don-gian-12576",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-hoanh-thanh-chay-hap-ngon-ngat-ngay-va-don-gian-12576",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hoành thánh lá 50 gram",
+      "raw_name": "Hoành thánh lá 50 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm hương 60 gram (4 tai nấm hương)",
+      "raw_name": "Nấm hương 60 gram",
+      "quantity": null,
+      "unit": null,
+      "note": "4 tai nấm hương",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nấm mèo 30 gram (2 tai nấm mèo)",
+      "raw_name": "Nấm mèo 30 gram",
+      "quantity": null,
+      "unit": null,
+      "note": "2 tai nấm mèo",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nấm kim châm 50 gram",
+      "raw_name": "Nấm kim châm 50 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cà rốt 1/2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hẹ 50 gram",
+      "raw_name": "Hẹ 50 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bắp cải 1/4 cái",
+      "raw_name": "Bắp cải",
+      "quantity": 0.25,
+      "unit": "cái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành Boaro băm 1 muỗng canh",
+      "raw_name": "Hành Boaro băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Mè rang xay nhuyễn 1 muỗng canh",
+      "raw_name": "Mè rang xay nhuyễn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bột năng 2 muỗng canh",
+      "raw_name": "Bột năng",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị 1 ít (đường/giấm gạo/nước tương/dầu ớt/ớt bột/sa tế chay)",
+      "raw_name": "Gia vị",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/giấm gạo/nước tương/dầu ớt/ớt bột/sa tế chay",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:41:12Z",
+  "page_title": "2 cách làm hoành thánh chay hấp ngon ngất ngây và đơn giản",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2023/12/CookRecipe/Avatar/hoanh-thanh-hap-chay-xot-cay-thumbnail.jpg"
+}

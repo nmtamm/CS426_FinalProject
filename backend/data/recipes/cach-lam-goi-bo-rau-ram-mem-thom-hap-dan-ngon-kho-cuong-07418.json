@@ -1,0 +1,147 @@
+{
+  "source_id": "07418",
+  "name": "Gỏi bò rau răm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1140933ae2018598.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-bo-rau-ram-mem-thom-hap-dan-ngon-kho-cuong-07418",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-bo-rau-ram-mem-thom-hap-dan-ngon-kho-cuong-07418",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò 1 kg",
+      "raw_name": "Thịt bò",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu phộng rang 100 gr (giã nhuyễn)",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "giã nhuyễn",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Xoài xanh 1 trái",
+      "raw_name": "Xoài xanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Thơm 1 miếng (khoảng 20gr)",
+      "raw_name": "Thơm 1 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 20gr",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tây 2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tím 4 củ",
+      "raw_name": "Hành tím",
+      "quantity": 4,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ngò rí 1 ít",
+      "raw_name": "Ngò rí",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tỏi 3 tép",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Chanh 1/2 trái",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Ớt 2 trái",
+      "raw_name": "Ớt",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Rau răm 100 gr",
+      "raw_name": "Rau răm",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Rau bạc hà 100 gr",
+      "raw_name": "Rau bạc hà",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Giấm 60 ml (khoảng 4 muỗng canh)",
+      "raw_name": "Giấm",
+      "quantity": 60,
+      "unit": "ml",
+      "note": "khoảng 4 muỗng canh",
+      "display_order": 13
+    },
+    {
+      "raw_text": "Dầu ăn 120 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 120,
+      "unit": "ml",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ muối/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ muối/ hạt nêm",
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T17:56:28Z",
+  "page_title": "Cách làm gỏi bò rau răm mềm thơm hấp dẫn ngon khó cưỡng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookProduct/1-1200x676-24.jpg"
+}

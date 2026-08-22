@@ -1,0 +1,155 @@
+{
+  "source_id": "23673",
+  "name": "Nước sốt bánh mì chảo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b790aaaff509e72e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-sot-banh-mi-chao-chuan-vi-ngoai-hang-de-lam-23673",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-sot-banh-mi-chao-chuan-vi-ngoai-hang-de-lam-23673",
+  "servings_text": "Cho 3 suất bánh mì chảo",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tương ớt 30 gr",
+      "raw_name": "Tương ớt",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tương cà 84 gr",
+      "raw_name": "Tương cà",
+      "quantity": 84,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đặc 36 gr",
+      "raw_name": "Sữa đặc",
+      "quantity": 36,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu hào 24 gr",
+      "raw_name": "Dầu hào",
+      "quantity": 24,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sốt nướng 40 gr",
+      "raw_name": "Sốt nướng",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sốt mayonnaise 40 gr",
+      "raw_name": "Sốt mayonnaise",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Pate 150 gr",
+      "raw_name": "Pate",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Xì dầu loãng 40 ml",
+      "raw_name": "Xì dầu loãng",
+      "quantity": 40,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rượu 20 ml",
+      "raw_name": "Rượu",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Ngũ vị hương 1/4 gói",
+      "raw_name": "Ngũ vị hương",
+      "quantity": 0.25,
+      "unit": "gói",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu điều 30 ml",
+      "raw_name": "Dầu điều",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Bơ lạc 5 gr",
+      "raw_name": "Bơ lạc",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Tỏi băm 20 gr",
+      "raw_name": "Tỏi băm",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Hành tím băm 20 gr",
+      "raw_name": "Hành tím băm",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Dầu mè 5 ml",
+      "raw_name": "Dầu mè",
+      "quantity": 5,
+      "unit": "ml",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Dầu ăn 40 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 40,
+      "unit": "ml",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Đường/mì chính/hạt tiêu/muối tinh)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Đường/mì chính/hạt tiêu/muối tinh",
+      "display_order": 17
+    }
+  ],
+  "scraped_at": "2026-08-19T20:25:35Z",
+  "page_title": "Cách làm nước sốt bánh mì chảo chuẩn vị ngoài hàng, dễ làm thành công",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/cach-lam-nuoc-sot-banh-mi-chao1..jpg"
+}

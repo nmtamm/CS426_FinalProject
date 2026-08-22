@@ -1,0 +1,117 @@
+{
+  "source_id": "08343",
+  "name": "Rau câu dừa phô mai",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d830169c7cbbaeda.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-rau-cau-dua-pho-mai-beo-thom-ngon-kho-cuong-tai-nha-08343",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-rau-cau-dua-pho-mai-beo-thom-ngon-kho-cuong-tai-nha-08343",
+  "servings_text": "Cho 8 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rau câu dẻo 9.5 gr (khoảng 3 muỗng cà phê)",
+      "raw_name": "Rau câu dẻo",
+      "quantity": 9.5,
+      "unit": "gr",
+      "note": "khoảng 3 muỗng cà phê",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rau câu giòn 9.5 gr (khoảng 3 muỗng cà phê)",
+      "raw_name": "Rau câu giòn",
+      "quantity": 9.5,
+      "unit": "gr",
+      "note": "khoảng 3 muỗng cà phê",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cơm dừa non 100 gr",
+      "raw_name": "Cơm dừa non",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước dừa tươi 500 ml",
+      "raw_name": "Nước dừa tươi",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cốt dừa 400 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Phô mai 5 miếng",
+      "raw_name": "Phô mai 5 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Lòng đỏ trứng gà 2 cái",
+      "raw_name": "Lòng đỏ trứng gà",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Cà phê đen hòa tan 1 gói",
+      "raw_name": "Cà phê đen hòa tan",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Whipping cream 100 ml",
+      "raw_name": "Whipping cream",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Sữa tươi có đường 400 ml",
+      "raw_name": "Sữa tươi có đường",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Bột vani 4 gr (khoảng 1.5 muỗng cà phê)",
+      "raw_name": "Bột vani",
+      "quantity": 4,
+      "unit": "gr",
+      "note": "khoảng 1.5 muỗng cà phê",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Đường 305 gr",
+      "raw_name": "Đường",
+      "quantity": 305,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T20:18:03Z",
+  "page_title": "2 Cách làm rau câu dừa phô mai béo thơm ngon khó cưỡng tại nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/rau-cau-dua-pho-mai-beo-thumbnail.jpg"
+}

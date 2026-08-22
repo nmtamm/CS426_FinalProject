@@ -1,0 +1,85 @@
+{
+  "source_id": "04162",
+  "name": "Mojito chanh dứa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ca26274f6cf4f0c8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-mojito-tu-chanh-don-gian-giai-khat-ngay-he-04162",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-mojito-tu-chanh-don-gian-giai-khat-ngay-he-04162",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dứa 1/3 trái",
+      "raw_name": "Dứa",
+      "quantity": 0.333,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lá bạc hà 10 lá",
+      "raw_name": "Lá bạc hà",
+      "quantity": 10,
+      "unit": "lá",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rau diếp cá 10 gr",
+      "raw_name": "Rau diếp cá",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chanh 1 trái",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước ép thơm 50 ml",
+      "raw_name": "Nước ép thơm",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rượu rum 100 ml",
+      "raw_name": "Rượu rum",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường nâu 2 muỗng canh",
+      "raw_name": "Đường nâu",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Soda 220 ml (1 lon)",
+      "raw_name": "Soda",
+      "quantity": 220,
+      "unit": "ml",
+      "note": "1 lon",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:06:50Z",
+  "page_title": "4 cách làm mojito chanh đơn giản, mát lạnh giải nhiệt mùa hè",
+  "variant_index": 2,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/mojito-chanh-dua-thumbnail.jpg"
+}

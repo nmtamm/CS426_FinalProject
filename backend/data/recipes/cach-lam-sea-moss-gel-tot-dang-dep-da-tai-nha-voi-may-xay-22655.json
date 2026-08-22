@@ -1,0 +1,39 @@
+{
+  "source_id": "22655",
+  "name": "Sea moss gel",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/df8ac2c8b81e2373.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sea-moss-gel-tot-dang-dep-da-tai-nha-voi-may-xay-22655",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sea-moss-gel-tot-dang-dep-da-tai-nha-voi-may-xay-22655",
+  "servings_text": "Cho 2 hũ",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rong sụn ngâm nở 250 gr (hoặc 28gr rong sụn khô)",
+      "raw_name": "Rong sụn ngâm nở",
+      "quantity": 250,
+      "unit": "gr",
+      "note": "hoặc 28gr rong sụn khô",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước lọc 500 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:52:10Z",
+  "page_title": "Cách làm sea moss gel tốt dáng đẹp da tại nhà với máy xay sinh tố nhanh gọn",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/17022025%20%2893%29.jpg"
+}

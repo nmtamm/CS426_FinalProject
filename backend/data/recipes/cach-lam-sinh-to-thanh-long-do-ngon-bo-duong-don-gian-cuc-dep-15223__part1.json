@@ -1,0 +1,57 @@
+{
+  "source_id": "15223",
+  "name": "Sinh tố thanh long đỏ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e2090918b8538f49.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sinh-to-thanh-long-do-ngon-bo-duong-don-gian-cuc-dep-15223",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sinh-to-thanh-long-do-ngon-bo-duong-don-gian-cuc-dep-15223",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thanh long đỏ 1 trái",
+      "raw_name": "Thanh long đỏ",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Yến mạch 2 muỗng canh",
+      "raw_name": "Yến mạch",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ngũ cốc sấy 2 muỗng canh",
+      "raw_name": "Ngũ cốc sấy",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa chua thanh long đỏ 1 hộp (hoặc dùng sữa chua trắng)",
+      "raw_name": "Sữa chua thanh long đỏ",
+      "quantity": 1,
+      "unit": "hộp",
+      "note": "hoặc dùng sữa chua trắng",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:48:32Z",
+  "page_title": "6 Cách làm sinh tố thanh long đỏ ngon bổ dưỡng đơn giản cực đẹp mắt",
+  "variant_index": 1,
+  "variant_count": 6,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/sinh-to-thanh-long-do-thumbnail.jpg"
+}

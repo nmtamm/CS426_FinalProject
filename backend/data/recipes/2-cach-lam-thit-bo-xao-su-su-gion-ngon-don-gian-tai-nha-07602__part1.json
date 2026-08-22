@@ -1,0 +1,97 @@
+{
+  "source_id": "07602",
+  "name": "Su su xào thịt bò",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/778cd7343544c095.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-thit-bo-xao-su-su-gion-ngon-don-gian-tai-nha-07602",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-thit-bo-xao-su-su-gion-ngon-don-gian-tai-nha-07602",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò 150 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Su su 2 quả",
+      "raw_name": "Su su",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành lá 2 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rau mùi 5 nhánh",
+      "raw_name": "Rau mùi",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tím 1 củ",
+      "raw_name": "Hành tím",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 5 tép",
+      "raw_name": "Tỏi 5 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (hạt nêm/ muối/ tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hạt nêm/ muối/ tiêu",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:25:46Z",
+  "page_title": "3 cách làm thịt bò xào su su giòn ngon, đơn giản tại nhà",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2022/07/CookRecipe/Avatar/su-su-xao-thit-bo-thumbnail.jpg"
+}

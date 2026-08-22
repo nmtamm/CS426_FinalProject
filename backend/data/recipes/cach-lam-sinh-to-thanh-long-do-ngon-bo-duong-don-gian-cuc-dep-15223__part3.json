@@ -1,0 +1,73 @@
+{
+  "source_id": "15223",
+  "name": "Sinh tố thanh long mít",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1e08b4763c68c41e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sinh-to-thanh-long-do-ngon-bo-duong-don-gian-cuc-dep-15223",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sinh-to-thanh-long-do-ngon-bo-duong-don-gian-cuc-dep-15223",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thanh long ruột đỏ 1/2 quả",
+      "raw_name": "Thanh long ruột đỏ",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mít chín 50 gr",
+      "raw_name": "Mít chín",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá bạc hà 1 ít (để trang trí)",
+      "raw_name": "Lá bạc hà",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "để trang trí",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa tươi có đường 70 ml",
+      "raw_name": "Sữa tươi có đường",
+      "quantity": 70,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 1 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:48:32Z",
+  "page_title": "6 Cách làm sinh tố thanh long đỏ ngon bổ dưỡng đơn giản cực đẹp mắt",
+  "variant_index": 3,
+  "variant_count": 6,
+  "original_image_url": "https://cdn.tgdd.vn/2022/01/CookRecipe/Avatar/sinh-to-thanh-long-mit-thumbnail.jpg"
+}

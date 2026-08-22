@@ -1,0 +1,89 @@
+{
+  "source_id": "05062",
+  "name": "Lê nướng sốt mù tạt mật ong",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/edbca784e6080e8d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-mon-an-ngon-cho-ngay-le-ta-on-tu-rau-cu-don-gian-05062",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-mon-an-ngon-cho-ngay-le-ta-on-tu-rau-cu-don-gian-05062",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lê nam phi 3 quả",
+      "raw_name": "Lê nam phi",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt trắng 6 củ (parsnips)",
+      "raw_name": "Cà rốt trắng",
+      "quantity": 6,
+      "unit": "củ",
+      "note": "parsnips",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mù tạt Dijon 1 muỗng canh",
+      "raw_name": "Mù tạt Dijon",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lá thyme cắt nhuyễn 2 muỗng cà phê (lá xạ hương)",
+      "raw_name": "Lá thyme cắt nhuyễn",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": "lá xạ hương",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Giấm táo 2 muỗng canh",
+      "raw_name": "Giấm táo",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Mật ong 2 muỗng cà phê",
+      "raw_name": "Mật ong",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu oliu 1 muỗng canh",
+      "raw_name": "Dầu oliu",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị 1 ít (muối/tiêu)",
+      "raw_name": "Gia vị",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/tiêu",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:40:15Z",
+  "page_title": "4 cách làm rau củ nướng cho ngày lễ Tạ Ơn đơn giản hấp dẫn",
+  "variant_index": 4,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookRecipe/Avatar/le-nuong-sot-mu-tat-mat-ong-thumbnail.jpg"
+}

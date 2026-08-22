@@ -1,0 +1,103 @@
+{
+  "source_id": "07537",
+  "name": "Đậu hũ non sốt bò bằm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9bc9e8d7317fb892.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/dau-hu-non-sot-bo-bam-dau-hu-non-sot-thit-bo-bam-cach-lam-dau-07537",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/dau-hu-non-sot-bo-bam-dau-hu-non-sot-thit-bo-bam-cach-lam-dau-07537",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu hũ non 300 gr",
+      "raw_name": "Đậu hũ non",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt bò bằm 150 gr",
+      "raw_name": "Thịt bò bằm",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 100 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng cà phê",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành lá 1 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu hào 2 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột ớt 1/2 muỗng cà phê",
+      "raw_name": "Bột ớt",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước bột năng 2 muỗng canh",
+      "raw_name": "Nước bột năng",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tiêu xay/ đường 1 ít",
+      "raw_name": "Tiêu xay/ đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:27:17Z",
+  "page_title": "Cách làm đậu hũ non sốt bò bằm thơm ngon đậm đà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookProduct/dauhunonsotbobam-1200x676.jpg"
+}

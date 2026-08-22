@@ -1,0 +1,51 @@
+{
+  "source_id": "01743",
+  "name": "Cốm dẹp trộn dừa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b92e43e41415c348.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-com-dep-tron-dua-deo-thom-01743",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-com-dep-tron-dua-deo-thom-01743",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cốm dẹp 250 gr",
+      "raw_name": "Cốm dẹp",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lá dứa 200 gr",
+      "raw_name": "Lá dứa",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước cốt dừa 1/2 hộp",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 0.5,
+      "unit": "hộp",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dừa khô 1/2 quả",
+      "raw_name": "Dừa khô",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:02:44Z",
+  "page_title": "Cách làm món cốm dẹp trộn dừa dẻo thơm",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/03/04/1240016/cach-lam-mon-com-dep-tron-dua-deo-thom-8-760x367.jpg"
+}

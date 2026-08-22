@@ -1,0 +1,139 @@
+{
+  "source_id": "24296",
+  "name": "Gỏi rau tiến vua tôm thịt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0c74e761cbd7af65.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-rau-tien-vua-tom-thit-gion-ngon-san-sat-de-giai-24296",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-rau-tien-vua-tom-thit-gion-ngon-san-sat-de-giai-24296",
+  "servings_text": "Cho 6 - 8 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rau tiến vua khô 100 gr",
+      "raw_name": "Rau tiến vua khô",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tôm tươi 500 gr",
+      "raw_name": "Tôm tươi",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Thịt ba rọi 400 gr",
+      "raw_name": "Thịt ba rọi",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 200 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Giấm 1/2 chén",
+      "raw_name": "Giấm",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước cốt tắc 8 muỗng canh",
+      "raw_name": "Nước cốt tắc",
+      "quantity": 8,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Rau thơm 1 ít (húng lủi/ diếp cá)",
+      "raw_name": "Rau thơm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "húng lủi/ diếp cá",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt sừng không cay 2 trái",
+      "raw_name": "Ớt sừng không cay",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hành tím phi 30 gr",
+      "raw_name": "Hành tím phi",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đâu phộng rang 100 gr",
+      "raw_name": "Đâu phộng rang",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Tỏi ớt băm 1 ít",
+      "raw_name": "Tỏi ớt băm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Rượu trắng 1 ít",
+      "raw_name": "Rượu trắng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Bánh phồng tôm 1 ít (tùy chọn)",
+      "raw_name": "Bánh phồng tôm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "tùy chọn",
+      "display_order": 14
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ nước mắm/ muối)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ nước mắm/ muối",
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T17:50:20Z",
+  "page_title": "Cách làm gỏi rau tiến vua tôm thịt giòn ngon sần sật để giải ngán hiệu quả",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t03%201200676%20-%202026-04-07T151302.367.jpg"
+}

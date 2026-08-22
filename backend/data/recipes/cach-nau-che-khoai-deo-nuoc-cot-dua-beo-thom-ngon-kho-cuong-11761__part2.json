@@ -1,0 +1,121 @@
+{
+  "source_id": "11761",
+  "name": "Chè khoai dẻo bột báng nước cốt dừa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a297a50e1d396c13.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-che-khoai-deo-nuoc-cot-dua-beo-thom-ngon-kho-cuong-11761",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-che-khoai-deo-nuoc-cot-dua-beo-thom-ngon-kho-cuong-11761",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-che",
+      "name": "Món chè"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai lang tím 1 kg",
+      "raw_name": "Khoai lang tím",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gừng cắt lát 1 củ",
+      "raw_name": "Gừng cắt lát",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột năng 330 gr",
+      "raw_name": "Bột năng",
+      "quantity": 330,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột gạo 70 gr",
+      "raw_name": "Bột gạo",
+      "quantity": 70,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột cốt dừa 50 gr",
+      "raw_name": "Bột cốt dừa",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột khoai 50 gr",
+      "raw_name": "Bột khoai",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột báng 50 gr",
+      "raw_name": "Bột báng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột sắn dai nhiều màu 100 gr",
+      "raw_name": "Bột sắn dai nhiều màu",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ống vani 1 ống",
+      "raw_name": "Ống vani 1 ống",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đường phèn 300 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Muối 2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T19:15:35Z",
+  "page_title": "2 cách nấu chè khoai dẻo nước cốt dừa béo thơm ngon khó cưỡng",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/che-khoai-deo-bot-bang-nuoc-cot-dua-thumbnail.jpg"
+}

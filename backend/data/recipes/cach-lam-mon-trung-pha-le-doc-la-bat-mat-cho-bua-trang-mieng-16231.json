@@ -1,0 +1,67 @@
+{
+  "source_id": "16231",
+  "name": "Trứng pha lê",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d0be20140299dcfd.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-trung-pha-le-doc-la-bat-mat-cho-bua-trang-mieng-16231",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-trung-pha-le-doc-la-bat-mat-cho-bua-trang-mieng-16231",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trứng gà 10 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 10,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tôm tươi 100 gr",
+      "raw_name": "Tôm tươi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bông cải trắng 100 gr",
+      "raw_name": "Bông cải trắng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá 1 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột rau câu 1 gói",
+      "raw_name": "Bột rau câu",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ hạt nêm",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:19:50Z",
+  "page_title": "Cách làm món trứng pha lê độc lạ bắt mắt cho bữa tráng miệng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookDish/cach-lam-mon-trung-pha-le-doc-la-bat-mat-cho-bua-trang-mieng-avt-1200x676.jpg"
+}

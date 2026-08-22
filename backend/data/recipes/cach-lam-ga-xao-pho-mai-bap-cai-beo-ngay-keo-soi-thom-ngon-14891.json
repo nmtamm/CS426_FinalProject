@@ -1,0 +1,143 @@
+{
+  "source_id": "14891",
+  "name": "Gà xào phô mai",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3a9c974551eb3b7e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-xao-pho-mai-bap-cai-beo-ngay-keo-soi-thom-ngon-14891",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-xao-pho-mai-bap-cai-beo-ngay-keo-soi-thom-ngon-14891",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ức gà 300 gr",
+      "raw_name": "Ức gà",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Phô mai 100 gr (cheese dạng sợi hoặc lát)",
+      "raw_name": "Phô mai",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "cheese dạng sợi hoặc lát",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bắp cải 300 gr",
+      "raw_name": "Bắp cải",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tây 1/2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành lá 2 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi 2 tép",
+      "raw_name": "Tỏi 2 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Mè trắng 2 muỗng canh",
+      "raw_name": "Mè trắng",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột ớt Hàn Quốc 2 muỗng canh",
+      "raw_name": "Bột ớt Hàn Quốc",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước tương 2 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu hào 2 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu mè 2 muỗng canh",
+      "raw_name": "Dầu mè",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Muối/hạt nêm 1 ít",
+      "raw_name": "Muối/hạt nêm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T18:14:12Z",
+  "page_title": "Cách làm gà xào phô mai bắp cải béo ngậy kéo sợi, thơm ngon gây nghiện",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookDish/cach-lam-ga-xao-pho-mai-bap-cai-beo-ngay-keo-soi-thom-ngon-avt-1200x676.jpg"
+}

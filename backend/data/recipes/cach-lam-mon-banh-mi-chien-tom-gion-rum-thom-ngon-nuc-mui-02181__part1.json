@@ -1,0 +1,105 @@
+{
+  "source_id": "02181",
+  "name": "Bánh mì chiên tôm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ee3dfc7e0c5b203a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-banh-mi-chien-tom-gion-rum-thom-ngon-nuc-mui-02181",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-banh-mi-chien-tom-gion-rum-thom-ngon-nuc-mui-02181",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh mì 150 gr (khoảng 4 ổ)",
+      "raw_name": "Bánh mì",
+      "quantity": 150,
+      "unit": "gr",
+      "note": "khoảng 4 ổ",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tôm sú tươi 300 gr",
+      "raw_name": "Tôm sú tươi",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột năng 50 gr",
+      "raw_name": "Bột năng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột mì 100 gr",
+      "raw_name": "Bột mì",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột gạo 50 gr",
+      "raw_name": "Bột gạo",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tôm khô 40 gr",
+      "raw_name": "Tôm khô",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt băm 5 gr",
+      "raw_name": "Ớt băm",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tỏi băm 10 gr",
+      "raw_name": "Tỏi băm",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T19:13:10Z",
+  "page_title": "Cách làm món bánh mì chiên tôm giòn rụm, thơm ngon nức mũi",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/banh-mi-chien-tom-thumbnail.jpg"
+}

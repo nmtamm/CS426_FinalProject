@@ -1,0 +1,77 @@
+{
+  "source_id": "02570",
+  "name": "Tàu hủ Thái trân châu đường đen",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5af2cf344dc35253.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tau-hu-thai-tran-chau-duong-den-02570",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tau-hu-thai-tran-chau-duong-den-02570",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đường 50 gr",
+      "raw_name": "Đường",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa đậu nành 600 ml",
+      "raw_name": "Sữa đậu nành",
+      "quantity": 600,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột béo 100 gr",
+      "raw_name": "Bột béo",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gelatin 20 gr",
+      "raw_name": "Gelatin",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột hoa anh đào 1 muỗng cà phê (hoặc bột dâu)",
+      "raw_name": "Bột hoa anh đào",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "hoặc bột dâu",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Trân châu 150 gr",
+      "raw_name": "Trân châu",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường đen 70 gr",
+      "raw_name": "Đường đen",
+      "quantity": 70,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:17:11Z",
+  "page_title": "2 Cách làm tàu hủ trân châu đường đen thơm ngon, tươi mát cho ngày hè",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://img.youtube.com/vi/pcWefQl8U68/maxresdefault.jpg"
+}

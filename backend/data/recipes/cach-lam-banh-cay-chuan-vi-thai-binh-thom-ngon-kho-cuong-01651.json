@@ -1,0 +1,103 @@
+{
+  "source_id": "01651",
+  "name": "Bánh cáy",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a85d095a3b36c737.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-cay-chuan-vi-thai-binh-thom-ngon-kho-cuong-01651",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-cay-chuan-vi-thai-binh-thom-ngon-kho-cuong-01651",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mỡ lợn 300 g (mỡ lợn đã ướp với 300g đường và 50g muối trước nửa tháng)",
+      "raw_name": "Mỡ lợn",
+      "quantity": 300,
+      "unit": "g",
+      "note": "mỡ lợn đã ướp với 300g đường và 50g muối trước nửa tháng",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng cáy 0.3 g (gạch cáy)",
+      "raw_name": "Trứng cáy",
+      "quantity": 0.3,
+      "unit": "g",
+      "note": "gạch cáy",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gấc 1 quả",
+      "raw_name": "Gấc",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gạo nếp 1 kg",
+      "raw_name": "Gạo nếp",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Vừng 100 g",
+      "raw_name": "Vừng",
+      "quantity": 100,
+      "unit": "g",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lạc 200 g",
+      "raw_name": "Lạc",
+      "quantity": 200,
+      "unit": "g",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Vỏ quýt 5 gr (2 quả)",
+      "raw_name": "Vỏ quýt",
+      "quantity": 5,
+      "unit": "gr",
+      "note": "2 quả",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dành dành chín 5 quả",
+      "raw_name": "Dành dành chín",
+      "quantity": 5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T19:29:18Z",
+  "page_title": "Cách làm bánh cáy chuẩn vị Thái Bình thơm ngon khó cưỡng",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/02/09/1235257/cach-lam-banh-cay-chuan-vi-thai-binh-thom-ngon-kho-cuong-760x367.jpg"
+}

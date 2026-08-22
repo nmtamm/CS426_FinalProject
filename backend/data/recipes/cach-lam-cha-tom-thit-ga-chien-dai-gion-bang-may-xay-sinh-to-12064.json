@@ -1,0 +1,119 @@
+{
+  "source_id": "12064",
+  "name": "Chả tôm thịt gà chiên",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d2e947e6592551e6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-tom-thit-ga-chien-dai-gion-bang-may-xay-sinh-to-12064",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-tom-thit-ga-chien-dai-gion-bang-may-xay-sinh-to-12064",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt đùi gà 400 gr",
+      "raw_name": "Thịt đùi gà",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tôm 160 gr",
+      "raw_name": "Tôm",
+      "quantity": 160,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tinh bột bắp 25 gr (hoặc bột năng)",
+      "raw_name": "Tinh bột bắp",
+      "quantity": 25,
+      "unit": "gr",
+      "note": "hoặc bột năng",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột nở 7 gr (baking powder)",
+      "raw_name": "Bột nở",
+      "quantity": 7,
+      "unit": "gr",
+      "note": "baking powder",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột nêm gà 1/2 muỗng canh",
+      "raw_name": "Bột nêm gà",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột ớt Hàn Quốc 1/2 muỗng canh (không bắt buộc)",
+      "raw_name": "Bột ớt Hàn Quốc",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": "không bắt buộc",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột sả 1/2 muỗng canh",
+      "raw_name": "Bột sả",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột hành 1/2 muỗng canh",
+      "raw_name": "Bột hành",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột tỏi 1/2 muỗng canh",
+      "raw_name": "Bột tỏi",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tiêu bột 1/2 muỗng canh",
+      "raw_name": "Tiêu bột",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu ăn 350 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 350,
+      "unit": "ml",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ đường/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ đường/ bột ngọt",
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:08:36Z",
+  "page_title": "Cách làm chả tôm thịt gà chiên dai giòn bằng máy xay sinh tố cực dễ",
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookProduct/gavienthum1200-1200x676.jpg"
+}

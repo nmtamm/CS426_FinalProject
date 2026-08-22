@@ -1,0 +1,51 @@
+{
+  "source_id": "23924",
+  "name": "Thịt gà nấu đông với chân giò",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bd988a88b31b175c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-dong-thit-ga-voi-chan-gio-trong-veo-nung-ninh-chuan-23924",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-dong-thit-ga-voi-chan-gio-trong-veo-nung-ninh-chuan-23924",
+  "servings_text": "Cho 9 bát",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà ta 1/2 con (khoảng 1 - 1.2 kg)",
+      "raw_name": "Gà ta 1/2 con",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 1 - 1.2 kg",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chân giò heo trước 1/2 cái (khoảng 500 - 700 gr)",
+      "raw_name": "Chân giò heo trước",
+      "quantity": 0.5,
+      "unit": "cái",
+      "note": "khoảng 500 - 700 gr",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mộc nhĩ khô 50 gr",
+      "raw_name": "Mộc nhĩ khô",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối hạt/ hạt nêm/ nước mắm/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối hạt/ hạt nêm/ nước mắm/ tiêu xay",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T18:04:11Z",
+  "page_title": "Cách nấu đông thịt gà với chân giò trong veo, núng nính chuẩn vị ngày Tết",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20m%C3%B3n%20an%20t01%20%281200%20x%20676%20px%29%20%2813%29.jpg"
+}

@@ -1,0 +1,83 @@
+{
+  "source_id": "08469",
+  "name": "Cocktail Long Island Ice Tea",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/69440b83832f2f4d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-cocktail-long-island-ice-tea-noi-tieng-new-york-sang-08469",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-cocktail-long-island-ice-tea-noi-tieng-new-york-sang-08469",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rượu White Rum 15 ml",
+      "raw_name": "Rượu White Rum",
+      "quantity": 15,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rượu Vodka 15 ml",
+      "raw_name": "Rượu Vodka",
+      "quantity": 15,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rượu Gin 15 ml",
+      "raw_name": "Rượu Gin",
+      "quantity": 15,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rượu Tequila 15 ml",
+      "raw_name": "Rượu Tequila",
+      "quantity": 15,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rượu Cointreau 15 ml",
+      "raw_name": "Rượu Cointreau",
+      "quantity": 15,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Coca 1 ít",
+      "raw_name": "Coca",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước cốt chanh tươi 22.5 ml",
+      "raw_name": "Nước cốt chanh tươi",
+      "quantity": 22.5,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Chanh 1 trái",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:57:07Z",
+  "page_title": "Cách pha Cocktail Long Island Ice Tea nổi tiếng New York sảng khoái cực đã",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/1-1200x676-51.jpg"
+}

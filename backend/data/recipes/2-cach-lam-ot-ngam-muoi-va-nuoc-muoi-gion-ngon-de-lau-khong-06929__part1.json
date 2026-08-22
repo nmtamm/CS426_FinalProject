@@ -1,0 +1,41 @@
+{
+  "source_id": "06929",
+  "name": "Ớt ngâm muối",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3f87b30aa46db5b2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-ot-ngam-muoi-va-nuoc-muoi-gion-ngon-de-lau-khong-06929",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-ot-ngam-muoi-va-nuoc-muoi-gion-ngon-de-lau-khong-06929",
+  "servings_text": "Cho 2 - 3 hũ",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    },
+    {
+      "slug": "mon-kho",
+      "name": "Món kho"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ớt xanh 1 kg",
+      "raw_name": "Ớt xanh",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối 200 gr",
+      "raw_name": "Muối",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T20:31:29Z",
+  "page_title": "2 Cách làm ớt ngâm muối và nước muối giòn ngon để lâu không hư",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookRecipe/Avatar/ot-ngam-muoi-thumbnail-1.jpg"
+}

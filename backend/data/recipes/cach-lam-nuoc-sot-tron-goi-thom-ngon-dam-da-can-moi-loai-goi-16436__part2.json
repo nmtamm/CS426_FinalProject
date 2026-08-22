@@ -1,0 +1,85 @@
+{
+  "source_id": "16436",
+  "name": "Gỏi dưa rau muống tôm thịt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d35794d86e10d691.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-sot-tron-goi-thom-ngon-dam-da-can-moi-loai-goi-16436",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-sot-tron-goi-thom-ngon-dam-da-can-moi-loai-goi-16436",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa rau muống 500 gr",
+      "raw_name": "Dưa rau muống",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt luộc 200 gr",
+      "raw_name": "Thịt luộc",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tôm luộc 200 gr",
+      "raw_name": "Tôm luộc",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rau răm 10 gr",
+      "raw_name": "Rau răm",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước sốt trộn gỏi 90 ml",
+      "raw_name": "Nước sốt trộn gỏi",
+      "quantity": 90,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bánh phồng tôm 50 gr",
+      "raw_name": "Bánh phồng tôm",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đậu phộng rang 10 gr",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành phi 5 gr",
+      "raw_name": "Hành phi",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:01:32Z",
+  "page_title": "2 cách làm nước sốt trộn gỏi và món gỏi dưa rau muống tôm thịt thơm ngon",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2022/01/CookRecipe/Avatar/goi-rau-muong-ngam-chua-tom-thit-thumbnail-1.jpg"
+}

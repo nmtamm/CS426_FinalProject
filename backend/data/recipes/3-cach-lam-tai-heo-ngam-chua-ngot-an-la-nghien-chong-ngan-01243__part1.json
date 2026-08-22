@@ -1,0 +1,61 @@
+{
+  "source_id": "01243",
+  "name": "Lỗ tai heo ngâm giấm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9e35ec6d729742c7.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-tai-heo-ngam-chua-ngot-an-la-nghien-chong-ngan-01243",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-tai-heo-ngam-chua-ngot-an-la-nghien-chong-ngan-01243",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lỗ tai heo 1 cái",
+      "raw_name": "Lỗ tai heo",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Giấm 1 chén",
+      "raw_name": "Giấm",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước 1/2 chén",
+      "raw_name": "Nước",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 3 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:35:34Z",
+  "page_title": "3 cách làm tai heo ngâm chua ngọt ăn là nghiện, chống ngán ngày Tết",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/lo-tai-heo-ngam-giam-thumbnail.jpg"
+}

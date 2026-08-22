@@ -1,0 +1,69 @@
+{
+  "source_id": "14277",
+  "name": "Siro hoa đậu biếc tươi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/424094add10f9323.jpeg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-siro-hoa-dau-biec-tu-nhien-don-gian-tai-nha-14277",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-siro-hoa-dau-biec-tu-nhien-don-gian-tai-nha-14277",
+  "servings_text": "Cho 6 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hoa đậu biếc tươi 1 kg",
+      "raw_name": "Hoa đậu biếc tươi",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường phèn 1 kg",
+      "raw_name": "Đường phèn",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá dứa 4 nhánh",
+      "raw_name": "Lá dứa",
+      "quantity": 4,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Vani 2 ống",
+      "raw_name": "Vani 2 ống",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước lọc 1.5 lít",
+      "raw_name": "Nước lọc 1.5 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:04:48Z",
+  "page_title": "2 cách làm siro hoa đậu biếc tự nhiên đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/siro-hoa-dau-biec-tuoi-thumbnail.jpeg"
+}

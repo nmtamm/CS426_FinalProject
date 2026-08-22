@@ -1,0 +1,111 @@
+{
+  "source_id": "12221",
+  "name": "Bún bò xương heo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3de17296c5dd5d96.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-bun-bo-xuong-heo-cho-bua-sang-tai-nha-cuc-don-gian-12221",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-bun-bo-xuong-heo-cho-bua-sang-tai-nha-cuc-don-gian-12221",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-nuoc",
+      "name": "Món nước"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Xương heo 1 kg",
+      "raw_name": "Xương heo",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt bò 400 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sả 6 nhánh",
+      "raw_name": "Sả",
+      "quantity": 6,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá/ ngò rí 4 nhánh",
+      "raw_name": "Hành lá/ ngò rí",
+      "quantity": 4,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tím 3 củ",
+      "raw_name": "Hành tím",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rau ăn kèm 300 gr (bắp chuối/ xà lách/ rau thơm/…)",
+      "raw_name": "Rau ăn kèm",
+      "quantity": 300,
+      "unit": "gr",
+      "note": "bắp chuối/ xà lách/ rau thơm/…",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Rượu trắng 50 ml (khử mùi thịt)",
+      "raw_name": "Rượu trắng",
+      "quantity": 50,
+      "unit": "ml",
+      "note": "khử mùi thịt",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bột gia vị nấu bún bò 1 gói (25gr)",
+      "raw_name": "Bột gia vị nấu bún bò",
+      "quantity": 1,
+      "unit": "gói",
+      "note": "25gr",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ bột ngọt/ hạt nêm/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ bột ngọt/ hạt nêm/ tiêu xay",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:25:55Z",
+  "page_title": "Cách nấu bún bò xương heo cho bữa sáng tại nhà cực đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/Untitled-2-1200x676.jpg"
+}

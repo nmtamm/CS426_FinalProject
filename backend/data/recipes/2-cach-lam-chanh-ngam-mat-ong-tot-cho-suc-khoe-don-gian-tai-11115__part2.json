@@ -1,0 +1,45 @@
+{
+  "source_id": "11115",
+  "name": "Chanh ngâm mật ong gừng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b96af91c635f11d1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-chanh-ngam-mat-ong-tot-cho-suc-khoe-don-gian-tai-11115",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-chanh-ngam-mat-ong-tot-cho-suc-khoe-don-gian-tai-11115",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chanh 2 quả",
+      "raw_name": "Chanh",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mật ong 250 ml",
+      "raw_name": "Mật ong",
+      "quantity": 250,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T20:02:48Z",
+  "page_title": "2 cách làm chanh ngâm mật ong tốt cho sức khỏe, đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookRecipe/Avatar/chanh-ngam-mat-ong-gung-thumbnail.jpg"
+}

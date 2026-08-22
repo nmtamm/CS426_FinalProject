@@ -1,0 +1,97 @@
+{
+  "source_id": "14722",
+  "name": "Bánh cupcake",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/93cf45f31254b782.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-cupcake-bang-noi-chien-khong-dau-thom-ngon-cuc-14722",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-cupcake-bang-noi-chien-khong-dau-thom-ngon-cuc-14722",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì đa dụng 200 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột bắp 100 gr",
+      "raw_name": "Bột bắp",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột Vani 1 ống",
+      "raw_name": "Bột Vani 1 ống",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trứng gà 6 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 6,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sữa tươi không đường 40 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 40,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Chanh 1/2 trái",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 40 ml (có thể dùng bơ thay thế)",
+      "raw_name": "Dầu ăn",
+      "quantity": 40,
+      "unit": "ml",
+      "note": "có thể dùng bơ thay thế",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường bột 100 gr",
+      "raw_name": "Đường bột",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối 1/3 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.333,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T20:21:25Z",
+  "page_title": "4 Cách làm bánh cupcake bằng nồi chiên không dầu thơm ngon, mềm béo",
+  "variant_index": 1,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookRecipe/Avatar/banh-cupcake-thumbnail.jpg"
+}

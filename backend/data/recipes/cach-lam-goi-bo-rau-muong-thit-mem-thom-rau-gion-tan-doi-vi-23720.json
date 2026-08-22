@@ -1,0 +1,115 @@
+{
+  "source_id": "23720",
+  "name": "Gỏi bò rau muống",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9717ce2ec56a848e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-bo-rau-muong-thit-mem-thom-rau-gion-tan-doi-vi-23720",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-bo-rau-muong-thit-mem-thom-rau-gion-tan-doi-vi-23720",
+  "servings_text": "Cho 3-4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò mềm 400 gr",
+      "raw_name": "Thịt bò mềm",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rau muống cọng 300 gr",
+      "raw_name": "Rau muống cọng",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 200 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tây 150 gr",
+      "raw_name": "Hành tây",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt sừng 2 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 4 tép",
+      "raw_name": "Tỏi 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Chanh 3 trái",
+      "raw_name": "Chanh",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Rau húng lũi 1 ít",
+      "raw_name": "Rau húng lũi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đậu phộng rang 20 gr",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hành phi 20 gr",
+      "raw_name": "Hành phi",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Bánh phồng tôm 100 gr",
+      "raw_name": "Bánh phồng tôm",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (hạt nêm/ đường/ bột ngọt/ tiêu xay/ dầu hào/ nước giấm gạo/ nước mắm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hạt nêm/ đường/ bột ngọt/ tiêu xay/ dầu hào/ nước giấm gạo/ nước mắm",
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T17:50:49Z",
+  "page_title": "Cách làm gỏi bò rau muống thịt mềm thơm, rau giòn tan đổi vị cho cả nhà",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/goi-bo-rau-muong-thumb.jpg"
+}

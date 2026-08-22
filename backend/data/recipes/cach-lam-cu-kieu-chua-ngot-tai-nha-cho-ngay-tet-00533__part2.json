@@ -1,0 +1,61 @@
+{
+  "source_id": "00533",
+  "name": "Củ kiệu chua ngọt - Bách hóa XANH",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4d2548cf5127d584.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cu-kieu-chua-ngot-tai-nha-cho-ngay-tet-00533",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cu-kieu-chua-ngot-tai-nha-cho-ngay-tet-00533",
+  "servings_text": "Cho 1 hũ",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Kiệu Huế 1 kg",
+      "raw_name": "Kiệu Huế",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 1 kg",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Giấm 325 ml",
+      "raw_name": "Giấm",
+      "quantity": 325,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Phèn chua 1 ít",
+      "raw_name": "Phèn chua",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:35:10Z",
+  "page_title": "3 cách làm củ kiệu chua ngọt ngâm đường tại nhà giòn ngon không bị đen",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://img.youtube.com/vi/nM3_NX-x7BQ/maxresdefault.jpg"
+}

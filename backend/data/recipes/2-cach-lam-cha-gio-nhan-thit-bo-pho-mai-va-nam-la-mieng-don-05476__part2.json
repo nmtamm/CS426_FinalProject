@@ -1,0 +1,129 @@
+{
+  "source_id": "05476",
+  "name": "Chả giò thịt bò nấm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6b732b0eec6cad93.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-cha-gio-nhan-thit-bo-pho-mai-va-nam-la-mieng-don-05476",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-cha-gio-nhan-thit-bo-pho-mai-va-nam-la-mieng-don-05476",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò xay 225 gr",
+      "raw_name": "Thịt bò xay",
+      "quantity": 225,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bánh tráng cuốn chả giò 100 gr",
+      "raw_name": "Bánh tráng cuốn chả giò",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nấm đông cô khô 15 gr",
+      "raw_name": "Nấm đông cô khô",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 1/2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước tương 2 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tây 30 gr",
+      "raw_name": "Hành tây",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tiêu xay 1/2 muỗng cà phê",
+      "raw_name": "Tiêu xay",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bắp cải 150 gr",
+      "raw_name": "Bắp cải",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tỏi băm 2 tép",
+      "raw_name": "Tỏi băm 2 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gừng băm 1 muỗng cà phê",
+      "raw_name": "Gừng băm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu ăn 500 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Bột ngô 1 muỗng canh",
+      "raw_name": "Bột ngô",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T20:34:24Z",
+  "page_title": "2 cách làm chả giò nhân thịt bò phô mai và nấm lạ miệng đơn giản",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookRecipe/Avatar/cha-gio-thit-bo-nam-thumbnail.jpg"
+}

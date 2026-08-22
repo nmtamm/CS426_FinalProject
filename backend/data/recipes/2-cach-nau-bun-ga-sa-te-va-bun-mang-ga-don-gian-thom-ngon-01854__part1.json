@@ -1,0 +1,157 @@
+{
+  "source_id": "01854",
+  "name": "Bún gà sa tế",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/879ee9c82ef7b722.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-bun-ga-sa-te-va-bun-mang-ga-don-gian-thom-ngon-01854",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-bun-ga-sa-te-va-bun-mang-ga-don-gian-thom-ngon-01854",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà ta 1 kg",
+      "raw_name": "Gà ta",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bún tươi 1 kg",
+      "raw_name": "Bún tươi",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Giá sống 200 gr",
+      "raw_name": "Giá sống",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rau ăn kèm 1 ít (xà lách/ rau răm/ rau quế)",
+      "raw_name": "Rau ăn kèm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "xà lách/ rau răm/ rau quế",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bắp cải 1/2 cái",
+      "raw_name": "Bắp cải",
+      "quantity": 0.5,
+      "unit": "cái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Quế 1 nhánh",
+      "raw_name": "Quế",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gừng 1 củ (nhỏ)",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "nhỏ",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Thảo quả 20 gr",
+      "raw_name": "Thảo quả",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đại hồi 10 gr",
+      "raw_name": "Đại hồi",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Sa tế 20 gr",
+      "raw_name": "Sa tế",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Hạt điều 1/2 muỗng canh",
+      "raw_name": "Hạt điều",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Hành tím 1 củ",
+      "raw_name": "Hành tím",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Sả 3 nhánh",
+      "raw_name": "Sả",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Chanh 1 quả",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Ớt 1 quả",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ đường/ hạt nêm/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ đường/ hạt nêm/ tiêu xay",
+      "display_order": 17
+    }
+  ],
+  "scraped_at": "2026-08-19T18:15:52Z",
+  "page_title": "2 cách nấu bún gà sa tế và bún măng gà đơn giản, thơm ngon cho bữa sáng",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2022/06/CookRecipe/Avatar/bun-ga-sa-te-thumbnail.jpg"
+}

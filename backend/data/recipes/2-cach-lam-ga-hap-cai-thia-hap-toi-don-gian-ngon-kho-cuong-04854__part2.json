@@ -1,0 +1,125 @@
+{
+  "source_id": "04854",
+  "name": "Gà hấp tỏi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b6ab6be7e55e0e8c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-ga-hap-cai-thia-hap-toi-don-gian-ngon-kho-cuong-04854",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-ga-hap-cai-thia-hap-toi-don-gian-ngon-kho-cuong-04854",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà 1.5 kg (con to)",
+      "raw_name": "Gà",
+      "quantity": 1.5,
+      "unit": "kg",
+      "note": "con to",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt hiểm 6 trái",
+      "raw_name": "Ớt hiểm",
+      "quantity": 6,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt sừng 1 quả",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đầu hành lá 10 gr",
+      "raw_name": "Đầu hành lá",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 50 gr",
+      "raw_name": "Tỏi",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tím 2 củ",
+      "raw_name": "Hành tím",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối ăn 1/2 muỗng canh",
+      "raw_name": "Muối ăn",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối hạt 3 muỗng canh",
+      "raw_name": "Muối hạt",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột ngọt 1/2 muỗng canh",
+      "raw_name": "Bột ngọt",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hạt nêm 1/2 muỗng canh",
+      "raw_name": "Hạt nêm",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đường cát 1 muỗng canh",
+      "raw_name": "Đường cát",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Sa tế tôm 1.5 muỗng canh",
+      "raw_name": "Sa tế tôm",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T18:12:59Z",
+  "page_title": "2 Cách làm gà hấp cải thìa, hấp tỏi đơn giản, ngon khó cưỡng",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookRecipe/Avatar/ga-hap-toi-thumbnail-1.jpg"
+}

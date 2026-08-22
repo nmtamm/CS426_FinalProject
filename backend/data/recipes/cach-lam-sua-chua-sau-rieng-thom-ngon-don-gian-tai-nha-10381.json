@@ -1,0 +1,51 @@
+{
+  "source_id": "10381",
+  "name": "Sữa chua sầu riêng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b8316d696f9385d6.gif",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-chua-sau-rieng-thom-ngon-don-gian-tai-nha-10381",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-chua-sau-rieng-thom-ngon-don-gian-tai-nha-10381",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sữa tươi không đường 1 hộp (220ml)",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 1,
+      "unit": "hộp",
+      "note": "220ml",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa đặc 190 gr (1/2 hộp sữa đặc loại 380gr)",
+      "raw_name": "Sữa đặc",
+      "quantity": 190,
+      "unit": "gr",
+      "note": "1/2 hộp sữa đặc loại 380gr",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa chua không đường 2 hộp",
+      "raw_name": "Sữa chua không đường",
+      "quantity": 2,
+      "unit": "hộp",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Múi sầu riêng 2 cái",
+      "raw_name": "Múi sầu riêng",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:20:48Z",
+  "page_title": "Cách làm sữa chua sầu riêng thơm ngon đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookProduct/MOI-LA-VOI-MON-SUA-CHUA-SAU-RIENG-LAM-TAI-NHA-U-BANG-CACH-PHOI-NANG--DURIAN-YOGURT---CKK-0-5-screenshot-1200x676.gif"
+}

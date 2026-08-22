@@ -1,0 +1,65 @@
+{
+  "source_id": "08579",
+  "name": "Chè mủ trôm đậu xanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/803b380eaff7a6ac.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/4-cach-nau-che-mu-trom-voi-bach-qua-dau-xanh-hat-sen-va-hat-e-08579",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/4-cach-nau-che-mu-trom-voi-bach-qua-dau-xanh-hat-sen-va-hat-e-08579",
+  "servings_text": "Cho 2 người ăn",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-che",
+      "name": "Món chè"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mủ trôm 10 gr",
+      "raw_name": "Mủ trôm",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu xanh 200 gr",
+      "raw_name": "Đậu xanh",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Phổ tai 50 gr",
+      "raw_name": "Phổ tai",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lá dứa 7 lá",
+      "raw_name": "Lá dứa",
+      "quantity": 7,
+      "unit": "lá",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối/ đường 1 ít",
+      "raw_name": "Muối/ đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:18:30Z",
+  "page_title": "4 cách nấu chè mủ trôm với bạch quả, đậu xanh, hạt sen và hạt é giải nhiệt",
+  "variant_index": 2,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/che-mu-trom-dau-xanh-thumbnail.jpg"
+}

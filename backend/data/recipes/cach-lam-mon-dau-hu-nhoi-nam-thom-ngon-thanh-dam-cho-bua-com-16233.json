@@ -1,0 +1,115 @@
+{
+  "source_id": "16233",
+  "name": "Đậu hũ nhồi nấm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e9356860c37e22b6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-dau-hu-nhoi-nam-thom-ngon-thanh-dam-cho-bua-com-16233",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-dau-hu-nhoi-nam-thom-ngon-thanh-dam-cho-bua-com-16233",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu hũ 4 miếng",
+      "raw_name": "Đậu hũ 4 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm rơm 50 gr",
+      "raw_name": "Nấm rơm",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nấm đùi gà 2 cây",
+      "raw_name": "Nấm đùi gà",
+      "quantity": 2,
+      "unit": "cây",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá 3 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tím băm 1 muỗng canh",
+      "raw_name": "Hành tím băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước tương 1 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu hào 1/2 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tiêu xay 1 muỗng cà phê",
+      "raw_name": "Tiêu xay",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Đường/ bột ngọt/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Đường/ bột ngọt/ hạt nêm",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước lọc 2 muỗng canh",
+      "raw_name": "Nước lọc",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:36:41Z",
+  "page_title": "Cách làm món đậu hũ nhồi nấm thơm ngon thanh đạm cho bữa cơm gia đình",
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookDish/cach-lam-mon-dau-hu-nhoi-nam-thom-ngon-thanh-dam-cho-bua-com-avt-1200x676.jpg"
+}

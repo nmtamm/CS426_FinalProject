@@ -1,0 +1,110 @@
+{
+  "source_id": "01324",
+  "name": "Tôm sốt Thái",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8a56b76cbadc5138.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cong-thuc-chi-tiet-cach-lam-tom-sot-thai-chua-cay-an-cuc-da-01324",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cong-thuc-chi-tiet-cach-lam-tom-sot-thai-chua-cay-an-cuc-da-01324",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tôm 1 kg",
+      "raw_name": "Tôm",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Me chua 200 gr",
+      "raw_name": "Me chua",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt 5 trái",
+      "raw_name": "Ớt",
+      "quantity": 5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 3 tép",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tím 5 củ",
+      "raw_name": "Hành tím",
+      "quantity": 5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rau thơm 1 ít (ngò gai/ ngò rí)",
+      "raw_name": "Rau thơm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "ngò gai/ ngò rí",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột ớt 3 muỗng canh",
+      "raw_name": "Bột ớt",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột bắp 1 muỗng canh",
+      "raw_name": "Bột bắp",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước mắm 1/2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 110 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 110,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ hạt nêm/ đường)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ hạt nêm/ đường",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T19:10:38Z",
+  "page_title": "Cách làm tôm sốt Thái chua cay tê tái cực đã miệng, càng ăn càng mê",
+  "variant_index": 2,
+  "variant_count": 3,
+  "note": "công thức được chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookRecipe/Avatar/tom-sot-thai-chua-cay-thumbnail.jpg"
+}

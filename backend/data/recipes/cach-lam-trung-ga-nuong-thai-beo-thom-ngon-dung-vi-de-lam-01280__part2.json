@@ -1,0 +1,57 @@
+{
+  "source_id": "01280",
+  "name": "Trứng gà nướng bằng bếp than",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/878318c32497d06e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-trung-ga-nuong-thai-beo-thom-ngon-dung-vi-de-lam-01280",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-trung-ga-nuong-thai-beo-thom-ngon-dung-vi-de-lam-01280",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trứng gà 10 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 10,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột rau câu 2 muỗng cà phê (loại nào cũng được)",
+      "raw_name": "Bột rau câu",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": "loại nào cũng được",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng cà phê",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Đường/ hạt nêm/ bột ngọt/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Đường/ hạt nêm/ bột ngọt/ tiêu xay",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:08:57Z",
+  "page_title": "4 cách làm trứng gà nướng lòng đào, nướng Thái Lan không bị tràn cực ngon",
+  "variant_index": 2,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/trung-ga-nuong-cong-thuc-duoc-chia-se-tu-nguoi-dung-thumbnail-1.jpg"
+}

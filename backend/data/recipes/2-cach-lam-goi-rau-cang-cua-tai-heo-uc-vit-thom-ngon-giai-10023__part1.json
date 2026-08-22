@@ -1,0 +1,149 @@
+{
+  "source_id": "10023",
+  "name": "Gỏi rau càng cua tai heo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2f01b1452da944dd.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-rau-cang-cua-tai-heo-uc-vit-thom-ngon-giai-10023",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-rau-cang-cua-tai-heo-uc-vit-thom-ngon-giai-10023",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rau càng cua 300 gr",
+      "raw_name": "Rau càng cua",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tai heo 400 gr",
+      "raw_name": "Tai heo",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt chuông 1/2 trái",
+      "raw_name": "Ớt chuông",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 1/2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rau răm 1 ít",
+      "raw_name": "Rau răm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gừng 5 gr (2 lát)",
+      "raw_name": "Gừng",
+      "quantity": 5,
+      "unit": "gr",
+      "note": "2 lát",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt hiểm 3 trái",
+      "raw_name": "Ớt hiểm",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Sả 1 cây",
+      "raw_name": "Sả",
+      "quantity": 1,
+      "unit": "cây",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tỏi 3 tép",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hành tím 2 củ",
+      "raw_name": "Hành tím",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Hành tím phi 4 muỗng canh",
+      "raw_name": "Hành tím phi",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Đậu phộng rang 50 gr",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước cốt chanh 8 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 8,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Giấm 2 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Nước mắm 6 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 6,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ Đường/ Bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ Đường/ Bột ngọt",
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T18:02:06Z",
+  "page_title": "2 cách làm gỏi rau càng cua tai heo, ức vịt thơm ngon giải ngấy cho bữa ăn",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/goi-rau-cang-cua-tai-heo-thumbnail.jpg"
+}

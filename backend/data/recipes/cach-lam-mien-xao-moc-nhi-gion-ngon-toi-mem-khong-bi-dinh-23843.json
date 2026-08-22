@@ -1,0 +1,79 @@
+{
+  "source_id": "23843",
+  "name": "Miến xào mộc nhĩ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1cb1eb571405712c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mien-xao-moc-nhi-gion-ngon-toi-mem-khong-bi-dinh-23843",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mien-xao-moc-nhi-gion-ngon-toi-mem-khong-bi-dinh-23843",
+  "servings_text": "Cho 2 người ăn",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Miến dong 100 gr",
+      "raw_name": "Miến dong",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 1/2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tai mộc nhĩ lớn 2 cái",
+      "raw_name": "Tai mộc nhĩ lớn",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nấm hương 5 cái",
+      "raw_name": "Nấm hương",
+      "quantity": 5,
+      "unit": "cái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rau mùi và hành lá 50 gr",
+      "raw_name": "Rau mùi và hành lá",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành khô 5 củ",
+      "raw_name": "Hành khô",
+      "quantity": 5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (dầu ăn/ nước tương/ bột ngọt/ dầu hào)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "dầu ăn/ nước tương/ bột ngọt/ dầu hào",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:34:46Z",
+  "page_title": "Cách làm miến xào mộc nhĩ giòn ngon, tơi mềm không bị dính cực đơn giản",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20m%C3%B3n%20an%20t1%20%281200%20x%20676%20px%29%20%2816%29.jpg"
+}

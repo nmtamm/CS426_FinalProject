@@ -1,0 +1,59 @@
+{
+  "source_id": "00212",
+  "name": "Cháo bào ngư chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8d587e247c0c1d36.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-chao-nam-bao-ngu-chay-thom-ngon-bo-duong-00212",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-chao-nam-bao-ngu-chay-thom-ngon-bo-duong-00212",
+  "servings_text": "Cho 4 - 5 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nấm bào ngư 100 gr",
+      "raw_name": "Nấm bào ngư",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm cây 100 gr (nấm đùi gà)",
+      "raw_name": "Nấm cây",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "nấm đùi gà",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gạo tẻ 100 gr",
+      "raw_name": "Gạo tẻ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 1/4 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.25,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gia vị 10 g (bột nêm chay/tiêu/...)",
+      "raw_name": "Gia vị",
+      "quantity": 10,
+      "unit": "g",
+      "note": "bột nêm chay/tiêu/...",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T18:37:32Z",
+  "page_title": "Cách nấu cháo nấm bào ngư chay thơm ngon bổ dưỡng",
+  "original_image_url": "https://cdn.tgdd.vn/2020/06/CookProduct/Untitled-1-1200x676-2.jpg"
+}

@@ -1,0 +1,87 @@
+{
+  "source_id": "08642",
+  "name": "Oreo cheesecake cube",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e9e139edd18f3426.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-oreo-cheesecake-cube-tai-nha-cuc-hot-cho-cac-tin-do-08642",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-oreo-cheesecake-cube-tai-nha-cuc-hot-cho-cac-tin-do-08642",
+  "servings_text": "Cho 6 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh oreo 30 cái",
+      "raw_name": "Bánh oreo",
+      "quantity": 30,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bơ lạt 200 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cream cheese 900 gr (phô mai kem)",
+      "raw_name": "Cream cheese",
+      "quantity": 900,
+      "unit": "gr",
+      "note": "phô mai kem",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 200 gr",
+      "raw_name": "Đường",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Trứng gà 3 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lòng đỏ trứng gà 1 cái",
+      "raw_name": "Lòng đỏ trứng gà",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tinh chất vani 1 ít",
+      "raw_name": "Tinh chất vani",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:21:29Z",
+  "page_title": "Cách làm oreo cheesecake cube tại nhà cực hot cho các tín đồ mê oreo",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/1200-1200x676-83.jpg"
+}

@@ -1,0 +1,77 @@
+{
+  "source_id": "10510",
+  "name": "Mì căn chiên sả ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/25cc2556de0cf18f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-mi-can-chien-gion-sa-ot-va-nuoc-mam-chay-thom-ngon-10510",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-mi-can-chien-gion-sa-ot-va-nuoc-mam-chay-thom-ngon-10510",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mì căn 300 gr",
+      "raw_name": "Mì căn",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sả 2 nhánh",
+      "raw_name": "Sả",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt 2 trái",
+      "raw_name": "Ớt",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước tương 2 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tương ớt 2 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 210 ml (khoảng 21 muỗng canh)",
+      "raw_name": "Dầu ăn",
+      "quantity": 210,
+      "unit": "ml",
+      "note": "khoảng 21 muỗng canh",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường/ tiêu 1 ít",
+      "raw_name": "Đường/ tiêu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:49:46Z",
+  "page_title": "3 cách làm mì căn chiên giòn, sả ớt và nước mắm chay thơm ngon đơn giản",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookRecipe/Avatar/mi-can-chien-sa-ot-thumbnail-1.jpg"
+}

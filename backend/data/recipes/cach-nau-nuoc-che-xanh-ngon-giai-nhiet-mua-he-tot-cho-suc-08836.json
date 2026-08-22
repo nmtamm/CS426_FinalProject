@@ -1,0 +1,35 @@
+{
+  "source_id": "08836",
+  "name": "Nước chè xanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bf38a28a8ac7730d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-nuoc-che-xanh-ngon-giai-nhiet-mua-he-tot-cho-suc-08836",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-nuoc-che-xanh-ngon-giai-nhiet-mua-he-tot-cho-suc-08836",
+  "servings_text": "Cho 5 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lá chè tươi 300 gr",
+      "raw_name": "Lá chè tươi",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước 3 lít",
+      "raw_name": "Nước 3 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:55:50Z",
+  "page_title": "Cách nấu nước chè xanh (trà xanh) tươi ngon giảm cân, tốt cho sức khỏe",
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookProduct/swuarthumb-1200x676.jpg"
+}

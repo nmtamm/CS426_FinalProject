@@ -1,0 +1,139 @@
+{
+  "source_id": "00352",
+  "name": "Kim chi cải thảo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a8fc74ee58cb7ef5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kim-chi-han-quoc-ngon-dung-dieu-00352",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kim-chi-han-quoc-ngon-dung-dieu-00352",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bắp cải thảo 2 cái (loại to)",
+      "raw_name": "Bắp cải thảo",
+      "quantity": 2,
+      "unit": "cái",
+      "note": "loại to",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tây 2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá 130 gr",
+      "raw_name": "Hành lá",
+      "quantity": 130,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hẹ 120 gr",
+      "raw_name": "Hẹ",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Táo 2 quả",
+      "raw_name": "Táo",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi 100 gr",
+      "raw_name": "Tỏi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gừng 1 củ (khoảng 20gr)",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "khoảng 20gr",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tôm khô 100 gr",
+      "raw_name": "Tôm khô",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Ớt bột Hàn Quốc 120 gr",
+      "raw_name": "Ớt bột Hàn Quốc",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Ớt bột Việt Nam 30 gr",
+      "raw_name": "Ớt bột Việt Nam",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước mắm 50 ml",
+      "raw_name": "Nước mắm",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Muối hạt 500 gr",
+      "raw_name": "Muối hạt",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Mè rang 1 ít",
+      "raw_name": "Mè rang",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Muối/ bột ngọt 1 ít",
+      "raw_name": "Muối/ bột ngọt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T19:40:28Z",
+  "page_title": "Cách làm kim chi cải thảo chuẩn vị Hàn Quốc cực ngon, giòn và thấm vị",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-kim-chi-han-quoc-ngon-dung-dieu-avt-1200x676.jpg"
+}

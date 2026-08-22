@@ -1,0 +1,71 @@
+{
+  "source_id": "05154",
+  "name": "Bánh pizza bằng khoai tây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9dda8a42875580b3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-pizza-bang-khoai-tay-khong-can-lo-nuong-05154",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-pizza-bang-khoai-tay-khong-can-lo-nuong-05154",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Khoai tây 2 củ",
+      "raw_name": "Khoai tây",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Thịt nguội 5 lát",
+      "raw_name": "Thịt nguội 5 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sốt cà chua 3 muỗng cà phê",
+      "raw_name": "Sốt cà chua",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột Parsley 1 ít (Ngò tây)",
+      "raw_name": "Bột Parsley",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Ngò tây",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Phô mai mozzarella bào 160 gr",
+      "raw_name": "Phô mai mozzarella bào",
+      "quantity": 160,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:12:00Z",
+  "page_title": "Cách làm bánh pizza bằng khoai tây không cần lò nướng",
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookProduct/1260-1200x643-1.jpg"
+}

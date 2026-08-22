@@ -1,0 +1,61 @@
+{
+  "source_id": "14812",
+  "name": "Tôi thích",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/afa6e7896e458914.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/5-cach-pha-che-cocktail-mojito-tai-nha-giup-bo-sung-vitamin-14812",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/5-cach-pha-che-cocktail-mojito-tai-nha-giup-bo-sung-vitamin-14812",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà chanh C2 30 ml",
+      "raw_name": "Trà chanh C2",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Coca 30 ml (hoặc Pepsi)",
+      "raw_name": "Coca",
+      "quantity": 30,
+      "unit": "ml",
+      "note": "hoặc Pepsi",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Siro đường 2 muỗng canh",
+      "raw_name": "Siro đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chanh vàng 2 lát",
+      "raw_name": "Chanh vàng 2 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:03:33Z",
+  "page_title": "5 cách pha chế cocktail mojito tại nhà giúp bổ sung vitamin cho cơ thể",
+  "variant_index": 5,
+  "variant_count": 5,
+  "original_image_url": "https://img.youtube.com/vi/CcEmSNVfGCM/maxresdefault.jpg"
+}

@@ -1,0 +1,41 @@
+{
+  "source_id": "03101",
+  "name": "Mẻ từ cơm nát và mẻ cái",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/623299f434687301.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-me-chua-nhanh-khong-bi-moc-cuc-de-03101",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-me-chua-nhanh-khong-bi-moc-cuc-de-03101",
+  "servings_text": "Cho 6 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    },
+    {
+      "slug": "meo-vao-bep",
+      "name": "Mẹo vào bếp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cơm nguội 1/2 chén",
+      "raw_name": "Cơm nguội",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mẻ cái 1/2 chén (mua ở chợ)",
+      "raw_name": "Mẻ cái",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": "mua ở chợ",
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T20:31:41Z",
+  "page_title": "3 cách làm mẻ chua nhanh, không bị mốc cực dễ ngay tại nhà",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/me-tu-com-nat-va-me-cai-thumbnail.jpg"
+}

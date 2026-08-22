@@ -1,0 +1,99 @@
+{
+  "source_id": "02540",
+  "name": "Nộm sứa dưa chuột",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9b70375022b567fb.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nom-sua-dua-chuot-gion-ngon-don-gian-02540",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nom-sua-dua-chuot-gion-ngon-don-gian-02540",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sứa 500 gr",
+      "raw_name": "Sứa",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chanh 1 quả",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dưa chuột 2 quả",
+      "raw_name": "Dưa chuột",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Khế 1 quả",
+      "raw_name": "Khế",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rau thơm 20 gr",
+      "raw_name": "Rau thơm",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi 3 tép",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt 3 trái",
+      "raw_name": "Ớt",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đường 2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:00:39Z",
+  "page_title": "Cách làm nộm sứa dưa chuột giòn ngon đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/BeFunky-collage-2021-03-24T170328.425-1200x676.jpg"
+}

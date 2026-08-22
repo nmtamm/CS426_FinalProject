@@ -1,0 +1,67 @@
+{
+  "source_id": "24413",
+  "name": "Cách làm măng chua để cả năm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8d1300b890efa3e0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mang-chua-de-ca-nam-van-trang-gion-khong-noi-vang-24413",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mang-chua-de-ca-nam-van-trang-gion-khong-noi-vang-24413",
+  "servings_text": "Cho 2kg măng thành phẩm",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Măng tre tươi 2 kg",
+      "raw_name": "Măng tre tươi",
+      "quantity": 2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tỏi 100 gr",
+      "raw_name": "Tỏi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt 100 gr",
+      "raw_name": "Ớt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước lọc 3 lít",
+      "raw_name": "Nước lọc 3 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước vo gạo 1 ít (hoặc nước bột gạo)",
+      "raw_name": "Nước vo gạo",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hoặc nước bột gạo",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:24:48Z",
+  "page_title": "Cách làm măng chua để cả năm vẫn trắng giòn, không nổi váng cực đơn giản",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/ca%CC%81ch%20la%CC%80m%20ma%CC%86ng%20chua%20%C4%91e%CC%82%CC%89%20ca%CC%89%20na%CC%86m%20tl1.jpg"
+}

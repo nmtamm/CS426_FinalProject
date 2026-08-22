@@ -1,0 +1,125 @@
+{
+  "source_id": "15048",
+  "name": "Cơm trộn cá ngừ sốt mayonnaise",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8dc45314652d1520.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-com-tron-ca-ngu-sot-mayonnaise-va-sot-ca-ngu-don-15048",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-com-tron-ca-ngu-sot-mayonnaise-va-sot-ca-ngu-don-15048",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cơm trắng 2 chén (loại chén ăn cơm)",
+      "raw_name": "Cơm trắng",
+      "quantity": 2,
+      "unit": "chén",
+      "note": "loại chén ăn cơm",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cá ngừ 1 hộp",
+      "raw_name": "Cá ngừ",
+      "quantity": 1,
+      "unit": "hộp",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lá vừng 30 gr",
+      "raw_name": "Lá vừng",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bơ lạt 10 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Sốt mayonnaise 1 ít",
+      "raw_name": "Sốt mayonnaise",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Sốt teriyaki 1 muỗng cà phê",
+      "raw_name": "Sốt teriyaki",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước đường 1 muỗng cà phê",
+      "raw_name": "Nước đường",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước tương 1/2 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu mè 1 muỗng cà phê",
+      "raw_name": "Dầu mè",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ tiêu xay",
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T20:33:24Z",
+  "page_title": "2 cách làm cơm trộn cá ngừ sốt mayonnaise và sốt cá ngừ đơn giản lạ miệng",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/com-tron-ca-ngu-sot-mayonaise-thumbnail.jpg"
+}

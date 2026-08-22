@@ -1,0 +1,71 @@
+{
+  "source_id": "23465",
+  "name": "Bánh cóc mò",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0f85098bc861b11b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-coc-mo-tuoi-tho-va-cach-goi-banh-coc-mo-dep-23465",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-coc-mo-tuoi-tho-va-cach-goi-banh-coc-mo-dep-23465",
+  "servings_text": "Cho 500gr gạo nếp",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gạo nếp 500 gr",
+      "raw_name": "Gạo nếp",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lạc 150 gr (đậu phộng)",
+      "raw_name": "Lạc",
+      "quantity": 150,
+      "unit": "gr",
+      "note": "đậu phộng",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá chuối tươi 2 cái",
+      "raw_name": "Lá chuối tươi",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dây buộc bánh 1 ít (lạt/dây)",
+      "raw_name": "Dây buộc bánh",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "lạt/dây",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (bột canh)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "bột canh",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Thịt băm 150 gr (tuỳ chọn)",
+      "raw_name": "Thịt băm",
+      "quantity": 150,
+      "unit": "gr",
+      "note": "tuỳ chọn",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:55:06Z",
+  "page_title": "Cách làm bánh cóc mò tuổi thơ và cách gói bánh cóc mò đẹp",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/cach-lam-banh-coc-mo-tuoi-tho-va-cach-goi-banh-coc-mo-depp.jpg"
+}

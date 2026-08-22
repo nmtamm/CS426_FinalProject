@@ -1,0 +1,51 @@
+{
+  "source_id": "07802",
+  "name": "Kẹo dẻo socola 2 tầng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a7cafd690993a7b5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-keo-deo-socola-2-tang-deo-mem-thom-ngon-de-lam-07802",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-keo-deo-socola-2-tang-deo-mem-thom-ngon-de-lam-07802",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gelatin 12 gr (khoảng 4 - 5 lá gelatin lớn)",
+      "raw_name": "Gelatin",
+      "quantity": 12,
+      "unit": "gr",
+      "note": "khoảng 4 - 5 lá gelatin lớn",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Socola chip trắng 200 gr",
+      "raw_name": "Socola chip trắng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Socola chip đen 200 gr",
+      "raw_name": "Socola chip đen",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Kem sữa tươi 200 ml (whipping cream)",
+      "raw_name": "Kem sữa tươi",
+      "quantity": 200,
+      "unit": "ml",
+      "note": "whipping cream",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:14:53Z",
+  "page_title": "Cách làm kẹo dẻo socola 2 tầng dẻo mềm thơm ngon dễ làm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookProduct/Cáchlàmkẹodẻosocola2tàngdẻomèmthomngondẽlàm-1200x676.jpg"
+}

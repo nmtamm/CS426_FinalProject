@@ -1,0 +1,57 @@
+{
+  "source_id": "13232",
+  "name": "Sinh tố na",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/04a29765b825b7d2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sinh-to-na-mang-cau-ta-ngot-thom-la-mieng-cuc-hap-13232",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sinh-to-na-mang-cau-ta-ngot-thom-la-mieng-cuc-hap-13232",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Na 2 quả (mãng cầu ta)",
+      "raw_name": "Na",
+      "quantity": 2,
+      "unit": "quả",
+      "note": "mãng cầu ta",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa tươi không đường 350 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 350,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đặc 80 gr",
+      "raw_name": "Sữa đặc",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:50:53Z",
+  "page_title": "3 cách làm sinh tố na (mãng cầu ta) ngọt thơm, lạ miệng cực hấp dẫn",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/sinh-to-na-thumbnail-2.jpg"
+}

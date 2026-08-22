@@ -1,0 +1,77 @@
+{
+  "source_id": "10872",
+  "name": "Trà ổi hồng muối tôm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0f3deeef966d539c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-oi-hong-thanh-mat-ngot-diu-cho-ngay-he-mat-10872",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-oi-hong-thanh-mat-ngot-diu-cho-ngay-he-mat-10872",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Túi trà lài 5 cái",
+      "raw_name": "Túi trà lài",
+      "quantity": 5,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ổi hồng 1 kg",
+      "raw_name": "Ổi hồng",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hoa atiso đỏ khô 10 gr",
+      "raw_name": "Hoa atiso đỏ khô",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường phèn 100 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước đường 1 muỗng canh",
+      "raw_name": "Nước đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối tôm 1 ít",
+      "raw_name": "Muối tôm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:54:04Z",
+  "page_title": "2 cách làm trà ổi hồng thanh mát ngọt dịu cho ngày hè mát lành",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookRecipe/Avatar/tra-oi-hong-muoi-tom-thumbnail-1.jpg"
+}

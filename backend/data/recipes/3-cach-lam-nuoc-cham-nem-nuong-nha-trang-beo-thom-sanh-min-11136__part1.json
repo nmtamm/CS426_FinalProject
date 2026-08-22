@@ -1,0 +1,117 @@
+{
+  "source_id": "11136",
+  "name": "Nước chấm từ nếp và thịt bằm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7cb60b46ac9b6c38.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nuoc-cham-nem-nuong-nha-trang-beo-thom-sanh-min-11136",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nuoc-cham-nem-nuong-nha-trang-beo-thom-sanh-min-11136",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gạo nếp 150 gr",
+      "raw_name": "Gạo nếp",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt xay 50 gr",
+      "raw_name": "Thịt xay",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gan heo 50 gr",
+      "raw_name": "Gan heo",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tôm tươi 50 gr",
+      "raw_name": "Tôm tươi",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tím 1 củ",
+      "raw_name": "Hành tím",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 2 tép",
+      "raw_name": "Tỏi 2 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường phèn 80 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu màu điều 3 muỗng canh",
+      "raw_name": "Dầu màu điều",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bơ đậu phộng 3 muỗng canh",
+      "raw_name": "Bơ đậu phộng",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước mắm 3 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ hạt nêm/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ hạt nêm/ bột ngọt",
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T20:36:34Z",
+  "page_title": "3 cách làm nước chấm nem nướng Nha Trang béo thơm sánh mịn đơn giản tại nhà",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://img.youtube.com/vi/bIsX6gqn48A/maxresdefault.jpg"
+}

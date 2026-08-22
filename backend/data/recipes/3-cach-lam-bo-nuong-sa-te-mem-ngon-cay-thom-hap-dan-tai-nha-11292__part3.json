@@ -1,0 +1,137 @@
+{
+  "source_id": "11292",
+  "name": "Bò nướng sa tế giấy bạc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f5b575ace6369fdc.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-bo-nuong-sa-te-mem-ngon-cay-thom-hap-dan-tai-nha-11292",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-bo-nuong-sa-te-mem-ngon-cay-thom-hap-dan-tai-nha-11292",
+  "servings_text": "Cho 2 người ăn",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò phi lê 600 gr",
+      "raw_name": "Thịt bò phi lê",
+      "quantity": 600,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sa tế 2 muỗng cà phê",
+      "raw_name": "Sa tế",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ngò rí băm 1 muỗng canh",
+      "raw_name": "Ngò rí băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt bột 1 muỗng cà phê",
+      "raw_name": "Ớt bột",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt băm 1 muỗng canh",
+      "raw_name": "Ớt băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tím băm 2 muỗng canh",
+      "raw_name": "Hành tím băm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 muỗng cà phê",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Sả băm 2.5 muỗng canh",
+      "raw_name": "Sả băm",
+      "quantity": 2.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Xì dầu 1 muỗng canh (nước tương)",
+      "raw_name": "Xì dầu",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "nước tương",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước mắm 1/2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Sữa đặc 5 ml",
+      "raw_name": "Sữa đặc",
+      "quantity": 5,
+      "unit": "ml",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu ăn 4 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (bột ngọt/ muối/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "bột ngọt/ muối/ hạt nêm",
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T18:26:04Z",
+  "page_title": "3 cách làm bò nướng sa tế mềm ngon cay thơm hấp dẫn dễ làm tại nhà",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookRecipe/Avatar/bo-nuong-sa-te-giay-bac-thumbnail.jpg"
+}

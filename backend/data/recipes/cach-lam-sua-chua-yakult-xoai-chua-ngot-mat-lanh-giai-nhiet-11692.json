@@ -1,0 +1,59 @@
+{
+  "source_id": "11692",
+  "name": "Sữa chua yakult xoài",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8dc19396b85052b4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-chua-yakult-xoai-chua-ngot-mat-lanh-giai-nhiet-11692",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-chua-yakult-xoai-chua-ngot-mat-lanh-giai-nhiet-11692",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Xoài chín 1 trái",
+      "raw_name": "Xoài chín",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa chua yakult 65 ml (1 hũ)",
+      "raw_name": "Sữa chua yakult",
+      "quantity": 65,
+      "unit": "ml",
+      "note": "1 hũ",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Soda chanh 100 ml",
+      "raw_name": "Soda chanh",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 1 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:20:02Z",
+  "page_title": "Cách làm sữa chua yakult xoài chua ngọt, mát lạnh giải nhiệt cực đã",
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookProduct/BeFunky-collage-(46)-1200x676.jpg"
+}

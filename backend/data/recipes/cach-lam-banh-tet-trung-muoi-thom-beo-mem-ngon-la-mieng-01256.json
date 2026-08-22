@@ -1,0 +1,87 @@
+{
+  "source_id": "01256",
+  "name": "Bánh tét trứng muối",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a82b188c25352560.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-tet-trung-muoi-thom-beo-mem-ngon-la-mieng-01256",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-tet-trung-muoi-thom-beo-mem-ngon-la-mieng-01256",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt heo ba chỉ 500 gr",
+      "raw_name": "Thịt heo ba chỉ",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gạo nếp 2 kg",
+      "raw_name": "Gạo nếp",
+      "quantity": 2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu xanh cà vỏ 800 gr",
+      "raw_name": "Đậu xanh cà vỏ",
+      "quantity": 800,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lòng đỏ trứng muối 20 cái",
+      "raw_name": "Lòng đỏ trứng muối",
+      "quantity": 20,
+      "unit": "cái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rau ngót 20 gr",
+      "raw_name": "Rau ngót",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tím 20 gr",
+      "raw_name": "Hành tím",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Lá chuối gói bánh 20 gr",
+      "raw_name": "Lá chuối gói bánh",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dây lạt buộc bánh 10 gr",
+      "raw_name": "Dây lạt buộc bánh",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:37:34Z",
+  "page_title": "Cách làm bánh tét trứng muối thơm béo mềm ngon lạ miệng đón Tết",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2019/02/01/1147747/video-cach-lam-banh-tet-trung-muoi-la-mieng-don-tet-8-760x367.jpg"
+}

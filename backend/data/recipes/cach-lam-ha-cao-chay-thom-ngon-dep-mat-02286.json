@@ -1,0 +1,107 @@
+{
+  "source_id": "02286",
+  "name": "Há cảo chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b8c76425af8ab0f2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ha-cao-chay-thom-ngon-dep-mat-02286",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ha-cao-chay-thom-ngon-dep-mat-02286",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Vỏ há cảo 30 cái",
+      "raw_name": "Vỏ há cảo",
+      "quantity": 30,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bắp cải 100 gr",
+      "raw_name": "Bắp cải",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "N nấm mỡ 100 gr",
+      "raw_name": "N nấm mỡ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nấm mèo khô 25 gr",
+      "raw_name": "Nấm mèo khô",
+      "quantity": 25,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nấm hương 25 gr (nấm shiitake - có thể thay bằng nấm đông cô khô)",
+      "raw_name": "Nấm hương",
+      "quantity": 25,
+      "unit": "gr",
+      "note": "nấm shiitake - có thể thay bằng nấm đông cô khô",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành lá 1 muỗng canh",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gừng băm 1 muỗng cà phê",
+      "raw_name": "Gừng băm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bột ngô 1 muỗng canh",
+      "raw_name": "Bột ngô",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị 20 gr (nước tương/ tiêu trắng/ dầu mè/ muối/ tiêu/ hạt nêm chay...)",
+      "raw_name": "Gia vị",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "nước tương/ tiêu trắng/ dầu mè/ muối/ tiêu/ hạt nêm chay...",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:45:51Z",
+  "page_title": "Cách làm há cảo chay thơm ngon đẹp mắt, hấp dẫn cho cả nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookProduct/Moms-Special-Vegan-Dumplings-家傳純素水餃Resize-11-1200x676.jpg"
+}

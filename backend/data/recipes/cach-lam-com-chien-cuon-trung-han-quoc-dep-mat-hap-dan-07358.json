@@ -1,0 +1,175 @@
+{
+  "source_id": "07358",
+  "name": "Cơm chiên cuộn trứng Hàn Quốc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ba7e8c147cecd6dd.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-com-chien-cuon-trung-han-quoc-dep-mat-hap-dan-07358",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-com-chien-cuon-trung-han-quoc-dep-mat-hap-dan-07358",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cơm trắng 1 chén",
+      "raw_name": "Cơm trắng",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt heo 300 gr",
+      "raw_name": "Thịt heo",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng gà 5 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 3 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Măng tây 100 gr",
+      "raw_name": "Măng tây",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt chuông xanh 1 trái",
+      "raw_name": "Ớt chuông xanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt chuông đỏ 1 trái",
+      "raw_name": "Ớt chuông đỏ",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt chuông vàng 1 trái",
+      "raw_name": "Ớt chuông vàng",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nấm hương tươi 100 gr",
+      "raw_name": "Nấm hương tươi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hành tây 2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Hành lá 1 ít",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Bơ lạt 1 muỗng canh",
+      "raw_name": "Bơ lạt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Hành tím 8 củ",
+      "raw_name": "Hành tím",
+      "quantity": 8,
+      "unit": "củ",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Tỏi 2 củ",
+      "raw_name": "Tỏi",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Dầu điều 4 muỗng cà phê",
+      "raw_name": "Dầu điều",
+      "quantity": 4,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Dầu ăn 1/2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Tương ớt 1 ít",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 17
+    },
+    {
+      "raw_text": "Tương cà 1 ít",
+      "raw_name": "Tương cà",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 18
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ muối/ tiêu/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ muối/ tiêu/ bột ngọt",
+      "display_order": 19
+    }
+  ],
+  "scraped_at": "2026-08-19T20:34:07Z",
+  "page_title": "Cách làm cơm chiên cuộn trứng Hàn Quốc đẹp mắt, hấp dẫn",
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookProduct/ComchiencuontrungHanQuoc-1200x676.jpg"
+}

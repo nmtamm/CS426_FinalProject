@@ -1,0 +1,49 @@
+{
+  "source_id": "01226",
+  "name": "Mứt dâu tằm ăn kèm bánh mì",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d3d0f75b71e63a7b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mut-dau-tam-deo-ngon-cho-ngay-tet-truyen-thong--01226",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mut-dau-tam-deo-ngon-cho-ngay-tet-truyen-thong--01226",
+  "servings_text": "Cho 300gr mứt thành phẩm",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dâu tằm 600 gr",
+      "raw_name": "Dâu tằm",
+      "quantity": 600,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 200 gr",
+      "raw_name": "Đường",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước cốt chanh 20 ml",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:30:10Z",
+  "page_title": "2 cách làm mứt dâu tằm dẻo ngon cho ngày Tết cực dễ làm tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/mut-dau-tam-an-kem-banh-mi-thumbnail.jpg"
+}

@@ -1,0 +1,79 @@
+{
+  "source_id": "04126",
+  "name": "Đùi gà nhồi thịt phô mai chiên giòn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/edcefc79c983272d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dui-ga-nhoi-thit-pho-mai-chien-gion-mem-ngot-thom-04126",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dui-ga-nhoi-thit-pho-mai-chien-gion-mem-ngot-thom-04126",
+  "servings_text": "Cho 4 cái",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đùi gà 4 cái",
+      "raw_name": "Đùi gà",
+      "quantity": 4,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hạt tiêu 1/2 thìa",
+      "raw_name": "Hạt tiêu",
+      "quantity": 0.5,
+      "unit": "thìa",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt bột Paprika 1 thìa",
+      "raw_name": "Ớt bột Paprika",
+      "quantity": 1,
+      "unit": "thìa",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 1/2 thìa",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "thìa",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Kem chua 1 thìa",
+      "raw_name": "Kem chua",
+      "quantity": 1,
+      "unit": "thìa",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Phô mai 30 gr",
+      "raw_name": "Phô mai",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:19:30Z",
+  "page_title": "Cách làm đùi gà nhồi thịt phô mai chiên giòn, mềm ngọt thơm lừng",
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookProduct/1200dgnt-1200x676.jpg"
+}

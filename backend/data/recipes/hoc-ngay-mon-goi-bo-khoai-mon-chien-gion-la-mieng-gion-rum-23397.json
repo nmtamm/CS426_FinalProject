@@ -1,0 +1,147 @@
+{
+  "source_id": "23397",
+  "name": "Gỏi bò khoai môn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/aea9a061edb2fa4d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/hoc-ngay-mon-goi-bo-khoai-mon-chien-gion-la-mieng-gion-rum-23397",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/hoc-ngay-mon-goi-bo-khoai-mon-chien-gion-la-mieng-gion-rum-23397",
+  "servings_text": "Cho 2 - 3 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò 150 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Khoai môn 80 gr",
+      "raw_name": "Khoai môn",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 30 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dưa leo 1/2 quả",
+      "raw_name": "Dưa leo",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tây 1/2 củ (80gr)",
+      "raw_name": "Hành tây",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": "80gr",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tím 3 củ (80gr)",
+      "raw_name": "Hành tím",
+      "quantity": 3,
+      "unit": "củ",
+      "note": "80gr",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đậu phộng rang 30 gr (giã dập)",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 30,
+      "unit": "gr",
+      "note": "giã dập",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tỏi phi 10 gr",
+      "raw_name": "Tỏi phi",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hành phi 10 gr",
+      "raw_name": "Hành phi",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Rau răm/ ngò rí 1 ít",
+      "raw_name": "Rau răm/ ngò rí",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Tương ớt 15 gr",
+      "raw_name": "Tương ớt",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Bột chiên giòn 1 ít",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước cốt tắc 100 gr",
+      "raw_name": "Nước cốt tắc",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Bánh phồng tôm 1 ít (ăn kèm)",
+      "raw_name": "Bánh phồng tôm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "ăn kèm",
+      "display_order": 14
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (bột ngọt/ đường/ nước mắm/ muối/ dầu ăn)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "bột ngọt/ đường/ nước mắm/ muối/ dầu ăn",
+      "display_order": 15
+    },
+    {
+      "raw_text": "Ớt tươi 1 ít",
+      "raw_name": "Ớt tươi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T17:51:37Z",
+  "page_title": "Học ngay món gỏi bò khoai môn chiên giòn lạ miệng, giòn rụm cực hấp dẫn",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20thumb%20m%C3%B3n%20an%20t10%20%2863%29.jpg"
+}

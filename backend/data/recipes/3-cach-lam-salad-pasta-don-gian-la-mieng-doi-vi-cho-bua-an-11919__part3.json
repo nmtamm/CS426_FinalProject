@@ -1,0 +1,109 @@
+{
+  "source_id": "11919",
+  "name": "Pasta salad dưa leo rau mầm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/73736c57abdcd441.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-salad-pasta-don-gian-la-mieng-doi-vi-cho-bua-an-11919",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-salad-pasta-don-gian-la-mieng-doi-vi-cho-bua-an-11919",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Pasta khô 500 gr",
+      "raw_name": "Pasta khô",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rau mầm 400 gr",
+      "raw_name": "Rau mầm",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dưa leo 4 trái",
+      "raw_name": "Dưa leo",
+      "quantity": 4,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Phô mai mini mozzarela ball 200 gr",
+      "raw_name": "Phô mai mini mozzarela ball",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tây tím 1/2 củ",
+      "raw_name": "Hành tây tím",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rau ngò 2 nhánh",
+      "raw_name": "Rau ngò",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Cà chua bi 100 gr",
+      "raw_name": "Cà chua bi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Giấm trắng 3 muỗng canh",
+      "raw_name": "Giấm trắng",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Oregano 1/3 muỗng cà phê",
+      "raw_name": "Oregano",
+      "quantity": 0.333,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu olive 120 ml",
+      "raw_name": "Dầu olive",
+      "quantity": 120,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Tiêu/ đường/ muối 1 ít",
+      "raw_name": "Tiêu/ đường/ muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T17:57:42Z",
+  "page_title": "3 cách làm salad pasta đơn giản lạ miệng đổi vị cho bữa ăn gia đình",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/pasta-salad-dua-leo-rau-mam-thumbnail-2.jpg"
+}

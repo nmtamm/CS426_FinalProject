@@ -1,0 +1,43 @@
+{
+  "source_id": "06923",
+  "name": "Mứt vỏ chanh dây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2da377bf7d64837b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-vo-chanh-day-chanh-leo-deo-ngot-la-mieng-cho-06923",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-vo-chanh-day-chanh-leo-deo-ngot-la-mieng-cho-06923",
+  "servings_text": "Cho 1 phần",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chanh dây 1 kg",
+      "raw_name": "Chanh dây",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 250 gr",
+      "raw_name": "Đường",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối 1 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:38:12Z",
+  "page_title": "Cách làm mứt vỏ chanh dây (chanh leo) dẻo ngọt, lạ miệng cho ngày Tết",
+  "original_image_url": "https://cdn.tgdd.vn/2022/05/CookDish/cach-lam-mut-vo-chanh-day-chanh-leo-deo-ngot-la-mieng-cho-avt-1200x676.jpg"
+}

@@ -1,0 +1,105 @@
+{
+  "source_id": "04103",
+  "name": "Bánh trung thu nướng nhân hạt sen nhuyễn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9e0c4d94e9bbedfd.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-nuong-nhan-hat-sen-nhuyen-mem-deo-04103",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-nuong-nhan-hat-sen-nhuyen-mem-deo-04103",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì 120 gr",
+      "raw_name": "Bột mì",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước đường nướng bánh 80 gr",
+      "raw_name": "Nước đường nướng bánh",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bơ đậu phộng 10 gr",
+      "raw_name": "Bơ đậu phộng",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nhân hạt sen 300 gr",
+      "raw_name": "Nhân hạt sen",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 10 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lòng đỏ trứng muối 4 cái",
+      "raw_name": "Lòng đỏ trứng muối",
+      "quantity": 4,
+      "unit": "cái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột ngũ vị hương 1 ít",
+      "raw_name": "Bột ngũ vị hương",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Lòng đỏ trứng gà 2 cái (có thể thay thế bằng mật ong)",
+      "raw_name": "Lòng đỏ trứng gà",
+      "quantity": 2,
+      "unit": "cái",
+      "note": "có thể thay thế bằng mật ong",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Sữa tươi 20 ml",
+      "raw_name": "Sữa tươi",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu mè 1 muỗng cà phê",
+      "raw_name": "Dầu mè",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T19:44:18Z",
+  "page_title": "Cách làm bánh trung thu nướng nhân hạt sen nhuyễn mềm dẻo bổ dưỡng",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/banh-trung-thu-nuong-nhan-hat-sen-nhuyen-thumbnail-1.jpg"
+}

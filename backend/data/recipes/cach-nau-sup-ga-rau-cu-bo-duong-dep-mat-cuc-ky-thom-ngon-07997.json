@@ -1,0 +1,119 @@
+{
+  "source_id": "07997",
+  "name": "Súp gà rau củ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ef62cd9290779b2d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-sup-ga-rau-cu-bo-duong-dep-mat-cuc-ky-thom-ngon-07997",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-sup-ga-rau-cu-bo-duong-dep-mat-cuc-ky-thom-ngon-07997",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-canh",
+      "name": "Món canh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt ức gà 200 gr (lườn gà)",
+      "raw_name": "Thịt ức gà",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "lườn gà",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bắp 1/2 trái",
+      "raw_name": "Bắp",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1/4 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.25,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trứng gà 1 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nấm đông cô khô 10 cái",
+      "raw_name": "Nấm đông cô khô",
+      "quantity": 10,
+      "unit": "cái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Trứng cút 7 quả",
+      "raw_name": "Trứng cút",
+      "quantity": 7,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gừng 1 nhánh",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành tím 2 củ",
+      "raw_name": "Hành tím",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hành lá 2 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Ngò gai 3 lá (mùi tàu)",
+      "raw_name": "Ngò gai",
+      "quantity": 3,
+      "unit": "lá",
+      "note": "mùi tàu",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Bột năng 3 muỗng canh",
+      "raw_name": "Bột năng",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (bột canh/ bột ngọt/ muối)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "bột canh/ bột ngọt/ muối",
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:08:27Z",
+  "page_title": "Cách nấu súp gà rau củ bổ dưỡng đẹp mắt cực kỳ thơm ngon",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/Supgaraucu-1200x676.jpg"
+}

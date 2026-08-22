@@ -1,0 +1,77 @@
+{
+  "source_id": "11751",
+  "name": "Trà sữa khoai môn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b26ddad8c82a26ee.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-sua-sot-khoai-mon-va-tra-sua-khoai-mon-dau-do-11751",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-sua-sot-khoai-mon-va-tra-sua-khoai-mon-dau-do-11751",
+  "servings_text": "Cho 6 ly",
+  "topics": [
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai môn tươi 200 gr",
+      "raw_name": "Khoai môn tươi",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trà ô long 90 gr",
+      "raw_name": "Trà ô long",
+      "quantity": 90,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột kem béo 580 gr",
+      "raw_name": "Bột kem béo",
+      "quantity": 580,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa đặc 400 ml",
+      "raw_name": "Sữa đặc",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước sôi 100 ml",
+      "raw_name": "Nước sôi",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đá viên 580 gr",
+      "raw_name": "Đá viên",
+      "quantity": 580,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:10:44Z",
+  "page_title": "3 cách làm trà sữa khoai môn thơm ngon béo ngậy đơn giản tại nhà",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/tra-sua-sot-khoai-mon-thumbnail-1.jpg"
+}

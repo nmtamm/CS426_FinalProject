@@ -1,0 +1,109 @@
+{
+  "source_id": "18114",
+  "name": "Chả nấm chay rau câu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b91af212dad90918.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-nam-chay-18114",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-nam-chay-18114",
+  "servings_text": "Cho 2 người ăn",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nấm tuyết 50 gram",
+      "raw_name": "Nấm tuyết 50 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm đông cô tươi 50 gram",
+      "raw_name": "Nấm đông cô tươi 50 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nấm đùi gà 150 gram",
+      "raw_name": "Nấm đùi gà 150 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rau câu sợi 10 gram",
+      "raw_name": "Rau câu sợi 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước dừa xiêm 320 ml",
+      "raw_name": "Nước dừa xiêm",
+      "quantity": 320,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột rau câu giòn 3 gram",
+      "raw_name": "Bột rau câu giòn 3 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tiêu 1/2 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường 1 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hạt nêm 2 muỗng cà phê",
+      "raw_name": "Hạt nêm",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu mè 1 muỗng canh",
+      "raw_name": "Dầu mè",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:44:52Z",
+  "page_title": "3 cách làm chả nấm chay bằng nồi chiên không dầu, chảo chống dính dai ngon",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2023/06/CookRecipe/Avatar/cha-nam-chay-rau-cau-thumbnail.jpg"
+}

@@ -1,0 +1,73 @@
+{
+  "source_id": "12909",
+  "name": "Bắp cải cuộn chay với đậu hủ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/359838489b34e5d8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bap-cai-cuon-chay-thanh-ngot-va-day-chat-dinh-duong-12909",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bap-cai-cuon-chay-thanh-ngot-va-day-chat-dinh-duong-12909",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bắp cải trắng 500 gram",
+      "raw_name": "Bắp cải trắng 500 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu hủ trắng 100 gram",
+      "raw_name": "Đậu hủ trắng 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 100 gram",
+      "raw_name": "Cà rốt 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mộc nhĩ 50 gram",
+      "raw_name": "Mộc nhĩ 50 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành Boaro 10 gram",
+      "raw_name": "Hành Boaro 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị 1 ít (hạt nêm chay/ dầu hào/ cà phê tiêu/ tương ớt/ tương ớt xí muội/ mè trắng rang)",
+      "raw_name": "Gia vị",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hạt nêm chay/ dầu hào/ cà phê tiêu/ tương ớt/ tương ớt xí muội/ mè trắng rang",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:46:07Z",
+  "page_title": "2 cách làm bắp cải cuộn chay thanh ngọt và đầy chất dinh dưỡng",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2023/08/CookRecipe/Avatar/bap-cai-cuon-chay-voi-dau-hu-thumbnail-1.jpg"
+}

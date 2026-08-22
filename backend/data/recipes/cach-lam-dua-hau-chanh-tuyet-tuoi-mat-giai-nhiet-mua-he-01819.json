@@ -1,0 +1,47 @@
+{
+  "source_id": "01819",
+  "name": "Dưa hấu chanh tuyết",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/83353204a4c28da9.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dua-hau-chanh-tuyet-tuoi-mat-giai-nhiet-mua-he-01819",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dua-hau-chanh-tuyet-tuoi-mat-giai-nhiet-mua-he-01819",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa hấu 1 trái",
+      "raw_name": "Dưa hấu",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 3 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước cốt chanh 6 trái",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 6,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T20:01:58Z",
+  "page_title": "Cách làm dưa hấu chanh tuyết tươi mát, giải nhiệt mùa hè",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/03/16/1242521/-video-cach-lam-dua-hau-chanh-tuyet-tuoi-mat-giai-nhiet-mua-he-4-760x367.jpg"
+}

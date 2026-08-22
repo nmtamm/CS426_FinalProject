@@ -1,0 +1,51 @@
+{
+  "source_id": "08408",
+  "name": "Cocktail Old Fashioned (cocktail kiểu cũ)",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b05176c99da80875.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-che-cocktail-old-fashioned-cocktail-kieu-cu-sac-vi-08408",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-che-cocktail-old-fashioned-cocktail-kieu-cu-sac-vi-08408",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rượu Rye Whisky 45 ml",
+      "raw_name": "Rượu Rye Whisky",
+      "quantity": 45,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rượu đắng Angostura Bitter 1 ít (4 - 5 giọt)",
+      "raw_name": "Rượu đắng Angostura Bitter",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "4 - 5 giọt",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 1 muỗng cà phê (2 viên đường)",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "2 viên đường",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Vỏ cam 1 miếng (để trang trí)",
+      "raw_name": "Vỏ cam 1 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": "để trang trí",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:06:38Z",
+  "page_title": "Cách pha chế Cocktail Old Fashioned (cocktail kiểu cũ) sắc vị hoàn hảo",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/1200-1200x676-61.jpg"
+}

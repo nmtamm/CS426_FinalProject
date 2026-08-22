@@ -1,0 +1,145 @@
+{
+  "source_id": "15451",
+  "name": "Canh chua bông điên điển nấu nấm đậu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c4b7c6d168491108.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-canh-chua-bong-dien-dien-chay-thom-ngon-thanh-mat-15451",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-canh-chua-bong-dien-dien-chay-thom-ngon-thanh-mat-15451",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-canh",
+      "name": "Món canh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bông điên điển 300 gr",
+      "raw_name": "Bông điên điển",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bông súng 200 gr",
+      "raw_name": "Bông súng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rau muống 100 gr",
+      "raw_name": "Rau muống",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rau nhút 100 gr",
+      "raw_name": "Rau nhút",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nấm bào ngư 100 gr",
+      "raw_name": "Nấm bào ngư",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Giá 100 gr",
+      "raw_name": "Giá",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Cà chua 3 trái",
+      "raw_name": "Cà chua",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đậu bắp 50 gr",
+      "raw_name": "Đậu bắp",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đậu hủ chiên 1 miếng",
+      "raw_name": "Đậu hủ chiên 1 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Chả chay 50 gr (chiên sẵn)",
+      "raw_name": "Chả chay",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "chiên sẵn",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Rau om/ ngò gai 1 ít",
+      "raw_name": "Rau om/ ngò gai",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Ớt hiểm 1 trái",
+      "raw_name": "Ớt hiểm",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Me tươi 10 gr",
+      "raw_name": "Me tươi",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Hạt nêm chay 1 muỗng canh",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ bột ngọt",
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T18:44:58Z",
+  "page_title": "3 cách nấu canh chua bông điên điển chay thơm ngon thanh mát cho bữa cơm",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/canh-chua-bong-dien-dien-nau-nam-dau-thumbnail.jpg"
+}

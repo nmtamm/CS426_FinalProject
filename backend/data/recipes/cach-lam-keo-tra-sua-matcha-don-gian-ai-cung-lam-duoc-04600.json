@@ -1,0 +1,43 @@
+{
+  "source_id": "04600",
+  "name": "Kẹo trà sữa matcha",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/80666ce6b29e2f17.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-keo-tra-sua-matcha-don-gian-ai-cung-lam-duoc-04600",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-keo-tra-sua-matcha-don-gian-ai-cung-lam-duoc-04600",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sữa bột 6 muỗng canh",
+      "raw_name": "Sữa bột",
+      "quantity": 6,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa đặc 6 muỗng canh",
+      "raw_name": "Sữa đặc",
+      "quantity": 6,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột matcha 2 muỗng cà phê",
+      "raw_name": "Bột matcha",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:24:19Z",
+  "page_title": "Cách làm kẹo trà sữa matcha đơn giản, ai cũng làm được",
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookProduct/2-1200x676.jpg"
+}

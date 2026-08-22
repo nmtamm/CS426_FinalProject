@@ -1,0 +1,89 @@
+{
+  "source_id": "08062",
+  "name": "Gà xào nấm kim châm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3e93747fdbfc4b17.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-ga-xao-nam-hap-dan-thom-ngon-don-gian-cho-ca-gia-08062",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-ga-xao-nam-hap-dan-thom-ngon-don-gian-cho-ca-gia-08062",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt gà 400 gr",
+      "raw_name": "Thịt gà",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước tương 1 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nấm kim châm 250 gr",
+      "raw_name": "Nấm kim châm",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 2 tép",
+      "raw_name": "Tỏi 2 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành lá 1 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường/ muối 1 ít",
+      "raw_name": "Đường/ muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt 1 quả",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:11:40Z",
+  "page_title": "3 cách làm gà xào nấm hấp dẫn thơm ngon đơn giản cho cả gia đình",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/ga-xao-nam-kim-cham-thumbnail.jpg"
+}

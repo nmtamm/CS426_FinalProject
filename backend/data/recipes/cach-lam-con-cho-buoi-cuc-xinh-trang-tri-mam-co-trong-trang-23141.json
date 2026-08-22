@@ -1,0 +1,59 @@
+{
+  "source_id": "23141",
+  "name": "Chó bưởi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9de9dfb14a22740e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-con-cho-buoi-cuc-xinh-trang-tri-mam-co-trong-trang-23141",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-con-cho-buoi-cuc-xinh-trang-tri-mam-co-trong-trang-23141",
+  "servings_text": "Cho 1 chú chó bưởi",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bưởi 2 quả (hoặc dùng 3 quả)",
+      "raw_name": "Bưởi",
+      "quantity": 2,
+      "unit": "quả",
+      "note": "hoặc dùng 3 quả",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Táo 1 quả",
+      "raw_name": "Táo",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bí xanh 1 quả",
+      "raw_name": "Bí xanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nhãn 2 hạt",
+      "raw_name": "Nhãn 2 hạt",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cà rốt 1 lát",
+      "raw_name": "Cà rốt 1 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:33:52Z",
+  "page_title": "Cách làm con chó bưởi cực xinh trang trí mâm cỗ trông trăng tết Trung thu",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20thumb%20to%20t8%20%2882%29.jpg"
+}

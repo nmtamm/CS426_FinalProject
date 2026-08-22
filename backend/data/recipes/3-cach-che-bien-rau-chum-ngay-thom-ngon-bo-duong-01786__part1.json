@@ -1,0 +1,81 @@
+{
+  "source_id": "01786",
+  "name": "Rau chùm ngây trộn tôm thịt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f6f5f9661fc2003b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-che-bien-rau-chum-ngay-thom-ngon-bo-duong-01786",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-che-bien-rau-chum-ngay-thom-ngon-bo-duong-01786",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    },
+    {
+      "slug": "mon-canh",
+      "name": "Món canh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đùi gà 100 gr",
+      "raw_name": "Đùi gà",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tôm 150 gram",
+      "raw_name": "Tôm 150 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rau chùm ngây 100 gram",
+      "raw_name": "Rau chùm ngây 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dưa leo 1 trái",
+      "raw_name": "Dưa leo",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rau răm 10 gr",
+      "raw_name": "Rau răm",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đậu phộng rang 50 gr",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:03:14Z",
+  "page_title": "3 cách chế biến rau chùm ngây thơm ngon, bổ dưỡng cho sức khỏe",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/rau-chum-ngay-tron-tom-thit-thumbnail.jpg"
+}

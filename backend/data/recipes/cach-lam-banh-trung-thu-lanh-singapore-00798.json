@@ -1,0 +1,103 @@
+{
+  "source_id": "00798",
+  "name": "Bánh trung thu lạnh Singapore",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f354f1bbfeec072e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-lanh-singapore-00798",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-lanh-singapore-00798",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu xanh 200 gr (đậu bóc vỏ)",
+      "raw_name": "Đậu xanh",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "đậu bóc vỏ",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột bánh dẻo 110 gr (bột nếp đã rang chín)",
+      "raw_name": "Bột bánh dẻo",
+      "quantity": 110,
+      "unit": "gr",
+      "note": "bột nếp đã rang chín",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường cát 80 gr",
+      "raw_name": "Đường cát",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường bột 80 gr",
+      "raw_name": "Đường bột",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Mỡ trừu 30 gr",
+      "raw_name": "Mỡ trừu",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sữa tươi không đường 120 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 120,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột bắp 10 gr (có thể thay bằng bột nếp/ bột năng/ bột mì)",
+      "raw_name": "Bột bắp",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "có thể thay bằng bột nếp/ bột năng/ bột mì",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột trà xanh/ bột củ dền/ bột cacao 3 gr (tạo màu vỏ bánh)",
+      "raw_name": "Bột trà xanh/ bột củ dền/ bột cacao",
+      "quantity": 3,
+      "unit": "gr",
+      "note": "tạo màu vỏ bánh",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu ăn 70 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 70,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T19:36:20Z",
+  "page_title": "Cách làm bánh trung thu lạnh Singapore cực ngon dễ làm tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2022/08/CookDish/cach-lam-banh-trung-thu-lanh-singapore-avt-1200x676.jpg"
+}

@@ -1,0 +1,81 @@
+{
+  "source_id": "04149",
+  "name": "Chả giò nấm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2a844a63e85e6676.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-cha-gio-sake-va-cha-gio-nam-gion-rum-thom-ngon-cuc-04149",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-cha-gio-sake-va-cha-gio-nam-gion-rum-thom-ngon-cuc-04149",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nấm bào ngư 100 gr",
+      "raw_name": "Nấm bào ngư",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Khoai tây 50 gr",
+      "raw_name": "Khoai tây",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 50 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lá tàu hũ ki 1 cái",
+      "raw_name": "Lá tàu hũ ki",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ngò rí 20 gr",
+      "raw_name": "Ngò rí",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bịch vỏ bánh pía 1 cái",
+      "raw_name": "Bịch vỏ bánh pía",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị 10 gr (hạt nêm/ớt xây/tiêu/bột me/tương ớt/đường)",
+      "raw_name": "Gia vị",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "hạt nêm/ớt xây/tiêu/bột me/tương ớt/đường",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:36:42Z",
+  "page_title": "2 cách làm chả giò sake và chả giò nấm giòn rụm thơm ngon hấp dẫn",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/cha-gio-nam-thumbnail-1.jpg"
+}

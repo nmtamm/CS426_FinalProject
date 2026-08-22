@@ -1,0 +1,97 @@
+{
+  "source_id": "05061",
+  "name": "Đậu rồng xào nấm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/83e731d8d50a626c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-dau-rong-xao-toi-nam-va-thit-bo-thom-ngon-don-gian-05061",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-dau-rong-xao-toi-nam-va-thit-bo-thom-ngon-don-gian-05061",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu rồng 200 gr",
+      "raw_name": "Đậu rồng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm bào ngư 100 gr",
+      "raw_name": "Nấm bào ngư",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 50 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước tương 1 muỗng cà phê",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành boa rô 5 gr",
+      "raw_name": "Hành boa rô",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt bột 10 gr",
+      "raw_name": "Ớt bột",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hạt nêm 1 muỗng canh",
+      "raw_name": "Hạt nêm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:29:16Z",
+  "page_title": "3 Cách làm đậu rồng xào tỏi, nấm và thịt bò thơm ngon, đơn giản",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookRecipe/Avatar/dau-rong-xao-nam-thumbnail.jpg"
+}

@@ -1,0 +1,119 @@
+{
+  "source_id": "22490",
+  "name": "Tai heo ngâm rau tiến vua",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/14a81cf8a95baafd.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tai-heo-ngam-rau-tien-vua-gion-bao-quan-duoc-lau-voi-22490",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tai-heo-ngam-rau-tien-vua-gion-bao-quan-duoc-lau-voi-22490",
+  "servings_text": "Cho Khoảng 2.5kg thành phẩm",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tai heo 1.7 kg (4 chiếc)",
+      "raw_name": "Tai heo",
+      "quantity": 1.7,
+      "unit": "kg",
+      "note": "4 chiếc",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rau tiến vua khô 250 gr",
+      "raw_name": "Rau tiến vua khô",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 300 gr (1 củ)",
+      "raw_name": "Cà rốt",
+      "quantity": 300,
+      "unit": "gr",
+      "note": "1 củ",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 2 củ",
+      "raw_name": "Tỏi",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Giấm 500 ml",
+      "raw_name": "Giấm",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Giấm 100 ml",
+      "raw_name": "Giấm",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối/ đường 1 ít",
+      "raw_name": "Muối/ đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành tím 7 củ",
+      "raw_name": "Hành tím",
+      "quantity": 7,
+      "unit": "củ",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hành tây 1 củ (hoặc thay bằng 2 củ hành tím)",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "hoặc thay bằng 2 củ hành tím",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Chanh 2 trái",
+      "raw_name": "Chanh",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Ớt sừng 2 quả",
+      "raw_name": "Ớt sừng",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gừng tươi 1 ít",
+      "raw_name": "Gừng tươi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T19:34:28Z",
+  "page_title": "Cách làm tai heo ngâm rau tiến vua giòn, bảo quản được lâu với hộp đựng",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/tai%20heo.jpg"
+}

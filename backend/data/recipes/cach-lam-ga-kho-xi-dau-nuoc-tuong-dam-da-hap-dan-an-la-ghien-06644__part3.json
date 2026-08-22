@@ -1,0 +1,85 @@
+{
+  "source_id": "06644",
+  "name": "Gà sốt xì dầu mật ong",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1cb1e94a84b82843.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-kho-xi-dau-nuoc-tuong-dam-da-hap-dan-an-la-ghien-06644",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-kho-xi-dau-nuoc-tuong-dam-da-hap-dan-an-la-ghien-06644",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đùi gà rút xương 2 cái",
+      "raw_name": "Đùi gà rút xương",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước tương 2 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tương ớt 2 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Mè rang 1 ít",
+      "raw_name": "Mè rang",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ đường/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ đường/ tiêu xay",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:14:53Z",
+  "page_title": "3 cách làm gà kho xì dầu (nước tương) đậm đà hấp dẫn, ăn là ghiền",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2022/07/CookRecipe/Avatar/ga-sot-xi-dau-mat-ong-cong-thuc-chia-se-tu-nguoi-dung-thumbnail.jpg"
+}

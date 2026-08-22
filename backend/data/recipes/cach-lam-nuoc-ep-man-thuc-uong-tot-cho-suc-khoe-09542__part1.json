@@ -1,0 +1,49 @@
+{
+  "source_id": "09542",
+  "name": "Nước ép mận Hà Nội",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e27bcd0d4993e866.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-man-thuc-uong-tot-cho-suc-khoe-09542",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-man-thuc-uong-tot-cho-suc-khoe-09542",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mận Hà nội 500 gr",
+      "raw_name": "Mận Hà nội",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bạc hà 8 lá",
+      "raw_name": "Bạc hà",
+      "quantity": 8,
+      "unit": "lá",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước lọc 710 ml (làm lạnh)",
+      "raw_name": "Nước lọc",
+      "quantity": 710,
+      "unit": "ml",
+      "note": "làm lạnh",
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T20:02:35Z",
+  "page_title": "8 cách làm nước ép mận thơm ngon dinh dưỡng, dễ làm tại nhà",
+  "variant_index": 1,
+  "variant_count": 8,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/nuoc-ep-man-ha-noi-thumbnail-1.jpg"
+}

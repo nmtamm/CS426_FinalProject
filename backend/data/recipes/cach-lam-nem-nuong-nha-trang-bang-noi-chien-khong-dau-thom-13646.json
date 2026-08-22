@@ -1,0 +1,167 @@
+{
+  "source_id": "13646",
+  "name": "Nem nướng Nha Trang bằng nồi chiên không dầu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d2bf9e6f9a20b000.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nem-nuong-nha-trang-bang-noi-chien-khong-dau-thom-13646",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nem-nuong-nha-trang-bang-noi-chien-khong-dau-thom-13646",
+  "servings_text": "Cho 4 Người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Giò sống 200 gr",
+      "raw_name": "Giò sống",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt heo xay 550 gr",
+      "raw_name": "Thịt heo xay",
+      "quantity": 550,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Thịt mỡ 100 gr",
+      "raw_name": "Thịt mỡ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gan heo 50 gr",
+      "raw_name": "Gan heo",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tôm 4 con (to vừa)",
+      "raw_name": "Tôm 4 con",
+      "quantity": null,
+      "unit": null,
+      "note": "to vừa",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gạo nếp 100 gr",
+      "raw_name": "Gạo nếp",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột năng 2 thìa canh",
+      "raw_name": "Bột năng",
+      "quantity": 2,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đậu phộng rang 1 ít",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bánh tráng cuốn 200 gr (1 gói)",
+      "raw_name": "Bánh tráng cuốn",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "1 gói",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Sả tươi 500 gr (10 - 15 cây)",
+      "raw_name": "Sả tươi",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "10 - 15 cây",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Tỏi băm 2 thìa cà phê",
+      "raw_name": "Tỏi băm",
+      "quantity": 2,
+      "unit": "thìa cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Hành tím băm 2 thìa cà phê",
+      "raw_name": "Hành tím băm",
+      "quantity": 2,
+      "unit": "thìa cà phê",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Tương đậu nành 1 thìa cà phê",
+      "raw_name": "Tương đậu nành",
+      "quantity": 1,
+      "unit": "thìa cà phê",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Dầu hào 2 thìa cà phê",
+      "raw_name": "Dầu hào",
+      "quantity": 2,
+      "unit": "thìa cà phê",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Dầu điều 3 thìa cà phê",
+      "raw_name": "Dầu điều",
+      "quantity": 3,
+      "unit": "thìa cà phê",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Nước mắm 2.5 thìa canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2.5,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Dầu ăn 300 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 17
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ tiêu xay/ đường)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ tiêu xay/ đường",
+      "display_order": 18
+    }
+  ],
+  "scraped_at": "2026-08-19T20:37:57Z",
+  "page_title": "Cách làm nem nướng Nha Trang bằng nồi chiên không dầu thơm ngon khó cưỡng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookDish/cach-lam-nem-nuong-nha-trang-bang-noi-chien-khong-dau-thom-avt-1200x676.jpg"
+}

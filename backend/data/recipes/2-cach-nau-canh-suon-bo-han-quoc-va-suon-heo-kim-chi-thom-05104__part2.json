@@ -1,0 +1,89 @@
+{
+  "source_id": "05104",
+  "name": "Canh sườn heo kim chi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ead1929f5f36b4c2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-canh-suon-bo-han-quoc-va-suon-heo-kim-chi-thom-05104",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-canh-suon-bo-han-quoc-va-suon-heo-kim-chi-thom-05104",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-canh",
+      "name": "Món canh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sườn heo 300 gr (hoặc sườn bò)",
+      "raw_name": "Sườn heo",
+      "quantity": 300,
+      "unit": "gr",
+      "note": "hoặc sườn bò",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Kim chi 100 gr",
+      "raw_name": "Kim chi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi tây cắt nhỏ 1 ít",
+      "raw_name": "Tỏi tây cắt nhỏ",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gừng băm 1 muỗng canh",
+      "raw_name": "Gừng băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng cà phê",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị thường dùng 1 ít (muối/hạt nêm/đường/tiêu)",
+      "raw_name": "Gia vị thường dùng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/hạt nêm/đường/tiêu",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:33:50Z",
+  "page_title": "2 Cách nấu canh sườn bò Hàn Quốc và sườn heo kim chi thơm ngon, đúng điệu",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookRecipe/Avatar/canh-suon-bo-kim-chi-thumbnail-1.jpg"
+}

@@ -1,0 +1,153 @@
+{
+  "source_id": "04839",
+  "name": "Bắp chuối chiên xù sốt rau củ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ae70cd3b496acb32.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-bap-chuoi-chien-don-gian-gion-ngon-hap-dan-04839",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-bap-chuoi-chien-don-gian-gion-ngon-hap-dan-04839",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bắp chuối 1 cái",
+      "raw_name": "Bắp chuối",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đâu que 100 gr",
+      "raw_name": "Đâu que",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nấm hương 4 cái (có thể dùng nấm tươi hoặc khô)",
+      "raw_name": "Nấm hương",
+      "quantity": 4,
+      "unit": "cái",
+      "note": "có thể dùng nấm tươi hoặc khô",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột chiên giòn 100 gr",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cà rốt 100 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột chiên xù 100 gr",
+      "raw_name": "Bột chiên xù",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bắp mỹ 100 gr",
+      "raw_name": "Bắp mỹ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành boa rô 20 gr",
+      "raw_name": "Hành boa rô",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu ăn 100 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước tương 2 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Hạt nêm 1 muỗng cà phê",
+      "raw_name": "Hạt nêm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Đường 1 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Tương cà 1 muỗng canh",
+      "raw_name": "Tương cà",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Tương cà ketchup 1 muỗng canh",
+      "raw_name": "Tương cà ketchup",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T19:24:10Z",
+  "page_title": "3 cách làm bắp chuối chiên đơn giản giòn ngon hấp dẫn",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookRecipe/Avatar/bap-chuoi-chien-xu-sot-rau-cu-thumbnail.jpg"
+}

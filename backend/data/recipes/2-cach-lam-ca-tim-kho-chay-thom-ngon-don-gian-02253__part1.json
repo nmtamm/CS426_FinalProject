@@ -1,0 +1,61 @@
+{
+  "source_id": "02253",
+  "name": "Cà tím kho tiêu chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e22cb11bf26be684.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-ca-tim-kho-chay-thom-ngon-don-gian-02253",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-ca-tim-kho-chay-thom-ngon-don-gian-02253",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cà tím 600 gr (khoảng 3 trái)",
+      "raw_name": "Cà tím",
+      "quantity": 600,
+      "unit": "gr",
+      "note": "khoảng 3 trái",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành tím 4 củ",
+      "raw_name": "Hành tím",
+      "quantity": 4,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành lá 4 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 4,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt 1 quả",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gia vị (muối/ bột ngọt/ nước mắm chay/ tiêu 10 gr",
+      "raw_name": "Gia vị (muối/ bột ngọt/ nước mắm chay/ tiêu",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T18:47:10Z",
+  "page_title": "2 cách làm cà tím kho tiêu và tương ớt chay thơm ngon đơn giản",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/ca-tim-kho-tieu-chay-thumbnail.jpg"
+}

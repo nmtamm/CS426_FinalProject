@@ -1,0 +1,89 @@
+{
+  "source_id": "11761",
+  "name": "Chè khoai dẻo nước cốt dừa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b7106c06fa5f0caf.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-che-khoai-deo-nuoc-cot-dua-beo-thom-ngon-kho-cuong-11761",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-che-khoai-deo-nuoc-cot-dua-beo-thom-ngon-kho-cuong-11761",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-che",
+      "name": "Món chè"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì đa dụng 7 muỗng canh (bột mì số 11)",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 7,
+      "unit": "muỗng canh",
+      "note": "bột mì số 11",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột trà xanh 1.5 muỗng canh",
+      "raw_name": "Bột trà xanh",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Khoai lang tím 2 củ",
+      "raw_name": "Khoai lang tím",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Khoai lang vàng 1 củ",
+      "raw_name": "Khoai lang vàng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cốt dừa 350 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 350,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sữa đặc 2 muỗng canh",
+      "raw_name": "Sữa đặc",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 3.5 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 3.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Mè trắng rang 1 ít",
+      "raw_name": "Mè trắng rang",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:15:35Z",
+  "page_title": "2 cách nấu chè khoai dẻo nước cốt dừa béo thơm ngon khó cưỡng",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/che-khoai-deo-nuoc-cot-dua-thumbnail-1.jpg"
+}

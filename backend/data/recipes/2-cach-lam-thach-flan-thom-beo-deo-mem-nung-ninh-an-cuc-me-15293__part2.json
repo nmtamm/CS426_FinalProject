@@ -1,0 +1,77 @@
+{
+  "source_id": "15293",
+  "name": "Thạch flan caramel",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3010127e58c4760a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-thach-flan-thom-beo-deo-mem-nung-ninh-an-cuc-me-15293",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-thach-flan-thom-beo-deo-mem-nung-ninh-an-cuc-me-15293",
+  "servings_text": "Cho 8 cái",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sữa đặc 300 ml",
+      "raw_name": "Sữa đặc",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa đặc không đường 370 ml (hoặc kem sữa)",
+      "raw_name": "Sữa đặc không đường",
+      "quantity": 370,
+      "unit": "ml",
+      "note": "hoặc kem sữa",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lòng đỏ trứng gà 6 cái",
+      "raw_name": "Lòng đỏ trứng gà",
+      "quantity": 6,
+      "unit": "cái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột gelatin 9 gr",
+      "raw_name": "Bột gelatin",
+      "quantity": 9,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tinh bột bắp 1 muỗng canh",
+      "raw_name": "Tinh bột bắp",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tinh chất vani 1 muỗng cà phê",
+      "raw_name": "Tinh chất vani",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường cát trắng 125 gr",
+      "raw_name": "Đường cát trắng",
+      "quantity": 125,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:20:00Z",
+  "page_title": "2 cách làm thạch flan thơm béo dẻo mềm núng nính ăn cực mê",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/thach-flan-caramel-thumbnail.jpg"
+}

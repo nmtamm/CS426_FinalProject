@@ -1,0 +1,99 @@
+{
+  "source_id": "13114",
+  "name": "Bún bì chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8a7cbfdd4f5ee6ad.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bun-bi-chay-don-gian-thom-ngon-cho-ca-nha-13114",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bun-bi-chay-don-gian-thom-ngon-cho-ca-nha-13114",
+  "servings_text": "Cho 5 - 7 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Củ sắn 2 kg (củ đậu)",
+      "raw_name": "Củ sắn",
+      "quantity": 2,
+      "unit": "kg",
+      "note": "củ đậu",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 250 gr (khoảng 1 củ)",
+      "raw_name": "Cà rốt",
+      "quantity": 250,
+      "unit": "gr",
+      "note": "khoảng 1 củ",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Khoai lang 1 kg",
+      "raw_name": "Khoai lang",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đậu hũ 500 gr",
+      "raw_name": "Đậu hũ",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột thính gạo 200 gr",
+      "raw_name": "Bột thính gạo",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tắc 4 trái",
+      "raw_name": "Tắc",
+      "quantity": 4,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt băm 1 muỗng canh",
+      "raw_name": "Ớt băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước tương 6 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 6,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước cốt tắc 3 muỗng canh",
+      "raw_name": "Nước cốt tắc",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Hạt nêm/ Bột ngọt/ Đường/ Muối)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Hạt nêm/ Bột ngọt/ Đường/ Muối",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:37:58Z",
+  "page_title": "Cách làm bún bì chay đơn giản, thơm ngon cho cả nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookProduct/1200(3)-1200x676-1.jpg"
+}

@@ -1,0 +1,109 @@
+{
+  "source_id": "01503",
+  "name": "Chân gà ngâm sả tắc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/46f36e95bb510a7b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-chan-ga-sa-tac-gion-dam-vi-khong-the-cuong-lai-01503",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-chan-ga-sa-tac-gion-dam-vi-khong-the-cuong-lai-01503",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chân gà 1.5 kg",
+      "raw_name": "Chân gà",
+      "quantity": 1.5,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sả 7 cây",
+      "raw_name": "Sả",
+      "quantity": 7,
+      "unit": "cây",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tắc 200 gr",
+      "raw_name": "Tắc",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tím 5 củ",
+      "raw_name": "Hành tím",
+      "quantity": 5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Chanh 4 trái",
+      "raw_name": "Chanh",
+      "quantity": 4,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt sừng 10 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 10,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Rượu gạo 1 ít",
+      "raw_name": "Rượu gạo",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước mắm 1 chén (chén ăn cơm)",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "chén",
+      "note": "chén ăn cơm",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Muối/ đường 1 ít",
+      "raw_name": "Muối/ đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T19:15:22Z",
+  "page_title": "3 cách làm chân gà sả tắc ngon giòn đậm vị không thể cưỡng lại",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2022/08/CookRecipe/Avatar/chan-ga-ngam-sa-tac-thumbnail-1.jpg"
+}

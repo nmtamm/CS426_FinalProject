@@ -1,0 +1,69 @@
+{
+  "source_id": "00749",
+  "name": "Trà sữa thạch phô mai",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a524ee8f3af65d7d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-sua-tran-chau-thach-pho-mai-sieu-ngon-tai-nha-00749",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-sua-tran-chau-thach-pho-mai-sieu-ngon-tai-nha-00749",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột rau câu dẻo 10 gr",
+      "raw_name": "Bột rau câu dẻo",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trà đen 100 gr",
+      "raw_name": "Trà đen",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Phô mai con bò cười 2 cái (miếng)",
+      "raw_name": "Phô mai con bò cười",
+      "quantity": 2,
+      "unit": "cái",
+      "note": "miếng",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 450 gr",
+      "raw_name": "Đường",
+      "quantity": 450,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sữa bột 400 gr",
+      "raw_name": "Sữa bột",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:11:35Z",
+  "page_title": "2 cách làm trà sữa thạch phô mai siêu dễ siêu ngon tại nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/tra-sua-thach-pho-mai-thumbnail-1.jpg"
+}

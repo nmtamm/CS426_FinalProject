@@ -1,0 +1,103 @@
+{
+  "source_id": "09721",
+  "name": "Thịt bò xào hành cần tây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/477ec4701b2f2e29.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-bo-xao-hanh-can-tay-thom-ngon-don-gian-cho-bua-09721",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-bo-xao-hanh-can-tay-thom-ngon-don-gian-cho-bua-09721",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò 400 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cần tây 100 gr",
+      "raw_name": "Cần tây",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà chua 2 trái",
+      "raw_name": "Cà chua",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ngò rí 3 nhánh",
+      "raw_name": "Ngò rí",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước tương 1 muỗng cà phê",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng cà phê",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ bột ngọt/ tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ bột ngọt/ tiêu",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:26:59Z",
+  "page_title": "Cách làm thịt bò xào hành cần tây thơm ngon đơn giản cho bữa cơm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookProduct/CachlamBOXAOCANTAYngonngatngaybovuamemvuathamBepCuaVo0-18screenshot-1200x676.jpg"
+}

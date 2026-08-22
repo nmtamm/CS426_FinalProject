@@ -1,0 +1,97 @@
+{
+  "source_id": "05044",
+  "name": "Thịt bò chiên vừng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9ecd7556a35a7283.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-thit-bo-chien-mem-ngon-dam-da-don-gian-cho-bua-com-05044",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-thit-bo-chien-mem-ngon-dam-da-don-gian-cho-bua-com-05044",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò 350 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 350,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà chua 1 trái",
+      "raw_name": "Cà chua",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dưa leo 1/2 trái",
+      "raw_name": "Dưa leo",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rau xà lách 30 gr",
+      "raw_name": "Rau xà lách",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Vừng trắng 1 muỗng cà phê",
+      "raw_name": "Vừng trắng",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng cà phê",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột ớt 1 muỗng canh",
+      "raw_name": "Bột ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:25:10Z",
+  "page_title": "5 cách làm thịt bò chiên vàng giòn, ngon tuyệt cú mèo",
+  "variant_index": 4,
+  "variant_count": 5,
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookRecipe/Avatar/thit-bo-chien-vung-thumbnail.jpg"
+}

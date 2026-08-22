@@ -1,0 +1,37 @@
+{
+  "source_id": "00632",
+  "name": "Chuối sấy giòn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b9a06d239a1b3f1f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chuoi-say-bang-lo-nuong-sieu-don-gian-00632",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chuoi-say-bang-lo-nuong-sieu-don-gian-00632",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chuối gần chín 5 quả",
+      "raw_name": "Chuối gần chín",
+      "quantity": 5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chanh 1 quả",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:09:10Z",
+  "page_title": "2 cách làm chuối sấy bằng lò nướng thơm lừng ngon ngọt đơn giản tại nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/chuoi-say-gion-thumbnail.jpg"
+}

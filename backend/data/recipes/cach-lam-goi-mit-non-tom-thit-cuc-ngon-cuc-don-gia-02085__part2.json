@@ -1,0 +1,125 @@
+{
+  "source_id": "02085",
+  "name": "Gỏi mít non trộn tôm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/30dd8311eea4694f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-mit-non-tom-thit-cuc-ngon-cuc-don-gia-02085",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-mit-non-tom-thit-cuc-ngon-cuc-don-gia-02085",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mít non 300 gr",
+      "raw_name": "Mít non",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tôm 200 gr",
+      "raw_name": "Tôm",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu phộng rang 50 gr",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tím 6 củ",
+      "raw_name": "Hành tím",
+      "quantity": 6,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 1/2 củ",
+      "raw_name": "Tỏi",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sả 1 cây",
+      "raw_name": "Sả",
+      "quantity": 1,
+      "unit": "cây",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt 3 quả",
+      "raw_name": "Ớt",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Chanh 1/2 quả",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rau răm 1 ít",
+      "raw_name": "Rau răm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Rau quế 1 ít",
+      "raw_name": "Rau quế",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Rau húng 1 ít",
+      "raw_name": "Rau húng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/bột ngọt/hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/bột ngọt/hạt nêm",
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T18:01:35Z",
+  "page_title": "2 cách làm gỏi mít non tôm thịt đậm đà cực ngon cực đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookRecipe/Avatar/goi-mit-non-tron-tom-thumbnail.jpg"
+}

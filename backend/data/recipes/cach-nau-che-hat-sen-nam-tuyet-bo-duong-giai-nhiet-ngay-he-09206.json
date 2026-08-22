@@ -1,0 +1,87 @@
+{
+  "source_id": "09206",
+  "name": "Chè hạt sen nấm tuyết",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a756ecbd57edcd03.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-che-hat-sen-nam-tuyet-bo-duong-giai-nhiet-ngay-he-09206",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-che-hat-sen-nam-tuyet-bo-duong-giai-nhiet-ngay-he-09206",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-che",
+      "name": "Món chè"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hạt sen khô 100 gr",
+      "raw_name": "Hạt sen khô",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu xanh 200 gr (cà vỏ)",
+      "raw_name": "Đậu xanh",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "cà vỏ",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nấm tuyết 1 cái",
+      "raw_name": "Nấm tuyết",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường thốt nốt 70 gr",
+      "raw_name": "Đường thốt nốt",
+      "quantity": 70,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột năng 2 muỗng canh",
+      "raw_name": "Bột năng",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước cốt dừa 250 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 250,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối/ đường 1 ít",
+      "raw_name": "Muối/ đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:19:45Z",
+  "page_title": "Cách nấu chè hạt sen nấm tuyết bổ dưỡng, giải nhiệt ngày hè",
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookProduct/Cachnauchehatsennamtuyetthomngonboduongchocanha0-36screenshot(1)-1200x676.jpg"
+}

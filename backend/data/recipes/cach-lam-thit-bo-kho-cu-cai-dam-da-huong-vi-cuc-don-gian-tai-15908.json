@@ -1,0 +1,123 @@
+{
+  "source_id": "15908",
+  "name": "Thịt bò kho củ cải",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4a83d6e78836fb15.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-bo-kho-cu-cai-dam-da-huong-vi-cuc-don-gian-tai-15908",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-bo-kho-cu-cai-dam-da-huong-vi-cuc-don-gian-tai-15908",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò 400 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Củ cải 250 gr",
+      "raw_name": "Củ cải",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gừng 10 gr",
+      "raw_name": "Gừng",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Thảo quả 1/4 quả",
+      "raw_name": "Thảo quả",
+      "quantity": 0.25,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hoa hồi 1 ít",
+      "raw_name": "Hoa hồi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành lá 2 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành khô 2 củ",
+      "raw_name": "Hành khô",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tỏi 2 tép",
+      "raw_name": "Tỏi 2 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ớt khô 1/2 muỗng cà phê",
+      "raw_name": "Ớt khô",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tiêu hạt 1/2 muỗng cà phê",
+      "raw_name": "Tiêu hạt",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Xì dầu 3 muỗng canh",
+      "raw_name": "Xì dầu",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước lọc 500 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T18:29:26Z",
+  "page_title": "Cách làm thịt bò kho củ cải đậm đà hương vị cực đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookDish/cach-lam-thit-bo-kho-cu-cai-dam-da-huong-vi-cuc-don-gian-tai-avt-1200x676.jpg"
+}

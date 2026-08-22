@@ -1,0 +1,42 @@
+{
+  "source_id": "00975",
+  "name": "Vải ngâm đường",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1a6d1b896ba2dd02.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-vai-ngam-duong-va-cach-pha-tra-vai-ngon-de-lam-00975",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-vai-ngam-duong-va-cach-pha-tra-vai-ngon-de-lam-00975",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trái vải 1.5 kg",
+      "raw_name": "Trái vải",
+      "quantity": 1.5,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường đen 600 gr",
+      "raw_name": "Đường đen",
+      "quantity": 600,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:10:27Z",
+  "page_title": "Cách làm trái vải ngâm đường để được lâu, siêu đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "công thức được chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookRecipe/Avatar/vai-ngam-duong-cong-thuc-duoc-chia-se-tu-nguoi-dung-thumbnail.jpg"
+}

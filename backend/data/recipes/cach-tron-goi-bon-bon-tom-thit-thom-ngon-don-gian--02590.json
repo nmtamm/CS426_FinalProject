@@ -1,0 +1,99 @@
+{
+  "source_id": "02590",
+  "name": "Gỏi bồn bồn tôm thịt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/165c781eb975f83b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-tron-goi-bon-bon-tom-thit-thom-ngon-don-gian--02590",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-tron-goi-bon-bon-tom-thit-thom-ngon-don-gian--02590",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bồn bồn tươi 200 g",
+      "raw_name": "Bồn bồn tươi",
+      "quantity": 200,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt ba chỉ 100 g",
+      "raw_name": "Thịt ba chỉ",
+      "quantity": 100,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt ngâm chua 50 g",
+      "raw_name": "Cà rốt ngâm chua",
+      "quantity": 50,
+      "unit": "g",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đậu phộng rang 100 g",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 100,
+      "unit": "g",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chanh 2 quả",
+      "raw_name": "Chanh",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt hiểm 3 quả",
+      "raw_name": "Ớt hiểm",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Sả 2 cây",
+      "raw_name": "Sả",
+      "quantity": 2,
+      "unit": "cây",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "G m sú 100 tô",
+      "raw_name": "G m sú",
+      "quantity": 100,
+      "unit": "tô",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Rau răm 50 g",
+      "raw_name": "Rau răm",
+      "quantity": 50,
+      "unit": "g",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:00:45Z",
+  "page_title": "Cách trộn gỏi bồn bồn tôm thịt thơm ngon đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/05/28/1258976/cach-tron-goi-bon-bon-tom-thit-thom-ngon-don-gian--12-760x367.jpg"
+}

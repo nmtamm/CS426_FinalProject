@@ -1,0 +1,51 @@
+{
+  "source_id": "06550",
+  "name": "Sữa Quinoa (diêm mạch) hạt điều",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0a471095c44e3548.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-sua-quinoa-diem-mach-hat-dieu-beo-ngay-day-dinh-06550",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-sua-quinoa-diem-mach-hat-dieu-beo-ngay-day-dinh-06550",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hạt Quinoa 50 gr",
+      "raw_name": "Hạt Quinoa",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hạt điều 50 gr",
+      "raw_name": "Hạt điều",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chà là khô 5 quả (có thể thay bằng đường)",
+      "raw_name": "Chà là khô",
+      "quantity": 5,
+      "unit": "quả",
+      "note": "có thể thay bằng đường",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước cốt dừa 400 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:00:13Z",
+  "page_title": "Cách nấu sữa Quinoa (diêm mạch) hạt điều béo ngậy đầy dinh dưỡng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/Thumb-1200x676-5.jpg"
+}

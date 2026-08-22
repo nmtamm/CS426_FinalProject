@@ -1,0 +1,97 @@
+{
+  "source_id": "04259",
+  "name": "Chả lá chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/09415a96da58c0c1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-cha-la-va-cha-cu-san-chay-thom-ngon-doc-dao-hap-04259",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-cha-la-va-cha-cu-san-chay-thom-ngon-doc-dao-hap-04259",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tàu hũ ky 200 gr",
+      "raw_name": "Tàu hũ ky",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu hũ trắng 300 gr",
+      "raw_name": "Đậu hũ trắng",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá chanh 10 cái",
+      "raw_name": "Lá chanh",
+      "quantity": 10,
+      "unit": "cái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lá chuối 10 cái",
+      "raw_name": "Lá chuối",
+      "quantity": 10,
+      "unit": "cái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sả băm 30 gr",
+      "raw_name": "Sả băm",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Boa rô phi 1 muỗng canh",
+      "raw_name": "Boa rô phi",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Rong biển 1 lá",
+      "raw_name": "Rong biển",
+      "quantity": 1,
+      "unit": "lá",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tinh bột đậu xanh 2 muỗng canh",
+      "raw_name": "Tinh bột đậu xanh",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị 10 gr (đường/ hạt nêm chay/ muối/ tiêu)",
+      "raw_name": "Gia vị",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "đường/ hạt nêm chay/ muối/ tiêu",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:51:22Z",
+  "page_title": "2 Cách làm chả lá và chả củ sắn chay thơm ngon độc đáo hấp dẫn",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/cha-cu-san-chay-thumbnail.jpg"
+}

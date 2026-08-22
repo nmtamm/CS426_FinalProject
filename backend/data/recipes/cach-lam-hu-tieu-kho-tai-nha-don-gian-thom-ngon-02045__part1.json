@@ -1,0 +1,165 @@
+{
+  "source_id": "02045",
+  "name": "Hủ tiếu khô hải sản",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9683dbf8026a4106.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-hu-tieu-kho-tai-nha-don-gian-thom-ngon-02045",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-hu-tieu-kho-tai-nha-don-gian-thom-ngon-02045",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hủ tiếu khô 300 gr",
+      "raw_name": "Hủ tiếu khô",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xương ống 400 gr",
+      "raw_name": "Xương ống",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nạc vai heo 200 gr",
+      "raw_name": "Nạc vai heo",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tôm tươi 200 gr",
+      "raw_name": "Tôm tươi",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Mực tươi 200 gr",
+      "raw_name": "Mực tươi",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gan heo 100 gr",
+      "raw_name": "Gan heo",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tôm khô 10 gr (6 - 8 con)",
+      "raw_name": "Tôm khô",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "6 - 8 con",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Mực khô 10 gr (1 con nhỏ)",
+      "raw_name": "Mực khô",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "1 con nhỏ",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Củ cải trắng 80 gr (1 củ nhỏ)",
+      "raw_name": "Củ cải trắng",
+      "quantity": 80,
+      "unit": "gr",
+      "note": "1 củ nhỏ",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Cải cúc 200 gr",
+      "raw_name": "Cải cúc",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Cà rốt 80 gr (1 củ nhỏ)",
+      "raw_name": "Cà rốt",
+      "quantity": 80,
+      "unit": "gr",
+      "note": "1 củ nhỏ",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Trứng cút 10 quả",
+      "raw_name": "Trứng cút",
+      "quantity": 10,
+      "unit": "quả",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Sữa tươi 100 ml",
+      "raw_name": "Sữa tươi",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Nước tương 45 ml (3 muỗng canh)",
+      "raw_name": "Nước tương",
+      "quantity": 45,
+      "unit": "ml",
+      "note": "3 muỗng canh",
+      "display_order": 15
+    },
+    {
+      "raw_text": "Dầu hào 15 ml (1 muỗng canh)",
+      "raw_name": "Dầu hào",
+      "quantity": 15,
+      "unit": "ml",
+      "note": "1 muỗng canh",
+      "display_order": 16
+    },
+    {
+      "raw_text": "Dầu ăn 45 ml (3 muỗng canh)",
+      "raw_name": "Dầu ăn",
+      "quantity": 45,
+      "unit": "ml",
+      "note": "3 muỗng canh",
+      "display_order": 17
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Hạt nêm/ muối/ đường/ bột ngọt/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Hạt nêm/ muối/ đường/ bột ngọt/ tiêu xay",
+      "display_order": 18
+    }
+  ],
+  "scraped_at": "2026-08-19T20:37:49Z",
+  "page_title": "3 cách làm hủ tiếu khô tại nhà đơn giản đậm đà thơm ngon chuẩn ngoài hàng",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/hu-tieu-kho-hai-san-thumbnail.jpg"
+}

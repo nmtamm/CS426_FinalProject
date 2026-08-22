@@ -1,0 +1,82 @@
+{
+  "source_id": "01214",
+  "name": "Bánh in đậu xanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/582971d62f099ca0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-in-don-gian-tai-nha-ngon-nhu-ngoai-hang-01214",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-in-don-gian-tai-nha-ngon-nhu-ngoai-hang-01214",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu xanh 210 gr (không vỏ)",
+      "raw_name": "Đậu xanh",
+      "quantity": 210,
+      "unit": "gr",
+      "note": "không vỏ",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường cát 210 gr",
+      "raw_name": "Đường cát",
+      "quantity": 210,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột bánh in 500 gr (bạn cũng có thể làm phần vỏ bánh như với cách làm bánh in bột nếp truyền thống hướng dẫn ở trên)",
+      "raw_name": "Bột bánh in",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "bạn cũng có thể làm phần vỏ bánh như với cách làm bánh in bột nếp truyền thống hướng dẫn ở trên",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường cát trắng 500 gr",
+      "raw_name": "Đường cát trắng",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước lọc 160 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 160,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước hoa bưởi 20 gr",
+      "raw_name": "Nước hoa bưởi",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước chanh tươi. 5 g",
+      "raw_name": "Nước chanh tươi.",
+      "quantity": 5,
+      "unit": "g",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:35:48Z",
+  "page_title": "2 cách làm bánh in đơn giản tại nhà ngon như ngoài hàng",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": null,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/bánh-in-dạu-xanh-thumbnail.jpg"
+}

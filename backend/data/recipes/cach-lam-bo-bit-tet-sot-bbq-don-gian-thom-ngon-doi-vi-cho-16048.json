@@ -1,0 +1,79 @@
+{
+  "source_id": "16048",
+  "name": "Bò bít tết sốt bbq",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ff5d51723033d7eb.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bo-bit-tet-sot-bbq-don-gian-thom-ngon-doi-vi-cho-16048",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bo-bit-tet-sot-bbq-don-gian-thom-ngon-doi-vi-cho-16048",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt thăn bò 140 gr (khoảng 2 miếng)",
+      "raw_name": "Thịt thăn bò",
+      "quantity": 140,
+      "unit": "gr",
+      "note": "khoảng 2 miếng",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sốt ướp thịt nướng 1.5 muỗng canh",
+      "raw_name": "Sốt ướp thịt nướng",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước hầm bò 120 ml",
+      "raw_name": "Nước hầm bò",
+      "quantity": 120,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bơ lạt 1 muỗng cà phê",
+      "raw_name": "Bơ lạt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng cà phê",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối/ Tiêu xay 1 ít",
+      "raw_name": "Muối/ Tiêu xay",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:32:25Z",
+  "page_title": "Cách làm bò bít tết sốt bbq thơm ngon đổi vị cho buổi tối Tết Dương lịch",
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookDish/cach-lam-bo-bit-tet-sot-bbq-don-gian-thom-ngon-doi-vi-cho-avt-1200x676.jpg"
+}

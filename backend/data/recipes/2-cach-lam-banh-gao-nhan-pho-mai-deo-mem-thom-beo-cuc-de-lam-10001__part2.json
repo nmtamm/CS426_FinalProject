@@ -1,0 +1,62 @@
+{
+  "source_id": "10001",
+  "name": "Bánh gạo nhân phô mai lát",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0c848f4cc4d9ea44.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-gao-nhan-pho-mai-deo-mem-thom-beo-cuc-de-lam-10001",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-gao-nhan-pho-mai-deo-mem-thom-beo-cuc-de-lam-10001",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột gạo 120 gr",
+      "raw_name": "Bột gạo",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Phô mai 3 lát",
+      "raw_name": "Phô mai 3 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dầu mè 1 muỗng canh",
+      "raw_name": "Dầu mè",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:10:23Z",
+  "page_title": "2 cách làm bánh gạo nhân phô mai dẻo mềm, thơm béo cực dễ làm",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": null,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/banh-gao-nhan-pho-mai-lat-thumbnail.jpg"
+}

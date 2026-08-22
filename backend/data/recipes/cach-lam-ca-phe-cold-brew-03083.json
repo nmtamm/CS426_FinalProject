@@ -1,0 +1,35 @@
+{
+  "source_id": "03083",
+  "name": "Cà phê Cold Brew",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e92fc84cf7c75996.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-phe-cold-brew-03083",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-phe-cold-brew-03083",
+  "servings_text": "Cho 04 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hạt cà phê rang (thô ở mức 5 250 gram",
+      "raw_name": "Hạt cà phê rang (thô ở mức 5 250 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước lạnh 2.5 lít",
+      "raw_name": "Nước lạnh 2.5 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T20:02:43Z",
+  "page_title": "Cách làm cà phê Cold Brew thơm ngon, đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookProduct/thumbcn-1200x676-9.jpg"
+}

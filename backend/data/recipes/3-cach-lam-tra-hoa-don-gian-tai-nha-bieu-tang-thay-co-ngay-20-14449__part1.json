@@ -1,0 +1,65 @@
+{
+  "source_id": "14449",
+  "name": "Trà hoa hồng khô",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5d6992b81b48e369.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-tra-hoa-don-gian-tai-nha-bieu-tang-thay-co-ngay-20-14449",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-tra-hoa-don-gian-tai-nha-bieu-tang-thay-co-ngay-20-14449",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "meo-vao-bep",
+      "name": "Mẹo vào bếp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bông hoa hồng 5 cái",
+      "raw_name": "Bông hoa hồng",
+      "quantity": 5,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gừng 1 củ (thái sợi nhỏ)",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "thái sợi nhỏ",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mật ong 1 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 2 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước sôi 350 ml",
+      "raw_name": "Nước sôi",
+      "quantity": 350,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:33:01Z",
+  "page_title": "3 cách làm trà hoa đơn giản tại nhà, biếu tặng thầy cô ngày 20/11 ý nghĩa",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/tra-hoa-hong-tu-nhien-thumbnail.jpg"
+}

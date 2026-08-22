@@ -1,0 +1,93 @@
+{
+  "source_id": "01455",
+  "name": "Salad bơ khoai tây nướng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/97a87f167a1a4332.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-cach-lam-3-mon-salad-bo-chay-de-lam-ngon-mieng-01455",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-cach-lam-3-mon-salad-bo-chay-de-lam-ngon-mieng-01455",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai tây nhỏ 1 kg",
+      "raw_name": "Khoai tây nhỏ",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành tím 5 củ",
+      "raw_name": "Hành tím",
+      "quantity": 5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà chua 1 trái",
+      "raw_name": "Cà chua",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rau mầm 1 gói",
+      "raw_name": "Rau mầm",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu olive 1 ít",
+      "raw_name": "Dầu olive",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sữa chua không đường 2 hộp",
+      "raw_name": "Sữa chua không đường",
+      "quantity": 2,
+      "unit": "hộp",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Mù tạt 1 ít",
+      "raw_name": "Mù tạt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Giấm táo 1 ít",
+      "raw_name": "Giấm táo",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Mật ong 1 ít",
+      "raw_name": "Mật ong",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:00:18Z",
+  "page_title": "Hướng dẫn cách làm 3 món salad bơ chay dễ làm ngon miệng",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookRecipe/Avatar/salad-bo-khoai-tay-nuong-thumbnail.jpg"
+}

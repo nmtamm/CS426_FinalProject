@@ -1,0 +1,79 @@
+{
+  "source_id": "01980",
+  "name": "bánh Flan trái dừa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/67f1b7441a04efca.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-flan-trai-dua-thom-ngon-mat-lanh-gi-01980",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-flan-trai-dua-thom-ngon-mat-lanh-gi-01980",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dừa xiêm 1 quả (phần cơm mềm không bị già và cứng)",
+      "raw_name": "Dừa xiêm",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "phần cơm mềm không bị già và cứng",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng gà 4 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 4,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Kem sữa tươi 150 ml (whipping cream - có thể thay thế bằng sữa tươi nguyên kem)",
+      "raw_name": "Kem sữa tươi",
+      "quantity": 150,
+      "unit": "ml",
+      "note": "whipping cream - có thể thay thế bằng sữa tươi nguyên kem",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa tươi 400 ml",
+      "raw_name": "Sữa tươi",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lá dứa 10 g",
+      "raw_name": "Lá dứa",
+      "quantity": 10,
+      "unit": "g",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "G Đường cát nh 200 kí",
+      "raw_name": "G Đường cát nh 200 kí",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột rau câu Agar 10 g",
+      "raw_name": "Bột rau câu Agar",
+      "quantity": 10,
+      "unit": "g",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:28:45Z",
+  "page_title": "Cách làm bánh Flan trái dừa thơm ngon, mát lạnh giải nhiệt mùa hè",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/04/08/1247603/cach-lam-banh-flan-trai-dua-thom-ngon-mat-lanh-gi-1-760x367.jpg"
+}

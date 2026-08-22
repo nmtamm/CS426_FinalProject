@@ -1,0 +1,63 @@
+{
+  "source_id": "14580",
+  "name": "Cà na trộn muối ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/55a84d9003ef9bc2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-na-tron-muoi-ot-khong-bi-dang-an-hoai-khong-ngan-14580",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-na-tron-muoi-ot-khong-bi-dang-an-hoai-khong-ngan-14580",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cà na 1.5 kg",
+      "raw_name": "Cà na",
+      "quantity": 1.5,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt 4 trái",
+      "raw_name": "Ớt",
+      "quantity": 4,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối hạt 4 muỗng canh",
+      "raw_name": "Muối hạt",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối ăn 3 muỗng canh",
+      "raw_name": "Muối ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 400 gr",
+      "raw_name": "Đường",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T18:56:32Z",
+  "page_title": "Cách làm cà na trộn muối ớt không bị đắng, ăn hoài không ngán",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-ca-na-tron-muoi-ot-khong-bi-dang-an-hoai-khong-ngan-avt-1200x676.jpg"
+}

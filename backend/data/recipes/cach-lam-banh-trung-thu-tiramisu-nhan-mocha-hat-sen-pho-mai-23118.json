@@ -1,0 +1,127 @@
+{
+  "source_id": "23118",
+  "name": "Bánh trung thu tiramisu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/334cca7366543a6a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-tiramisu-nhan-mocha-hat-sen-pho-mai-23118",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-tiramisu-nhan-mocha-hat-sen-pho-mai-23118",
+  "servings_text": "Cho 14 bánh (50g/bánh)",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì đa dụng 120 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hạt sen khô 100 gr",
+      "raw_name": "Hạt sen khô",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột cacao 32 gr",
+      "raw_name": "Bột cacao",
+      "quantity": 32,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Phô mai con bò cười 70 gr (hoặc cream cheese/ mascarpone)",
+      "raw_name": "Phô mai con bò cười",
+      "quantity": 70,
+      "unit": "gr",
+      "note": "hoặc cream cheese/ mascarpone",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 40 gr",
+      "raw_name": "Đường",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 80 gr",
+      "raw_name": "Dầu ăn",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Cà phê hòa tan nguyên chất 2 gr",
+      "raw_name": "Cà phê hòa tan nguyên chất",
+      "quantity": 2,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Sữa đặc có đường 60 gr",
+      "raw_name": "Sữa đặc có đường",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rượu Rum 15 ml (tùy chọn)",
+      "raw_name": "Rượu Rum",
+      "quantity": 15,
+      "unit": "ml",
+      "note": "tùy chọn",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước đường bánh nướng 108 gr",
+      "raw_name": "Nước đường bánh nướng",
+      "quantity": 108,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Lòng đỏ trứng 1 cái",
+      "raw_name": "Lòng đỏ trứng",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Lòng trắng trứng 11 gr",
+      "raw_name": "Lòng trắng trứng",
+      "quantity": 11,
+      "unit": "gr",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T19:33:59Z",
+  "page_title": "Cách làm bánh trung thu tiramisu nhân mocha hạt sen phô mai đậm vị cacao",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20thumb%20to%20t8%20%2856%29.jpg"
+}

@@ -1,0 +1,109 @@
+{
+  "source_id": "04920",
+  "name": "Gỏi mực sả kiệu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ccd4506aabefb7f2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-muc-sa-kieu-va-khoai-mon-chien-gion-ngon-hap-dan-04920",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-muc-sa-kieu-va-khoai-mon-chien-gion-ngon-hap-dan-04920",
+  "servings_text": "Cho 2 - 3 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mực ống 300 gr",
+      "raw_name": "Mực ống",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Củ cải trắng 200 gr",
+      "raw_name": "Củ cải trắng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 100 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Củ kiệu 100 gr",
+      "raw_name": "Củ kiệu",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sả 2 nhánh",
+      "raw_name": "Sả",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt sừng 2 quả",
+      "raw_name": "Ớt sừng",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Giấm 1 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Rau răm 10 gr",
+      "raw_name": "Rau răm",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rượu nếp 1 muỗng canh",
+      "raw_name": "Rượu nếp",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gừng 5 lát",
+      "raw_name": "Gừng 5 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị 1 ít (Muối/ đường)",
+      "raw_name": "Gia vị",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ đường",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:02:48Z",
+  "page_title": "Cách làm gỏi mực sả kiệu và khoai môn chiên giòn ngon hấp dẫn",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookRecipe/Avatar/CachLamGoiMucSaKieu1200.jpg"
+}

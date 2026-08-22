@@ -1,0 +1,57 @@
+{
+  "source_id": "08798",
+  "name": "Sinh tố dưa gang sữa chua",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b7553fe8ef439242.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sinh-to-dua-gang-thanh-mat-dep-da-cuc-don-gian-tai-08798",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sinh-to-dua-gang-thanh-mat-dep-da-cuc-don-gian-tai-08798",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa gang 200 gr",
+      "raw_name": "Dưa gang",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa chua 1 hộp (100gr)",
+      "raw_name": "Sữa chua",
+      "quantity": 1,
+      "unit": "hộp",
+      "note": "100gr",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 1 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:03:07Z",
+  "page_title": "8 cách làm sinh tố dưa gang thanh mát, đẹp da cực đơn giản tại nhà",
+  "variant_index": 7,
+  "variant_count": 8,
+  "original_image_url": "https://cdn.tgdd.vn/2022/02/CookRecipe/Avatar/sinh-to-dua-gang-sua-chua-thumbnail.jpg"
+}

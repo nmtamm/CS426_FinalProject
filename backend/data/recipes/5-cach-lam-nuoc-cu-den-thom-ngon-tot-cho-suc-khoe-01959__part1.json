@@ -1,0 +1,49 @@
+{
+  "source_id": "01959",
+  "name": "Nước ép củ dền đường vàng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9100bc5213d46263.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/5-cach-lam-nuoc-cu-den-thom-ngon-tot-cho-suc-khoe-01959",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/5-cach-lam-nuoc-cu-den-thom-ngon-tot-cho-suc-khoe-01959",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Củ dền 3 củ",
+      "raw_name": "Củ dền",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường vàng 1 muỗng canh",
+      "raw_name": "Đường vàng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:56:08Z",
+  "page_title": "5 Cách làm nước ép củ dền bằng máy xay sinh tố thơm ngon tốt cho sức khỏe",
+  "variant_index": 1,
+  "variant_count": 5,
+  "original_image_url": "https://cdn.tgdd.vn/2022/02/CookRecipe/Avatar/nuoc-ep-cu-den-duong-vang-thumbnail.jpg"
+}

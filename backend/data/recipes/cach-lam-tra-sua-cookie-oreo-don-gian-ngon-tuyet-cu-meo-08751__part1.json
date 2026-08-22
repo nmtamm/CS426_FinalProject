@@ -1,0 +1,73 @@
+{
+  "source_id": "08751",
+  "name": "Trà sữa cookie oreo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9e513616eec1df4f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-sua-cookie-oreo-don-gian-ngon-tuyet-cu-meo-08751",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-sua-cookie-oreo-don-gian-ngon-tuyet-cu-meo-08751",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà sữa hòa tan 2 gói",
+      "raw_name": "Trà sữa hòa tan",
+      "quantity": 2,
+      "unit": "gói",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bánh oreo 3 cái (vị tùy thích)",
+      "raw_name": "Bánh oreo",
+      "quantity": 3,
+      "unit": "cái",
+      "note": "vị tùy thích",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Whipping cream 150 ml",
+      "raw_name": "Whipping cream",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bánh quế socola 2 cái",
+      "raw_name": "Bánh quế socola",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đá viên 180 gr",
+      "raw_name": "Đá viên",
+      "quantity": 180,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước ấm 40 ml",
+      "raw_name": "Nước ấm",
+      "quantity": 40,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:47:58Z",
+  "page_title": "2 cách làm trà sữa cookie béo mịn thơm ngon uống mê say",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/tra-sua-cookie-oreo-thumbnail.jpg"
+}

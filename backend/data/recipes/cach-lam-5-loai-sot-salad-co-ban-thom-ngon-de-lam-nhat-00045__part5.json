@@ -1,0 +1,73 @@
+{
+  "source_id": "00045",
+  "name": "Sốt kem bơ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/88ebc40c325a7d4f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-5-loai-sot-salad-co-ban-thom-ngon-de-lam-nhat-00045",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-5-loai-sot-salad-co-ban-thom-ngon-de-lam-nhat-00045",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    },
+    {
+      "slug": "meo-vao-bep",
+      "name": "Mẹo vào bếp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bơ 2 quả",
+      "raw_name": "Bơ",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa chua không đường 1 hộp",
+      "raw_name": "Sữa chua không đường",
+      "quantity": 1,
+      "unit": "hộp",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rau mùi 5 g",
+      "raw_name": "Rau mùi",
+      "quantity": 5,
+      "unit": "g",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ô liu 1 muỗng canh",
+      "raw_name": "Dầu ô liu",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Mật ong 1 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:03:05Z",
+  "page_title": "Cách làm 5 loại sốt salad cơ bản thơm ngon dễ làm nhất",
+  "variant_index": 5,
+  "variant_count": 5,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/sot-kem-bo-thumbnail.jpg"
+}

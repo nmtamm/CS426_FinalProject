@@ -1,0 +1,81 @@
+{
+  "source_id": "01295",
+  "name": "Gỏi gà măng cụt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/dcad61bf975910d5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-3-mon-an-ngon-tu-mang-cut-01295",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-3-mon-an-ngon-tu-mang-cut-01295",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    },
+    {
+      "slug": "mon-che",
+      "name": "Món chè"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà 500 gr",
+      "raw_name": "Gà",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Măng cụt 1 kg (vừa chín tới)",
+      "raw_name": "Măng cụt",
+      "quantity": 1,
+      "unit": "kg",
+      "note": "vừa chín tới",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rau răm và húng quế 50 gr",
+      "raw_name": "Rau răm và húng quế",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đậu phộng 100 gr",
+      "raw_name": "Đậu phộng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt 2 trái",
+      "raw_name": "Ớt",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Chanh 1 trái",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi 3 củ",
+      "raw_name": "Tỏi",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T17:50:07Z",
+  "page_title": "Cách làm 3 món từ măng cụt: Gỏi gà măng cụt, sinh tố măng cụt, chè măng cụt",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/goi-ga-mang-cut-thumbnail.jpg"
+}

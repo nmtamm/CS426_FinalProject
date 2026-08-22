@@ -1,0 +1,61 @@
+{
+  "source_id": "11955",
+  "name": "Nước ép bắp cải tím dưa leo lê",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e8c50ca79e5ebd24.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-bap-cai-bang-may-ep-cham-tot-cho-suc-khoe-11955",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-bap-cai-bang-may-ep-cham-tot-cho-suc-khoe-11955",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bắp cải tím 1 cây",
+      "raw_name": "Bắp cải tím",
+      "quantity": 1,
+      "unit": "cây",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dưa leo 2 trái",
+      "raw_name": "Dưa leo",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lê 2 trái",
+      "raw_name": "Lê",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chanh 1 trái",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:12:50Z",
+  "page_title": "5 cách làm nước ép bắp cải tím đơn giản thanh mát tốt cho sức khỏe tại nhà",
+  "variant_index": 3,
+  "variant_count": 5,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/nuoc-ep-bap-cai-tim-dua-leo-le-thumbnail.jpg"
+}

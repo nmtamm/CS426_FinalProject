@@ -1,0 +1,78 @@
+{
+  "source_id": "08897",
+  "name": "Trà mận hà nội",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8729430a7ba77b8b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-man-thanh-mat-dap-tan-con-khat-ngay-he-08897",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-man-thanh-mat-dap-tan-con-khat-ngay-he-08897",
+  "servings_text": "Cho 1 ly trà",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mận hà nội 1 kg",
+      "raw_name": "Mận hà nội",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 500 gr",
+      "raw_name": "Đường",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chanh 1/5 trái",
+      "raw_name": "Chanh",
+      "quantity": 0.2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chanh dây 2 trái",
+      "raw_name": "Chanh dây",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột năng 1/2 chén",
+      "raw_name": "Bột năng",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Trà túi lọc 1 gói",
+      "raw_name": "Trà túi lọc",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tắc 1 trái",
+      "raw_name": "Tắc",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:56:07Z",
+  "page_title": "2 cách làm trà mận Hà Nội (mận Bắc) thanh mát đập tan cơn khát ngày hè",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "Công thức từ tiktok Vào bếp cùng Điện máy XANH",
+  "original_image_url": "https://cdn.tgdd.vn/2023/05/CookRecipe/Avatar/tra-man-ha-noi-cong-thuc-tu-tiktok-vao-bep-cung-dien-may-xanh-thumbnail-1.jpg"
+}

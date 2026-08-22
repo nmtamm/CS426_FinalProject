@@ -1,0 +1,35 @@
+{
+  "source_id": "08863",
+  "name": "Cocktail Godfather (Bố Già)",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bbc4037af92ac389.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-cocktail-godfather-bo-gia-loi-cuon-cho-nguoi-dan-ong-08863",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-cocktail-godfather-bo-gia-loi-cuon-cho-nguoi-dan-ong-08863",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rượu Scotch Whisky 45 ml",
+      "raw_name": "Rượu Scotch Whisky",
+      "quantity": 45,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rượu Amaretto 30 ml",
+      "raw_name": "Rượu Amaretto",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T20:06:18Z",
+  "page_title": "Cách pha Cocktail Godfather (Bố Già) lôi cuốn cho người đàn ông quyền lực",
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookProduct/1200-1200x676-6.jpg"
+}

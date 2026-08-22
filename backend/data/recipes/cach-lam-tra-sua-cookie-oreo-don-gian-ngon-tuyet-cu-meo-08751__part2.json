@@ -1,0 +1,97 @@
+{
+  "source_id": "08751",
+  "name": "Trà sữa sốt cookie oreo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c2c88983d6173dc1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-sua-cookie-oreo-don-gian-ngon-tuyet-cu-meo-08751",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-sua-cookie-oreo-don-gian-ngon-tuyet-cu-meo-08751",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lục trà lài 30 gr",
+      "raw_name": "Lục trà lài",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trà đen 70 gr",
+      "raw_name": "Trà đen",
+      "quantity": 70,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bánh oreo 3 cái",
+      "raw_name": "Bánh oreo",
+      "quantity": 3,
+      "unit": "cái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột béo 400 gr",
+      "raw_name": "Bột béo",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sữa đặc 300 gr",
+      "raw_name": "Sữa đặc",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước đường 10 ml",
+      "raw_name": "Nước đường",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước sôi 2.3 lít",
+      "raw_name": "Nước sôi 2.3 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đá viên 700 gr",
+      "raw_name": "Đá viên",
+      "quantity": 700,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:47:58Z",
+  "page_title": "2 cách làm trà sữa cookie béo mịn thơm ngon uống mê say",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/tra-sua-sot-cookie-oreo-thumbnail-1.jpg"
+}

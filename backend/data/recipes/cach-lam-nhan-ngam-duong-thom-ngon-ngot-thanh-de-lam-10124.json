@@ -1,0 +1,35 @@
+{
+  "source_id": "10124",
+  "name": "Nhãn ngâm đường",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/72c0bf77146710a8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nhan-ngam-duong-thom-ngon-ngot-thanh-de-lam-10124",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nhan-ngam-duong-thom-ngon-ngot-thanh-de-lam-10124",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nhãn 2 kg",
+      "raw_name": "Nhãn",
+      "quantity": 2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 300 gr",
+      "raw_name": "Đường",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:54:31Z",
+  "page_title": "Cách làm nhãn ngâm đường thơm ngon ngọt thanh dễ làm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookProduct/rv-1200x676.jpg"
+}

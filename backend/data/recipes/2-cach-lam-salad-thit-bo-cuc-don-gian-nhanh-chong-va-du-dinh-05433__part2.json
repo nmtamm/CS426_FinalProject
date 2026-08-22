@@ -1,0 +1,141 @@
+{
+  "source_id": "05433",
+  "name": "Salad thịt bò rau củ nướng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ae51fb8f16ea4cef.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-salad-thit-bo-cuc-don-gian-nhanh-chong-va-du-dinh-05433",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-salad-thit-bo-cuc-don-gian-nhanh-chong-va-du-dinh-05433",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt thăn bò 560 gr",
+      "raw_name": "Thịt thăn bò",
+      "quantity": 560,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hạt óc chó nướng 50 gr (cắt nhỏ)",
+      "raw_name": "Hạt óc chó nướng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "cắt nhỏ",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà chua bi 280 gr",
+      "raw_name": "Cà chua bi",
+      "quantity": 280,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Xà lách 300 gr",
+      "raw_name": "Xà lách",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Phô mai Gorgonzola 56 gr",
+      "raw_name": "Phô mai Gorgonzola",
+      "quantity": 56,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tây 1/2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tím 3 củ",
+      "raw_name": "Hành tím",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Sốt Worcestershire 1/2 muỗng cà phê",
+      "raw_name": "Sốt Worcestershire",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Mù tạt Dijon 1 muỗng canh (hoặc mù tạt vàng)",
+      "raw_name": "Mù tạt Dijon",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "hoặc mù tạt vàng",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Mật ong 1 muỗng cà phê",
+      "raw_name": "Mật ong",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu oliu 2 muỗng canh",
+      "raw_name": "Dầu oliu",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Giấm rượu vang 60 ml",
+      "raw_name": "Giấm rượu vang",
+      "quantity": 60,
+      "unit": "ml",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu oliu 1 ít",
+      "raw_name": "Dầu oliu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Tiêu 1 ít",
+      "raw_name": "Tiêu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T17:54:23Z",
+  "page_title": "3 cách làm salad thịt bò cực đơn giản, nhanh chóng và đủ dinh dưỡng",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookRecipe/Avatar/salad-thịt-bò-rau-củ-nuóng-thumbnail.jpg"
+}

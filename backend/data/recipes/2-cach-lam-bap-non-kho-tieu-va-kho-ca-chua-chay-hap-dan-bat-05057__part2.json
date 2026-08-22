@@ -1,0 +1,97 @@
+{
+  "source_id": "05057",
+  "name": "Bắp non kho cà chua",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/cd18157a9dbfd0db.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-bap-non-kho-tieu-va-kho-ca-chua-chay-hap-dan-bat-05057",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-bap-non-kho-tieu-va-kho-ca-chua-chay-hap-dan-bat-05057",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-kho",
+      "name": "Món kho"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bắp non 200 gr",
+      "raw_name": "Bắp non",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà chua 1 quả",
+      "raw_name": "Cà chua",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dưa leo 1/2 trái (trang trí)",
+      "raw_name": "Dưa leo",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": "trang trí",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hạt nêm chay 2 muỗng cà phê",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước mắm chay 1 muỗng canh",
+      "raw_name": "Nước mắm chay",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt bột 1 muỗng cà phê",
+      "raw_name": "Ớt bột",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:39:33Z",
+  "page_title": "2 Cách làm bắp non kho tiêu và kho cà chua chay hấp dẫn bắt cơm",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookRecipe/Avatar/bap-non-kho-ca-chua-thumbnail.jpg"
+}

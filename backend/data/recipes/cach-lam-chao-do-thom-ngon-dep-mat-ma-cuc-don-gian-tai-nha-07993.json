@@ -1,0 +1,59 @@
+{
+  "source_id": "07993",
+  "name": "Chao đỏ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/24db2a1ed55296e3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chao-do-thom-ngon-dep-mat-ma-cuc-don-gian-tai-nha-07993",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chao-do-thom-ngon-dep-mat-ma-cuc-don-gian-tai-nha-07993",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu phụ 4 miếng",
+      "raw_name": "Đậu phụ 4 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rượu vodka 100 ml",
+      "raw_name": "Rượu vodka",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt tươi 1 muỗng canh (băm nhuyễn)",
+      "raw_name": "Ớt tươi",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "băm nhuyễn",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt bột 1 muỗng canh",
+      "raw_name": "Ớt bột",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 4 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T18:50:15Z",
+  "page_title": "Cách làm chao đỏ thơm ngon đẹp mắt mà cực đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/HuongdancachlammonCHAODOFeedyTV0-3screenshot(1)-1200x676.jpg"
+}

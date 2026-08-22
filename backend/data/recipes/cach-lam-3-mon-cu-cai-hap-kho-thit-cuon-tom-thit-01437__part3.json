@@ -1,0 +1,81 @@
+{
+  "source_id": "01437",
+  "name": "Củ cải cuốn tôm thịt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1d91d11b12632f6a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-3-mon-cu-cai-hap-kho-thit-cuon-tom-thit-01437",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-3-mon-cu-cai-hap-kho-thit-cuon-tom-thit-01437",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cải trắng 1/2 củ",
+      "raw_name": "Cải trắng",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt nạc vai 100 gram",
+      "raw_name": "Thịt nạc vai 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tôm 100 gram",
+      "raw_name": "Tôm 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 50 gram",
+      "raw_name": "Cà rốt 50 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gừng 1 nhánh",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành lá 1 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt đỏ 1 quả",
+      "raw_name": "Ớt đỏ",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:36:45Z",
+  "page_title": "Cách làm 3 món ngon củ cải hấp, củ cải kho thịt, củ cải cuốn tôm thịt",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookRecipe/Avatar/cu-cai-cuon-tom-thit-thumbnail.jpg"
+}

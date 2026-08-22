@@ -1,0 +1,69 @@
+{
+  "source_id": "02198",
+  "name": "Snack chuối mật ong",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/24c98baf671527b9.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-snack-chuoi-thom-ngon-gion-tan-de-lam-c-02198",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-snack-chuoi-thom-ngon-gion-tan-de-lam-c-02198",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chuối xanh 5 quả",
+      "raw_name": "Chuối xanh",
+      "quantity": 5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mật ong 30 gr",
+      "raw_name": "Mật ong",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mè trắng rang 5 gr",
+      "raw_name": "Mè trắng rang",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bơ lạt 10 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 100 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:07:22Z",
+  "page_title": "4 cách làm snack chuối thơm ngon giòn tan dễ làm cho trẻ",
+  "variant_index": 2,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookRecipe/Avatar/snack-chuoi-mat-ong-thumbnail-1.jpg"
+}

@@ -1,0 +1,45 @@
+{
+  "source_id": "12935",
+  "name": "Cà phê sữa đá",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b084d4f2e8338e33.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-ca-phe-sua-da-thom-ngon-dung-dieu-ma-ban-nen-biet-12935",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-ca-phe-sua-da-thom-ngon-dung-dieu-ma-ban-nen-biet-12935",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột cà phê nguyên chất 200 gr (bột cà phê pha phin)",
+      "raw_name": "Bột cà phê nguyên chất",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "bột cà phê pha phin",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa đặc 40 ml (định lượng dùng pha 1 ly cà phê)",
+      "raw_name": "Sữa đặc",
+      "quantity": 40,
+      "unit": "ml",
+      "note": "định lượng dùng pha 1 ly cà phê",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước sôi 460 ml",
+      "raw_name": "Nước sôi",
+      "quantity": 460,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T20:04:28Z",
+  "page_title": "2 Cách pha cà phê sữa đá thơm ngon đúng điệu mà bạn nên biết",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/ca-phe-sua-da-thumbnail.jpg"
+}

@@ -1,0 +1,65 @@
+{
+  "source_id": "01006",
+  "name": "Sinh tố chuối cam",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/98ea4e3da5bc224d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/sinh-to-chuoi-bo-duong-dep-da-01006",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/sinh-to-chuoi-bo-duong-dep-da-01006",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chuối 2 trái",
+      "raw_name": "Chuối",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cam 1 trái",
+      "raw_name": "Cam",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa hạnh nhân 120 ml",
+      "raw_name": "Sữa hạnh nhân",
+      "quantity": 120,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa chua 60 ml",
+      "raw_name": "Sữa chua",
+      "quantity": 60,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cam 60 ml",
+      "raw_name": "Nước cam",
+      "quantity": 60,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:57:41Z",
+  "page_title": "12 Cách làm sinh tố chuối bổ dưỡng, đẹp da, dễ uống chỉ 5 phút",
+  "variant_index": 4,
+  "variant_count": 12,
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookRecipe/Avatar/sinh-to-chuoi-cam-thumbnail.jpg"
+}

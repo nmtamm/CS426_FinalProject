@@ -1,0 +1,107 @@
+{
+  "source_id": "02239",
+  "name": "Bánh tráng trộn chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/175c159e4b2eeebe.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trang-tron-chay-an-vat-ngon-gay-nghien-02239",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trang-tron-chay-an-vat-ngon-gay-nghien-02239",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh tráng 200 gr",
+      "raw_name": "Bánh tráng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xoài xanh 200 gr",
+      "raw_name": "Xoài xanh",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu hũ trắng 70 gr",
+      "raw_name": "Đậu hũ trắng",
+      "quantity": 70,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tàu hũ ky 10 gr",
+      "raw_name": "Tàu hũ ky",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tím 100 gr",
+      "raw_name": "Hành tím",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đậu phộng rang 50 gr",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Rau răm 10 gr",
+      "raw_name": "Rau răm",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt 2 trái",
+      "raw_name": "Ớt",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Sa tế 1 muỗng",
+      "raw_name": "Sa tế",
+      "quantity": 1,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Muối tỏi sấy khô 1 muỗng",
+      "raw_name": "Muối tỏi sấy khô",
+      "quantity": 1,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu màu điều 1 muỗng canh",
+      "raw_name": "Dầu màu điều",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:42:40Z",
+  "page_title": "Cách làm bánh tráng trộn chay ăn vặt ngon gây nghiện",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/04/29/1252553/cach-lam-banh-trang-tron-chay-an-vat-ngon-gay-nghi-2-760x367.jpg"
+}

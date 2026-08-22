@@ -1,0 +1,73 @@
+{
+  "source_id": "24222",
+  "name": "Nước tương tiêu của Jun Phạm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b0879d31cbb4914a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-pha-nuoc-tuong-an-bun-toi-ot-chua-ngot-va-nuoc-tuong-24222",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-pha-nuoc-tuong-an-bun-toi-ot-chua-ngot-va-nuoc-tuong-24222",
+  "servings_text": "Cho 3 - 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nước tương 1 chén",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước lọc 1 chén",
+      "raw_name": "Nước lọc",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 3 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột ngọt 1 muỗng cà phê",
+      "raw_name": "Bột ngọt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị 1 ít (tiêu xay/ tỏi băm/ ớt)",
+      "raw_name": "Gia vị",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "tiêu xay/ tỏi băm/ ớt",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:34:23Z",
+  "page_title": "2 cách pha nước tương ăn bún tỏi ớt chua ngọt và nước tương tiêu cực ngon",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2026/03/CookRecipe/Avatar/nuoc-tuong-tieu-an-bun-cua-jun-pham-thumbnail.jpg"
+}

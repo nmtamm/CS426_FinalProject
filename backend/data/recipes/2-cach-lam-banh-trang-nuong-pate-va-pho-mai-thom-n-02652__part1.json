@@ -1,0 +1,121 @@
+{
+  "source_id": "02652",
+  "name": "Bánh tráng nướng pate",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/dd021525fbe49f47.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-trang-nuong-pate-va-pho-mai-thom-n-02652",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-trang-nuong-pate-va-pho-mai-thom-n-02652",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hành tím 20 g",
+      "raw_name": "Hành tím",
+      "quantity": 20,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành lá 30 g",
+      "raw_name": "Hành lá",
+      "quantity": 30,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Xúc xích 1 cây",
+      "raw_name": "Xúc xích",
+      "quantity": 1,
+      "unit": "cây",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sa tế 30 g",
+      "raw_name": "Sa tế",
+      "quantity": 30,
+      "unit": "g",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 1 thìa canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu hào 1 thìa canh",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Patê 200 g",
+      "raw_name": "Patê",
+      "quantity": 200,
+      "unit": "g",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Chà bông heo 200 g",
+      "raw_name": "Chà bông heo",
+      "quantity": 200,
+      "unit": "g",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hành phi 100 g",
+      "raw_name": "Hành phi",
+      "quantity": 100,
+      "unit": "g",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 200 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Trứng gà 3 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Bánh trán g 200 g (1 xấp)",
+      "raw_name": "Bánh trán g",
+      "quantity": 200,
+      "unit": "g",
+      "note": "1 xấp",
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T19:27:06Z",
+  "page_title": "2 cách làm bánh tráng nướng pate và phô mai thơm ngon, giòn rụm",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/banh-trang-nuong-pate-thumbnail.jpg"
+}

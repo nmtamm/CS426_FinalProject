@@ -1,0 +1,51 @@
+{
+  "source_id": "12642",
+  "name": "Nước cam nha đam",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7f304a7528f91d7d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-cam-nha-dam-thanh-mat-giai-nhiet-co-the-12642",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-cam-nha-dam-thanh-mat-giai-nhiet-co-the-12642",
+  "servings_text": "Cho 2 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cam sành 4 quả",
+      "raw_name": "Cam sành",
+      "quantity": 4,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nha đam 1 miếng",
+      "raw_name": "Nha đam 1 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chanh 1/2 quả",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường/ muối 1 ít",
+      "raw_name": "Đường/ muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:00:43Z",
+  "page_title": "Cách làm nước cam nha đam thanh mát, giải nhiệt cơ thể",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/🌿MTVV🌿--CACH-LAM-NUOC-NHA-DAM-CAM-TUOI-MAT-KHOE-DEP-HAI-NHA-DAM-CAM-CHANH-TAI-VUON-NHA-DE-LAM-0-7-screenshot-1200x676.jpg"
+}

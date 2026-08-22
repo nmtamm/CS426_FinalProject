@@ -1,0 +1,75 @@
+{
+  "source_id": "00434",
+  "name": "Thịt kho tàu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/21d912598821b160.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-kho-tau-thom-ngon-00434",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-kho-tau-thom-ngon-00434",
+  "servings_text": "Cho 6 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt ba chỉ hay thịt chân giò 500 gr",
+      "raw_name": "Thịt ba chỉ hay thịt chân giò",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng vịt luộc 5 quả",
+      "raw_name": "Trứng vịt luộc",
+      "quantity": 5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước dừa 400 ml",
+      "raw_name": "Nước dừa",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành băm 1 muỗng canh",
+      "raw_name": "Hành băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước mắm 3 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Đường/ hạt nêm/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Đường/ hạt nêm/ tiêu xay",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:38:25Z",
+  "page_title": "Chi tiết cách làm thịt kho Tàu thơm ngon đúng vị, thịt mềm béo ngậy",
+  "original_image_url": "https://cdn.tgdd.vn/2022/01/CookDish/cach-lam-thit-kho-tau-thom-ngon-avt-1200x676.jpg"
+}

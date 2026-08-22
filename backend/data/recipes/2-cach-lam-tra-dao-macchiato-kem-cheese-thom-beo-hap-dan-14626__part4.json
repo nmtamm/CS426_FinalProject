@@ -1,0 +1,78 @@
+{
+  "source_id": "14626",
+  "name": "Trà đào kem cheese",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/22499d9849fe5bc9.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-dao-macchiato-kem-cheese-thom-beo-hap-dan-14626",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-dao-macchiato-kem-cheese-thom-beo-hap-dan-14626",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà đen túi lọc Lipton 1 gói (hoặc 1 gói trà đào túi lọc)",
+      "raw_name": "Trà đen túi lọc Lipton",
+      "quantity": 1,
+      "unit": "gói",
+      "note": "hoặc 1 gói trà đào túi lọc",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Siro đào 20 ml",
+      "raw_name": "Siro đào",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Kem cheese 50 gr",
+      "raw_name": "Kem cheese",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường cát trắng 15 gr",
+      "raw_name": "Đường cát trắng",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cốt chanh 15 ml",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 15,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước nóng 100 ml (90 độ C)",
+      "raw_name": "Nước nóng",
+      "quantity": 100,
+      "unit": "ml",
+      "note": "90 độ C",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:53:56Z",
+  "page_title": "3 Cách làm trà đào macchiato và kem cheese thơm béo hấp dẫn",
+  "variant_index": 4,
+  "variant_count": 4,
+  "note": "Công thức được chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2022/04/CookRecipe/Avatar/tra-dao-kem-cheese-cong-thuc-duoc-chia-se-tu-nguoi-dung-thumbnail-2.jpg"
+}

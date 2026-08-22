@@ -1,0 +1,59 @@
+{
+  "source_id": "01522",
+  "name": "Cà phê trứng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d06dabb5c85d2271.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-cafe-trung-ngon-bo-re-cho-ngay-dong-am-ap-01522",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-cafe-trung-ngon-bo-re-cho-ngay-dong-am-ap-01522",
+  "servings_text": "Cho 2 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột cà phê pha phin 15 gr",
+      "raw_name": "Bột cà phê pha phin",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa đặc 25 ml",
+      "raw_name": "Sữa đặc",
+      "quantity": 25,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mật ong 5 ml",
+      "raw_name": "Mật ong",
+      "quantity": 5,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước nóng 70 ml (90°C)",
+      "raw_name": "Nước nóng",
+      "quantity": 70,
+      "unit": "ml",
+      "note": "90°C",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:04:25Z",
+  "page_title": "Cách làm cà phê trứng thơm ngon, đúng chuẩn thử là mê",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookDish/cach-pha-cafe-trung-ngon-bo-re-cho-ngay-dong-am-ap-avt-1200x676.jpg"
+}

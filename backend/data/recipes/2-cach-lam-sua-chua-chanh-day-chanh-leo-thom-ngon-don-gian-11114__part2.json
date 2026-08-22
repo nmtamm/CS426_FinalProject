@@ -1,0 +1,69 @@
+{
+  "source_id": "11114",
+  "name": "Sữa chua chanh dây (chanh leo) bịch",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6b1dff6e290217f0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sua-chua-chanh-day-chanh-leo-thom-ngon-don-gian-11114",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sua-chua-chanh-day-chanh-leo-thom-ngon-don-gian-11114",
+  "servings_text": "Cho 8 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sữa chua 2 hộp",
+      "raw_name": "Sữa chua",
+      "quantity": 2,
+      "unit": "hộp",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chanh dây 8 quả",
+      "raw_name": "Chanh dây",
+      "quantity": 8,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đặc 400 gr",
+      "raw_name": "Sữa đặc",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 250 gr",
+      "raw_name": "Đường",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sữa tươi có đường 1.1 lít",
+      "raw_name": "Sữa tươi có đường 1.1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước 1 lít",
+      "raw_name": "Nước 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:55:01Z",
+  "page_title": "2 cách làm sữa chua chanh dây (chanh leo) thơm ngon, đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookRecipe/Avatar/sua-chua-chanh-day-chanh-leo-bich-thumbnail-1.jpg"
+}

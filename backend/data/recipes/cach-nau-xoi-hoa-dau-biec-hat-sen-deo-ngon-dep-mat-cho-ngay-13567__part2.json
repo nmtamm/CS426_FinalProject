@@ -1,0 +1,62 @@
+{
+  "source_id": "13567",
+  "name": "Xôi hoa đậu biếc hạt sen",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c000ff0d11765d6f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-xoi-hoa-dau-biec-hat-sen-deo-ngon-dep-mat-cho-ngay-13567",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-xoi-hoa-dau-biec-hat-sen-deo-ngon-dep-mat-cho-ngay-13567",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gạo nếp cái hoa vàng 1.5 chén",
+      "raw_name": "Gạo nếp cái hoa vàng",
+      "quantity": 1.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hạt sen tươi 100 gr",
+      "raw_name": "Hạt sen tươi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hoa đậu biếc phơi khô 2 gr",
+      "raw_name": "Hoa đậu biếc phơi khô",
+      "quantity": 2,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước cốt dừa 50 ml (hoặc nước dừa lon)",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 50,
+      "unit": "ml",
+      "note": "hoặc nước dừa lon",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối ăn 1/3 muỗng cà phê",
+      "raw_name": "Muối ăn",
+      "quantity": 0.333,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:34:56Z",
+  "page_title": "2 cách nấu xôi hoa đậu biếc hạt sen dẻo ngon đẹp mắt cực đơn giản",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "Công thức được chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2022/06/CookRecipe/Avatar/xoi-hoa-dau-biec-hat-sen-cong-thuc-duoc-chia-se-tu-nguoi-dung-thumbnail.jpg"
+}

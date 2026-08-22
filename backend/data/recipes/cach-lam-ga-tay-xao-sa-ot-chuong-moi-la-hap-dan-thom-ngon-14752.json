@@ -1,0 +1,111 @@
+{
+  "source_id": "14752",
+  "name": "Gà tây xào sả ớt chuông",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/08f2a3701f290961.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-tay-xao-sa-ot-chuong-moi-la-hap-dan-thom-ngon-14752",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-tay-xao-sa-ot-chuong-moi-la-hap-dan-thom-ngon-14752",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt gà tây xay 400 gr",
+      "raw_name": "Thịt gà tây xay",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sả băm 2 muỗng canh",
+      "raw_name": "Sả băm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt chuông cắt hạt lựu 50 gr",
+      "raw_name": "Ớt chuông cắt hạt lựu",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tây cắt hạt lựu 100 gr",
+      "raw_name": "Hành tây cắt hạt lựu",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi cắt nhỏ 3 tép",
+      "raw_name": "Tỏi cắt nhỏ 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành lá cắt khúc 3 cây",
+      "raw_name": "Hành lá cắt khúc",
+      "quantity": 3,
+      "unit": "cây",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hắc xì dầu 2 muỗng canh",
+      "raw_name": "Hắc xì dầu",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường nâu 2 muỗng canh",
+      "raw_name": "Đường nâu",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Tiêu xay 1 ít",
+      "raw_name": "Tiêu xay",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:17:58Z",
+  "page_title": "Cách làm gà tây xào sả ớt chuông mới lạ hấp dẫn thơm ngon",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-ga-tay-xao-sa-ot-chuong-moi-la-hap-dan-thom-ngon-avt-1200x676.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "source_id": "22888",
+  "name": "Sữa hạt lanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/55d8a1e79e051daf.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-sua-hat-lanh-ngon-bo-duong-de-thuc-hien-tai-nha-22888",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-sua-hat-lanh-ngon-bo-duong-de-thuc-hien-tai-nha-22888",
+  "servings_text": "Cho khoảng 900ml sữa",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hạt lanh 65 gr",
+      "raw_name": "Hạt lanh",
+      "quantity": 65,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước 1 lít",
+      "raw_name": "Nước 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:51:41Z",
+  "page_title": "4 cách làm sữa hạt lanh ngon, bổ dưỡng, dễ thực hiện tại nhà với máy xay",
+  "variant_index": 1,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2025/06/CookRecipe/Avatar/sua-hat-lanh-thumbnail.jpg"
+}

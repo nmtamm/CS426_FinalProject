@@ -1,0 +1,35 @@
+{
+  "source_id": "02347",
+  "name": "Măng khô",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/07297a65c8df938f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mang-kho-tu-mang-tuoi-don-gian-thom-ngon-vang-dep-02347",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mang-kho-tu-mang-tuoi-don-gian-thom-ngon-vang-dep-02347",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Măng tươi 2 kg",
+      "raw_name": "Măng tươi",
+      "quantity": 2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối 2 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T20:29:30Z",
+  "page_title": "Cách làm măng khô từ măng tươi đơn giản, thơm ngon, vàng đẹp ngay tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/05/10/1254768/cach-lam-mang-kho-tu-mang-tuoi-don-gian-thom-ngon-13-760x367.jpg"
+}

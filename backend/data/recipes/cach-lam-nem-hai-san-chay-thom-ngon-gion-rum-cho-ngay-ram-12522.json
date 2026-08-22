@@ -1,0 +1,111 @@
+{
+  "source_id": "12522",
+  "name": "Nem hải sản chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ff6e753a1928bfb0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nem-hai-san-chay-thom-ngon-gion-rum-cho-ngay-ram-12522",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nem-hai-san-chay-thom-ngon-gion-rum-cho-ngay-ram-12522",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu hũ trắng 1 miếng",
+      "raw_name": "Đậu hũ trắng 1 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm hải sản 300 gr (1 gói)",
+      "raw_name": "Nấm hải sản",
+      "quantity": 300,
+      "unit": "gr",
+      "note": "1 gói",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cơm dừa bào sợi 50 gr",
+      "raw_name": "Cơm dừa bào sợi",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bánh tráng bò bía 1 gói",
+      "raw_name": "Bánh tráng bò bía",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột chiên giòn 1/2 gói (gói nhỏ)",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 0.5,
+      "unit": "gói",
+      "note": "gói nhỏ",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột chiên xù 1 gói (gói nhỏ)",
+      "raw_name": "Bột chiên xù",
+      "quantity": 1,
+      "unit": "gói",
+      "note": "gói nhỏ",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ngò rí 50 gr",
+      "raw_name": "Ngò rí",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Mè trắng 1 muỗng cà phê",
+      "raw_name": "Mè trắng",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ hạt nêm/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ hạt nêm/ tiêu xay",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu ăn 325 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 325,
+      "unit": "ml",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:36:18Z",
+  "page_title": "Cách làm nem hải sản chay thơm ngon giòn rụm cho ngày Rằm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/thum1200-1200x676-7.jpg"
+}

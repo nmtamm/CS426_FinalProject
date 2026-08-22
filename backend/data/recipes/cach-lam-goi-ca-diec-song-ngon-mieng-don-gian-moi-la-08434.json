@@ -1,0 +1,123 @@
+{
+  "source_id": "08434",
+  "name": "Gỏi cá diếc sống",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/98171b9de5254094.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-ca-diec-song-ngon-mieng-don-gian-moi-la-08434",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-ca-diec-song-ngon-mieng-don-gian-moi-la-08434",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cá diếc 1 kg",
+      "raw_name": "Cá diếc",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cơm nguội 500 gr (đã được phơi khô)",
+      "raw_name": "Cơm nguội",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "đã được phơi khô",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Riềng xay 200 gr",
+      "raw_name": "Riềng xay",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt 4 trái",
+      "raw_name": "Ớt",
+      "quantity": 4,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sả 3 cây",
+      "raw_name": "Sả",
+      "quantity": 3,
+      "unit": "cây",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tím 5 củ",
+      "raw_name": "Hành tím",
+      "quantity": 5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Rau sống các loại 100 gr",
+      "raw_name": "Rau sống các loại",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Cơm mẻ 200 gr",
+      "raw_name": "Cơm mẻ",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bơ 1 muỗng canh",
+      "raw_name": "Bơ",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ bột ngọt",
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T17:55:13Z",
+  "page_title": "Cách làm gỏi cá diếc sống ngon miệng đơn giản mới lạ",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/0-1200x676-14.jpg"
+}

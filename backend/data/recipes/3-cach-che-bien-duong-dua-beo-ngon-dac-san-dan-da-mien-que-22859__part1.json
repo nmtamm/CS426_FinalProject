@@ -1,0 +1,65 @@
+{
+  "source_id": "22859",
+  "name": "Đuông dừa ngâm nước mắm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e38eb5739155c110.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-che-bien-duong-dua-beo-ngon-dac-san-dan-da-mien-que-22859",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-che-bien-duong-dua-beo-ngon-dac-san-dan-da-mien-que-22859",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đuông dừa 1 ít",
+      "raw_name": "Đuông dừa",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước mắm/ đường 1 ít",
+      "raw_name": "Nước mắm/ đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá dứa 5 cái",
+      "raw_name": "Lá dứa",
+      "quantity": 5,
+      "unit": "cái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi/ ớt/ ngò gai/ tắc 1 ít",
+      "raw_name": "Tỏi/ ớt/ ngò gai/ tắc",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sữa tươi 1 hộp (tùy ý)",
+      "raw_name": "Sữa tươi",
+      "quantity": 1,
+      "unit": "hộp",
+      "note": "tùy ý",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:27:13Z",
+  "page_title": "3 cách chế biến đuông dừa béo ngon, đặc sản dân dã miền quê với chảo",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2025/06/CookRecipe/Avatar/duong-dua-ngam-nuoc-mam-thumbnail.jpg"
+}

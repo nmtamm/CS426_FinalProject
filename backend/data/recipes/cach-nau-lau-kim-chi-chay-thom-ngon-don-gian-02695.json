@@ -1,0 +1,139 @@
+{
+  "source_id": "02695",
+  "name": "Lẩu kim chi chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f927924a19b584f6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-lau-kim-chi-chay-thom-ngon-don-gian-02695",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-lau-kim-chi-chay-thom-ngon-don-gian-02695",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Củ sắn 1 củ (dành cho phần nước lẩu)",
+      "raw_name": "Củ sắn",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "dành cho phần nước lẩu",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Củ cải trắng 1 củ (dành cho phần nước lẩu)",
+      "raw_name": "Củ cải trắng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "dành cho phần nước lẩu",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bắp Mỹ 1 trái (dành cho phần nước lẩu)",
+      "raw_name": "Bắp Mỹ",
+      "quantity": 1,
+      "unit": "trái",
+      "note": "dành cho phần nước lẩu",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột ớt Hàn Quốc 2 muỗng canh (dành cho phần nước lẩu)",
+      "raw_name": "Bột ớt Hàn Quốc",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "dành cho phần nước lẩu",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng canh (dành cho phần nước lẩu)",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "dành cho phần nước lẩu",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Kim chi cải thảo 200 gr",
+      "raw_name": "Kim chi cải thảo",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nấm kim châm 200 gr",
+      "raw_name": "Nấm kim châm",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nấm hương 200 gr",
+      "raw_name": "Nấm hương",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Cải thảo 200 gr",
+      "raw_name": "Cải thảo",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đậu hũ non 200 gr",
+      "raw_name": "Đậu hũ non",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Hẹ 100 gr",
+      "raw_name": "Hẹ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Đậu hũ chiên sẵn 100 gr",
+      "raw_name": "Đậu hũ chiên sẵn",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Củ cải đỏ Radish 3 củ",
+      "raw_name": "Củ cải đỏ Radish",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Gia vị chay 10 gr (các gia vị thông dụng)",
+      "raw_name": "Gia vị chay",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "các gia vị thông dụng",
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T18:42:51Z",
+  "page_title": "Cách nấu lẩu kim chi chay thơm ngon, đơn giản cho ngày mưa ấm lòng",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/06/04/1260754/cach-nau-lau-kim-chi-chay-thom-ngon-don-gian-cho--8-760x367.jpg"
+}

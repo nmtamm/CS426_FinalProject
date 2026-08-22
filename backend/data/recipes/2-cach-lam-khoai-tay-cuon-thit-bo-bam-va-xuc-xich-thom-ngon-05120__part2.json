@@ -1,0 +1,113 @@
+{
+  "source_id": "05120",
+  "name": "Khoai tây cuộn xúc xích",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8a90bb6a57947023.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-khoai-tay-cuon-thit-bo-bam-va-xuc-xich-thom-ngon-05120",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-khoai-tay-cuon-thit-bo-bam-va-xuc-xich-thom-ngon-05120",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai tây 4 củ",
+      "raw_name": "Khoai tây",
+      "quantity": 4,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xúc xích pepperoni 588 gr",
+      "raw_name": "Xúc xích pepperoni",
+      "quantity": 588,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Phô mai parmesan bào 220 gr",
+      "raw_name": "Phô mai parmesan bào",
+      "quantity": 220,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Phô mai mozzarella bào sợi 100 gr",
+      "raw_name": "Phô mai mozzarella bào sợi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cải bó xôi 300 gr",
+      "raw_name": "Cải bó xôi",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Cream cheese 100 gr",
+      "raw_name": "Cream cheese",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ô liu 2 muỗng canh",
+      "raw_name": "Dầu ô liu",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Mùi tây 4 muỗng canh",
+      "raw_name": "Mùi tây",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột tỏi 1 muỗng canh",
+      "raw_name": "Bột tỏi",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Muối 3 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Tiêu 1/2 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T20:37:25Z",
+  "page_title": "2 cách làm khoai tây cuộn thịt bò bằm và xúc xích thơm ngon, hấp dẫn",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookRecipe/Avatar/khoai-tay-cuon-xuc-xich-thumbnail.jpg"
+}

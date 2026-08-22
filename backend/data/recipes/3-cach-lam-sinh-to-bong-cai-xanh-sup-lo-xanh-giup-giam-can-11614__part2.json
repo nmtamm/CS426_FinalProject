@@ -1,0 +1,77 @@
+{
+  "source_id": "11614",
+  "name": "Sinh tố bông cải xanh chuối nho táo xanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ba29ed02ed6ddcf7.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sinh-to-bong-cai-xanh-sup-lo-xanh-giup-giam-can-11614",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sinh-to-bong-cai-xanh-sup-lo-xanh-giup-giam-can-11614",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bông cải xanh 90 gr",
+      "raw_name": "Bông cải xanh",
+      "quantity": 90,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chuối 1 quả",
+      "raw_name": "Chuối",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Táo xanh 1 quả",
+      "raw_name": "Táo xanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nho xanh 100 gr",
+      "raw_name": "Nho xanh",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sữa chua 200 ml (1 hộp)",
+      "raw_name": "Sữa chua",
+      "quantity": 200,
+      "unit": "ml",
+      "note": "1 hộp",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sữa tươi 125 ml",
+      "raw_name": "Sữa tươi",
+      "quantity": 125,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:08:38Z",
+  "page_title": "3 cách làm sinh tố bông cải xanh (súp lơ xanh) giúp giảm cân hiệu quả",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/sinh-to-bong-cai-xanh-chuoi-nho-tao-xanh-thumbnail-2.jpg"
+}

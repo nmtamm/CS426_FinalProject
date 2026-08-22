@@ -1,0 +1,105 @@
+{
+  "source_id": "04097",
+  "name": "Bánh Trung Thu socola nhân dừa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9d899c303d41b0d1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-cacao-thom-ngon-don-gian-la-mieng-04097",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-cacao-thom-ngon-don-gian-la-mieng-04097",
+  "servings_text": "Cho 8 cái bánh 200gr",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì đa dụng 450 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 450,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột bánh dẻo 50 gr",
+      "raw_name": "Bột bánh dẻo",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột socola 50 gr",
+      "raw_name": "Bột socola",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước đường bánh nướng 370 gr",
+      "raw_name": "Nước đường bánh nướng",
+      "quantity": 370,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường mạch nha 50 gr",
+      "raw_name": "Đường mạch nha",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 300 gr",
+      "raw_name": "Đường",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dừa nạo 500 gr",
+      "raw_name": "Dừa nạo",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu ăn 190 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 190,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Lòng đỏ trứng muối 8 cái",
+      "raw_name": "Lòng đỏ trứng muối",
+      "quantity": 8,
+      "unit": "cái",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hạt dưa 50 gr (đã rang vàng)",
+      "raw_name": "Hạt dưa",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "đã rang vàng",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T19:41:36Z",
+  "page_title": "3 cách làm bánh Trung Thu socola thơm ngọt, đơn giản lạ miệng cho cả nhà",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/banh-trung-thu-socola-nhan-dua-thumbnail-1.jpg"
+}

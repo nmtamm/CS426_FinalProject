@@ -1,0 +1,69 @@
+{
+  "source_id": "02042",
+  "name": "Hồng trà thạch vải",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e03f9197d6dd5448.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-tra-vai-va-hong-tra-vai-don-gian-tai-nha-02042",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-tra-vai-va-hong-tra-vai-don-gian-tai-nha-02042",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Vải tươi 2 hộp",
+      "raw_name": "Vải tươi",
+      "quantity": 2,
+      "unit": "hộp",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trà 45 gr (3 túi lọc)",
+      "raw_name": "Trà",
+      "quantity": 45,
+      "unit": "gr",
+      "note": "3 túi lọc",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột rau cau giòn 3 gr",
+      "raw_name": "Bột rau cau giòn",
+      "quantity": 3,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa tươi không đường 100 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Siro đường 300 ml",
+      "raw_name": "Siro đường",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường trắng 75 gr",
+      "raw_name": "Đường trắng",
+      "quantity": 75,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:01:02Z",
+  "page_title": "3 cách làm trà vải và hồng trà vải đơn giản tại nhà, giải nhiệt mùa hè",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/hong-tra-thach-vai-thumbnail.jpg"
+}

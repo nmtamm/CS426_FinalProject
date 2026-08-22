@@ -1,0 +1,39 @@
+{
+  "source_id": "23298",
+  "name": "Cốm rang đường",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/22add590c8dade06.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-com-rang-duong-tai-nha-mon-qua-vat-tuoi-tho-khong-23298",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-com-rang-duong-tai-nha-mon-qua-vat-tuoi-tho-khong-23298",
+  "servings_text": "Cho 1 - 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cốm xanh 1 bát",
+      "raw_name": "Cốm xanh",
+      "quantity": 1,
+      "unit": "bát",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 1.5 thìa canh",
+      "raw_name": "Đường",
+      "quantity": 1.5,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T18:56:02Z",
+  "page_title": "Cách làm cốm rang đường tại nhà - món quà vặt tuổi thơ không thể chối từ",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20m%C3%B3n%20an%20t9%20%281200%20x%20676%20px%29%20%2812%29.jpg"
+}

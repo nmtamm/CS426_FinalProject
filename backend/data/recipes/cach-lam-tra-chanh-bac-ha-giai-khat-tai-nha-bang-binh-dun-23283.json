@@ -1,0 +1,83 @@
+{
+  "source_id": "23283",
+  "name": "Trà chanh bạc hà",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/52a6ab6092c539d4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-chanh-bac-ha-giai-khat-tai-nha-bang-binh-dun-23283",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-chanh-bac-ha-giai-khat-tai-nha-bang-binh-dun-23283",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà nhài 10 gr",
+      "raw_name": "Trà nhài",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước sôi 400 ml",
+      "raw_name": "Nước sôi",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước cốt chanh 15 ml",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 15,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Syrup đường 40 ml",
+      "raw_name": "Syrup đường",
+      "quantity": 40,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Trà nhài 100 ml (sau khi ủ)",
+      "raw_name": "Trà nhài",
+      "quantity": 100,
+      "unit": "ml",
+      "note": "sau khi ủ",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Syrup bạc hà 10 ml",
+      "raw_name": "Syrup bạc hà",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Lá bạc hà và chanh tươi 1 ít (trang trí)",
+      "raw_name": "Lá bạc hà và chanh tươi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "trang trí",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:49:41Z",
+  "page_title": "Cách làm trà chanh bạc hà giải khát tại nhà bằng bình đun siêu tốc",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/tra-chanh-bac-ha.jpg"
+}

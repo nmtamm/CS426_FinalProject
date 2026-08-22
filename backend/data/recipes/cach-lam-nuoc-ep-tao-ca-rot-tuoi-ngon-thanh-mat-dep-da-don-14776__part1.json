@@ -1,0 +1,41 @@
+{
+  "source_id": "14776",
+  "name": "Nước ép táo cà rốt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d2a31f1dff211633.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-tao-ca-rot-tuoi-ngon-thanh-mat-dep-da-don-14776",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-tao-ca-rot-tuoi-ngon-thanh-mat-dep-da-don-14776",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Táo 1 quả",
+      "raw_name": "Táo",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 4 quả",
+      "raw_name": "Cà rốt",
+      "quantity": 4,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:49:50Z",
+  "page_title": "4 cách làm nước ép táo cà rốt tươi ngon thanh mát đẹp da đơn giản",
+  "variant_index": 1,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/nuoc-ep-tao-ca-rot-thumbnail.jpg"
+}

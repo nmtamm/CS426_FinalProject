@@ -1,0 +1,147 @@
+{
+  "source_id": "00541",
+  "name": "Bún bò Huế",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/67f7d4ad52a45040.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-bun-bo-hue-dam-da-dung-vi-cho-bua-sang-ngay-tet-00541",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-bun-bo-hue-dam-da-dung-vi-cho-bua-sang-ngay-tet-00541",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chân giò heo 1 kg",
+      "raw_name": "Chân giò heo",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nạm bò 500 gr",
+      "raw_name": "Nạm bò",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bún sợi to 200 gr",
+      "raw_name": "Bún sợi to",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Huyết bò hoặc heo 1 tô (không bắt buộc)",
+      "raw_name": "Huyết bò hoặc heo",
+      "quantity": 1,
+      "unit": "tô",
+      "note": "không bắt buộc",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chả cua hay chả bò 200 gr (không bắt buộc)",
+      "raw_name": "Chả cua hay chả bò",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "không bắt buộc",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu màu điều 3 muỗng canh",
+      "raw_name": "Dầu màu điều",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Sả 7 cây",
+      "raw_name": "Sả",
+      "quantity": 7,
+      "unit": "cây",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành tây 2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Mắm ruốc 2 muỗng canh",
+      "raw_name": "Mắm ruốc",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Hành lá 1 ít",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Giá đỗ 1 ít",
+      "raw_name": "Giá đỗ",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Mùi tàu/húng quế 1 ít",
+      "raw_name": "Mùi tàu/húng quế",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Hoa chuối 1 ít",
+      "raw_name": "Hoa chuối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Chanh 1 trái",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T18:29:43Z",
+  "page_title": "Cách nấu bún bò Huế chuẩn vị, đơn giản cực thơm ngon tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookProduct/33-1200x676.jpg"
+}

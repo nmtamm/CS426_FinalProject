@@ -1,0 +1,39 @@
+{
+  "source_id": "01215",
+  "name": "Mứt atiso",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e612fc89a7f62c36.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-atiso-do-cuc-ngon-don-gian-tai-nha-01215",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-atiso-do-cuc-ngon-don-gian-tai-nha-01215",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hoa atisô đỏ 2 kg",
+      "raw_name": "Hoa atisô đỏ",
+      "quantity": 2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 1 kg",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:30:08Z",
+  "page_title": "Cách làm mứt atiso đỏ cực ngon đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2019/01/05/1142799/cach-lam-mut-atiso-do-cuc-ngon-don-gian-tai-nha-9-760x367.jpg"
+}

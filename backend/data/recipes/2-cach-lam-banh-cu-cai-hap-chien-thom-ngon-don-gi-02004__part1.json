@@ -1,0 +1,90 @@
+{
+  "source_id": "02004",
+  "name": "Bánh củ cải hấp",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7e6aa7bcc42baa9a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-cu-cai-hap-chien-thom-ngon-don-gi-02004",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-cu-cai-hap-chien-thom-ngon-don-gi-02004",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Củ cải trắng 700 g",
+      "raw_name": "Củ cải trắng",
+      "quantity": 700,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt ba chỉ 250 g",
+      "raw_name": "Thịt ba chỉ",
+      "quantity": 250,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột gạo 225 g",
+      "raw_name": "Bột gạo",
+      "quantity": 225,
+      "unit": "g",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột năng 30 g",
+      "raw_name": "Bột năng",
+      "quantity": 30,
+      "unit": "g",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột bắp 20 g",
+      "raw_name": "Bột bắp",
+      "quantity": 20,
+      "unit": "g",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tôm khô 50 g",
+      "raw_name": "Tôm khô",
+      "quantity": 50,
+      "unit": "g",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tím 20 g",
+      "raw_name": "Hành tím",
+      "quantity": 20,
+      "unit": "g",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành lá 5 g",
+      "raw_name": "Hành lá",
+      "quantity": 5,
+      "unit": "g",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:00:23Z",
+  "page_title": "2 cách làm bánh củ cải hấp, chiên thơm ngon đơn giản, bổ dưỡng dễ làm",
+  "variant_index": 1,
+  "variant_count": 2,
+  "note": null,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/banh-cu-cai-hap-thumbnail.jpg"
+}

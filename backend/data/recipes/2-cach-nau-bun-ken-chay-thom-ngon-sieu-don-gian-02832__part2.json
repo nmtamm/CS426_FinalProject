@@ -1,0 +1,101 @@
+{
+  "source_id": "02832",
+  "name": "Bún kèn chay nấm hương",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1ea4c78a21f8662d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-bun-ken-chay-thom-ngon-sieu-don-gian-02832",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-bun-ken-chay-thom-ngon-sieu-don-gian-02832",
+  "servings_text": "Cho 2 người ăn",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chân nấm hương 50 gram",
+      "raw_name": "Chân nấm hương 50 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đu đủ bào sợi 10 gram",
+      "raw_name": "Đu đủ bào sợi 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bạc hà bào sợi 10 gram",
+      "raw_name": "Bạc hà bào sợi 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt bào sợi 10 gram",
+      "raw_name": "Cà rốt bào sợi 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dưa leo bào sợi 10 gram",
+      "raw_name": "Dưa leo bào sợi 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước cốt dừa 200 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành boaro 1/2 muỗng canh",
+      "raw_name": "Hành boaro",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Sả băm 1/2 muỗng canh",
+      "raw_name": "Sả băm",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ớt băm 1/2 muỗng canh",
+      "raw_name": "Ớt băm",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị 10 gram (muối hồng/đường/bột cà ri/nước mắm chay/hạt mêm chay)",
+      "raw_name": "Gia vị 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": "muối hồng/đường/bột cà ri/nước mắm chay/hạt mêm chay",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:45:16Z",
+  "page_title": "2 cách nấu bún kèn chay thơm ngon siêu đơn giản cho ngày chay thanh tịnh",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2023/06/CookRecipe/Avatar/bun-ken-chay-cong-thuc-duoc-chia-se-boi-tiktok-bep-chay-xanh-thumbnail.jpg"
+}

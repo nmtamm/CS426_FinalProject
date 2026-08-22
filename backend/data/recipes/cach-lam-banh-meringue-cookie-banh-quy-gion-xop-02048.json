@@ -1,0 +1,71 @@
+{
+  "source_id": "02048",
+  "name": "Bánh Meringue cookie - bánh quy giòn xốp",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/591e52afd5b74f51.png",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-meringue-cookie-banh-quy-gion-xop-02048",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-meringue-cookie-banh-quy-gion-xop-02048",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường bột 110 gr",
+      "raw_name": "Đường bột",
+      "quantity": 110,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột vani 1/2 muỗng cà phê",
+      "raw_name": "Bột vani",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Màu thực phẩm 3 ml",
+      "raw_name": "Màu thực phẩm",
+      "quantity": 3,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cốt chanh 1/2 muỗng cà phê",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước nóng 500 ml",
+      "raw_name": "Nước nóng",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:28:26Z",
+  "page_title": "Cách làm bánh Meringue cookie - bánh quy giòn xốp từ lòng trắng trứng gà",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/04/15/1249342/cach-lam-banh-meringue-cookie-banh-quy-gion-xop--760x367.png"
+}

@@ -1,0 +1,51 @@
+{
+  "source_id": "23274",
+  "name": "Trà đậu đen xanh lòng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/40fc98014dab6742.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-dau-den-xanh-long-cung-gao-huyet-rong-bang-chao-23274",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-dau-den-xanh-long-cung-gao-huyet-rong-bang-chao-23274",
+  "servings_text": "Cho 200gr đậu đen xanh lòng",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gạo đỏ huyết rồng 200 gr",
+      "raw_name": "Gạo đỏ huyết rồng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu đen xanh lòng 200 gr",
+      "raw_name": "Đậu đen xanh lòng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá dứa 1 bó (khoảng 5-7 lá)",
+      "raw_name": "Lá dứa 1 bó",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 5-7 lá",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Táo tàu 1 ít (tùy chọn dùng khi pha trà)",
+      "raw_name": "Táo tàu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "tùy chọn dùng khi pha trà",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:49:43Z",
+  "page_title": "Cách làm trà đậu đen xanh lòng cùng gạo huyết rồng bằng chảo inox",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/nuoc-dau-den-xanh-long.jpg"
+}

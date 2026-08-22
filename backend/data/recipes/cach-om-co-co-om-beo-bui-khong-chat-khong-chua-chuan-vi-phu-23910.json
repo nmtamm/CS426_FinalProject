@@ -1,0 +1,59 @@
+{
+  "source_id": "23910",
+  "name": "cọ ỏm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6eaaa5ec6d92b228.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-om-co-co-om-beo-bui-khong-chat-khong-chua-chuan-vi-phu-23910",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-om-co-co-om-beo-bui-khong-chat-khong-chua-chuan-vi-phu-23910",
+  "servings_text": "Cho 2 kg quả cọ tươi (khoảng 4-6 người ăn)",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Quả cọ tươi 2 kg",
+      "raw_name": "Quả cọ tươi",
+      "quantity": 2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường cát 100 gr",
+      "raw_name": "Đường cát",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối trắng 2 thìa",
+      "raw_name": "Muối trắng",
+      "quantity": 2,
+      "unit": "thìa",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 50 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước sạch 2 lít",
+      "raw_name": "Nước sạch 2 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T18:53:45Z",
+  "page_title": "Cách ỏm cọ (cọ om) béo bùi không chát không chua chuẩn vị Phú Thọ",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/kjehf.jpg"
+}

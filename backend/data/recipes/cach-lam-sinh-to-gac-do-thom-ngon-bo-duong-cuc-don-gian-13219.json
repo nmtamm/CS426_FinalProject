@@ -1,0 +1,59 @@
+{
+  "source_id": "13219",
+  "name": "Sinh tố gấc đỏ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/42f3d4d119bdc415.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sinh-to-gac-do-thom-ngon-bo-duong-cuc-don-gian-13219",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sinh-to-gac-do-thom-ngon-bo-duong-cuc-don-gian-13219",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gấc 1 quả (1kg)",
+      "raw_name": "Gấc",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "1kg",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa đậu nành 100 ml",
+      "raw_name": "Sữa đậu nành",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Táo xanh 1 quả",
+      "raw_name": "Táo xanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước lọc 250 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 250,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:09:07Z",
+  "page_title": "Cách làm sinh tố gấc đỏ thơm ngon bổ dưỡng cực đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookDish/cach-lam-sinh-to-gac-do-thom-ngon-bo-duong-cuc-don-gian-avt-1200x676.jpg"
+}

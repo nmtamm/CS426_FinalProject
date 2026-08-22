@@ -1,0 +1,59 @@
+{
+  "source_id": "00711",
+  "name": "Kẹo trái cây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/73f199bd399336f8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-keo-trai-cay-du-mau-cho-ngay-tet-00711",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-keo-trai-cay-du-mau-cho-ngay-tet-00711",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cà rốt 200 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Kiwi 300 gr",
+      "raw_name": "Kiwi",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dâu tây 300 gr",
+      "raw_name": "Dâu tây",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 70 gr (có thể thay đổi theo khẩu vị)",
+      "raw_name": "Đường",
+      "quantity": 70,
+      "unit": "gr",
+      "note": "có thể thay đổi theo khẩu vị",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cơm dừa sấy khô 100 gr",
+      "raw_name": "Cơm dừa sấy khô",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:44:52Z",
+  "page_title": "Cách làm kẹo trái cây đủ màu cho ngày Tết",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2017/01/24/941196/cach-lam-keo-trai-cay-du-mau-cho-ngay-tet-760x367.jpg"
+}

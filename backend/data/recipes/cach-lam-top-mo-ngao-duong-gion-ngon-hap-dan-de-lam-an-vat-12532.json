@@ -1,0 +1,59 @@
+{
+  "source_id": "12532",
+  "name": "Tóp mỡ ngào đường",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4728fa498825f12d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-top-mo-ngao-duong-gion-ngon-hap-dan-de-lam-an-vat-12532",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-top-mo-ngao-duong-gion-ngon-hap-dan-de-lam-an-vat-12532",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mỡ heo 1.5 kg",
+      "raw_name": "Mỡ heo",
+      "quantity": 1.5,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu phộng 200 gr",
+      "raw_name": "Đậu phộng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gừng 50 gr (1/2 củ)",
+      "raw_name": "Gừng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "1/2 củ",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường thốt nốt 200 gr",
+      "raw_name": "Đường thốt nốt",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:19:38Z",
+  "page_title": "Cách làm tóp mỡ ngào đường giòn ngon hấp dẫn dễ làm ăn vặt tuổi thơ",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/1200(2)-1200x676.jpg"
+}

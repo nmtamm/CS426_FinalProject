@@ -1,0 +1,87 @@
+{
+  "source_id": "00910",
+  "name": "Chè Đài Loan",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/005f0774acf39f64.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-che-trai-cay-kieu-dai-loan-giai-nhiet-mua-he-ngon-00910",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-che-trai-cay-kieu-dai-loan-giai-nhiet-mua-he-ngon-00910",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-che",
+      "name": "Món chè"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai môn 200 gr",
+      "raw_name": "Khoai môn",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Khoai lang vàng 200 gr",
+      "raw_name": "Khoai lang vàng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Khoai lang tím 100 gr",
+      "raw_name": "Khoai lang tím",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột năng 180 gr",
+      "raw_name": "Bột năng",
+      "quantity": 180,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cao quy linh pha sẵn 150 gr (bạn có thể tìm mua tại siêu thị)",
+      "raw_name": "Cao quy linh pha sẵn",
+      "quantity": 150,
+      "unit": "gr",
+      "note": "bạn có thể tìm mua tại siêu thị",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước cốt dừa 150 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 100 gr",
+      "raw_name": "Đường",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:20:36Z",
+  "page_title": "Cách làm chè Đài Loan thơm ngon như Meet Fresh dễ làm tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2018/04/28/1084991/cach-lam-che-trai-cay-kieu-dai-loan-giai-nhiet-mua-he-ngon-kho-cuong-5-760x367.jpg"
+}

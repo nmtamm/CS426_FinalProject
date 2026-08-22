@@ -1,0 +1,123 @@
+{
+  "source_id": "01639",
+  "name": "Lẩu bò nhúng giấm (dấm)",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a110b92568411b91.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bo-nhung-giam-mem-thom-dai-khach-ngon-quen-loi-ve-01639",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bo-nhung-giam-mem-thom-dai-khach-ngon-quen-loi-ve-01639",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò 1 kg",
+      "raw_name": "Thịt bò",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thơm 1/2 quả (dứa)",
+      "raw_name": "Thơm",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": "dứa",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 4 tép",
+      "raw_name": "Tỏi 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tím 1 củ",
+      "raw_name": "Hành tím",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sả 2 nhánh",
+      "raw_name": "Sả",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt hiểm 2 trái",
+      "raw_name": "Ớt hiểm",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước dừa tươi 1.5 lít",
+      "raw_name": "Nước dừa tươi 1.5 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Giấm 100 ml (dấm)",
+      "raw_name": "Giấm",
+      "quantity": 100,
+      "unit": "ml",
+      "note": "dấm",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đường phèn 30 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Mắm nêm 4 muỗng canh",
+      "raw_name": "Mắm nêm",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Muối/ đường 1 ít",
+      "raw_name": "Muối/ đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T18:20:22Z",
+  "page_title": "Cách nấu lẩu bò nhúng giấm (dấm) nóng hổi thơm ngon cực đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookDish/cach-lam-bingsu-dua-luoi-mat-lanh-cho-mua-he-avt-1200x676-1.jpg"
+}

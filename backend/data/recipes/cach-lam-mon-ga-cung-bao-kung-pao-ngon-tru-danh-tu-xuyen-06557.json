@@ -1,0 +1,139 @@
+{
+  "source_id": "06557",
+  "name": "Gà Cung Bảo - Kung Pao",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2065f00d5df432ea.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-ga-cung-bao-kung-pao-ngon-tru-danh-tu-xuyen-06557",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-ga-cung-bao-kung-pao-ngon-tru-danh-tu-xuyen-06557",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ức gà 400 gr (hoặc thịt đùi hoặc đùi gà)",
+      "raw_name": "Ức gà",
+      "quantity": 400,
+      "unit": "gr",
+      "note": "hoặc thịt đùi hoặc đùi gà",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tỏi 2 tép",
+      "raw_name": "Tỏi 2 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gừng 1 lát",
+      "raw_name": "Gừng 1 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt 7 quả (hoặc theo mức độ cay của bạn)",
+      "raw_name": "Ớt",
+      "quantity": 7,
+      "unit": "quả",
+      "note": "hoặc theo mức độ cay của bạn",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hạt tiêu Tứ Xuyên 1 muỗng cà phê (xuyên tiêu/hạt tê)",
+      "raw_name": "Hạt tiêu Tứ Xuyên",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "xuyên tiêu/hạt tê",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muỗn canh bột ngô 1 g (bột bắp)",
+      "raw_name": "Muỗn canh bột ngô",
+      "quantity": 1,
+      "unit": "g",
+      "note": "bột bắp",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muỗn cà phê hắc xì dầu 1 g",
+      "raw_name": "Muỗn cà phê hắc xì dầu",
+      "quantity": 1,
+      "unit": "g",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đậu phộng 30 gr (rang hoặc rang khô)",
+      "raw_name": "Đậu phộng",
+      "quantity": 30,
+      "unit": "gr",
+      "note": "rang hoặc rang khô",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước tương 1 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Giấm đen 1 muỗng canh (Chinkiang)",
+      "raw_name": "Giấm đen",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "Chinkiang",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Rượu nấu ăn Thiệu Hưng 1 muỗng canh",
+      "raw_name": "Rượu nấu ăn Thiệu Hưng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Đường 1 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Tinh bột ngô 1 muỗng canh (tinh bột bắp)",
+      "raw_name": "Tinh bột ngô",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "tinh bột bắp",
+      "display_order": 13
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Hành lá 1 ít",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T18:08:53Z",
+  "page_title": "Cách làm món gà Cung Bảo - Kung Pao ngon trứ danh Tứ Xuyên",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/1-1200x676-14.jpg"
+}

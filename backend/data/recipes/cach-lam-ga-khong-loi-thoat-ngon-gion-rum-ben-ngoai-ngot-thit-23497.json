@@ -1,0 +1,83 @@
+{
+  "source_id": "23497",
+  "name": "Gà không lối thoát",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bb9727036139f352.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-khong-loi-thoat-ngon-gion-rum-ben-ngoai-ngot-thit-23497",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-khong-loi-thoat-ngon-gion-rum-ben-ngoai-ngot-thit-23497",
+  "servings_text": "Cho 4 - 6 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà nguyên con 1.2 kg",
+      "raw_name": "Gà nguyên con",
+      "quantity": 1.2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm hương khô 60 gr (đã ngâm nở)",
+      "raw_name": "Nấm hương khô",
+      "quantity": 60,
+      "unit": "gr",
+      "note": "đã ngâm nở",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gốc hành 5 lá",
+      "raw_name": "Gốc hành",
+      "quantity": 5,
+      "unit": "lá",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nếp ngon 1 kg",
+      "raw_name": "Nếp ngon",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cốt dừa dảo 700 ml",
+      "raw_name": "Nước cốt dừa dảo",
+      "quantity": 700,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước cốt dừa nhất 100 ml",
+      "raw_name": "Nước cốt dừa nhất",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị ướp gà 1 ít (củ hành sấy/ dầu hào/ đường/ hạt nêm gà/ muối/ tiêu xay/ dầu hạt điều)",
+      "raw_name": "Gia vị ướp gà",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "củ hành sấy/ dầu hào/ đường/ hạt nêm gà/ muối/ tiêu xay/ dầu hạt điều",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị nấu xôi 1 ít (muối/ bột nghệ)",
+      "raw_name": "Gia vị nấu xôi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ bột nghệ",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:04:57Z",
+  "page_title": "Cách làm gà không lối thoát ngon giòn rụm bên ngoài, ngọt thịt bên trong",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20m%C3%B3n%20an%20t11%20%281200%20x%20676%20px%29%20%2867%29.jpg"
+}

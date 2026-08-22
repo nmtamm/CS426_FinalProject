@@ -1,0 +1,77 @@
+{
+  "source_id": "01818",
+  "name": "Salad bánh đa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/dfc03977d407f12b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/doi-vi-voi-2-mon-ngon-tu-banh-da-don-gian-la-ma-quen-01818",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/doi-vi-voi-2-mon-ngon-tu-banh-da-don-gian-la-ma-quen-01818",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tôm sú 200 gr",
+      "raw_name": "Tôm sú",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bánh đa 100 gr",
+      "raw_name": "Bánh đa",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tây tím 1/2 củ",
+      "raw_name": "Hành tây tím",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Quả cà chua bi 100 gr",
+      "raw_name": "Quả cà chua bi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Xà lách Romaine 100 gr",
+      "raw_name": "Xà lách Romaine",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt chuông xanh 1 trái",
+      "raw_name": "Ớt chuông xanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị 30 gr (tương ớt/ dầu ăn/ sốt mayonnaise...)",
+      "raw_name": "Gia vị",
+      "quantity": 30,
+      "unit": "gr",
+      "note": "tương ớt/ dầu ăn/ sốt mayonnaise...",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T17:59:24Z",
+  "page_title": "Cách làm bánh đa trộn và salad bánh đa đơn giản, ngon lạ mà thân quen",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/salad-banh-da-thumbnail.jpg"
+}

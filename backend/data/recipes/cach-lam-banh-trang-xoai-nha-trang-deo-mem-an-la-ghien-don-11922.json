@@ -1,0 +1,43 @@
+{
+  "source_id": "11922",
+  "name": "Bánh tráng xoài Nha Trang",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/435d17e2c966ca3d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trang-xoai-nha-trang-deo-mem-an-la-ghien-don-11922",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trang-xoai-nha-trang-deo-mem-an-la-ghien-don-11922",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Xoài chín 5 trái (khoảng 2 - 2.5kg)",
+      "raw_name": "Xoài chín",
+      "quantity": 5,
+      "unit": "trái",
+      "note": "khoảng 2 - 2.5kg",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mật mía 200 ml (hoặc 150gr đường)",
+      "raw_name": "Mật mía",
+      "quantity": 200,
+      "unit": "ml",
+      "note": "hoặc 150gr đường",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chanh 2 quả",
+      "raw_name": "Chanh",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:04:08Z",
+  "page_title": "Cách làm bánh tráng xoài Nha Trang dẻo mềm, ăn là ghiền đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookProduct/thum1200-1200x676-11.jpg"
+}

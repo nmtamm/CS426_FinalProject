@@ -1,0 +1,125 @@
+{
+  "source_id": "00388",
+  "name": "Salad tôm cần tây sốt chua cay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1b12c4bafba975dc.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-salad-tron-tom-can-tay-vi-ngon-ngat-ngay-00388",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-salad-tron-tom-can-tay-vi-ngon-ngat-ngay-00388",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tôm 4 con",
+      "raw_name": "Tôm 4 con",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Miến 100 gr",
+      "raw_name": "Miến",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cần tây 200 gr",
+      "raw_name": "Cần tây",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 50 gr (1/2 củ)",
+      "raw_name": "Cà rốt",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "1/2 củ",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tím 50 gr",
+      "raw_name": "Hành tím",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt sừng 1 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tỏi băm 2 muỗng cà phê",
+      "raw_name": "Tỏi băm",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ớt băm 1 muỗng cà phê",
+      "raw_name": "Ớt băm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước mắm 4 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước cốt chanh 3 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Đậu phộng rang 1 muỗng cà phê (đã giã nhuyễn)",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "đã giã nhuyễn",
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu oliu 1 muỗng canh",
+      "raw_name": "Dầu oliu",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T17:54:43Z",
+  "page_title": "3 cách làm salad tôm cần tây vị ngon ngất ngây đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/salad-tom-can-tay-sot-chua-cay-thumbnail.jpg"
+}

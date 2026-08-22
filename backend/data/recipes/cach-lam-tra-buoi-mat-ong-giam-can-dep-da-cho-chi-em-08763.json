@@ -1,0 +1,59 @@
+{
+  "source_id": "08763",
+  "name": "Trà bưởi mật ong",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ba67fbe247d4bea5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-buoi-mat-ong-giam-can-dep-da-cho-chi-em-08763",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-buoi-mat-ong-giam-can-dep-da-cho-chi-em-08763",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bưởi 1/2 trái",
+      "raw_name": "Bưởi",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trà đen 2 muỗng cà phê",
+      "raw_name": "Trà đen",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mật ong 2 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước nóng 170 ml",
+      "raw_name": "Nước nóng",
+      "quantity": 170,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:58:05Z",
+  "page_title": "Cách làm trà bưởi mật ong giảm cân, đẹp da cho chị em",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/thumb-1200x676-52.jpg"
+}

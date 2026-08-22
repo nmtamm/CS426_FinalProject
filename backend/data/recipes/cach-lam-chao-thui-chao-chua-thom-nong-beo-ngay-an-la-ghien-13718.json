@@ -1,0 +1,59 @@
+{
+  "source_id": "13718",
+  "name": "Chao thúi - chao chùa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c3c820497b18f06c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chao-thui-chao-chua-thom-nong-beo-ngay-an-la-ghien-13718",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chao-thui-chao-chua-thom-nong-beo-ngay-an-la-ghien-13718",
+  "servings_text": "Cho 3 miếng đậu hũ",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu hũ tươi 3 miếng (nóng)",
+      "raw_name": "Đậu hũ tươi 3 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": "nóng",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước cơm 150 ml",
+      "raw_name": "Nước cơm",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rượu trắng 1 muỗng cà phê",
+      "raw_name": "Rượu trắng",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tiêu 1/2 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T18:36:13Z",
+  "page_title": "Cách làm chao thúi - chao chùa thơm nồng béo ngậy ăn là ghiền",
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookDish/cach-lam-chao-thui-chao-chua-thom-nong-beo-ngay-an-la-ghien-avt-1200x676.jpg"
+}

@@ -1,0 +1,85 @@
+{
+  "source_id": "22645",
+  "name": "Xúc xích phô mai chiên không dùng bột",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/87a4982bf21cc983.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-xuc-xich-pho-mai-chien-gion-rum-tai-nha-voi-chao-22645",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-xuc-xich-pho-mai-chien-gion-rum-tai-nha-voi-chao-22645",
+  "servings_text": "Cho 3 cây",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh mì sandwich 3 lát",
+      "raw_name": "Bánh mì sandwich 3 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xúc xích 3 cây",
+      "raw_name": "Xúc xích",
+      "quantity": 3,
+      "unit": "cây",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Phô mai Mozzarella 3 lát",
+      "raw_name": "Phô mai Mozzarella 3 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột chiên xù 1 ít",
+      "raw_name": "Bột chiên xù",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Trứng 1 quả",
+      "raw_name": "Trứng",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối 1/4 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước sốt ăn kèm 1 ít (tương ớt/ tương mù tạt vàng)",
+      "raw_name": "Nước sốt ăn kèm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "tương ớt/ tương mù tạt vàng",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:58:36Z",
+  "page_title": "2 cách làm xúc xích phô mai chiên giòn rụm tại nhà với chảo chiên ngập dầu",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2025/03/CookRecipe/Avatar/xuc-xich-pho-mai-chien-khong-dung-bot-thumbnail.jpg"
+}

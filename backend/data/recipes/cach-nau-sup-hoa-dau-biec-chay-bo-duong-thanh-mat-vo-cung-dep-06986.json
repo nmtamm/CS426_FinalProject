@@ -1,0 +1,179 @@
+{
+  "source_id": "06986",
+  "name": "Súp hoa đậu biếc chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/46d41310299aea65.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-sup-hoa-dau-biec-chay-bo-duong-thanh-mat-vo-cung-dep-06986",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-sup-hoa-dau-biec-chay-bo-duong-thanh-mat-vo-cung-dep-06986",
+  "servings_text": "Cho 8 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bắp mỹ 1 trái",
+      "raw_name": "Bắp mỹ",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Củ cải trắng 1 củ",
+      "raw_name": "Củ cải trắng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Củ sen 4 củ",
+      "raw_name": "Củ sen",
+      "quantity": 4,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bắp cải 1/4 cái",
+      "raw_name": "Bắp cải",
+      "quantity": 0.25,
+      "unit": "cái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hoa đậu biếc 10 gr",
+      "raw_name": "Hoa đậu biếc",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nấm đông cô tươi 100 gr",
+      "raw_name": "Nấm đông cô tươi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nấm tuyết 100 gr",
+      "raw_name": "Nấm tuyết",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nấm đùi gà 100 gr",
+      "raw_name": "Nấm đùi gà",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nấm kim châm 100 gr",
+      "raw_name": "Nấm kim châm",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nấm ngọc châm trắng 100 gr",
+      "raw_name": "Nấm ngọc châm trắng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nấm ngọc châm nâu 100 gr",
+      "raw_name": "Nấm ngọc châm nâu",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Hạt nêm nấm hương 1 muỗng canh (hạt nêm chay)",
+      "raw_name": "Hạt nêm nấm hương",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "hạt nêm chay",
+      "display_order": 13
+    },
+    {
+      "raw_text": "Nước mắm chay 1/2 muỗng canh",
+      "raw_name": "Nước mắm chay",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Bột năng 1 muỗng canh",
+      "raw_name": "Bột năng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Dầu mè 1/2 muỗng canh",
+      "raw_name": "Dầu mè",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Rượu trắng 1/2 muỗng canh",
+      "raw_name": "Rượu trắng",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 17
+    },
+    {
+      "raw_text": "Gừng 1 nhánh",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 18
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 19
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 20
+    }
+  ],
+  "scraped_at": "2026-08-19T18:50:51Z",
+  "page_title": "Cách nấu súp hoa đậu biếc chay bổ dưỡng, thanh mát, vô cùng đẹp mắt",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/suphoadaubiecchay-1200x676.jpg"
+}

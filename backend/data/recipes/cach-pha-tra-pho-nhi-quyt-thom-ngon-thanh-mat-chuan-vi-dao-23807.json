@@ -1,0 +1,35 @@
+{
+  "source_id": "23807",
+  "name": "Trà phổ nhĩ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f30ffc8f4d8957d1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-tra-pho-nhi-quyt-thom-ngon-thanh-mat-chuan-vi-dao-23807",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-tra-pho-nhi-quyt-thom-ngon-thanh-mat-chuan-vi-dao-23807",
+  "servings_text": "Cho 2 - 4 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà phổ nhĩ quýt 1 quả",
+      "raw_name": "Trà phổ nhĩ quýt",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước tinh khiết 1 ít",
+      "raw_name": "Nước tinh khiết",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:47:10Z",
+  "page_title": "Cách pha trà phổ nhĩ quýt thơm ngon, thanh mát chuẩn vị đạo trà đơn giản",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20m%C3%B3n%20an%20t1%20%281200%20x%20676%20px%29%20%283%29.jpg"
+}

@@ -1,0 +1,53 @@
+{
+  "source_id": "09108",
+  "name": "Trà sữa gạo rang trân châu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4e88340276ab0dd8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-sua-gao-rang-thom-ngon-don-gian-tai-nha-09108",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-sua-gao-rang-thom-ngon-don-gian-tai-nha-09108",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà kiều mạch 3 gói",
+      "raw_name": "Trà kiều mạch",
+      "quantity": 3,
+      "unit": "gói",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trân châu khô 50 gr",
+      "raw_name": "Trân châu khô",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước đường 30 ml",
+      "raw_name": "Nước đường",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột sữa Hightea 20 gr",
+      "raw_name": "Bột sữa Hightea",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:53:59Z",
+  "page_title": "2 cách làm trà sữa gạo rang thơm ngon đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookRecipe/Avatar/tra-sua-gao-rang-tran-chau-thumbnail-1.jpg"
+}

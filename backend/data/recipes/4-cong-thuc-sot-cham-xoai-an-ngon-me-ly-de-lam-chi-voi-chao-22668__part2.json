@@ -1,0 +1,49 @@
+{
+  "source_id": "22668",
+  "name": "Nước mắm đường chấm xoài xanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7a4c507124c367ef.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/4-cong-thuc-sot-cham-xoai-an-ngon-me-ly-de-lam-chi-voi-chao-22668",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/4-cong-thuc-sot-cham-xoai-an-ngon-me-ly-de-lam-chi-voi-chao-22668",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ớt đỏ 2 trái (thái nhỏ)",
+      "raw_name": "Ớt đỏ",
+      "quantity": 2,
+      "unit": "trái",
+      "note": "thái nhỏ",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường/ tiêu xay 1 ít",
+      "raw_name": "Đường/ tiêu xay",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T18:58:24Z",
+  "page_title": "4 công thức sốt chấm xoài ăn ngon mê ly dễ làm chỉ với chảo chống dính",
+  "variant_index": 2,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/nuoc-mam-duong-cham-xoai-xanh-thumbnail.jpg"
+}

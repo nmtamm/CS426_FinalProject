@@ -1,0 +1,67 @@
+{
+  "source_id": "24444",
+  "name": "Hồng trà tắc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/fdeda951b56c29ad.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-hong-tra-tac-ngon-de-kinh-doanh-von-it-loi-nhieu-24444",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-hong-tra-tac-ngon-de-kinh-doanh-von-it-loi-nhieu-24444",
+  "servings_text": "Cho 13 ly 700ml",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hồng trà 15 gr",
+      "raw_name": "Hồng trà",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lục trà lài 10 gr",
+      "raw_name": "Lục trà lài",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tắc 500 gr (quất)",
+      "raw_name": "Tắc",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "quất",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đá viên 600 gr",
+      "raw_name": "Đá viên",
+      "quantity": 600,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước nóng 1.5 lít (85-90 độ C)",
+      "raw_name": "Nước nóng 1.5 lít",
+      "quantity": null,
+      "unit": null,
+      "note": "85-90 độ C",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước đường 600 ml",
+      "raw_name": "Nước đường",
+      "quantity": 600,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:46:07Z",
+  "page_title": "Cách pha hồng trà tắc ngon để kinh doanh vốn ít lời nhiều",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/h%E1%BB%93ng%20tr%C3%A0%20t%E1%BA%AFc%201200x676%204.jpg"
+}

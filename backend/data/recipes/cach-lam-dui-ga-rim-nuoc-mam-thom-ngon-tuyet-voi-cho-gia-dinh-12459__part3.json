@@ -1,0 +1,102 @@
+{
+  "source_id": "12459",
+  "name": "Gà rim mắm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0865d1a66681837d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dui-ga-rim-nuoc-mam-thom-ngon-tuyet-voi-cho-gia-dinh-12459",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dui-ga-rim-nuoc-mam-thom-ngon-tuyet-voi-cho-gia-dinh-12459",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sốt ướp thịt 2 muỗng canh",
+      "raw_name": "Sốt ướp thịt",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dầu hào 2 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Giấm 1 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Mè rang 1 muỗng cà phê",
+      "raw_name": "Mè rang",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt bột 1 muỗng cà phê",
+      "raw_name": "Ớt bột",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước 2 muỗng canh",
+      "raw_name": "Nước",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tương ớt 1/2 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước dừa 0.5 lít",
+      "raw_name": "Nước dừa 0.5 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:15:22Z",
+  "page_title": "Cách làm đùi gà rim nước mắm, rim tỏi thơm ngon tuyệt vời cho gia đình",
+  "variant_index": 3,
+  "variant_count": 3,
+  "note": "Công thức được chia sẻ từ TikTok Vào bếp cùng Điện máy XANH",
+  "original_image_url": "https://cdn.tgdd.vn/2023/06/CookRecipe/Avatar/ga-rim-mam-cong-thuc-duoc-chia-se-tu-tiktok-vao-bep-cung-dien-may-xanh-thumbnail.jpg"
+}

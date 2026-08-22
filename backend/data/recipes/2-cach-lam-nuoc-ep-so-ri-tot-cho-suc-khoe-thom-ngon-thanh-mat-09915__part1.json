@@ -1,0 +1,41 @@
+{
+  "source_id": "09915",
+  "name": "Nước ép sơ ri",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/139c584db13a3bc4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-ep-so-ri-tot-cho-suc-khoe-thom-ngon-thanh-mat-09915",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-ep-so-ri-tot-cho-suc-khoe-thom-ngon-thanh-mat-09915",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sơ ri 200 gr",
+      "raw_name": "Sơ ri",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối/ Đường 1 ít",
+      "raw_name": "Muối/ Đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:53:01Z",
+  "page_title": "2 cách làm nước ép sơ ri tốt cho sức khỏe, thơm ngon thanh mát",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/nuoc-ep-so-ri-thumbnail.jpg"
+}

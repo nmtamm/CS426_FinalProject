@@ -1,0 +1,97 @@
+{
+  "source_id": "04627",
+  "name": "Thịt viên xác ướp",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ee67059c5c17e949.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-mon-an-thit-vien-ot-cuon-va-banh-pho-mai-xac-uop-cho-ngay-04627",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-mon-an-thit-vien-ot-cuon-va-banh-pho-mai-xac-uop-cho-ngay-04627",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò xay 450 gr",
+      "raw_name": "Thịt bò xay",
+      "quantity": 450,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành tây băm nhỏ 7 gr",
+      "raw_name": "Hành tây băm nhỏ",
+      "quantity": 7,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột chiên xù 30 gr",
+      "raw_name": "Bột chiên xù",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi băm 2 tép",
+      "raw_name": "Tỏi băm 2 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rau mùi tây 2 muỗng canh (băm nhỏ)",
+      "raw_name": "Rau mùi tây",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "băm nhỏ",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Trứng gà 1 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối 1 gr",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tiêu 1 gr",
+      "raw_name": "Tiêu",
+      "quantity": 1,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Vỏ bánh sừng bò 226 gr (1 hộp)",
+      "raw_name": "Vỏ bánh sừng bò",
+      "quantity": 226,
+      "unit": "gr",
+      "note": "1 hộp",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:24:05Z",
+  "page_title": "3 cách làm món ăn Halloween thịt viên, ớt cuộn và bánh phô mai xác ướp",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookRecipe/Avatar/thit-vien-xac-uop-thumbnail.jpg"
+}

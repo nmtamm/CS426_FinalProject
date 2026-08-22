@@ -1,0 +1,43 @@
+{
+  "source_id": "17495",
+  "name": "Hạt đác rim dâu tây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/806d6805c948cb34.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-hat-dac-rim-dau-tay-giai-nhiet-mua-he-tot-cho-suc-17495",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-hat-dac-rim-dau-tay-giai-nhiet-mua-he-tot-cho-suc-17495",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đác trắng 200 gr",
+      "raw_name": "Đác trắng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dâu tây 100 gr",
+      "raw_name": "Dâu tây",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường trắng 20 gr",
+      "raw_name": "Đường trắng",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:02:41Z",
+  "page_title": "Cách làm hạt đác rim dâu tây giải nhiệt mùa hè tốt cho sức khỏe đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/2022/06/CookDish/cach-lam-hat-dac-rim-dau-tay-giai-nhiet-mua-he-tot-cho-suc-avt-1200x676.jpg"
+}

@@ -1,0 +1,121 @@
+{
+  "source_id": "13465",
+  "name": "Lòng bò nướng kiểu Hàn Quốc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f02cb761bf511f60.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-long-bo-nuong-hap-dan-thom-ngon-kho-cuong-don-gian-13465",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-long-bo-nuong-hap-dan-thom-ngon-kho-cuong-don-gian-13465",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lòng bò 2 kg",
+      "raw_name": "Lòng bò",
+      "quantity": 2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muỗng ngũ vị hương 2 muỗng cà phê",
+      "raw_name": "Muỗng ngũ vị hương",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt bột 1 muỗng canh",
+      "raw_name": "Ớt bột",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tiêu xay 1 muỗng cà phê",
+      "raw_name": "Tiêu xay",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột điều đỏ 1 muỗng cà phê",
+      "raw_name": "Bột điều đỏ",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Quế 2 nhánh",
+      "raw_name": "Quế",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gừng 2 củ",
+      "raw_name": "Gừng",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành lá 200 gr",
+      "raw_name": "Hành lá",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối 3 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Bơ thực vật 1 muỗng canh",
+      "raw_name": "Bơ thực vật",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Mayonnaise 1 chén",
+      "raw_name": "Mayonnaise",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:22:34Z",
+  "page_title": "2 cách làm lòng bò nướng hấp dẫn thơm ngon khó cưỡng đơn giản tại nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/long-bo-nuong-kieu-han-quoc-thumbnail.jpg"
+}

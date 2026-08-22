@@ -1,0 +1,121 @@
+{
+  "source_id": "04975",
+  "name": "Bắp non chiên xù sốt me",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a39a5aefd37dd838.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-bap-non-chien-gion-va-chien-xu-thom-ngon-hap-dan-04975",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-bap-non-chien-gion-va-chien-xu-thom-ngon-hap-dan-04975",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bắp non 400 gr (ngô bao tử)",
+      "raw_name": "Bắp non",
+      "quantity": 400,
+      "unit": "gr",
+      "note": "ngô bao tử",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột chiên giòn 150 gr",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tiêu 1/4 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột chiên xù 50 gr",
+      "raw_name": "Bột chiên xù",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tím băm 1 muỗng canh",
+      "raw_name": "Hành tím băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước cốt me 300 ml",
+      "raw_name": "Nước cốt me",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường 3 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Ớt hiểm 1 trái",
+      "raw_name": "Ớt hiểm",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu ăn 6 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 6,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T19:10:59Z",
+  "page_title": "2 cách làm bắp non chiên giòn và chiên xù thơm ngon hấp dẫn đơn giản",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookRecipe/Avatar/bap-non-chien-xu-sot-me-thumbnail-1.jpg"
+}

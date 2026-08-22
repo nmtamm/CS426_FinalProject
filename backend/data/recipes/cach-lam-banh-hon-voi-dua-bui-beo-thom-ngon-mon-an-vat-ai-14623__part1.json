@@ -1,0 +1,37 @@
+{
+  "source_id": "14623",
+  "name": "Bánh hòn dừa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9dab632cb1439a5c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-hon-voi-dua-bui-beo-thom-ngon-mon-an-vat-ai-14623",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-hon-voi-dua-bui-beo-thom-ngon-mon-an-vat-ai-14623",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dừa già 1 trái",
+      "raw_name": "Dừa già",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột năng 500 gr",
+      "raw_name": "Bột năng",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:13:16Z",
+  "page_title": "2 cách làm bánh hòn với dừa bùi béo thơm ngon, món ăn vặt ai cũng yêu thích",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/banh-hon-dua-thumbnail.jpg"
+}

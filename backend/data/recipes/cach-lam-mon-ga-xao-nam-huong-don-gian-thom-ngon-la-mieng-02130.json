@@ -1,0 +1,91 @@
+{
+  "source_id": "02130",
+  "name": "Gà xào nấm hương",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f13720ad82bd3a07.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-ga-xao-nam-huong-don-gian-thom-ngon-la-mieng-02130",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-ga-xao-nam-huong-don-gian-thom-ngon-la-mieng-02130",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nấm hương khô 200 g",
+      "raw_name": "Nấm hương khô",
+      "quantity": 200,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ức gà 300 g",
+      "raw_name": "Ức gà",
+      "quantity": 300,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 2 nhánh",
+      "raw_name": "Tỏi",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng 10 g",
+      "raw_name": "Gừng",
+      "quantity": 10,
+      "unit": "g",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu hào 3 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột bắp 1 muỗng canh",
+      "raw_name": "Bột bắp",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành lá 1 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nấm hương tươi 100 g",
+      "raw_name": "Nấm hương tươi",
+      "quantity": 100,
+      "unit": "g",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rượu Thiệu Hưng 2 muỗng canh",
+      "raw_name": "Rượu Thiệu Hưng",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:16:45Z",
+  "page_title": "Cách làm món gà xào nấm hương đơn giản, thơm ngon, lạ miệng",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/04/22/1250901/cach-lam-mon-ga-xao-nam-huong-don-gian-thom-ngon--1-760x367.jpg"
+}

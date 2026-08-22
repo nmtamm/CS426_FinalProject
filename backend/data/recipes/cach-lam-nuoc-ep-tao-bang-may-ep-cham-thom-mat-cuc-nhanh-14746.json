@@ -1,0 +1,63 @@
+{
+  "source_id": "14746",
+  "name": "Nước ép táo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f972f206c09cc204.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-tao-bang-may-ep-cham-thom-mat-cuc-nhanh-14746",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-tao-bang-may-ep-cham-thom-mat-cuc-nhanh-14746",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Táo 3 quả",
+      "raw_name": "Táo",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chanh 1/2 quả",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 1 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:48:59Z",
+  "page_title": "Cách làm nước ép táo bằng máy ép chậm thơm mát cực nhanh chóng tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-nuoc-ep-tao-bang-may-ep-cham-thom-mat-cuc-nhanh-avt-1200x676.jpg"
+}

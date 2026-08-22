@@ -1,0 +1,59 @@
+{
+  "source_id": "24147",
+  "name": "Rượu xoài",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/97ab3843c8575181.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/bi-quyet-lam-ruou-xoai-len-men-sui-bot-thom-lung-vi-trai-cay-24147",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/bi-quyet-lam-ruou-xoai-len-men-sui-bot-thom-lung-vi-trai-cay-24147",
+  "servings_text": "Cho 4 - 5 lít rượu",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Xoài chín 3 kg",
+      "raw_name": "Xoài chín",
+      "quantity": 3,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chanh xanh 1 trái",
+      "raw_name": "Chanh xanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước lọc 4 lít",
+      "raw_name": "Nước lọc 4 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường trắng 800 gr",
+      "raw_name": "Đường trắng",
+      "quantity": 800,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Men rượu 1 muỗng cà phê (loại dùng cho vang sủi tăm)",
+      "raw_name": "Men rượu",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "loại dùng cho vang sủi tăm",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:46:48Z",
+  "page_title": "Bí quyết làm rượu xoài lên men sủi bọt, thơm lừng vị trái cây nhiệt đới",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t02%201200676%20%2877%29.jpg"
+}

@@ -1,0 +1,51 @@
+{
+  "source_id": "07424",
+  "name": "Thơm sấy muối ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ebafeb83fe9b2f4c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thom-say-muoi-ot-bang-may-say-trai-cay-thom-ngon-la-07424",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thom-say-muoi-ot-bang-may-say-trai-cay-thom-ngon-la-07424",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thơm/dứa 1 quả (khoảng 1kg)",
+      "raw_name": "Thơm/dứa",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "khoảng 1kg",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt 4 quả",
+      "raw_name": "Ớt",
+      "quantity": 4,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối tôm 1 muỗng canh",
+      "raw_name": "Muối tôm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/đường/bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/đường/bột ngọt",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:42:53Z",
+  "page_title": "Cách làm thơm sấy muối ớt bằng máy sấy trái cây thơm ngon lạ miệng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookProduct/Thomsaymuoiot1200-1200x675.jpg"
+}

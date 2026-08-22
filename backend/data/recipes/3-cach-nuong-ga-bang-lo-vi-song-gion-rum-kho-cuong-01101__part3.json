@@ -1,0 +1,49 @@
+{
+  "source_id": "01101",
+  "name": "Gà nướng muối ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c87f4fd0bb57a286.png",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-nuong-ga-bang-lo-vi-song-gion-rum-kho-cuong-01101",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-nuong-ga-bang-lo-vi-song-gion-rum-kho-cuong-01101",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà ta 1 con (khoảng 1 - 1.2kg)",
+      "raw_name": "Gà ta 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 1 - 1.2kg",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lá chanh 20 lá",
+      "raw_name": "Lá chanh",
+      "quantity": 20,
+      "unit": "lá",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt sừng băm nhuyễn 5 trái",
+      "raw_name": "Ớt sừng băm nhuyễn",
+      "quantity": 5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T18:16:06Z",
+  "page_title": "3 cách nướng gà bằng lò vi sóng giòn rụm khó cưỡng cực dễ làm tại nhà",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookRecipe/Avatar/ga-nuong-muoi-ot-thumbnail.png"
+}

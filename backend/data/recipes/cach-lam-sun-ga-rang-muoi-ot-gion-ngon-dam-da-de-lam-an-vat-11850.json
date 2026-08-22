@@ -1,0 +1,95 @@
+{
+  "source_id": "11850",
+  "name": "Sụn gà rang muối",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/49c02226fa1f2709.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sun-ga-rang-muoi-ot-gion-ngon-dam-da-de-lam-an-vat-11850",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sun-ga-rang-muoi-ot-gion-ngon-dam-da-de-lam-an-vat-11850",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sụn gà 500 gr",
+      "raw_name": "Sụn gà",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dầu ăn 10 muỗng canh (khoảng 100ml)",
+      "raw_name": "Dầu ăn",
+      "quantity": 10,
+      "unit": "muỗng canh",
+      "note": "khoảng 100ml",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chà bông 50 gr",
+      "raw_name": "Chà bông",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tôm khô 50 gr",
+      "raw_name": "Tôm khô",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt khô 1/2 muỗng cà phê",
+      "raw_name": "Ớt khô",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ngũ vị hương 1/6 muỗng cà phê",
+      "raw_name": "Ngũ vị hương",
+      "quantity": 0.167,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hạt nêm 1/2 muỗng cà phê",
+      "raw_name": "Hạt nêm",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột ngọt 1/2 muỗng cà phê",
+      "raw_name": "Bột ngọt",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột chiên giòn 150 gr",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:18:32Z",
+  "page_title": "Cách làm sụn gà rang muối ớt giòn ngon đậm đà dễ làm ăn vặt cực đã",
+  "original_image_url": "https://cdn.tgdd.vn/2023/04/CookDish/cach-lam-sun-ga-rang-muoi-ot-gion-ngon-dam-da-de-lam-an-vat-avt-1200x676.jpg"
+}

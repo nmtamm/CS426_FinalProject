@@ -1,0 +1,91 @@
+{
+  "source_id": "02502",
+  "name": "Mì trộn phô mai bạch tuột cay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8f514a462277383d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mi-tron-pho-mai-bach-tuoc-cay-thom-ngon-02502",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mi-tron-pho-mai-bach-tuoc-cay-thom-ngon-02502",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mì gói Hàn Quốc 120 gr (1 gói)",
+      "raw_name": "Mì gói Hàn Quốc",
+      "quantity": 120,
+      "unit": "gr",
+      "note": "1 gói",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bạch tuộc 500 g",
+      "raw_name": "Bạch tuộc",
+      "quantity": 500,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Phô mai đun chảy 300 g",
+      "raw_name": "Phô mai đun chảy",
+      "quantity": 300,
+      "unit": "g",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tây 50 g",
+      "raw_name": "Hành tây",
+      "quantity": 50,
+      "unit": "g",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hạt nêm 1/2 muỗng canh",
+      "raw_name": "Hạt nêm",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường trắng 1 muỗng canh",
+      "raw_name": "Đường trắng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước tương 2 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt bột Hàn Quốc 2 muỗng canh",
+      "raw_name": "Ớt bột Hàn Quốc",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hành boa rô 5 g",
+      "raw_name": "Hành boa rô",
+      "quantity": 5,
+      "unit": "g",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:27:20Z",
+  "page_title": "Cách làm mì trộn phô mai bạch tuộc cay thơm ngon, bùi béo, ăn là ghiền",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/05/22/1257425/cach-lam-mi-tron-pho-mai-bach-tuoc-cay-thom-ngon--760x367.jpg"
+}

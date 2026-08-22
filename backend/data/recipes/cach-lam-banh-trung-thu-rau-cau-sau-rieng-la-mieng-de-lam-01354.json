@@ -1,0 +1,71 @@
+{
+  "source_id": "01354",
+  "name": "Bánh trung thu rau câu sầu riêng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1d9b54fcedfa0197.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-rau-cau-sau-rieng-la-mieng-de-lam-01354",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-rau-cau-sau-rieng-la-mieng-de-lam-01354",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột rau câu 3 muỗng cà phê",
+      "raw_name": "Bột rau câu",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột agar 3 muỗng cà phê (bột rau câu giòn)",
+      "raw_name": "Bột agar",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": "bột rau câu giòn",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Thịt sầu riêng 300 gr",
+      "raw_name": "Thịt sầu riêng",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột gấc 1 muỗng canh",
+      "raw_name": "Bột gấc",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cà phê 150 ml",
+      "raw_name": "Cà phê",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 200 gr",
+      "raw_name": "Đường",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:44:06Z",
+  "page_title": "Cách làm bánh trung thu rau câu sầu riêng lạ miệng dễ làm tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookProduct/cach-lam-banh-trung-thu-rau-cau-sau-rieng-la-mieng-de-lam-1-1200x676.jpg"
+}

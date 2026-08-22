@@ -1,0 +1,78 @@
+{
+  "source_id": "16559",
+  "name": "Cuốn diếp bỗng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3953c9b5802e55b5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cai-xanh-cuon-tom-thit-vo-cung-thom-ngon-hap-dan-cho-16559",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cai-xanh-cuon-tom-thit-vo-cung-thom-ngon-hap-dan-cho-16559",
+  "servings_text": "Cho 1 - 2 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt băm 100 gr",
+      "raw_name": "Thịt băm",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cơm rượu 2 muỗng",
+      "raw_name": "Cơm rượu",
+      "quantity": 2,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gia vị 1 ít (nước mắm/bột ngọt/mật ong)",
+      "raw_name": "Gia vị",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "nước mắm/bột ngọt/mật ong",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nguyên liệu ăn kèm 1 ít (trứng chiên/cà rốt/tôm/thịt)",
+      "raw_name": "Nguyên liệu ăn kèm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "trứng chiên/cà rốt/tôm/thịt",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành lá 1 ít",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bún tươi 100 g",
+      "raw_name": "Bún tươi",
+      "quantity": 100,
+      "unit": "g",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Cải bẹ xanh 1 ít",
+      "raw_name": "Cải bẹ xanh",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:34:22Z",
+  "page_title": "Cách làm cải xanh cuốn tôm thịt vô cùng thơm ngon, hấp dẫn cho gia đình",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "Công thức được chia sẻ từ Tiktok Vào bếp cùng Điện máy XANH",
+  "original_image_url": "https://cdn.tgdd.vn/2023/07/CookRecipe/Avatar/cuon-diep-bong-cong-thuc-duoc-chia-se-tu-tiktok-vao-bep-cung-dien-may-xanh-thumbnail.jpg"
+}

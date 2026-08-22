@@ -1,0 +1,107 @@
+{
+  "source_id": "15124",
+  "name": "Bắp cải tím xào chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e79b9a41418bf006.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bap-cai-tim-xao-chay-thom-ngon-thanh-dam-lai-la-15124",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bap-cai-tim-xao-chay-thom-ngon-thanh-dam-lai-la-15124",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bắp cải tím 200 gr",
+      "raw_name": "Bắp cải tím",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bắp cải trắng 200 gr",
+      "raw_name": "Bắp cải trắng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tàu hũ ky 1 lá",
+      "raw_name": "Tàu hũ ky",
+      "quantity": 1,
+      "unit": "lá",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt sừng 1 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành boa rô băm 1 muỗng canh",
+      "raw_name": "Hành boa rô băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước mắm chay 2 muỗng canh",
+      "raw_name": "Nước mắm chay",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Giấm 2 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tương cà 2 muỗng canh",
+      "raw_name": "Tương cà",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 4 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ hạt nêm/ muối)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ hạt nêm/ muối",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:42:15Z",
+  "page_title": "Cách làm bắp cải tím xào chay thơm ngon thanh đạm lại lạ miệng bắt cơm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookDish/2-cach-lam-tau-hu-ky-chien-sa-ot-va-chien-gion-thom-ngon-avt-1200x676.jpg"
+}

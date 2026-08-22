@@ -1,0 +1,87 @@
+{
+  "source_id": "00810",
+  "name": "Bánh quy ngón tay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/00e6b432e728c0b5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-quy-ngon-tay-ma-quai-cho-ngay-halloween-00810",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-quy-ngon-tay-ma-quai-cho-ngay-halloween-00810",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bơ lạt 75 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 75,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường bột 60 gr",
+      "raw_name": "Đường bột",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng gà 1 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Vani nước 10 gr",
+      "raw_name": "Vani nước",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột mì 150 gr",
+      "raw_name": "Bột mì",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột nở 1 muỗng cà phê (baking powder)",
+      "raw_name": "Bột nở",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "baking powder",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hạt hạnh nhân 1 ít",
+      "raw_name": "Hạt hạnh nhân",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Mứt dâu 1 ít",
+      "raw_name": "Mứt dâu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:36:10Z",
+  "page_title": "Cách làm bánh quy ngón tay ma quái cho ngày Halloween",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2017/10/15/1033095/cach-lam-banh-quy-ngon-tay-ma-quai-cho-ngay-halloweensửa-760x367.jpg"
+}

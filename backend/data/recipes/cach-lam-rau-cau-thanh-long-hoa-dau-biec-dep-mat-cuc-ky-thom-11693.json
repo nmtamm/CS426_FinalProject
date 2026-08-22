@@ -1,0 +1,67 @@
+{
+  "source_id": "11693",
+  "name": "Rau câu thanh long hoa đậu biếc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f3d66502fe0a0048.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-rau-cau-thanh-long-hoa-dau-biec-dep-mat-cuc-ky-thom-11693",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-rau-cau-thanh-long-hoa-dau-biec-dep-mat-cuc-ky-thom-11693",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thanh long ruột đỏ 3 trái",
+      "raw_name": "Thanh long ruột đỏ",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hoa đậu biếc 10 cái (tươi hoặc khô)",
+      "raw_name": "Hoa đậu biếc",
+      "quantity": 10,
+      "unit": "cái",
+      "note": "tươi hoặc khô",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột rau câu giòn 25 gr",
+      "raw_name": "Bột rau câu giòn",
+      "quantity": 25,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 250 gr",
+      "raw_name": "Đường",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sữa đặc 80 gr",
+      "raw_name": "Sữa đặc",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước cốt dừa 400 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:22:13Z",
+  "page_title": "Cách làm rau câu thanh long hoa đậu biếc đẹp mắt, cực kỳ thơm ngon",
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookProduct/thum-1200x675-2.jpg"
+}

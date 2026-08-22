@@ -1,0 +1,103 @@
+{
+  "source_id": "11531",
+  "name": "Su su xào lòng gà",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/185c21f193357106.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-su-su-xao-long-ga-thom-ngon-doi-vi-cho-gia-dinh-11531",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-su-su-xao-long-ga-thom-ngon-doi-vi-cho-gia-dinh-11531",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lòng gà 200 gr (1 bộ lòng)",
+      "raw_name": "Lòng gà",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "1 bộ lòng",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Su su 2 quả",
+      "raw_name": "Su su",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành lá 2 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ngò rí 1 ít",
+      "raw_name": "Ngò rí",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tím 6 củ",
+      "raw_name": "Hành tím",
+      "quantity": 6,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng cà phê",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Tiêu xay/ đường/ muối/ hạt nêm/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Tiêu xay/ đường/ muối/ hạt nêm/ bột ngọt",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:09:27Z",
+  "page_title": "Cách làm su su xào lòng gà thơm ngon đổi vị cho gia đình",
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookProduct/thum-1200x676-7.jpg"
+}

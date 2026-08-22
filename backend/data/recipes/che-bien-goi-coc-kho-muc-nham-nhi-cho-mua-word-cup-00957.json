@@ -1,0 +1,95 @@
+{
+  "source_id": "00957",
+  "name": "Gỏi cóc khô mực",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4049f8bcc0b3d617.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/che-bien-goi-coc-kho-muc-nham-nhi-cho-mua-word-cup-00957",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/che-bien-goi-coc-kho-muc-nham-nhi-cho-mua-word-cup-00957",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cóc non 1 kg",
+      "raw_name": "Cóc non",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Khô mực 2 con",
+      "raw_name": "Khô mực 2 con",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tím 3 củ",
+      "raw_name": "Hành tím",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rau húng quế 30 gr",
+      "raw_name": "Rau húng quế",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đậu phộng rang 300 gr (hoặc hạt điều)",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 300,
+      "unit": "gr",
+      "note": "hoặc hạt điều",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước mắm 3 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 3 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tắc 2 trái",
+      "raw_name": "Tắc",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng cà phê",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:03:24Z",
+  "page_title": "Chế biến gỏi cóc khô mực nhâm nhi cho mùa World Cup",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2018/05/31/1092210/che-bien-goi-coc-kho-muc-nham-nhi-cho-mua-word-cup-7-760x367.jpg"
+}

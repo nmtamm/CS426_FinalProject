@@ -1,0 +1,87 @@
+{
+  "source_id": "13830",
+  "name": "Súp gà kem nấm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2087bf6f271a7be3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sup-ga-kem-nam-thom-ngon-dinh-duong-13830",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sup-ga-kem-nam-thom-ngon-dinh-duong-13830",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-canh",
+      "name": "Món canh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt gà 200 gr",
+      "raw_name": "Thịt gà",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm mỡ 80 gram",
+      "raw_name": "Nấm mỡ 80 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tây 1/2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bơ lạt 50 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột mì 20 gr",
+      "raw_name": "Bột mì",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Kem sữa nấu ăn 200 ml (cooking cream)",
+      "raw_name": "Kem sữa nấu ăn",
+      "quantity": 200,
+      "unit": "ml",
+      "note": "cooking cream",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột nêm gà 1 muỗng canh",
+      "raw_name": "Bột nêm gà",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:08:44Z",
+  "page_title": "Cách làm súp gà kem nấm thơm ngon, dinh dưỡng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookDish/cach-lam-sup-ga-kem-nam-thom-ngon-dinh-duong-avt-1200x676.jpg"
+}

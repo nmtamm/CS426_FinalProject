@@ -1,0 +1,85 @@
+{
+  "source_id": "07094",
+  "name": "Chả cá chay đậu hủ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/91683651bfca51cb.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-cha-ca-chay-bap-va-dau-hu-moi-la-dai-ngon-nhu-07094",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-cha-ca-chay-bap-va-dau-hu-moi-la-dai-ngon-nhu-07094",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tàu hủ ky 150 gr",
+      "raw_name": "Tàu hủ ky",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu hủ trắng 50 gr",
+      "raw_name": "Đậu hủ trắng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột mì 30 gr",
+      "raw_name": "Bột mì",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rong biển 2 gr",
+      "raw_name": "Rong biển",
+      "quantity": 2,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ tiêu/ đường)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ tiêu/ đường",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hạt nêm chay 1 ít",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:50:42Z",
+  "page_title": "2 cách làm chả cá chay bắp và đậu hũ mới lạ dai ngon như ngoài hàng",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookRecipe/Avatar/cha-ca-chay-dau-hu-thumbnail-1.jpg"
+}

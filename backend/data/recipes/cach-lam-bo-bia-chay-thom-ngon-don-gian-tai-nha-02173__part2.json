@@ -1,0 +1,118 @@
+{
+  "source_id": "02173",
+  "name": "Bò bía chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/066391780a469d12.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bo-bia-chay-thom-ngon-don-gian-tai-nha-02173",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bo-bia-chay-thom-ngon-don-gian-tai-nha-02173",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nước cốt dừa 1 chén",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tương đen 1 chén",
+      "raw_name": "Tương đen",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bơ đậu phộng 1 chén",
+      "raw_name": "Bơ đậu phộng",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành boa rô 1/2 muỗng canh",
+      "raw_name": "Hành boa rô",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối hồng 10 gr",
+      "raw_name": "Muối hồng",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sắn 1 củ",
+      "raw_name": "Sắn",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đậu hũ 1 miếng",
+      "raw_name": "Đậu hũ 1 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đậu phộng rang 1 chén",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bánh tráng cuốn 1 gói",
+      "raw_name": "Bánh tráng cuốn",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị nêm 1 ít (đường;hạt nêm chay)",
+      "raw_name": "Gia vị nêm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường;hạt nêm chay",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Rau cuốn 1 ít (xà lách;rau thơm; rau diếp cá)",
+      "raw_name": "Rau cuốn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "xà lách;rau thơm; rau diếp cá",
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:45:48Z",
+  "page_title": "2 cách làm bò bía chay thơm ngon đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "Công thức từ kênh tiktok Vào bếp cùng Điện máy XANH!",
+  "original_image_url": "https://cdn.tgdd.vn/2023/06/CookRecipe/Avatar/bo-bia-chay-cong-thuc-tu-kenh-tiktok-vao-bep-cung-dien-may-xanh-thumbnail.jpg"
+}

@@ -1,0 +1,69 @@
+{
+  "source_id": "02077",
+  "name": "Cơm chiên nấm bào ngư",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ef1494eacee33049.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-com-chien-chay-bat-buu-chay-va-chien-nam-bao-ngu-02077",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-com-chien-chay-bat-buu-chay-va-chien-nam-bao-ngu-02077",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cơm trắn tô 1 g",
+      "raw_name": "Cơm trắn tô",
+      "quantity": 1,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu hũ trắng 50 gram",
+      "raw_name": "Đậu hũ trắng 50 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nấm bào ngư 30 gram",
+      "raw_name": "Nấm bào ngư 30 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bắp non 6 trái",
+      "raw_name": "Bắp non",
+      "quantity": 6,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Boa rô 1 cây (tỏi tây)",
+      "raw_name": "Boa rô",
+      "quantity": 1,
+      "unit": "cây",
+      "note": "tỏi tây",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị (Nước tương/hạt nêm 10 gram",
+      "raw_name": "Gia vị (Nước tương/hạt nêm 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:42:06Z",
+  "page_title": "Cách làm 4 món cơm chiên bát bửu chay và cơm chiên nấm thơm ngon",
+  "variant_index": 2,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookRecipe/Avatar/com-chien-nam-bao-ngu-thumbnail.jpg"
+}

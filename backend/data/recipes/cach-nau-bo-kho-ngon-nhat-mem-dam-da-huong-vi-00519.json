@@ -1,0 +1,127 @@
+{
+  "source_id": "00519",
+  "name": "Bò kho",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/45c1dd143a591f37.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-bo-kho-ngon-nhat-mem-dam-da-huong-vi-00519",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-bo-kho-ngon-nhat-mem-dam-da-huong-vi-00519",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-kho",
+      "name": "Món kho"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò (bắp 800 gr",
+      "raw_name": "Thịt bò (bắp",
+      "quantity": 800,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa tươi không đường 200 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 2 trái",
+      "raw_name": "Cà rốt",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột bắp 50 gr",
+      "raw_name": "Bột bắp",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gia vị bò kho 10 gr (2 viên)",
+      "raw_name": "Gia vị bò kho",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "2 viên",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gừng cắt lát 1/2 củ",
+      "raw_name": "Gừng cắt lát",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Sả 200 gr",
+      "raw_name": "Sả",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành 1 muỗng canh",
+      "raw_name": "Hành",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tỏi 1 muỗng canh",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đường 2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Hạt nêm 1 muỗng canh",
+      "raw_name": "Hạt nêm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Tiêu 1 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T18:30:37Z",
+  "page_title": "Cách nấu bò kho ngon nhất bằng nồi cơm điện",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2015/11/04/733526/cach-nau-bo-kho-ngon-nhat-mem-dam-da-huong-vi-8-760x367.jpg"
+}

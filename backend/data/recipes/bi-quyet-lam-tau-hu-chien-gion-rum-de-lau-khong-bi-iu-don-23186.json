@@ -1,0 +1,47 @@
+{
+  "source_id": "23186",
+  "name": "Tàu hũ chiên giòn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bf10df72c67d51e5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/bi-quyet-lam-tau-hu-chien-gion-rum-de-lau-khong-bi-iu-don-23186",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/bi-quyet-lam-tau-hu-chien-gion-rum-de-lau-khong-bi-iu-don-23186",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu hũ trắng 4 miếng",
+      "raw_name": "Đậu hũ trắng 4 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối/ bột mì 1 ít",
+      "raw_name": "Muối/ bột mì",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước đá 1 ít",
+      "raw_name": "Nước đá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T18:36:26Z",
+  "page_title": "Bí quyết làm tàu hũ chiên giòn rụm, để lâu không bị ỉu, đơn giản tại nhà",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20thumb%20to%20t8%20-%202025-09-10T153626.726.jpg"
+}

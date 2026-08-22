@@ -1,0 +1,77 @@
+{
+  "source_id": "05589",
+  "name": "Bánh quy vòng xoáy không cần trứng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/14ff4a3185e9aed4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-quy-gion-giang-sinh-bat-mat-thom-ngon-don-gian-05589",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-quy-gion-giang-sinh-bat-mat-thom-ngon-don-gian-05589",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì đa dụng 360 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 360,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bơ lạt 227 gr (để lạnh)",
+      "raw_name": "Bơ lạt",
+      "quantity": 227,
+      "unit": "gr",
+      "note": "để lạnh",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tinh chất vani 1 muỗng cà phê",
+      "raw_name": "Tinh chất vani",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tinh chất bạc hà 1/2 muỗng cà phê",
+      "raw_name": "Tinh chất bạc hà",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Màu thực phẩm 1 ít (đỏ/ xanh lá)",
+      "raw_name": "Màu thực phẩm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đỏ/ xanh lá",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 200 gr",
+      "raw_name": "Đường",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối 1/4 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:40:12Z",
+  "page_title": "2 cách làm bánh quy vòng xoáy - Pinwheel cookies bắt mắt cho mùa Giáng Sinh",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/banh-quy-vong-xoay-khong-can-trung-thumbnail-1.jpg"
+}

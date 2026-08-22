@@ -1,0 +1,95 @@
+{
+  "source_id": "16434",
+  "name": "Bánh tét nhân ngọt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ed1727eca8740b45.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-tet-nhan-ngot-thom-ngon-moi-la-hap-dan-don-gian-16434",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-tet-nhan-ngot-thom-ngon-moi-la-hap-dan-don-gian-16434",
+  "servings_text": "Cho 8 cái bánh",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nếp 1.3 kg",
+      "raw_name": "Nếp",
+      "quantity": 1.3,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu xanh 400 gr",
+      "raw_name": "Đậu xanh",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu đen 100 gr",
+      "raw_name": "Đậu đen",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dừa bào sợi 100 gr",
+      "raw_name": "Dừa bào sợi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường thốt nốt 300 gr",
+      "raw_name": "Đường thốt nốt",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối 3 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước cốt lá dứa 750 ml",
+      "raw_name": "Nước cốt lá dứa",
+      "quantity": 750,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Lá chuối 1 kg",
+      "raw_name": "Lá chuối",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:35:09Z",
+  "page_title": "Cách làm bánh tét nhân ngọt thơm ngon mới lạ hấp dẫn đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/2022/01/CookDish/cach-lam-banh-tet-nhan-ngot-thom-ngon-moi-la-hap-dan-don-gian-avt-1200x676.jpg"
+}

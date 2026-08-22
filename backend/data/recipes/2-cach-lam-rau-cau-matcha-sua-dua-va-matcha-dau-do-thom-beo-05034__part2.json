@@ -1,0 +1,69 @@
+{
+  "source_id": "05034",
+  "name": "Rau câu matcha đậu đỏ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4944fc24bfaa3bb1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-rau-cau-matcha-sua-dua-va-matcha-dau-do-thom-beo-05034",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-rau-cau-matcha-sua-dua-va-matcha-dau-do-thom-beo-05034",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu đỏ 150 gr",
+      "raw_name": "Đậu đỏ",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột matcha 10 gr",
+      "raw_name": "Bột matcha",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường phèn 250 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Vani 15 ml",
+      "raw_name": "Vani",
+      "quantity": 15,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột rau câu giòn 14 gr",
+      "raw_name": "Bột rau câu giòn",
+      "quantity": 14,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 1 gr",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:07:19Z",
+  "page_title": "2 cách làm rau câu matcha sữa dừa và matcha đậu đỏ thơm béo núng nính",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookRecipe/Avatar/rau-cau-matcha-dau-do-thumbnail.jpg"
+}

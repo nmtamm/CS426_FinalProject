@@ -1,0 +1,45 @@
+{
+  "source_id": "01241",
+  "name": "Mứt nho khô",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ea8b967f2cecd463.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-nho-kho-va-cach-lam-mut-nho-deo-ngot-thom-01241",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-nho-kho-va-cach-lam-mut-nho-deo-ngot-thom-01241",
+  "servings_text": "Cho 1.2kg mứt",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nho tươi 2 kg",
+      "raw_name": "Nho tươi",
+      "quantity": 2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cafe muối ăn 2 thìa",
+      "raw_name": "Cafe muối ăn",
+      "quantity": 2,
+      "unit": "thìa",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 200 g",
+      "raw_name": "Đường",
+      "quantity": 200,
+      "unit": "g",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:44:57Z",
+  "page_title": "Cách làm mứt nho khô và cách làm mứt nho dẻo ngọt thơm dễ làm cho ngày Tết",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/cach-lam-mut-nho-kho-thumbnail.jpg"
+}

@@ -1,0 +1,61 @@
+{
+  "source_id": "00953",
+  "name": "Sâm bí đao",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/46a274f8fa20a6a6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-mon-nuoc-mat-giai-nhiet-cho-ngay-nang-nong--00953",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-mon-nuoc-mat-giai-nhiet-cho-ngay-nang-nong--00953",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bí đao 1.5 kg",
+      "raw_name": "Bí đao",
+      "quantity": 1.5,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lá dứa 1 bó",
+      "raw_name": "Lá dứa 1 bó",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường phèn 100 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Thục địa 5 gr",
+      "raw_name": "Thục địa",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Trái la hán 1 quả",
+      "raw_name": "Trái la hán",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:58:22Z",
+  "page_title": "5 cách nấu nước mát giải nhiệt cực tốt, cực thơm ngon cho mùa nắng nóng",
+  "variant_index": 1,
+  "variant_count": 5,
+  "original_image_url": "https://img.youtube.com/vi/tgXF-ZFXqQY/maxresdefault.jpg"
+}

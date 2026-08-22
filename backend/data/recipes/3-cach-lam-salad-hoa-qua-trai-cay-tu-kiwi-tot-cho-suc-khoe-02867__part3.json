@@ -1,0 +1,69 @@
+{
+  "source_id": "02867",
+  "name": "Salad kiwi trái cây xanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/19c22d6c7a28b9cf.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-salad-hoa-qua-trai-cay-tu-kiwi-tot-cho-suc-khoe-02867",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-salad-hoa-qua-trai-cay-tu-kiwi-tot-cho-suc-khoe-02867",
+  "servings_text": "Cho 1 phần",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa lưới ruột xanh 5 muỗng canh",
+      "raw_name": "Dưa lưới ruột xanh",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Kiwi 5 muỗng canh",
+      "raw_name": "Kiwi",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Táo xanh 5 muỗng canh",
+      "raw_name": "Táo xanh",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nho xanh 2 muỗng canh",
+      "raw_name": "Nho xanh",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Mật ong 1/2 muỗng cà phê",
+      "raw_name": "Mật ong",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T17:55:20Z",
+  "page_title": "3 Cách làm salad hoa quả - trái cây từ kiwi tốt cho sức khỏe đơn giản",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/cach-lam-salad-hoa-qua-xanh-thumbnail.jpg"
+}

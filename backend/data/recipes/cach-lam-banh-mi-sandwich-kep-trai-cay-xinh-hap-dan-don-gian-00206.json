@@ -1,0 +1,63 @@
+{
+  "source_id": "00206",
+  "name": "bánh mì sandwich kẹp trái cây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/81657f40ca97344d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-mi-sandwich-kep-trai-cay-xinh-hap-dan-don-gian-00206",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-mi-sandwich-kep-trai-cay-xinh-hap-dan-don-gian-00206",
+  "servings_text": "Cho 1 cái",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh mì sandwich 2 cái",
+      "raw_name": "Bánh mì sandwich",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dâu tây 1 trái",
+      "raw_name": "Dâu tây",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Kiwi xanh 1 trái",
+      "raw_name": "Kiwi xanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Whipping cream 250 ml",
+      "raw_name": "Whipping cream",
+      "quantity": 250,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 25 g",
+      "raw_name": "Đường",
+      "quantity": 25,
+      "unit": "g",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:00:08Z",
+  "page_title": "Cách làm bánh mì sandwich kẹp trái cây siêu xinh hấp dẫn đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/2020/06/CookProduct/1200-1200x676.jpg"
+}

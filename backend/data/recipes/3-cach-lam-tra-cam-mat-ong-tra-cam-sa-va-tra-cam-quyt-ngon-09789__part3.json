@@ -1,0 +1,53 @@
+{
+  "source_id": "09789",
+  "name": "Trà cam quýt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7a2d7f97ae4ae8c3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-tra-cam-mat-ong-tra-cam-sa-va-tra-cam-quyt-ngon-09789",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-tra-cam-mat-ong-tra-cam-sa-va-tra-cam-quyt-ngon-09789",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà nhài 1 muỗng canh",
+      "raw_name": "Trà nhài",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cam 1/2 quả",
+      "raw_name": "Cam",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Quýt 1/2 quả",
+      "raw_name": "Quýt",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước đường 2 muỗng canh",
+      "raw_name": "Nước đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:55:35Z",
+  "page_title": "3 cách làm trà cam mật ong, trà cam sả và trà cam quýt ngon khó cưỡng",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/tra-cam-quyt-thumbnail.jpg"
+}

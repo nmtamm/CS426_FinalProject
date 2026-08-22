@@ -1,0 +1,73 @@
+{
+  "source_id": "09915",
+  "name": "Nước ép sơ ri và bưởi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/06ebb51229b2a50a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-ep-so-ri-tot-cho-suc-khoe-thom-ngon-thanh-mat-09915",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-ep-so-ri-tot-cho-suc-khoe-thom-ngon-thanh-mat-09915",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bưởi da xanh 1 trái",
+      "raw_name": "Bưởi da xanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sơ ri 200 gr",
+      "raw_name": "Sơ ri",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước cốt tắc 100 ml",
+      "raw_name": "Nước cốt tắc",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước đường 250 ml",
+      "raw_name": "Nước đường",
+      "quantity": 250,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rượu trắng 1 muỗng cà phê",
+      "raw_name": "Rượu trắng",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:53:01Z",
+  "page_title": "2 cách làm nước ép sơ ri tốt cho sức khỏe, thơm ngon thanh mát",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/nuoc-ep-so-ri-va-buoi-thumbnail-1.jpg"
+}

@@ -1,0 +1,131 @@
+{
+  "source_id": "17935",
+  "name": "Gỏi gà ủ muối với măng cụt và rau củ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d0ddaead42099705.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-ga-u-muoi-voi-mang-cut-va-rau-cu-thom-ngon-la-17935",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-ga-u-muoi-voi-mang-cut-va-rau-cu-thom-ngon-la-17935",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà ủ muối 1/2 con",
+      "raw_name": "Gà ủ muối 1/2 con",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Măng cụt xanh 10 trái",
+      "raw_name": "Măng cụt xanh",
+      "quantity": 10,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1/2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tây 2/3 củ",
+      "raw_name": "Hành tây",
+      "quantity": 0.667,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rau răm 100 gr",
+      "raw_name": "Rau răm",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành khô 200 gr (hành tím)",
+      "raw_name": "Hành khô",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "hành tím",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi 1 củ (băm nhỏ)",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "băm nhỏ",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt 1 trái (băm nhỏ)",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "trái",
+      "note": "băm nhỏ",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Lạc rang 50 gr",
+      "raw_name": "Lạc rang",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước cốt chanh 1.5 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Tương ớt 1/2 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Giấm 2 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Đường 4 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T17:53:35Z",
+  "page_title": "Cách làm gỏi gà ủ muối với măng cụt và rau củ thơm ngon lạ miệng ăn là mê",
+  "original_image_url": "https://cdn.tgdd.vn/2022/08/CookDish/cach-lam-goi-ga-u-muoi-voi-mang-cut-va-rau-cu-thom-ngon-la-avt-1200x676.jpg"
+}

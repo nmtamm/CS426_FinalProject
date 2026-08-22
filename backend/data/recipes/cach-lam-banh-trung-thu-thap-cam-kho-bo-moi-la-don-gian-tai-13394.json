@@ -1,0 +1,203 @@
+{
+  "source_id": "13394",
+  "name": "Bánh trung thu thập cẩm khô bò",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d62bb02528f78604.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-thap-cam-kho-bo-moi-la-don-gian-tai-13394",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-thap-cam-kho-bo-moi-la-don-gian-tai-13394",
+  "servings_text": "Cho 6 bánh (150gr)",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì đa dụng - Bột mì số 11 190 gr",
+      "raw_name": "Bột mì đa dụng - Bột mì số 11",
+      "quantity": 190,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước đường bánh trung thu nướng 120 gr",
+      "raw_name": "Nước đường bánh trung thu nướng",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dầu ăn 25 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 25,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ngũ vị hương 1 gr",
+      "raw_name": "Ngũ vị hương",
+      "quantity": 1,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bơ đậu phộng 10 gr",
+      "raw_name": "Bơ đậu phộng",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lòng đỏ trứng gà 3 cái",
+      "raw_name": "Lòng đỏ trứng gà",
+      "quantity": 3,
+      "unit": "cái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Trứng vịt muối 6 quả",
+      "raw_name": "Trứng vịt muối",
+      "quantity": 6,
+      "unit": "quả",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Lạp xưởng 150 gr",
+      "raw_name": "Lạp xưởng",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Chanh 5 lá",
+      "raw_name": "Chanh",
+      "quantity": 5,
+      "unit": "lá",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Rượu mai quế lộ 10 ml",
+      "raw_name": "Rượu mai quế lộ",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Bơ đậu phộng 40 gr",
+      "raw_name": "Bơ đậu phộng",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Chà bông heo 40 gr (ruốc heo)",
+      "raw_name": "Chà bông heo",
+      "quantity": 40,
+      "unit": "gr",
+      "note": "ruốc heo",
+      "display_order": 12
+    },
+    {
+      "raw_text": "Khô bò 50 gr",
+      "raw_name": "Khô bò",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Hạt dưa 40 gr",
+      "raw_name": "Hạt dưa",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Hạt bí 40 gr",
+      "raw_name": "Hạt bí",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Hạt điều 40 gr",
+      "raw_name": "Hạt điều",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Mứt bí 40 gr",
+      "raw_name": "Mứt bí",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 17
+    },
+    {
+      "raw_text": "Dầu hào 40 gr",
+      "raw_name": "Dầu hào",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 18
+    },
+    {
+      "raw_text": "Bột bánh dẻo 40 gr",
+      "raw_name": "Bột bánh dẻo",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 19
+    },
+    {
+      "raw_text": "Mè trắng 20 gr",
+      "raw_name": "Mè trắng",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 20
+    },
+    {
+      "raw_text": "Sữa tươi 20 ml",
+      "raw_name": "Sữa tươi",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 21
+    },
+    {
+      "raw_text": "Dầu mè 5 ml (để quét mặt bánh)",
+      "raw_name": "Dầu mè",
+      "quantity": 5,
+      "unit": "ml",
+      "note": "để quét mặt bánh",
+      "display_order": 22
+    },
+    {
+      "raw_text": "Rượu trắng 40 ml",
+      "raw_name": "Rượu trắng",
+      "quantity": 40,
+      "unit": "ml",
+      "note": null,
+      "display_order": 23
+    }
+  ],
+  "scraped_at": "2026-08-19T19:33:49Z",
+  "page_title": "Cách làm bánh trung thu thập cẩm khô bò mới lạ đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookProduct/4-1200x676-1.jpg"
+}

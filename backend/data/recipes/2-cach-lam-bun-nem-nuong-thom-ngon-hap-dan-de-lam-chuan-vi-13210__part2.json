@@ -1,0 +1,153 @@
+{
+  "source_id": "13210",
+  "name": "Bún nem nướng chả giò",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/cee84d0591e798e3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-bun-nem-nuong-thom-ngon-hap-dan-de-lam-chuan-vi-13210",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-bun-nem-nuong-thom-ngon-hap-dan-de-lam-chuan-vi-13210",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bún tươi 1 kg",
+      "raw_name": "Bún tươi",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bún tàu khô 50 gr",
+      "raw_name": "Bún tàu khô",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Thịt heo 1.1 kg",
+      "raw_name": "Thịt heo",
+      "quantity": 1.1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mỡ heo 100 gr",
+      "raw_name": "Mỡ heo",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Giò sống 300 gr",
+      "raw_name": "Giò sống",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tím 100 gr",
+      "raw_name": "Hành tím",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi 50 gr",
+      "raw_name": "Tỏi",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đậu phộng 50 gr (rang sẵn)",
+      "raw_name": "Đậu phộng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "rang sẵn",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nấm mèo khô 50 gr (mộc nhĩ)",
+      "raw_name": "Nấm mèo khô",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "mộc nhĩ",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Bánh tráng 100 gr",
+      "raw_name": "Bánh tráng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Hành lá 100 gr",
+      "raw_name": "Hành lá",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Rau sống 200 gr (rau thơm/ xà lách/ húng quế/ giá/ ngò...)",
+      "raw_name": "Rau sống",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "rau thơm/ xà lách/ húng quế/ giá/ ngò...",
+      "display_order": 14
+    },
+    {
+      "raw_text": "Dầu ăn 100 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (bột ngọt/ đường/ muối/ tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "bột ngọt/ đường/ muối/ tiêu",
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T20:38:05Z",
+  "page_title": "2 cách làm bún nem nướng thơm ngon hấp dẫn dễ làm chuẩn vị ngoài hàng",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/bun-nem-nuong-cha-gio-thumbnail.jpg"
+}

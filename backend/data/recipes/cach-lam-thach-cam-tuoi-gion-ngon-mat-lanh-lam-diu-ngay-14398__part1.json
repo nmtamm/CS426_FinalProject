@@ -1,0 +1,58 @@
+{
+  "source_id": "14398",
+  "name": "Thạch rau câu cam tươi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0f3f21f8d47c9378.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thach-cam-tuoi-gion-ngon-mat-lanh-lam-diu-ngay-14398",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thach-cam-tuoi-gion-ngon-mat-lanh-lam-diu-ngay-14398",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột rau câu giòn 5 gr",
+      "raw_name": "Bột rau câu giòn",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cam tươi 2 trái",
+      "raw_name": "Cam tươi",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 200 gr",
+      "raw_name": "Đường",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước lọc 500 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:17:21Z",
+  "page_title": "4 cách làm thạch rau câu cam tươi giòn, mát lạnh làm dịu ngày nắng nóng",
+  "variant_index": 1,
+  "variant_count": 4,
+  "note": "công thức được chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookRecipe/Avatar/thach-cam-thumbnail.jpg"
+}

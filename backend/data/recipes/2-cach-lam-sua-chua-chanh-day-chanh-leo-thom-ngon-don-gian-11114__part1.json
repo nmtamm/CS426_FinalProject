@@ -1,0 +1,85 @@
+{
+  "source_id": "11114",
+  "name": "Sữa chua chanh dây (chanh leo) hũ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d0672a9c46e9970f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sua-chua-chanh-day-chanh-leo-thom-ngon-don-gian-11114",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sua-chua-chanh-day-chanh-leo-thom-ngon-don-gian-11114",
+  "servings_text": "Cho 6 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sữa chua 2 hộp (200gr)",
+      "raw_name": "Sữa chua",
+      "quantity": 2,
+      "unit": "hộp",
+      "note": "200gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa đặc 350 gr",
+      "raw_name": "Sữa đặc",
+      "quantity": 350,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa tươi không đường 1 lít",
+      "raw_name": "Sữa tươi không đường 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Siro chanh dây 60 ml",
+      "raw_name": "Siro chanh dây",
+      "quantity": 60,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Phô mai 6 miếng",
+      "raw_name": "Phô mai 6 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tinh chất vani 1 muỗng cà phê",
+      "raw_name": "Tinh chất vani",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước 300 ml",
+      "raw_name": "Nước",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:55:01Z",
+  "page_title": "2 cách làm sữa chua chanh dây (chanh leo) thơm ngon, đơn giản tại nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookRecipe/Avatar/sua-chua-chanh-day-chanh-leo-hu-thumbnail-1.jpg"
+}

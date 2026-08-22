@@ -1,0 +1,27 @@
+{
+  "source_id": "23938",
+  "name": "Bột gạo lứt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2675a668bf9288cf.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bot-gao-lut-sieu-min-don-gian-cho-nguoi-an-kieng-tai-23938",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bot-gao-lut-sieu-min-don-gian-cho-nguoi-an-kieng-tai-23938",
+  "servings_text": "Cho 500 gram bột gạo lứt",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gạo lứt đỏ 500 gram",
+      "raw_name": "Gạo lứt đỏ 500 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    }
+  ],
+  "scraped_at": "2026-08-19T20:25:16Z",
+  "page_title": "Cách làm bột gạo lứt siêu mịn, đơn giản cho người ăn kiêng tại nhà",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/cach-lam-bot-gao-lut.jpg"
+}

@@ -1,0 +1,69 @@
+{
+  "source_id": "01123",
+  "name": "Nước chấm ốc sả ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bd1a1ca4a7f0982d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cong-thuc-cach-pha-nuoc-cham-oc-chuan-nhu-ngoai-hang-01123",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cong-thuc-cach-pha-nuoc-cham-oc-chuan-nhu-ngoai-hang-01123",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sả 3 nhánh",
+      "raw_name": "Sả",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 4 tép",
+      "raw_name": "Tỏi 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt hiểm 2 trái",
+      "raw_name": "Ớt hiểm",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:15:39Z",
+  "page_title": "7 cách làm nước chấm ốc luộc, hấp, nướng ngon đơn giản đậm đà ăn là ghiền",
+  "variant_index": 6,
+  "variant_count": 7,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/nuoc-cham-oc-sa-ot-thumbnail.jpg"
+}

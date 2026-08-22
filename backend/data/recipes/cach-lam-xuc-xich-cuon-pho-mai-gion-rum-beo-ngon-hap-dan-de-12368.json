@@ -1,0 +1,87 @@
+{
+  "source_id": "12368",
+  "name": "Xúc xích cuộn phô mai",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/dcb4ac9e57f01956.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-xuc-xich-cuon-pho-mai-gion-rum-beo-ngon-hap-dan-de-12368",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-xuc-xich-cuon-pho-mai-gion-rum-beo-ngon-hap-dan-de-12368",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Xúc xích 6 cây",
+      "raw_name": "Xúc xích",
+      "quantity": 6,
+      "unit": "cây",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Phô mai 6 miếng",
+      "raw_name": "Phô mai 6 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng gà 1 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột mì đa dụng 175 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 175,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột nở 65 gr",
+      "raw_name": "Bột nở",
+      "quantity": 65,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sữa tươi 180 ml",
+      "raw_name": "Sữa tươi",
+      "quantity": 180,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 300 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối/ tiêu 1 ít",
+      "raw_name": "Muối/ tiêu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:14:59Z",
+  "page_title": "Cách làm xúc xích cuộn phô mai giòn rụm béo ngon hấp dẫn dễ làm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/BeFunky-collage(70)-1200x676.jpg"
+}

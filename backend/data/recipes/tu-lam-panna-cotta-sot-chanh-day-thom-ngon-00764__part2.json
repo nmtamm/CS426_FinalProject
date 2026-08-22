@@ -1,0 +1,58 @@
+{
+  "source_id": "00764",
+  "name": "Panacotta chanh dây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/04f29c63bb213a1c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/tu-lam-panna-cotta-sot-chanh-day-thom-ngon-00764",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/tu-lam-panna-cotta-sot-chanh-day-thom-ngon-00764",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chanh dây 100 gr",
+      "raw_name": "Chanh dây",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gelatin 20 gr",
+      "raw_name": "Gelatin",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 500 gr",
+      "raw_name": "Đường",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa tươi 400 ml",
+      "raw_name": "Sữa tươi",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:19:28Z",
+  "page_title": "Cách làm panna cotta chanh dây (chanh leo) mềm béo chua nhẹ cực đơn giản",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "Công thức được chia sẻ từ TikTok Vào bếp cùng Điện máy XANH",
+  "original_image_url": "https://cdn.tgdd.vn/2023/08/CookRecipe/Avatar/panacotta-chanh-day-cong-thuc-duoc-chia-se-tu-tiktok-vao-bep-cung-dien-may-xanh-thumbnail.jpg"
+}

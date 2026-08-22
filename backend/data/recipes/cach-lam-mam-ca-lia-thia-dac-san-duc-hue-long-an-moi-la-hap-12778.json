@@ -1,0 +1,107 @@
+{
+  "source_id": "12778",
+  "name": "Mắm cá lia thia",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f66c828cc3f1b66b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mam-ca-lia-thia-dac-san-duc-hue-long-an-moi-la-hap-12778",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mam-ca-lia-thia-dac-san-duc-hue-long-an-moi-la-hap-12778",
+  "servings_text": "Cho 4",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cá lia thia 400 gr (cá bã trầu)",
+      "raw_name": "Cá lia thia",
+      "quantity": 400,
+      "unit": "gr",
+      "note": "cá bã trầu",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tỏi 5 tép",
+      "raw_name": "Tỏi 5 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt 2 trái",
+      "raw_name": "Ớt",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối hạt 50 gr",
+      "raw_name": "Muối hạt",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rượu trắng 1 muỗng cà phê (rượu gạo hoặc rượu nếp)",
+      "raw_name": "Rượu trắng",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "rượu gạo hoặc rượu nếp",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gạo 25 gr",
+      "raw_name": "Gạo",
+      "quantity": 25,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường mía 50 g (thắng kẹo)",
+      "raw_name": "Đường mía",
+      "quantity": 50,
+      "unit": "g",
+      "note": "thắng kẹo",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường thốt nốt 100 g",
+      "raw_name": "Đường thốt nốt",
+      "quantity": 100,
+      "unit": "g",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước 30 ml",
+      "raw_name": "Nước",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tỏi và ớt cắt nhỏ 1 ít",
+      "raw_name": "Tỏi và ớt cắt nhỏ",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gừng cắt nhỏ 1 ít",
+      "raw_name": "Gừng cắt nhỏ",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T20:26:50Z",
+  "page_title": "Cách làm mắm cá lia thia đặc sản Đức Huệ - Long An mới lạ hấp dẫn",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/17-1200x676-1.jpg"
+}

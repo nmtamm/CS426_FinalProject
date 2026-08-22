@@ -1,0 +1,61 @@
+{
+  "source_id": "16635",
+  "name": "Trà táo đỏ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d8b5c89e65304160.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-tao-do-thom-ngon-thanh-mat-cuc-don-gian-tai-16635",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-tao-do-thom-ngon-thanh-mat-cuc-don-gian-tai-16635",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Táo đỏ 7 trái (táo Tàu)",
+      "raw_name": "Táo đỏ",
+      "quantity": 7,
+      "unit": "trái",
+      "note": "táo Tàu",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gừng 3 lát",
+      "raw_name": "Gừng 3 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trà túi lọc 1 gói",
+      "raw_name": "Trà túi lọc",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 2 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước sôi 200 ml",
+      "raw_name": "Nước sôi",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:58:46Z",
+  "page_title": "2 Cách làm trà táo đỏ thơm ngon thanh mát cực đơn giản tại nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2022/02/CookRecipe/Avatar/tra-tao-do-thumbnail.jpg"
+}

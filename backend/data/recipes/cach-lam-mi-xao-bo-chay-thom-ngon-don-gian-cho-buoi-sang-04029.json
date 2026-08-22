@@ -1,0 +1,123 @@
+{
+  "source_id": "04029",
+  "name": "Mì xào bò chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d4bf8bba47d38e54.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mi-xao-bo-chay-thom-ngon-don-gian-cho-buoi-sang-04029",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mi-xao-bo-chay-thom-ngon-don-gian-cho-buoi-sang-04029",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mì spaghetti 300 gr",
+      "raw_name": "Mì spaghetti",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt tiêu 100 gr",
+      "raw_name": "Thịt tiêu",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bắp ngọt 200 gr",
+      "raw_name": "Bắp ngọt",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 200 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nấm đông cô 200 gr",
+      "raw_name": "Nấm đông cô",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 2 muỗng",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hạt nêm chay 2 muỗng",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 2,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu dầu ăn 1 chén",
+      "raw_name": "Dầu dầu ăn",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Chai tươn ớt 1 g",
+      "raw_name": "Chai tươn ớt",
+      "quantity": 1,
+      "unit": "g",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Chai nước tươn 1 g",
+      "raw_name": "Chai nước tươn",
+      "quantity": 1,
+      "unit": "g",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị bò kho 1 gói",
+      "raw_name": "Gia vị bò kho",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Ngò rí 100 gr",
+      "raw_name": "Ngò rí",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Hành 100 gr",
+      "raw_name": "Hành",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T18:51:27Z",
+  "page_title": "Cách làm mì xào bò chay thơm ngon đơn giản cho buổi sáng thanh đạm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookProduct/mixaobochay-1200x676.jpg"
+}

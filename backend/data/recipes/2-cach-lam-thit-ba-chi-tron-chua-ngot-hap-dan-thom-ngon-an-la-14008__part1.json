@@ -1,0 +1,101 @@
+{
+  "source_id": "14008",
+  "name": "Thịt ba chỉ trộn chua ngọt kiểu Việt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ce54bf3298f33a3b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-thit-ba-chi-tron-chua-ngot-hap-dan-thom-ngon-an-la-14008",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-thit-ba-chi-tron-chua-ngot-hap-dan-thom-ngon-an-la-14008",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt ba chỉ 500 gr",
+      "raw_name": "Thịt ba chỉ",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gừng 1/2 nhánh",
+      "raw_name": "Gừng",
+      "quantity": 0.5,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sả 2 tép",
+      "raw_name": "Sả 2 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá cắt nhỏ 1 muỗng canh",
+      "raw_name": "Hành lá cắt nhỏ",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt băm 1/2 muỗng canh",
+      "raw_name": "Ớt băm",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước cốt chanh 2 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước mắm 1.5 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu mè 1/2 muỗng canh",
+      "raw_name": "Dầu mè",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột canh 1/3 muỗng cà phê",
+      "raw_name": "Bột canh",
+      "quantity": 0.333,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đường 1.5 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T17:53:19Z",
+  "page_title": "2 cách làm thịt ba chỉ trộn chua ngọt hấp dẫn thơm ngon ăn là ghiền",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/thit-ba-chi-tron-chua-ngot-kieu-viet-thumbnail-1.jpg"
+}

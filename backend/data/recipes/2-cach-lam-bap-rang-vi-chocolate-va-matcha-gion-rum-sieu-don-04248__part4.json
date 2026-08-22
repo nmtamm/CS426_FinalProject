@@ -1,0 +1,61 @@
+{
+  "source_id": "04248",
+  "name": "Bắp rang vị milo bơ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c5308c08d8e461eb.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-bap-rang-vi-chocolate-va-matcha-gion-rum-sieu-don-04248",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-bap-rang-vi-chocolate-va-matcha-gion-rum-sieu-don-04248",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bắp Mỹ 100 gr (loại chuyên làm bắp rang)",
+      "raw_name": "Bắp Mỹ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "loại chuyên làm bắp rang",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 70 gr",
+      "raw_name": "Đường",
+      "quantity": 70,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bơ 70 gr",
+      "raw_name": "Bơ",
+      "quantity": 70,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột Milo 1 gói",
+      "raw_name": "Bột Milo",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng cà phê",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:15:50Z",
+  "page_title": "4 cách làm bắp rang vị thơm ngon giòn rụm, siêu đơn giản",
+  "variant_index": 4,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2022/02/CookRecipe/Avatar/bap-rang-vi-milo-bo-thumbnail.jpg"
+}

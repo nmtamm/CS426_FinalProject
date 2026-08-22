@@ -1,0 +1,61 @@
+{
+  "source_id": "14116",
+  "name": "Trà lipton sữa nóng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d71300a824f9b2de.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-lipton-sua-thom-ngon-don-gian-tai-nha-14116",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-lipton-sua-thom-ngon-don-gian-tai-nha-14116",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà lipton 1 gói",
+      "raw_name": "Trà lipton",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa đặc 20 ml",
+      "raw_name": "Sữa đặc",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa tươi không đường 60 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 60,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước đường 10 ml",
+      "raw_name": "Nước đường",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước 150 ml",
+      "raw_name": "Nước",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:01:13Z",
+  "page_title": "2 cách làm trà lipton sữa thơm ngon đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/tra-lipton-sua-nong-thumbnail.jpg"
+}

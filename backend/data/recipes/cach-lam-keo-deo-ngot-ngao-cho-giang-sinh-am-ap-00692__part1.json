@@ -1,0 +1,65 @@
+{
+  "source_id": "00692",
+  "name": "Kẹo dẻo giáng sinh bằng gelatin",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9c01da71129b13de.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-keo-deo-ngot-ngao-cho-giang-sinh-am-ap-00692",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-keo-deo-ngot-ngao-cho-giang-sinh-am-ap-00692",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gelatin 25 gr",
+      "raw_name": "Gelatin",
+      "quantity": 25,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 110 gr",
+      "raw_name": "Đường",
+      "quantity": 110,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chanh 1/2 quả",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tinh chất chanh 5 ml (không bắt buộc)",
+      "raw_name": "Tinh chất chanh",
+      "quantity": 5,
+      "unit": "ml",
+      "note": "không bắt buộc",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Màu thực phẩm 2 ml (màu tạo không khí Giáng Sinh)",
+      "raw_name": "Màu thực phẩm",
+      "quantity": 2,
+      "unit": "ml",
+      "note": "màu tạo không khí Giáng Sinh",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:17:28Z",
+  "page_title": "2 cách làm kẹo dẻo ngọt ngào cho Giáng Sinh ấm áp đơn giản, dễ làm",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://img.youtube.com/vi/gEVP00jjOIc/maxresdefault.jpg"
+}

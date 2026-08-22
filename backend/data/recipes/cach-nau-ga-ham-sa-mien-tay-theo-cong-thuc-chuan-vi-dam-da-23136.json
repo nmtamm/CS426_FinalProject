@@ -1,0 +1,103 @@
+{
+  "source_id": "23136",
+  "name": "Gà hầm sả miền Tây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f92fc5bbc8db6985.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-ga-ham-sa-mien-tay-theo-cong-thuc-chuan-vi-dam-da-23136",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-ga-ham-sa-mien-tay-theo-cong-thuc-chuan-vi-dam-da-23136",
+  "servings_text": "Cho 4 - 6 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-lau",
+      "name": "Món lẩu"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà ta 1 con (khoảng 1.8 - 2kg)",
+      "raw_name": "Gà ta 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 1.8 - 2kg",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sả cây 12 nhánh",
+      "raw_name": "Sả cây",
+      "quantity": 12,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Củ cải trắng 300 gr",
+      "raw_name": "Củ cải trắng",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đu đủ xanh 500 gr (hoặc đu đủ mỏ vịt)",
+      "raw_name": "Đu đủ xanh",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "hoặc đu đủ mỏ vịt",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gừng 1 nhánh",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tím 8 củ",
+      "raw_name": "Hành tím",
+      "quantity": 8,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột nghệ 1 muỗng cà phê",
+      "raw_name": "Bột nghệ",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu điều 1 ít",
+      "raw_name": "Dầu điều",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ hạt nêm/ đường/ bột ngọt/ nước mắm/ tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ hạt nêm/ đường/ bột ngọt/ nước mắm/ tiêu",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:06:23Z",
+  "page_title": "Cách nấu gà hầm sả miền Tây theo công thức chuẩn vị, đậm đà, ngon khó cưỡng",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20thumb%20to%20t8%20%2876%29.jpg"
+}

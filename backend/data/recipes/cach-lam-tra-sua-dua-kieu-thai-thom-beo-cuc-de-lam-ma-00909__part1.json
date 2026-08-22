@@ -1,0 +1,89 @@
+{
+  "source_id": "00909",
+  "name": "Trà sữa nước cốt dừa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c42bc61a2fcb7d30.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-sua-dua-kieu-thai-thom-beo-cuc-de-lam-ma-00909",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-sua-dua-kieu-thai-thom-beo-cuc-de-lam-ma-00909",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà ô long 7 gr",
+      "raw_name": "Trà ô long",
+      "quantity": 7,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Kem béo thực vật 20 ml",
+      "raw_name": "Kem béo thực vật",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước cốt dừa 30 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Siro dừa 10 ml",
+      "raw_name": "Siro dừa",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Trân châu trắng 30 gr",
+      "raw_name": "Trân châu trắng",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước đường 20 ml",
+      "raw_name": "Nước đường",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước sôi 100 ml",
+      "raw_name": "Nước sôi",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:57:38Z",
+  "page_title": "3 cách làm trà sữa dừa thơm ngọt béo ngậy ngon ngất ngây",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/tra-sua-nuoc-cot-dua-thumbnail.jpg"
+}

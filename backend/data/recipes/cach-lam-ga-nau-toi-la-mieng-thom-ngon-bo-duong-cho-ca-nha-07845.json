@@ -1,0 +1,135 @@
+{
+  "source_id": "07845",
+  "name": "Gà nấu tỏi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/87c7882ad5b5a358.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-nau-toi-la-mieng-thom-ngon-bo-duong-cho-ca-nha-07845",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-nau-toi-la-mieng-thom-ngon-bo-duong-cho-ca-nha-07845",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-canh",
+      "name": "Món canh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà 1/2 con",
+      "raw_name": "Gà 1/2 con",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm hương khô 15 cái",
+      "raw_name": "Nấm hương khô",
+      "quantity": 15,
+      "unit": "cái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tím 2 củ",
+      "raw_name": "Hành tím",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 10 tép",
+      "raw_name": "Tỏi 10 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành lá 2 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành ngò 2 nhánh",
+      "raw_name": "Hành ngò",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột bắp 2 thìa canh",
+      "raw_name": "Bột bắp",
+      "quantity": 2,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bột tỏi 1 thìa cà phê",
+      "raw_name": "Bột tỏi",
+      "quantity": 1,
+      "unit": "thìa cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dừa 1 trái (lấy nước)",
+      "raw_name": "Dừa",
+      "quantity": 1,
+      "unit": "trái",
+      "note": "lấy nước",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu ăn 2 thìa canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Tiêu 1 ít",
+      "raw_name": "Tiêu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (hạt nêm/ đường/ bột ngọt/ muối)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hạt nêm/ đường/ bột ngọt/ muối",
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T18:08:20Z",
+  "page_title": "Cách làm gà nấu tỏi lạ miệng thơm ngon bổ dưỡng cho cả nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookProduct/thumb-1200x676-29.jpg"
+}

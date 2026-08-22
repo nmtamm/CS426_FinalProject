@@ -1,0 +1,99 @@
+{
+  "source_id": "22654",
+  "name": "Rong sụn gai",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c3f81992824db65b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-che-bien-rong-sun-gai-ngam-mam-nhi-ca-tac-bang-may-xay-22654",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-che-bien-rong-sun-gai-ngam-mam-nhi-ca-tac-bang-may-xay-22654",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rong sụn gai 300 gr",
+      "raw_name": "Rong sụn gai",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà pháo tím 300 gr",
+      "raw_name": "Cà pháo tím",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tắc 150 gr",
+      "raw_name": "Tắc",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt hiểm 50 gr",
+      "raw_name": "Ớt hiểm",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt sừng đỏ 20 trái",
+      "raw_name": "Ớt sừng đỏ",
+      "quantity": 20,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 2 củ",
+      "raw_name": "Tỏi",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 100 gr",
+      "raw_name": "Đường",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước mắm nhĩ 200 ml",
+      "raw_name": "Nước mắm nhĩ",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột ngọt 2 muỗng canh",
+      "raw_name": "Bột ngọt",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tương ớt 5 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:58:30Z",
+  "page_title": "Cách chế biến rong sụn gai ngâm mắm nhĩ cà tắc bằng máy xay đa năng",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/gtygfgererreer.jpg"
+}

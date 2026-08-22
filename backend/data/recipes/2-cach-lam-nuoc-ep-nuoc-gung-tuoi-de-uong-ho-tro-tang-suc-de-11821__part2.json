@@ -1,0 +1,57 @@
+{
+  "source_id": "11821",
+  "name": "Nước ép gừng dứa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8d4e4eebbc333754.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-ep-nuoc-gung-tuoi-de-uong-ho-tro-tang-suc-de-11821",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-ep-nuoc-gung-tuoi-de-uong-ho-tro-tang-suc-de-11821",
+  "servings_text": "Cho 1 bình",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gừng 700 gr",
+      "raw_name": "Gừng",
+      "quantity": 700,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước ép dứa 200 ml",
+      "raw_name": "Nước ép dứa",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chanh vàng 2 trái",
+      "raw_name": "Chanh vàng",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 200 gr",
+      "raw_name": "Đường",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:50:23Z",
+  "page_title": "2 cách làm nước ép gừng tươi dễ uống hỗ trợ tăng sức đề kháng",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/nuoc-ep-gung-dua-thumbnail-1.jpg"
+}

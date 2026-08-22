@@ -1,0 +1,91 @@
+{
+  "source_id": "19334",
+  "name": "Đậu hũ cuộn khoai môn rim",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9702462d7e599566.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-hu-cuon-khoai-mon-rim-sieu-ngon-don-gian-tai-nha-19334",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-hu-cuon-khoai-mon-rim-sieu-ngon-don-gian-tai-nha-19334",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu hủ 2 miếng",
+      "raw_name": "Đậu hủ 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Khoai môn 200 gram",
+      "raw_name": "Khoai môn 200 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành Boaro 1 muỗng canh",
+      "raw_name": "Hành Boaro",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lá hẹ 50 gram",
+      "raw_name": "Lá hẹ 50 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước tương 2 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước 6 muỗng canh",
+      "raw_name": "Nước",
+      "quantity": 6,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:46:48Z",
+  "page_title": "Cách làm đậu hũ cuộn khoai môn rim siêu ngon, đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2023/05/CookDish/cach-lam-dau-hu-cuon-khoai-mon-rim-sieu-ngon-don-gian-tai-nha-avt-1200x676.jpg"
+}

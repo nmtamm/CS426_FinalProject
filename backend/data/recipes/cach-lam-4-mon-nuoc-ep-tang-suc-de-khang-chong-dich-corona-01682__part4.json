@@ -1,0 +1,57 @@
+{
+  "source_id": "01682",
+  "name": "Nước ép cam, cà rốt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7ae493b1d001ad12.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-4-mon-nuoc-ep-tang-suc-de-khang-chong-dich-corona-01682",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-4-mon-nuoc-ep-tang-suc-de-khang-chong-dich-corona-01682",
+  "servings_text": "Cho 2 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cà rốt 2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Táo 2 quả",
+      "raw_name": "Táo",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gừng 1 nhánh",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cam sành 2 quả",
+      "raw_name": "Cam sành",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:05:27Z",
+  "page_title": "Cách làm 4 món nước ép trái cây tăng sức đề kháng chống dịch COVID",
+  "variant_index": 4,
+  "variant_count": 4,
+  "original_image_url": "https://img.youtube.com/vi/EaKIxGlsDuQ/maxresdefault.jpg"
+}

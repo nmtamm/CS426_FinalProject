@@ -1,0 +1,97 @@
+{
+  "source_id": "01862",
+  "name": "Bánh tráng cuốn thịt heo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/08da8fc8ef87eea9.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-trang-cuon-ngon-don-gian-de-lam-01862",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-trang-cuon-ngon-don-gian-de-lam-01862",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt ba chỉ heo 200 gr",
+      "raw_name": "Thịt ba chỉ heo",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bánh tráng 5 miếng (loại nào cũng được)",
+      "raw_name": "Bánh tráng 5 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": "loại nào cũng được",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bún tươi 1 ít (hoặc bún gạo lứt ăn kèm tùy thích)",
+      "raw_name": "Bún tươi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hoặc bún gạo lứt ăn kèm tùy thích",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rau ăn kèm 1 ít (xà lách/ húng quế/ rau thơm/ diếp cá)",
+      "raw_name": "Rau ăn kèm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "xà lách/ húng quế/ rau thơm/ diếp cá",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành lá 1 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 2 tép",
+      "raw_name": "Tỏi 2 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Sốt ướp thịt nướng 1 muỗng canh",
+      "raw_name": "Sốt ướp thịt nướng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ bột ngọt/ hạt nêm/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ bột ngọt/ hạt nêm/ tiêu xay",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:09:26Z",
+  "page_title": "2 cách làm bánh tráng cuốn thịt heo và sốt me thơm ngon, đơn giản",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2022/09/CookRecipe/Avatar/banh-trang-cuon-thit-heo-thumbnail-1.jpg"
+}

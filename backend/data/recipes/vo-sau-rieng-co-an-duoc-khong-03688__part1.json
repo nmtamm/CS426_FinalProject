@@ -1,0 +1,65 @@
+{
+  "source_id": "03688",
+  "name": "Canh hầm vỏ sầu riêng cùng xương và rau củ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5bf1a085e9d2da16.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/vo-sau-rieng-co-an-duoc-khong-03688",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/vo-sau-rieng-co-an-duoc-khong-03688",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "meo-vao-bep",
+      "name": "Mẹo vào bếp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Vỏ sầu riêng 300 gr",
+      "raw_name": "Vỏ sầu riêng",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sườn heo hoặc thịt gà 500 gr",
+      "raw_name": "Sườn heo hoặc thịt gà",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hạt sen 100 gr",
+      "raw_name": "Hạt sen",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nấm 100 gr",
+      "raw_name": "Nấm",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gừng 100 gr",
+      "raw_name": "Gừng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:31:30Z",
+  "page_title": "Vỏ sầu riêng có ăn được không? Các món ăn chế biến từ vỏ sầu riêng",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookRecipe/Avatar/canh-ham-vo-sau-rieng-cung-xuong-va-rau-cu-thumbnail.jpg"
+}

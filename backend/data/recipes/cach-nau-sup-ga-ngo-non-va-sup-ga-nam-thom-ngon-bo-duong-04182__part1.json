@@ -1,0 +1,105 @@
+{
+  "source_id": "04182",
+  "name": "Súp gà ngô non",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/cb6af4c04c9b62e7.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-sup-ga-ngo-non-va-sup-ga-nam-thom-ngon-bo-duong-04182",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-sup-ga-ngo-non-va-sup-ga-nam-thom-ngon-bo-duong-04182",
+  "servings_text": "Cho 4 - 5 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-canh",
+      "name": "Món canh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt gà 30 gr (ức gà)",
+      "raw_name": "Thịt gà",
+      "quantity": 30,
+      "unit": "gr",
+      "note": "ức gà",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Giò lụa 30 gr",
+      "raw_name": "Giò lụa",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 10 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nấm hương 8 cái",
+      "raw_name": "Nấm hương",
+      "quantity": 8,
+      "unit": "cái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Trứng gà 1 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hạt ngô non 20 gr",
+      "raw_name": "Hạt ngô non",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ngô kem 2 muỗng canh (ngô nghiền)",
+      "raw_name": "Ngô kem",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "ngô nghiền",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột năng 2 muỗng",
+      "raw_name": "Bột năng",
+      "quantity": 2,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Lá chanh 1 gr (khoảng 2 lá)",
+      "raw_name": "Lá chanh",
+      "quantity": 1,
+      "unit": "gr",
+      "note": "khoảng 2 lá",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị 10 gr (muối/hạt nêm/nước mắm/bột ngọt/tiêu/...)",
+      "raw_name": "Gia vị",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "muối/hạt nêm/nước mắm/bột ngọt/tiêu/...",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:19:27Z",
+  "page_title": "2 Cách nấu súp gà ngô non và súp gà nấm thơm ngon bỗ dưỡng",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/sup-ga-ngo-non-thumbnail-2.jpg"
+}

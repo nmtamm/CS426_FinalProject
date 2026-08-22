@@ -1,0 +1,85 @@
+{
+  "source_id": "01657",
+  "name": "Cháo gạo lứt chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2cf75676edfb12e6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-nau-chao-chay-thom-ngon-thanh-dam-cho-gia-dinh-01657",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-nau-chao-chay-thom-ngon-thanh-dam-cho-gia-dinh-01657",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gạo lứt 200 gr",
+      "raw_name": "Gạo lứt",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Củ cải trắng 1 củ",
+      "raw_name": "Củ cải trắng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nấm rơm 100 gr",
+      "raw_name": "Nấm rơm",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu mè 2 muỗng cà phê",
+      "raw_name": "Dầu mè",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước tương 1 muỗng cà phê",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hạt nêm chay 1 muỗng cà phê",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:43:25Z",
+  "page_title": "5 cách nấu cháo chay thơm ngon, thanh đạm cho gia đình",
+  "variant_index": 4,
+  "variant_count": 5,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/chao-gao-lut-chay-thumbnail.jpg"
+}

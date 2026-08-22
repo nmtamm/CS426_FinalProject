@@ -1,0 +1,63 @@
+{
+  "source_id": "13330",
+  "name": "Đậu rồng xào tỏi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a0c84d17be05b915.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-rong-xao-toi-thom-lung-gion-sut-cuc-dua-com-13330",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-rong-xao-toi-thom-lung-gion-sut-cuc-dua-com-13330",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu rồng 300 gr",
+      "raw_name": "Đậu rồng",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tỏi 4 tép",
+      "raw_name": "Tỏi 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng cà phê",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Hạt nêm/ muối/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Hạt nêm/ muối/ bột ngọt",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T18:48:52Z",
+  "page_title": "Cách làm đậu rồng xào tỏi thơm lừng, giòn sựt cực đưa cơm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookProduct/1200(8)-1200x676-2.jpg"
+}

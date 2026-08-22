@@ -1,0 +1,57 @@
+{
+  "source_id": "00664",
+  "name": "Canh gà gừng nấu rượu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5dcc492550f285bf.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-canh-ga-nau-gung-giai-cam-cho-nhung-ngay-mua-00664",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-canh-ga-nau-gung-giai-cam-cho-nhung-ngay-mua-00664",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-canh",
+      "name": "Món canh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà 1/4 con (600gr)",
+      "raw_name": "Gà 1/4 con",
+      "quantity": null,
+      "unit": null,
+      "note": "600gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gừng 100 gr",
+      "raw_name": "Gừng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rượu trắng 1.5 chén (chén ăn cơm)",
+      "raw_name": "Rượu trắng",
+      "quantity": 1.5,
+      "unit": "chén",
+      "note": "chén ăn cơm",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối/ bột ngọt 1 ít",
+      "raw_name": "Muối/ bột ngọt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T18:18:14Z",
+  "page_title": "2 cách nấu canh gà gừng thơm ngon bổ dưỡng tốt cho sức khỏe dễ làm",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/canh-ga-gung-nau-ruou-thumbnail.jpg"
+}

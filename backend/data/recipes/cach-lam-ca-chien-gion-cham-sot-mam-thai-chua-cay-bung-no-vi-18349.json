@@ -1,0 +1,147 @@
+{
+  "source_id": "18349",
+  "name": "Cá chiên giòn sốt mắm Thái",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ac72b92fb0e0fd7f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-chien-gion-cham-sot-mam-thai-chua-cay-bung-no-vi-18349",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-chien-gion-cham-sot-mam-thai-chua-cay-bung-no-vi-18349",
+  "servings_text": "Cho 3 - 4 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cá diêu hồng phi lê 1 con",
+      "raw_name": "Cá diêu hồng phi lê 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột chiên giòn 500 gr",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rau húng lũi 5 gr",
+      "raw_name": "Rau húng lũi",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tím cắt lát 1 củ",
+      "raw_name": "Hành tím cắt lát",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gừng sợi 1 nhánh",
+      "raw_name": "Gừng sợi",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Cà rốt sợi 1 củ",
+      "raw_name": "Cà rốt sợi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Xoài băm 1 trái",
+      "raw_name": "Xoài băm",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dưa leo sợi 1 trái",
+      "raw_name": "Dưa leo sợi",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ớt băm 2 trái",
+      "raw_name": "Ớt băm",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Ớt sừng sợi 1/2 trái",
+      "raw_name": "Ớt sừng sợi",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Muối 1 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Bột ớt 1 muỗng canh",
+      "raw_name": "Bột ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Nước mắm 6 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 6,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Đường thốt nốt 4 muỗng canh",
+      "raw_name": "Đường thốt nốt",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Nước tắc 2 muỗng canh",
+      "raw_name": "Nước tắc",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T20:30:44Z",
+  "page_title": "Cách làm cá chiên giòn chấm sốt mắm Thái chua cay bùng nổ vị giác",
+  "original_image_url": "https://cdn.tgdd.vn/2022/10/CookDish/cach-lam-ca-chien-gion-cham-sot-mam-thai-chua-cay-bung-no-vi-avt-1200x676.jpg"
+}

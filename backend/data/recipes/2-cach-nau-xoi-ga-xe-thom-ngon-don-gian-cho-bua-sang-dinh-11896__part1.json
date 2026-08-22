@@ -1,0 +1,89 @@
+{
+  "source_id": "11896",
+  "name": "Xôi gà xé đơn giản",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1028ea5246e8c2b8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-xoi-ga-xe-thom-ngon-don-gian-cho-bua-sang-dinh-11896",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-xoi-ga-xe-thom-ngon-don-gian-cho-bua-sang-dinh-11896",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nếp 2 chén",
+      "raw_name": "Nếp",
+      "quantity": 2,
+      "unit": "chén",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu xanh 1/4 chén (không vỏ)",
+      "raw_name": "Đậu xanh",
+      "quantity": 0.25,
+      "unit": "chén",
+      "note": "không vỏ",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gà mái 1 con",
+      "raw_name": "Gà mái 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rau răm 1 ít",
+      "raw_name": "Rau răm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt 5 trái",
+      "raw_name": "Ớt",
+      "quantity": 5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Chanh 2 trái",
+      "raw_name": "Chanh",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/hạt nêm/tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/hạt nêm/tiêu",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:16:41Z",
+  "page_title": "2 cách nấu xôi gà xé thơm ngon đơn giản cho bữa sáng dinh dưỡng",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2022/09/CookRecipe/Avatar/xoi-ga-xe-don-gian-thumbnail.jpg"
+}

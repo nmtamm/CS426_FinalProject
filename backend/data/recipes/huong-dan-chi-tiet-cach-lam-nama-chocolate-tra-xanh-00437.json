@@ -1,0 +1,55 @@
+{
+  "source_id": "00437",
+  "name": "Nama trà xanh - Nama matcha",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/25c66024ce3a0e6f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-chi-tiet-cach-lam-nama-chocolate-tra-xanh-00437",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-chi-tiet-cach-lam-nama-chocolate-tra-xanh-00437",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột trà xanh Nhật Bản 2 muỗng canh (Matcha)",
+      "raw_name": "Bột trà xanh Nhật Bản",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "Matcha",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chocolate trắng 400 gr",
+      "raw_name": "Chocolate trắng",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Kem tươi 200 ml (whipping cream)",
+      "raw_name": "Kem tươi",
+      "quantity": 200,
+      "unit": "ml",
+      "note": "whipping cream",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bơ lạt 25 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 25,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:43:03Z",
+  "page_title": "Cách làm nama trà xanh Nhật Bản - nama matcha đơn giản dễ làm cho Valentine",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/cach-lam-nama-chocolate-tra-xanh-vi-ngot-nhu-vong-tay-au-yem-8-760x367-(1)-1200x676.jpg"
+}

@@ -1,0 +1,131 @@
+{
+  "source_id": "02862",
+  "name": "Gà nấu gấc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ed830546e3cf9022.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-ga-nau-gac-don-gian-thom-ngon-bo-duong-02862",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-ga-nau-gac-don-gian-thom-ngon-bo-duong-02862",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà 1 con",
+      "raw_name": "Gà 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gấc 1 trái",
+      "raw_name": "Gấc",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tím 3 củ",
+      "raw_name": "Hành tím",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 5 tép",
+      "raw_name": "Tỏi 5 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột bắp 1 muỗng canh",
+      "raw_name": "Bột bắp",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Khoai tây bi 100 gr",
+      "raw_name": "Khoai tây bi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột nêm gà 1 muỗng cà phê",
+      "raw_name": "Bột nêm gà",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Ngũ vị hương 1/2 muỗng cà phê",
+      "raw_name": "Ngũ vị hương",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước tương 1/2 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Đường phèn 1 muỗng canh",
+      "raw_name": "Đường phèn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ tiêu/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ tiêu/ hạt nêm",
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T18:14:05Z",
+  "page_title": "Cách làm món gà nấu gấc đơn giản, thơm ngon bổ dưỡng",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/06/25/1265415/cach-lam-mon-ga-nau-gac-don-gian-thom-ngon-bo-duo-12-760x367.jpg"
+}

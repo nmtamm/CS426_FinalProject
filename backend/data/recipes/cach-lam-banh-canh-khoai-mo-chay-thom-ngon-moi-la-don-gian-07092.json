@@ -1,0 +1,111 @@
+{
+  "source_id": "07092",
+  "name": "Bánh canh khoai mỡ chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6e229e670999cd32.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-canh-khoai-mo-chay-thom-ngon-moi-la-don-gian-07092",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-canh-khoai-mo-chay-thom-ngon-moi-la-don-gian-07092",
+  "servings_text": "Cho 2 phần ăn",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-canh",
+      "name": "Món canh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai mỡ 400 gr",
+      "raw_name": "Khoai mỡ",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột năng 100 gr",
+      "raw_name": "Bột năng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nấm đông cô khô 10 gr",
+      "raw_name": "Nấm đông cô khô",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đậu hũ 100 gr",
+      "raw_name": "Đậu hũ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cốt dừa 1 lít",
+      "raw_name": "Nước cốt dừa 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 1.5 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hạt nêm chay 2 muỗng cà phê",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tiêu xay 1 muỗng cà phê",
+      "raw_name": "Tiêu xay",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hành lá 1 ít",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước mắm chay 1 ít",
+      "raw_name": "Nước mắm chay",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:42:24Z",
+  "page_title": "Cách làm bánh canh khoai mỡ chay thơm ngon mới lạ đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookProduct/banhcanhkhoaimochay-1200x676.jpg"
+}

@@ -1,0 +1,131 @@
+{
+  "source_id": "10406",
+  "name": "Sâm dừa Cần Thơ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f64f14685321068e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-nuoc-sam-dua-can-tho-giai-nhiet-thanh-loc-co-the-10406",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-nuoc-sam-dua-can-tho-giai-nhiet-thanh-loc-co-the-10406",
+  "servings_text": "Cho 5 lít",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mía lau 200 gr",
+      "raw_name": "Mía lau",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cây mã đề 50 gr",
+      "raw_name": "Cây mã đề",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cây lẻ bạn 50 gr",
+      "raw_name": "Cây lẻ bạn",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cây thuốc dòi 50 gr",
+      "raw_name": "Cây thuốc dòi",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lá dứa 200 gr",
+      "raw_name": "Lá dứa",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rễ tranh 30 gr",
+      "raw_name": "Rễ tranh",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Râu bắp 30 gr",
+      "raw_name": "Râu bắp",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "La hán quả 1 quả",
+      "raw_name": "La hán quả",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Thục địa 10 gr",
+      "raw_name": "Thục địa",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gốc ngò rí 30 gr",
+      "raw_name": "Gốc ngò rí",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đường phèn 500 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước dừa tươi 500 ml",
+      "raw_name": "Nước dừa tươi",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Cơm dừa non 100 gr",
+      "raw_name": "Cơm dừa non",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Siro dứa 5 ml",
+      "raw_name": "Siro dứa",
+      "quantity": 5,
+      "unit": "ml",
+      "note": null,
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T19:57:26Z",
+  "page_title": "Cách nấu nước sâm dừa Cần Thơ giải nhiệt, thanh lọc cơ thể",
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookProduct/samduaCanTho-1200x676.jpg"
+}

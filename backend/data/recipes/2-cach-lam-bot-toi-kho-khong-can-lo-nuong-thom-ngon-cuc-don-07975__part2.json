@@ -1,0 +1,29 @@
+{
+  "source_id": "07975",
+  "name": "Bột tỏi làm từ nồi chiên không dầu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4095b98c28755ff3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-bot-toi-kho-khong-can-lo-nuong-thom-ngon-cuc-don-07975",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-bot-toi-kho-khong-can-lo-nuong-thom-ngon-cuc-don-07975",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Củ tỏi 500 gr (loại tùy sở thích)",
+      "raw_name": "Củ tỏi",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "loại tùy sở thích",
+      "display_order": 1
+    }
+  ],
+  "scraped_at": "2026-08-19T19:11:33Z",
+  "page_title": "2 cách làm bột tỏi khô không cần lò nướng thơm ngon cực đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/bot-toi-tu-noi-chien-khong-dau-thumbnail.jpg"
+}

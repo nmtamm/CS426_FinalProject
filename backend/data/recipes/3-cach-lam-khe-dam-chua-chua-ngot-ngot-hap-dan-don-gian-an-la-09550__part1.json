@@ -1,0 +1,61 @@
+{
+  "source_id": "09550",
+  "name": "Khế dầm mắm ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3caa48bd4dbcf3ad.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-khe-dam-chua-chua-ngot-ngot-hap-dan-don-gian-an-la-09550",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-khe-dam-chua-chua-ngot-ngot-hap-dan-don-gian-an-la-09550",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khế chua 500 gr",
+      "raw_name": "Khế chua",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước mắm 200 ml",
+      "raw_name": "Nước mắm",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 100 gr",
+      "raw_name": "Đường",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt 3 trái (2 trái ớt sừng và 1 trái ớt hiểm)",
+      "raw_name": "Ớt",
+      "quantity": 3,
+      "unit": "trái",
+      "note": "2 trái ớt sừng và 1 trái ớt hiểm",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối tôm 1.5 muỗng canh",
+      "raw_name": "Muối tôm",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:06:22Z",
+  "page_title": "3 cách làm khế dầm chua chua ngọt ngọt hấp dẫn dơn giản ăn là ghiền",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookRecipe/Avatar/khe-dam-mam-ot-thumbnail.jpg"
+}

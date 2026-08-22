@@ -1,0 +1,69 @@
+{
+  "source_id": "08936",
+  "name": "Gin Tonic kiwi thơm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9c782e85244f7c38.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/4-cach-pha-cocktail-gin-tonic-dep-mat-mat-lanh-dap-tan-con-08936",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/4-cach-pha-cocktail-gin-tonic-dep-mat-mat-lanh-dap-tan-con-08936",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dứa 50 gr (cắt nhỏ)",
+      "raw_name": "Dứa",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "cắt nhỏ",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Kiwi 45 gr (cắt nhỏ)",
+      "raw_name": "Kiwi",
+      "quantity": 45,
+      "unit": "gr",
+      "note": "cắt nhỏ",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt Jalapeno 2 lát",
+      "raw_name": "Ớt Jalapeno 2 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chanh 1/2 quả",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước có gas Tonic 330 ml",
+      "raw_name": "Nước có gas Tonic",
+      "quantity": 330,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rượu Gin 44 ml",
+      "raw_name": "Rượu Gin",
+      "quantity": 44,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:06:11Z",
+  "page_title": "4 Cách pha Cocktail Gin Tonic đẹp mắt mát lạnh đập tan cơn khát ngày hè",
+  "variant_index": 1,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookRecipe/Avatar/gin-tonic-kiwi-thom-thumbnail.jpg"
+}

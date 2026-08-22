@@ -1,0 +1,127 @@
+{
+  "source_id": "08477",
+  "name": "Súp đậu đỏ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/29911ab07975760e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-sup-dau-do-thanh-dam-bo-duong-de-giai-nhiet-ngay-08477",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-sup-dau-do-thanh-dam-bo-duong-de-giai-nhiet-ngay-08477",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-canh",
+      "name": "Món canh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu đỏ 100 gr",
+      "raw_name": "Đậu đỏ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu hũ non 200 gr",
+      "raw_name": "Đậu hũ non",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chả cá chay 100 gr",
+      "raw_name": "Chả cá chay",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bông cải 1/2 cây",
+      "raw_name": "Bông cải",
+      "quantity": 0.5,
+      "unit": "cây",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nấm tuyết 1/2 cây",
+      "raw_name": "Nấm tuyết",
+      "quantity": 0.5,
+      "unit": "cây",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành lá 3 nhánh (cắt nhỏ)",
+      "raw_name": "Hành lá",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": "cắt nhỏ",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Cần tàu 5 nhánh (cắt nhỏ)",
+      "raw_name": "Cần tàu",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": "cắt nhỏ",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột năng 2 muỗng canh",
+      "raw_name": "Bột năng",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hạt nêm chay 2 muỗng cà phê",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước mắm chay 2 muỗng canh",
+      "raw_name": "Nước mắm chay",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Muối/Đường 1 ít",
+      "raw_name": "Muối/Đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T18:38:16Z",
+  "page_title": "Cách nấu súp đậu đỏ thanh đạm, bổ dưỡng để giải nhiệt ngày nắng hè",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/CachNauSUPDAUDOBoDuongRatDonGianMonChayNgonBaMeQue9-14screenshot(2)-1200x676.jpg"
+}

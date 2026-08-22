@@ -1,0 +1,111 @@
+{
+  "source_id": "01320",
+  "name": "Hến xúc bánh đa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/359034d62f9af92e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-hen-xuc-banh-da-beo-gion-cay-nham-nhi-ngay-mua-01320",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-hen-xuc-banh-da-beo-gion-cay-nham-nhi-ngay-mua-01320",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt hến 300 gr",
+      "raw_name": "Thịt hến",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tỏi băm 2 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành băm 4 muỗng canh",
+      "raw_name": "Hành băm",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sả băm 4 muỗng canh",
+      "raw_name": "Sả băm",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước mắm 3 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hạt nêm 1 muỗng canh",
+      "raw_name": "Hạt nêm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường 2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Ớt 2 trái",
+      "raw_name": "Ớt",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Rau răm 20 gr",
+      "raw_name": "Rau răm",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T19:29:48Z",
+  "page_title": "Cách làm hến xúc bánh đa béo, giòn, cay nhâm nhi ngày mưa cực ngon",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2019/07/01/1176566/video-cach-lam-hen-xuc-banh-da-beo-gion-cay-nham-nhi-ngay-mua-cuc-ngon6-760x367.jpg"
+}

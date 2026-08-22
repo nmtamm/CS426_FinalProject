@@ -1,0 +1,73 @@
+{
+  "source_id": "10279",
+  "name": "Dọc mùng xào tôm tươi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0e37e7156ec0e089.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-doc-mung-xao-thit-bo-long-ga-va-tom-tuoi-la-vi-hap-10279",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-doc-mung-xao-thit-bo-long-ga-va-tom-tuoi-la-vi-hap-10279",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dọc mùng 3 nhánh",
+      "raw_name": "Dọc mùng",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tôm tươi 200 gr",
+      "raw_name": "Tôm tươi",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành lá 1 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng canh (hoặc hành tím băm tùy thích)",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "hoặc hành tím băm tùy thích",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 1/2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ hạt nêm/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ hạt nêm/ tiêu xay",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:28:01Z",
+  "page_title": "3 cách làm dọc mùng xào thịt bò, lòng gà và tôm tươi lạ vị hấp dẫn",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/doc-mung-xao-tom-tuoi-thumbnail.jpg"
+}

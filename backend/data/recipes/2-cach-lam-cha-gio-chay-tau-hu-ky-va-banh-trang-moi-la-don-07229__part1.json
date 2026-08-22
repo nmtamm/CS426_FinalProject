@@ -1,0 +1,117 @@
+{
+  "source_id": "07229",
+  "name": "Chả giò chay tàu hũ ky",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/21d40b7a04c847ce.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-cha-gio-chay-tau-hu-ky-va-banh-trang-moi-la-don-07229",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-cha-gio-chay-tau-hu-ky-va-banh-trang-moi-la-don-07229",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tàu hũ ky 4 lá",
+      "raw_name": "Tàu hũ ky",
+      "quantity": 4,
+      "unit": "lá",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 100 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Khoai tây 100 gr",
+      "raw_name": "Khoai tây",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nấm mèo khô 5 gr",
+      "raw_name": "Nấm mèo khô",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đậu hũ trắng 100 gr",
+      "raw_name": "Đậu hũ trắng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành boa rô 1 ít",
+      "raw_name": "Hành boa rô",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hạt nêm chay 1/2 muỗng canh",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu hào chay 1/2 muỗng canh",
+      "raw_name": "Dầu hào chay",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tiêu 1/2 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bột năng 2 muỗng canh",
+      "raw_name": "Bột năng",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước 50 ml",
+      "raw_name": "Nước",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu ăn 300 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:40:31Z",
+  "page_title": "3 cách làm chả giò chay tàu hũ ky và bánh tráng mới lạ đơn giản",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookRecipe/Avatar/cha-gio-tau-hu-ky-thumbnail.jpg"
+}

@@ -1,0 +1,33 @@
+{
+  "source_id": "01714",
+  "name": "Nước ép thanh long không máy",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b2b84e3eed9a9f50.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-thanh-long-khong-can-may-xay-tai-nha-01714",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-thanh-long-khong-can-may-xay-tai-nha-01714",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thanh long ruột đỏ 2 quả",
+      "raw_name": "Thanh long ruột đỏ",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    }
+  ],
+  "scraped_at": "2026-08-19T19:56:05Z",
+  "page_title": "3 cách làm nước ép thanh long tươi mát giải nhiệt cơ thể",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/nuoc-ep-thanh-long-khong-can-may-xay-thumbnail-1.jpg"
+}

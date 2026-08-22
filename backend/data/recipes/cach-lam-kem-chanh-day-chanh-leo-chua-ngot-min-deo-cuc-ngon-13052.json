@@ -1,0 +1,63 @@
+{
+  "source_id": "13052",
+  "name": "Kem chanh dây (chanh leo)",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f105c5100a1842a2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kem-chanh-day-chanh-leo-chua-ngot-min-deo-cuc-ngon-13052",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kem-chanh-day-chanh-leo-chua-ngot-min-deo-cuc-ngon-13052",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-kem",
+      "name": "Món kem"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Kem sữa tươi 250 gr (whipping cream)",
+      "raw_name": "Kem sữa tươi",
+      "quantity": 250,
+      "unit": "gr",
+      "note": "whipping cream",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chanh leo 3 trái",
+      "raw_name": "Chanh leo",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột gelatin 3 gr",
+      "raw_name": "Bột gelatin",
+      "quantity": 3,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa đặc 100 gr",
+      "raw_name": "Sữa đặc",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 50 gr",
+      "raw_name": "Đường",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:14:35Z",
+  "page_title": "Cách làm kem chanh dây (chanh leo) chua ngọt, mịn dẻo cực ngon tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/1200(1)-1200x676-9.jpg"
+}

@@ -1,0 +1,85 @@
+{
+  "source_id": "03880",
+  "name": "Gỏi ếch rau rừng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1827aa4615474ca9.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-ech-rau-rung-thom-ngon-la-mieng-cho-bua-com-gia-03880",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-ech-rau-rung-thom-ngon-la-mieng-cho-bua-com-gia-03880",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ếch 300 gr",
+      "raw_name": "Ếch",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rau rừng các loại 100 gr (lá bứa/lá cóc/linh lăng/lá mận)",
+      "raw_name": "Rau rừng các loại",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "lá bứa/lá cóc/linh lăng/lá mận",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Xoài 1 quả",
+      "raw_name": "Xoài",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tắc 5 trái",
+      "raw_name": "Tắc",
+      "quantity": 5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tây 1/2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước mắm 3/2 thìa canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1.5,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt sừng 2 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Mè 30 gr",
+      "raw_name": "Mè",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T17:56:38Z",
+  "page_title": "2 cách làm gỏi ếch rau rừng và xoài xanh thơm ngon lạ miệng cho bữa cơm",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookRecipe/Avatar/goi-ech-rau-rung-thumbnail.jpg"
+}

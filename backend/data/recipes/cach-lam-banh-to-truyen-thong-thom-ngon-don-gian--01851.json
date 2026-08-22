@@ -1,0 +1,55 @@
+{
+  "source_id": "01851",
+  "name": "Bánh tổ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/328f06dbc0c7e1ef.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-to-truyen-thong-thom-ngon-don-gian--01851",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-to-truyen-thong-thom-ngon-don-gian--01851",
+  "servings_text": "Cho 2 - 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột nếp 270 gram",
+      "raw_name": "Bột nếp 270 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường nâu 150 gram",
+      "raw_name": "Đường nâu 150 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mè trắng 30 gram",
+      "raw_name": "Mè trắng 30 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:35:54Z",
+  "page_title": "Cách làm bánh tổ truyền thống thơm ngon, đơn giản chuẩn vị cho dịp lễ Tết",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/03/20/1243311/cach-lam-banh-to-truyen-thong-thom-ngon-don-gian--7-760x367.jpg"
+}

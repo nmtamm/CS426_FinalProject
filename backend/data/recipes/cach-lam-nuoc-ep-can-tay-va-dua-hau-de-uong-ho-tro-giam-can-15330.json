@@ -1,0 +1,39 @@
+{
+  "source_id": "15330",
+  "name": "Nước ép cần tây và dưa hấu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8b789bd18113bd76.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-can-tay-va-dua-hau-de-uong-ho-tro-giam-can-15330",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-can-tay-va-dua-hau-de-uong-ho-tro-giam-can-15330",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cần tây 3 nhánh",
+      "raw_name": "Cần tây",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dưa hấu 100 gr",
+      "raw_name": "Dưa hấu",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:49:10Z",
+  "page_title": "Cách làm nước ép cần tây và dưa hấu dễ uống hỗ trợ giảm cân",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookDish/cach-lam-nuoc-ep-can-tay-va-dua-hau-de-uong-ho-tro-giam-can-avt-1200x676.jpg"
+}

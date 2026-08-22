@@ -1,0 +1,111 @@
+{
+  "source_id": "13803",
+  "name": "Cháo đuôi bò",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f569ba3529044b8b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-chao-duoi-bo-vua-ngon-vua-bo-sung-dinh-duong-cho-ca-13803",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-chao-duoi-bo-vua-ngon-vua-bo-sung-dinh-duong-cho-ca-13803",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-chao",
+      "name": "Món cháo"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đuôi bò 1 cái (khoảng 1 kg)",
+      "raw_name": "Đuôi bò",
+      "quantity": 1,
+      "unit": "cái",
+      "note": "khoảng 1 kg",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gạo 200 gr",
+      "raw_name": "Gạo",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu xanh 100 gr",
+      "raw_name": "Đậu xanh",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đậu phộng 50 gr",
+      "raw_name": "Đậu phộng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Khoai mì 1 củ",
+      "raw_name": "Khoai mì",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sả 5 cây",
+      "raw_name": "Sả",
+      "quantity": 5,
+      "unit": "cây",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Cải bẹ xanh 100 gr",
+      "raw_name": "Cải bẹ xanh",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hành tím 3 củ",
+      "raw_name": "Hành tím",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hành lá 3 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (bột ngọt/ đường/ muối/ tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "bột ngọt/ đường/ muối/ tiêu",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:21:22Z",
+  "page_title": "Cách nấu cháo đuôi bò vừa ngon vừa bổ sung dinh dưỡng cho cả nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookDish/cach-nau-chao-duoi-bo-vua-ngon-vua-bo-sung-dinh-duong-cho-ca-avt-1200x676.jpg"
+}

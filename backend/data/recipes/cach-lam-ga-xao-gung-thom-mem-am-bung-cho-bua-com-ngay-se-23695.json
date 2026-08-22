@@ -1,0 +1,83 @@
+{
+  "source_id": "23695",
+  "name": "Gà xào gừng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c042feb10312652d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-xao-gung-thom-mem-am-bung-cho-bua-com-ngay-se-23695",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-xao-gung-thom-mem-am-bung-cho-bua-com-ngay-se-23695",
+  "servings_text": "Cho 3 - 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt gà ta phi lê 400 gr",
+      "raw_name": "Thịt gà ta phi lê",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gừng tươi 2 củ",
+      "raw_name": "Gừng tươi",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành khô 3 củ (Hành tím)",
+      "raw_name": "Hành khô",
+      "quantity": 3,
+      "unit": "củ",
+      "note": "Hành tím",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lá gừng 3 nhánh (tùy chọn)",
+      "raw_name": "Lá gừng",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": "tùy chọn",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt cay 3 trái",
+      "raw_name": "Ớt cay",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột nghệ 1 ít (hoặc 1 đốt nghệ tươi giã nhỏ)",
+      "raw_name": "Bột nghệ",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hoặc 1 đốt nghệ tươi giã nhỏ",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Mỡ gà 1 muỗng canh (hoặc dầu ăn)",
+      "raw_name": "Mỡ gà",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "hoặc dầu ăn",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Nước mắm/ đường/ hạt nêm/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Nước mắm/ đường/ hạt nêm/ tiêu xay",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:04:33Z",
+  "page_title": "Cách làm gà xào gừng thơm mềm, ấm bụng cho bữa cơm ngày se lạnh thêm ngon",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20m%C3%B3n%20an%20t12%20%281200%20x%20676%20px%29%20%2830%29.jpg"
+}

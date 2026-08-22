@@ -1,0 +1,75 @@
+{
+  "source_id": "16528",
+  "name": "Củ cải ngâm nước mắm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5ff3b5343749153b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cu-cai-ngam-nuoc-mam-man-ngot-cuc-hao-com-tai-nha-16528",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cu-cai-ngam-nuoc-mam-man-ngot-cuc-hao-com-tai-nha-16528",
+  "servings_text": "Cho 1 hũ",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Củ cải trắng 500 gr",
+      "raw_name": "Củ cải trắng",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tỏi 5 tép",
+      "raw_name": "Tỏi 5 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt 3 trái",
+      "raw_name": "Ớt",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước mắm 50 ml",
+      "raw_name": "Nước mắm",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 80 gr",
+      "raw_name": "Đường",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 1 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước lọc 125 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 125,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:33:45Z",
+  "page_title": "Cách làm củ cải ngâm nước mắm mặn ngọt cực hao cơm tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2022/01/CookDish/cach-lam-cu-cai-ngam-nuoc-mam-man-ngot-chuan-vi-cho-ngay-tet-avt-1200x676.jpg"
+}

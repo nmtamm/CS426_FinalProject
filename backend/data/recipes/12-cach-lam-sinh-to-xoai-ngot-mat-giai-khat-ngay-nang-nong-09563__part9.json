@@ -1,0 +1,58 @@
+{
+  "source_id": "09563",
+  "name": "Sinh tố xoài đào",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c94edbbbdabf5f34.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/12-cach-lam-sinh-to-xoai-ngot-mat-giai-khat-ngay-nang-nong-09563",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/12-cach-lam-sinh-to-xoai-ngot-mat-giai-khat-ngay-nang-nong-09563",
+  "servings_text": "Cho 2 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Xoài 2 trái",
+      "raw_name": "Xoài",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đào 4 trái",
+      "raw_name": "Đào",
+      "quantity": 4,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước cốt dừa 120 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 120,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cơm dừa sấy khô 20 gr (dùng để trang trí)",
+      "raw_name": "Cơm dừa sấy khô",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "dùng để trang trí",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:57:31Z",
+  "page_title": "14 cách làm sinh tố xoài ngọt mát giải khát ngày nóng",
+  "variant_index": 9,
+  "variant_count": 14,
+  "note": null,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/sinh-to-xoai-dao-thumbnail.jpg"
+}

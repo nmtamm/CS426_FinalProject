@@ -1,0 +1,43 @@
+{
+  "source_id": "14745",
+  "name": "Trà sữa bằng sữa đặc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ed1981be34418563.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-tra-sua-bang-sua-dac-tai-nha-mat-lanh-thom-ngon-nhu-14745",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-tra-sua-bang-sua-dac-tai-nha-mat-lanh-thom-ngon-nhu-14745",
+  "servings_text": "Cho 2 ly",
+  "topics": [
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà đen 2 gói",
+      "raw_name": "Trà đen",
+      "quantity": 2,
+      "unit": "gói",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa đặc 3 muỗng canh",
+      "raw_name": "Sữa đặc",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T20:10:50Z",
+  "page_title": "Cách pha trà sữa bằng sữa đặc tại nhà mát lạnh thơm ngon như ngoài hàng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-pha-tra-sua-bang-sua-dac-tai-nha-mat-lanh-thom-ngon-nhu-avt-1200x676.jpg"
+}

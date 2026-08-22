@@ -1,0 +1,95 @@
+{
+  "source_id": "03153",
+  "name": "Thịt heo chiên giòn sốt me cay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/632f57918bf0084c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-heo-chien-gion-sot-me-cay-ngot-dam-da-hap-dan-03153",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-heo-chien-gion-sot-me-cay-ngot-dam-da-hap-dan-03153",
+  "servings_text": "Cho 4 - 6 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt heo 600 gr",
+      "raw_name": "Thịt heo",
+      "quantity": 600,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột mì 50 gr",
+      "raw_name": "Bột mì",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột gạo 50 gr",
+      "raw_name": "Bột gạo",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột năng 20 gr",
+      "raw_name": "Bột năng",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cốt me 2 muỗng canh",
+      "raw_name": "Cốt me",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi băm 10 gr",
+      "raw_name": "Tỏi băm",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành băm 10 gr",
+      "raw_name": "Hành băm",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Lạc rang 20 gr",
+      "raw_name": "Lạc rang",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Vừng rang 20 gr",
+      "raw_name": "Vừng rang",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:26:24Z",
+  "page_title": "Cách làm thịt heo chiên giòn sốt me cay đậm đà hấp dẫn đưa cơm",
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookProduct/HuongdancachlammonTHITHEOSOTMECAYFeedyVN0-6screenshot-1200x676.jpg"
+}

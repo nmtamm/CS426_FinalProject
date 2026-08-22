@@ -1,0 +1,65 @@
+{
+  "source_id": "02150",
+  "name": "Nước ép bưởi sơ ri",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/70ac0ac18cc521d3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nuoc-ep-buoi-ngon-khong-dang-cuc-ky-02150",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nuoc-ep-buoi-ngon-khong-dang-cuc-ky-02150",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bưởi 1 trái",
+      "raw_name": "Bưởi",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sơ ri đỏ 200 gr",
+      "raw_name": "Sơ ri đỏ",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước cốt tắc 20 ml",
+      "raw_name": "Nước cốt tắc",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước đường 50 ml (hoặc đường trắng)",
+      "raw_name": "Nước đường",
+      "quantity": 50,
+      "unit": "ml",
+      "note": "hoặc đường trắng",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:57:52Z",
+  "page_title": "3 cách làm nước ép bưởi thanh mát thơm ngon hỗ trợ giảm cân",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/nuoc-ep-buoi-so-ri-thumbnail-1.jpg"
+}

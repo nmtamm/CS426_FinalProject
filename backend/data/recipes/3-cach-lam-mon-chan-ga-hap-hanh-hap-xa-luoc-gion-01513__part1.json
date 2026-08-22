@@ -1,0 +1,53 @@
+{
+  "source_id": "01513",
+  "name": "Chân gà hấp hành",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3a3e3694c3b89147.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-mon-chan-ga-hap-hanh-hap-xa-luoc-gion-01513",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-mon-chan-ga-hap-hanh-hap-xa-luoc-gion-01513",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chân gà 500 gr",
+      "raw_name": "Chân gà",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành lá 100 gr",
+      "raw_name": "Hành lá",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chanh tươi 1 quả",
+      "raw_name": "Chanh tươi",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rượu trắng 500 ml",
+      "raw_name": "Rượu trắng",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T18:15:27Z",
+  "page_title": "3 cách làm món chân gà hấp hành, hấp xả, luộc giòn thơm",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/chan-ga-hap-hanh-thumbnail.jpg"
+}

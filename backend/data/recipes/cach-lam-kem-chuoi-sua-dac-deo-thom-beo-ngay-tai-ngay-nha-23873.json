@@ -1,0 +1,103 @@
+{
+  "source_id": "23873",
+  "name": "Kem chuối sữa đặc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/47bbfd012b748719.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kem-chuoi-sua-dac-deo-thom-beo-ngay-tai-ngay-nha-23873",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kem-chuoi-sua-dac-deo-thom-beo-ngay-tai-ngay-nha-23873",
+  "servings_text": "Cho 4 hộp kem nhỏ",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-kem",
+      "name": "Món kem"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chuối xiêm chín mùi 10 trái (khoảng 850gr)",
+      "raw_name": "Chuối xiêm chín mùi",
+      "quantity": 10,
+      "unit": "trái",
+      "note": "khoảng 850gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước cốt dừa 500 ml (từ 400gr dừa nạo)",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 500,
+      "unit": "ml",
+      "note": "từ 400gr dừa nạo",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đặc 200 gr",
+      "raw_name": "Sữa đặc",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 50 gr",
+      "raw_name": "Đường",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đậu phộng 100 gr",
+      "raw_name": "Đậu phộng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột năng 10 gr (2 muỗng canh)",
+      "raw_name": "Bột năng",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "2 muỗng canh",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dừa rám bào sợi 1 trái (dừa cứng cậy)",
+      "raw_name": "Dừa rám bào sợi",
+      "quantity": 1,
+      "unit": "trái",
+      "note": "dừa cứng cậy",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Sữa chua có đường 1 hộp (tùy chọn)",
+      "raw_name": "Sữa chua có đường",
+      "quantity": 1,
+      "unit": "hộp",
+      "note": "tùy chọn",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hương vani 1 ít (hoặc hương dầu chuối)",
+      "raw_name": "Hương vani",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hoặc hương dầu chuối",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T20:13:26Z",
+  "page_title": "Cách làm kem chuối sữa đặc dẻo thơm, béo ngậy tại ngay nhà thật đơn giản",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Kem%20chu%E1%BB%91i%20s%E1%BB%AFa%20%C4%91%E1%BA%B7c%201200x676.jpg"
+}

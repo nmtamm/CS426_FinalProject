@@ -1,0 +1,75 @@
+{
+  "source_id": "23093",
+  "name": "Bánh chuối chiên bằng bột mì",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8c4595381f112ba6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-chuoi-chien-bang-bot-mi-da-dung-gion-thom-tai-23093",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-chuoi-chien-bang-bot-mi-da-dung-gion-thom-tai-23093",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chuối chín 10 quả",
+      "raw_name": "Chuối chín",
+      "quantity": 10,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột mì 300 gr",
+      "raw_name": "Bột mì",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột gạo 50 gr",
+      "raw_name": "Bột gạo",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột chiên giòn 30 gr (có thể thay luôn bằng bột gạo)",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 30,
+      "unit": "gr",
+      "note": "có thể thay luôn bằng bột gạo",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột nghệ 5 gr (để tạo màu - có thể bỏ qua)",
+      "raw_name": "Bột nghệ",
+      "quantity": 5,
+      "unit": "gr",
+      "note": "để tạo màu - có thể bỏ qua",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 100 gr",
+      "raw_name": "Đường",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:57:15Z",
+  "page_title": "Cách làm bánh chuối chiên bằng bột mì đa dụng giòn thơm tại nhà",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20thumb%20to%20t8%20%2833%29.jpg"
+}

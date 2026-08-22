@@ -1,0 +1,119 @@
+{
+  "source_id": "00523",
+  "name": "Bánh quy gừng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/cf3d44e11692d5fc.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-quy-gung-cho-le-giang-sinh-00523",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-quy-gung-cho-le-giang-sinh-00523",
+  "servings_text": "Cho 6 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì đa dụng 200 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bơ nhạt 80 gr",
+      "raw_name": "Bơ nhạt",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột gừng 2 muỗng cà phê",
+      "raw_name": "Bột gừng",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột quế 1/2 muỗng cà phê",
+      "raw_name": "Bột quế",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Mật ong 60 gr",
+      "raw_name": "Mật ong",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Trứng gà 1 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Trứng 1 quả (lòng đỏ làm kem)",
+      "raw_name": "Trứng",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "lòng đỏ làm kem",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Cream of tartar 1/2 muỗng cà phê",
+      "raw_name": "Cream of tartar",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Baking soda 1 muỗng cà phê",
+      "raw_name": "Baking soda",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đường 100 gr",
+      "raw_name": "Đường",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đường bột 150 gr (làm kem)",
+      "raw_name": "Đường bột",
+      "quantity": 150,
+      "unit": "gr",
+      "note": "làm kem",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Muối 1/3 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.333,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T19:29:30Z",
+  "page_title": "Công thức chi tiết cách làm bánh quy gừng cho lễ Giáng sinh",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2015/11/28/748140/cach-lam-banh-quy-gung-cho-le-giang-sinh-13-760x367.jpg"
+}

@@ -1,0 +1,70 @@
+{
+  "source_id": "08343",
+  "name": "Rau câu dừa phô mai",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ed5d0d2f39142f20.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-rau-cau-dua-pho-mai-beo-thom-ngon-kho-cuong-tai-nha-08343",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-rau-cau-dua-pho-mai-beo-thom-ngon-kho-cuong-tai-nha-08343",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột rau câu dẻo 10 gr",
+      "raw_name": "Bột rau câu dẻo",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cơm dừa non 1 chén (chén ăn cơm)",
+      "raw_name": "Cơm dừa non",
+      "quantity": 1,
+      "unit": "chén",
+      "note": "chén ăn cơm",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước dừa tươi 300 ml",
+      "raw_name": "Nước dừa tươi",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Phô mai con bò cười 2 miếng",
+      "raw_name": "Phô mai con bò cười 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 250 gr",
+      "raw_name": "Đường",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước 700 ml",
+      "raw_name": "Nước",
+      "quantity": 700,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:18:03Z",
+  "page_title": "2 Cách làm rau câu dừa phô mai béo thơm ngon khó cưỡng tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "công thức được chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookRecipe/Avatar/rau-cau-dua-pho-mai-cong-thuc-duoc-chia-se-tu-nguoi-dung-thumbnail.jpg"
+}

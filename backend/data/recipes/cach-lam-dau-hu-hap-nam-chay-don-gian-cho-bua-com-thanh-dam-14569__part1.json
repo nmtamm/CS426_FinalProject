@@ -1,0 +1,93 @@
+{
+  "source_id": "14569",
+  "name": "Đậu hũ hấp nấm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/69e6d4dd610511fd.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-hu-hap-nam-chay-don-gian-cho-bua-com-thanh-dam-14569",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-hu-hap-nam-chay-don-gian-cho-bua-com-thanh-dam-14569",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu hũ non 1 hộp",
+      "raw_name": "Đậu hũ non",
+      "quantity": 1,
+      "unit": "hộp",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm rơm 100 gr (hoặc bất kì loại nấm nào tùy thích)",
+      "raw_name": "Nấm rơm",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "hoặc bất kì loại nấm nào tùy thích",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành lá 2 nhánh (cắt nhỏ)",
+      "raw_name": "Hành lá",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": "cắt nhỏ",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt cắt nhỏ 1 trái",
+      "raw_name": "Ớt cắt nhỏ",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu hào chay 1/2 muỗng canh",
+      "raw_name": "Dầu hào chay",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước tương 1 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tương ớt 1/2 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ bột ngọt",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:40:33Z",
+  "page_title": "Cách làm đậu hũ hấp nấm chay đơn giản cho bữa cơm thanh đạm",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/dau-hu-hap-nam-thumbnail.jpg"
+}

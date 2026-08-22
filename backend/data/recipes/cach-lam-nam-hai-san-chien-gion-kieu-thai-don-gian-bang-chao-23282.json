@@ -1,0 +1,51 @@
+{
+  "source_id": "23282",
+  "name": "Nấm hải sản chiên giòn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a5693caf0f82226c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nam-hai-san-chien-gion-kieu-thai-don-gian-bang-chao-23282",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nam-hai-san-chien-gion-kieu-thai-don-gian-bang-chao-23282",
+  "servings_text": "Cho 2-3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nấm hải sản tươi 200 gr (có thể thay thế bằng nấm bạch tuyết/kim châm)",
+      "raw_name": "Nấm hải sản tươi",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "có thể thay thế bằng nấm bạch tuyết/kim châm",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột chiên giòn 100 gr",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (tỏi băm/ ớt bột/ tương ớt Thái Lan/ muối)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "tỏi băm/ ớt bột/ tương ớt Thái Lan/ muối",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T18:56:08Z",
+  "page_title": "Cách làm nấm hải sản chiên giòn kiểu Thái đơn giản bằng chảo sâu lòng",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/nam-hai-san-chien-gionn.jpg"
+}

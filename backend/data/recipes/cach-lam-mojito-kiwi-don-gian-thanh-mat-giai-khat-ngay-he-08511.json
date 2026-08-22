@@ -1,0 +1,67 @@
+{
+  "source_id": "08511",
+  "name": "Mojito kiwi không cồn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/130c145db30caae4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mojito-kiwi-don-gian-thanh-mat-giai-khat-ngay-he-08511",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mojito-kiwi-don-gian-thanh-mat-giai-khat-ngay-he-08511",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Kiwi 1 trái",
+      "raw_name": "Kiwi",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Siro kiwi 15 ml",
+      "raw_name": "Siro kiwi",
+      "quantity": 15,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Siro bạc hà 10 ml (hoặc dùng 4 lá bạc hà tươi)",
+      "raw_name": "Siro bạc hà",
+      "quantity": 10,
+      "unit": "ml",
+      "note": "hoặc dùng 4 lá bạc hà tươi",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường cát 15 gr (hoặc 30ml siro đường)",
+      "raw_name": "Đường cát",
+      "quantity": 15,
+      "unit": "gr",
+      "note": "hoặc 30ml siro đường",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cốt chanh 5 ml",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 5,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Soda 330 ml (hoặc 7 up)",
+      "raw_name": "Soda",
+      "quantity": 330,
+      "unit": "ml",
+      "note": "hoặc 7 up",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:59:04Z",
+  "page_title": "Cách làm mojito kiwi không cồn mát lạnh, thơm lừng, đánh bay cơn khát",
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookProduct/1-1200x676-43.jpg"
+}

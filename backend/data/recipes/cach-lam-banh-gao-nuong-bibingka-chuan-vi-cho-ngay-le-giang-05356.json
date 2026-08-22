@@ -1,0 +1,127 @@
+{
+  "source_id": "05356",
+  "name": "Bánh gạo nướng bibingka",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c8ac3f8046d7ad33.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-gao-nuong-bibingka-chuan-vi-cho-ngay-le-giang-05356",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-gao-nuong-bibingka-chuan-vi-cho-ngay-le-giang-05356",
+  "servings_text": "Cho 6 cái",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước cốt dừa 400 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bơ lạt đun chảy 60 ml",
+      "raw_name": "Bơ lạt đun chảy",
+      "quantity": 60,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột nếp 200 gr",
+      "raw_name": "Bột nếp",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột gạo 65 gr",
+      "raw_name": "Bột gạo",
+      "quantity": 65,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột nở 2 muỗng cà phê (Baking powder)",
+      "raw_name": "Bột nở",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": "Baking powder",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 150 gr",
+      "raw_name": "Đường",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Trứng muối 1 quả",
+      "raw_name": "Trứng muối",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dừa bào sợi 200 gr",
+      "raw_name": "Dừa bào sợi",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Phô mai sợi 100 gr",
+      "raw_name": "Phô mai sợi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Lá chuối 1 ít (giấy nến)",
+      "raw_name": "Lá chuối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "giấy nến",
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T19:43:46Z",
+  "page_title": "Cách làm bánh gạo nướng bibingka chuẩn vị cho ngày lễ Giáng Sinh",
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookProduct/Untitled-0-1200x676.jpg"
+}

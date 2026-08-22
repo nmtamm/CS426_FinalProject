@@ -1,0 +1,67 @@
+{
+  "source_id": "04128",
+  "name": "Gỏi trái thơm - salad dứa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/373dd7b1292c6b69.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-trai-thom-salad-dua-dep-mat-cho-tiec-chay-04128",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-trai-thom-salad-dua-dep-mat-cho-tiec-chay-04128",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thơm 1/4 trái",
+      "raw_name": "Thơm",
+      "quantity": 0.25,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dưa leo 1 quả",
+      "raw_name": "Dưa leo",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1/2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà chua 1 trái",
+      "raw_name": "Cà chua",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Húng cay 2 gr",
+      "raw_name": "Húng cay",
+      "quantity": 2,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Chanh 1 trái",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T17:58:11Z",
+  "page_title": "Cách làm gỏi trái thơm - salad dứa đẹp mắt cho tiệc chay thêm đặc sắc",
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookProduct/1200gtd-1200x676.jpg"
+}

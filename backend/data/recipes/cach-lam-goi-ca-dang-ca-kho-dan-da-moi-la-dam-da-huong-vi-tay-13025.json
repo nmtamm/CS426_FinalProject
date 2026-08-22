@@ -1,0 +1,99 @@
+{
+  "source_id": "13025",
+  "name": "Gỏi cà đắng cá khô",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d29ccc36da3f365e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-ca-dang-ca-kho-dan-da-moi-la-dam-da-huong-vi-tay-13025",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-ca-dang-ca-kho-dan-da-moi-la-dam-da-huong-vi-tay-13025",
+  "servings_text": "Cho 3",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cà đắng 200 gr",
+      "raw_name": "Cà đắng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cá khô 100 gr",
+      "raw_name": "Cá khô",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rau thơm 1 ít",
+      "raw_name": "Rau thơm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rau răm 1 ít",
+      "raw_name": "Rau răm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt 1 ít",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Chanh 2 quả",
+      "raw_name": "Chanh",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước mắm 3 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bột ngọt 1 muỗng cà phê",
+      "raw_name": "Bột ngọt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T17:53:34Z",
+  "page_title": "Cách làm gỏi cà đắng cá khô dân dã mới lạ đậm đà hương vị Tây Nguyên",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/2-1200x676-10.jpg"
+}

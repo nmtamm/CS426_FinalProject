@@ -1,0 +1,63 @@
+{
+  "source_id": "09746",
+  "name": "Nước chấm tương đậu phộng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/36f1cdb4add60869.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-cham-tuong-dau-phong-chay-man-deu-dung-duoc-09746",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-cham-tuong-dau-phong-chay-man-deu-dung-duoc-09746",
+  "servings_text": "Cho 1 tô lớn",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "meo-vao-bep",
+      "name": "Mẹo vào bếp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu phộng 200 gr",
+      "raw_name": "Đậu phộng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gạo 2/3 chén (chén ăn cơm)",
+      "raw_name": "Gạo",
+      "quantity": 0.667,
+      "unit": "chén",
+      "note": "chén ăn cơm",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước tương 1 chén (chén ăn cơm)",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "chén",
+      "note": "chén ăn cơm",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tương ớt 2 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Đường/ muối/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Đường/ muối/ hạt nêm",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T18:49:48Z",
+  "page_title": "Cách làm nước chấm tương đậu phộng chay mặn đều dùng được",
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookProduct/maxresdefault-(8)-1200x676.jpg"
+}

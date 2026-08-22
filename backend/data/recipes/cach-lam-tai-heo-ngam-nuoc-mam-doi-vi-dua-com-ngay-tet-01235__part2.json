@@ -1,0 +1,113 @@
+{
+  "source_id": "01235",
+  "name": "Tai heo sợi ngâm nước mắm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/34c395778adea82b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tai-heo-ngam-nuoc-mam-doi-vi-dua-com-ngay-tet-01235",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tai-heo-ngam-nuoc-mam-doi-vi-dua-com-ngay-tet-01235",
+  "servings_text": "Cho 6 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tai heo 2 cái",
+      "raw_name": "Tai heo",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước mắm 300 ml",
+      "raw_name": "Nước mắm",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt đỏ 2 trái",
+      "raw_name": "Ớt đỏ",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tiêu hạt 1 muỗng cà phê",
+      "raw_name": "Tiêu hạt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sả 3 cây",
+      "raw_name": "Sả",
+      "quantity": 3,
+      "unit": "cây",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 4 tép",
+      "raw_name": "Tỏi 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tím 3 củ",
+      "raw_name": "Hành tím",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Giấm 600 ml (200ml sơ chế tai héo/ 400ml nấu nước mắm)",
+      "raw_name": "Giấm",
+      "quantity": 600,
+      "unit": "ml",
+      "note": "200ml sơ chế tai héo/ 400ml nấu nước mắm",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Chanh 1 quả",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đường 200 gr",
+      "raw_name": "Đường",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T19:37:19Z",
+  "page_title": "3 Cách làm tai heo ngâm nước mắm giòn ngon sần sật, cực bắt vị ngày Tết",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookRecipe/Avatar/tai-heo-soi-ngam-nuoc-mam-thumbnail.jpg"
+}

@@ -1,0 +1,85 @@
+{
+  "source_id": "08604",
+  "name": "Gỏi sứa dưa hấu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4c1d1b0399583c21.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-dua-hau-tu-vo-dua-thanh-mat-thom-ngon-moi-la-08604",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-dua-hau-tu-vo-dua-thanh-mat-thom-ngon-moi-la-08604",
+  "servings_text": "Cho 3 người ăn",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Vỏ dưa hấu 500 gr",
+      "raw_name": "Vỏ dưa hấu",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sứa biển 200 gr",
+      "raw_name": "Sứa biển",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt 1 trái",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 5 tép",
+      "raw_name": "Tỏi 5 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Giấm 1/2 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu mè 1 muỗng canh",
+      "raw_name": "Dầu mè",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 1/4 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T17:56:34Z",
+  "page_title": "2 cách làm gỏi dưa hấu từ vỏ dưa thanh mát, thơm ngon, mới lạ, đơn giản",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/goi-sua-dua-hau-thumbnail.jpg"
+}

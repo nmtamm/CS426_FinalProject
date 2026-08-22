@@ -1,0 +1,141 @@
+{
+  "source_id": "08015",
+  "name": "Súp gân bò",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0e1efd50e5ed50fc.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-sup-bo-vien-va-sup-gan-bo-thom-ngon-dai-gion-kho-08015",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-sup-bo-vien-va-sup-gan-bo-thom-ngon-dai-gion-kho-08015",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gân bò 300 gr",
+      "raw_name": "Gân bò",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Măng tây 200 gr",
+      "raw_name": "Măng tây",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nấm đông cô 200 gr (khô)",
+      "raw_name": "Nấm đông cô",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "khô",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hạt sen 200 gr",
+      "raw_name": "Hạt sen",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Củ năng 200 gr",
+      "raw_name": "Củ năng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Táo Tàu 100 gr (hồng táo)",
+      "raw_name": "Táo Tàu",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "hồng táo",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Xương gà 200 gr",
+      "raw_name": "Xương gà",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Ngò rí 1 nhánh",
+      "raw_name": "Ngò rí",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Ớt tươi 2 quả",
+      "raw_name": "Ớt tươi",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gừng tươi 1 củ (cắt lát)",
+      "raw_name": "Gừng tươi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "cắt lát",
+      "display_order": 12
+    },
+    {
+      "raw_text": "Hành phi 1 ít",
+      "raw_name": "Hành phi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Bột năng 50 gr",
+      "raw_name": "Bột năng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ hạt nêm/ đường/ tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ hạt nêm/ đường/ tiêu",
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T18:28:49Z",
+  "page_title": "2 Cách nấu súp bò viên và súp gân bò thơm ngon, dai giòn khó cưỡng",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/sup-gan-bo-thumbnail.jpg"
+}

@@ -1,0 +1,79 @@
+{
+  "source_id": "07736",
+  "name": "Đậu hũ rang muối",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d458e25dc116cd13.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-phu-dau-hu-rang-muoi-ngon-gion-hap-dan-07736",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-phu-dau-hu-rang-muoi-ngon-gion-hap-dan-07736",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu hũ 5 miếng",
+      "raw_name": "Đậu hũ 5 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột chiên xù 1 chén (chén ăn cơm)",
+      "raw_name": "Bột chiên xù",
+      "quantity": 1,
+      "unit": "chén",
+      "note": "chén ăn cơm",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột bắp 1 ít",
+      "raw_name": "Bột bắp",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt sừng không cay 1/2 quả",
+      "raw_name": "Ớt sừng không cay",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành lá 1 ít",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột nêm rau củ 1 muỗng cà phê",
+      "raw_name": "Bột nêm rau củ",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:50:24Z",
+  "page_title": "Cách làm đậu hũ rang muối giòn ngon, hấp dẫn cực đơn giản cho bữa ăn chay",
+  "original_image_url": "https://cdn.tgdd.vn/2022/08/CookDish/cach-lam-dau-hu-rang-muoi-gion-ngon-hap-dan-cuc-don-gian-cho-avt-1200x676.jpg"
+}

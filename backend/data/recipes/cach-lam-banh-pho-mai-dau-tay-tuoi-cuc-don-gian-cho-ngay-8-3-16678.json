@@ -1,0 +1,107 @@
+{
+  "source_id": "16678",
+  "name": "Bánh phô mai dâu tây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7dc5143951518c8f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-pho-mai-dau-tay-tuoi-cuc-don-gian-cho-ngay-8-3-16678",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-pho-mai-dau-tay-tuoi-cuc-don-gian-cho-ngay-8-3-16678",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh quy 70 gr",
+      "raw_name": "Bánh quy",
+      "quantity": 70,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng gà 1 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cream cheese 250 gr",
+      "raw_name": "Cream cheese",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Kem tươi dạng lỏng 100 ml (whipping cream/ heavy cream tùy thích)",
+      "raw_name": "Kem tươi dạng lỏng",
+      "quantity": 100,
+      "unit": "ml",
+      "note": "whipping cream/ heavy cream tùy thích",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bơ không muối 30 gr (bơ lạt)",
+      "raw_name": "Bơ không muối",
+      "quantity": 30,
+      "unit": "gr",
+      "note": "bơ lạt",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sữa chua dâu tây 115 gr",
+      "raw_name": "Sữa chua dâu tây",
+      "quantity": 115,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường bột 90 gr",
+      "raw_name": "Đường bột",
+      "quantity": 90,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường cát trắng 80 gr",
+      "raw_name": "Đường cát trắng",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tinh bột bắp 15 gr",
+      "raw_name": "Tinh bột bắp",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tinh chất vani 1/2 muỗng canh",
+      "raw_name": "Tinh chất vani",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T19:36:51Z",
+  "page_title": "Cách làm bánh phô mai dâu tây tươi cực đơn giản cho ngày 8/3",
+  "original_image_url": "https://cdn.tgdd.vn/2022/02/CookDish/cach-lam-banh-pho-mai-dau-tay-tuoi-cuc-don-gian-cho-ngay-8-3-avt-1200x676.jpg"
+}

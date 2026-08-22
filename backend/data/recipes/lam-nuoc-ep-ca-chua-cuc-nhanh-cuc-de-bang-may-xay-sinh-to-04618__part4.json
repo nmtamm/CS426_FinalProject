@@ -1,0 +1,57 @@
+{
+  "source_id": "04618",
+  "name": "Nước ép cà chua dưa hấu ớt chuông",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b7de8b805c0fa898.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/lam-nuoc-ep-ca-chua-cuc-nhanh-cuc-de-bang-may-xay-sinh-to-04618",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/lam-nuoc-ep-ca-chua-cuc-nhanh-cuc-de-bang-may-xay-sinh-to-04618",
+  "servings_text": "Cho 2",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cà chua 2 quả",
+      "raw_name": "Cà chua",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cần tây 200 gr",
+      "raw_name": "Cần tây",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt chuông đỏ 1 quả",
+      "raw_name": "Ớt chuông đỏ",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dưa hấu 1/4 quả",
+      "raw_name": "Dưa hấu",
+      "quantity": 0.25,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:58:16Z",
+  "page_title": "4 cách làm nước ép cà chua thơm ngon dễ uống hỗ trợ giảm cân",
+  "variant_index": 4,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/nuoc-ep-ca-chua-dua-hau-ot-chuong-thumbnail.jpg"
+}

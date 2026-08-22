@@ -1,0 +1,63 @@
+{
+  "source_id": "23015",
+  "name": "Bò nướng kiến vàng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a163ab7ba82706db.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bo-nuong-kien-vang-mon-ngon-tay-nguyen-nuong-duoc-23015",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bo-nuong-kien-vang-mon-ngon-tay-nguyen-nuong-duoc-23015",
+  "servings_text": "Cho 2 - 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò tảng 500 gr",
+      "raw_name": "Thịt bò tảng",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Kiến vàng 1 ít (lấy cả tổ còn sống)",
+      "raw_name": "Kiến vàng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "lấy cả tổ còn sống",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối 1.5 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt cay 1 ít (4 - 6 trái tùy ý thích)",
+      "raw_name": "Ớt cay",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "4 - 6 trái tùy ý thích",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột ngọt 1 muỗng cà phê",
+      "raw_name": "Bột ngọt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T18:22:40Z",
+  "page_title": "Cách làm bò nướng kiến vàng - món ngon Tây Nguyên nướng được với nồi chiên",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20thumb%20to%20t7%20%2810%29.jpg"
+}

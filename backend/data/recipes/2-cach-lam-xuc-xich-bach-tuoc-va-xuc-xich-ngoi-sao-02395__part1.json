@@ -1,0 +1,81 @@
+{
+  "source_id": "02395",
+  "name": "Xúc xích bạch tuột",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7a51373215f9e77c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-xuc-xich-bach-tuoc-va-xuc-xich-ngoi-sao-02395",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-xuc-xich-bach-tuoc-va-xuc-xich-ngoi-sao-02395",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Xúc xích 500 gr",
+      "raw_name": "Xúc xích",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột mì 80 gr",
+      "raw_name": "Bột mì",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột nở 10 gr",
+      "raw_name": "Bột nở",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 10 gr",
+      "raw_name": "Đường",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 1/4 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tương cà 40 gr",
+      "raw_name": "Tương cà",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước 60 ml",
+      "raw_name": "Nước",
+      "quantity": 60,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:26:32Z",
+  "page_title": "2 cách làm xúc xích bạch tuộc và xúc xích ngôi sao thơm ngon, hấp dẫn",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/xuc-xich-bach-tuot-thumbnail.jpg"
+}

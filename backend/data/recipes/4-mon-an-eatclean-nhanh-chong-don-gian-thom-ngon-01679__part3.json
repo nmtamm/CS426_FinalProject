@@ -1,0 +1,73 @@
+{
+  "source_id": "01679",
+  "name": "Hộp cơm trưa Bento",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/51ba74ff9f377075.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/4-mon-an-eatclean-nhanh-chong-don-gian-thom-ngon-01679",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/4-mon-an-eatclean-nhanh-chong-don-gian-thom-ngon-01679",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    },
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu Hà Lan 1/2 chén",
+      "raw_name": "Đậu Hà Lan",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Việt quất 1/4 chén",
+      "raw_name": "Việt quất",
+      "quantity": 0.25,
+      "unit": "chén",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Táo 1/2 quả",
+      "raw_name": "Táo",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Phô mai Cheddar 30 g",
+      "raw_name": "Phô mai Cheddar",
+      "quantity": 30,
+      "unit": "g",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sốt hummus 2 muỗng canh",
+      "raw_name": "Sốt hummus",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bánh quy ngũ cốc 8 miếng (nguyên hạt)",
+      "raw_name": "Bánh quy ngũ cốc 8 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": "nguyên hạt",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:03:18Z",
+  "page_title": "4 món ăn Eatclean nhanh chóng, đơn giản, thơm ngon cho dân văn phòng",
+  "variant_index": 3,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/hop-com-trua-bento-thumbnail.jpg"
+}

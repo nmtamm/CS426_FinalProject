@@ -1,0 +1,61 @@
+{
+  "source_id": "04316",
+  "name": "Nấm rơm kho đậu hũ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b9800ae54a8003c2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nam-rom-kho-dau-hu-va-kho-chao-bat-com-thom-ngon-04316",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nam-rom-kho-dau-hu-va-kho-chao-bat-com-thom-ngon-04316",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nấm rơm 500 gr",
+      "raw_name": "Nấm rơm",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu hũ 4 miếng",
+      "raw_name": "Đậu hũ 4 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gia vị 10 gr (bột ngọt/nước tương/đường/tiêu)",
+      "raw_name": "Gia vị",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "bột ngọt/nước tương/đường/tiêu",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá 40 gr",
+      "raw_name": "Hành lá",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt 3 trái",
+      "raw_name": "Ớt",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T18:42:33Z",
+  "page_title": "2 Cách làm nấm rơm kho đậu hũ và kho chao bắt cơm thơm ngon",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/nam-rom-kho-dau-hu-thumbnail-1.jpg"
+}

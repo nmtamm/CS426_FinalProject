@@ -1,0 +1,69 @@
+{
+  "source_id": "05337",
+  "name": "Sữa chua vải bằng lò nướng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/514a1cf261a3b81b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sua-chua-vai-va-xoai-bang-lo-nuong-nhanh-chong-don-05337",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sua-chua-vai-va-xoai-bang-lo-nuong-nhanh-chong-don-05337",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Vái tươi 16 trái (khoảng 100gr)",
+      "raw_name": "Vái tươi",
+      "quantity": 16,
+      "unit": "trái",
+      "note": "khoảng 100gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Kem tươi 60 ml (fresh cream)",
+      "raw_name": "Kem tươi",
+      "quantity": 60,
+      "unit": "ml",
+      "note": "fresh cream",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đặc 2 muỗng canh",
+      "raw_name": "Sữa đặc",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa chua không đường 180 ml",
+      "raw_name": "Sữa chua không đường",
+      "quantity": 180,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hạt dẻ cười 1 ít",
+      "raw_name": "Hạt dẻ cười",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Cánh hoa hồng khô 1 ít",
+      "raw_name": "Cánh hoa hồng khô",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:23:08Z",
+  "page_title": "2 Cách làm sữa chua vải và xoài bằng lò nướng nhanh chóng, đơn giản",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookRecipe/Avatar/sua-chua-vai-bang-lo-nuong-thumbnail.jpg"
+}

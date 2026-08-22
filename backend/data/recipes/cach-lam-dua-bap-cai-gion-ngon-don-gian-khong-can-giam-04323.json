@@ -1,0 +1,79 @@
+{
+  "source_id": "04323",
+  "name": "Dưa bắp cải",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5eccec6a3089d945.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dua-bap-cai-gion-ngon-don-gian-khong-can-giam-04323",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dua-bap-cai-gion-ngon-don-gian-khong-can-giam-04323",
+  "servings_text": "Cho 3 - 4 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    },
+    {
+      "slug": "meo-vao-bep",
+      "name": "Mẹo vào bếp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bắp cải 800 gr",
+      "raw_name": "Bắp cải",
+      "quantity": 800,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 200 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối 60 gr",
+      "raw_name": "Muối",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 80 gr",
+      "raw_name": "Đường",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước vo gạo 1 lít",
+      "raw_name": "Nước vo gạo 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rau răm 10 gr",
+      "raw_name": "Rau răm",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tím 1 củ",
+      "raw_name": "Hành tím",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:31:36Z",
+  "page_title": "Cách làm dưa bắp cải giòn ngon, đơn giản không cần giấm",
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookProduct/1200CachMuoiDuaBapCaigionngonkhongcandamkhongbinhotdeduoclau7-27screenshot-1200x676.jpg"
+}

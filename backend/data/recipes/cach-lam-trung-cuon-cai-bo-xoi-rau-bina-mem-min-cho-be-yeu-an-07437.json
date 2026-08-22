@@ -1,0 +1,63 @@
+{
+  "source_id": "07437",
+  "name": "Trứng cuộn cải bó xôi (rau bina)",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3c66420bf0ca3d44.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-trung-cuon-cai-bo-xoi-rau-bina-mem-min-cho-be-yeu-an-07437",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-trung-cuon-cai-bo-xoi-rau-bina-mem-min-cho-be-yeu-an-07437",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rau bina 10 lá (cải bó xôi)",
+      "raw_name": "Rau bina",
+      "quantity": 10,
+      "unit": "lá",
+      "note": "cải bó xôi",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước dùng dashi 2 muỗng canh (hoặc nước lọc hay nước hầm rau củ)",
+      "raw_name": "Nước dùng dashi",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "hoặc nước lọc hay nước hầm rau củ",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:35:04Z",
+  "page_title": "Cách làm trứng cuộn cải bó xôi (rau bina) mềm mịn cho bé yêu ăn dặm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookProduct/maxresdefault-(12)-1200x676.jpg"
+}

@@ -1,0 +1,99 @@
+{
+  "source_id": "14087",
+  "name": "Chả cá bọc trứng muối và chả cá bọc trứng bắc thảo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f8fd51ef2a6b8c3a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-ca-boc-trung-muoi-va-cha-ca-boc-trung-bac-thao-14087",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-ca-boc-trung-muoi-va-cha-ca-boc-trung-bac-thao-14087",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chả cá 400 gr",
+      "raw_name": "Chả cá",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Giò sống 300 gr",
+      "raw_name": "Giò sống",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Thịt heo xay 100 gr",
+      "raw_name": "Thịt heo xay",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trứng bắc thảo 4 quả",
+      "raw_name": "Trứng bắc thảo",
+      "quantity": 4,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lòng đỏ trứng muối 6 cái",
+      "raw_name": "Lòng đỏ trứng muối",
+      "quantity": 6,
+      "unit": "cái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột chiên giòn 150 gr",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành lá 100 gr (cắt nhỏ)",
+      "raw_name": "Hành lá",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "cắt nhỏ",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành tím 2 muỗng canh (băm nhuyễn)",
+      "raw_name": "Hành tím",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "băm nhuyễn",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu hào 2 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tiêu xay/ hạt nêm 1 ít",
+      "raw_name": "Tiêu xay/ hạt nêm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T19:18:48Z",
+  "page_title": "Cách làm chả cá bọc trứng muối và chả cá bọc trứng bắc thảo siêu dai ngon",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-cha-ca-boc-trung-muoi-va-cha-ca-boc-trung-bac-thao-avt-1200x676.jpg"
+}

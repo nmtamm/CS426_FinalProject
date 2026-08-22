@@ -1,0 +1,89 @@
+{
+  "source_id": "01039",
+  "name": "Canh rong biển thịt bò",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4fc5caed8be769a0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-chi-tiet-cach-nau-canh-rong-bien-chuan-vi-han-quoc-01039",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-chi-tiet-cach-nau-canh-rong-bien-chuan-vi-han-quoc-01039",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-canh",
+      "name": "Món canh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rong biển khô 150 gr",
+      "raw_name": "Rong biển khô",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt bò tươi 100 gr",
+      "raw_name": "Thịt bò tươi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rượu trắng 1 muỗng canh",
+      "raw_name": "Rượu trắng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước tương 1 muỗng canh (xì dầu Hàn Quốc)",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "xì dầu Hàn Quốc",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hạt tiêu xay 1 ít",
+      "raw_name": "Hạt tiêu xay",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu ăn 1/2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:30:38Z",
+  "page_title": "2 cách nấu canh rong biển thịt bò mềm ngon đơn giản dễ làm tại nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/canh-rong-bien-thumbnail.jpg"
+}

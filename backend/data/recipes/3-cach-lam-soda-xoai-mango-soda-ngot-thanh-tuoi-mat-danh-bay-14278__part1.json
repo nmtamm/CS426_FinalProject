@@ -1,0 +1,61 @@
+{
+  "source_id": "14278",
+  "name": "Soda xoài",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/cd834305904bc3d9.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-soda-xoai-mango-soda-ngot-thanh-tuoi-mat-danh-bay-14278",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-soda-xoai-mango-soda-ngot-thanh-tuoi-mat-danh-bay-14278",
+  "servings_text": "Cho 2 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Xoài chín 1 trái (loại cỡ to)",
+      "raw_name": "Xoài chín",
+      "quantity": 1,
+      "unit": "trái",
+      "note": "loại cỡ to",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Soda 330 ml (1 lon soda)",
+      "raw_name": "Soda",
+      "quantity": 330,
+      "unit": "ml",
+      "note": "1 lon soda",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chanh 1.5 quả (lấy nước cốt)",
+      "raw_name": "Chanh",
+      "quantity": 1.5,
+      "unit": "quả",
+      "note": "lấy nước cốt",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường vàng 150 gr",
+      "raw_name": "Đường vàng",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đá viên đông lạnh 1 ít",
+      "raw_name": "Đá viên đông lạnh",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:55:17Z",
+  "page_title": "3 cách làm soda xoài - mango soda ngọt thanh tươi mát đánh bay ngày nóng",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/soda-xoai-thumbnail.jpg"
+}

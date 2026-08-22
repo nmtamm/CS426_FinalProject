@@ -1,0 +1,67 @@
+{
+  "source_id": "23515",
+  "name": "Canh rong biển chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d89a266aea32a091.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-canh-rong-bien-chay-ngot-lanh-thanh-dam-cho-bua-com-23515",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-canh-rong-bien-chay-ngot-lanh-thanh-dam-cho-bua-com-23515",
+  "servings_text": "Cho 1 - 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rong biển khô 15 gr (loại dùng để nấu canh)",
+      "raw_name": "Rong biển khô",
+      "quantity": 15,
+      "unit": "gr",
+      "note": "loại dùng để nấu canh",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm kim châm 150 gr",
+      "raw_name": "Nấm kim châm",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu hũ non 100 gr",
+      "raw_name": "Đậu hũ non",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng 10 gr",
+      "raw_name": "Gừng",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (hạt nêm chay/ muối/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hạt nêm chay/ muối/ tiêu xay",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ngò rí 1 ít",
+      "raw_name": "Ngò rí",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:35:11Z",
+  "page_title": "Cách nấu canh rong biển chay ngọt lành, thanh đạm cho bữa cơm nhẹ nhàng",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20m%C3%B3n%20an%20t11%20%281200%20x%20676%20px%29%20%2890%29.jpg"
+}

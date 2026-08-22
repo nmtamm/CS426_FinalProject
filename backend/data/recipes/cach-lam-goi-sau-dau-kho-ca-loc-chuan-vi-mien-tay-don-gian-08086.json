@@ -1,0 +1,95 @@
+{
+  "source_id": "08086",
+  "name": "Gỏi sầu đâu khô cá lóc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2a13a07b9f478aac.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-sau-dau-kho-ca-loc-chuan-vi-mien-tay-don-gian-08086",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-sau-dau-kho-ca-loc-chuan-vi-mien-tay-don-gian-08086",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    },
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đọt sầu đâu non 500 gr",
+      "raw_name": "Đọt sầu đâu non",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Khô cá lóc 1 con",
+      "raw_name": "Khô cá lóc 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà chua 2 trái",
+      "raw_name": "Cà chua",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dưa leo 2 trái",
+      "raw_name": "Dưa leo",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt 1 trái",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 2 tép",
+      "raw_name": "Tỏi 2 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước cốt me 2 muỗng canh",
+      "raw_name": "Nước cốt me",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường 2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T17:58:10Z",
+  "page_title": "Cách làm gỏi sầu đâu khô cá lóc chuẩn vị miền Tây đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/MonngonngaytetcachlamGOISAUDAUvoikhocalocDACSANMIENTAYThanhcooking12-0screenshot-1200x676.jpg"
+}

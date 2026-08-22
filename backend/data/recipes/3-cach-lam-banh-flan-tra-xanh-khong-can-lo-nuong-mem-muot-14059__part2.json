@@ -1,0 +1,73 @@
+{
+  "source_id": "14059",
+  "name": "Bánh flan trà xanh mật ong",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6ca0e7848d9194a2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-banh-flan-tra-xanh-khong-can-lo-nuong-mem-muot-14059",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-banh-flan-tra-xanh-khong-can-lo-nuong-mem-muot-14059",
+  "servings_text": "Cho 4 cái",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trứng gà 3 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột trà xanh Nhật Bản 1 muỗng canh (bột matcha)",
+      "raw_name": "Bột trà xanh Nhật Bản",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "bột matcha",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mật ong 4 muỗng cà phê",
+      "raw_name": "Mật ong",
+      "quantity": 4,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa tươi 280 ml",
+      "raw_name": "Sữa tươi",
+      "quantity": 280,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 4 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bơ 1 ít",
+      "raw_name": "Bơ",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:15:15Z",
+  "page_title": "3 cách làm bánh flan trà xanh không cần lò nướng mềm mướt thơm mịn đơn giản",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/banh-flan-tra-xanh-mat-ong-thumbnail.jpg"
+}

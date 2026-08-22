@@ -1,0 +1,69 @@
+{
+  "source_id": "14906",
+  "name": "Vanilla Bean Frappuccino",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6b3016b9910b3619.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-frappuccino-ngon-ngot-mat-lanh-chuan-vi-starbucks-14906",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-frappuccino-ngon-ngot-mat-lanh-chuan-vi-starbucks-14906",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Kem vanilla 1 chén (khoảng 3 viên kem)",
+      "raw_name": "Kem vanilla",
+      "quantity": 1,
+      "unit": "chén",
+      "note": "khoảng 3 viên kem",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa tươi 150 ml",
+      "raw_name": "Sữa tươi",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tinh chất vani 2 muỗng cà phê",
+      "raw_name": "Tinh chất vani",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Whipping cream 100 gr (đã đánh bông)",
+      "raw_name": "Whipping cream",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "đã đánh bông",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đá viên 50 gr",
+      "raw_name": "Đá viên",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:04:27Z",
+  "page_title": "4 cách làm Frappuccino ngon ngọt mát lạnh chuẩn vị Starbucks",
+  "variant_index": 1,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/vanilla-bean-frappuccino-thumbnail.jpg"
+}

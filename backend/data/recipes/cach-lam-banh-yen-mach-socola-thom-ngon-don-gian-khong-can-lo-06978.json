@@ -1,0 +1,55 @@
+{
+  "source_id": "06978",
+  "name": "Bánh yến mạch socola",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/edd45e44926df2ee.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-yen-mach-socola-thom-ngon-don-gian-khong-can-lo-06978",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-yen-mach-socola-thom-ngon-don-gian-khong-can-lo-06978",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Socola 170 gr (khoảng 1 thanh)",
+      "raw_name": "Socola",
+      "quantity": 170,
+      "unit": "gr",
+      "note": "khoảng 1 thanh",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Yến mạch ăn liền 220 gr",
+      "raw_name": "Yến mạch ăn liền",
+      "quantity": 220,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước cốt dừa 375 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 375,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bơ lạt 1 ít",
+      "raw_name": "Bơ lạt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:22:54Z",
+  "page_title": "Cách làm bánh yến mạch socola thơm ngon đơn giản, không cần lò nướng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/BeFunky-collage-2021-01-23T121601.320-1200x676.jpg"
+}

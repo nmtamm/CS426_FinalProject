@@ -1,0 +1,85 @@
+{
+  "source_id": "07445",
+  "name": "Ruốc cá quả",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d3f4ae4e91572c6f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-bong-ruoc-ca-loc-thom-ngon-bo-duong-tai-nha-07445",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-bong-ruoc-ca-loc-thom-ngon-bo-duong-tai-nha-07445",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cá quả 1.2 kg",
+      "raw_name": "Cá quả",
+      "quantity": 1.2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Giấm 100 ml (hoặc rượu trắng)",
+      "raw_name": "Giấm",
+      "quantity": 100,
+      "unit": "ml",
+      "note": "hoặc rượu trắng",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sả 1 ít",
+      "raw_name": "Sả",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tím 1 củ",
+      "raw_name": "Hành tím",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nghệ tươi 1 củ",
+      "raw_name": "Nghệ tươi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ hạt nêm/ đường)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ hạt nêm/ đường",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:09:39Z",
+  "page_title": "2 cách làm ruốc cá lóc (cá quả) thơm ngon, bổ dưỡng cực đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2022/06/CookRecipe/Avatar/ruoc-ca-qua-thumbnail.jpg"
+}

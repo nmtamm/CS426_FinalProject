@@ -1,0 +1,98 @@
+{
+  "source_id": "01575",
+  "name": "Bánh nếp rán đậu xanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b8dbb4a7503a7e77.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-nhan-banh-dau-xanh-gion-tan-thom-lung-01575",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-nhan-banh-dau-xanh-gion-tan-thom-lung-01575",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột nếp 400 gr",
+      "raw_name": "Bột nếp",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột gạo 60 gr",
+      "raw_name": "Bột gạo",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Khoai tây 1 củ",
+      "raw_name": "Khoai tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột nở 100 gr",
+      "raw_name": "Bột nở",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 100 gr",
+      "raw_name": "Đường",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Vừng 100 gr",
+      "raw_name": "Vừng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đậu xanh 200 gr",
+      "raw_name": "Đậu xanh",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dừa nạo 5 gr",
+      "raw_name": "Dừa nạo",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước ấm 400 ml",
+      "raw_name": "Nước ấm",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:44:45Z",
+  "page_title": "2 cách làm bánh nhãn, bánh đậu xanh giòn tan, thơm lừng ăn vặt ngày Tết",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": null,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/banh-nep-ran-dau-xanh-thumbnail.jpg"
+}

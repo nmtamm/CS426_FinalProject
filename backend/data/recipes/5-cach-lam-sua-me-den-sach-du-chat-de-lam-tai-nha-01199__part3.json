@@ -1,0 +1,41 @@
+{
+  "source_id": "01199",
+  "name": "Sữa mè đen kỷ tử",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a13ebdfd895538c3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/5-cach-lam-sua-me-den-sach-du-chat-de-lam-tai-nha-01199",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/5-cach-lam-sua-me-den-sach-du-chat-de-lam-tai-nha-01199",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mè đen 100 g",
+      "raw_name": "Mè đen",
+      "quantity": 100,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Kỷ tử 50 g",
+      "raw_name": "Kỷ tử",
+      "quantity": 50,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:57:28Z",
+  "page_title": "5 cách làm sữa mè đen sạch, đủ chất, dễ làm tại nhà",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/sua-oc-cho-me-den-thumbnail.jpg"
+}

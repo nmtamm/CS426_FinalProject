@@ -1,0 +1,59 @@
+{
+  "source_id": "07655",
+  "name": "Muối ớt rau răm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b5ebedad9a2d4361.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-muoi-ot-rau-ram-don-gian-de-cham-chung-voi-hai-san-07655",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-muoi-ot-rau-ram-don-gian-de-cham-chung-voi-hai-san-07655",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rau răm 40 gr (khoảng 1/2 bó)",
+      "raw_name": "Rau răm",
+      "quantity": 40,
+      "unit": "gr",
+      "note": "khoảng 1/2 bó",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lá giang 15 gr (có thể thay bằng lá cóc hoặc lá xoài)",
+      "raw_name": "Lá giang",
+      "quantity": 15,
+      "unit": "gr",
+      "note": "có thể thay bằng lá cóc hoặc lá xoài",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 5 tép (cắt nhỏ)",
+      "raw_name": "Tỏi 5 tép",
+      "quantity": null,
+      "unit": null,
+      "note": "cắt nhỏ",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt 10 trái (bỏ hạt)",
+      "raw_name": "Ớt",
+      "quantity": 10,
+      "unit": "trái",
+      "note": "bỏ hạt",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ muối/ bột ngọt/ tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ muối/ bột ngọt/ tiêu",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:21:47Z",
+  "page_title": "Cách làm muối ớt rau răm ngon đơn giản để chấm chung với hải sản",
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookProduct/Muoiotrauram-1200x676.jpg"
+}

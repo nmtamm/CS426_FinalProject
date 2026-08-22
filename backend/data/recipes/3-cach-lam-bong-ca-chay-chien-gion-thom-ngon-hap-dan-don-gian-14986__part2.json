@@ -1,0 +1,69 @@
+{
+  "source_id": "14986",
+  "name": "Bóng cá chay chiên giòn tương ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/71a40130dd735b44.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-bong-ca-chay-chien-gion-thom-ngon-hap-dan-don-gian-14986",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-bong-ca-chay-chien-gion-thom-ngon-hap-dan-don-gian-14986",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cá bóng chay 150 gr",
+      "raw_name": "Cá bóng chay",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng cà phê",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 300 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ muối)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ muối",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:39:03Z",
+  "page_title": "3 cách làm bóng cá chay chiên giòn thơm ngon hấp dẫn đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/bong-ca-chay-chien-gion-tuong-ot-thumbnail.jpg"
+}

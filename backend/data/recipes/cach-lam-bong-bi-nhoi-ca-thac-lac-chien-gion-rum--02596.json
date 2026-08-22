@@ -1,0 +1,111 @@
+{
+  "source_id": "02596",
+  "name": "Bông bí nhồi cá thác lác",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9f5a973728ad1ae8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bong-bi-nhoi-ca-thac-lac-chien-gion-rum--02596",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bong-bi-nhoi-ca-thac-lac-chien-gion-rum--02596",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bông bí 200 gr",
+      "raw_name": "Bông bí",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chả cá thác lác 400 gr",
+      "raw_name": "Chả cá thác lác",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tím 4 củ",
+      "raw_name": "Hành tím",
+      "quantity": 4,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt hiểm 3 trái",
+      "raw_name": "Ớt hiểm",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành lá 5 gr",
+      "raw_name": "Hành lá",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tiêu xay 1 muỗng canh",
+      "raw_name": "Tiêu xay",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hạt nêm 1/2 muỗng canh",
+      "raw_name": "Hạt nêm",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường 1/2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bột gạo 50 gr",
+      "raw_name": "Bột gạo",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Bột chiên giòn 50 gr",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T19:12:11Z",
+  "page_title": "Cách làm bông bí nhồi cá thác lác chiên giòn rụm, thơm ngon, ăn là ghiền",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/05/28/1259070/cach-lam-bong-bi-nhoi-ca-thac-lac-chien-gion-rum--16-760x367.jpg"
+}

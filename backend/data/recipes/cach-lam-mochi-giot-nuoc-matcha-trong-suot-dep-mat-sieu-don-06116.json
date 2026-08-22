@@ -1,0 +1,71 @@
+{
+  "source_id": "06116",
+  "name": "Mochi giọt nước matcha",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/eaf1b8175f459eaf.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mochi-giot-nuoc-matcha-trong-suot-dep-mat-sieu-don-06116",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mochi-giot-nuoc-matcha-trong-suot-dep-mat-sieu-don-06116",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đường 100 gr",
+      "raw_name": "Đường",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột mochi 22 gr",
+      "raw_name": "Bột mochi",
+      "quantity": 22,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột matcha 1/2 muỗng cà phê",
+      "raw_name": "Bột matcha",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước 500 ml",
+      "raw_name": "Nước",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Siro đường nâu 3 muỗng canh",
+      "raw_name": "Siro đường nâu",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột đậu nành 1.5 muỗng cà phê",
+      "raw_name": "Bột đậu nành",
+      "quantity": 1.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:22:50Z",
+  "page_title": "Cách làm mochi giọt nước matcha trong suốt, đẹp mắt, siêu đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookProduct/1200-1200x676-31.jpg"
+}

@@ -1,0 +1,61 @@
+{
+  "source_id": "07282",
+  "name": "Hạt điều rang trứng muối rong biển",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a01f35962f162bae.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-hat-dieu-rang-pho-mai-va-trung-muoi-sieu-hap-dan-07282",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-hat-dieu-rang-pho-mai-va-trung-muoi-sieu-hap-dan-07282",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hạt điều 500 gr",
+      "raw_name": "Hạt điều",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường trắng 100 gr",
+      "raw_name": "Đường trắng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bơ nhạt 20 gr",
+      "raw_name": "Bơ nhạt",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lá rong biển xay 5 gr",
+      "raw_name": "Lá rong biển xay",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lòng đỏ trứng muối 8 cái (đã chín)",
+      "raw_name": "Lòng đỏ trứng muối",
+      "quantity": 8,
+      "unit": "cái",
+      "note": "đã chín",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:21:58Z",
+  "page_title": "2 cách làm hạt điều rang phô mai và trứng muối siêu hấp dẫn, dễ làm tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookRecipe/Avatar/hat-dieu-rang-trung-muoi-rong-bien-thumbnail.jpg"
+}

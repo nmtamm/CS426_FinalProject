@@ -1,0 +1,35 @@
+{
+  "source_id": "15690",
+  "name": "Sữa bắp",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4324de6a0e047644.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-bap-bang-may-xay-nau-da-nang-cuc-don-gian-lai-15690",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-bap-bang-may-xay-nau-da-nang-cuc-don-gian-lai-15690",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bắp 1/2 trái",
+      "raw_name": "Bắp",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường nâu 1 ít",
+      "raw_name": "Đường nâu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:54:40Z",
+  "page_title": "Cách làm sữa bắp bằng máy xay nấu đa năng cực đơn giản lại thơm ngon",
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookDish/cach-lam-sua-ngo-bang-may-ep-cham-thom-beo-cuc-don-gian-tai-avt-1200x676.jpg"
+}

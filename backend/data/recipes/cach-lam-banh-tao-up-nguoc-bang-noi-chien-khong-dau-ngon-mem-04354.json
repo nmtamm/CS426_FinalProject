@@ -1,0 +1,79 @@
+{
+  "source_id": "04354",
+  "name": "Bánh táo úp ngược bằng nồi chiên không dầu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/153aee83adeb0de1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-tao-up-nguoc-bang-noi-chien-khong-dau-ngon-mem-04354",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-tao-up-nguoc-bang-noi-chien-khong-dau-ngon-mem-04354",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Táo 1 quả",
+      "raw_name": "Táo",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột mì đa dụng 200 g",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 200,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột nở 5 g",
+      "raw_name": "Bột nở",
+      "quantity": 5,
+      "unit": "g",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 150 g",
+      "raw_name": "Đường",
+      "quantity": 150,
+      "unit": "g",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sữa 100 ml",
+      "raw_name": "Sữa",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bơ 30 g",
+      "raw_name": "Bơ",
+      "quantity": 30,
+      "unit": "g",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:23:30Z",
+  "page_title": "Cách làm bánh táo úp ngược bằng nồi chiên không dầu ngon mềm",
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookProduct/1260-1200x676-44.jpg"
+}

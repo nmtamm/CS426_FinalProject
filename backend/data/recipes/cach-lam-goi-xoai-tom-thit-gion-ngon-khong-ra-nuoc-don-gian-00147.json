@@ -1,0 +1,99 @@
+{
+  "source_id": "00147",
+  "name": "Gỏi xoài tôm thịt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1c3c0ab89270ddb2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-xoai-tom-thit-gion-ngon-khong-ra-nuoc-don-gian-00147",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-xoai-tom-thit-gion-ngon-khong-ra-nuoc-don-gian-00147",
+  "servings_text": "Cho 4 người ăn",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt ba chỉ 400 g",
+      "raw_name": "Thịt ba chỉ",
+      "quantity": 400,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tôm 300 g",
+      "raw_name": "Tôm",
+      "quantity": 300,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Xoài xanh 2 trái",
+      "raw_name": "Xoài xanh",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rau thơm 100 g",
+      "raw_name": "Rau thơm",
+      "quantity": 100,
+      "unit": "g",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đậu phộng rang sẵn 50 g",
+      "raw_name": "Đậu phộng rang sẵn",
+      "quantity": 50,
+      "unit": "g",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Chanh 1 quả",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt 2 quả",
+      "raw_name": "Ớt",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hành tím 3 củ",
+      "raw_name": "Hành tím",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đường 50 g",
+      "raw_name": "Đường",
+      "quantity": 50,
+      "unit": "g",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:03:03Z",
+  "page_title": "Cách làm gỏi xoài tôm thịt giòn ngon không bị ra nước đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2020/06/CookProduct/1-1200x675-3.jpg"
+}

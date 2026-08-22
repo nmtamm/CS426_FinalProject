@@ -1,0 +1,65 @@
+{
+  "source_id": "12693",
+  "name": "Nước ép giá đỗ dứa củ đậu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/495c7c3e0b3f4c15.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-ep-gia-do-ngot-thanh-de-uong-phu-hop-cho-12693",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-ep-gia-do-ngot-thanh-de-uong-phu-hop-cho-12693",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Giá đỗ 100 gr",
+      "raw_name": "Giá đỗ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dứa/ thơm 1 quả (quả nhỏ)",
+      "raw_name": "Dứa/ thơm",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "quả nhỏ",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Củ đậu nhỏ 1 củ (củ sắn)",
+      "raw_name": "Củ đậu nhỏ",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "củ sắn",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lá bạc hà 5 nhánh (hoặc lá húng quế)",
+      "raw_name": "Lá bạc hà",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": "hoặc lá húng quế",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:48:06Z",
+  "page_title": "2 cách làm nước ép giá đỗ ngọt thanh, dễ uống phù hợp cho người giảm cân",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/nuoc-ep-gia-do-dua-cu-dau-thumbnail.jpg"
+}

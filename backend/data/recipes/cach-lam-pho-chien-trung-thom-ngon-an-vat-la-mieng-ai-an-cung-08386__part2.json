@@ -1,0 +1,105 @@
+{
+  "source_id": "08386",
+  "name": "Phở chiên trứng xúc xích",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3b3647d22b6ef6ef.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-pho-chien-trung-thom-ngon-an-vat-la-mieng-ai-an-cung-08386",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-pho-chien-trung-thom-ngon-an-vat-la-mieng-ai-an-cung-08386",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Phở tươi 150 gr",
+      "raw_name": "Phở tươi",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Xúc xích 3 cây",
+      "raw_name": "Xúc xích",
+      "quantity": 3,
+      "unit": "cây",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cải thìa 100 gr",
+      "raw_name": "Cải thìa",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt sừng 1/2 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 2 tép",
+      "raw_name": "Tỏi 2 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu hào 2 muỗng cà phê",
+      "raw_name": "Dầu hào",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu mè 1 muỗng cà phê",
+      "raw_name": "Dầu mè",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu ăn 310 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 310,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Hạt nêm/ Muối/ Đường)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Hạt nêm/ Muối/ Đường",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T19:19:30Z",
+  "page_title": "3 cách làm phở chiên trứng thơm ngon ăn vặt  lạ miệng ai ăn cũng ghiền",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/pho-chien-trung-xuc-xich-thumbnail.jpg"
+}

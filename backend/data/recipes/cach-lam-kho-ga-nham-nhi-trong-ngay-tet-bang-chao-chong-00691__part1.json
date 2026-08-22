@@ -1,0 +1,109 @@
+{
+  "source_id": "00691",
+  "name": "Khô gà",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/06099d4058bb936c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kho-ga-nham-nhi-trong-ngay-tet-bang-chao-chong-00691",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kho-ga-nham-nhi-trong-ngay-tet-bang-chao-chong-00691",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt ức gà 450 gr (phi lê)",
+      "raw_name": "Thịt ức gà",
+      "quantity": 450,
+      "unit": "gr",
+      "note": "phi lê",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gừng nhỏ 1 củ",
+      "raw_name": "Gừng nhỏ",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tím 4 củ",
+      "raw_name": "Hành tím",
+      "quantity": 4,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lá chanh 6 cái (không bắt buộc)",
+      "raw_name": "Lá chanh",
+      "quantity": 6,
+      "unit": "cái",
+      "note": "không bắt buộc",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 1/2 củ",
+      "raw_name": "Tỏi",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sả 1 cây",
+      "raw_name": "Sả",
+      "quantity": 1,
+      "unit": "cây",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột ớt 1/2 muỗng canh (nếu muốn khô có màu đỏ đẹp thì nên dùng bột ớt Hàn Quốc)",
+      "raw_name": "Bột ớt",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": "nếu muốn khô có màu đỏ đẹp thì nên dùng bột ớt Hàn Quốc",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột ngũ vị hương 1/4 muỗng cà phê",
+      "raw_name": "Bột ngũ vị hương",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước mắm 3 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu điều 1 muỗng canh",
+      "raw_name": "Dầu điều",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Muối/ đường nâu 1 ít",
+      "raw_name": "Muối/ đường nâu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:17:44Z",
+  "page_title": "2 Cách làm khô gà lá chanh bằng chảo nhâm nhi trong ngày Tết cực ngon",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://img.youtube.com/vi/Yl67n5d02-k/maxresdefault.jpg"
+}

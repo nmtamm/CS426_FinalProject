@@ -1,0 +1,86 @@
+{
+  "source_id": "00977",
+  "name": "Trứng cút chiên nước mắm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a787961150614097.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-trung-cut-chien-nuoc-mam-la-mieng-dua-com-cho-ca-nha-00977",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-trung-cut-chien-nuoc-mam-la-mieng-dua-com-cho-ca-nha-00977",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trứng cút 10 quả",
+      "raw_name": "Trứng cút",
+      "quantity": 10,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành tím 1 củ",
+      "raw_name": "Hành tím",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt bột 2 muỗng canh",
+      "raw_name": "Ớt bột",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường/ hạt nêm 1 ít",
+      "raw_name": "Đường/ hạt nêm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:18:54Z",
+  "page_title": "2 Cách làm trứng cút chiên nước mắm lạ miệng đưa cơm cho cả nhà",
+  "variant_index": 2,
+  "variant_count": 3,
+  "note": "công thức được chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/trung-cut-chien-nuoc-mam-cong-thuc-duoc-chia-se-tu-nguoi-dung-thumbnail.jpg"
+}

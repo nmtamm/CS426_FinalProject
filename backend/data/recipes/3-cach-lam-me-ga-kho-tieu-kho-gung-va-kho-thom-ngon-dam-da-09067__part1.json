@@ -1,0 +1,81 @@
+{
+  "source_id": "09067",
+  "name": "Mề gà kho tiêu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/555643c176379ec8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-me-ga-kho-tieu-kho-gung-va-kho-thom-ngon-dam-da-09067",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-me-ga-kho-tieu-kho-gung-va-kho-thom-ngon-dam-da-09067",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-kho",
+      "name": "Món kho"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mề gà 200 gr",
+      "raw_name": "Mề gà",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành tím tỏi giã nhuyễn 3 muỗng cà phê",
+      "raw_name": "Hành tím tỏi giã nhuyễn",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt cắt lát 1 trái",
+      "raw_name": "Ớt cắt lát",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước giấm ăn 100 ml",
+      "raw_name": "Nước giấm ăn",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ tiêu",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:07:38Z",
+  "page_title": "3 cách làm mề gà kho tiêu, kho gừng và kho thơm ngon đậm đà hấp dẫn",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookRecipe/Avatar/me-ga-kho-tieu-thumbnail.jpg"
+}

@@ -1,0 +1,93 @@
+{
+  "source_id": "14646",
+  "name": "Phở cuốn thịt heo băm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/48a90c160f207b64.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-pho-cuon-thit-bam-sieu-ngon-hap-dan-de-lam-ngay-14646",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-pho-cuon-thit-bam-sieu-ngon-hap-dan-de-lam-ngay-14646",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh phở cuốn 100 gr",
+      "raw_name": "Bánh phở cuốn",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt heo xay 150 gr",
+      "raw_name": "Thịt heo xay",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tím 1 củ",
+      "raw_name": "Hành tím",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Giá đỗ 100 gr",
+      "raw_name": "Giá đỗ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Xà lách 100 gr",
+      "raw_name": "Xà lách",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Cà chua 2 trái",
+      "raw_name": "Cà chua",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành lá 1 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hạt nêm/ tiêu xay 1 ít",
+      "raw_name": "Hạt nêm/ tiêu xay",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T20:34:22Z",
+  "page_title": "2 cách làm phở cuốn thịt băm siêu ngon hấp dẫn dễ làm ngay tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/pho-cuon-thit-heo-bam-thumbnail.jpg"
+}

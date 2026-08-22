@@ -1,0 +1,97 @@
+{
+  "source_id": "01775",
+  "name": "Nước đá me bột lọc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c1dda7968128faa2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-da-me-ngao-duong-mat-lanh-giai-nhiet-mua-he-01775",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-da-me-ngao-duong-mat-lanh-giai-nhiet-mua-he-01775",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Me vắt 200 gr",
+      "raw_name": "Me vắt",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dứa/ thơm 400 gr",
+      "raw_name": "Dứa/ thơm",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gừng 10 gr",
+      "raw_name": "Gừng",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đậu phộng rang 100 gr",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Mè trắng rang 10 gr",
+      "raw_name": "Mè trắng rang",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột năng 50 gr",
+      "raw_name": "Bột năng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 1/3 muỗng cà phê",
+      "raw_name": "Dầu ăn",
+      "quantity": 0.333,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường 455 gr",
+      "raw_name": "Đường",
+      "quantity": 455,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:17:13Z",
+  "page_title": "2 Cách làm nước đá me ngào đường mát lạnh giải nhiệt mùa hè",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/nuoc-da-me-bot-loc-thumbnail.jpg"
+}

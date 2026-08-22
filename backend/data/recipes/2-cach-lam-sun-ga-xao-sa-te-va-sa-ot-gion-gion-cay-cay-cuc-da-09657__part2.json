@@ -1,0 +1,101 @@
+{
+  "source_id": "09657",
+  "name": "Sụn gà xào sả ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2e3423f3a7e27d24.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sun-ga-xao-sa-te-va-sa-ot-gion-gion-cay-cay-cuc-da-09657",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sun-ga-xao-sa-te-va-sa-ot-gion-gion-cay-cay-cuc-da-09657",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sụn gà 500 gr",
+      "raw_name": "Sụn gà",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột chiên giòn 200 gr",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng 1 quả",
+      "raw_name": "Trứng",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 60 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 60,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sả băm 2 muỗng canh",
+      "raw_name": "Sả băm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt băm 2 muỗng canh",
+      "raw_name": "Ớt băm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành tím băm 1 muỗng canh",
+      "raw_name": "Hành tím băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước mắm 1.5 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ tiêu/ đường)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ tiêu/ đường",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:14:41Z",
+  "page_title": "2 cách làm sụn gà xào sa tế và sả ớt giòn giòn, cay cay cực đã miệng",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookRecipe/Avatar/sun-ga-xao-sa-ot-thumbnail.jpg"
+}

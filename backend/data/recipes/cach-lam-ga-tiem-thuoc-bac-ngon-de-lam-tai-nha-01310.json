@@ -1,0 +1,131 @@
+{
+  "source_id": "01310",
+  "name": "Gà tiềm thuốc bắc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9d35119b71b97a53.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-tiem-thuoc-bac-ngon-de-lam-tai-nha-01310",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-tiem-thuoc-bac-ngon-de-lam-tai-nha-01310",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà ác 1 con",
+      "raw_name": "Gà ác 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hoài sơ 10 gram",
+      "raw_name": "Hoài sơ 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sinh địa 5 gram",
+      "raw_name": "Sinh địa 5 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đẳng sâm 5 gram",
+      "raw_name": "Đẳng sâm 5 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đương quy 5 gram",
+      "raw_name": "Đương quy 5 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Kỷ tử 5 gram",
+      "raw_name": "Kỷ tử 5 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Táo tàu 5 gram",
+      "raw_name": "Táo tàu 5 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ngọc trúc 5 gram",
+      "raw_name": "Ngọc trúc 5 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Xuyên khung 5 gram",
+      "raw_name": "Xuyên khung 5 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nấm đông cô 5 gram",
+      "raw_name": "Nấm đông cô 5 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đỗ trọng 5 gram",
+      "raw_name": "Đỗ trọng 5 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Bạch chi 5 gram",
+      "raw_name": "Bạch chi 5 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nhãn nhục 5 gram",
+      "raw_name": "Nhãn nhục 5 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Dừa xiêm 1 trái",
+      "raw_name": "Dừa xiêm",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T18:15:45Z",
+  "page_title": "Cách làm gà tiềm thuốc bắc thơm ngon bổ dưỡng dễ làm tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2019/06/16/1173500/video-cach-lam-ga-tiem-thuoc-bac-ngon-nhieu-dam-bo-mau-de-lam-tai-nha8-760x367.jpg"
+}

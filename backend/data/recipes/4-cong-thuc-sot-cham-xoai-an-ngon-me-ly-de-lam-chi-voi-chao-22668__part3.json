@@ -1,0 +1,81 @@
+{
+  "source_id": "22668",
+  "name": "Mắm ruốc me",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d12f387bc2a3189e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/4-cong-thuc-sot-cham-xoai-an-ngon-me-ly-de-lam-chi-voi-chao-22668",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/4-cong-thuc-sot-cham-xoai-an-ngon-me-ly-de-lam-chi-voi-chao-22668",
+  "servings_text": "Cho 1.5 lít mắm ruốc thành phẩm",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mắm ruốc sống 1 kg",
+      "raw_name": "Mắm ruốc sống",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Me chua chín tách vỏ 400 gr",
+      "raw_name": "Me chua chín tách vỏ",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt 200 gr",
+      "raw_name": "Ớt",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 200 gr",
+      "raw_name": "Tỏi",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột ngọt 200 gr",
+      "raw_name": "Bột ngọt",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 500 gr",
+      "raw_name": "Đường",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước lọc 2 lít",
+      "raw_name": "Nước lọc 2 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:58:24Z",
+  "page_title": "4 công thức sốt chấm xoài ăn ngon mê ly dễ làm chỉ với chảo chống dính",
+  "variant_index": 3,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/mam-ruoc-me-thumbnail-1.jpg"
+}

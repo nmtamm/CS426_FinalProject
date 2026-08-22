@@ -1,0 +1,111 @@
+{
+  "source_id": "11593",
+  "name": "Chè hạt sen táo đỏ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/abe928c79e97fb79.jpeg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-che-hat-sen-tao-do-thanh-mat-bo-duong-giai-nhiet-11593",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-che-hat-sen-tao-do-thanh-mat-bo-duong-giai-nhiet-11593",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-che",
+      "name": "Món chè"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Táo đỏ 200 gr",
+      "raw_name": "Táo đỏ",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đỗ đen 200 gr",
+      "raw_name": "Đỗ đen",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hạt sen tươi 100 gr",
+      "raw_name": "Hạt sen tươi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dừa tươi 200 gr",
+      "raw_name": "Dừa tươi",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dừa khô 50 gr",
+      "raw_name": "Dừa khô",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột năng 250 gr",
+      "raw_name": "Bột năng",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột sương sáo 30 gr",
+      "raw_name": "Bột sương sáo",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường 50 gr",
+      "raw_name": "Đường",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường phèn 250 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Lạc rang chín 50 gr",
+      "raw_name": "Lạc rang chín",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Saffron nhụy hoa nghệ tây 1 ít (không bắt buộc)",
+      "raw_name": "Saffron nhụy hoa nghệ tây",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "không bắt buộc",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T20:13:56Z",
+  "page_title": "Cách nấu chè hạt sen táo đỏ thanh mát, giải nhiệt ngày nóng cực đã",
+  "original_image_url": "https://cdn.tgdd.vn/2022/01/CookDish/cach-nau-che-hat-sen-tao-do-thanh-mat-bo-duong-giai-nhiet-avt-1200x676.jpeg"
+}

@@ -1,0 +1,129 @@
+{
+  "source_id": "02140",
+  "name": "Hủ tiếu bò viên nạm bò",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8ce356cc9b04e7f9.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-hu-tieu-bo-vien-ngon-thanh-ngot-dam-da-ngat-ngay-02140",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-hu-tieu-bo-vien-ngon-thanh-ngot-dam-da-ngat-ngay-02140",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-nuoc",
+      "name": "Món nước"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hủ tiếu khô 250 gr",
+      "raw_name": "Hủ tiếu khô",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bò viên 300 gr",
+      "raw_name": "Bò viên",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Thịt nạm bò 500 gr",
+      "raw_name": "Thịt nạm bò",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mỡ heo 300 gr",
+      "raw_name": "Mỡ heo",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành lá 5 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Giá đỗ 50 gr",
+      "raw_name": "Giá đỗ",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi 2 củ (khoảng 10 - 15 tép nhỏ)",
+      "raw_name": "Tỏi",
+      "quantity": 2,
+      "unit": "củ",
+      "note": "khoảng 10 - 15 tép nhỏ",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành tím 6 củ",
+      "raw_name": "Hành tím",
+      "quantity": 6,
+      "unit": "củ",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rau ăn kèm 1 ít (xà lách/ húng quế/ ngò gai/ rau cần)",
+      "raw_name": "Rau ăn kèm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "xà lách/ húng quế/ ngò gai/ rau cần",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị nấu phở 1 gói (vỏ quế/ hoa hồi/ tiểu hồi/ hạt ngò/ thảo quả/ đinh hương)",
+      "raw_name": "Gia vị nấu phở",
+      "quantity": 1,
+      "unit": "gói",
+      "note": "vỏ quế/ hoa hồi/ tiểu hồi/ hạt ngò/ thảo quả/ đinh hương",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đường phèn 3 muỗng cà phê",
+      "raw_name": "Đường phèn",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Rượu trắng 1 ít",
+      "raw_name": "Rượu trắng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ tiêu/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ tiêu/ hạt nêm",
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T18:31:40Z",
+  "page_title": "3 cách nấu hủ tiếu bò viên nước dùng trong veo hấp dẫn ngon dễ làm",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/hu-tieu-bo-vien-nam-bo-thumbnail-1.jpg"
+}

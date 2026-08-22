@@ -1,0 +1,101 @@
+{
+  "source_id": "10308",
+  "name": "Gỏi nấm măng cụt chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a375e288eb87bd8d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-goi-mang-cut-chay-thom-ngon-doi-vi-ngay-ram-10308",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-goi-mang-cut-chay-thom-ngon-doi-vi-ngay-ram-10308",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Măng cụt xanh 7 trái",
+      "raw_name": "Măng cụt xanh",
+      "quantity": 7,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm bào ngư xám 200 gr",
+      "raw_name": "Nấm bào ngư xám",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sả 2 cây",
+      "raw_name": "Sả",
+      "quantity": 2,
+      "unit": "cây",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chanh 4 trái",
+      "raw_name": "Chanh",
+      "quantity": 4,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Rau răm 50 gr",
+      "raw_name": "Rau răm",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành phi 1 ít",
+      "raw_name": "Hành phi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đậu phộng rang 1 ít",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ muối/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ muối/ tiêu xay",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T17:57:01Z",
+  "page_title": "3 cách làm gỏi măng cụt chay thơm ngon, đổi vị ngày rằm",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/goi-mang-cut-thumbnail.jpg"
+}

@@ -1,0 +1,61 @@
+{
+  "source_id": "01036",
+  "name": "Sữa đậu nành và tào phớ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7db282e8668e137e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-5-do-an-vat-duong-pho-khong-beo-cuc-de-cuc-ngon-01036",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-5-do-an-vat-duong-pho-khong-beo-cuc-de-cuc-ngon-01036",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu nành 100 gr",
+      "raw_name": "Đậu nành",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước 800 ml",
+      "raw_name": "Nước",
+      "quantity": 800,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột gelatine 10 gr",
+      "raw_name": "Bột gelatine",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường phè 100 gr (hoặc đường kính/ đường hoa mai...)",
+      "raw_name": "Đường phè",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "hoặc đường kính/ đường hoa mai...",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lá dứa 4 nhánh",
+      "raw_name": "Lá dứa",
+      "quantity": 4,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:30:23Z",
+  "page_title": "Cách làm 5 đồ ăn vặt không béo cực dễ, cực ngon ăn hoài không tăng cân",
+  "variant_index": 4,
+  "variant_count": 5,
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookRecipe/Avatar/sua-dau-nanh-va-tao-pho-thumbnail.jpg"
+}

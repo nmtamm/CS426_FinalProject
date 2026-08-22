@@ -1,0 +1,35 @@
+{
+  "source_id": "15481",
+  "name": "Trà củ sen khô",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/53ded132285ec444.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-cu-sen-kho-tai-nha-don-gian-thom-ngon-bo-duong-15481",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-cu-sen-kho-tai-nha-don-gian-thom-ngon-bo-duong-15481",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Củ sen tươi 1 kg",
+      "raw_name": "Củ sen tươi",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước 1.2 lít",
+      "raw_name": "Nước 1.2 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:59:47Z",
+  "page_title": "Cách làm trà củ sen khô và pha trà củ sen tại nhà đơn giản bổ dưỡng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookDish/cach-lam-tra-cu-sen-kho-tai-nha-don-gian-thom-ngon-bo-duong-avt-1200x676-1.jpg"
+}

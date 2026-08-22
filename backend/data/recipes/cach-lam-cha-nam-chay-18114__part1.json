@@ -1,0 +1,85 @@
+{
+  "source_id": "18114",
+  "name": "Chả nấm chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b94cbec28f4626dd.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-nam-chay-18114",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-nam-chay-18114",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nấm bào ngư xám 20 gr",
+      "raw_name": "Nấm bào ngư xám",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rong biển khô 5 gr",
+      "raw_name": "Rong biển khô",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột chiên giòn 3 muỗng canh",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột năng 1 muỗng canh",
+      "raw_name": "Bột năng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành ngò 1 ít",
+      "raw_name": "Hành ngò",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt sừng không cay 1/4 trái",
+      "raw_name": "Ớt sừng không cay",
+      "quantity": 0.25,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hạt nêm rau củ 1 muỗng cà phê",
+      "raw_name": "Hạt nêm rau củ",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tiêu 1 ít",
+      "raw_name": "Tiêu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:44:52Z",
+  "page_title": "3 cách làm chả nấm chay bằng nồi chiên không dầu, chảo chống dính dai ngon",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2022/09/CookRecipe/Avatar/cha-nam-chay-thumbnail-4.jpg"
+}

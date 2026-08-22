@@ -1,0 +1,35 @@
+{
+  "source_id": "03069",
+  "name": "Nghệ ngâm mật ong",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ee3f651e4a7103de.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nghe-tuoi-ngam-mat-ong-bo-duong-thom-ngon-tai-nha-03069",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nghe-tuoi-ngam-mat-ong-bo-duong-thom-ngon-tai-nha-03069",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nghệ tươi 500 gr",
+      "raw_name": "Nghệ tươi",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mật ong 500 ml",
+      "raw_name": "Mật ong",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T20:02:22Z",
+  "page_title": "Cách làm nghệ tươi ngâm mật ong bổ dưỡng, thơm ngon tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookProduct/Untitled-2-1200x676-2.jpg"
+}

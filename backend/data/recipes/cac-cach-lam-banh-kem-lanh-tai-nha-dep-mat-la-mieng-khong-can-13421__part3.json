@@ -1,0 +1,61 @@
+{
+  "source_id": "13421",
+  "name": "Bánh kem lạnh vị xoài",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/701b4865983daf7d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cac-cach-lam-banh-kem-lanh-tai-nha-dep-mat-la-mieng-khong-can-13421",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cac-cach-lam-banh-kem-lanh-tai-nha-dep-mat-la-mieng-khong-can-13421",
+  "servings_text": "Cho 6 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Xoài 2 quả",
+      "raw_name": "Xoài",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bơ 60 gr (đun chảy)",
+      "raw_name": "Bơ",
+      "quantity": 60,
+      "unit": "gr",
+      "note": "đun chảy",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bánh quy 150 gr (đã nghiền nhuyễn)",
+      "raw_name": "Bánh quy",
+      "quantity": 150,
+      "unit": "gr",
+      "note": "đã nghiền nhuyễn",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Whipping cream 250 ml",
+      "raw_name": "Whipping cream",
+      "quantity": 250,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sữa đặc 300 ml",
+      "raw_name": "Sữa đặc",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:18:40Z",
+  "page_title": "3 cách làm bánh kem lạnh tại nhà đẹp mắt lạ miệng không cần lò nướng",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/banh-kem-lanh-vi-xoai-thumbnail-1.jpg"
+}

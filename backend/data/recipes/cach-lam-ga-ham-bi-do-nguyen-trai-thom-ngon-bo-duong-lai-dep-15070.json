@@ -1,0 +1,55 @@
+{
+  "source_id": "15070",
+  "name": "Gà hầm bí đỏ nguyên trái",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c75688d6f226bd18.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-ham-bi-do-nguyen-trai-thom-ngon-bo-duong-lai-dep-15070",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-ham-bi-do-nguyen-trai-thom-ngon-bo-duong-lai-dep-15070",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà 1/2 con",
+      "raw_name": "Gà 1/2 con",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bí đỏ 1 quả",
+      "raw_name": "Bí đỏ",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tím 5 củ (cắt múi cau)",
+      "raw_name": "Hành tím",
+      "quantity": 5,
+      "unit": "củ",
+      "note": "cắt múi cau",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ tiêu xay/ bột ngọt/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ tiêu xay/ bột ngọt/ hạt nêm",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T18:17:25Z",
+  "page_title": "Cách làm gà hầm bí đỏ nguyên trái thơm ngon bổ dưỡng lại đẹp mắt",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookDish/cach-lam-ga-ham-bi-do-nguyen-trai-thom-ngon-bo-duong-lai-dep-avt-1200x676.jpg"
+}

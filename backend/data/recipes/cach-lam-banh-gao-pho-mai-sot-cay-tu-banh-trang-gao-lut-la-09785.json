@@ -1,0 +1,111 @@
+{
+  "source_id": "09785",
+  "name": "Bánh gạo phô mai sốt cay từ bánh tráng gạo lứt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e49352524b288a24.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-gao-pho-mai-sot-cay-tu-banh-trang-gao-lut-la-09785",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-gao-pho-mai-sot-cay-tu-banh-trang-gao-lut-la-09785",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh tráng gạo lứt 8 cái (loại 22cm)",
+      "raw_name": "Bánh tráng gạo lứt",
+      "quantity": 8,
+      "unit": "cái",
+      "note": "loại 22cm",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Phô mai mozzarella 50 gr",
+      "raw_name": "Phô mai mozzarella",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Xúc xích 6 cái (nhỏ)",
+      "raw_name": "Xúc xích",
+      "quantity": 6,
+      "unit": "cái",
+      "note": "nhỏ",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bắp cải thảo 1/4 cây",
+      "raw_name": "Bắp cải thảo",
+      "quantity": 0.25,
+      "unit": "cây",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành boa rô 1/2 cây",
+      "raw_name": "Hành boa rô",
+      "quantity": 0.5,
+      "unit": "cây",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sốt ớt Hàn Quốc 1 muỗng canh",
+      "raw_name": "Sốt ớt Hàn Quốc",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước tương 1/2 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột ớt 1 muỗng cà phê",
+      "raw_name": "Bột ớt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đường 1/2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu mè 1/2 muỗng canh",
+      "raw_name": "Dầu mè",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T19:20:58Z",
+  "page_title": "Cách làm bánh gạo phô mai sốt cay từ bánh tráng gạo lứt lạ miệng cực ngon",
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookProduct/1200-1200x676-6.jpg"
+}

@@ -1,0 +1,119 @@
+{
+  "source_id": "24335",
+  "name": "Tai heo cuộn bắp bò ngâm mắm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/35dec788661ff75f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tai-heo-cuon-bap-bo-ngam-mam-gion-ngon-dam-da-cho-24335",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tai-heo-cuon-bap-bo-ngam-mam-gion-ngon-dam-da-cho-24335",
+  "servings_text": "Cho 4 - 5 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tai heo 500 gr",
+      "raw_name": "Tai heo",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bắp bò 400 gr (nên chọn bắp hoa)",
+      "raw_name": "Bắp bò",
+      "quantity": 400,
+      "unit": "gr",
+      "note": "nên chọn bắp hoa",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước mắm ngon 200 ml",
+      "raw_name": "Nước mắm ngon",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường phèn 150 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Giấm gạo 100 ml",
+      "raw_name": "Giấm gạo",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rượu trắng 2 muỗng canh",
+      "raw_name": "Rượu trắng",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi 5 tép",
+      "raw_name": "Tỏi 5 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Sả 3 nhánh",
+      "raw_name": "Sả",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Ớt 5 quả",
+      "raw_name": "Ớt",
+      "quantity": 5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Tiêu hạt 1 muỗng canh",
+      "raw_name": "Tiêu hạt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T19:31:55Z",
+  "page_title": "Cách làm tai heo cuộn bắp bò ngâm mắm giòn ngon, đậm đà cho ngày Tết",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t04%201200676%20%2840%29.jpg"
+}

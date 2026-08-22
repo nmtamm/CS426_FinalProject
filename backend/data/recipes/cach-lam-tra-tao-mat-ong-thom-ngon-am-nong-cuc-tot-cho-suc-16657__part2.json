@@ -1,0 +1,69 @@
+{
+  "source_id": "16657",
+  "name": "Trà cam táo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e4c8e3d37a4df0b6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-tao-mat-ong-thom-ngon-am-nong-cuc-tot-cho-suc-16657",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-tao-mat-ong-thom-ngon-am-nong-cuc-tot-cho-suc-16657",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Táo 1/2 quả",
+      "raw_name": "Táo",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cam 1/2 quả",
+      "raw_name": "Cam",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trà túi lọc 1 gói",
+      "raw_name": "Trà túi lọc",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 2 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước 200 ml",
+      "raw_name": "Nước",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:59:52Z",
+  "page_title": "2 Cách làm trà táo mật ong thơm ngon, ấm nóng cực tốt cho sức khỏe",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2022/04/CookRecipe/Avatar/tra-cam-tao-thumbnail.jpg"
+}

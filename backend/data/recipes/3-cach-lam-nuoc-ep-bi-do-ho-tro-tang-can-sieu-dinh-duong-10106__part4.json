@@ -1,0 +1,65 @@
+{
+  "source_id": "10106",
+  "name": "Nước ép bí đỏ cà rốt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5181516a886e1a21.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nuoc-ep-bi-do-ho-tro-tang-can-sieu-dinh-duong-10106",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nuoc-ep-bi-do-ho-tro-tang-can-sieu-dinh-duong-10106",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bí đỏ 150 gr",
+      "raw_name": "Bí đỏ",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 1 trái",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dừa xay 120 gr",
+      "raw_name": "Dừa xay",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bạch đậu khấu 1 trái",
+      "raw_name": "Bạch đậu khấu",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường thốt nốt 2 muỗng canh",
+      "raw_name": "Đường thốt nốt",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:56:43Z",
+  "page_title": "5  cách làm nước ép bí đỏ ngọt thanh, dễ uống, tốt cho người giảm cân",
+  "variant_index": 4,
+  "variant_count": 5,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/nuoc-ep-bi-do-song-ca-rot-thumbnail.jpg"
+}

@@ -1,0 +1,53 @@
+{
+  "source_id": "16322",
+  "name": "Mứt củ cải trắng sợi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3cf29df2a9e7fc1d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mut-cu-cai-trang-moi-la-hap-dan-thom-ngon-cho-ngay-16322",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mut-cu-cai-trang-moi-la-hap-dan-thom-ngon-cho-ngay-16322",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Củ cải trắng 500 gr (2 củ)",
+      "raw_name": "Củ cải trắng",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "2 củ",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước vôi trong 100 ml (khoảng 1 chén)",
+      "raw_name": "Nước vôi trong",
+      "quantity": 100,
+      "unit": "ml",
+      "note": "khoảng 1 chén",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột vani 2 gr (hoặc chiết xuất vani)",
+      "raw_name": "Bột vani",
+      "quantity": 2,
+      "unit": "gr",
+      "note": "hoặc chiết xuất vani",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 200 gr",
+      "raw_name": "Đường",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:39:25Z",
+  "page_title": "2 cách làm mứt củ cải trắng mới lạ hấp dẫn thơm ngon cho ngày Tết",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2022/01/CookRecipe/Avatar/mut-cu-cai-trang-soi-thumbnail.jpg"
+}

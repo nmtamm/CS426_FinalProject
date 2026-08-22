@@ -1,0 +1,77 @@
+{
+  "source_id": "12104",
+  "name": "Sinh tố ớt chuông cải bó xôi nho",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/301a219b4c818521.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sinh-to-ot-chuong-giam-can-thom-ngon-de-uong-cuc-12104",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sinh-to-ot-chuong-giam-can-thom-ngon-de-uong-cuc-12104",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ớt chuông xanh 1/2 quả",
+      "raw_name": "Ớt chuông xanh",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cải bó xôi 125 gr",
+      "raw_name": "Cải bó xôi",
+      "quantity": 125,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nho xanh 60 gr",
+      "raw_name": "Nho xanh",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chà là 4 quả",
+      "raw_name": "Chà là",
+      "quantity": 4,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sữa hạnh nhân 120 ml",
+      "raw_name": "Sữa hạnh nhân",
+      "quantity": 120,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước cốt chanh 1/2 muỗng cà phê",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:09:29Z",
+  "page_title": "3 cách làm sinh tố ớt chuông giảm cân thơm ngon dễ uống cực đơn giản",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/sinh-to-ot-chuong-cai-bo-xoi-nho-thumbnail-1.jpg"
+}

@@ -1,0 +1,63 @@
+{
+  "source_id": "23668",
+  "name": "Hạt dẻ luộc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2bdf04925b29acec.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-luoc-hat-de-ngon-de-boc-vo-khong-can-lo-nuong-kieu-han-23668",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-luoc-hat-de-ngon-de-boc-vo-khong-can-lo-nuong-kieu-han-23668",
+  "servings_text": "Cho 500gr hạt dẻ",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hạt dẻ 500 gr",
+      "raw_name": "Hạt dẻ",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước 350 ml",
+      "raw_name": "Nước",
+      "quantity": 350,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 50 gr",
+      "raw_name": "Đường",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu 30 ml",
+      "raw_name": "Dầu",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T18:54:27Z",
+  "page_title": "Cách luộc hạt dẻ ngon dễ bóc vỏ không cần lò nướng kiểu Hàn Quốc",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/dhsww.jpg"
+}

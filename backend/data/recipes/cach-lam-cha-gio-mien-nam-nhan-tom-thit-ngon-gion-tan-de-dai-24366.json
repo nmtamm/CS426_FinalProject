@@ -1,0 +1,115 @@
+{
+  "source_id": "24366",
+  "name": "Chả giò miền Nam",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bd9233f83b5401f8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-gio-mien-nam-nhan-tom-thit-ngon-gion-tan-de-dai-24366",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-gio-mien-nam-nhan-tom-thit-ngon-gion-tan-de-dai-24366",
+  "servings_text": "Cho 50 cuốn",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt heo 500 gr",
+      "raw_name": "Thịt heo",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tôm tươi 300 gr",
+      "raw_name": "Tôm tươi",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Khoai môn 350 gr",
+      "raw_name": "Khoai môn",
+      "quantity": 350,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 150 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nấm mèo 80 gr (đã ngâm nở)",
+      "raw_name": "Nấm mèo",
+      "quantity": 80,
+      "unit": "gr",
+      "note": "đã ngâm nở",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bún tàu khô 60 gr",
+      "raw_name": "Bún tàu khô",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tím 50 gr",
+      "raw_name": "Hành tím",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tỏi 20 gr",
+      "raw_name": "Tỏi",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hành lá 30 gr",
+      "raw_name": "Hành lá",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bịch bánh cuốn chả giò 2 cái (loại bánh tráng dẻo)",
+      "raw_name": "Bịch bánh cuốn chả giò",
+      "quantity": 2,
+      "unit": "cái",
+      "note": "loại bánh tráng dẻo",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Bột mì 1 muỗng cà phê",
+      "raw_name": "Bột mì",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (bột nêm/ đường/ muối/ tiêu/ dầu ăn/ giấm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "bột nêm/ đường/ muối/ tiêu/ dầu ăn/ giấm",
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T20:32:07Z",
+  "page_title": "Cách làm chả giò miền Nam nhân tôm thịt ngon giòn tan để đãi tiệc gia đình",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t04%201200676%20%2869%29.jpg"
+}

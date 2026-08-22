@@ -1,0 +1,107 @@
+{
+  "source_id": "16039",
+  "name": "Nộm (gỏi) gà đu đủ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b0062678fa81af49.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nom-goi-ga-du-du-thom-ngon-bat-vi-an-la-me-16039",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nom-goi-ga-du-du-thom-ngon-bat-vi-an-la-me-16039",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà 1 kg (nửa con)",
+      "raw_name": "Gà",
+      "quantity": 1,
+      "unit": "kg",
+      "note": "nửa con",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đu đủ xanh 500 gr (khoảng 1/2 quả)",
+      "raw_name": "Đu đủ xanh",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "khoảng 1/2 quả",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rau răm 1 ít",
+      "raw_name": "Rau răm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt băm 1 muỗng cà phê",
+      "raw_name": "Ớt băm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng cà phê",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tím 9 củ",
+      "raw_name": "Hành tím",
+      "quantity": 9,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Chanh 1/2 trái",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đậu phộng rang 1 ít",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước mắm 4 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Muối/ Đường 1 ít",
+      "raw_name": "Muối/ Đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T17:54:14Z",
+  "page_title": "Cách làm nộm (gỏi) gà đu đủ thơm ngon bắt vị ăn là mê",
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookDish/cach-lam-nom-goi-ga-du-du-thom-ngon-bat-vi-an-la-me-avt-800x450-2.jpg"
+}

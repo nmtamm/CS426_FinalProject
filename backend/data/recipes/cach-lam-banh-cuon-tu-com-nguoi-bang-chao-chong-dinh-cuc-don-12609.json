@@ -1,0 +1,131 @@
+{
+  "source_id": "12609",
+  "name": "Bánh cuốn từ cơm nguội",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bb9a0b30e4802f60.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-cuon-tu-com-nguoi-bang-chao-chong-dinh-cuc-don-12609",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-cuon-tu-com-nguoi-bang-chao-chong-dinh-cuc-don-12609",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cơm nguội 50 gr",
+      "raw_name": "Cơm nguội",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tinh bột gạo 100 gr",
+      "raw_name": "Tinh bột gạo",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tinh bột năng 50 gr",
+      "raw_name": "Tinh bột năng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tinh bột khoai tây 50 gr (hoặc bột bắp)",
+      "raw_name": "Tinh bột khoai tây",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "hoặc bột bắp",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Thịt heo xay 300 gr",
+      "raw_name": "Thịt heo xay",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nấm mèo 100 gr (băm nhuyễn)",
+      "raw_name": "Nấm mèo",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "băm nhuyễn",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt 1/2 muỗng canh",
+      "raw_name": "Ớt",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành tím 3 muỗng canh (băm nhỏ)",
+      "raw_name": "Hành tím",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": "băm nhỏ",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước mắm 1.5 muỗng cà phê",
+      "raw_name": "Nước mắm",
+      "quantity": 1.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Mỡ hành 1 ít",
+      "raw_name": "Mỡ hành",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Hành phi 1 ít",
+      "raw_name": "Hành phi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ tiêu",
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T20:34:14Z",
+  "page_title": "Cách làm bánh cuốn từ cơm nguội bằng chảo chống dính cực đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/1200-1200x676-53.jpg"
+}

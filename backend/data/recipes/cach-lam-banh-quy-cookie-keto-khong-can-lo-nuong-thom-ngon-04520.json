@@ -1,0 +1,79 @@
+{
+  "source_id": "04520",
+  "name": "Bánh quy cookie keto",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/31f6de322c695d22.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-quy-cookie-keto-khong-can-lo-nuong-thom-ngon-04520",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-quy-cookie-keto-khong-can-lo-nuong-thom-ngon-04520",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bơ lạt 100 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột hạnh nhân 1 cốc",
+      "raw_name": "Bột hạnh nhân 1 cốc",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột dừa 1/2 cốc",
+      "raw_name": "Bột dừa 1/2 cốc",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hương vani 1 muỗng cà phê",
+      "raw_name": "Hương vani",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường ăn kiêng stevia 2 muỗng cà phê",
+      "raw_name": "Đường ăn kiêng stevia",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột nở 1/2 muỗng cà phê",
+      "raw_name": "Bột nở",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:24:29Z",
+  "page_title": "Cách làm bánh quy cookie keto không cần lò nướng thơm ngon đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookProduct/1200-1200x676-31.jpg"
+}

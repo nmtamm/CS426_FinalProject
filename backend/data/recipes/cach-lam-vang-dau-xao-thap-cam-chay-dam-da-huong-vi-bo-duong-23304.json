@@ -1,0 +1,103 @@
+{
+  "source_id": "23304",
+  "name": "Váng đậu xào",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7080efbd5f92d8ff.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-vang-dau-xao-thap-cam-chay-dam-da-huong-vi-bo-duong-23304",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-vang-dau-xao-thap-cam-chay-dam-da-huong-vi-bo-duong-23304",
+  "servings_text": "Cho 3 - 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bông cải xanh 250 gr",
+      "raw_name": "Bông cải xanh",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 80 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Váng đậu khô ngâm 100 gr (Phù trúc/Tàu hũ ky)",
+      "raw_name": "Váng đậu khô ngâm",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "Phù trúc/Tàu hũ ky",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nấm mèo khô 10 gr",
+      "raw_name": "Nấm mèo khô",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nấm hải sản 100 gr",
+      "raw_name": "Nấm hải sản",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gừng băm 1 ít",
+      "raw_name": "Gừng băm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ muối/ hạt nêm chay/ dầu mè)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ muối/ hạt nêm chay/ dầu mè",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu Hào chay 2 muỗng canh",
+      "raw_name": "Dầu Hào chay",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rượu nếp 1 muỗng cà phê",
+      "raw_name": "Rượu nếp",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bột bắp 1/2 muỗng canh",
+      "raw_name": "Bột bắp",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:35:57Z",
+  "page_title": "Cách làm váng đậu xào thập cẩm chay đậm đà hương vị, bổ dưỡng, dễ làm",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20m%C3%B3n%20an%20t9%20%281200%20x%20676%20px%29%20%2818%29.jpg"
+}

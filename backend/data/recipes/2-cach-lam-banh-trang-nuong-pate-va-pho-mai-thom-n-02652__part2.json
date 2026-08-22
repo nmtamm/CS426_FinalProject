@@ -1,0 +1,73 @@
+{
+  "source_id": "02652",
+  "name": "Bánh tráng nướng phô mai",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0c02923cec208d56.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-trang-nuong-pate-va-pho-mai-thom-n-02652",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-trang-nuong-pate-va-pho-mai-thom-n-02652",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Xúc xích 1 cây",
+      "raw_name": "Xúc xích",
+      "quantity": 1,
+      "unit": "cây",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng gà 1 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chà bông heo 100 g",
+      "raw_name": "Chà bông heo",
+      "quantity": 100,
+      "unit": "g",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trứng cút 3 quả",
+      "raw_name": "Trứng cút",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Phô mai 10 g",
+      "raw_name": "Phô mai",
+      "quantity": 10,
+      "unit": "g",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tương cà 100 g",
+      "raw_name": "Tương cà",
+      "quantity": 100,
+      "unit": "g",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:27:06Z",
+  "page_title": "2 cách làm bánh tráng nướng pate và phô mai thơm ngon, giòn rụm",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/banh-trang-nuong-pho-mai-thumbnail.jpg"
+}

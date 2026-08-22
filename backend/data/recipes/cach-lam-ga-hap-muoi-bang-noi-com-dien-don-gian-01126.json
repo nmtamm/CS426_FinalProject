@@ -1,0 +1,103 @@
+{
+  "source_id": "01126",
+  "name": "Gà hấp muối bằng nồi cơm điện",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e4a89539e52bcb71.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-hap-muoi-bang-noi-com-dien-don-gian-01126",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-hap-muoi-bang-noi-com-dien-don-gian-01126",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà 1 con (khoảng 1.5kg)",
+      "raw_name": "Gà 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 1.5kg",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối hạt 400 gr",
+      "raw_name": "Muối hạt",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá chanh 20 cái",
+      "raw_name": "Lá chanh",
+      "quantity": 20,
+      "unit": "cái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sả 6 cây",
+      "raw_name": "Sả",
+      "quantity": 6,
+      "unit": "cây",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt hiểm xanh 3 trái",
+      "raw_name": "Ớt hiểm xanh",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tím 6 củ",
+      "raw_name": "Hành tím",
+      "quantity": 6,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Rượu trắng 2 muỗng canh",
+      "raw_name": "Rượu trắng",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tiêu hạt 1 muỗng canh",
+      "raw_name": "Tiêu hạt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Muối/ bột ngọt 1 ít",
+      "raw_name": "Muối/ bột ngọt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:17:26Z",
+  "page_title": "Cách làm gà hấp muối bằng nồi cơm điện đơn giản mềm ngon đậm đà hương vị",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-ga-hap-muoi-bang-noi-com-dien-don-gian-avt-1200x676.jpg"
+}

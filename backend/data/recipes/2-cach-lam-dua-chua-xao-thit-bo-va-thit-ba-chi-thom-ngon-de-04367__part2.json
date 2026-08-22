@@ -1,0 +1,97 @@
+{
+  "source_id": "04367",
+  "name": "Dưa chua xào thịt ba chỉ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ea4a4b3eac06f234.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-dua-chua-xao-thit-bo-va-thit-ba-chi-thom-ngon-de-04367",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-dua-chua-xao-thit-bo-va-thit-ba-chi-thom-ngon-de-04367",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt ba chỉ 300 gr",
+      "raw_name": "Thịt ba chỉ",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dưa chua 300 gr",
+      "raw_name": "Dưa chua",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tím 25 gr",
+      "raw_name": "Hành tím",
+      "quantity": 25,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá 10 gr",
+      "raw_name": "Hành lá",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt sừng 10 gr",
+      "raw_name": "Ớt sừng",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hạt nêm 2 muỗng canh",
+      "raw_name": "Hạt nêm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường trắng 3 muỗng canh",
+      "raw_name": "Đường trắng",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tiêu xay 1/2 muỗng cà phê",
+      "raw_name": "Tiêu xay",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:28:23Z",
+  "page_title": "2 Cách làm dưa chua xào thịt bò và thịt ba chỉ thơm ngon, dễ làm tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/dua-chua-xao-thit-ba-chi-thumbnail.jpg"
+}

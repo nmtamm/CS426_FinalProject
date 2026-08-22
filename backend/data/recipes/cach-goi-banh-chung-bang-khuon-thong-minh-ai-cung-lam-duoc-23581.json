@@ -1,0 +1,71 @@
+{
+  "source_id": "23581",
+  "name": "Bánh chưng bằng khuôn thông minh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b4556d50a10cf804.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-goi-banh-chung-bang-khuon-thong-minh-ai-cung-lam-duoc-23581",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-goi-banh-chung-bang-khuon-thong-minh-ai-cung-lam-duoc-23581",
+  "servings_text": "Cho 4 cái bánh chưng",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gạo nếp 1.2 kg",
+      "raw_name": "Gạo nếp",
+      "quantity": 1.2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đỗ xanh 800 gr",
+      "raw_name": "Đỗ xanh",
+      "quantity": 800,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Thịt 800 gr (300gr thịt ba chỉ/300gr thịt nạc vai/200gr thịt nạc thăn)",
+      "raw_name": "Thịt",
+      "quantity": 800,
+      "unit": "gr",
+      "note": "300gr thịt ba chỉ/300gr thịt nạc vai/200gr thịt nạc thăn",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lá dong 16 lá",
+      "raw_name": "Lá dong",
+      "quantity": 16,
+      "unit": "lá",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dây lạt 1 bó",
+      "raw_name": "Dây lạt 1 bó",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối hạt/hạt nêm/mì chính/tiêu bột/bột canh)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối hạt/hạt nêm/mì chính/tiêu bột/bột canh",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:32:45Z",
+  "page_title": "Cách gói bánh chưng bằng khuôn thông minh ai cũng làm được",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/yyyyyyddduzz.jpg"
+}

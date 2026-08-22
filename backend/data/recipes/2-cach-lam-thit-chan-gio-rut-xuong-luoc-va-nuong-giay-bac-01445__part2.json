@@ -1,0 +1,65 @@
+{
+  "source_id": "01445",
+  "name": "Chân giò nướng giấy bạc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5678938c9542e72d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-thit-chan-gio-rut-xuong-luoc-va-nuong-giay-bac-01445",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-thit-chan-gio-rut-xuong-luoc-va-nuong-giay-bac-01445",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chân giò heo đã lọc bỏ xương 1 cái",
+      "raw_name": "Chân giò heo đã lọc bỏ xương",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sả 2 củ",
+      "raw_name": "Sả",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dầu hào 1 thìa canh",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mật ong 1 thìa canh",
+      "raw_name": "Mật ong",
+      "quantity": 1,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Giấy bạc 1 ít",
+      "raw_name": "Giấy bạc",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:45:04Z",
+  "page_title": "Cách làm 2 món thịt chân giò heo rút xương luộc, chân giò nướng giấy bạc",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/chan-gio-nuong-giay-bac-thumbnail-1.jpg"
+}

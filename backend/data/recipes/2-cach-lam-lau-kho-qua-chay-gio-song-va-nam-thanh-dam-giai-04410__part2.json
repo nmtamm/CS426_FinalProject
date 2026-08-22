@@ -1,0 +1,105 @@
+{
+  "source_id": "04410",
+  "name": "Lẩu khổ qua giò sống chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/fe93e7aedb8b1cb1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-lau-kho-qua-chay-gio-song-va-nam-thanh-dam-giai-04410",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-lau-kho-qua-chay-gio-song-va-nam-thanh-dam-giai-04410",
+  "servings_text": "Cho 7 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-lau",
+      "name": "Món lẩu"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khổ qua 500 gr",
+      "raw_name": "Khổ qua",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tàu hũ ky tươi sống 200 gr",
+      "raw_name": "Tàu hũ ky tươi sống",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Củ sắn 200 gr",
+      "raw_name": "Củ sắn",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 100 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Xá bấu cây 100 gr",
+      "raw_name": "Xá bấu cây",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Mướp hương 200 gr",
+      "raw_name": "Mướp hương",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nấm rơm khô 20 gr",
+      "raw_name": "Nấm rơm khô",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Chân nấm đông cô 10 gr",
+      "raw_name": "Chân nấm đông cô",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Su su 100 gr",
+      "raw_name": "Su su",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Boa rô 50 gr",
+      "raw_name": "Boa rô",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:38:21Z",
+  "page_title": "2 Cách làm lẩu khổ qua chay giò sống và nấm thanh đạm giải nhiệt",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/lau-kho-qua-gio-song-chay-thumbnail.jpg"
+}

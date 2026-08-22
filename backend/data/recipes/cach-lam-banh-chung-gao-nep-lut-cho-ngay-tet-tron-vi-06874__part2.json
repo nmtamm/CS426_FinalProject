@@ -1,0 +1,65 @@
+{
+  "source_id": "06874",
+  "name": "Bánh chưng gạo nếp lứt (ít calo)",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d83673bee915d75a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-chung-gao-nep-lut-cho-ngay-tet-tron-vi-06874",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-chung-gao-nep-lut-cho-ngay-tet-tron-vi-06874",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt ức gà 60 gr",
+      "raw_name": "Thịt ức gà",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nếp lứt 100 gr",
+      "raw_name": "Nếp lứt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu xanh cà vỏ 60 gr",
+      "raw_name": "Đậu xanh cà vỏ",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lá dong 1 ít",
+      "raw_name": "Lá dong",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ bột ngọt/ bột canh/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ bột ngọt/ bột canh/ tiêu xay",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:38:34Z",
+  "page_title": "2 Cách làm bánh chưng gạo nếp lứt thơm lừng ít calo không lo sợ béo",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/banh-chung-gao-nep-lut-it-calo-thumbnail-1.jpg"
+}

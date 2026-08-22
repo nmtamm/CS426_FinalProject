@@ -1,0 +1,51 @@
+{
+  "source_id": "09641",
+  "name": "Gỏi khổ qua chà bông",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8a0aeb68041e9018.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-kho-cha-bong-gion-ngon-cuc-don-gian-an-la-ghien-09641",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-kho-cha-bong-gion-ngon-cuc-don-gian-an-la-ghien-09641",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khổ qua 2 trái (mướp đắng)",
+      "raw_name": "Khổ qua",
+      "quantity": 2,
+      "unit": "trái",
+      "note": "mướp đắng",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chà bông 50 gr",
+      "raw_name": "Chà bông",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Viên đá lạnh 1 ít",
+      "raw_name": "Viên đá lạnh",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T17:59:45Z",
+  "page_title": "Cách làm gỏi khổ qua chà bông giòn ngon, cực đơn giản ăn là ghiền",
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookProduct/Goikhochabong-1200x676.jpg"
+}

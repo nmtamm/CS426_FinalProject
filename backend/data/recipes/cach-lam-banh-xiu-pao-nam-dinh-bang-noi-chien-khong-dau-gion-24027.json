@@ -1,0 +1,183 @@
+{
+  "source_id": "24027",
+  "name": "Bánh xíu páo Nam Định",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e2ed16b7484a4519.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-xiu-pao-nam-dinh-bang-noi-chien-khong-dau-gion-24027",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-xiu-pao-nam-dinh-bang-noi-chien-khong-dau-gion-24027",
+  "servings_text": "Cho 10 cái bánh",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì đa dụng 460 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 460,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường bột 40 gr",
+      "raw_name": "Đường bột",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dầu ăn 80 gr",
+      "raw_name": "Dầu ăn",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Thịt thăn lợn 350 gr",
+      "raw_name": "Thịt thăn lợn",
+      "quantity": 350,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nấm đùi gà 100 gr",
+      "raw_name": "Nấm đùi gà",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Trứng cút luộc 10 quả",
+      "raw_name": "Trứng cút luộc",
+      "quantity": 10,
+      "unit": "quả",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Mạch nha 2 muỗng canh",
+      "raw_name": "Mạch nha",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Mật ong 1 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Xì dầu 3 muỗng canh",
+      "raw_name": "Xì dầu",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu hào 2.5 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 2.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Hắc xì dầu 1 muỗng canh",
+      "raw_name": "Hắc xì dầu",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Ngũ vị hương 1 muỗng cà phê",
+      "raw_name": "Ngũ vị hương",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Bột tỏi 1/2 muỗng cà phê",
+      "raw_name": "Bột tỏi",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Tiêu 1/2 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Dầu mè 1.5 muỗng cà phê",
+      "raw_name": "Dầu mè",
+      "quantity": 1.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Đầu hành trắng 20 gr",
+      "raw_name": "Đầu hành trắng",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 17
+    },
+    {
+      "raw_text": "Hành lá 20 gr",
+      "raw_name": "Hành lá",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 18
+    },
+    {
+      "raw_text": "Bột ngô 7 gr",
+      "raw_name": "Bột ngô",
+      "quantity": 7,
+      "unit": "gr",
+      "note": null,
+      "display_order": 19
+    },
+    {
+      "raw_text": "Mè đen 1 ít",
+      "raw_name": "Mè đen",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 20
+    }
+  ],
+  "scraped_at": "2026-08-19T18:53:24Z",
+  "page_title": "Cách làm bánh xíu páo Nam Định bằng nồi chiên không dầu giòn rụm thơm ngon",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t01%201200676%20%2868%29.jpg"
+}

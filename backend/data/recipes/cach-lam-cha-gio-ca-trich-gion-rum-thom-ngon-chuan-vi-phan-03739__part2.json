@@ -1,0 +1,105 @@
+{
+  "source_id": "03739",
+  "name": "Chả giò cá trích khoai lang",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d4e0bfcd01d78eb9.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-gio-ca-trich-gion-rum-thom-ngon-chuan-vi-phan-03739",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-gio-ca-trich-gion-rum-thom-ngon-chuan-vi-phan-03739",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cá trích phi lê 200 gr",
+      "raw_name": "Cá trích phi lê",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Khoai lang 1 củ",
+      "raw_name": "Khoai lang",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tây 1/2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá 1/2 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 0.5,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cà rốt 1/2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Chanh 1 lát",
+      "raw_name": "Chanh 1 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bánh tráng 1 gói (loại cuốn chả giò)",
+      "raw_name": "Bánh tráng",
+      "quantity": 1,
+      "unit": "gói",
+      "note": "loại cuốn chả giò",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu ăn 1 lít",
+      "raw_name": "Dầu ăn 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Giấm ăn 100 ml",
+      "raw_name": "Giấm ăn",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ hạt nêm/ bột ngọt/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ hạt nêm/ bột ngọt/ tiêu xay",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T20:35:25Z",
+  "page_title": "2 cách làm chả giò cá trích giòn rụm, thơm ngon chuẩn vị Phan Thiết",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookRecipe/Avatar/cha-gio-ca-trich-khoai-lang-thumbnail.jpg"
+}

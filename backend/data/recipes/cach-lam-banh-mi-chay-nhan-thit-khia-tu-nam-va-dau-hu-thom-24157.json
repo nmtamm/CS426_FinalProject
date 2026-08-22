@@ -1,0 +1,87 @@
+{
+  "source_id": "24157",
+  "name": "Bánh mì chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7a9e128b46179042.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-mi-chay-nhan-thit-khia-tu-nam-va-dau-hu-thom-24157",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-mi-chay-nhan-thit-khia-tu-nam-va-dau-hu-thom-24157",
+  "servings_text": "Cho 1 - 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu hũ 2 miếng (loại vàng hoặc trắng)",
+      "raw_name": "Đậu hũ 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": "loại vàng hoặc trắng",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm đùi gà 1 cây (loại to)",
+      "raw_name": "Nấm đùi gà",
+      "quantity": 1,
+      "unit": "cây",
+      "note": "loại to",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bắp cải 1/4 cái",
+      "raw_name": "Bắp cải",
+      "quantity": 0.25,
+      "unit": "cái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dưa leo 1 trái",
+      "raw_name": "Dưa leo",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt sừng 1 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (dầu ăn/ nước tương/ hạt nêm chay/ đường/ dầu hào chay/ dầu màu điều/ muối trắng)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "dầu ăn/ nước tương/ hạt nêm chay/ đường/ dầu hào chay/ dầu màu điều/ muối trắng",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ngò rí/ bánh mì 1 ít",
+      "raw_name": "Ngò rí/ bánh mì",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước dừa 500 ml",
+      "raw_name": "Nước dừa",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:34:31Z",
+  "page_title": "Cách làm bánh mì chay nhân thịt khìa từ nấm và đậu hũ thơm ngon tại nhà",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t03%201200676%20%282%29.jpg"
+}

@@ -1,0 +1,57 @@
+{
+  "source_id": "05407",
+  "name": "Sinh tố vải",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/49f4439be30ac733.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sinh-to-vai-beo-min-thom-ngon-mat-lanh-05407",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sinh-to-vai-beo-min-thom-ngon-mat-lanh-05407",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Vải đóng hộp 150 gr (6 trái vải và nước)",
+      "raw_name": "Vải đóng hộp",
+      "quantity": 150,
+      "unit": "gr",
+      "note": "6 trái vải và nước",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa đặc 1 muỗng canh",
+      "raw_name": "Sữa đặc",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Kem vanilla 50 gr",
+      "raw_name": "Kem vanilla",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:01:16Z",
+  "page_title": "3 cách làm sinh tố vải béo mịn, thơm ngon, mát lạnh",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookRecipe/Avatar/v1.jpg"
+}

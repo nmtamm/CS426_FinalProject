@@ -1,0 +1,75 @@
+{
+  "source_id": "16614",
+  "name": "Trà tắc nha đam",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/fe05425479b0bb05.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-tac-nha-dam-chua-ngot-thanh-mat-giai-khat-hieu-16614",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-tac-nha-dam-chua-ngot-thanh-mat-giai-khat-hieu-16614",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nha đam 1/2 nhánh (loại nhỏ)",
+      "raw_name": "Nha đam",
+      "quantity": 0.5,
+      "unit": "nhánh",
+      "note": "loại nhỏ",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tắc 4 trái",
+      "raw_name": "Tắc",
+      "quantity": 4,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trà túi lọc 1 gói",
+      "raw_name": "Trà túi lọc",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 3 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước sôi 200 ml",
+      "raw_name": "Nước sôi",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:03:25Z",
+  "page_title": "Cách làm trà tắc nha đam chua ngọt thanh mát giải khát hiệu quả",
+  "original_image_url": "https://cdn.tgdd.vn/2022/02/CookDish/cach-lam-tra-tac-nha-dam-chua-ngot-thanh-mat-giai-khat-hieu-avt-1200x676.jpg"
+}

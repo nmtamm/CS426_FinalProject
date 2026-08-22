@@ -1,0 +1,91 @@
+{
+  "source_id": "23012",
+  "name": "Trà lài đác thơm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0c9e2534892d811b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-tra-lai-dac-thom-phuc-long-chuan-vi-bang-may-ep-trai-23012",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-tra-lai-dac-thom-phuc-long-chuan-vi-bang-may-ep-trai-23012",
+  "servings_text": "Cho 1 ly 700ml",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thơm 1 trái",
+      "raw_name": "Thơm",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hạt đác tươi 1 kg",
+      "raw_name": "Hạt đác tươi",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường phèn hạt nhỏ 250 gr",
+      "raw_name": "Đường phèn hạt nhỏ",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trà lài túi lọc 5 gói",
+      "raw_name": "Trà lài túi lọc",
+      "quantity": 5,
+      "unit": "gói",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước sôi 1 lít",
+      "raw_name": "Nước sôi 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 ít",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Lát thơm tươi để trang trí 3 miếng",
+      "raw_name": "Lát thơm tươi để trang trí 3 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:51:29Z",
+  "page_title": "Cách pha trà lài đác thơm Phúc Long chuẩn vị bằng máy ép trái cây",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/tra-lai-dat-thom-thumb.jpg"
+}

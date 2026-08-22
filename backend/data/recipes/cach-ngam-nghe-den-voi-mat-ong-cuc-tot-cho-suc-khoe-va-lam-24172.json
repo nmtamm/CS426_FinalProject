@@ -1,0 +1,35 @@
+{
+  "source_id": "24172",
+  "name": "Nghệ đen ngâm mật ong",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e8fc8e65fe21f96a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-ngam-nghe-den-voi-mat-ong-cuc-tot-cho-suc-khoe-va-lam-24172",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-ngam-nghe-den-voi-mat-ong-cuc-tot-cho-suc-khoe-va-lam-24172",
+  "servings_text": "Cho 3 hũ",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nghệ đen 500 gr",
+      "raw_name": "Nghệ đen",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mật ong nguyên chất 1 lít",
+      "raw_name": "Mật ong nguyên chất 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:46:39Z",
+  "page_title": "Cách ngâm nghệ đen với mật ong cực tốt cho sức khỏe và làm đẹp da đơn giản",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t03%201200676%20%2818%29.jpg"
+}

@@ -1,0 +1,118 @@
+{
+  "source_id": "00393",
+  "name": "Miến xào tôm kiểu Thái",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3dcae591a5f52f2b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/mien-tron-kieu-thai-an-la-me-00393",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/mien-tron-kieu-thai-an-la-me-00393",
+  "servings_text": "Cho 1 - 2 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Miến Hàn Quốc 1 gói",
+      "raw_name": "Miến Hàn Quốc",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tôm 200 gr",
+      "raw_name": "Tôm",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng gà 2 trái",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá/Ngò tàu 1 ít",
+      "raw_name": "Hành lá/Ngò tàu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tây 1/2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước tương 1/2 chén",
+      "raw_name": "Nước tương",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 2 muỗng",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tỏi phi 1 muỗng",
+      "raw_name": "Tỏi phi",
+      "quantity": 1,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ớt bột 1 muỗng",
+      "raw_name": "Ớt bột",
+      "quantity": 1,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đường thốt nốt 1 muỗng",
+      "raw_name": "Đường thốt nốt",
+      "quantity": 1,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước me 3 muỗng",
+      "raw_name": "Nước me",
+      "quantity": 3,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Hạt nêm 1 muỗng",
+      "raw_name": "Hạt nêm",
+      "quantity": 1,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T20:37:21Z",
+  "page_title": "Cách làm miến trộn kiểu Thái ngon miệng dễ làm đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "Công thức được chia sẻ từ Tiktok Vào bếp cùng Điện máy XANH",
+  "original_image_url": "https://cdn.tgdd.vn/2023/05/CookRecipe/Avatar/trung-hap-sot-hai-san-thumbnail.jpg"
+}

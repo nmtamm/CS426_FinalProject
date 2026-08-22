@@ -1,0 +1,137 @@
+{
+  "source_id": "02222",
+  "name": "Nộm hoa chay chuối đậu phụ nghiền",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9d64318a0604eda6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nom-hoa-chuoi-chay-thom-ngon-don-gian-d-02222",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nom-hoa-chuoi-chay-thom-ngon-don-gian-d-02222",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    },
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hao chuối 1 cái",
+      "raw_name": "Hao chuối",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu phụ 2 miếng",
+      "raw_name": "Đậu phụ 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Giá đỗ 100 gr",
+      "raw_name": "Giá đỗ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đậu phộng 150 gr",
+      "raw_name": "Đậu phộng",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lá hẹ 50 gr",
+      "raw_name": "Lá hẹ",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Chanh 1 trái",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt 1 trái",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rau thơm 10 gr",
+      "raw_name": "Rau thơm",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị 30 gr (mắm/ muối/ đường/ bột ngọt…)",
+      "raw_name": "Gia vị",
+      "quantity": 30,
+      "unit": "gr",
+      "note": "mắm/ muối/ đường/ bột ngọt…",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dứa chín 1 quả",
+      "raw_name": "Dứa chín",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước tương 6 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 6,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Hạt đường 4 muỗng canh",
+      "raw_name": "Hạt đường",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Muối 2 thìa canh",
+      "raw_name": "Muối",
+      "quantity": 2,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T17:59:29Z",
+  "page_title": "2 Cách làm nộm hoa chuối chay thơm ngon đơn giản dễ làm cho ngày rằm",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/nom-hoa-chay-chuoi-dau-phu-nghien-thumbnail.jpg"
+}

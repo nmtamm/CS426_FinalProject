@@ -1,0 +1,111 @@
+{
+  "source_id": "23102",
+  "name": "Bánh trung thu nhân đậu đỏ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ade4bac94a877a52.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-nhan-dau-do-trung-muoi-kieu-nguoi-hoa-23102",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-nhan-dau-do-trung-muoi-kieu-nguoi-hoa-23102",
+  "servings_text": "Cho 8 cái bánh 150gr",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu đỏ 300 gr",
+      "raw_name": "Đậu đỏ",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột mì số 8 280 gr (và một ít bột áo khi đóng khuôn bánh)",
+      "raw_name": "Bột mì số 8",
+      "quantity": 280,
+      "unit": "gr",
+      "note": "và một ít bột áo khi đóng khuôn bánh",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường tán 135 gr (hoặc 120gr đường trắng)",
+      "raw_name": "Đường tán",
+      "quantity": 135,
+      "unit": "gr",
+      "note": "hoặc 120gr đường trắng",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước đường làm bánh trung thu 130 gr",
+      "raw_name": "Nước đường làm bánh trung thu",
+      "quantity": 130,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu đậu phộng 80 gr",
+      "raw_name": "Dầu đậu phộng",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột tàn mì 30 gr (hoặc bột bánh dẻo)",
+      "raw_name": "Bột tàn mì",
+      "quantity": 30,
+      "unit": "gr",
+      "note": "hoặc bột bánh dẻo",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Lòng đỏ trứng muối 8 cái",
+      "raw_name": "Lòng đỏ trứng muối",
+      "quantity": 8,
+      "unit": "cái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Lòng đỏ trứng gà 2 cái",
+      "raw_name": "Lòng đỏ trứng gà",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối 1/4 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước tro tàu 1/4 muỗng cà phê (có thể bỏ qua)",
+      "raw_name": "Nước tro tàu",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": "có thể bỏ qua",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Rượu 1 ít (để rửa trứng muối)",
+      "raw_name": "Rượu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "để rửa trứng muối",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T19:34:02Z",
+  "page_title": "Cách làm bánh trung thu nhân đậu đỏ trứng muối kiểu người Hoa ngon mê ly",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20thumb%20to%20t8%20%2843%29.jpg"
+}

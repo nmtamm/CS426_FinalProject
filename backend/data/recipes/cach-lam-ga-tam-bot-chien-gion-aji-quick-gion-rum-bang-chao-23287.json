@@ -1,0 +1,55 @@
+{
+  "source_id": "23287",
+  "name": "Cách làm gà tẩm bột chiên giòn aji quick",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6b415886a08e40ec.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-tam-bot-chien-gion-aji-quick-gion-rum-bang-chao-23287",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-tam-bot-chien-gion-aji-quick-gion-rum-bang-chao-23287",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt gà 1 kg (xương gà hoặc các phần khác)",
+      "raw_name": "Thịt gà",
+      "quantity": 1,
+      "unit": "kg",
+      "note": "xương gà hoặc các phần khác",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột chiên gà giòn Aji-Quick 1 gói",
+      "raw_name": "Bột chiên gà giòn Aji-Quick",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dầu ăn 1/2 chén (khoảng 120ml)",
+      "raw_name": "Dầu ăn",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": "khoảng 120ml",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (bột ngọt/tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "bột ngọt/tiêu xay",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T18:05:44Z",
+  "page_title": "Cách làm gà tẩm bột chiên giòn Aji-Quick giòn rụm bằng chảo sâu lòng",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/cach-lam-ga-tam-bot-chien-gion-aji-quick.jpg"
+}

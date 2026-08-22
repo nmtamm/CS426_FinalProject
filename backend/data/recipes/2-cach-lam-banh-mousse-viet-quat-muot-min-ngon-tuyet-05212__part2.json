@@ -1,0 +1,90 @@
+{
+  "source_id": "05212",
+  "name": "Bánh mousse việt quất chocolate",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3244760cdf1d038f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-mousse-viet-quat-muot-min-ngon-tuyet-05212",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-mousse-viet-quat-muot-min-ngon-tuyet-05212",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Việt quất 600 gr",
+      "raw_name": "Việt quất",
+      "quantity": 600,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chocolate trắng 125 gr",
+      "raw_name": "Chocolate trắng",
+      "quantity": 125,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Whipping cream 675 gr",
+      "raw_name": "Whipping cream",
+      "quantity": 675,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lòng đỏ trứng 80 gr (khoảng 6 cái)",
+      "raw_name": "Lòng đỏ trứng",
+      "quantity": 80,
+      "unit": "gr",
+      "note": "khoảng 6 cái",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Vụn bánh quy 100 gr",
+      "raw_name": "Vụn bánh quy",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 260 gr",
+      "raw_name": "Đường",
+      "quantity": 260,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột gelatin 30 gr",
+      "raw_name": "Bột gelatin",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước cốt chanh 2 muỗng cà phê",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:15:40Z",
+  "page_title": "2 cách làm bánh mousse việt quất mướt mịn, ngon tuyệt",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": null,
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookRecipe/Avatar/banh-mousse-viet-quoc-chocolate-thumbnail-1.jpg"
+}

@@ -1,0 +1,133 @@
+{
+  "source_id": "05293",
+  "name": "Salad cá hồi sốt sữa chua",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/73a122ed45b9521b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-salad-ca-hoi-don-gian-thom-ngon-nhieu-dinh-duong-05293",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-salad-ca-hoi-don-gian-thom-ngon-nhieu-dinh-duong-05293",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cá hồi phi lê 200 gr",
+      "raw_name": "Cá hồi phi lê",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xà lách lolo xanh 100 gr",
+      "raw_name": "Xà lách lolo xanh",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dưa leo 80 gr",
+      "raw_name": "Dưa leo",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Táo 80 gr",
+      "raw_name": "Táo",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cà chua bi 80 gr",
+      "raw_name": "Cà chua bi",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Củ cải đỏ 50 gr",
+      "raw_name": "Củ cải đỏ",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Rau mầm 50 gr",
+      "raw_name": "Rau mầm",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Sữa chua không đường 50 gr",
+      "raw_name": "Sữa chua không đường",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Sốt mayonnaise 50 gr",
+      "raw_name": "Sốt mayonnaise",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước ép táo 30 ml",
+      "raw_name": "Nước ép táo",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Mật ong 15 ml",
+      "raw_name": "Mật ong",
+      "quantity": 15,
+      "unit": "ml",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu olive 40 ml",
+      "raw_name": "Dầu olive",
+      "quantity": 40,
+      "unit": "ml",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Ngò tây băm nhuyễn 1.5 muỗng cà phê",
+      "raw_name": "Ngò tây băm nhuyễn",
+      "quantity": 1.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/tiêu/hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/tiêu/hạt nêm",
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T17:54:50Z",
+  "page_title": "3 cách làm salad cá hồi đơn giản, thơm ngon, nhiều dinh dưỡng",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookRecipe/Avatar/salad-ca-hoi-sot-sua-chua-thumbnail.jpg"
+}

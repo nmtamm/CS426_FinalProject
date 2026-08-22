@@ -1,0 +1,59 @@
+{
+  "source_id": "23618",
+  "name": "Cóc dầm muối ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3701fecdab100edb.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-coc-dam-muoi-ot-chua-chua-cay-cay-chi-5-phut-bang-23618",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-coc-dam-muoi-ot-chua-chua-cay-cay-chi-5-phut-bang-23618",
+  "servings_text": "Cho 3 trái cóc",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cóc 3 trái (Cóc bao tử)",
+      "raw_name": "Cóc",
+      "quantity": 3,
+      "unit": "trái",
+      "note": "Cóc bao tử",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối 1 thìa cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "thìa cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột ớt 1 thìa cà phê",
+      "raw_name": "Bột ớt",
+      "quantity": 1,
+      "unit": "thìa cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt băm 1 thìa cà phê",
+      "raw_name": "Ớt băm",
+      "quantity": 1,
+      "unit": "thìa cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 2 thìa canh",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T18:54:35Z",
+  "page_title": "Cách làm cóc dầm muối ớt chua chua cay cay chỉ 5 phút bằng dao bào",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/cach-lam-coc-dam-muoi-ot.jpg"
+}

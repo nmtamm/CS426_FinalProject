@@ -1,0 +1,67 @@
+{
+  "source_id": "00232",
+  "name": "Ram bắp chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/434e3028b66ab6f9.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ram-bap-chay-gion-thom-ngon-sieu-don-gian-00232",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ram-bap-chay-gion-thom-ngon-sieu-don-gian-00232",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bắp nếp 1/2 trái",
+      "raw_name": "Bắp nếp",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bắp Mỹ 1/2 trái",
+      "raw_name": "Bắp Mỹ",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tàu hủ ky 3 miếng",
+      "raw_name": "Tàu hủ ky 3 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nấm rơm 1 gr",
+      "raw_name": "Nấm rơm",
+      "quantity": 1,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành boarô 1/2 cây",
+      "raw_name": "Hành boarô",
+      "quantity": 0.5,
+      "unit": "cây",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ngò rí 1 gr",
+      "raw_name": "Ngò rí",
+      "quantity": 1,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:46:27Z",
+  "page_title": "Cách làm ram bắp chay giòn thơm ngon siêu đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/2020/06/CookProduct/7-1200x676-1.jpg"
+}

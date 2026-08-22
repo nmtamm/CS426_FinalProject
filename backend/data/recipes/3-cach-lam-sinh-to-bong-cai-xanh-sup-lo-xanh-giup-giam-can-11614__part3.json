@@ -1,0 +1,53 @@
+{
+  "source_id": "11614",
+  "name": "Sinh tố bông cải xanh rau bina bơ chuối",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4ab840860c075140.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sinh-to-bong-cai-xanh-sup-lo-xanh-giup-giam-can-11614",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sinh-to-bong-cai-xanh-sup-lo-xanh-giup-giam-can-11614",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bông cải xanh 1 cây",
+      "raw_name": "Bông cải xanh",
+      "quantity": 1,
+      "unit": "cây",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bơ 2 quả",
+      "raw_name": "Bơ",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chuối 1 quả",
+      "raw_name": "Chuối",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rau bina 100 gr (cải bó xôi)",
+      "raw_name": "Rau bina",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "cải bó xôi",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:08:38Z",
+  "page_title": "3 cách làm sinh tố bông cải xanh (súp lơ xanh) giúp giảm cân hiệu quả",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/sinh-to-bong-cai-xanh-rau-bina-bo-chuoi-thumbnail-1.jpg"
+}

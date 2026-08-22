@@ -1,0 +1,43 @@
+{
+  "source_id": "08935",
+  "name": "Cocktail Tequila Sunrise",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c627472a66b21f0e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-che-cocktail-tequila-sunrise-huong-vi-manh-me-ruc-ro-08935",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-che-cocktail-tequila-sunrise-huong-vi-manh-me-ruc-ro-08935",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rượu Tequila 60 ml",
+      "raw_name": "Rượu Tequila",
+      "quantity": 60,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Syrup Grenadine 7 ml (siro lựu)",
+      "raw_name": "Syrup Grenadine",
+      "quantity": 7,
+      "unit": "ml",
+      "note": "siro lựu",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước cốt cam 120 ml",
+      "raw_name": "Nước cốt cam",
+      "quantity": 120,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T20:06:15Z",
+  "page_title": "Cách pha chế Cocktail Tequila Sunrise hương vị mạnh mẽ như mặt trời mọc",
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookProduct/1200-1200x676-12.jpg"
+}

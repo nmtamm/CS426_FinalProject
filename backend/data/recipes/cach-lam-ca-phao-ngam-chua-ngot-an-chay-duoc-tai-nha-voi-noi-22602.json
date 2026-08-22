@@ -1,0 +1,95 @@
+{
+  "source_id": "22602",
+  "name": "Cà pháo ngâm chua ngọt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9bb766dfb03cba69.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-phao-ngam-chua-ngot-an-chay-duoc-tai-nha-voi-noi-22602",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-phao-ngam-chua-ngot-an-chay-duoc-tai-nha-voi-noi-22602",
+  "servings_text": "Cho 2kg cà pháo",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cà pháo 2 kg",
+      "raw_name": "Cà pháo",
+      "quantity": 2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 720 gr",
+      "raw_name": "Đường",
+      "quantity": 720,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối hạt 120 gr",
+      "raw_name": "Muối hạt",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt sừng không cay 10 trái",
+      "raw_name": "Ớt sừng không cay",
+      "quantity": 10,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 5 củ",
+      "raw_name": "Tỏi",
+      "quantity": 5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Chanh 2 quả",
+      "raw_name": "Chanh",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Giấm gạo 600 ml",
+      "raw_name": "Giấm gạo",
+      "quantity": 600,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tương ớt 270 gr (1 chai tương ớt Cholimex)",
+      "raw_name": "Tương ớt",
+      "quantity": 270,
+      "unit": "gr",
+      "note": "1 chai tương ớt Cholimex",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối bọt 2 muỗng canh (muối ăn)",
+      "raw_name": "Muối bọt",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "muối ăn",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:36:58Z",
+  "page_title": "Cách làm cà pháo ngâm chua ngọt ăn chay được tại nhà với nồi nhôm Sunhouse",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/17022025%20%2848%29.jpg"
+}

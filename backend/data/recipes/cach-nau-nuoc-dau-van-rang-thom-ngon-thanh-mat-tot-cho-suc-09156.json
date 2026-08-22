@@ -1,0 +1,27 @@
+{
+  "source_id": "09156",
+  "name": "Nước đậu ván rang",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9712541232798639.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-nuoc-dau-van-rang-thom-ngon-thanh-mat-tot-cho-suc-09156",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-nuoc-dau-van-rang-thom-ngon-thanh-mat-tot-cho-suc-09156",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu ván khô 100 gr",
+      "raw_name": "Đậu ván khô",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    }
+  ],
+  "scraped_at": "2026-08-19T19:58:14Z",
+  "page_title": "Cách nấu nước đậu ván rang thơm ngon thanh mát tốt cho sức khỏe",
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookProduct/thum-1200x676-8.jpg"
+}

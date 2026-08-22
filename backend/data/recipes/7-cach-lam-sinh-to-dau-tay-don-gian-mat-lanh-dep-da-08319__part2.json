@@ -1,0 +1,65 @@
+{
+  "source_id": "08319",
+  "name": "Sinh tố dâu hạt chia",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c12da74ff90f47a9.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/7-cach-lam-sinh-to-dau-tay-don-gian-mat-lanh-dep-da-08319",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/7-cach-lam-sinh-to-dau-tay-don-gian-mat-lanh-dep-da-08319",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dâu tây 200 gr",
+      "raw_name": "Dâu tây",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Yogurt không đường 120 ml",
+      "raw_name": "Yogurt không đường",
+      "quantity": 120,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa tươi ít béo 120 ml (hoặc sữa không đường)",
+      "raw_name": "Sữa tươi ít béo",
+      "quantity": 120,
+      "unit": "ml",
+      "note": "hoặc sữa không đường",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mật ong 1 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hạt chia 2 muỗng canh",
+      "raw_name": "Hạt chia",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:47:34Z",
+  "page_title": "8 cách làm sinh tố dâu tây đơn giản, mát lạnh, đẹp da",
+  "variant_index": 2,
+  "variant_count": 8,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/sinh-to-dau-hat-chia-thumbnail.jpg"
+}

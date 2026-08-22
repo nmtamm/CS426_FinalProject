@@ -1,0 +1,57 @@
+{
+  "source_id": "13403",
+  "name": "Sinh tố táo sữa đặc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c5044678833a8d96.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-sinh-to-tao-ngot-mat-bo-duong-giam-can-cho-chi-em-13403",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-sinh-to-tao-ngot-mat-bo-duong-giam-can-cho-chi-em-13403",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Táo 1 quả (khoảng 100gr)",
+      "raw_name": "Táo",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "khoảng 100gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa đặc 3 muỗng canh",
+      "raw_name": "Sữa đặc",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 1 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:50:55Z",
+  "page_title": "5 Cách làm sinh tố táo ngọt mát bổ dưỡng giảm cân cho chị em",
+  "variant_index": 3,
+  "variant_count": 5,
+  "original_image_url": "https://cdn.tgdd.vn/2022/01/CookRecipe/Avatar/sinh-to-tao-sua-dac-thumbnail.jpg"
+}

@@ -1,0 +1,53 @@
+{
+  "source_id": "14238",
+  "name": "Siro táo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1ba8fdc8e03801e2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-siro-tao-do-thom-ngot-don-gian-nhanh-chong-ngay-14238",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-siro-tao-do-thom-ngot-don-gian-nhanh-chong-ngay-14238",
+  "servings_text": "Cho 1 bình",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Táo 5 trái",
+      "raw_name": "Táo",
+      "quantity": 5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường nâu 350 gr",
+      "raw_name": "Đường nâu",
+      "quantity": 350,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước lọc 400 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:57:14Z",
+  "page_title": "2 cách làm siro táo đỏ thơm ngọt đơn giản nhanh chóng ngay tại nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/siro-tao-do-thumbnail-1.jpg"
+}

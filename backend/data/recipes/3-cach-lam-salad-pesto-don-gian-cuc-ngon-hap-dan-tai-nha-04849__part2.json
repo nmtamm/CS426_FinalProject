@@ -1,0 +1,109 @@
+{
+  "source_id": "04849",
+  "name": "Salad pesto ức gà",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f2e14f55f2069c35.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-salad-pesto-don-gian-cuc-ngon-hap-dan-tai-nha-04849",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-salad-pesto-don-gian-cuc-ngon-hap-dan-tai-nha-04849",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ức gà 150 gr",
+      "raw_name": "Ức gà",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hạt thông 15 gr",
+      "raw_name": "Hạt thông",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gia vị tẩm ướp kiểu Ý 1 muỗng canh (Italian Seasoning)",
+      "raw_name": "Gia vị tẩm ướp kiểu Ý",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "Italian Seasoning",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu oliu 1 muỗng canh",
+      "raw_name": "Dầu oliu",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Mỡ thịt xông khói 1 muỗng canh (có thể thay thế bằng dầu ăn/dầu oliu/bơ)",
+      "raw_name": "Mỡ thịt xông khói",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "có thể thay thế bằng dầu ăn/dầu oliu/bơ",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rau xà lách 100 gr (tùy chọn)",
+      "raw_name": "Rau xà lách",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "tùy chọn",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Cà chua bi 50 gr",
+      "raw_name": "Cà chua bi",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Phô mai Bocconcini 100 gr",
+      "raw_name": "Phô mai Bocconcini",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Sốt pesto 2 muỗng canh",
+      "raw_name": "Sốt pesto",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Sốt mayonnaise 2 muỗng canh",
+      "raw_name": "Sốt mayonnaise",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T17:56:35Z",
+  "page_title": "3 cách làm salad pesto đơn giản cực ngon hấp dẫn tại nhà",
+  "variant_index": 2,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookRecipe/Avatar/salad-pesto-uc-ga-thumbnail.jpg"
+}

@@ -1,0 +1,157 @@
+{
+  "source_id": "01023",
+  "name": "Mì xào bò bông cải xanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9e5f60079004bc49.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mi-xao-bo-thay-doi-khau-vi-cho-bua-sang-01023",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mi-xao-bo-thay-doi-khau-vi-cho-bua-sang-01023",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò 500 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bông cải xanh 1 cái (khoảng 60gr)",
+      "raw_name": "Bông cải xanh",
+      "quantity": 1,
+      "unit": "cái",
+      "note": "khoảng 60gr",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mì ramen 3 gói",
+      "raw_name": "Mì ramen",
+      "quantity": 3,
+      "unit": "gói",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rượu gạo 2 muỗng canh",
+      "raw_name": "Rượu gạo",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tinh bột ngô 3 muỗng canh",
+      "raw_name": "Tinh bột ngô",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước tương 3 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Mật ong 3 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột tỏi 1 muỗng cà phê",
+      "raw_name": "Bột tỏi",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tỏi 3 tép",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gừng băm 1 muỗng cà phê",
+      "raw_name": "Gừng băm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu ô liu 1 ít",
+      "raw_name": "Dầu ô liu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu hào 3 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu mè 2 muỗng canh",
+      "raw_name": "Dầu mè",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Rau mùi tây tươi cắt nhỏ 1 muỗng canh",
+      "raw_name": "Rau mùi tây tươi cắt nhỏ",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Hành lá cắt nhỏ 4 nhánh",
+      "raw_name": "Hành lá cắt nhỏ",
+      "quantity": 4,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Nước dùng bò 1/2 chén",
+      "raw_name": "Nước dùng bò",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ hạt nêm/ dường/ tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ hạt nêm/ dường/ tiêu",
+      "display_order": 17
+    }
+  ],
+  "scraped_at": "2026-08-19T18:33:28Z",
+  "page_title": "2 cách làm mì xào bò thay đổi khẩu vị cho bữa sáng",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/mi-xao-trung-rau-cu-nam-thumbnail.jpg"
+}

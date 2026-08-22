@@ -1,0 +1,105 @@
+{
+  "source_id": "05785",
+  "name": "Xôi gà chiên bơ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3dde75d8f63ec5a7.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-xoi-ga-chien-nuoc-mam-va-chien-bo-hap-dan-thom-05785",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-xoi-ga-chien-nuoc-mam-va-chien-bo-hap-dan-thom-05785",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nếp 1 kg",
+      "raw_name": "Nếp",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cánh gà 700 gr",
+      "raw_name": "Cánh gà",
+      "quantity": 700,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá cẩm 200 gr",
+      "raw_name": "Lá cẩm",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước cốt dừa 300 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bơ mặn 50 gr",
+      "raw_name": "Bơ mặn",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tím 3 củ",
+      "raw_name": "Hành tím",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi 4 tép",
+      "raw_name": "Tỏi 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu điều 2 muỗng cà phê",
+      "raw_name": "Dầu điều",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ớt bột 1/2 muỗng cà phê",
+      "raw_name": "Ớt bột",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ muối/ hạt nêm/ tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ muối/ hạt nêm/ tiêu",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:10:02Z",
+  "page_title": "2 cách nấu xôi gà chiên nước mắm và chiên bơ hấp dẫn thơm ngon",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookRecipe/Avatar/xoi-ga-chien-bo-thumbnail.jpg"
+}

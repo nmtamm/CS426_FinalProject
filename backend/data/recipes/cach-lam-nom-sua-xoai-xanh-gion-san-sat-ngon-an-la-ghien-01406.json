@@ -1,0 +1,115 @@
+{
+  "source_id": "01406",
+  "name": "Nộm sứa xoài xanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/041f1245ce606f7c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nom-sua-xoai-xanh-gion-san-sat-ngon-an-la-ghien-01406",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nom-sua-xoai-xanh-gion-san-sat-ngon-an-la-ghien-01406",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sứa khô 500 gr (hoặc sứa tươi)",
+      "raw_name": "Sứa khô",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "hoặc sứa tươi",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xoài xanh 1/2 trái",
+      "raw_name": "Xoài xanh",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dưa leo 1 trái",
+      "raw_name": "Dưa leo",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bắp cải tím 1/4 cái",
+      "raw_name": "Bắp cải tím",
+      "quantity": 0.25,
+      "unit": "cái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tắc 2 trái",
+      "raw_name": "Tắc",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt 3 trái",
+      "raw_name": "Ớt",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Rau trộn gỏi 1 ít (rau thơm/ húng quế/ húng lủi/ rau răm)",
+      "raw_name": "Rau trộn gỏi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "rau thơm/ húng quế/ húng lủi/ rau răm",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tỏi 3 tép",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước mắm 1.5 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đường/ bột ngọt 1 ít",
+      "raw_name": "Đường/ bột ngọt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Mè rang/ đậu phộng rang 1 ít (dùng để trang trí)",
+      "raw_name": "Mè rang/ đậu phộng rang",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "dùng để trang trí",
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T17:53:20Z",
+  "page_title": "Cách làm nộm sứa xoài xanh giòn sần sật, ngon cực phẩm ăn là ghiền",
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookProduct/thum-1200x676-18.jpg"
+}

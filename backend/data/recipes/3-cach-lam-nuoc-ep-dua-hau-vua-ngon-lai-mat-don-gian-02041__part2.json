@@ -1,0 +1,57 @@
+{
+  "source_id": "02041",
+  "name": "Nước ép dưa hấu và dứa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5ef71b0c90dabd4f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nuoc-ep-dua-hau-vua-ngon-lai-mat-don-gian-02041",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nuoc-ep-dua-hau-vua-ngon-lai-mat-don-gian-02041",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dứa 1 trái",
+      "raw_name": "Dứa",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dưa hấu 1/2 trái (400gr)",
+      "raw_name": "Dưa hấu",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": "400gr",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mật ong 1 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đá viên 100 gr",
+      "raw_name": "Đá viên",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:00:18Z",
+  "page_title": "15 Cách làm nước ép dưa hấu bằng máy xay sinh tố thanh mát ngày nóng",
+  "variant_index": 2,
+  "variant_count": 15,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/nuoc-ep-dua-hau-dua-thumbnail-2.jpg"
+}

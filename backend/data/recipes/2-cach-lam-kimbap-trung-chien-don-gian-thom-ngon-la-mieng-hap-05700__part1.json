@@ -1,0 +1,109 @@
+{
+  "source_id": "05700",
+  "name": "Kimbap trứng chiên thập cẩm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3a7de4ef9f332526.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-kimbap-trung-chien-don-gian-thom-ngon-la-mieng-hap-05700",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-kimbap-trung-chien-don-gian-thom-ngon-la-mieng-hap-05700",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trứng gà 12 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 12,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt đỏ 2 quả",
+      "raw_name": "Ớt đỏ",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành lá 4 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 4,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt nhỏ 1 củ",
+      "raw_name": "Cà rốt nhỏ",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Thịt nguội Spam 340 gr (1 hộp)",
+      "raw_name": "Thịt nguội Spam",
+      "quantity": 340,
+      "unit": "gr",
+      "note": "1 hộp",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rong biển 4 lá",
+      "raw_name": "Rong biển",
+      "quantity": 4,
+      "unit": "lá",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Cơm 3 chén",
+      "raw_name": "Cơm",
+      "quantity": 3,
+      "unit": "chén",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hạt mè rang 2 muỗng cà phê",
+      "raw_name": "Hạt mè rang",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu mè 2 muỗng cà phê",
+      "raw_name": "Dầu mè",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ tiêu",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T19:02:37Z",
+  "page_title": "2 cách làm kimbap trứng chiên đơn giản thơm ngon lạ miệng hấp dẫn",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookRecipe/Avatar/kimbap-trung-chien-thap-cam-thumbnail.jpg"
+}

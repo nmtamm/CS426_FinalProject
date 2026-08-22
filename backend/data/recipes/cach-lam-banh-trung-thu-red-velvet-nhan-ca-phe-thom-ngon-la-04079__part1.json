@@ -1,0 +1,65 @@
+{
+  "source_id": "04079",
+  "name": "Cách sên nhân cà phê",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c1e760292c7a5505.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-red-velvet-nhan-ca-phe-thom-ngon-la-04079",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-red-velvet-nhan-ca-phe-thom-ngon-la-04079",
+  "servings_text": "Cho 600g nhân",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cà phê đen hòa tan 30 g (1 gói)",
+      "raw_name": "Cà phê đen hòa tan",
+      "quantity": 30,
+      "unit": "g",
+      "note": "1 gói",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu xanh cà vỏ 200 g",
+      "raw_name": "Đậu xanh cà vỏ",
+      "quantity": 200,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 150 ml",
+      "raw_name": "Đường",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 75 g",
+      "raw_name": "Dầu ăn",
+      "quantity": 75,
+      "unit": "g",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột mì 10 g (hòa cùng 45g nước)",
+      "raw_name": "Bột mì",
+      "quantity": 10,
+      "unit": "g",
+      "note": "hòa cùng 45g nước",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:44:15Z",
+  "page_title": "Cách làm bánh trung thu Red Velvet nhân cà phê thơm ngon lạ miệng",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookRecipe/Avatar/cach-sen-nhan-ca-phe-thumbnail.jpg"
+}

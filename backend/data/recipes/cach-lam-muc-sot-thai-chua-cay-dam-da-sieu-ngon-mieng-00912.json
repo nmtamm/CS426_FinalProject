@@ -1,0 +1,75 @@
+{
+  "source_id": "00912",
+  "name": "Mực sốt Thái",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b21454bf884f246d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-muc-sot-thai-chua-cay-dam-da-sieu-ngon-mieng-00912",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-muc-sot-thai-chua-cay-dam-da-sieu-ngon-mieng-00912",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mự​c tư​ơi 500 gr",
+      "raw_name": "Mự​c tư​ơi",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bơ 100 gr",
+      "raw_name": "Bơ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Giấ​m ăn 15 ml",
+      "raw_name": "Giấ​m ăn",
+      "quantity": 15,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành​ lá 20 gr",
+      "raw_name": "Hành​ lá",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt tươi 5 quả",
+      "raw_name": "Ớt tươi",
+      "quantity": 5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Trứng gà 1 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:27:09Z",
+  "page_title": "Cách làm mực sốt Thái chua cay đậm đà siêu ngon miệng",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2018/05/08/1087129/cach-lam-muc-sot-thai-chua-cay-sieu-ngon-760x367.jpg"
+}

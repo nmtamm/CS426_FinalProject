@@ -1,0 +1,65 @@
+{
+  "source_id": "02071",
+  "name": "Thạch vải soda",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0929893d7eba30fd.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-thach-vai-thom-ngot-mat-lanh-de-lam-02071",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-thach-vai-thom-ngot-mat-lanh-de-lam-02071",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột rau câu 12 g",
+      "raw_name": "Bột rau câu",
+      "quantity": 12,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước ép vải 250 ml",
+      "raw_name": "Nước ép vải",
+      "quantity": 250,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước 400 ml",
+      "raw_name": "Nước",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Vải 10 trái",
+      "raw_name": "Vải",
+      "quantity": 10,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Soda 350 ml",
+      "raw_name": "Soda",
+      "quantity": 350,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:18:34Z",
+  "page_title": "4 cách làm thạch vải ngon ngọt đơn giản giải nhiệt cho ngày nắng",
+  "variant_index": 2,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/thach-vai-soda-thumbnail.jpg"
+}

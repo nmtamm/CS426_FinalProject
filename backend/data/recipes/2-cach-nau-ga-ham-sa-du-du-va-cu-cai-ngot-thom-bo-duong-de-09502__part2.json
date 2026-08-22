@@ -1,0 +1,105 @@
+{
+  "source_id": "09502",
+  "name": "Gà hầm sả đu đủ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/203dab1c36d94b6d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-ga-ham-sa-du-du-va-cu-cai-ngot-thom-bo-duong-de-09502",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-ga-ham-sa-du-du-va-cu-cai-ngot-thom-bo-duong-de-09502",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-nuoc",
+      "name": "Món nước"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà 1 con (khoảng 1.5kg)",
+      "raw_name": "Gà 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 1.5kg",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đu đủ 1 trái (khoảng 300gr)",
+      "raw_name": "Đu đủ",
+      "quantity": 1,
+      "unit": "trái",
+      "note": "khoảng 300gr",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sả 4 tép",
+      "raw_name": "Sả 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tím 1 củ",
+      "raw_name": "Hành tím",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước dừa tươi 500 ml",
+      "raw_name": "Nước dừa tươi",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng cà phê",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối hạt 1 ít",
+      "raw_name": "Muối hạt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ hạt nêm",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:11:23Z",
+  "page_title": "2 cách nấu gà hầm sả củ cải và đu đủ ngọt thơm, bổ dưỡng dễ làm tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/ga-ham-sa-du-du-thumbnail.jpg"
+}

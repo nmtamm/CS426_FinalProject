@@ -1,0 +1,83 @@
+{
+  "source_id": "23918",
+  "name": "Trà đào Cozy túi lọc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/56c3bfbeb11cdb05.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-cach-pha-tra-dao-cozy-tui-loc-sieu-don-gian-trong-23918",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-cach-pha-tra-dao-cozy-tui-loc-sieu-don-gian-trong-23918",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà đào Cozy túi lọc 1 gói",
+      "raw_name": "Trà đào Cozy túi lọc",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước sôi 100 ml (85-90 độ C)",
+      "raw_name": "Nước sôi",
+      "quantity": 100,
+      "unit": "ml",
+      "note": "85-90 độ C",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước đường 30 ml",
+      "raw_name": "Nước đường",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước cốt chanh 10 ml",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Syrup đào 20 ml",
+      "raw_name": "Syrup đào",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đào ngâm 1 ít",
+      "raw_name": "Đào ngâm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Chanh 1 ít (cắt lát)",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "cắt lát",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:47:01Z",
+  "page_title": "Hướng dẫn cách pha trà đào Cozy túi lọc siêu đơn giản trong tích tắc",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/jsfajf.jpg"
+}

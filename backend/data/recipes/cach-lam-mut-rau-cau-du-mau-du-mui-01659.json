@@ -1,0 +1,71 @@
+{
+  "source_id": "01659",
+  "name": "Mứt rau câu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/cc8f092ea7568ec3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-rau-cau-du-mau-du-mui-01659",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-rau-cau-du-mau-du-mui-01659",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rau câu giòn 25 g",
+      "raw_name": "Rau câu giòn",
+      "quantity": 25,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường phèn 200 g",
+      "raw_name": "Đường phèn",
+      "quantity": 200,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Siro nho 40 ml",
+      "raw_name": "Siro nho",
+      "quantity": 40,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Siro dâu 40 ml",
+      "raw_name": "Siro dâu",
+      "quantity": 40,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Siro cam 40 ml",
+      "raw_name": "Siro cam",
+      "quantity": 40,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước lá dứa 40 ml",
+      "raw_name": "Nước lá dứa",
+      "quantity": 40,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:29:23Z",
+  "page_title": "Cách làm mứt rau câu đủ màu đủ mùi, trẻ con hay người lớn đều mê",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/02/13/1236331/-video-cach-lam-mut-rau-cau-du-mau-du-mui-tre-con-hay-nguoi-lon-deu-me-7-760x367.jpg"
+}

@@ -1,0 +1,70 @@
+{
+  "source_id": "23003",
+  "name": "Smoothie vani matcha",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f71c6d3eca2b4145.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/10-cong-thuc-lam-smoothie-giam-can-mat-lanh-de-lam-tai-nha-23003",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/10-cong-thuc-lam-smoothie-giam-can-mat-lanh-de-lam-tai-nha-23003",
+  "servings_text": "Cho 1 phần",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hạt điều 2 muỗng canh (loại không rang muối)",
+      "raw_name": "Hạt điều",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "loại không rang muối",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa hạt điều 240 ml",
+      "raw_name": "Sữa hạt điều",
+      "quantity": 240,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột matcha 1 muỗng cà phê (có thể dùng nhiều hơn nếu thích)",
+      "raw_name": "Bột matcha",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "có thể dùng nhiều hơn nếu thích",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chuối 1 quả (đã cấp đông)",
+      "raw_name": "Chuối",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "đã cấp đông",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chiết xuất vani 1 muỗng cà phê",
+      "raw_name": "Chiết xuất vani",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gừng tươi băm nhuyễn 1/4 muỗng cà phê (tùy chọn)",
+      "raw_name": "Gừng tươi băm nhuyễn",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": "tùy chọn",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:51:34Z",
+  "page_title": "10 công thức làm smoothie giảm cân mát lạnh, dễ làm tại nhà với máy xay",
+  "variant_index": 2,
+  "variant_count": 10,
+  "note": null,
+  "original_image_url": "https://cdn.tgdd.vn/2025/07/CookRecipe/Avatar/smoothie-vani-matcha-thumbnail.jpg"
+}

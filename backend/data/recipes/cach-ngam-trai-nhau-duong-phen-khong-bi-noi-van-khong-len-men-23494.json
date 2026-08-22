@@ -1,0 +1,51 @@
+{
+  "source_id": "23494",
+  "name": "Trái nhàu ngâm đường phèn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/dbea0108c2dfb622.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-ngam-trai-nhau-duong-phen-khong-bi-noi-van-khong-len-men-23494",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-ngam-trai-nhau-duong-phen-khong-bi-noi-van-khong-len-men-23494",
+  "servings_text": "Cho Cho 3 kg trái nhàu",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Quả nhàu tươi 3 kg",
+      "raw_name": "Quả nhàu tươi",
+      "quantity": 3,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường phèn 1.2 kg",
+      "raw_name": "Đường phèn",
+      "quantity": 1.2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối 2 thìa canh",
+      "raw_name": "Muối",
+      "quantity": 2,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng tươi 1 ít (tuỳ chọn)",
+      "raw_name": "Gừng tươi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "tuỳ chọn",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:47:51Z",
+  "page_title": "Cách ngâm trái nhàu đường phèn không bị nổi ván không lên men",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/cach-uop-suon-bo-nuong-mem-ngon-kieu-han-quoc-an-la-ghienkkkjj.jpg"
+}

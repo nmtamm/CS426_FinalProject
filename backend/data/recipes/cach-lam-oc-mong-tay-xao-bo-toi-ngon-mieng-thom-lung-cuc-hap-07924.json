@@ -1,0 +1,95 @@
+{
+  "source_id": "07924",
+  "name": "Ốc móng tay xào bơ tỏi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e2ffd49ed3b20e12.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-oc-mong-tay-xao-bo-toi-ngon-mieng-thom-lung-cuc-hap-07924",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-oc-mong-tay-xao-bo-toi-ngon-mieng-thom-lung-cuc-hap-07924",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ốc móng tay 400 gr",
+      "raw_name": "Ốc móng tay",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt 3 quả",
+      "raw_name": "Ớt",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng 1/2 củ",
+      "raw_name": "Gừng",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bơ lạt 3 muỗng canh",
+      "raw_name": "Bơ lạt",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu hào 2 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tương ớt 2 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ đường/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ đường/ hạt nêm",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:21:15Z",
+  "page_title": "Cách làm ốc móng tay xào bơ tỏi ngon miệng thơm lừng cực hấp dẫn",
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookProduct/Ocmongtayxaobotoi1200-1200x675.jpg"
+}

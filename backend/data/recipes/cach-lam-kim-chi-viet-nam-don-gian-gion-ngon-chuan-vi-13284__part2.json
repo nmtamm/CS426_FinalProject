@@ -1,0 +1,126 @@
+{
+  "source_id": "13284",
+  "name": "Kim chi Việt Nam",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e81c10c0d612da50.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kim-chi-viet-nam-don-gian-gion-ngon-chuan-vi-13284",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kim-chi-viet-nam-don-gian-gion-ngon-chuan-vi-13284",
+  "servings_text": "Cho 2 - 3 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Củ sen 1 củ",
+      "raw_name": "Củ sen",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Củ cải trắng 1 củ",
+      "raw_name": "Củ cải trắng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cải thảo 1 cái",
+      "raw_name": "Cải thảo",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bắp non 50 gr",
+      "raw_name": "Bắp non",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tím 5 tép",
+      "raw_name": "Hành tím 5 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 1.5 chén",
+      "raw_name": "Đường",
+      "quantity": 1.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước mắm 1 chén",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Giấm 1 chén",
+      "raw_name": "Giấm",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Ớt sừng 3 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Ớt hiểm 3 trái (3 - 5 trái)",
+      "raw_name": "Ớt hiểm",
+      "quantity": 3,
+      "unit": "trái",
+      "note": "3 - 5 trái",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Tỏi 10 tép",
+      "raw_name": "Tỏi 10 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T17:53:11Z",
+  "page_title": "Cách làm kim chi Việt Nam đơn giản, giòn ngon, chuẩn vị",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "Công thức được chia sẻ từ TikTok Vào bếp cùng Điện máy XANH",
+  "original_image_url": "https://cdn.tgdd.vn/2023/06/CookRecipe/Avatar/kim-chi-viet-nam-cong-thuc-duoc-chia-se-tu-tiktok-vao-bep-cung-dien-may-xanh-thumbnail.jpg"
+}

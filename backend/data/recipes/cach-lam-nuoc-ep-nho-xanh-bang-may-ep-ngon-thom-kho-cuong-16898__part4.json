@@ -1,0 +1,53 @@
+{
+  "source_id": "16898",
+  "name": "Nước ép nho xanh mận",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/817cb34ce95a7905.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-nho-xanh-bang-may-ep-ngon-thom-kho-cuong-16898",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-nho-xanh-bang-may-ep-ngon-thom-kho-cuong-16898",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nho xanh 250 gr",
+      "raw_name": "Nho xanh",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mận 3 quả",
+      "raw_name": "Mận",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:12:59Z",
+  "page_title": "7 cách làm nước ép nho xanh bằng máy ép ngon thơm khó cưỡng cực thanh mát",
+  "variant_index": 4,
+  "variant_count": 6,
+  "original_image_url": "https://cdn.tgdd.vn/2022/06/CookRecipe/Avatar/nuoc-ep-nho-xanh-man-thumbnail-1.jpg"
+}

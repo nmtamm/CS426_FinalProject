@@ -1,0 +1,106 @@
+{
+  "source_id": "05731",
+  "name": "Bánh hỏi chiên giòn nước mắm mỡ hành",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8696eea709753ed2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-hoi-chien-gion-sot-nuoc-mam-mo-hanh-cuc-ngon-05731",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-hoi-chien-gion-sot-nuoc-mam-mo-hanh-cuc-ngon-05731",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh hỏi khô 10 miếng",
+      "raw_name": "Bánh hỏi khô 10 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ruốc khô 1/2 chén",
+      "raw_name": "Ruốc khô",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành lá cắt nhỏ 1/2 chén",
+      "raw_name": "Hành lá cắt nhỏ",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt băm 1/2 muỗng cà phê",
+      "raw_name": "Ớt băm",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu màu điều 1 muỗng cà phê",
+      "raw_name": "Dầu màu điều",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đầu hành lá cắt nhỏ 1 muỗng canh",
+      "raw_name": "Đầu hành lá cắt nhỏ",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước mắm 2.5 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường 2.5 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hạt nêm 1/2 muỗng cà phê",
+      "raw_name": "Hạt nêm",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T19:22:52Z",
+  "page_title": "2 cách làm bánh hỏi chiên giòn sốt nước mắm mỡ hành cực ngon hấp dẫn",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": null,
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookRecipe/Avatar/banh-hoi-chien-gion-voi-ruoc-thumbnail.jpg"
+}

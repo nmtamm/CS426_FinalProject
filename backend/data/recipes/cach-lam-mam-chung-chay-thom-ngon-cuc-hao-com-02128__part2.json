@@ -1,0 +1,109 @@
+{
+  "source_id": "02128",
+  "name": "Mắm chưng chay mắm đậu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/baade6bb411b55c9.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mam-chung-chay-thom-ngon-cuc-hao-com-02128",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mam-chung-chay-thom-ngon-cuc-hao-com-02128",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mắm chay 2 muỗng canh",
+      "raw_name": "Mắm chay",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chao 50 gr",
+      "raw_name": "Chao",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu hũ trắng 2 miếng",
+      "raw_name": "Đậu hũ trắng 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nấm rơm 200 gr",
+      "raw_name": "Nấm rơm",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tím 5 củ",
+      "raw_name": "Hành tím",
+      "quantity": 5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ngò rí 1 ít",
+      "raw_name": "Ngò rí",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột năng 1 muỗng canh",
+      "raw_name": "Bột năng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước tương 1 muỗng",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Màu dầu điều 1 ít",
+      "raw_name": "Màu dầu điều",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tiêu sọ 1 muỗng cà phê",
+      "raw_name": "Tiêu sọ",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/muối/tiêu/bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/muối/tiêu/bột ngọt",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:44:33Z",
+  "page_title": "3 cách làm mắm chưng chay hấp dẫn thơm lừng ai cũng mê",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/mam-chung-chay-mam-dau-thumbnail.jpg"
+}

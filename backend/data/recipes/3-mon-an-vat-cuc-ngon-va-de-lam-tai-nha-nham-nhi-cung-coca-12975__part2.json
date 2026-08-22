@@ -1,0 +1,149 @@
+{
+  "source_id": "12975",
+  "name": "Bạch tuộc sốt Thái",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/052de9186a03fd2b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-mon-an-vat-cuc-ngon-va-de-lam-tai-nha-nham-nhi-cung-coca-12975",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-mon-an-vat-cuc-ngon-va-de-lam-tai-nha-nham-nhi-cung-coca-12975",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bạch tuột 500 gr",
+      "raw_name": "Bạch tuột",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cóc nón 100 gr",
+      "raw_name": "Cóc nón",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sả 5 nhánh",
+      "raw_name": "Sả",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chanh 2 quả",
+      "raw_name": "Chanh",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rau răm 4 nhánh",
+      "raw_name": "Rau răm",
+      "quantity": 4,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi 2 tép",
+      "raw_name": "Tỏi 2 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành tím 1 củ",
+      "raw_name": "Hành tím",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu màu điều 1 muỗng canh",
+      "raw_name": "Dầu màu điều",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước mắm 4 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước cốt me 2 muỗng canh",
+      "raw_name": "Nước cốt me",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Muối tôm 1 muỗng canh",
+      "raw_name": "Muối tôm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Ớt bột 1 muỗng canh",
+      "raw_name": "Ớt bột",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Đường thốt nốt 1 muỗng canh",
+      "raw_name": "Đường thốt nốt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T19:19:32Z",
+  "page_title": "3 món ăn vặt cực ngon và dễ làm tại nhà nhăm nhi cùng Coca Cola không đường",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/bach-tuoc-sot-thai-thumbnail.jpg"
+}

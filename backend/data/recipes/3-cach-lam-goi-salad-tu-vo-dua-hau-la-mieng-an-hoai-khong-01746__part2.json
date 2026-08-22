@@ -1,0 +1,85 @@
+{
+  "source_id": "01746",
+  "name": "Salad vỏ dưa hấu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2e4bfae446b91bfa.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-goi-salad-tu-vo-dua-hau-la-mieng-an-hoai-khong-01746",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-goi-salad-tu-vo-dua-hau-la-mieng-an-hoai-khong-01746",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Vỏ trắng dưa hấu 500 gr",
+      "raw_name": "Vỏ trắng dưa hấu",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt chuông xanh 1 trái",
+      "raw_name": "Ớt chuông xanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt chuông đỏ 1 trái",
+      "raw_name": "Ớt chuông đỏ",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chả lụa 150 gr",
+      "raw_name": "Chả lụa",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng cà phê",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước cốt chanh 2 muỗng cà phê",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 2 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bạc hà 5 gr (khoảng 10 lá)",
+      "raw_name": "Bạc hà",
+      "quantity": 5,
+      "unit": "gr",
+      "note": "khoảng 10 lá",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T17:55:58Z",
+  "page_title": "3 cách làm gỏi, salad từ vỏ dưa hấu lạ miệng, ăn hoài không ngán",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/salad-vo-dua-hau-thumbnail.jpg"
+}

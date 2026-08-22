@@ -1,0 +1,89 @@
+{
+  "source_id": "06961",
+  "name": "Cá viên chiên nước mắm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e4a2c7ba810fcbe5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-ca-vien-chien-nuoc-mam-sot-cay-va-sot-me-ngon-dam-06961",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-ca-vien-chien-nuoc-mam-sot-cay-va-sot-me-ngon-dam-06961",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cá viên 300 gr (loại đóng gói sẵn)",
+      "raw_name": "Cá viên",
+      "quantity": 300,
+      "unit": "gr",
+      "note": "loại đóng gói sẵn",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt 5 trái",
+      "raw_name": "Ớt",
+      "quantity": 5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột nêm 1/2 muỗng cà phê",
+      "raw_name": "Bột nêm",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước mắm 4 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 50 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường thốt nốt 50 gr",
+      "raw_name": "Đường thốt nốt",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:18:19Z",
+  "page_title": "4 cách làm cá viên chiên nước mắm, sốt cay, sốt me và sốt trứng muối ngon",
+  "variant_index": 2,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookRecipe/Avatar/ca-vien-chien-nuoc-mam-thumbnail.jpg"
+}

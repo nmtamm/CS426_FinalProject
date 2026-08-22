@@ -1,0 +1,83 @@
+{
+  "source_id": "23370",
+  "name": "Sốt bánh mì nướng muối ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bf297a1073c45285.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sot-banh-mi-nuong-muoi-ot-de-lau-kinh-doanh-bang-23370",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sot-banh-mi-nuong-muoi-ot-de-lau-kinh-doanh-bang-23370",
+  "servings_text": "Cho 30gr tương ớt",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dầu ăn 20 gr",
+      "raw_name": "Dầu ăn",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bơ 30 gr",
+      "raw_name": "Bơ",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gốc hành băm 15 gr",
+      "raw_name": "Gốc hành băm",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tương ớt 30 gr",
+      "raw_name": "Tương ớt",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt bột 1.5 gr",
+      "raw_name": "Ớt bột",
+      "quantity": 1.5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối ớt 5 gr",
+      "raw_name": "Muối ớt",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Sa tế tôm 20 gr",
+      "raw_name": "Sa tế tôm",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường 15 gr",
+      "raw_name": "Đường",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:55:38Z",
+  "page_title": "Cách làm sốt bánh mì nướng muối ớt để lâu kinh doanh bằng quánh nấu bột",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/cach-lam-sot-banh-mi-nuong-muoi-ot-de-lau-kinh-doanh-bangk.jpg"
+}

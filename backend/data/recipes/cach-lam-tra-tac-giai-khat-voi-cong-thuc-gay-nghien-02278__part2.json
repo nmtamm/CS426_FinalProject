@@ -1,0 +1,58 @@
+{
+  "source_id": "02278",
+  "name": "Trà tắc thái xanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c46dcc1ad2f2f309.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-tac-giai-khat-voi-cong-thuc-gay-nghien-02278",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-tac-giai-khat-voi-cong-thuc-gay-nghien-02278",
+  "servings_text": "Cho 1 ly trà tắc thái xanh",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà thái xanh 10 gr",
+      "raw_name": "Trà thái xanh",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trà lipton 2 gói",
+      "raw_name": "Trà lipton",
+      "quantity": 2,
+      "unit": "gói",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 100 gr",
+      "raw_name": "Đường",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước cốt tắc 10 ml",
+      "raw_name": "Nước cốt tắc",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:12:51Z",
+  "page_title": "2 cách làm trà tắc giải khát với công thức gây nghiện ngon như ngoài hàng",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "công thức từ tiktok Vào bếp cùng Điện máy XANH",
+  "original_image_url": "https://cdn.tgdd.vn/2023/05/CookRecipe/Avatar/tra-tac-thai-xanh-cong-thuc-tu-tiktok-vao-bep-cung-dien-may-xanh-thumbnail-1.jpg"
+}

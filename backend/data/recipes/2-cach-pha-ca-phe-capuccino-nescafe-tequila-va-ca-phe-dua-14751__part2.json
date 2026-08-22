@@ -1,0 +1,69 @@
+{
+  "source_id": "14751",
+  "name": "Cà phê dừa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d2c4ed288ddb8cb6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-pha-ca-phe-capuccino-nescafe-tequila-va-ca-phe-dua-14751",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-pha-ca-phe-capuccino-nescafe-tequila-va-ca-phe-dua-14751",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nescafé Cappuccino vị Dừa 2 gói",
+      "raw_name": "Nescafé Cappuccino vị Dừa",
+      "quantity": 2,
+      "unit": "gói",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hạnh nhân giã nhuyễn 5 gr (nếu có)",
+      "raw_name": "Hạnh nhân giã nhuyễn",
+      "quantity": 5,
+      "unit": "gr",
+      "note": "nếu có",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Milk foam 10 ml (nếu có)",
+      "raw_name": "Milk foam",
+      "quantity": 10,
+      "unit": "ml",
+      "note": "nếu có",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 2 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước sôi 70 ml",
+      "raw_name": "Nước sôi",
+      "quantity": 70,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:03:16Z",
+  "page_title": "2 cách pha cà phê cappuccino nescafe tequila và cà phê dừa thơm béo hấp dẫn",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/ca-phe-dua-thumbnail.jpg"
+}

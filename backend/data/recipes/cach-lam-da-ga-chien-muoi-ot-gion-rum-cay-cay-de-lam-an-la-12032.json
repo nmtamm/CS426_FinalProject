@@ -1,0 +1,119 @@
+{
+  "source_id": "12032",
+  "name": "Da gà chiên muối ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e68376fac92e23f1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-da-ga-chien-muoi-ot-gion-rum-cay-cay-de-lam-an-la-12032",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-da-ga-chien-muoi-ot-gion-rum-cay-cay-de-lam-an-la-12032",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Da gà 1 kg",
+      "raw_name": "Da gà",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu xanh cà vỏ 100 gr (khoảng 1 chén ăn cơm)",
+      "raw_name": "Đậu xanh cà vỏ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "khoảng 1 chén ăn cơm",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gạo tẻ 100 gr (khoảng 1 chén ăn cơm)",
+      "raw_name": "Gạo tẻ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "khoảng 1 chén ăn cơm",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gạo nếp 100 gr (khoảng 1 chén ăn cơm)",
+      "raw_name": "Gạo nếp",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "khoảng 1 chén ăn cơm",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột năng 1/2 chén (chén ăn cơm)",
+      "raw_name": "Bột năng",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": "chén ăn cơm",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rượu trắng 3 muỗng canh",
+      "raw_name": "Rượu trắng",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt hiểm 2 trái",
+      "raw_name": "Ớt hiểm",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gừng 1 nhánh",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tỏi 5 tép",
+      "raw_name": "Tỏi 5 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bơ thực vật 1 muỗng canh",
+      "raw_name": "Bơ thực vật",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu ăn 1 chén (chén ăn cơm)",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "chén",
+      "note": "chén ăn cơm",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Muối/ tiêu 1 ít",
+      "raw_name": "Muối/ tiêu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:18:28Z",
+  "page_title": "Cách làm da gà chiên muối ớt giòn rụm cay cay dễ làm ăn là ghiền",
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookProduct/t-1200x676-11.jpg"
+}

@@ -1,0 +1,145 @@
+{
+  "source_id": "22412",
+  "name": "Mandu kimchi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c5753b8d1bf9d4a9.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mandu-thit-mandu-kim-chi-va-mandu-rau-cu-tai-nha-22412",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mandu-thit-mandu-kim-chi-va-mandu-rau-cu-tai-nha-22412",
+  "servings_text": "Cho 16 cái cỡ lớn",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò 225 gr (hoặc thay bằng thịt heo)",
+      "raw_name": "Thịt bò",
+      "quantity": 225,
+      "unit": "gr",
+      "note": "hoặc thay bằng thịt heo",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gừng 1 ít (khoảng 10gr)",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "khoảng 10gr",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 4 tép",
+      "raw_name": "Tỏi 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Miến khoai lang 55 gr",
+      "raw_name": "Miến khoai lang",
+      "quantity": 55,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tây lớn 1/2 củ",
+      "raw_name": "Hành tây lớn",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hẹ lá 85 gr",
+      "raw_name": "Hẹ lá",
+      "quantity": 85,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Kimchi 250 gr",
+      "raw_name": "Kimchi",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đậu hũ trắng 100 gr",
+      "raw_name": "Đậu hũ trắng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu mè 1 muỗng canh",
+      "raw_name": "Dầu mè",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước tương 2 muỗng cà phê",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Tiêu đen xay 1 muỗng cà phê",
+      "raw_name": "Tiêu đen xay",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Dầu ăn/ bột mì 1 ít",
+      "raw_name": "Dầu ăn/ bột mì",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Vỏ bánh mandu cỡ lớn 16 cái",
+      "raw_name": "Vỏ bánh mandu cỡ lớn",
+      "quantity": 16,
+      "unit": "cái",
+      "note": null,
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T20:33:58Z",
+  "page_title": "Cách làm mandu thịt, mandu kim chi và mandu rau củ tại nhà với máy xay thịt",
+  "variant_index": 2,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2024/12/CookRecipe/Avatar/mandu-thit-thumbnail.jpg"
+}

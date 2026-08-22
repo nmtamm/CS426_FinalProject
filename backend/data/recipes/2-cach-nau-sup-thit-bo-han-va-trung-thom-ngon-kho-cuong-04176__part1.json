@@ -1,0 +1,81 @@
+{
+  "source_id": "04176",
+  "name": "Súp thịt bò Trung Hoa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f7b8d555c235d7a2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-sup-thit-bo-han-va-trung-thom-ngon-kho-cuong-04176",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-sup-thit-bo-han-va-trung-thom-ngon-kho-cuong-04176",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-canh",
+      "name": "Món canh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò cắt lát 400 gr",
+      "raw_name": "Thịt bò cắt lát",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm kim châm 1 gói",
+      "raw_name": "Nấm kim châm",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 5 nhánh",
+      "raw_name": "Tỏi",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng 5 gr",
+      "raw_name": "Gừng",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt chín 2 quả",
+      "raw_name": "Ớt chín",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt xanh 2 quả",
+      "raw_name": "Ớt xanh",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tiêu xanh 5 gr",
+      "raw_name": "Tiêu xanh",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:25:38Z",
+  "page_title": "2 cách nấu súp thịt bò Hàn và Trung thơm ngon khó cưỡng",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/sup-thit-bo-trung-hoa-thumbnail.jpg"
+}

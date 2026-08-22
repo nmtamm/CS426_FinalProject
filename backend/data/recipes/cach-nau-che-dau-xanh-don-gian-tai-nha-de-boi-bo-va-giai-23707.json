@@ -1,0 +1,63 @@
+{
+  "source_id": "23707",
+  "name": "Chè đậu xanh nấu đơn giản",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a5fa650c0f07965e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-che-dau-xanh-don-gian-tai-nha-de-boi-bo-va-giai-23707",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-che-dau-xanh-don-gian-tai-nha-de-boi-bo-va-giai-23707",
+  "servings_text": "Cho 4 - 5 người ăn",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-che",
+      "name": "Món chè"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu xanh nguyên hạt 300 gr (còn vỏ)",
+      "raw_name": "Đậu xanh nguyên hạt",
+      "quantity": 300,
+      "unit": "gr",
+      "note": "còn vỏ",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Phổ tai khô 25 gr",
+      "raw_name": "Phổ tai khô",
+      "quantity": 25,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường tán 220 gr (hoặc đường phèn/ đường thốt nốt)",
+      "raw_name": "Đường tán",
+      "quantity": 220,
+      "unit": "gr",
+      "note": "hoặc đường phèn/ đường thốt nốt",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1/4 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước lọc 3 lít",
+      "raw_name": "Nước lọc 3 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:13:29Z",
+  "page_title": "Cách nấu chè đậu xanh đơn giản tại nhà để bồi bổ và giải nhiệt cơ thể",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20m%C3%B3n%20an%20t12%20%281200%20x%20676%20px%29%20%2838%29.jpg"
+}

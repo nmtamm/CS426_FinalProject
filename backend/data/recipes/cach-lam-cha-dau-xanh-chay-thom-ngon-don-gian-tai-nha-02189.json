@@ -1,0 +1,67 @@
+{
+  "source_id": "02189",
+  "name": "Chả đậu xanh chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/39cff5f1ee9084f8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-dau-xanh-chay-thom-ngon-don-gian-tai-nha-02189",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-dau-xanh-chay-thom-ngon-don-gian-tai-nha-02189",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu hũ trắng 1 miếng",
+      "raw_name": "Đậu hũ trắng 1 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu xanh không vỏ 100 g",
+      "raw_name": "Đậu xanh không vỏ",
+      "quantity": 100,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tàu hủ ki 1 miếng",
+      "raw_name": "Tàu hủ ki 1 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột chiên giòn 100 g",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 100,
+      "unit": "g",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ngò rí 1 nhánh",
+      "raw_name": "Ngò rí",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt cay 1 trái",
+      "raw_name": "Ớt cay",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:45:49Z",
+  "page_title": "Cách làm chả đậu xanh chay thơm ngon đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookProduct/zscdc-1200x676.jpg"
+}

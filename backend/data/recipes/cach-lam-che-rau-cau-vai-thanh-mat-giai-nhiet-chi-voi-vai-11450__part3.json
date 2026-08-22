@@ -1,0 +1,81 @@
+{
+  "source_id": "11450",
+  "name": "Chè vải rau câu dừa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/63c40bfe76452539.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-che-rau-cau-vai-thanh-mat-giai-nhiet-chi-voi-vai-11450",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-che-rau-cau-vai-thanh-mat-giai-nhiet-chi-voi-vai-11450",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-che",
+      "name": "Món chè"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Vải tươi 300 gr",
+      "raw_name": "Vải tươi",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột rau câu dẻo 50 gr",
+      "raw_name": "Bột rau câu dẻo",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước dừa tươi 300 ml",
+      "raw_name": "Nước dừa tươi",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dừa khô 10 gr",
+      "raw_name": "Dừa khô",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sữa đặc 2 muỗng canh",
+      "raw_name": "Sữa đặc",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Cơm dừa 30 gr",
+      "raw_name": "Cơm dừa",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 350 gr",
+      "raw_name": "Đường",
+      "quantity": 350,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:18:22Z",
+  "page_title": "3 cách làm chè vải rau câu thanh mát, giải nhiệt đơn giản chỉ với vài bước",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/che-vai-rau-cau-dua-thumbnail-1.jpg"
+}

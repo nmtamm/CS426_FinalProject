@@ -1,0 +1,99 @@
+{
+  "source_id": "00863",
+  "name": "Thịt xá xíu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f0138626059bc77e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/thom-lung-gian-bep-ngay-tet-voi-thit-nuong-xa-xiu-00863",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/thom-lung-gian-bep-ngay-tet-voi-thit-nuong-xa-xiu-00863",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt nạc vai 700 gr",
+      "raw_name": "Thịt nạc vai",
+      "quantity": 700,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mật ong 2 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột xá xíu 1 muỗng canh",
+      "raw_name": "Bột xá xíu",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tím 1 củ",
+      "raw_name": "Hành tím",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 3 tép",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gừng 1/2 củ",
+      "raw_name": "Gừng",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tương đen 1/2 muỗng canh",
+      "raw_name": "Tương đen",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước tương 1 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T19:35:04Z",
+  "page_title": "Cách làm thịt xá xíu mềm ngon nhất, không bị khô dễ làm tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/thom-lung-gian-bep-ngay-tet-voi-thit-nuong-xa-xiu-avt-1200x676.jpg"
+}

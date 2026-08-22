@@ -1,0 +1,69 @@
+{
+  "source_id": "10178",
+  "name": "Rau câu đậu nành cốt dừa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2ce17bde954f4b58.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-rau-cau-dau-nanh-la-dua-va-cot-dua-thom-beo-moi-la-10178",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-rau-cau-dau-nanh-la-dua-va-cot-dua-thom-beo-moi-la-10178",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột rau câu giòn 1 gói (khoảng 25gr)",
+      "raw_name": "Bột rau câu giòn",
+      "quantity": 1,
+      "unit": "gói",
+      "note": "khoảng 25gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước cốt dừa 200 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đậu nành không đường 1.2 lít",
+      "raw_name": "Sữa đậu nành không đường 1.2 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa tươi không đường 1 lít",
+      "raw_name": "Sữa tươi không đường 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột sữa đậu nành 4 gói",
+      "raw_name": "Bột sữa đậu nành",
+      "quantity": 4,
+      "unit": "gói",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường cát 350 gr",
+      "raw_name": "Đường cát",
+      "quantity": 350,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:17:19Z",
+  "page_title": "2 cách làm rau câu đậu nành lá dứa và cốt dừa thơm béo mới lạ đơn giản",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/rau-cau-dau-nanh-cot-dua-thumbnail-1.jpg"
+}

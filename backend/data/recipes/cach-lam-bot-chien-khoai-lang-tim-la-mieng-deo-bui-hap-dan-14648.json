@@ -1,0 +1,107 @@
+{
+  "source_id": "14648",
+  "name": "Bột chiên khoai lang tím",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8e621f30a4048721.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bot-chien-khoai-lang-tim-la-mieng-deo-bui-hap-dan-14648",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bot-chien-khoai-lang-tim-la-mieng-deo-bui-hap-dan-14648",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột gạo 150 gr",
+      "raw_name": "Bột gạo",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột năng 40 gr",
+      "raw_name": "Bột năng",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Khoai lang tím 1 củ",
+      "raw_name": "Khoai lang tím",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đu đủ xanh 1/2 quả",
+      "raw_name": "Đu đủ xanh",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt 1 quả",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành lá 3 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Chanh 1/2 quả",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Giấm 1 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước tương 3 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đường/ Muối 1 ít",
+      "raw_name": "Đường/ Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T19:18:33Z",
+  "page_title": "Cách làm bột chiên khoai lang tím lạ miệng dẻo bùi hấp dẫn đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-bot-chien-khoai-lang-tim-la-mieng-deo-bui-hap-dan-avt-1200x676.jpg"
+}

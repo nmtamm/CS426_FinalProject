@@ -1,0 +1,59 @@
+{
+  "source_id": "24274",
+  "name": "Gà quay mật ong",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/dc0cb95c795555d6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-quay-mat-ong-da-gion-mau-dep-chuan-vi-nha-hang-24274",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-quay-mat-ong-da-gion-mau-dep-chuan-vi-nha-hang-24274",
+  "servings_text": "Cho 3 - 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà mái 1 con (khoảng 1.2kg)",
+      "raw_name": "Gà mái 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 1.2kg",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Giấm 1 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối hạt 1 muỗng canh",
+      "raw_name": "Muối hạt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mật ong 1 ít",
+      "raw_name": "Mật ong",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gia vị ướp 1 ít (bột gà/ hạt nêm/ đường/ muối/ bột ngọt/ tiêu xay/ bột ngũ vị hương)",
+      "raw_name": "Gia vị ướp",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "bột gà/ hạt nêm/ đường/ muối/ bột ngọt/ tiêu xay/ bột ngũ vị hương",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T18:03:44Z",
+  "page_title": "Cách làm gà quay mật ong da giòn màu đẹp chuẩn vị nhà hàng cực hấp dẫn",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t03%201200676%20-%202026-04-01T111414.163.jpg"
+}

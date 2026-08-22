@@ -1,0 +1,69 @@
+{
+  "source_id": "14226",
+  "name": "Sữa chua dẻo lăn vụn dừa cho bé ăn dặm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0bff02dbc2d256a1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-chua-deo-cho-be-an-dam-tren-6-thang-ngon-min-14226",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-chua-deo-cho-be-an-dam-tren-6-thang-ngon-min-14226",
+  "servings_text": "Cho 2 bé",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sữa chua không đường 1/2 hộp",
+      "raw_name": "Sữa chua không đường",
+      "quantity": 0.5,
+      "unit": "hộp",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa bột công thức 2 muỗng cà phê",
+      "raw_name": "Sữa bột công thức",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hoa đậu biếc khô 4 cái (4 bông)",
+      "raw_name": "Hoa đậu biếc khô",
+      "quantity": 4,
+      "unit": "cái",
+      "note": "4 bông",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Vụn dừa khô 80 gr",
+      "raw_name": "Vụn dừa khô",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột gelatin 8 gr",
+      "raw_name": "Bột gelatin",
+      "quantity": 8,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước sôi 90 ml",
+      "raw_name": "Nước sôi",
+      "quantity": 90,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:21:55Z",
+  "page_title": "2 cách làm sữa chua dẻo cho bé ăn dặm trên 6 tháng ngon mịn bé thích mê",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/sua-chua-deo-lan-vun-dua-cho-be-an-dam-thumbnail.jpg"
+}

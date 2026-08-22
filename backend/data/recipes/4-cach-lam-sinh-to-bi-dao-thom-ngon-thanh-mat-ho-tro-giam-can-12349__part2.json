@@ -1,0 +1,53 @@
+{
+  "source_id": "12349",
+  "name": "Sinh tố bí đao sữa chua",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/939bfdb1be83f172.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-sinh-to-bi-dao-thom-ngon-thanh-mat-ho-tro-giam-can-12349",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-sinh-to-bi-dao-thom-ngon-thanh-mat-ho-tro-giam-can-12349",
+  "servings_text": "Cho 2 - 3 người",
+  "topics": [
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bí đao 1 trái",
+      "raw_name": "Bí đao",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa chua 750 ml",
+      "raw_name": "Sữa chua",
+      "quantity": 750,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường thốt nốt 250 gr (giã nhuyễn)",
+      "raw_name": "Đường thốt nốt",
+      "quantity": 250,
+      "unit": "gr",
+      "note": "giã nhuyễn",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột bạch đậu khấu 1 muỗng cà phê",
+      "raw_name": "Bột bạch đậu khấu",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:08:43Z",
+  "page_title": "4 cách làm sinh tố bí đao (bí xanh) thanh mát hỗ trợ giảm cân hiệu quả",
+  "variant_index": 2,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/sinh-to-bi-dao-sua-chua-thumbnail.jpg"
+}

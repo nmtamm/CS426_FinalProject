@@ -1,0 +1,93 @@
+{
+  "source_id": "11743",
+  "name": "Mắm ruốc xào thịt chay từ thịt bằm chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b7d7a269f8f42d40.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mam-ruoc-xao-thit-chay-bat-com-thom-ngon-kho-cuong-11743",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mam-ruoc-xao-thit-chay-bat-com-thom-ngon-kho-cuong-11743",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bằm chay 100 gr",
+      "raw_name": "Thịt bằm chay",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Củ cải muối 30 gr",
+      "raw_name": "Củ cải muối",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mắm chay 2 muỗng canh",
+      "raw_name": "Mắm chay",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tương ớt 2 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sả 3 cây",
+      "raw_name": "Sả",
+      "quantity": 3,
+      "unit": "cây",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt 4 quả",
+      "raw_name": "Ớt",
+      "quantity": 4,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tím 2 củ",
+      "raw_name": "Hành tím",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường/ hạt nêm 1 ít",
+      "raw_name": "Đường/ hạt nêm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:49:34Z",
+  "page_title": "2 cách làm mắm ruốc xào thịt chay bắt cơm thơm ngon khó cưỡng",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/mam-ruoc-xao-thit-chay-tu-thit-bam-chay-thumbnail.jpg"
+}

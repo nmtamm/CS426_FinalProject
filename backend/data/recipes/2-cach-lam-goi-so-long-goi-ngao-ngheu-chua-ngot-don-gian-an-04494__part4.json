@@ -1,0 +1,117 @@
+{
+  "source_id": "04494",
+  "name": "Gỏi sò lông dưa leo cà chua",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/56a5acfeccef9644.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-so-long-goi-ngao-ngheu-chua-ngot-don-gian-an-04494",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-so-long-goi-ngao-ngheu-chua-ngot-don-gian-an-04494",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sò lông 2 kg",
+      "raw_name": "Sò lông",
+      "quantity": 2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dưa leo 3 trái",
+      "raw_name": "Dưa leo",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà chua bi 10 trái",
+      "raw_name": "Cà chua bi",
+      "quantity": 10,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tắc 5 trái",
+      "raw_name": "Tắc",
+      "quantity": 5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt sừng 1 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ngò rí 5 nhánh",
+      "raw_name": "Ngò rí",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đường 2.5 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T17:57:45Z",
+  "page_title": "4 cách làm gỏi sò lông đơn giản thơm ngon khó cưỡng ăn là ghiền",
+  "variant_index": 4,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/goi-so-long-dua-leo-ca-chua-thumbnail.jpg"
+}

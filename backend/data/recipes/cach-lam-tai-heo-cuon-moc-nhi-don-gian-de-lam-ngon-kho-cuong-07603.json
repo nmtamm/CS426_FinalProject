@@ -1,0 +1,103 @@
+{
+  "source_id": "07603",
+  "name": "Tai heo cuộn mộc nhĩ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9dda75163ce2c330.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tai-heo-cuon-moc-nhi-don-gian-de-lam-ngon-kho-cuong-07603",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tai-heo-cuon-moc-nhi-don-gian-de-lam-ngon-kho-cuong-07603",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tai heo 2 cái",
+      "raw_name": "Tai heo",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mộc nhĩ đen khô 10 gr (khoảng 6 - 7 tai nấm)",
+      "raw_name": "Mộc nhĩ đen khô",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "khoảng 6 - 7 tai nấm",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Giấm 1 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước tương 1 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sả 4 nhánh (cắt khúc)",
+      "raw_name": "Sả",
+      "quantity": 4,
+      "unit": "nhánh",
+      "note": "cắt khúc",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gừng 1 củ (cắt lát)",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "cắt lát",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành tím 5 củ (đập dập)",
+      "raw_name": "Hành tím",
+      "quantity": 5,
+      "unit": "củ",
+      "note": "đập dập",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Chanh 1 ít",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Hạt nêm/ Tiêu/ Muối)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Hạt nêm/ Tiêu/ Muối",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T20:37:53Z",
+  "page_title": "Cách làm tai heo cuộn mộc nhĩ đơn giản, dễ làm, ngon khó cưỡng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookProduct/thumbcmscn-1200x676-16.jpg"
+}

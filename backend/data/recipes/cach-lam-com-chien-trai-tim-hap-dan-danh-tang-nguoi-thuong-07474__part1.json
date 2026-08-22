@@ -1,0 +1,137 @@
+{
+  "source_id": "07474",
+  "name": "Cơm chiên trái tim",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/af75f123977364bf.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-com-chien-trai-tim-hap-dan-danh-tang-nguoi-thuong-07474",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-com-chien-trai-tim-hap-dan-danh-tang-nguoi-thuong-07474",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cơm 2 chén (chén ăn cơm)",
+      "raw_name": "Cơm",
+      "quantity": 2,
+      "unit": "chén",
+      "note": "chén ăn cơm",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt bò 50 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Thịt gà 100 gr",
+      "raw_name": "Thịt gà",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bông cải xanh 50 gr",
+      "raw_name": "Bông cải xanh",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cải bó xôi 40 gr",
+      "raw_name": "Cải bó xôi",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Trứng gà 1 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nho khô 50 gr",
+      "raw_name": "Nho khô",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tỏi 1 ít (băm nhuyễn)",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "băm nhuyễn",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Sả 1 ít (thái mỏng)",
+      "raw_name": "Sả",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "thái mỏng",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bột cà ri 1/2 muỗng cà phê",
+      "raw_name": "Bột cà ri",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước tương 1/2 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng cà phê",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Hạt nêm 2 muỗng cà phê",
+      "raw_name": "Hạt nêm",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T19:36:54Z",
+  "page_title": "2 Cách làm cơm chiên trái tim hấp dẫn dành tặng người thương cho ngày 8/3",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookRecipe/Avatar/com-chien-trai-tim-thumbnail.jpg"
+}

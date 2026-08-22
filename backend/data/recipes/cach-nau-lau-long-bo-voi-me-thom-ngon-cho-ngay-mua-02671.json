@@ -1,0 +1,95 @@
+{
+  "source_id": "02671",
+  "name": "Lẩu lòng bò nấu mẻ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1a9150b71e41b1ec.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-lau-long-bo-voi-me-thom-ngon-cho-ngay-mua-02671",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-lau-long-bo-voi-me-thom-ngon-cho-ngay-mua-02671",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-lau",
+      "name": "Món lẩu"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lòng bò 0.5 kg",
+      "raw_name": "Lòng bò",
+      "quantity": 0.5,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mẻ 1 chén",
+      "raw_name": "Mẻ",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước dừa 0.5 lít",
+      "raw_name": "Nước dừa 0.5 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nấm rơm 200 gr",
+      "raw_name": "Nấm rơm",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chuối chát 2 trái",
+      "raw_name": "Chuối chát",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt 2 trái",
+      "raw_name": "Ớt",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi 10 gr",
+      "raw_name": "Tỏi",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Rau ăn kèm 10 gr (ngò gai/rau om/hành lá/hẹ)",
+      "raw_name": "Rau ăn kèm",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "ngò gai/rau om/hành lá/hẹ",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị 10 gr (muối/hạt nêm/tiêu/đường/bột ngọt/nước mắm/dầu ăn)",
+      "raw_name": "Gia vị",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "muối/hạt nêm/tiêu/đường/bột ngọt/nước mắm/dầu ăn",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:28:46Z",
+  "page_title": "Cách nấu lẩu lòng bò với mẻ thơm ngon cho ngày mưa se lạnh ấm áp",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/06/03/1260343/cach-nau-lau-long-bo-voi-me-thom-ngon-cho-ngay-mua-760x367.jpg"
+}

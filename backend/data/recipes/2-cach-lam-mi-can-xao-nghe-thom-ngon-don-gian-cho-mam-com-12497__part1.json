@@ -1,0 +1,109 @@
+{
+  "source_id": "12497",
+  "name": "Mì căn xào nghệ với hẹ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c5c6209b49df9899.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mi-can-xao-nghe-thom-ngon-don-gian-cho-mam-com-12497",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mi-can-xao-nghe-thom-ngon-don-gian-cho-mam-com-12497",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mì căn 5 cây",
+      "raw_name": "Mì căn",
+      "quantity": 5,
+      "unit": "cây",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hẹ 300 gr",
+      "raw_name": "Hẹ",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 5 tép",
+      "raw_name": "Tỏi 5 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nghệ tươi 5 củ",
+      "raw_name": "Nghệ tươi",
+      "quantity": 5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 7 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 7,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột nghệ 1 muỗng cà phê",
+      "raw_name": "Bột nghệ",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hạt nêm chay 1 muỗng cà phê",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước mắm chay 2 muỗng cà phê",
+      "raw_name": "Nước mắm chay",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột ngọt 1/3 muỗng cà phê",
+      "raw_name": "Bột ngọt",
+      "quantity": 0.333,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đường 1 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Ớt sừng 1 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:36:29Z",
+  "page_title": "2 cách làm mì căn xào nghệ thơm ngon đơn giản cho mâm cơm chay",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/mcxn.jpg"
+}

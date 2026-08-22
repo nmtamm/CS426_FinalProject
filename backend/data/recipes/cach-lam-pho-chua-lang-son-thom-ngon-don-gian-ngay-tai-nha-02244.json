@@ -1,0 +1,99 @@
+{
+  "source_id": "02244",
+  "name": "Phở chua Lạng Sơn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/62e03e1d9a952fde.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-pho-chua-lang-son-thom-ngon-don-gian-ngay-tai-nha-02244",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-pho-chua-lang-son-thom-ngon-don-gian-ngay-tai-nha-02244",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh phở khô 100 gr (có thể sử dụng phở gói hoặc phở tươi)",
+      "raw_name": "Bánh phở khô",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "có thể sử dụng phở gói hoặc phở tươi",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt nạc vai 500 gr",
+      "raw_name": "Thịt nạc vai",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột năng 1 thìa cà phê",
+      "raw_name": "Bột năng",
+      "quantity": 1,
+      "unit": "thìa cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột xá xíu 50 gr",
+      "raw_name": "Bột xá xíu",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành phi 10 gr",
+      "raw_name": "Hành phi",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đậu phộng rang 10 gr",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Khoai lang 1 củ",
+      "raw_name": "Khoai lang",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành 2 củ",
+      "raw_name": "Hành",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tỏi 10 gr",
+      "raw_name": "Tỏi",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Rau sống 100 gr",
+      "raw_name": "Rau sống",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T20:35:33Z",
+  "page_title": "Cách làm phở chua Lạng Sơn thơm ngon, đơn giản ngay tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookProduct/Untitled-3-760x367.jpg"
+}

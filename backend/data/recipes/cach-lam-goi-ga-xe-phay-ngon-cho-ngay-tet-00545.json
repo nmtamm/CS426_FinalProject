@@ -1,0 +1,91 @@
+{
+  "source_id": "00545",
+  "name": "Nộm gà xé phay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7b9900427d76afe2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-ga-xe-phay-ngon-cho-ngay-tet-00545",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-ga-xe-phay-ngon-cho-ngay-tet-00545",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà 1/2 con",
+      "raw_name": "Gà 1/2 con",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gừng 20 gr",
+      "raw_name": "Gừng",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt sừng 1 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rau răm 10 gr",
+      "raw_name": "Rau răm",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lá chanh 7 gr (7 lá)",
+      "raw_name": "Lá chanh",
+      "quantity": 7,
+      "unit": "gr",
+      "note": "7 lá",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước cốt chanh 1.5 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước mắm 3 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Giấm 1.5 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối/ Đường 1 ít",
+      "raw_name": "Muối/ Đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:01:18Z",
+  "page_title": "Cách làm nộm gà xé phay thơm ngon hấp dẫn dễ làm ngay tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-goi-ga-xe-phay-ngon-cho-ngay-tet-avt-1200x676.jpg"
+}

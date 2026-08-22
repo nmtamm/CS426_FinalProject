@@ -1,0 +1,107 @@
+{
+  "source_id": "22595",
+  "name": "Sốt tiêu đen",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d6119cd73dfb91bb.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sot-tieu-den-don-gian-cho-cac-mon-beefsteak-voi-chao-22595",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sot-tieu-den-don-gian-cho-cac-mon-beefsteak-voi-chao-22595",
+  "servings_text": "Cho 3 - 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tiêu đen xay 2 thìa canh",
+      "raw_name": "Tiêu đen xay",
+      "quantity": 2,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bơ nhạt 3 thìa canh",
+      "raw_name": "Bơ nhạt",
+      "quantity": 3,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi băm nhỏ 1 thìa canh",
+      "raw_name": "Tỏi băm nhỏ",
+      "quantity": 1,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tây băm nhỏ 2 thìa canh (hoặc cắt hạt lựu tuỳ ý)",
+      "raw_name": "Hành tây băm nhỏ",
+      "quantity": 2,
+      "unit": "thìa canh",
+      "note": "hoặc cắt hạt lựu tuỳ ý",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tây 2 thìa canh",
+      "raw_name": "Hành tây",
+      "quantity": 2,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu hàu 1 thìa cà phê",
+      "raw_name": "Dầu hàu",
+      "quantity": 1,
+      "unit": "thìa cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước tương 2 thìa canh",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường 1 thìa canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Sốt cà chua 3 thìa canh",
+      "raw_name": "Sốt cà chua",
+      "quantity": 3,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bột bắp 1/2 thìa canh",
+      "raw_name": "Bột bắp",
+      "quantity": 0.5,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu ăn 1/2 thìa canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 0.5,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:22:56Z",
+  "page_title": "Cách làm sốt tiêu đen đơn giản cho các món beefsteak với chảo inox",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/17022025%20%2860%29.jpg"
+}

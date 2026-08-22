@@ -1,0 +1,109 @@
+{
+  "source_id": "10752",
+  "name": "Xà lách (salad) trộn dầu giấm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5c8e4ea508eff629.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-xa-lach-salad-tron-dau-giam-vo-cung-don-gian-tai-nha-10752",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-xa-lach-salad-tron-dau-giam-vo-cung-don-gian-tai-nha-10752",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Xà lách 2 cây",
+      "raw_name": "Xà lách",
+      "quantity": 2,
+      "unit": "cây",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà chua 1 quả",
+      "raw_name": "Cà chua",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dưa leo 1 quả",
+      "raw_name": "Dưa leo",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt 1 quả",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 3 tép",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ngò rí 5 nhánh",
+      "raw_name": "Ngò rí",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Giấm gạo 4 muỗng canh",
+      "raw_name": "Giấm gạo",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ đường/ hạt nêm/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ đường/ hạt nêm/ bột ngọt",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T17:51:58Z",
+  "page_title": "2 Cách làm xà lách (salad) trộn dầu giấm vô cùng đơn giản tại nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookRecipe/Avatar/xa-lach-salald-tron-dau-giam-thumbnail.jpg"
+}

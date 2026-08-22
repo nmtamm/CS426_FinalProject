@@ -1,0 +1,113 @@
+{
+  "source_id": "06701",
+  "name": "Cà ri gà Ấn Độ sốt xoài",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/eae091a08e49b294.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-mon-ca-ri-ga-an-do-sot-xoai-va-sot-bo-hap-dan-moi-06701",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-mon-ca-ri-ga-an-do-sot-xoai-va-sot-bo-hap-dan-moi-06701",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-kho",
+      "name": "Món kho"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ức gà 4 miếng",
+      "raw_name": "Ức gà 4 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xoài chín 2 trái",
+      "raw_name": "Xoài chín",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước cốt dừa 400 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 2 tép",
+      "raw_name": "Tỏi 2 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gừng 1/2 củ",
+      "raw_name": "Gừng",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ngò rí 1 ít",
+      "raw_name": "Ngò rí",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột cà ri Ấn Độ 1 muỗng canh",
+      "raw_name": "Bột cà ri Ấn Độ",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột hạt ngò 1 muỗng cà phê",
+      "raw_name": "Bột hạt ngò",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Muối/ Tiêu 1 ít",
+      "raw_name": "Muối/ Tiêu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:14:56Z",
+  "page_title": "3 cách nấu cà ri gà Ấn Độ sốt xoài, sốt bơ và sốt masala hấp dẫn mới lạ",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookRecipe/Avatar/2-cach-nau-mon-ca-ri-ga-an-do-sot-bo-va-sot-xoai-thumbnail.jpg"
+}

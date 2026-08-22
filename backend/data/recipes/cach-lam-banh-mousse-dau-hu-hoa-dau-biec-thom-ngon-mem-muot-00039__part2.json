@@ -1,0 +1,89 @@
+{
+  "source_id": "00039",
+  "name": "Mousse đậu hũ hoa đậu biếc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4dd3d0d6f00fca9f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-mousse-dau-hu-hoa-dau-biec-thom-ngon-mem-muot-00039",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-mousse-dau-hu-hoa-dau-biec-thom-ngon-mem-muot-00039",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu hũ non 200 gr",
+      "raw_name": "Đậu hũ non",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bánh quy 60 gr (tùy thích)",
+      "raw_name": "Bánh quy",
+      "quantity": 60,
+      "unit": "gr",
+      "note": "tùy thích",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bơ lạt 35 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 35,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hoa đậu biếc 22 gr",
+      "raw_name": "Hoa đậu biếc",
+      "quantity": 22,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Whipping cream 250 ml (kem sữa tươi)",
+      "raw_name": "Whipping cream",
+      "quantity": 250,
+      "unit": "ml",
+      "note": "kem sữa tươi",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sữa đậu nành 130 ml",
+      "raw_name": "Sữa đậu nành",
+      "quantity": 130,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 60 gr",
+      "raw_name": "Đường",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước 65 ml",
+      "raw_name": "Nước",
+      "quantity": 65,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:21:30Z",
+  "page_title": "3 cách làm bánh mousse hoa đậu biếc mềm mịn đẹp mắt vô cùng đơn giản",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookRecipe/Avatar/mousse-dau-hu-hoa-dau-biec-thumbnail.jpg"
+}

@@ -1,0 +1,79 @@
+{
+  "source_id": "07329",
+  "name": "Củ cải muối xào chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/10e3ed931f479227.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cu-cai-muoi-xao-chay-thom-ngon-la-vi-cho-bua-com-07329",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cu-cai-muoi-xao-chay-thom-ngon-la-vi-cho-bua-com-07329",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Củ cải muối 100 gr",
+      "raw_name": "Củ cải muối",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột ớt 1 muỗng cà phê",
+      "raw_name": "Bột ớt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước tương 1 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá 2 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt 1 trái",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng cà phê",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ bột ngọt/ tiêu/ muối)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ bột ngọt/ tiêu/ muối",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:35:07Z",
+  "page_title": "Cách làm củ cải muối xào chay thơm ngon lạ vị cho bữa cơm thêm phong phú",
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookProduct/ẢnhchụpMànhình2021-02-06lúc16.29.23-1200x676.jpg"
+}

@@ -1,0 +1,135 @@
+{
+  "source_id": "11415",
+  "name": "Bánh trung thu rau câu nhân khoai môn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3592515e374693eb.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-rau-cau-nhan-khoai-mon-dep-mat-thom-11415",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-rau-cau-nhan-khoai-mon-dep-mat-thom-11415",
+  "servings_text": "Cho 8 người ăn",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai môn 400 gr",
+      "raw_name": "Khoai môn",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Khoai lang tím 200 gr",
+      "raw_name": "Khoai lang tím",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng muối 4 cái",
+      "raw_name": "Trứng muối",
+      "quantity": 4,
+      "unit": "cái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột rau câu giòn 25 gr",
+      "raw_name": "Bột rau câu giòn",
+      "quantity": 25,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột mì đa dụng 20 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột bánh dẻo 20 gr",
+      "raw_name": "Bột bánh dẻo",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Mứt bí 2 muỗng cà phê",
+      "raw_name": "Mứt bí",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hạt dưa rang vàng 2 muỗng cà phê",
+      "raw_name": "Hạt dưa rang vàng",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Lá dứa 2 nhánh",
+      "raw_name": "Lá dứa",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Cà phê sữa 1.5 muỗng canh",
+      "raw_name": "Cà phê sữa",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước cốt dừa 2 muỗng canh",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu ăn 50 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Đường phèn 250 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Đường/ muối 1 ít",
+      "raw_name": "Đường/ muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T19:42:21Z",
+  "page_title": "Cách làm bánh trung thu rau câu nhân khoai môn đẹp mắt, thơm ngon, lạ vị",
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookProduct/Banhtrungthuraucaunhankhoaimon-1200x676.jpg"
+}

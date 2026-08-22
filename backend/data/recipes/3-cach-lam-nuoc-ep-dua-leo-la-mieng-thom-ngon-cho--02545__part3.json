@@ -1,0 +1,57 @@
+{
+  "source_id": "02545",
+  "name": "Nước ép dưa leo lê",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/714f6437bb99416f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nuoc-ep-dua-leo-la-mieng-thom-ngon-cho--02545",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nuoc-ep-dua-leo-la-mieng-thom-ngon-cho--02545",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa leo 2 trái",
+      "raw_name": "Dưa leo",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lê 2 trái",
+      "raw_name": "Lê",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:55:58Z",
+  "page_title": "5 cách làm nước ép dưa leo mát lạnh thanh nhiệt cho ngày hè oi ả",
+  "variant_index": 3,
+  "variant_count": 5,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/nuoc-ep-dua-leo-le-thumbnail-1.jpg"
+}

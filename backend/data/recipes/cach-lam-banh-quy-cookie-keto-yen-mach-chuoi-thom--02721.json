@@ -1,0 +1,79 @@
+{
+  "source_id": "02721",
+  "name": "Bánh quy cookie yến mạch chuối",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6bc46cf37713ac62.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-quy-cookie-keto-yen-mach-chuoi-thom--02721",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-quy-cookie-keto-yen-mach-chuoi-thom--02721",
+  "servings_text": "Cho 12 cái bánh",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Yến mạch cán vỡ 50 gr",
+      "raw_name": "Yến mạch cán vỡ",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Yến mạch cán dẹt 50 gr",
+      "raw_name": "Yến mạch cán dẹt",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chuối tiêu chín mềm 2 quả",
+      "raw_name": "Chuối tiêu chín mềm",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hạt chia 10 gr",
+      "raw_name": "Hạt chia",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hạt bí 10 gr",
+      "raw_name": "Hạt bí",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Vụn socola 10 gr",
+      "raw_name": "Vụn socola",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột cacao 2 muỗng cà phê",
+      "raw_name": "Bột cacao",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:09:09Z",
+  "page_title": "Cách làm bánh quy cookie yến mạch chuối thơm ngon, đơn giản, giảm cân",
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookDish/cach-lam-banh-quy-cookie-keto-yen-mach-chuoi-thom--avt-1200x676-1.jpg"
+}

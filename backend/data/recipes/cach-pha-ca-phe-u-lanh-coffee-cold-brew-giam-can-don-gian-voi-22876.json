@@ -1,0 +1,35 @@
+{
+  "source_id": "22876",
+  "name": "Cà phê ủ lạnh (coffee cold brew)",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/79fc9583f66191c6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-ca-phe-u-lanh-coffee-cold-brew-giam-can-don-gian-voi-22876",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-ca-phe-u-lanh-coffee-cold-brew-giam-can-don-gian-voi-22876",
+  "servings_text": "Cho 1.4 lít",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hạt cà phê 80 gr (hoặc dùng cà phê xay sẵn)",
+      "raw_name": "Hạt cà phê",
+      "quantity": 80,
+      "unit": "gr",
+      "note": "hoặc dùng cà phê xay sẵn",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước lọc 1.4 lít",
+      "raw_name": "Nước lọc 1.4 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:51:43Z",
+  "page_title": "Cách pha cà phê ủ lạnh (coffee cold brew) giảm cân đơn giản với bình đựng",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20%2812%29.jpg"
+}

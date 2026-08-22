@@ -1,0 +1,187 @@
+{
+  "source_id": "23947",
+  "name": "miến trộn xì dầu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/172c70ac15d12f41.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mien-tron-xi-dau-thom-ngon-chuan-vi-don-gian-tai-nha-23947",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mien-tron-xi-dau-thom-ngon-chuan-vi-don-gian-tai-nha-23947",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Miến dong 200 gr",
+      "raw_name": "Miến dong",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu đũa 150 gr",
+      "raw_name": "Đậu đũa",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cải xanh 150 gr",
+      "raw_name": "Cải xanh",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 100 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Xúc xích 2 cái",
+      "raw_name": "Xúc xích",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Thịt bò 250 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tây 120 gr",
+      "raw_name": "Hành tây",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt chuông 120 gr",
+      "raw_name": "Ớt chuông",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đầu hành lá 30 gr",
+      "raw_name": "Đầu hành lá",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tỏi 5 tép",
+      "raw_name": "Tỏi 5 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Mỡ lợn hoặc dầu ăn 20 gr",
+      "raw_name": "Mỡ lợn hoặc dầu ăn",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Ớt sừng hoặc ớt cay 10 gr",
+      "raw_name": "Ớt sừng hoặc ớt cay",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước tương xì dầu 80 ml",
+      "raw_name": "Nước tương xì dầu",
+      "quantity": 80,
+      "unit": "ml",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Đường 50 gr",
+      "raw_name": "Đường",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Giấm gạo 20 ml",
+      "raw_name": "Giấm gạo",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Nước lọc 150 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Dầu mè 5 gr",
+      "raw_name": "Dầu mè",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 17
+    },
+    {
+      "raw_text": "Bột năng 5 gr",
+      "raw_name": "Bột năng",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 18
+    },
+    {
+      "raw_text": "Mè rang 30 gr",
+      "raw_name": "Mè rang",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 19
+    },
+    {
+      "raw_text": "Hành phi 50 gr",
+      "raw_name": "Hành phi",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 20
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (bột nêm/ đường/ dầu hào/ dầu ăn/ nước tương xì dầu/ sa tế ớt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "bột nêm/ đường/ dầu hào/ dầu ăn/ nước tương xì dầu/ sa tế ớt",
+      "display_order": 21
+    }
+  ],
+  "scraped_at": "2026-08-19T20:32:19Z",
+  "page_title": "Cách làm miến trộn xì dầu thơm ngon, chuẩn vị, đơn giản tại nhà",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/mi%E1%BA%BFn%20tr%E1%BB%99n%20x%C3%AC%20d%E1%BA%A7u%201200x676.jpg"
+}

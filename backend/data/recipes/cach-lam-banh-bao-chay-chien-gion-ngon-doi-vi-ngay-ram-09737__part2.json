@@ -1,0 +1,90 @@
+{
+  "source_id": "09737",
+  "name": "Bánh bao chay chiên",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2d8b215c63e3d5c9.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-bao-chay-chien-gion-ngon-doi-vi-ngay-ram-09737",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-bao-chay-chien-gion-ngon-doi-vi-ngay-ram-09737",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì 260 gr",
+      "raw_name": "Bột mì",
+      "quantity": 260,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột ngô 40 gr",
+      "raw_name": "Bột ngô",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 60 gr",
+      "raw_name": "Đường",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Men ngọt 1 muỗng cà phê",
+      "raw_name": "Men ngọt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột nở 7 gr",
+      "raw_name": "Bột nở",
+      "quantity": 7,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 1 gr",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 170 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 170,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Sữa 150 gr",
+      "raw_name": "Sữa",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:38:15Z",
+  "page_title": "2 cách làm bánh bao chay chiên giòn ngon, đổi vị ngày rằm",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "công thức chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2022/05/CookRecipe/Avatar/banh-bao-chay-chien-cong-thuc-chia-se-tu-nguoi-dung-thumbnail.jpg"
+}

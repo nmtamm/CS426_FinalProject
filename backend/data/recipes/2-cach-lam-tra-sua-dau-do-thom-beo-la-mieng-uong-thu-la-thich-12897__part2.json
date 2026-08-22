@@ -1,0 +1,77 @@
+{
+  "source_id": "12897",
+  "name": "Trà sữa đậu đỏ sương sáo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e2dd708832dcbef4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-sua-dau-do-thom-beo-la-mieng-uong-thu-la-thich-12897",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-sua-dau-do-thom-beo-la-mieng-uong-thu-la-thich-12897",
+  "servings_text": "Cho 10 ly",
+  "topics": [
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà đen 200 gr",
+      "raw_name": "Trà đen",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu đỏ 200 gr",
+      "raw_name": "Đậu đỏ",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột sương sáo đen 50 gr (1 gói)",
+      "raw_name": "Bột sương sáo đen",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "1 gói",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa bột 700 gr",
+      "raw_name": "Sữa bột",
+      "quantity": 700,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường cát 900 gr",
+      "raw_name": "Đường cát",
+      "quantity": 900,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu chuối 10 ml",
+      "raw_name": "Dầu chuối",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:10:55Z",
+  "page_title": "2 cách làm trà sữa đậu đỏ thơm béo, lạ miệng uống thử là thích",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/tra-sua-dau-do-suong-sao-thumbnail-1.jpg"
+}

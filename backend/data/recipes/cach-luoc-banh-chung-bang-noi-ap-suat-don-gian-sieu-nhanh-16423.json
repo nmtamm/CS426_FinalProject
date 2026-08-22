@@ -1,0 +1,107 @@
+{
+  "source_id": "16423",
+  "name": "Luộc bánh chưng bằng nồi áp suất",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/220ea2e1af2455a1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-luoc-banh-chung-bang-noi-ap-suat-don-gian-sieu-nhanh-16423",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-luoc-banh-chung-bang-noi-ap-suat-don-gian-sieu-nhanh-16423",
+  "servings_text": "Cho 6 cái",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nếp 2 kg",
+      "raw_name": "Nếp",
+      "quantity": 2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu xanh 500 gr (bóc vỏ)",
+      "raw_name": "Đậu xanh",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "bóc vỏ",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Thịt ba rọi 750 gr",
+      "raw_name": "Thịt ba rọi",
+      "quantity": 750,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lá dứa 50 gr",
+      "raw_name": "Lá dứa",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cốt dừa 600 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 600,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Trứng muối 12 quả (đã hấp chín)",
+      "raw_name": "Trứng muối",
+      "quantity": 12,
+      "unit": "quả",
+      "note": "đã hấp chín",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Giấm 2 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành tím 100 gr (băm nhỏ)",
+      "raw_name": "Hành tím",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "băm nhỏ",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rượu trắng 1 muỗng canh",
+      "raw_name": "Rượu trắng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Muối/ Tiêu xay 1 ít",
+      "raw_name": "Muối/ Tiêu xay",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T19:39:04Z",
+  "page_title": "Cách luộc bánh chưng bằng nồi áp suất đơn giản siêu nhanh chuẩn bị ngày Tết",
+  "original_image_url": "https://cdn.tgdd.vn/2022/01/CookDish/cach-luoc-banh-chung-bang-noi-ap-suat-don-gian-sieu-nhanh-avt-1200x676.jpg"
+}

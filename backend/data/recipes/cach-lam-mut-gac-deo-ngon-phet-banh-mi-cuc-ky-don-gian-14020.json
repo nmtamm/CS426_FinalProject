@@ -1,0 +1,43 @@
+{
+  "source_id": "14020",
+  "name": "Mứt gấc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/66b76ad6d88c4d36.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-gac-deo-ngon-phet-banh-mi-cuc-ky-don-gian-14020",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-gac-deo-ngon-phet-banh-mi-cuc-ky-don-gian-14020",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gấc chín 1 quả",
+      "raw_name": "Gấc chín",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường nâu 200 gr",
+      "raw_name": "Đường nâu",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dầu ô liu 2 muỗng cà phê",
+      "raw_name": "Dầu ô liu",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T20:17:39Z",
+  "page_title": "Cách làm mứt gấc dẻo ngon phết bánh mì cực kỳ đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-mut-gac-deo-ngon-phet-banh-mi-cuc-ky-don-gian-avt-1200x676-1.jpg"
+}

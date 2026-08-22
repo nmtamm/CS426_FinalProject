@@ -1,0 +1,63 @@
+{
+  "source_id": "23793",
+  "name": "Mắm đu đủ chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c5797dd4d4bc39fd.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mam-du-du-chay-chua-ngot-de-lau-van-gion-ngon-23793",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mam-du-du-chay-chua-ngot-de-lau-van-gion-ngon-23793",
+  "servings_text": "Cho 2-3 người ăn",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đu đủ 500 gr",
+      "raw_name": "Đu đủ",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước mắm chay 100 ml",
+      "raw_name": "Nước mắm chay",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường thốt nốt 100 gr",
+      "raw_name": "Đường thốt nốt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ít ớt 1 trái",
+      "raw_name": "Ít ớt",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T18:34:54Z",
+  "page_title": "Cách làm mắm đu đủ chay chua ngọt, để lâu vẫn giòn ngon",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/cach-lam-mam-du-du-chay1.jpg"
+}

@@ -1,0 +1,87 @@
+{
+  "source_id": "03825",
+  "name": "Sủi cảo chiên nhân phô mai",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/40fb9445afc4b37b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sui-cao-chien-nhan-pho-mai-beo-ngay-thom-ngon-gion-03825",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sui-cao-chien-nhan-pho-mai-beo-ngay-thom-ngon-gion-03825",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Vỏ sủi cảo 30 gr",
+      "raw_name": "Vỏ sủi cảo",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ức gà 300 gr",
+      "raw_name": "Ức gà",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bắp nếp 200 gr",
+      "raw_name": "Bắp nếp",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường trắng 20 gr",
+      "raw_name": "Đường trắng",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 4 gr",
+      "raw_name": "Muối",
+      "quantity": 4,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tiêu 2 gr",
+      "raw_name": "Tiêu",
+      "quantity": 2,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gừng 10 gr",
+      "raw_name": "Gừng",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Phô mai 5 miếng",
+      "raw_name": "Phô mai 5 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:25:48Z",
+  "page_title": "Cách làm sủi cảo chiên nhân phô mai béo ngậy, thơm ngon giòn rụm",
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookProduct/recipe40786-cook-step4-636779909680526548-1200x676.jpg"
+}

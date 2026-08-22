@@ -1,0 +1,157 @@
+{
+  "source_id": "01028",
+  "name": "Gỏi mực xoài xanh chiên giòn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a1c2d51e95e2a385.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-cach-lam-goi-muc-tuoi-xoai-xanh-la-mieng-01028",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-cach-lam-goi-muc-tuoi-xoai-xanh-la-mieng-01028",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mực 1 con (khoảng 1.2kg)",
+      "raw_name": "Mực 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 1.2kg",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xoài keo xanh 1 trái",
+      "raw_name": "Xoài keo xanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tôm khô 100 gr",
+      "raw_name": "Tôm khô",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột gạo 50 gr",
+      "raw_name": "Bột gạo",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Húng lũi 5 nhánh",
+      "raw_name": "Húng lũi",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Cần tây 3 nhánh",
+      "raw_name": "Cần tây",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ngò gai 3 nhánh",
+      "raw_name": "Ngò gai",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành tím 5 củ",
+      "raw_name": "Hành tím",
+      "quantity": 5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tỏi 5 tép",
+      "raw_name": "Tỏi 5 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Chanh 3 quả",
+      "raw_name": "Chanh",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Ớt sừng 2 quả",
+      "raw_name": "Ớt sừng",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Ớt hiểm 4 quả (xanh hoặc đỏ tùy thích)",
+      "raw_name": "Ớt hiểm",
+      "quantity": 4,
+      "unit": "quả",
+      "note": "xanh hoặc đỏ tùy thích",
+      "display_order": 12
+    },
+    {
+      "raw_text": "Bột nghệ 1 muỗng canh",
+      "raw_name": "Bột nghệ",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Ớt bột 1 muỗng canh",
+      "raw_name": "Ớt bột",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Dầu ăn 5 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ đường/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ đường/ bột ngọt",
+      "display_order": 17
+    }
+  ],
+  "scraped_at": "2026-08-19T18:01:50Z",
+  "page_title": "2 cách làm gỏi mực xoài xanh lạ miệng thơm ngon giải ngán tại nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/1200-2.jpg"
+}

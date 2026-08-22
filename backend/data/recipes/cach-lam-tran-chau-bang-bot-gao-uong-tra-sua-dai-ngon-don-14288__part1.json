@@ -1,0 +1,49 @@
+{
+  "source_id": "14288",
+  "name": "Trân châu đường đen bằng bột gạo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ced241e548c07da0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tran-chau-bang-bot-gao-uong-tra-sua-dai-ngon-don-14288",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tran-chau-bang-bot-gao-uong-tra-sua-dai-ngon-don-14288",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột gạo 102 gr",
+      "raw_name": "Bột gạo",
+      "quantity": 102,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường đen 137 gr",
+      "raw_name": "Đường đen",
+      "quantity": 137,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước lọc 185 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 185,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:49:37Z",
+  "page_title": "2 cách làm trân châu bằng bột gạo uống trà sữa dai ngon đơn giản tại nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/tran-chau-duong-den-bang-bot-gao-thumbnail-2.jpg"
+}

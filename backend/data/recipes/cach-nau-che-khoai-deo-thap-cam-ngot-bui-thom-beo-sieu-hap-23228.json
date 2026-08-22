@@ -1,0 +1,127 @@
+{
+  "source_id": "23228",
+  "name": "Chè khoai dẻo thập cẩm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/91e29aba85c5418c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-che-khoai-deo-thap-cam-ngot-bui-thom-beo-sieu-hap-23228",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-che-khoai-deo-thap-cam-ngot-bui-thom-beo-sieu-hap-23228",
+  "servings_text": "Cho 4 - 6 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-che",
+      "name": "Món chè"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bí đỏ hồ lô 300 gr",
+      "raw_name": "Bí đỏ hồ lô",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Khoai lang 150 gr (ruột vàng)",
+      "raw_name": "Khoai lang",
+      "quantity": 150,
+      "unit": "gr",
+      "note": "ruột vàng",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột năng 150 gr",
+      "raw_name": "Bột năng",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột nếp 100 gr",
+      "raw_name": "Bột nếp",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đậu xanh không vỏ 50 gr",
+      "raw_name": "Đậu xanh không vỏ",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước cốt lá dứa đậm đặc 80 ml",
+      "raw_name": "Nước cốt lá dứa đậm đặc",
+      "quantity": 80,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước lá cẩm 80 ml",
+      "raw_name": "Nước lá cẩm",
+      "quantity": 80,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước cốt dừa 250 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 250,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường cát 150 gr (có thể điều chỉnh)",
+      "raw_name": "Đường cát",
+      "quantity": 150,
+      "unit": "gr",
+      "note": "có thể điều chỉnh",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Lá dứa 4 lá",
+      "raw_name": "Lá dứa",
+      "quantity": 4,
+      "unit": "lá",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đậu phộng rang 1 ít",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Mè rang 1 ít (tùy thích)",
+      "raw_name": "Mè rang",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "tùy thích",
+      "display_order": 12
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T20:14:30Z",
+  "page_title": "Cách nấu chè khoai dẻo thập cẩm ngọt bùi, thơm béo siêu hấp dẫn tại nhà",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20thumb%20to%20t8%20-%202025-09-20T014709.912.jpg"
+}

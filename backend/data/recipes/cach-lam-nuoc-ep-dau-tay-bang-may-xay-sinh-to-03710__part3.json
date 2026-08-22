@@ -1,0 +1,57 @@
+{
+  "source_id": "03710",
+  "name": "Nước ép dâu tây lựu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d845856f8a8d9c45.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-dau-tay-bang-may-xay-sinh-to-03710",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-dau-tay-bang-may-xay-sinh-to-03710",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dâu tây 150 gr",
+      "raw_name": "Dâu tây",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lựu 1 quả (khoảng 300gr)",
+      "raw_name": "Lựu",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "khoảng 300gr",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá bạc hà 5 lá",
+      "raw_name": "Lá bạc hà",
+      "quantity": 5,
+      "unit": "lá",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước lọc 100 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:54:38Z",
+  "page_title": "4 cách làm nước ép dâu tây bằng máy xay sinh tố chua ngọt đẹp da",
+  "variant_index": 3,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/nuoc-ep-dau-tay-luu-thumbnail-1.jpg"
+}

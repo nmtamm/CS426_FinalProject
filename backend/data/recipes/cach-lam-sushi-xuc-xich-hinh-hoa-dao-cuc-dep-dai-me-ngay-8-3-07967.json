@@ -1,0 +1,79 @@
+{
+  "source_id": "07967",
+  "name": "Sushi xúc xích hình hoa đào",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f6ecf45bba20acce.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sushi-xuc-xich-hinh-hoa-dao-cuc-dep-dai-me-ngay-8-3-07967",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sushi-xuc-xich-hinh-hoa-dao-cuc-dep-dai-me-ngay-8-3-07967",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thanh long ruột đỏ 1 quả",
+      "raw_name": "Thanh long ruột đỏ",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rong biển khô 2 miếng",
+      "raw_name": "Rong biển khô 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cơm chín 2 chén",
+      "raw_name": "Cơm chín",
+      "quantity": 2,
+      "unit": "chén",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cải bó xôi 5 cây",
+      "raw_name": "Cải bó xôi",
+      "quantity": 5,
+      "unit": "cây",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Xúc xích phô mai 1.5 cây",
+      "raw_name": "Xúc xích phô mai",
+      "quantity": 1.5,
+      "unit": "cây",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Giấm ăn 1 muỗng canh",
+      "raw_name": "Giấm ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường/ muối 1 ít",
+      "raw_name": "Đường/ muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:36:07Z",
+  "page_title": "Cách làm sushi xúc xích hình hoa đào cực đẹp đãi mẹ ngày 8/3",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/Sushixucxichhinhhoadao(1)-1200x676-2.jpg"
+}

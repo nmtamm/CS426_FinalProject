@@ -1,0 +1,57 @@
+{
+  "source_id": "08677",
+  "name": "Hạt lựu từ bột báng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/206fa9c85139d3c3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-hat-luu-don-gian-tu-bot-bang-nen-thu-tai-nha-08677",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-hat-luu-don-gian-tu-bot-bang-nen-thu-tai-nha-08677",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-che",
+      "name": "Món chè"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Củ dền 1 củ",
+      "raw_name": "Củ dền",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột năng 5 muỗng canh",
+      "raw_name": "Bột năng",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột báng 3 muỗng canh",
+      "raw_name": "Bột báng",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 3 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:21:39Z",
+  "page_title": "2 cách làm hạt lựu từ bột năng và bột báng nấu chè giòn ngon cực đơn giản",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/hạt-lụu-tù-bọt-báng-thumbnail.jpg"
+}

@@ -1,0 +1,159 @@
+{
+  "source_id": "02899",
+  "name": "Cháo gỏi gà chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/72563a69d281cf3c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-chao-goi-ga-chay-thom-ngon-cho-nhung-ngay-mua-lanh-02899",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-chao-goi-ga-chay-thom-ngon-cho-nhung-ngay-mua-lanh-02899",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-chao",
+      "name": "Món cháo"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gạo 1 chén",
+      "raw_name": "Gạo",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hạt bắp 1 chén",
+      "raw_name": "Hạt bắp",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hạt sen 1/2 chén",
+      "raw_name": "Hạt sen",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nấm rơm 1 chén",
+      "raw_name": "Nấm rơm",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cà rốt 2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Khoai sọ 5 củ",
+      "raw_name": "Khoai sọ",
+      "quantity": 5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bắp chuối 1 cây",
+      "raw_name": "Bắp chuối",
+      "quantity": 1,
+      "unit": "cây",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Chuối cây 50 gr",
+      "raw_name": "Chuối cây",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Chanh 4 trái",
+      "raw_name": "Chanh",
+      "quantity": 4,
+      "unit": "trái",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Ớt sừng 2 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Hành lá 20 gr",
+      "raw_name": "Hành lá",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Rau răm 20 gr",
+      "raw_name": "Rau răm",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Ngò rí 20 gr",
+      "raw_name": "Ngò rí",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Nước mắm chay 3 muỗng canh",
+      "raw_name": "Nước mắm chay",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Hạt nêm chay 2 muỗng canh",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Muối 1 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Tiêu xay 1 muỗng cà phê",
+      "raw_name": "Tiêu xay",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 17
+    }
+  ],
+  "scraped_at": "2026-08-19T18:47:51Z",
+  "page_title": "Cách nấu cháo gỏi gà chay thơm ngon cho những ngày mưa lạnh thêm ấm áp",
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookProduct/300-1200x676.jpg"
+}

@@ -1,0 +1,129 @@
+{
+  "source_id": "04311",
+  "name": "Rau củ viên sốt thịt bằm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3ff9daf123b3cfff.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-rau-cu-vien-thom-ngon-don-gian-cho-bua-com-gia-04311",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-rau-cu-vien-thom-ngon-don-gian-cho-bua-com-gia-04311",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt heo băm 400 gr",
+      "raw_name": "Thịt heo băm",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu đũa 200 gr",
+      "raw_name": "Đậu đũa",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 200 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Khoai tây 200 gr",
+      "raw_name": "Khoai tây",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt chuông đỏ 30 gr",
+      "raw_name": "Ớt chuông đỏ",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành lá 30 gr",
+      "raw_name": "Hành lá",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gừng 10 gr",
+      "raw_name": "Gừng",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột năng 3 muỗng canh",
+      "raw_name": "Bột năng",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước tương 2 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu hào 2 muỗng cà phê",
+      "raw_name": "Dầu hào",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Đường 2 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước lọc 120 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 120,
+      "unit": "ml",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T19:06:25Z",
+  "page_title": "2 cách làm rau củ viên thơm ngon đơn giản cho bữa cơm gia đình",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/rau-cu-vien-sot-thit-bam-thumbnail.jpg"
+}

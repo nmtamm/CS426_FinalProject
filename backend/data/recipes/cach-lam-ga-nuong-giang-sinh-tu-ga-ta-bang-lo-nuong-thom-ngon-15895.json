@@ -1,0 +1,127 @@
+{
+  "source_id": "15895",
+  "name": "Gà nướng Giáng sinh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/807d0642c77504c6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-nuong-giang-sinh-tu-ga-ta-bang-lo-nuong-thom-ngon-15895",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-nuong-giang-sinh-tu-ga-ta-bang-lo-nuong-thom-ngon-15895",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà 1 con (khoảng 1.7 - 2kg)",
+      "raw_name": "Gà 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 1.7 - 2kg",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bơ lạt 2 muỗng canh",
+      "raw_name": "Bơ lạt",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu cô ve 300 gr (đậu que)",
+      "raw_name": "Đậu cô ve",
+      "quantity": 300,
+      "unit": "gr",
+      "note": "đậu que",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Khoai tây 500 gr (khoảng 3 củ)",
+      "raw_name": "Khoai tây",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "khoảng 3 củ",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cà rốt 500 gr (khoảng 2 củ)",
+      "raw_name": "Cà rốt",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "khoảng 2 củ",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rau mùi tây 300 gr (Parsley)",
+      "raw_name": "Rau mùi tây",
+      "quantity": 300,
+      "unit": "gr",
+      "note": "Parsley",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tây 2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành tím 3 củ",
+      "raw_name": "Hành tím",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tỏi 3 tép",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Mật ong 3 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước cốt chanh 3 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Hạt nêm/ muối/ bột ngọt/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Hạt nêm/ muối/ bột ngọt/ tiêu xay",
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T18:17:46Z",
+  "page_title": "Cách làm gà nướng Giáng sinh từ gà ta bằng lò nướng thơm ngon, mềm ngọt",
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookDish/cach-lam-ga-nuong-giang-sinh-tu-ga-ta-bang-lo-nuong-thom-ngon-avt-1200x676.jpg"
+}

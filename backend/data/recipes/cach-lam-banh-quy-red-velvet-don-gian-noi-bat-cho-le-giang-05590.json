@@ -1,0 +1,115 @@
+{
+  "source_id": "05590",
+  "name": "Bánh quy red velvet",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/461d7aff4f23078c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-quy-red-velvet-don-gian-noi-bat-cho-le-giang-05590",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-quy-red-velvet-don-gian-noi-bat-cho-le-giang-05590",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì đa dụng 210 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 210,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bơ lạt 115 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 115,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Socola trắng 100 gr",
+      "raw_name": "Socola trắng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột cacao nguyên chất 25 gr",
+      "raw_name": "Bột cacao nguyên chất",
+      "quantity": 25,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột baking soda 6 gr",
+      "raw_name": "Bột baking soda",
+      "quantity": 6,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Màu thực phẩm đỏ 5 ml",
+      "raw_name": "Màu thực phẩm đỏ",
+      "quantity": 5,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 muỗng cà phê",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Chiết xuất vani 1 muỗng cà phê",
+      "raw_name": "Chiết xuất vani",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đường bột 60 gr",
+      "raw_name": "Đường bột",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đường 200 gr",
+      "raw_name": "Đường",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Muối 3 gr",
+      "raw_name": "Muối",
+      "quantity": 3,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T19:43:30Z",
+  "page_title": "Cách làm bánh quy red velvet đơn giản, nổi bật cho lễ Giáng Sinh",
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookProduct/10ChristmasCookies11-55screenshot1200-1200x676-1.jpg"
+}

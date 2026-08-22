@@ -1,0 +1,67 @@
+{
+  "source_id": "23773",
+  "name": "Trà bí đao tươi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/db74af5a23c6a7d4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-tra-bi-dao-tuoi-don-gian-ngot-thanh-tu-nhien-giai-23773",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-tra-bi-dao-tuoi-don-gian-ngot-thanh-tu-nhien-giai-23773",
+  "servings_text": "Cho 5 lít trà bí đao tươi",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bí đao 2.5 kg",
+      "raw_name": "Bí đao",
+      "quantity": 2.5,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường phèn 500 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá dứa 200 gr",
+      "raw_name": "Lá dứa",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trái La hán 2 quả",
+      "raw_name": "Trái La hán",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Thục địa 50 gr",
+      "raw_name": "Thục địa",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:47:12Z",
+  "page_title": "Cách nấu trà bí đao tươi đơn giản, ngọt thanh tự nhiên, giải nhiệt mùa nóng",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/cach-nau-tra-bi-dao-tuoi1-.jpg"
+}

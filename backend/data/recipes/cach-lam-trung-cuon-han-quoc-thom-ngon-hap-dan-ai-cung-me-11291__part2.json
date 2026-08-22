@@ -1,0 +1,69 @@
+{
+  "source_id": "11291",
+  "name": "Trứng cuộn Hàn Quốc xúc xích",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1d02e1b1fd8c19c1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-trung-cuon-han-quoc-thom-ngon-hap-dan-ai-cung-me-11291",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-trung-cuon-han-quoc-thom-ngon-hap-dan-ai-cung-me-11291",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trứng gà 3 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt nguội 1 lát",
+      "raw_name": "Thịt nguội 1 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1/3 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.333,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá 3 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối/ tiêu xay 1 ít",
+      "raw_name": "Muối/ tiêu xay",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:33:04Z",
+  "page_title": "2 cách làm trứng cuộn Hàn Quốc thơm ngon hấp dẫn ai cũng mê",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookRecipe/Avatar/trung-cuon-han-quoc-xuc-xich-thumbnail.jpg"
+}

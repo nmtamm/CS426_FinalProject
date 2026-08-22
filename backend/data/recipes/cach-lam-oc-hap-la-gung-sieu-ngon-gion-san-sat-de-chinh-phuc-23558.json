@@ -1,0 +1,119 @@
+{
+  "source_id": "23558",
+  "name": "Ốc hấp lá gừng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4bc10292ed96bed8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-oc-hap-la-gung-sieu-ngon-gion-san-sat-de-chinh-phuc-23558",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-oc-hap-la-gung-sieu-ngon-gion-san-sat-de-chinh-phuc-23558",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt ốc băm 500 gr",
+      "raw_name": "Thịt ốc băm",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nạc vai xay 200 gr",
+      "raw_name": "Nạc vai xay",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Giò sống 200 gr",
+      "raw_name": "Giò sống",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mỡ thăn xay 100 gr",
+      "raw_name": "Mỡ thăn xay",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Mộc nhĩ băm 15 gr",
+      "raw_name": "Mộc nhĩ băm",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nấm hương băm 15 gr",
+      "raw_name": "Nấm hương băm",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành khô băm 2 củ",
+      "raw_name": "Hành khô băm",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tỏi băm 2 nhánh",
+      "raw_name": "Tỏi băm",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gừng băm 2 lát",
+      "raw_name": "Gừng băm 2 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ mì chính/ hạt nêm/ tiêu đen)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ mì chính/ hạt nêm/ tiêu đen",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Lá gừng/ lá chanh/ gừng 1 ít",
+      "raw_name": "Lá gừng/ lá chanh/ gừng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu ăn 3 thìa",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "thìa",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:54:45Z",
+  "page_title": "Cách làm ốc hấp lá gừng siêu ngon giòn sần sật để chinh phục mọi thực khách",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20m%C3%B3n%20an%20t11%20%281200%20x%20676%20px%29%20-%202025-11-27T171506.808.jpg"
+}

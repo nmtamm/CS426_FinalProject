@@ -1,0 +1,79 @@
+{
+  "source_id": "11913",
+  "name": "Canh bí đao nấu nấm bào ngư",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6a066d7565f035f3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-canh-bi-dao-nau-nam-bao-ngu-ngon-ngot-chay-man-deu-11913",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-canh-bi-dao-nau-nam-bao-ngu-ngon-ngot-chay-man-deu-11913",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-canh",
+      "name": "Món canh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nấm bào ngư 100 gr",
+      "raw_name": "Nấm bào ngư",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bí đao 1 trái (khoảng 200 - 300gr)",
+      "raw_name": "Bí đao",
+      "quantity": 1,
+      "unit": "trái",
+      "note": "khoảng 200 - 300gr",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt 2 trái",
+      "raw_name": "Ớt",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá/ ngò rí 2 nhánh",
+      "raw_name": "Hành lá/ ngò rí",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 1/2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hạt nêm chay 1.5 muỗng cà phê",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 1.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ tiêu xay/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ tiêu xay/ bột ngọt",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:49:30Z",
+  "page_title": "Cách nấu canh bí đao nấu nấm bào ngư ngon ngọt chay mặn đều dùng được",
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookProduct/1200-1200x676-64.jpg"
+}

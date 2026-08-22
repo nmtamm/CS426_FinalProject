@@ -1,0 +1,95 @@
+{
+  "source_id": "23670",
+  "name": "Sốt chấm gà nướng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6fde909b4d992e59.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-sot-cham-ga-nuong-ngon-ba-chay-chuan-vi-nhu-nha-23670",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-sot-cham-ga-nuong-ngon-ba-chay-chuan-vi-nhu-nha-23670",
+  "servings_text": "Cho 2,5 kg sốt chấm",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ớt Đà Lạt 600 gr (ớt ngọt)",
+      "raw_name": "Ớt Đà Lạt",
+      "quantity": 600,
+      "unit": "gr",
+      "note": "ớt ngọt",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt chỉ thiên 100 gr",
+      "raw_name": "Ớt chỉ thiên",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá húng chó 50 gr (húng quế)",
+      "raw_name": "Lá húng chó",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "húng quế",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa Ông Thọ 500 gr",
+      "raw_name": "Sữa Ông Thọ",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột chanh Knorr 180 gr",
+      "raw_name": "Bột chanh Knorr",
+      "quantity": 180,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Mì chính 400 gr (Bột ngọt)",
+      "raw_name": "Mì chính",
+      "quantity": 400,
+      "unit": "gr",
+      "note": "Bột ngọt",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 400 gr",
+      "raw_name": "Đường",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 180 gr",
+      "raw_name": "Muối",
+      "quantity": 180,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước lọc 180 gr",
+      "raw_name": "Nước lọc",
+      "quantity": 180,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:04:35Z",
+  "page_title": "Cách làm nước sốt chấm gà nướng ngon bá cháy, chuẩn vị như nhà hàng",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/sot-cham-ga-nuong-1200x676.jpg"
+}

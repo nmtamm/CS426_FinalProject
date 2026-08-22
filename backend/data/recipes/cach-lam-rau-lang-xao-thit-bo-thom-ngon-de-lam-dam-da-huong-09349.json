@@ -1,0 +1,79 @@
+{
+  "source_id": "09349",
+  "name": "Rau lang xào thịt bò",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7ea638ff327c1c42.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-rau-lang-xao-thit-bo-thom-ngon-de-lam-dam-da-huong-09349",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-rau-lang-xao-thit-bo-thom-ngon-de-lam-dam-da-huong-09349",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rau lang 300 gr",
+      "raw_name": "Rau lang",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt bò 200 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 4 tép",
+      "raw_name": "Tỏi 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng cà phê",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (hạt nêm/ muối/ bột ngọt/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hạt nêm/ muối/ bột ngọt/ tiêu xay",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:27:29Z",
+  "page_title": "Cách làm rau lang xào thịt bò cực ngon, cực đơn giản cho gia đình",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/Cachlamraulangxaothitbocucngoncucdongianchogiadinh-1200x676.jpg"
+}

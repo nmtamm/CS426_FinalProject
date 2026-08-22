@@ -1,0 +1,99 @@
+{
+  "source_id": "06217",
+  "name": "Chả bong bóng heo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ed33318fc8cfb2ba.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-pate-bong-bong-heo-dai-gion-san-sat-doi-vi-cho-06217",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-pate-bong-bong-heo-dai-gion-san-sat-doi-vi-cho-06217",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt nạc đùi heo 1.5 kg",
+      "raw_name": "Thịt nạc đùi heo",
+      "quantity": 1.5,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bong bóng heo 1 cái (lớn)",
+      "raw_name": "Bong bóng heo",
+      "quantity": 1,
+      "unit": "cái",
+      "note": "lớn",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Da heo 1 kg",
+      "raw_name": "Da heo",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột hồng cúc 2 muỗng cà phê",
+      "raw_name": "Bột hồng cúc",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rượu gạo 1 muỗng canh",
+      "raw_name": "Rượu gạo",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 5 củ",
+      "raw_name": "Tỏi",
+      "quantity": 5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tím 1 củ",
+      "raw_name": "Hành tím",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Giấm 1 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tiêu đen 1 muỗng canh",
+      "raw_name": "Tiêu đen",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ muối/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ muối/ tiêu xay",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T19:38:55Z",
+  "page_title": "Cách làm chả (pate) bong bóng heo dai giòn sần sật đổi vị cho ngày Tết",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/1200676-1200x675.jpg"
+}

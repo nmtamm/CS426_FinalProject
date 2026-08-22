@@ -1,0 +1,53 @@
+{
+  "source_id": "13586",
+  "name": "Chanh dây sữa chua",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/af4571b0b22654a4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-chanh-day-sua-va-chanh-day-sua-chua-sang-khoai-mat-13586",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-chanh-day-sua-va-chanh-day-sua-chua-sang-khoai-mat-13586",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Siro chanh dây 20 ml",
+      "raw_name": "Siro chanh dây",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa chua không đường 1 hộp",
+      "raw_name": "Sữa chua không đường",
+      "quantity": 1,
+      "unit": "hộp",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đặc 10 ml",
+      "raw_name": "Sữa đặc",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đá xay 2/3 ly",
+      "raw_name": "Đá xay 2/3 ly",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:00:54Z",
+  "page_title": "2 cách làm chanh dây sữa và chanh dây sữa chua sảng khoái mát lạnh",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/chanh-day-sua-chua-thumbnail.jpg"
+}

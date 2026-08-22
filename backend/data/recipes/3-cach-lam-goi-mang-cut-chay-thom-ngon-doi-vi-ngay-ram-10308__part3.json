@@ -1,0 +1,142 @@
+{
+  "source_id": "10308",
+  "name": "Gỏi măng cụt chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5bf989eb613dd24b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-goi-mang-cut-chay-thom-ngon-doi-vi-ngay-ram-10308",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-goi-mang-cut-chay-thom-ngon-doi-vi-ngay-ram-10308",
+  "servings_text": "Cho 3 người ăn",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Măng cụt gọt vỏ 300 gram",
+      "raw_name": "Măng cụt gọt vỏ 300 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sườn non chay 100 gram",
+      "raw_name": "Sườn non chay 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nấm bào ngư 200 gram",
+      "raw_name": "Nấm bào ngư 200 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tây 50 gram",
+      "raw_name": "Hành tây 50 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt sừng 10 gram",
+      "raw_name": "Ớt sừng 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rau răm 20 gram",
+      "raw_name": "Rau răm 20 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Húng lủi 20 gram",
+      "raw_name": "Húng lủi 20 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Húng quế 20 gram",
+      "raw_name": "Húng quế 20 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ngò rí 20 gram",
+      "raw_name": "Ngò rí 20 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hành Boara phi 5 gram",
+      "raw_name": "Hành Boara phi 5 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước cốt tắc 2 muỗng canh",
+      "raw_name": "Nước cốt tắc",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Đường 100 gram",
+      "raw_name": "Đường 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước mắm chay 50 ml",
+      "raw_name": "Nước mắm chay",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Tương ớt 75 gram",
+      "raw_name": "Tương ớt 75 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Nước tắc 35 ml",
+      "raw_name": "Nước tắc",
+      "quantity": 35,
+      "unit": "ml",
+      "note": null,
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T17:57:01Z",
+  "page_title": "3 cách làm gỏi măng cụt chay thơm ngon, đổi vị ngày rằm",
+  "variant_index": 3,
+  "variant_count": 3,
+  "note": "công thức từ kênh tiktok Bếp chay XANH",
+  "original_image_url": "https://cdn.tgdd.vn/2023/06/CookRecipe/Avatar/goi-mang-cut-chay-cong-thuc-khac-thumbnail-1.jpg"
+}

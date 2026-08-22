@@ -1,0 +1,147 @@
+{
+  "source_id": "04548",
+  "name": "Gỏi ếch cóc xanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/418715cf064ebf21.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-ech-coc-xanh-chua-chua-ngot-ngot-la-mieng-hap-04548",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-ech-coc-xanh-chua-chua-ngot-ngot-la-mieng-hap-04548",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đùi ếch 300 gr",
+      "raw_name": "Đùi ếch",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cóc xanh 250 gr",
+      "raw_name": "Cóc xanh",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá cóc non 10 lá",
+      "raw_name": "Lá cóc non",
+      "quantity": 10,
+      "unit": "lá",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tôm khô 30 gr",
+      "raw_name": "Tôm khô",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tây 1/4 củ",
+      "raw_name": "Hành tây",
+      "quantity": 0.25,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rau răm 10 gr",
+      "raw_name": "Rau răm",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bánh phồng tôm 100 gr",
+      "raw_name": "Bánh phồng tôm",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành tím 5 củ (băm nhỏ)",
+      "raw_name": "Hành tím",
+      "quantity": 5,
+      "unit": "củ",
+      "note": "băm nhỏ",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ớt hiểm 2 trái (băm nhỏ)",
+      "raw_name": "Ớt hiểm",
+      "quantity": 2,
+      "unit": "trái",
+      "note": "băm nhỏ",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Ớt sừng 1 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Sả 3 nhánh (băm nhỏ)",
+      "raw_name": "Sả",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": "băm nhỏ",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Tỏi 5 tép (băm nhỏ)",
+      "raw_name": "Tỏi 5 tép",
+      "quantity": null,
+      "unit": null,
+      "note": "băm nhỏ",
+      "display_order": 12
+    },
+    {
+      "raw_text": "Mè rang 30 gr",
+      "raw_name": "Mè rang",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Cốt chanh 1 muỗng canh",
+      "raw_name": "Cốt chanh",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/muối/hạt nêm/tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/muối/hạt nêm/tiêu",
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T18:02:51Z",
+  "page_title": "Cách làm gỏi ếch cóc xanh chua chua ngọt ngọt lạ miệng hấp dẫn",
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookProduct/CachlamGOIECHCOCXANHkhaivihoanhaoMONNGONMOINGAY3-4screenshot-1200x676.jpg"
+}

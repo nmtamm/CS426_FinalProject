@@ -1,0 +1,179 @@
+{
+  "source_id": "18128",
+  "name": "Cách làm đậu hủ bao bố hạt sen sốt xí muội",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0f7e1515759c213e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-hu-bao-bo-hat-sen-sot-xi-muoi-giai-ngay-ngay-18128",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-hu-bao-bo-hat-sen-sot-xi-muoi-giai-ngay-ngay-18128",
+  "servings_text": "Cho 2 - 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu hủ chiên 5 miếng",
+      "raw_name": "Đậu hủ chiên 5 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm đông cô cắt hạt lựu nhỏ 5 cái",
+      "raw_name": "Nấm đông cô cắt hạt lựu nhỏ",
+      "quantity": 5,
+      "unit": "cái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nấm mèo cắt nhỏ 2 cái",
+      "raw_name": "Nấm mèo cắt nhỏ",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sắn cắt hạt lựu nhỏ 1/2 củ",
+      "raw_name": "Sắn cắt hạt lựu nhỏ",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cà rốt cắt hạt lựu nhỏ 1/2 củ",
+      "raw_name": "Cà rốt cắt hạt lựu nhỏ",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bún tàu cắt nhỏ 20 gram (1 lọn)",
+      "raw_name": "Bún tàu cắt nhỏ 20 gram",
+      "quantity": null,
+      "unit": null,
+      "note": "1 lọn",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành boaro cắt nhỏ 2 muỗng canh",
+      "raw_name": "Hành boaro cắt nhỏ",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hạt sen hấp chính 10 gr",
+      "raw_name": "Hạt sen hấp chính",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hẹ trụng sơ 5 cái",
+      "raw_name": "Hẹ trụng sơ",
+      "quantity": 5,
+      "unit": "cái",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Hạt nêm chay 2 muỗng canh",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Tiêu 1 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Tương xí muội 2 muỗng canh",
+      "raw_name": "Tương xí muội",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Tương cà 2 muỗng canh",
+      "raw_name": "Tương cà",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Nước tương 1 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Xí muội băm 2 muỗng canh",
+      "raw_name": "Xí muội băm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Đường 4 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 17
+    },
+    {
+      "raw_text": "Giấm 2 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 18
+    },
+    {
+      "raw_text": "Màu gạch tôm 1/2 muỗng cà phê",
+      "raw_name": "Màu gạch tôm",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 19
+    },
+    {
+      "raw_text": "Nước lọc 1 chén",
+      "raw_name": "Nước lọc",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 20
+    }
+  ],
+  "scraped_at": "2026-08-19T18:47:00Z",
+  "page_title": "Cách làm đậu hũ bao bố hạt sen sốt xí muội đơn giản, giải ngấy",
+  "original_image_url": "https://cdn.tgdd.vn/2022/09/CookDish/cach-lam-dau-hu-bao-bo-hat-sen-sot-xi-muoi-giai-ngay-ngay-avt-1200x676.jpg"
+}

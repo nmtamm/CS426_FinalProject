@@ -1,0 +1,123 @@
+{
+  "source_id": "07578",
+  "name": "Bánh tráng chiên trứng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b55d5b085b3eb6ab.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trang-chien-trung-don-gian-thom-ngon-an-la-07578",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trang-chien-trung-don-gian-thom-ngon-an-la-07578",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh tráng 150 gr",
+      "raw_name": "Bánh tráng",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng 3 quả",
+      "raw_name": "Trứng",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rau răm 20 gr",
+      "raw_name": "Rau răm",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối tôm 1 muỗng cà phê",
+      "raw_name": "Muối tôm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ruốc sấy 2 muỗng cà phê",
+      "raw_name": "Ruốc sấy",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Me vàng 500 g",
+      "raw_name": "Me vàng",
+      "quantity": 500,
+      "unit": "g",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước 500 ml",
+      "raw_name": "Nước",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gừng 30 g",
+      "raw_name": "Gừng",
+      "quantity": 30,
+      "unit": "g",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước mắm 150 ml",
+      "raw_name": "Nước mắm",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tương ớt 50 g",
+      "raw_name": "Tương ớt",
+      "quantity": 50,
+      "unit": "g",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Tương ớt xí muội 50 g",
+      "raw_name": "Tương ớt xí muội",
+      "quantity": 50,
+      "unit": "g",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Đường 750 g",
+      "raw_name": "Đường",
+      "quantity": 750,
+      "unit": "g",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T19:22:11Z",
+  "page_title": "Cách làm bánh tráng chiên trứng đơn giản thơm ngon ăn là ghiền",
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookProduct/CACHLAMBANHeeCHIENTRUNGCHAMSOTMECHUANGOT-CKK0-31screenshot-1200x675.jpg"
+}

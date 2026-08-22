@@ -1,0 +1,79 @@
+{
+  "source_id": "01397",
+  "name": "Cua viên chiên xù",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bc548d51ea3bed09.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cua-vien-chien-xu-ngon-nhu-ngoai-hang-de-lam-01397",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cua-vien-chien-xu-ngon-nhu-ngoai-hang-de-lam-01397",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt cua băm 300 gr",
+      "raw_name": "Thịt cua băm",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt tôm băm 200 gr",
+      "raw_name": "Thịt tôm băm",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Khoai tây sấy 250 gr",
+      "raw_name": "Khoai tây sấy",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Khoai tây 3 củ",
+      "raw_name": "Khoai tây",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột mì 100 gr",
+      "raw_name": "Bột mì",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Trứng gà. 2 quả",
+      "raw_name": "Trứng gà.",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị 30 gr (muối/ đường/ hạt nêm/ dầu ăn/ tiêu xay...)",
+      "raw_name": "Gia vị",
+      "quantity": 30,
+      "unit": "gr",
+      "note": "muối/ đường/ hạt nêm/ dầu ăn/ tiêu xay...",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:28:18Z",
+  "page_title": "Cách làm cua viên chiên xù ngon như ngoài hàng mà dễ làm",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2019/09/27/1202362/-video-cach-lam-cua-vien-chien-xu-ngon-nhu-ngoai-hang-ma-de-lam-760x367.jpg"
+}

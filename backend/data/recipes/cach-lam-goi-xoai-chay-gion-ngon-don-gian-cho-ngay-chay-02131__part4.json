@@ -1,0 +1,113 @@
+{
+  "source_id": "02131",
+  "name": "Gỏi xoài nấm kim châm chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/03a7b7be9a0cc5f8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-xoai-chay-gion-ngon-don-gian-cho-ngay-chay-02131",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-xoai-chay-gion-ngon-don-gian-cho-ngay-chay-02131",
+  "servings_text": "Cho 2- 3 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    },
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nấm kim châm 150 gr",
+      "raw_name": "Nấm kim châm",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xoài xanh 200 gr",
+      "raw_name": "Xoài xanh",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 100 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ngò rí 1 ít",
+      "raw_name": "Ngò rí",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tắc 2 trái",
+      "raw_name": "Tắc",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt 1 trái",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành phi 1 muỗng canh",
+      "raw_name": "Hành phi",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đậu phộng rang 1 ít",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước tương 1/2 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Muối 1/3 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.333,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T17:57:38Z",
+  "page_title": "5 cách làm gỏi xoài chay giòn ngon đơn giản cho ngày chay thanh đạm",
+  "variant_index": 4,
+  "variant_count": 5,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/goi-xoai-nam-kim-cham-chay-thumbnail.jpg"
+}

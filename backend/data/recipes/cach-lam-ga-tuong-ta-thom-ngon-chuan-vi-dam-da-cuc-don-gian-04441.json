@@ -1,0 +1,167 @@
+{
+  "source_id": "04441",
+  "name": "Gà tướng tả",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/806bb1b3706923c9.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-tuong-ta-thom-ngon-chuan-vi-dam-da-cuc-don-gian-04441",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-tuong-ta-thom-ngon-chuan-vi-dam-da-cuc-don-gian-04441",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Phi lê ức gà 400 gr",
+      "raw_name": "Phi lê ức gà",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột mì đa dụng 100 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột bắp 1/2 muỗng canh",
+      "raw_name": "Bột bắp",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột chiên xù 200 gr",
+      "raw_name": "Bột chiên xù",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gừng băm 1 muỗng canh",
+      "raw_name": "Gừng băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi băm 4 tép",
+      "raw_name": "Tỏi băm 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt băm 2 trái",
+      "raw_name": "Ớt băm",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Xì dầu 3 muỗng canh",
+      "raw_name": "Xì dầu",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đường 2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu mè 1 muỗng canh",
+      "raw_name": "Dầu mè",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Sốt Hoisin 1.5 muỗng canh",
+      "raw_name": "Sốt Hoisin",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Vỏ chanh bào 3 gr",
+      "raw_name": "Vỏ chanh bào",
+      "quantity": 3,
+      "unit": "gr",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Nước 200 ml",
+      "raw_name": "Nước",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Mè rang 5 gr",
+      "raw_name": "Mè rang",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Hành boa rô 5 gr",
+      "raw_name": "Hành boa rô",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 17
+    },
+    {
+      "raw_text": "Ngò 5 gr",
+      "raw_name": "Ngò",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 18
+    }
+  ],
+  "scraped_at": "2026-08-19T18:10:09Z",
+  "page_title": "Cách làm gà tướng tả thơm ngon chuẩn vị đậm đà cực đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookProduct/cach-lam-ga-tuong-ta-thom-ngon-chuan-vi-dam-da-cuc-don-gian-CN-1200x676.jpg"
+}

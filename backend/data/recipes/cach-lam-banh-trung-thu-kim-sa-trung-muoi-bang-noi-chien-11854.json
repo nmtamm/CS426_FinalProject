@@ -1,0 +1,139 @@
+{
+  "source_id": "11854",
+  "name": "Bánh trung thu kim sa trứng muối bằng nồi chiên không dầu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9105bfdf12247ddb.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-kim-sa-trung-muoi-bang-noi-chien-11854",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-kim-sa-trung-muoi-bang-noi-chien-11854",
+  "servings_text": "Cho 8 cái bánh",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột cake flour 100 gr (hoặc bột mì số 8)",
+      "raw_name": "Bột cake flour",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "hoặc bột mì số 8",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước đường bánh nướng 36 gr",
+      "raw_name": "Nước đường bánh nướng",
+      "quantity": 36,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nhân cốm dừa 80 gr",
+      "raw_name": "Nhân cốm dừa",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nhân hạt sen 80 gr",
+      "raw_name": "Nhân hạt sen",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lòng đỏ trứng muối 70 gr (7 cái)",
+      "raw_name": "Lòng đỏ trứng muối",
+      "quantity": 70,
+      "unit": "gr",
+      "note": "7 cái",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lòng đỏ trứng gà 1 cái",
+      "raw_name": "Lòng đỏ trứng gà",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột custard 40 gr",
+      "raw_name": "Bột custard",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột gelatin 8 gr",
+      "raw_name": "Bột gelatin",
+      "quantity": 8,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột sữa 35 gr",
+      "raw_name": "Bột sữa",
+      "quantity": 35,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đường bột 35 gr",
+      "raw_name": "Đường bột",
+      "quantity": 35,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Bơ lạt 101 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 101,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Sữa đặc 95 gr",
+      "raw_name": "Sữa đặc",
+      "quantity": 95,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước cốt dừa 4 muỗng canh",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Rượu mai quế lộ 100 ml",
+      "raw_name": "Rượu mai quế lộ",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Dầu ăn 10 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T19:33:36Z",
+  "page_title": "Cách làm bánh trung thu kim sa trứng muối bằng nồi chiên không dầu",
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookProduct/HUONG-DAN-LAM-BANH-TRUNG-THU-KIM-SA-TRUNG-MUOI-CHAY---noi-chien-khong-dau-5-58-screenshot-1200x676.jpg"
+}

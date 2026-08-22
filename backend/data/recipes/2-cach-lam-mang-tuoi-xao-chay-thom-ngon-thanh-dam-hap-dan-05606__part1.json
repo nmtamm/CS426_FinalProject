@@ -1,0 +1,93 @@
+{
+  "source_id": "05606",
+  "name": "Măng xào nấm bào ngư",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0ba09db80419f121.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mang-tuoi-xao-chay-thom-ngon-thanh-dam-hap-dan-05606",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mang-tuoi-xao-chay-thom-ngon-thanh-dam-hap-dan-05606",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Măng tươi 300 gr",
+      "raw_name": "Măng tươi",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm bào ngư 100 gr",
+      "raw_name": "Nấm bào ngư",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cần tây 20 gr",
+      "raw_name": "Cần tây",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đầu hành boa rô 20 gr (cắt nhỏ)",
+      "raw_name": "Đầu hành boa rô",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "cắt nhỏ",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước tương 1 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng cà phê",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 15 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 15,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hạt nêm chay 1/2 muỗng cà phê",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường trắng 1 muỗng cà phê",
+      "raw_name": "Đường trắng",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:51:00Z",
+  "page_title": "2 cách làm măng tươi xào chay thơm ngon, thanh đạm hấp dẫn",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookRecipe/Avatar/mang-xao-nam-bao-ngu-thumbnail.jpg"
+}

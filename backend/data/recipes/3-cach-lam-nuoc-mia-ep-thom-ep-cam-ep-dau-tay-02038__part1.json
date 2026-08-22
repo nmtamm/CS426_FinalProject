@@ -1,0 +1,41 @@
+{
+  "source_id": "02038",
+  "name": "Nước mía ép thơm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5f5c3239d83f2fae.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nuoc-mia-ep-thom-ep-cam-ep-dau-tay-02038",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nuoc-mia-ep-thom-ep-cam-ep-dau-tay-02038",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nước mía 400 ml",
+      "raw_name": "Nước mía",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thơm 1/4 trái",
+      "raw_name": "Thơm",
+      "quantity": 0.25,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T20:01:55Z",
+  "page_title": "3 cách làm nước mía ép với thơm, cam, dâu tây ngọt, mát xua cái nóng mùa hè",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/nuoc-mia-ep-thom-thumbnail-1.jpg"
+}

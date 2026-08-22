@@ -1,0 +1,93 @@
+{
+  "source_id": "11459",
+  "name": "Sinh tố mít sữa chua",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3ef777d08c8a5b84.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sinh-to-mit-thom-ngon-ngot-ngao-don-gian-tai-nha-11459",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sinh-to-mit-thom-ngon-ngot-ngao-don-gian-tai-nha-11459",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mít 300 gr",
+      "raw_name": "Mít",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa đặc 1 muỗng canh",
+      "raw_name": "Sữa đặc",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa tươi 100 ml (không đường hoặc có đường)",
+      "raw_name": "Sữa tươi",
+      "quantity": 100,
+      "unit": "ml",
+      "note": "không đường hoặc có đường",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa chua 1 hộp",
+      "raw_name": "Sữa chua",
+      "quantity": 1,
+      "unit": "hộp",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Mật ong 1 muỗng cà phê",
+      "raw_name": "Mật ong",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước cốt chanh dây 50 ml",
+      "raw_name": "Nước cốt chanh dây",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 1/4 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đá lạnh 1 ít",
+      "raw_name": "Đá lạnh",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T20:08:53Z",
+  "page_title": "4 cách làm sinh tố mít thơm ngon, ngọt ngào đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/sinh-to-mit-sua-chua-thumbnail-1.jpg"
+}

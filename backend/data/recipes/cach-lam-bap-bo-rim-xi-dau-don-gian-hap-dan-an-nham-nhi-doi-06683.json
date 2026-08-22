@@ -1,0 +1,123 @@
+{
+  "source_id": "06683",
+  "name": "Bắp bò rim xì dầu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/decdd260ff076ea0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bap-bo-rim-xi-dau-don-gian-hap-dan-an-nham-nhi-doi-06683",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bap-bo-rim-xi-dau-don-gian-hap-dan-an-nham-nhi-doi-06683",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bắp bò 500 gr",
+      "raw_name": "Bắp bò",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bánh mì 2 cái",
+      "raw_name": "Bánh mì",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt sừng 4 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 4,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ngò rí 1 nhánh",
+      "raw_name": "Ngò rí",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hoa hồi 5 gr",
+      "raw_name": "Hoa hồi",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tím 5 củ",
+      "raw_name": "Hành tím",
+      "quantity": 5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tỏi 2 tép",
+      "raw_name": "Tỏi 2 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ngũ vị hương 1 ít",
+      "raw_name": "Ngũ vị hương",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Xì dầu 3 muỗng canh",
+      "raw_name": "Xì dầu",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu hào 3 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (hạt nêm/ đường/ bột ngọt/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hạt nêm/ đường/ bột ngọt/ tiêu xay",
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T18:29:29Z",
+  "page_title": "Cách làm bắp bò rim xì dầu hấp dẫn và đơn giản đổi khẩu vị cho cả nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookDish/cach-lam-bap-bo-rim-xi-dau-don-gian-hap-dan-an-nham-nhi-doi-avt-1200x676.jpg"
+}

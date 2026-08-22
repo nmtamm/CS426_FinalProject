@@ -1,0 +1,35 @@
+{
+  "source_id": "23474",
+  "name": "Cá thu muối dùi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e68635f8767ecbd6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cac-lam-ca-thu-muoi-dui-don-gian-tai-nha-an-toan-ve-sinh-23474",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cac-lam-ca-thu-muoi-dui-don-gian-tai-nha-an-toan-ve-sinh-23474",
+  "servings_text": "Cho 5 con cá thu tươi",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cá thu 5 con (nguyên con)",
+      "raw_name": "Cá thu 5 con",
+      "quantity": null,
+      "unit": null,
+      "note": "nguyên con",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối hột 16 kg",
+      "raw_name": "Muối hột",
+      "quantity": 16,
+      "unit": "kg",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T20:26:02Z",
+  "page_title": "Cách làm cá thu muối dùi đơn giản tại nhà an toàn vệ sinh",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/cac-lam-ca-thu-muoi-dui-don-gian-tai-nha-an-toan-ve-sinh.jpg"
+}

@@ -1,0 +1,82 @@
+{
+  "source_id": "00613",
+  "name": "Ốc bươu nhồi thịt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/34c9d45be7f36d32.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-oc-buou-nhoi-thit-thom-ngon-an-mai-van-them-00613",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-oc-buou-nhoi-thit-thom-ngon-an-mai-van-them-00613",
+  "servings_text": "Cho 1 - 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ốc bươu 500 gr",
+      "raw_name": "Ốc bươu",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt xay 200 gr",
+      "raw_name": "Thịt xay",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Giò sống 100 gr",
+      "raw_name": "Giò sống",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mộc nhĩ 50 gr",
+      "raw_name": "Mộc nhĩ",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nguyên liệu thông dụng 1 ít (gừng/tỏi/hành tím/sả)",
+      "raw_name": "Nguyên liệu thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "gừng/tỏi/hành tím/sả",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (hạt nêm/tiêu/nước mắm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hạt nêm/tiêu/nước mắm",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Lá chanh 1 ít",
+      "raw_name": "Lá chanh",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:11:27Z",
+  "page_title": "3 Cách làm ốc bươu nhồi thịt hấp sả thơm ngon, càng ăn càng mê",
+  "variant_index": 3,
+  "variant_count": 3,
+  "note": "Công thức được chia sẻ từ Tiktok vào bếp cùng Điện máy XANh",
+  "original_image_url": "https://cdn.tgdd.vn/2023/06/CookRecipe/Avatar/oc-buou-nhoi-thit-cong-thuc-duoc-chia-se-tu-tiktok-vao-bep-cung-dien-may-xanh-thumbnail-1.jpg"
+}

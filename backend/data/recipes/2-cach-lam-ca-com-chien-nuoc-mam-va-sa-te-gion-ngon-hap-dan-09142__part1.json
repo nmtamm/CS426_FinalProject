@@ -1,0 +1,113 @@
+{
+  "source_id": "09142",
+  "name": "Cá cơm chiên nước mắm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/87e212c7eaea7511.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-ca-com-chien-nuoc-mam-va-sa-te-gion-ngon-hap-dan-09142",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-ca-com-chien-nuoc-mam-va-sa-te-gion-ngon-hap-dan-09142",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cá cơm 400 gr",
+      "raw_name": "Cá cơm",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tỏi 5 tép (băm nhuyễn)",
+      "raw_name": "Tỏi 5 tép",
+      "quantity": null,
+      "unit": null,
+      "note": "băm nhuyễn",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt 1 trái (băm nhuyễn)",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "trái",
+      "note": "băm nhuyễn",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mè rang 1 ít",
+      "raw_name": "Mè rang",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột điều màu 1/2 muỗng cà phê",
+      "raw_name": "Bột điều màu",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột tỏi 1/2 muỗng cà phê",
+      "raw_name": "Bột tỏi",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột chiên giòn 100 gr",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 250 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 250,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ bột ngọt/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ bột ngọt/ tiêu xay",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T19:11:35Z",
+  "page_title": "2 cách làm cá cơm chiên nước mắm và sa tế giòn ngon, hấp dẫn, ăn là mê",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookRecipe/Avatar/ca-com-chien-nuoc-mam-thumbnail.jpg"
+}

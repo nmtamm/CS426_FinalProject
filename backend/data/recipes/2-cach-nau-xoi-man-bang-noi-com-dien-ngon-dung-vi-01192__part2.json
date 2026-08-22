@@ -1,0 +1,53 @@
+{
+  "source_id": "01192",
+  "name": "Xôi mặn gà xé",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3d8d8a4525c82973.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-xoi-man-bang-noi-com-dien-ngon-dung-vi-01192",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-xoi-man-bang-noi-com-dien-ngon-dung-vi-01192",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gạo nếp 300 gr",
+      "raw_name": "Gạo nếp",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gà nhỏ 1/2 con",
+      "raw_name": "Gà nhỏ 1/2 con",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lạp xưởng 2 cây",
+      "raw_name": "Lạp xưởng",
+      "quantity": 2,
+      "unit": "cây",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:30:14Z",
+  "page_title": "2 cách nấu xôi mặn bằng nồi cơm điện ngon đúng vị ngoài hàng cực dễ làm",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/xoi-man-ga-xe-thumbnail.jpg"
+}

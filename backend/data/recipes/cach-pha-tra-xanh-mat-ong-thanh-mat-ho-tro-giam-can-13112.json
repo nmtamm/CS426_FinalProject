@@ -1,0 +1,59 @@
+{
+  "source_id": "13112",
+  "name": "Trà xanh mật ong",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/21e7b20077ec8da0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-tra-xanh-mat-ong-thanh-mat-ho-tro-giam-can-13112",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-tra-xanh-mat-ong-thanh-mat-ho-tro-giam-can-13112",
+  "servings_text": "Cho 2 - 3 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lá trà xanh tươi 500 gr",
+      "raw_name": "Lá trà xanh tươi",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường phèn 100 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mật ong 10 ml",
+      "raw_name": "Mật ong",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tắc 4 quả",
+      "raw_name": "Tắc",
+      "quantity": 4,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước lọc 2 lít",
+      "raw_name": "Nước lọc 2 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:58:41Z",
+  "page_title": "Cách pha trà xanh mật ong thanh mát hỗ trợ giảm cân",
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookProduct/thumb-1200x676-2.jpg"
+}

@@ -1,0 +1,27 @@
+{
+  "source_id": "23449",
+  "name": "Cá trích phile",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6cc5719343712582.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-trich-phile-de-tron-goi-va-che-bien-ca-trich-ep-23449",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-trich-phile-de-tron-goi-va-che-bien-ca-trich-ep-23449",
+  "servings_text": "Cho 1kg cá trích tươi",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cá trích tươi 1 kg",
+      "raw_name": "Cá trích tươi",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    }
+  ],
+  "scraped_at": "2026-08-19T17:51:25Z",
+  "page_title": "Cách làm cá trích phile để trộn gỏi và chế biến cá trích ép trứng tại nhà",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/cach-lam-ca-trich-phile-de-tron-goi-va-che-bien-ca-trich.jpg"
+}

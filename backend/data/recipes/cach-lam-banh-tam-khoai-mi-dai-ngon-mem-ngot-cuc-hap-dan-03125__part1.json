@@ -1,0 +1,97 @@
+{
+  "source_id": "03125",
+  "name": "Bánh tằm khoai mì",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f8c29c207a3a1e5f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-tam-khoai-mi-dai-ngon-mem-ngot-cuc-hap-dan-03125",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-tam-khoai-mi-dai-ngon-mem-ngot-cuc-hap-dan-03125",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai mì 2 kg",
+      "raw_name": "Khoai mì",
+      "quantity": 2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột năng 100 gr",
+      "raw_name": "Bột năng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dừa nạo 200 gr",
+      "raw_name": "Dừa nạo",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước cốt dừa 100 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cốt dành dành 20 ml",
+      "raw_name": "Nước cốt dành dành",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước cốt lá dứa 20 ml",
+      "raw_name": "Nước cốt lá dứa",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Chuối lá 1 lá",
+      "raw_name": "Chuối lá",
+      "quantity": 1,
+      "unit": "lá",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường trắng 150 gr",
+      "raw_name": "Đường trắng",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:15:37Z",
+  "page_title": "2 Cách làm bánh tằm khoai mì dai ngon, mềm ngọt cực hấp dẫn",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://img.youtube.com/vi/-TnuxUH4v_M/maxresdefault.jpg"
+}

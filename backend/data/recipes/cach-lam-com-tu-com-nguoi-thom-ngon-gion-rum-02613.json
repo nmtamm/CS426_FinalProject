@@ -1,0 +1,55 @@
+{
+  "source_id": "02613",
+  "name": "Cốm từ cơm nguội",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9d7da17eeac6c6c2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-com-tu-com-nguoi-thom-ngon-gion-rum-02613",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-com-tu-com-nguoi-thom-ngon-gion-rum-02613",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cơm nguội 4 chén",
+      "raw_name": "Cơm nguội",
+      "quantity": 4,
+      "unit": "chén",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 muỗng cà phê",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gừng 20 gr",
+      "raw_name": "Gừng",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 3 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:04:17Z",
+  "page_title": "Cách làm cốm từ cơm nguội thơm ngon giòn rụm đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/05/29/1259292/cach-lam-com-tu-com-nguoi-thom-ngon-gion-rum-don-g-10-760x367.jpg"
+}

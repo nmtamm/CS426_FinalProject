@@ -1,0 +1,53 @@
+{
+  "source_id": "04847",
+  "name": "Snack dưa leo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a83ab15e0ae5ad60.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-snack-rau-cu-gion-rum-nham-nhi-cuc-ngon-mieng-04847",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-snack-rau-cu-gion-rum-nham-nhi-cuc-ngon-mieng-04847",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa leo 300 gr",
+      "raw_name": "Dưa leo",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Giấm táo 20 ml",
+      "raw_name": "Giấm táo",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dầu oliu 20 ml",
+      "raw_name": "Dầu oliu",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 10 gr",
+      "raw_name": "Muối",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:07:01Z",
+  "page_title": "4 cách làm snack rau củ giòn rụm nhâm nhi cực ngon miệng",
+  "variant_index": 3,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookRecipe/Avatar/snack-dua-leo-thumbnail.jpg"
+}

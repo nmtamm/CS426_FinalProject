@@ -1,0 +1,103 @@
+{
+  "source_id": "02612",
+  "name": "Bánh tart trứng phô mai chà bông xúc xích",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5ac3b45f69e3c1f6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-tart-trung-pho-mai-cha-bong-xuc-xich-02612",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-tart-trung-pho-mai-cha-bong-xuc-xich-02612",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Vỏ bánh tart 9 cái",
+      "raw_name": "Vỏ bánh tart",
+      "quantity": 9,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng gà 3 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Xúc xích 50 gr",
+      "raw_name": "Xúc xích",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chà bông 10 gr",
+      "raw_name": "Chà bông",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Phô mai Mozzarella 50 gr",
+      "raw_name": "Phô mai Mozzarella",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Whipping cream 70 ml",
+      "raw_name": "Whipping cream",
+      "quantity": 70,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Sữa tươi không đường 200 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột bắp 1 muỗng canh",
+      "raw_name": "Bột bắp",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đường trắng 2 muỗng canh",
+      "raw_name": "Đường trắng",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T19:24:42Z",
+  "page_title": "Cách làm bánh tart trứng phô mai chà bông xúc xích dễ làm ngon khó cưỡng",
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookProduct/Untitled-1-1200x676-20.jpg"
+}

@@ -1,0 +1,117 @@
+{
+  "source_id": "14849",
+  "name": "Pate gan",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4e72154e21f3863b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-pate-gan-ngon-nhat-tai-nha-vua-nhanh-vua-de-chang-14849",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-pate-gan-ngon-nhat-tai-nha-vua-nhanh-vua-de-chang-14849",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gan heo 500 gr",
+      "raw_name": "Gan heo",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt heo xay 300 gr",
+      "raw_name": "Thịt heo xay",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mỡ heo 100 gr",
+      "raw_name": "Mỡ heo",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bánh mì sandwich 10 lát",
+      "raw_name": "Bánh mì sandwich 10 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sữa tươi 220 ml (không đường)",
+      "raw_name": "Sữa tươi",
+      "quantity": 220,
+      "unit": "ml",
+      "note": "không đường",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 4 tép",
+      "raw_name": "Tỏi 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tím 5 củ",
+      "raw_name": "Hành tím",
+      "quantity": 5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bơ lạt 1 muỗng canh",
+      "raw_name": "Bơ lạt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ngò rí 1 ít",
+      "raw_name": "Ngò rí",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ muối/ hạt nêm/ tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ muối/ hạt nêm/ tiêu",
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T19:06:19Z",
+  "page_title": "Cách làm pate gan ngon tại nhà, vừa nhanh vừa dễ chẳng cần ra ngoài mua",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://img.youtube.com/vi/JK4aCQ5MbNc/maxresdefault.jpg"
+}

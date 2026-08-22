@@ -1,0 +1,87 @@
+{
+  "source_id": "23539",
+  "name": "Bánh bò bằng bột gạo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8c13a8992a97d13e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-bo-bang-bot-gao-mem-xop-nhieu-re-tre-khong-bi-23539",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-bo-bang-bot-gao-mem-xop-nhieu-re-tre-khong-bi-23539",
+  "servings_text": "Cho 1 bánh bò khuôn 22cm",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột gạo tẻ 200 gr",
+      "raw_name": "Bột gạo tẻ",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột năng 50 gr",
+      "raw_name": "Bột năng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường thốt nốt 150 gr (có thể dùng 200gr nếu thích ngọt)",
+      "raw_name": "Đường thốt nốt",
+      "quantity": 150,
+      "unit": "gr",
+      "note": "có thể dùng 200gr nếu thích ngọt",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước dừa tươi 200 ml (nhồi bột)",
+      "raw_name": "Nước dừa tươi",
+      "quantity": 200,
+      "unit": "ml",
+      "note": "nhồi bột",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước dừa tươi 200 ml (nấu đường)",
+      "raw_name": "Nước dừa tươi",
+      "quantity": 200,
+      "unit": "ml",
+      "note": "nấu đường",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Men khô 3 gr (1 muỗng cà phê men nở khô men ngọt)",
+      "raw_name": "Men khô",
+      "quantity": 3,
+      "unit": "gr",
+      "note": "1 muỗng cà phê men nở khô men ngọt",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối 1/3 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.333,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:54:51Z",
+  "page_title": "Cách làm bánh bò bằng bột gạo mềm xốp nhiều rễ tre không bị cứng",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/cach-lam-banh-bo-bang-bot-gao-mem-xop-nhieu-re-tre-khong-bi.jpg"
+}

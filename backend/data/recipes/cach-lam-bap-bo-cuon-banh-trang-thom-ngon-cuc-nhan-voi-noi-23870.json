@@ -1,0 +1,103 @@
+{
+  "source_id": "23870",
+  "name": "Bắp bò cuốn bánh tráng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e25598f00d6252e6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bap-bo-cuon-banh-trang-thom-ngon-cuc-nhan-voi-noi-23870",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bap-bo-cuon-banh-trang-thom-ngon-cuc-nhan-voi-noi-23870",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bắp bò 500 gr",
+      "raw_name": "Bắp bò",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lá tía tô 100 gr (tùy chỉnh)",
+      "raw_name": "Lá tía tô",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "tùy chỉnh",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tây 1/2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mắm nêm 100 gr (khoảng 1/2 chai 175gr)",
+      "raw_name": "Mắm nêm",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "khoảng 1/2 chai 175gr",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sa tế 1 muỗng canh",
+      "raw_name": "Sa tế",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Khóm băm 1/2 chén (thơm)",
+      "raw_name": "Khóm băm",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": "thơm",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Sả ớt băm 1/2 chén",
+      "raw_name": "Sả ớt băm",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rau gia vị thông dụng 1 ít (gừng/ hành lá/ ớt tươi/ sả thái mỏng)",
+      "raw_name": "Rau gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "gừng/ hành lá/ ớt tươi/ sả thái mỏng",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (hạt nêm/ đường/ dầu hào/ dầu ăn/ nước cốt tắc)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hạt nêm/ đường/ dầu hào/ dầu ăn/ nước cốt tắc",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:20:39Z",
+  "page_title": "Cách làm bắp bò cuốn bánh tráng thơm ngon cực nhàn với nồi lẩu điện đa năng",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/B%E1%BA%AFp%20b%C3%B2%20cu%E1%BB%91n%20b%C3%A1nh%20tr%C3%A1ng%201200x676.jpg"
+}

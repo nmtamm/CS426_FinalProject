@@ -1,0 +1,47 @@
+{
+  "source_id": "02284",
+  "name": "Mứt dừa gấc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a544921bee6d8ee1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-dua-gac-non-ngon-kho-dep-mat-cho-ng-02284",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-dua-gac-non-ngon-kho-dep-mat-cho-ng-02284",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dừa non 1 kg",
+      "raw_name": "Dừa non",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 500 gr",
+      "raw_name": "Đường",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gấc 1 quả (khoảng 200 - 300gr)",
+      "raw_name": "Gấc",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "khoảng 200 - 300gr",
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:27:30Z",
+  "page_title": "Cách làm mứt dừa gấc non ngon, khô, đẹp mắt cho ngày Tết",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/05/05/1253639/cach-lam-mut-dua-gac-non-ngon-kho-dep-mat-cho-ng-2-760x367.jpg"
+}

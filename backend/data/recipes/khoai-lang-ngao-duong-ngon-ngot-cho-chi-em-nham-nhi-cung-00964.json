@@ -1,0 +1,59 @@
+{
+  "source_id": "00964",
+  "name": "Khoai lang ngào đường",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/af13b0fd206c67aa.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/khoai-lang-ngao-duong-ngon-ngot-cho-chi-em-nham-nhi-cung-00964",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/khoai-lang-ngao-duong-ngon-ngot-cho-chi-em-nham-nhi-cung-00964",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai lang 500 gr (khoai lang mật)",
+      "raw_name": "Khoai lang",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "khoai lang mật",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chanh 1/2 quả",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường vàng 200 gr",
+      "raw_name": "Đường vàng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước lọc 200 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:03:22Z",
+  "page_title": "Cách làm khoai lang ngào đường dẻo bùi, vàng ươm ngọt lịm ăn là mê",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookDish/khoai-lang-ngao-duong-ngon-ngot-cho-chi-em-nham-nhi-cung-avt-1200x676.jpg"
+}

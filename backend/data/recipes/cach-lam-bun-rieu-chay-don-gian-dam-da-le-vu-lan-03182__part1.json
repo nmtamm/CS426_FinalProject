@@ -1,0 +1,142 @@
+{
+  "source_id": "03182",
+  "name": "Bún riêu chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/719469042025eb1e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bun-rieu-chay-don-gian-dam-da-le-vu-lan-03182",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bun-rieu-chay-don-gian-dam-da-le-vu-lan-03182",
+  "servings_text": "Cho 6 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bún tươi 300 gr",
+      "raw_name": "Bún tươi",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa đậu nành 1 lít (mua sẵn hoặc tự xay)",
+      "raw_name": "Sữa đậu nành 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": "mua sẵn hoặc tự xay",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1 củ (cắt khúc)",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "cắt khúc",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Củ cải trắng 1 củ (cắt khúc)",
+      "raw_name": "Củ cải trắng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "cắt khúc",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đậu hũ chiên 1 miếng",
+      "raw_name": "Đậu hũ chiên 1 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Chả chay 100 gr",
+      "raw_name": "Chả chay",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nấm rơm 200 gr",
+      "raw_name": "Nấm rơm",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nấm bào ngư 100 gr",
+      "raw_name": "Nấm bào ngư",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hành boa rô 1 nhánh",
+      "raw_name": "Hành boa rô",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Rau sống ăn kèm 100 gr (giá đỗ/ bắp chuối/ rau muống bào)",
+      "raw_name": "Rau sống ăn kèm",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "giá đỗ/ bắp chuối/ rau muống bào",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu màu điều 3 muỗng canh",
+      "raw_name": "Dầu màu điều",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Hạt nêm chay 2 muỗng canh",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (bột ngọt/ muối/ đường/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "bột ngọt/ muối/ đường/ tiêu xay",
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T18:47:03Z",
+  "page_title": "3 cách nấu bún riêu chay từ đậu hũ đậm đà đơn giản cho bữa ăn thanh vị",
+  "variant_index": 1,
+  "variant_count": 3,
+  "note": "công thức chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookRecipe/Avatar/bun-rieu-chay-cong-thuc-chia-se-tu-nguoi-dung-thumbnail.jpg"
+}

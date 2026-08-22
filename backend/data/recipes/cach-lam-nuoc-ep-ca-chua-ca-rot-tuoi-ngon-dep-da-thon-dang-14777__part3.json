@@ -1,0 +1,53 @@
+{
+  "source_id": "14777",
+  "name": "Nước ép cà chua cà rốt dưa leo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5373e33573e54576.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-ca-chua-ca-rot-tuoi-ngon-dep-da-thon-dang-14777",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-ca-chua-ca-rot-tuoi-ngon-dep-da-thon-dang-14777",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cà rốt 2 củ (nhỏ)",
+      "raw_name": "Cà rốt",
+      "quantity": 2,
+      "unit": "củ",
+      "note": "nhỏ",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà chua 2 trái",
+      "raw_name": "Cà chua",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dưa leo 1 trái",
+      "raw_name": "Dưa leo",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước lọc 120 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 120,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:12:12Z",
+  "page_title": "4 cách làm nước ép cà chua cà rốt tươi ngon đẹp da thon dáng tại nhà",
+  "variant_index": 3,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/nuoc-ep-ca-chua-ca-rot-dua-leo-thumbnail.jpg"
+}

@@ -1,0 +1,95 @@
+{
+  "source_id": "00418",
+  "name": "Yogurt chiffon cupcake",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3078b192a427171a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/yogurt-chiffon-cupcake-mem-min-thom-mui-sua-chua-00418",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/yogurt-chiffon-cupcake-mem-min-thom-mui-sua-chua-00418",
+  "servings_text": "Cho 14 chiếc bánh",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lòng đỏ trứng gà 4 cái (loại trứng to)",
+      "raw_name": "Lòng đỏ trứng gà",
+      "quantity": 4,
+      "unit": "cái",
+      "note": "loại trứng to",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dầu ăn 30 ml (không dùng dầu oliu)",
+      "raw_name": "Dầu ăn",
+      "quantity": 30,
+      "unit": "ml",
+      "note": "không dùng dầu oliu",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lòng trắng trứng gà 4 cái (loại trứng to)",
+      "raw_name": "Lòng trắng trứng gà",
+      "quantity": 4,
+      "unit": "cái",
+      "note": "loại trứng to",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa chua 100 gr",
+      "raw_name": "Sữa chua",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột mì đa dụng 80 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột ngô 15 gr",
+      "raw_name": "Bột ngô",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước cốt chanh 1.5 muỗng cà phê",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường 80 gr",
+      "raw_name": "Đường",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối 3 gr",
+      "raw_name": "Muối",
+      "quantity": 3,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T20:24:28Z",
+  "page_title": "Cách làm yogurt chiffon cupcake mềm mịn, thơm mùi sữa chua",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2015/01/05/596102/yogurt-chiffon-cupcake-mem-min-thom-mui-sua-chua-15-760x367.jpg"
+}

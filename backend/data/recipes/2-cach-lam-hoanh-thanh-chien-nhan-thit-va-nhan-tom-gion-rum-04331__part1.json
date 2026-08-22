@@ -1,0 +1,65 @@
+{
+  "source_id": "04331",
+  "name": "Hoành thánh chiên nhân thịt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6f4093149bb10b39.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-hoanh-thanh-chien-nhan-thit-va-nhan-tom-gion-rum-04331",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-hoanh-thanh-chien-nhan-thit-va-nhan-tom-gion-rum-04331",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt heo xay 100 gr",
+      "raw_name": "Thịt heo xay",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lá hoành thánh 300 gr",
+      "raw_name": "Lá hoành thánh",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành băm 1/2 muỗng canh",
+      "raw_name": "Hành băm",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá cắt nhỏ 2 muỗng canh",
+      "raw_name": "Hành lá cắt nhỏ",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột canh 1/2 muỗng cà phê",
+      "raw_name": "Bột canh",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:11:02Z",
+  "page_title": "2 cách làm hoành thánh chiên nhân thịt và nhân tôm giòn rụm cực ngon",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/hoanh-thanh-chien-nhan-tom-thumbnail.jpg"
+}

@@ -1,0 +1,59 @@
+{
+  "source_id": "24454",
+  "name": "Lê hấp đường phèn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4eece2cdf4241b59.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/lam-le-hap-duong-phen-tao-do-ky-tu-thanh-mat-ho-tro-giam-ho-24454",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/lam-le-hap-duong-phen-tao-do-ky-tu-thanh-mat-ho-tro-giam-ho-24454",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Quả lê 1 trái (Lê Hàn Quốc hoặc lê Nam Phi)",
+      "raw_name": "Quả lê",
+      "quantity": 1,
+      "unit": "trái",
+      "note": "Lê Hàn Quốc hoặc lê Nam Phi",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Táo đỏ 3 quả",
+      "raw_name": "Táo đỏ",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Kỷ tử 1 muỗng cà phê",
+      "raw_name": "Kỷ tử",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng tươi 1 ít",
+      "raw_name": "Gừng tươi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối và đường phèn 1 ít",
+      "raw_name": "Muối và đường phèn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:13:11Z",
+  "page_title": "Làm lê hấp đường phèn táo đỏ kỷ tử thanh mát hỗ trợ giảm ho hiệu quả cực dễ",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t05%201200676%20%2824%29.jpg"
+}

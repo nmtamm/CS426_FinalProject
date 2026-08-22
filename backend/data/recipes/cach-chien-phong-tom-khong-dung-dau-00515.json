@@ -1,0 +1,27 @@
+{
+  "source_id": "00515",
+  "name": "chiên phồng tôm bằng lò vi sóng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1ef1e5331fdbd5ef.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-chien-phong-tom-khong-dung-dau-00515",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-chien-phong-tom-khong-dung-dau-00515",
+  "servings_text": "Cho 3 người ăn",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Phồng tôm chiên 200 gr (tuỳ sở thích)",
+      "raw_name": "Phồng tôm chiên",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "tuỳ sở thích",
+      "display_order": 1
+    }
+  ],
+  "scraped_at": "2026-08-19T19:30:36Z",
+  "page_title": "Cách chiên phồng tôm bằng lò vi sóng không dùng dầu",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2015/10/29/730240/cach-chien-phong-tom-khong-dung-dau-5-760x367.jpg"
+}

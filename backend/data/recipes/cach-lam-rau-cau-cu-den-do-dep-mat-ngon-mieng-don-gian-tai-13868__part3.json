@@ -1,0 +1,69 @@
+{
+  "source_id": "13868",
+  "name": "Rau câu củ dền lá dứa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/70887415661f23b6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-rau-cau-cu-den-do-dep-mat-ngon-mieng-don-gian-tai-13868",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-rau-cau-cu-den-do-dep-mat-ngon-mieng-don-gian-tai-13868",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Củ dền 200 gr (khoảng 1/2 củ dền loại vừa)",
+      "raw_name": "Củ dền",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "khoảng 1/2 củ dền loại vừa",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lá dứa 7 gr (khoảng 4 - 5 lá)",
+      "raw_name": "Lá dứa",
+      "quantity": 7,
+      "unit": "gr",
+      "note": "khoảng 4 - 5 lá",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột rau câu giòn 25 gr (1 bịch bột agar)",
+      "raw_name": "Bột rau câu giòn",
+      "quantity": 25,
+      "unit": "gr",
+      "note": "1 bịch bột agar",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước cốt dừa 500 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sữa đặc 50 gr",
+      "raw_name": "Sữa đặc",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 200 gr",
+      "raw_name": "Đường",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:15:36Z",
+  "page_title": "3 cách làm rau câu củ dền đỏ đẹp mắt ngon miệng đơn giản tại nhà",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/rau-cau-cu-den-la-dua-thumbnail.jpg"
+}

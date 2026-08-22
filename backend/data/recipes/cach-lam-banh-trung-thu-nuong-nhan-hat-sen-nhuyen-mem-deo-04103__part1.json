@@ -1,0 +1,65 @@
+{
+  "source_id": "04103",
+  "name": "Cách sên nhân hạt sen",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/748ac075e5bc5908.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-nuong-nhan-hat-sen-nhuyen-mem-deo-04103",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-nuong-nhan-hat-sen-nhuyen-mem-deo-04103",
+  "servings_text": "Cho 300g nhân",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hạt sen tươi 200 gr (hoặc 100g hạt sen khô)",
+      "raw_name": "Hạt sen tươi",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "hoặc 100g hạt sen khô",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dầu ăn 75 g (nên dùng dầu đậu phộng hoặc dầu dừa)",
+      "raw_name": "Dầu ăn",
+      "quantity": 75,
+      "unit": "g",
+      "note": "nên dùng dầu đậu phộng hoặc dầu dừa",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 80 g",
+      "raw_name": "Đường",
+      "quantity": 80,
+      "unit": "g",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột mì đa dụng 10 g",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 10,
+      "unit": "g",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước 30 ml",
+      "raw_name": "Nước",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:44:18Z",
+  "page_title": "Cách làm bánh trung thu nướng nhân hạt sen nhuyễn mềm dẻo bổ dưỡng",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookRecipe/Avatar/cach-sen-nhan-hat-sen-thumbnail.jpg"
+}

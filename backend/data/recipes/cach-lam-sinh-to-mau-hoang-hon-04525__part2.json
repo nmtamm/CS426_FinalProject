@@ -1,0 +1,65 @@
+{
+  "source_id": "04525",
+  "name": "Sinh tố màu hồng hôn 2 tầng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d6c9f97d3da912f0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sinh-to-mau-hoang-hon-04525",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sinh-to-mau-hoang-hon-04525",
+  "servings_text": "Cho 3 - 4 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Xoài chín 1 quả",
+      "raw_name": "Xoài chín",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Việt quất 3 quả (để trang trí)",
+      "raw_name": "Việt quất",
+      "quantity": 3,
+      "unit": "quả",
+      "note": "để trang trí",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dâu tây 6 quả",
+      "raw_name": "Dâu tây",
+      "quantity": 6,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước cam đóng hộp 500 ml (hoặc nước cam tươi)",
+      "raw_name": "Nước cam đóng hộp",
+      "quantity": 500,
+      "unit": "ml",
+      "note": "hoặc nước cam tươi",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước soda 100 ml",
+      "raw_name": "Nước soda",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:04:55Z",
+  "page_title": "2 cách làm sinh tố màu hoàng hôn tuyệt đẹp cho bữa tối ngày 20/10",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/sinh-to-mau-hong-hon-2-tang-thumbnail-1.jpg"
+}

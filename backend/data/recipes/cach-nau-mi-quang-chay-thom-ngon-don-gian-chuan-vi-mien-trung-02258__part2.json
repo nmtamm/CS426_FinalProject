@@ -1,0 +1,110 @@
+{
+  "source_id": "02258",
+  "name": "Mì quảng chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3324e990a68027ef.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-mi-quang-chay-thom-ngon-don-gian-chuan-vi-mien-trung-02258",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-mi-quang-chay-thom-ngon-don-gian-chuan-vi-mien-trung-02258",
+  "servings_text": "Cho 2 người ăn",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nấm cây 100 gram",
+      "raw_name": "Nấm cây 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm bạch tuyết 100 gram",
+      "raw_name": "Nấm bạch tuyết 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nấm bào ngừ 100 gram",
+      "raw_name": "Nấm bào ngừ 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nấm đông cô 4 cây",
+      "raw_name": "Nấm đông cô",
+      "quantity": 4,
+      "unit": "cây",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột nghệ 1 muỗng canh",
+      "raw_name": "Bột nghệ",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Củ cải 1/2 củ",
+      "raw_name": "Củ cải",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Cà rốt 1/2 cây",
+      "raw_name": "Cà rốt",
+      "quantity": 0.5,
+      "unit": "cây",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt băm 1 muỗng cà phê",
+      "raw_name": "Ớt băm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đậu hũ bi chiên 1 miếng",
+      "raw_name": "Đậu hũ bi chiên 1 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hành Poaro 1 muỗng canh",
+      "raw_name": "Hành Poaro",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị 1 ít (nước mắm chay/đường vàng/dầu ăn/hạt nêm chay/muối hồng)",
+      "raw_name": "Gia vị",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "nước mắm chay/đường vàng/dầu ăn/hạt nêm chay/muối hồng",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:44:30Z",
+  "page_title": "2 cách nấu mì quảng chay thơm ngon chuẩn vị miền Trung cho ngày Rằm",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "Công thức được chia sẻ bởi Tiktok Bếp chay XANH",
+  "original_image_url": "https://cdn.tgdd.vn/2023/07/CookRecipe/Avatar/mi-quang-chay-thumbnail.jpg"
+}

@@ -1,0 +1,117 @@
+{
+  "source_id": "14851",
+  "name": "Cơm gà Hội An chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/38418661ed71f972.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-com-ga-chay-moi-la-hap-dan-don-gian-tai-nha-14851",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-com-ga-chay-moi-la-hap-dan-don-gian-tai-nha-14851",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gạo 200 gr",
+      "raw_name": "Gạo",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mì căn 250 gr",
+      "raw_name": "Mì căn",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nghệ 2 củ",
+      "raw_name": "Nghệ",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tím 100 gr",
+      "raw_name": "Hành tím",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Rau răm 150 gr",
+      "raw_name": "Rau răm",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Chanh 2 quả",
+      "raw_name": "Chanh",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước dừa tươi 400 ml",
+      "raw_name": "Nước dừa tươi",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 120 ml (khoảng 12 muỗng canh)",
+      "raw_name": "Dầu ăn",
+      "quantity": 120,
+      "unit": "ml",
+      "note": "khoảng 12 muỗng canh",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Hạt nêm chay 1 muỗng cà phê",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Đường/ bột ngọt 1 ít",
+      "raw_name": "Đường/ bột ngọt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:42:34Z",
+  "page_title": "3 cách làm cơm gà chay mới lạ hấp dẫn đơn giản tại nhà",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/com-ga-hoi-an-chay-thumbnail.jpg"
+}

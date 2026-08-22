@@ -1,0 +1,77 @@
+{
+  "source_id": "03881",
+  "name": "Ức gà chiên giòn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7e9ab826450ad5bc.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-uc-ga-chien-gion-va-chien-xu-gion-tan-thom-ngon-an-03881",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-uc-ga-chien-gion-va-chien-xu-gion-tan-thom-ngon-an-03881",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột chiên xù 300 gr",
+      "raw_name": "Bột chiên xù",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột sư tử 20 gr",
+      "raw_name": "Bột sư tử",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ức gà 500 gr",
+      "raw_name": "Ức gà",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột mì 120 gr",
+      "raw_name": "Bột mì",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tiêu 1/2 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Trứng 2 quả",
+      "raw_name": "Trứng",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:16:53Z",
+  "page_title": "2 cách làm ức gà chiên xù giòn rụm thơm ngon đơn giản cực hấp dẫn",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookRecipe/Avatar/uc-ga-chien-gion-thumbnail.jpg"
+}

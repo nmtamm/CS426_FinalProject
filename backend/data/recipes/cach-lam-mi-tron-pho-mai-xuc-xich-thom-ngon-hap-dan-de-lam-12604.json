@@ -1,0 +1,115 @@
+{
+  "source_id": "12604",
+  "name": "Mì trộn phô mai xúc xích",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/74a2d148e314db5d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mi-tron-pho-mai-xuc-xich-thom-ngon-hap-dan-de-lam-12604",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mi-tron-pho-mai-xuc-xich-thom-ngon-hap-dan-de-lam-12604",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mì không gia vị Hàn Quốc 1 gói (có thể dùng mì gói thường)",
+      "raw_name": "Mì không gia vị Hàn Quốc",
+      "quantity": 1,
+      "unit": "gói",
+      "note": "có thể dùng mì gói thường",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Phô mai que Mozzarella 5 cây",
+      "raw_name": "Phô mai que Mozzarella",
+      "quantity": 5,
+      "unit": "cây",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Xúc xích 4 cây",
+      "raw_name": "Xúc xích",
+      "quantity": 4,
+      "unit": "cây",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành lá 4 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 4,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Trứng cút 4 quả",
+      "raw_name": "Trứng cút",
+      "quantity": 4,
+      "unit": "quả",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Mè trắng rang 1 muỗng canh",
+      "raw_name": "Mè trắng rang",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột ớt Hàn Quốc 1 muỗng canh",
+      "raw_name": "Bột ớt Hàn Quốc",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tương ớt Hàn Quốc 4 muỗng cà phê",
+      "raw_name": "Tương ớt Hàn Quốc",
+      "quantity": 4,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng cà phê",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Muối/ đường 1 ít",
+      "raw_name": "Muối/ đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T20:32:58Z",
+  "page_title": "Cách làm mì trộn phô mai xúc xích thơm ngon hấp dẫn dễ làm tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/1-1200x676-24.jpg"
+}

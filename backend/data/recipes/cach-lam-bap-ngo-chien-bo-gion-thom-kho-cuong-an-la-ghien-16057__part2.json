@@ -1,0 +1,58 @@
+{
+  "source_id": "16057",
+  "name": "Bắp chiên",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/186701f8b6208c78.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bap-ngo-chien-bo-gion-thom-kho-cuong-an-la-ghien-16057",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bap-ngo-chien-bo-gion-thom-kho-cuong-an-la-ghien-16057",
+  "servings_text": "Cho 1 - 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bắp mỹ 1 trái",
+      "raw_name": "Bắp mỹ",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột bắp 200 gr",
+      "raw_name": "Bột bắp",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng gà 1 trái",
+      "raw_name": "Trứng gà",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:07:10Z",
+  "page_title": "Cách làm bắp - ngô chiên bơ giòn thơm khó cưỡng, ăn là ghiền",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "Công thức được chia sẻ từ Tiktok Vào bếp cùng Điện máy XANH",
+  "original_image_url": "https://cdn.tgdd.vn/2023/11/CookRecipe/Avatar/bap-chien-cong-thuc-duoc-chia-se-tu-tiktok-vao-bep-cung-dien-may-xanh-thumbnail.jpg"
+}

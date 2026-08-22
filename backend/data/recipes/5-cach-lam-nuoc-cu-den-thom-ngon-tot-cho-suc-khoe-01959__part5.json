@@ -1,0 +1,73 @@
+{
+  "source_id": "01959",
+  "name": "Nước ép rau củ đỏ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6383a5155a5ce045.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/5-cach-lam-nuoc-cu-den-thom-ngon-tot-cho-suc-khoe-01959",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/5-cach-lam-nuoc-cu-den-thom-ngon-tot-cho-suc-khoe-01959",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Củ dền 1 củ",
+      "raw_name": "Củ dền",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà chua 2 quả",
+      "raw_name": "Cà chua",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mận 2 quả",
+      "raw_name": "Mận",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 1 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:56:08Z",
+  "page_title": "5 Cách làm nước ép củ dền bằng máy xay sinh tố thơm ngon tốt cho sức khỏe",
+  "variant_index": 5,
+  "variant_count": 5,
+  "original_image_url": "https://cdn.tgdd.vn/2022/02/CookRecipe/Avatar/nuoc-ep-rau-cu-do-thumbnail.jpg"
+}

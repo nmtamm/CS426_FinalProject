@@ -1,0 +1,82 @@
+{
+  "source_id": "08687",
+  "name": "Bánh khoai tây chiên phồng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2694ce3027bf12bf.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-khoai-tay-chien-phong-thom-ngon-don-gian-de-lam-08687",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-khoai-tay-chien-phong-thom-ngon-don-gian-de-lam-08687",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai tây 300 gr",
+      "raw_name": "Khoai tây",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột gạo 2 muỗng canh",
+      "raw_name": "Bột gạo",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột bắp 1 muỗng canh",
+      "raw_name": "Bột bắp",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột nở 1/2 muỗng cà phê",
+      "raw_name": "Bột nở",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 300 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 1 ít",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:01:46Z",
+  "page_title": "2 cách làm bánh khoai tây chiên phồng thơm ngon đơn giản dễ làm",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "công thức được chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/banh-khoai-tay-chien-phong-cong-thuc-duoc-chia-se-tu-nguoi-dung-thumbnail.jpg"
+}

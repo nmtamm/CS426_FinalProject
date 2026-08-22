@@ -1,0 +1,67 @@
+{
+  "source_id": "18335",
+  "name": "Nấm đùi gà kho xì dầu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6dca4d5bc01d627f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nam-dui-ga-kho-xi-dau-thom-ngon-dam-da-don-gian-tai-18335",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nam-dui-ga-kho-xi-dau-thom-ngon-dam-da-don-gian-tai-18335",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nấm đùi gà 250 gr",
+      "raw_name": "Nấm đùi gà",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành baro 3 cây",
+      "raw_name": "Hành baro",
+      "quantity": 3,
+      "unit": "cây",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Xì dầu 1 muỗng canh",
+      "raw_name": "Xì dầu",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mật ong 1/2 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành lá 1 ít (cắt nhỏ)",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "cắt nhỏ",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:36:05Z",
+  "page_title": "Cách làm nấm đùi gà kho xì dầu thơm ngon đậm đà đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2022/10/CookDish/cach-lam-nam-dui-ga-kho-xi-dau-thom-ngon-dam-da-don-gian-tai-avt-1200x676-2.jpg"
+}

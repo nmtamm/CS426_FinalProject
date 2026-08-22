@@ -1,0 +1,91 @@
+{
+  "source_id": "24448",
+  "name": "Phao câu gà nướng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/331cd9be20a7635b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-phao-cau-ga-nuong-bang-noi-chien-khong-dau-lam-moi-24448",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-phao-cau-ga-nuong-bang-noi-chien-khong-dau-lam-moi-24448",
+  "servings_text": "Cho 2 - 3 người ăn",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Phao câu gà 500 gr",
+      "raw_name": "Phao câu gà",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tương cà 1 muỗng canh",
+      "raw_name": "Tương cà",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tương ớt 3 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu màu điều 2 muỗng canh",
+      "raw_name": "Dầu màu điều",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt bột 1 muỗng cà phê (tùy chọn)",
+      "raw_name": "Ớt bột",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "tùy chọn",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (hạt nêm/ bột ngọt/ muối...)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hạt nêm/ bột ngọt/ muối...",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành tím và tỏi băm nhỏ 1 ít",
+      "raw_name": "Hành tím và tỏi băm nhỏ",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Món ăn kèm 1 ít (xà lách/ cà chua/ muối tiêu xanh)",
+      "raw_name": "Món ăn kèm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "xà lách/ cà chua/ muối tiêu xanh",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:03:36Z",
+  "page_title": "Cách làm phao câu gà nướng bằng nồi chiên không dầu làm mồi nhấm cực ngon",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t05%201200676%20%2820%29.jpg"
+}

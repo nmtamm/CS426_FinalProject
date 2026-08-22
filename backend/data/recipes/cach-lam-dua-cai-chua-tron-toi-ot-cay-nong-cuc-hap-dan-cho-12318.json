@@ -1,0 +1,79 @@
+{
+  "source_id": "12318",
+  "name": "Dưa cải chua trộn tỏi ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0ba024f826ecbbe4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dua-cai-chua-tron-toi-ot-cay-nong-cuc-hap-dan-cho-12318",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dua-cai-chua-tron-toi-ot-cay-nong-cuc-hap-dan-cho-12318",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    },
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cải chua 300 gr",
+      "raw_name": "Cải chua",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt chỉ thiên 5 trái",
+      "raw_name": "Ớt chỉ thiên",
+      "quantity": 5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt sừng 1 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt hiểm 10 trái",
+      "raw_name": "Ớt hiểm",
+      "quantity": 10,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường/ bột ngọt 1 ít",
+      "raw_name": "Đường/ bột ngọt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T17:54:26Z",
+  "page_title": "Cách làm dưa cải chua trộn tỏi ớt cay nồng cực hấp dẫn cho bữa cơm bắt vị",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/z26271004831467229fe055b8d4f6f0fbacfff58fb22dc1200-1200x676-1.jpg"
+}

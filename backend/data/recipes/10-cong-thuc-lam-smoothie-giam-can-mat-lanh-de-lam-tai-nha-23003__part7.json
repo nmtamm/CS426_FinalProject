@@ -1,0 +1,62 @@
+{
+  "source_id": "23003",
+  "name": "Smoothie rau bina, xoài, dứa, chuối",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6ea1e26f490dd70c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/10-cong-thuc-lam-smoothie-giam-can-mat-lanh-de-lam-tai-nha-23003",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/10-cong-thuc-lam-smoothie-giam-can-mat-lanh-de-lam-tai-nha-23003",
+  "servings_text": "Cho 1 phần",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rau bina 60 gr",
+      "raw_name": "Rau bina",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước lọc 240 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 240,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dứa 100 gr (đông lạnh)",
+      "raw_name": "Dứa",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "đông lạnh",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Xoài 100 gr (đông lạnh)",
+      "raw_name": "Xoài",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "đông lạnh",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chuối chín 1 quả",
+      "raw_name": "Chuối chín",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:51:34Z",
+  "page_title": "10 công thức làm smoothie giảm cân mát lạnh, dễ làm tại nhà với máy xay",
+  "variant_index": 7,
+  "variant_count": 10,
+  "note": null,
+  "original_image_url": "https://cdn.tgdd.vn/2025/07/CookRecipe/Avatar/smoothie-rau-bina-xoai-dua-chuoi-thumbnail.jpg"
+}

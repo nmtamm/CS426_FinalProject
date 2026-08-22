@@ -1,0 +1,155 @@
+{
+  "source_id": "00839",
+  "name": "Gà nấu tiễu xanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f1127fe18b7eced4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-nau-tieu-xanh-am-bung-ngay-dau-nam-00839",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-nau-tieu-xanh-am-bung-ngay-dau-nam-00839",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà 1.5 kg",
+      "raw_name": "Gà",
+      "quantity": 1.5,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Pa tê 100 gr",
+      "raw_name": "Pa tê",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà chua cô đặc 100 gr",
+      "raw_name": "Cà chua cô đặc",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Khoai tây nhỏ 2 củ",
+      "raw_name": "Khoai tây nhỏ",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước dừa tươi 1 lít",
+      "raw_name": "Nước dừa tươi 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột ngọt 1/2 muỗng canh",
+      "raw_name": "Bột ngọt",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hạt nêm 1/2 muỗng canh",
+      "raw_name": "Hạt nêm",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Tiêu sọ xay 1 ít",
+      "raw_name": "Tiêu sọ xay",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Tiêu xanh hạt 20 gr",
+      "raw_name": "Tiêu xanh hạt",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Hành tỏi băm 1 muỗng cà phê",
+      "raw_name": "Hành tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Bơ lạt 1 muỗng cà phê",
+      "raw_name": "Bơ lạt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Bột năng 1 muỗng canh",
+      "raw_name": "Bột năng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Quế khô 3 lá",
+      "raw_name": "Quế khô",
+      "quantity": 3,
+      "unit": "lá",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Hạt điều màu 1 muỗng cà phê",
+      "raw_name": "Hạt điều màu",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 17
+    }
+  ],
+  "scraped_at": "2026-08-19T18:09:08Z",
+  "page_title": "Cách làm gà nấu tiêu xanh ấm bụng ngày đầu năm",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2018/01/08/1057238/cach-lam-ga-nau-tieu-xanh-am-bung-ngay-dau-nam-760x367.jpg"
+}

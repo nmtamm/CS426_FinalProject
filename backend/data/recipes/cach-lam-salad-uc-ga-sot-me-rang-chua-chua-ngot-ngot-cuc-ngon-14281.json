@@ -1,0 +1,67 @@
+{
+  "source_id": "14281",
+  "name": "Salad ức gà sốt mè rang",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/630fcc14b7621f72.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-salad-uc-ga-sot-me-rang-chua-chua-ngot-ngot-cuc-ngon-14281",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-salad-uc-ga-sot-me-rang-chua-chua-ngot-ngot-cuc-ngon-14281",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt ức gà 300 gr",
+      "raw_name": "Thịt ức gà",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rau xà lách 2 cây",
+      "raw_name": "Rau xà lách",
+      "quantity": 2,
+      "unit": "cây",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà chua 2 quả (hoặc cà chua bi 6 - 7 quả)",
+      "raw_name": "Cà chua",
+      "quantity": 2,
+      "unit": "quả",
+      "note": "hoặc cà chua bi 6 - 7 quả",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dưa leo 1 quả (dưa chuột)",
+      "raw_name": "Dưa leo",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "dưa chuột",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Trứng cút 10 quả",
+      "raw_name": "Trứng cút",
+      "quantity": 10,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước sốt mè rang 4 muỗng canh",
+      "raw_name": "Nước sốt mè rang",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T17:52:32Z",
+  "page_title": "Cách làm salad ức gà sốt mè rang chua chua ngọt ngọt cực ngon",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-salad-uc-ga-sot-me-rang-chua-chua-ngot-ngot-cuc-ngon-avt-1200x676-1.jpg"
+}

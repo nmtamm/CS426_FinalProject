@@ -1,0 +1,129 @@
+{
+  "source_id": "04311",
+  "name": "Rau củ viên phô mai chiên xù",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6b068c4a2cdc3fbf.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-rau-cu-vien-thom-ngon-don-gian-cho-bua-com-gia-04311",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-rau-cu-vien-thom-ngon-don-gian-cho-bua-com-gia-04311",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Phô mai mozzarella 100 gr",
+      "raw_name": "Phô mai mozzarella",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bông cải trắng 200 gr",
+      "raw_name": "Bông cải trắng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Khoai tây 3 củ",
+      "raw_name": "Khoai tây",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt chuông xanh 1 quả",
+      "raw_name": "Ớt chuông xanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt chuông đỏ 1 quả",
+      "raw_name": "Ớt chuông đỏ",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Sữa tươi không đường 20 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột chiên xù 200 gr",
+      "raw_name": "Bột chiên xù",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bột mì đa dụng 100 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Lá oregano 3 muỗng cà phê",
+      "raw_name": "Lá oregano",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Đường 1 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T19:06:25Z",
+  "page_title": "2 cách làm rau củ viên thơm ngon đơn giản cho bữa cơm gia đình",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/rau-cu-vien-pho-mai-chien-xu-thumbnail-2.jpg"
+}

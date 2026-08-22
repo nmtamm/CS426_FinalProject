@@ -1,0 +1,130 @@
+{
+  "source_id": "10713",
+  "name": "Gỏi bò bóp thấu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bb1bc6d7310c6b2c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-bo-bop-thau-goi-bap-bo-thom-ngon-tai-nha-10713",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-bo-bop-thau-goi-bap-bo-thom-ngon-tai-nha-10713",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    },
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt thăn bò 300 gr",
+      "raw_name": "Thịt thăn bò",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tỏi băm 2 tép",
+      "raw_name": "Tỏi băm 2 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chuối chát 1 trái",
+      "raw_name": "Chuối chát",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Khế 1 trái",
+      "raw_name": "Khế",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cà pháo 5 trái",
+      "raw_name": "Cà pháo",
+      "quantity": 5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt sừng 1/2 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tây 1/4 củ",
+      "raw_name": "Hành tây",
+      "quantity": 0.25,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Cà rốt 1/2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rau húng lũi 10 gr",
+      "raw_name": "Rau húng lũi",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước mắm 1 chén",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đường 2 chén",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "chén",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước cốt tắc 1/2 chén",
+      "raw_name": "Nước cốt tắc",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Tương ớt 1/2 chén",
+      "raw_name": "Tương ớt",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T18:00:00Z",
+  "page_title": "3 cách làm gỏi bò bóp thấu, gỏi bắp bò thơm ngon tại nhà",
+  "variant_index": 3,
+  "variant_count": 3,
+  "note": "Công thức được chia sẻ từ TikTok Vào bếp cùng Điện máy XANH",
+  "original_image_url": "https://cdn.tgdd.vn/2023/05/CookRecipe/Avatar/goi-bo-bop-thau-cong-thuc-duoc-chia-se-tu-tiktok-vao-bep-cung-dien-may-xanh-thumbnail.jpg"
+}

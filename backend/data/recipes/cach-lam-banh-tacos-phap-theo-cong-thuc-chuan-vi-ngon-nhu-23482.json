@@ -1,0 +1,135 @@
+{
+  "source_id": "23482",
+  "name": "Bánh tacos Pháp",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/99345ddd3a224ba2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-tacos-phap-theo-cong-thuc-chuan-vi-ngon-nhu-23482",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-tacos-phap-theo-cong-thuc-chuan-vi-ngon-nhu-23482",
+  "servings_text": "Cho 2 phần",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ức gà 400 gr",
+      "raw_name": "Ức gà",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Khoai tây 3 củ (cỡ vừa)",
+      "raw_name": "Khoai tây",
+      "quantity": 3,
+      "unit": "củ",
+      "note": "cỡ vừa",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bánh tortilla 1 cái (đường kính 30cm)",
+      "raw_name": "Bánh tortilla",
+      "quantity": 1,
+      "unit": "cái",
+      "note": "đường kính 30cm",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ô liu 30 ml",
+      "raw_name": "Dầu ô liu",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột tỏi 5 gr",
+      "raw_name": "Bột tỏi",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột ớt cay 5 gr",
+      "raw_name": "Bột ớt cay",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột Paprika 5 gr",
+      "raw_name": "Bột Paprika",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột nghệ 5 gr",
+      "raw_name": "Bột nghệ",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột gừng 5 gr",
+      "raw_name": "Bột gừng",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Chanh 1 quả (vắt lấy nước cốt)",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "vắt lấy nước cốt",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Kem tươi ít béo 400 ml (light cream)",
+      "raw_name": "Kem tươi ít béo",
+      "quantity": 400,
+      "unit": "ml",
+      "note": "light cream",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Phô mai Emmental bào sợi 100 gr",
+      "raw_name": "Phô mai Emmental bào sợi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Muối/ tiêu xay 1 ít",
+      "raw_name": "Muối/ tiêu xay",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Phô mai dạng miếng 1 ít (phô mai raclette/ phô mai cheddar)",
+      "raw_name": "Phô mai dạng miếng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "phô mai raclette/ phô mai cheddar",
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T20:32:49Z",
+  "page_title": "Cách làm bánh tacos Pháp theo công thức chuẩn vị, ngon như ngoài tiệm",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20m%C3%B3n%20an%20t11%20%281200%20x%20676%20px%29%20%2851%29.jpg"
+}

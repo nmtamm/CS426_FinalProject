@@ -1,0 +1,61 @@
+{
+  "source_id": "01811",
+  "name": "Sữa óc chó đậu đen mè đen",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3d25be13dc18de6f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-oc-cho-nguyen-vo-va-sua-oc-cho-dau-den-01811",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-oc-cho-nguyen-vo-va-sua-oc-cho-dau-den-01811",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Óc chó 7 hạt (đã tách vỏ)",
+      "raw_name": "Óc chó 7 hạt",
+      "quantity": null,
+      "unit": null,
+      "note": "đã tách vỏ",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu đen 40 gr",
+      "raw_name": "Đậu đen",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mè đen 30 gr",
+      "raw_name": "Mè đen",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường phèn 15 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước lọc 1.2 lít",
+      "raw_name": "Nước lọc 1.2 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:04:15Z",
+  "page_title": "4 cách làm sữa óc chó đậu đen béo bùi thơm ngon bổ dưỡng cho cả nhà",
+  "variant_index": 2,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/sua-oc-cho-dau-den-me-den-thumbnail.jpg"
+}

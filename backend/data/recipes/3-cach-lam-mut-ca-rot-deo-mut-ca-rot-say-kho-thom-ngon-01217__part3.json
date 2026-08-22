@@ -1,0 +1,42 @@
+{
+  "source_id": "01217",
+  "name": "Mứt cà rốt dẻo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f23479a4e1b0c674.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-mut-ca-rot-deo-mut-ca-rot-say-kho-thom-ngon-01217",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-mut-ca-rot-deo-mut-ca-rot-say-kho-thom-ngon-01217",
+  "servings_text": "Cho 1 - 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cà rốt 1 kg",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 500 g",
+      "raw_name": "Đường",
+      "quantity": 500,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:10:57Z",
+  "page_title": "3 cách làm mứt cà rốt dẻo, mứt cà rốt sấy khô thơm ngon dịp Tết",
+  "variant_index": 3,
+  "variant_count": 3,
+  "note": "Công thức được chia sẻ từ Tiktok Vào bếp cùng Điện máy XANH",
+  "original_image_url": "https://cdn.tgdd.vn/2023/07/CookRecipe/Avatar/mut-ca-rot-deo-cong-thuc-duoc-chia-se-tu-tiktok-vao-bep-cung-dien-may-xanh-thumbnail.jpg"
+}

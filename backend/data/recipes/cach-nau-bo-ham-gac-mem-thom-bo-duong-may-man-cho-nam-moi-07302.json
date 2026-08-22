@@ -1,0 +1,151 @@
+{
+  "source_id": "07302",
+  "name": "Bò hầm gấc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4f399c00de8d17f0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-bo-ham-gac-mem-thom-bo-duong-may-man-cho-nam-moi-07302",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-bo-ham-gac-mem-thom-bo-duong-may-man-cho-nam-moi-07302",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò 500 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gấc 1 quả",
+      "raw_name": "Gấc",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Khoai tây 3 củ",
+      "raw_name": "Khoai tây",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ngò rí 1 ít",
+      "raw_name": "Ngò rí",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi băm 2 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Quế 2 nhánh",
+      "raw_name": "Quế",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hoa hồi 3 cái",
+      "raw_name": "Hoa hồi",
+      "quantity": 3,
+      "unit": "cái",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Trái thảo 2 quả",
+      "raw_name": "Trái thảo",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tiêu hạt 1 muỗng canh",
+      "raw_name": "Tiêu hạt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nguyệt quế 3 lá",
+      "raw_name": "Nguyệt quế",
+      "quantity": 3,
+      "unit": "lá",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Rượu trắng 1 muỗng canh",
+      "raw_name": "Rượu trắng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Bột húng lìu 1 muỗng cà phê",
+      "raw_name": "Bột húng lìu",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Bột cà ri 1 muỗng canh",
+      "raw_name": "Bột cà ri",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ tiêu xay",
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T18:27:01Z",
+  "page_title": "Cách nấu bò hầm gấc mềm thơm, bổ dưỡng, may mắn cho năm mới",
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookProduct/Untitled-1-1200x676-6.jpg"
+}

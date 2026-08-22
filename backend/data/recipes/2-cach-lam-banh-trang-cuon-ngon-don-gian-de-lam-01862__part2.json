@@ -1,0 +1,113 @@
+{
+  "source_id": "01862",
+  "name": "Bánh tráng cuốn sốt me chua ngọt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/13054085de3ee620.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-trang-cuon-ngon-don-gian-de-lam-01862",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-trang-cuon-ngon-don-gian-de-lam-01862",
+  "servings_text": "Cho 02 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh tráng tôm 100 gram (1 bịch)",
+      "raw_name": "Bánh tráng tôm 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": "1 bịch",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng cút 50 gram (16 cái)",
+      "raw_name": "Trứng cút 50 gram",
+      "quantity": null,
+      "unit": null,
+      "note": "16 cái",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tắc 5 trái",
+      "raw_name": "Tắc",
+      "quantity": 5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tím 5 củ",
+      "raw_name": "Hành tím",
+      "quantity": 5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đậu phông rang 200 gram",
+      "raw_name": "Đậu phông rang 200 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Me 250 gram",
+      "raw_name": "Me 250 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Xoài 1 trái",
+      "raw_name": "Xoài",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Rau răm 100 gram",
+      "raw_name": "Rau răm 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước mắm 10 gram",
+      "raw_name": "Nước mắm 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tương ớt 10 gram",
+      "raw_name": "Tương ớt 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Mayonnaise 10 gram",
+      "raw_name": "Mayonnaise 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T19:09:26Z",
+  "page_title": "2 cách làm bánh tráng cuốn thịt heo và sốt me thơm ngon, đơn giản",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/banh-trang-cuon-sot-me-chua-ngot-thumbnail-2.jpg"
+}

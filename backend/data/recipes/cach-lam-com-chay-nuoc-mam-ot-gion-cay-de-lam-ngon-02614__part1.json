@@ -1,0 +1,129 @@
+{
+  "source_id": "02614",
+  "name": "Cơm cháy nước mắm ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b9219284b375e003.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-com-chay-nuoc-mam-ot-gion-cay-de-lam-ngon-02614",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-com-chay-nuoc-mam-ot-gion-cay-de-lam-ngon-02614",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gạo nếp 500 gr",
+      "raw_name": "Gạo nếp",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tôm khô 20 gr",
+      "raw_name": "Tôm khô",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tóp mỡ 50 gr",
+      "raw_name": "Tóp mỡ",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi băm 10 gr",
+      "raw_name": "Tỏi băm",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành lá 30 gr",
+      "raw_name": "Hành lá",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt sa tế 30 gr",
+      "raw_name": "Ớt sa tế",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt băm 20 gr",
+      "raw_name": "Ớt băm",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt bột 10 gr",
+      "raw_name": "Ớt bột",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước cốt chanh 30 ml",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đường trắng 50 gr",
+      "raw_name": "Đường trắng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước mắm 50 ml",
+      "raw_name": "Nước mắm",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu ăn 100 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Tương ớt 30 gr",
+      "raw_name": "Tương ớt",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T19:13:28Z",
+  "page_title": "2 cách làm cơm cháy nước mắm ớt và chà bông giòn rụm cực ngon đơn giản",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/com-chay-nuoc-mam-ot-thumbnail.jpg"
+}

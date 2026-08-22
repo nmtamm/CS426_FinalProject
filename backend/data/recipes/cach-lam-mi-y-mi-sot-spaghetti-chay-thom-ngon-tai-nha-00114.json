@@ -1,0 +1,83 @@
+{
+  "source_id": "00114",
+  "name": "Mì Ý chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2c6ff67bfa920fa6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mi-y-mi-sot-spaghetti-chay-thom-ngon-tai-nha-00114",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mi-y-mi-sot-spaghetti-chay-thom-ngon-tai-nha-00114",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mì Ý 130 gr",
+      "raw_name": "Mì Ý",
+      "quantity": 130,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu hũ trắng 1 miếng (đậu khuôn)",
+      "raw_name": "Đậu hũ trắng 1 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": "đậu khuôn",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà chua 3 trái",
+      "raw_name": "Cà chua",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 1/2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tím băm 2 muỗng canh",
+      "raw_name": "Hành tím băm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hạt nêm chay 1 muỗng cà phê",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (bột ngọt/ đường/ muối/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "bột ngọt/ đường/ muối/ tiêu xay",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:45:15Z",
+  "page_title": "Cách làm mì Ý chay sốt cà chua đậu hũ, thơm ngon đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookProduct/m1-1200x676.jpg"
+}

@@ -1,0 +1,63 @@
+{
+  "source_id": "00873",
+  "name": "Thạch trà hoa khô",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f7528b0032e62155.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/doi-vi-voi-thach-tra-vua-dep-mat-vua-ngot-mat-thom-ngon-00873",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/doi-vi-voi-thach-tra-vua-dep-mat-vua-ngot-mat-thom-ngon-00873",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hoa hồng khô 20 cái",
+      "raw_name": "Hoa hồng khô",
+      "quantity": 20,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hoa atiso đỏ khô 10 cái",
+      "raw_name": "Hoa atiso đỏ khô",
+      "quantity": 10,
+      "unit": "cái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột gelatitn 15 gr",
+      "raw_name": "Bột gelatitn",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường phèn 25 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 25,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước nóng 700 ml",
+      "raw_name": "Nước nóng",
+      "quantity": 700,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:36:15Z",
+  "page_title": "Cách làm thạch trà hoa hồng khô đẹp mắt tặng mẹ ngày 20/10",
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookDish/doi-vi-voi-thach-tra-vua-dep-mat-vua-ngot-mat-thom-ngon-avt-1200x676.jpg"
+}

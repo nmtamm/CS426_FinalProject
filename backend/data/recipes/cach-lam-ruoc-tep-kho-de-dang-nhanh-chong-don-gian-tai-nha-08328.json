@@ -1,0 +1,51 @@
+{
+  "source_id": "08328",
+  "name": "Ruốc tép khô",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/26461170504d280e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ruoc-tep-kho-de-dang-nhanh-chong-don-gian-tai-nha-08328",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ruoc-tep-kho-de-dang-nhanh-chong-don-gian-tai-nha-08328",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tép khô 200 gr (ruốc khô)",
+      "raw_name": "Tép khô",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "ruốc khô",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt bột Hàn Quốc 3 muỗng cà phê",
+      "raw_name": "Ớt bột Hàn Quốc",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/hạt nêm/ đường/ tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/hạt nêm/ đường/ tiêu",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:30:11Z",
+  "page_title": "Cách làm ruốc tép khô dễ dàng nhanh chóng đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/THUM1-1200x676-1.jpg"
+}

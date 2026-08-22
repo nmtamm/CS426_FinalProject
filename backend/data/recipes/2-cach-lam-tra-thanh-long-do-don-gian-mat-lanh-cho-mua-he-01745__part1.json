@@ -1,0 +1,57 @@
+{
+  "source_id": "01745",
+  "name": "Trà thanh long đỏ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c5f79c3d6305708c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-thanh-long-do-don-gian-mat-lanh-cho-mua-he-01745",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-thanh-long-do-don-gian-mat-lanh-cho-mua-he-01745",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà đen 3 gr",
+      "raw_name": "Trà đen",
+      "quantity": 3,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Puree thanh long đỏ 40 ml",
+      "raw_name": "Puree thanh long đỏ",
+      "quantity": 40,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Siro đường 10 ml",
+      "raw_name": "Siro đường",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đá 180 gr",
+      "raw_name": "Đá",
+      "quantity": 180,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:03:31Z",
+  "page_title": "2 Cách làm trà thanh long đỏ đơn giản, mát lạnh cho mùa hè",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/tra-thanh-long-do-thumbnail.jpg"
+}

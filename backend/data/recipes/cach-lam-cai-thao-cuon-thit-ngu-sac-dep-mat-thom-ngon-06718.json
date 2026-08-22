@@ -1,0 +1,95 @@
+{
+  "source_id": "06718",
+  "name": "Cải thảo cuộn thịt ngũ sắc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2aa4d657dec02bb5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cai-thao-cuon-thit-ngu-sac-dep-mat-thom-ngon-06718",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cai-thao-cuon-thit-ngu-sac-dep-mat-thom-ngon-06718",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt heo xay 100 gr",
+      "raw_name": "Thịt heo xay",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bắp vàng 1 trái",
+      "raw_name": "Bắp vàng",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nấm mèo 2 cái",
+      "raw_name": "Nấm mèo",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tím 2 củ (băm nhỏ)",
+      "raw_name": "Hành tím",
+      "quantity": 2,
+      "unit": "củ",
+      "note": "băm nhỏ",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 3 tép (băm nhỏ)",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": "băm nhỏ",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành lá 1 ít (cắt nhuyễn)",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "cắt nhuyễn",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt 2 quả (trang trí)",
+      "raw_name": "Ớt",
+      "quantity": 2,
+      "unit": "quả",
+      "note": "trang trí",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/đường/tiêu/hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/đường/tiêu/hạt nêm",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T20:34:48Z",
+  "page_title": "Cách làm cải thảo cuộn thịt ngũ sắc đẹp mắt thơm ngon",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/Cach-lam-cai-cuon-thit-ngu-sac-bat-mat-hap-dan-2-7-screenshot-1200x675.jpg"
+}

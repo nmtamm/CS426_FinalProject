@@ -1,0 +1,99 @@
+{
+  "source_id": "20729",
+  "name": "Gỏi nấm bào ngư",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d2cfc1c867f23876.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-nam-bao-ngu-chay-kieu-thai-sieu-ngon-de-lam-tai-20729",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-nam-bao-ngu-chay-kieu-thai-sieu-ngon-de-lam-tai-20729",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nấm bào ngư 200 gram",
+      "raw_name": "Nấm bào ngư 200 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xoài 1 trái",
+      "raw_name": "Xoài",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rau húng lủi 1 ít",
+      "raw_name": "Rau húng lủi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ngò rí 10 gram",
+      "raw_name": "Ngò rí 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt hiểm 2 trái",
+      "raw_name": "Ớt hiểm",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước cốt chanh 2 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường thốt nốt 3 muỗng canh",
+      "raw_name": "Đường thốt nốt",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước mắm chay 2 muỗng canh",
+      "raw_name": "Nước mắm chay",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tương ớt 2 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T17:51:53Z",
+  "page_title": "Cách làm gỏi nấm bào ngư chay kiểu Thái siêu ngon dễ làm tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2023/11/CookDish/2-cach-lam-goi-chay-tu-com-dua-va-cu-san-thanh-mat-thom-ngon-avt-1200x676.jpg"
+}

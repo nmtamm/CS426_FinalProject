@@ -1,0 +1,53 @@
+{
+  "source_id": "08407",
+  "name": "Cocktail dâu tây Negroni",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ed53e9da9c61b568.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-cocktail-dau-tay-mat-lanh-giai-nhiet-ngay-he-nong-08407",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-cocktail-dau-tay-mat-lanh-giai-nhiet-ngay-he-nong-08407",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dâu tây 6 quả",
+      "raw_name": "Dâu tây",
+      "quantity": 6,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rượu Campari 300 ml",
+      "raw_name": "Rượu Campari",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rượu Gin 30 ml",
+      "raw_name": "Rượu Gin",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rượu Vermouth 30 ml",
+      "raw_name": "Rượu Vermouth",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:06:33Z",
+  "page_title": "3 Cách làm Cocktail dâu tây mát lạnh giải nhiệt ngày hè nóng bức",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/cocktail-dau-tay-negroni-thumbnail.jpg"
+}

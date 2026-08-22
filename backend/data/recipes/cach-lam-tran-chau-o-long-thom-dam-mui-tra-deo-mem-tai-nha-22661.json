@@ -1,0 +1,79 @@
+{
+  "source_id": "22661",
+  "name": "Trân châu ô long",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/21ebe58558238d3c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tran-chau-o-long-thom-dam-mui-tra-deo-mem-tai-nha-22661",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tran-chau-o-long-thom-dam-mui-tra-deo-mem-tai-nha-22661",
+  "servings_text": "Cho 15 - 20 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột năng 200 gr",
+      "raw_name": "Bột năng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột gạo 40 gr",
+      "raw_name": "Bột gạo",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột matcha 6 gr",
+      "raw_name": "Bột matcha",
+      "quantity": 6,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột trà ô long 4 gr",
+      "raw_name": "Bột trà ô long",
+      "quantity": 4,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Trà ô long 10 gr (hoặc 4 cái trà túi lọc)",
+      "raw_name": "Trà ô long",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "hoặc 4 cái trà túi lọc",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 180 gr",
+      "raw_name": "Đường",
+      "quantity": 180,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Siro mật ong 20 ml (có thể bỏ qua)",
+      "raw_name": "Siro mật ong",
+      "quantity": 20,
+      "unit": "ml",
+      "note": "có thể bỏ qua",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:52:08Z",
+  "page_title": "Cách làm trân châu ô long thơm đậm mùi trà dẻo mềm tại nhà bằng nồi nhôm",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/19032025%20%283%29.jpg"
+}

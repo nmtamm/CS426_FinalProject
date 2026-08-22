@@ -1,0 +1,103 @@
+{
+  "source_id": "10791",
+  "name": "Phở sườn bò",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d517c9cdd75d9d2d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-pho-suon-bo-thom-ngon-bo-duong-doi-vi-bua-an-cho-ca-10791",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-pho-suon-bo-thom-ngon-bo-duong-doi-vi-bua-an-cho-ca-10791",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-nuoc",
+      "name": "Món nước"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sườn bò 1 kg",
+      "raw_name": "Sườn bò",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bánh phở 1 kg",
+      "raw_name": "Bánh phở",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gia vị nấu phở 1 gói (2 lít nước)",
+      "raw_name": "Gia vị nấu phở",
+      "quantity": 1,
+      "unit": "gói",
+      "note": "2 lít nước",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tây lớn 1 củ",
+      "raw_name": "Hành tây lớn",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gừng 2 củ",
+      "raw_name": "Gừng",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Táo đỏ 50 gr",
+      "raw_name": "Táo đỏ",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành lá 5 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ngò rí 3 nhánh",
+      "raw_name": "Ngò rí",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rau ăn kèm 1 ít (húng quế/ ngò gai/ giá)",
+      "raw_name": "Rau ăn kèm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "húng quế/ ngò gai/ giá",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ hạt nêm/ muối/ tiêu/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ hạt nêm/ muối/ tiêu/ bột ngọt",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:21:19Z",
+  "page_title": "Cách nấu phở sườn bò thơm ngon, bổ dưỡng đổi vị bữa ăn cho cả nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookProduct/Cach-nau-PHO-SUON-BO-SAI-GON-NUOC-NGON-DAM-DA-12-10-screenshot-1200x676.jpg"
+}

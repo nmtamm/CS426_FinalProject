@@ -1,0 +1,127 @@
+{
+  "source_id": "22551",
+  "name": "Bê cuốn bánh tráng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b2c2588e89b5b761.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cung-lam-be-cuon-banh-trang-ngon-me-ly-tai-nha-bang-xung-hap-22551",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cung-lam-be-cuon-banh-trang-ngon-me-ly-tai-nha-bang-xung-hap-22551",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bê 1 kg",
+      "raw_name": "Bê",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sả 4 cây",
+      "raw_name": "Sả",
+      "quantity": 4,
+      "unit": "cây",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt 4 trái",
+      "raw_name": "Ớt",
+      "quantity": 4,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Thơm 1 trái",
+      "raw_name": "Thơm",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Mắm cái 1 chén",
+      "raw_name": "Mắm cái",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Rau ăn kèm 0.5 kg (xà lách/diếp cá/quế/hẹ/lá cóc)",
+      "raw_name": "Rau ăn kèm",
+      "quantity": 0.5,
+      "unit": "kg",
+      "note": "xà lách/diếp cá/quế/hẹ/lá cóc",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dưa leo 2 trái",
+      "raw_name": "Dưa leo",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Giá 200 gr",
+      "raw_name": "Giá",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Khế chua 1 trái",
+      "raw_name": "Khế chua",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Chuối chát 1 trái",
+      "raw_name": "Chuối chát",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Tắc 2 trái",
+      "raw_name": "Tắc",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T18:23:05Z",
+  "page_title": "Cùng làm bê cuốn bánh tráng ngon mê ly tại nhà bằng xửng hấp",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/be-cuon-banh-trang.jpg"
+}

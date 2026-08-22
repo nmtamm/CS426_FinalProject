@@ -1,0 +1,59 @@
+{
+  "source_id": "10493",
+  "name": "Trà sữa xoài matcha trân châu đen",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/20fa374c5639cd57.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-sua-xoai-matcha-tran-chau-den-ngot-ngao-thom-mat-10493",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-sua-xoai-matcha-tran-chau-den-ngot-ngao-thom-mat-10493",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Xoài 50 gr",
+      "raw_name": "Xoài",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trà Earl Grey 40 gr (khoảng 6 gói)",
+      "raw_name": "Trà Earl Grey",
+      "quantity": 40,
+      "unit": "gr",
+      "note": "khoảng 6 gói",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột matcha 2 gr",
+      "raw_name": "Bột matcha",
+      "quantity": 2,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột sữa 30 gr",
+      "raw_name": "Bột sữa",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Trân châu đen 50 gr",
+      "raw_name": "Trân châu đen",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:55:19Z",
+  "page_title": "Cách làm trà sữa xoài matcha trân châu đen ngọt ngào, thơm mát uống cực mê",
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookProduct/xoai2-1200x676-1.jpg"
+}

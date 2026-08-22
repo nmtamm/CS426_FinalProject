@@ -1,0 +1,81 @@
+{
+  "source_id": "00110",
+  "name": "Gan bò xào đậu que",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2c0070063153d13e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-gan-bo-xao-thom-dua-don-gian-thom-ngon-ngay-tai-nha-00110",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-gan-bo-xao-thom-dua-don-gian-thom-ngon-ngay-tai-nha-00110",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gan bò 500 gr",
+      "raw_name": "Gan bò",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu que 300 gr",
+      "raw_name": "Đậu que",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi băm 2 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá 2 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước tương 1 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ tiêu đường/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ tiêu đường/ bột ngọt",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:25:05Z",
+  "page_title": "3 cách làm gan bò xào ngon miệng đậm đà hương vị dễ làm tại nhà",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookRecipe/Avatar/gan-bo-xao-dau-que-thumbnail-1.jpg"
+}

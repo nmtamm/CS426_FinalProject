@@ -1,0 +1,103 @@
+{
+  "source_id": "12728",
+  "name": "Gân bò ngâm giấm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6410cc6906c2797d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-gan-bo-ngam-giam-chua-chua-ngot-ngot-thom-ngon-an-la-12728",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-gan-bo-ngam-giam-chua-chua-ngot-ngot-thom-ngon-an-la-12728",
+  "servings_text": "Cho 3",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gân bò 600 gr",
+      "raw_name": "Gân bò",
+      "quantity": 600,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sả 3 cây",
+      "raw_name": "Sả",
+      "quantity": 3,
+      "unit": "cây",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 110 gr",
+      "raw_name": "Đường",
+      "quantity": 110,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước lọc 120 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 120,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Giấm 200 ml",
+      "raw_name": "Giấm",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi 4 tép",
+      "raw_name": "Tỏi 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt 4 trái",
+      "raw_name": "Ớt",
+      "quantity": 4,
+      "unit": "trái",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Chanh 1 trái",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:22:31Z",
+  "page_title": "Cách làm gân bò ngâm giấm chua chua ngọt ngọt thơm ngon ăn là ghiền",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/1-1200x676-33.jpg"
+}

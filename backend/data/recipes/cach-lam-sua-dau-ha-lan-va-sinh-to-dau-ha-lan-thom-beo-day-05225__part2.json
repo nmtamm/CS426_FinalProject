@@ -1,0 +1,45 @@
+{
+  "source_id": "05225",
+  "name": "Sinh tố đậu Hà Lan dâu tây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/221e0d2d47fcb47c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-dau-ha-lan-va-sinh-to-dau-ha-lan-thom-beo-day-05225",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-dau-ha-lan-va-sinh-to-dau-ha-lan-thom-beo-day-05225",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dâu tây 100 gr",
+      "raw_name": "Dâu tây",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu hà lan 50 gr",
+      "raw_name": "Đậu hà lan",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước ép táo 60 ml",
+      "raw_name": "Nước ép táo",
+      "quantity": 60,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:52:56Z",
+  "page_title": "Cách làm sữa đậu Hà Lan và sinh tố đậu Hà Lan thơm béo, đầy dinh dưỡng",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookRecipe/Avatar/sinh-to-dau-ha-lan-dau-tay-thumbnail.jpg"
+}

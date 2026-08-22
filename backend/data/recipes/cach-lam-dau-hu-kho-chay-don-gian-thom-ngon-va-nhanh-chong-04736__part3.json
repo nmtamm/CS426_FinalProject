@@ -1,0 +1,117 @@
+{
+  "source_id": "04736",
+  "name": "Đậu hũ kho tương",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7b5334de3a7e6ebb.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-hu-kho-chay-don-gian-thom-ngon-va-nhanh-chong-04736",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-hu-kho-chay-don-gian-thom-ngon-va-nhanh-chong-04736",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu hũ 700 gr",
+      "raw_name": "Đậu hũ",
+      "quantity": 700,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tương hột 120 gr",
+      "raw_name": "Tương hột",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 20 gr",
+      "raw_name": "Tỏi",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tím 40 gr",
+      "raw_name": "Hành tím",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ngò rí 50 gr",
+      "raw_name": "Ngò rí",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành lá 20 gr",
+      "raw_name": "Hành lá",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tiêu 1 ít",
+      "raw_name": "Tiêu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đường 1/2 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước 150 ml",
+      "raw_name": "Nước",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:42:42Z",
+  "page_title": "3 cách làm đậu hũ kho chay đơn giản thơm ngon và nhanh chóng",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookRecipe/Avatar/keo-deo-bap-thumbnail-3.jpg"
+}

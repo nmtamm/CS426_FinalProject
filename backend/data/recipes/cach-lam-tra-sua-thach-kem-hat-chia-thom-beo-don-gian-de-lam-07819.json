@@ -1,0 +1,79 @@
+{
+  "source_id": "07819",
+  "name": "Trà sữa thạch kem hạt chia",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3709e1dfc14e5724.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-sua-thach-kem-hat-chia-thom-beo-don-gian-de-lam-07819",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-sua-thach-kem-hat-chia-thom-beo-don-gian-de-lam-07819",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Kem tươi 150 gr",
+      "raw_name": "Kem tươi",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa đặc 100 ml",
+      "raw_name": "Sữa đặc",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hạt chia 15 gr (khoảng 1 muỗng canh)",
+      "raw_name": "Hạt chia",
+      "quantity": 15,
+      "unit": "gr",
+      "note": "khoảng 1 muỗng canh",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột rau câu giòn 15 gr (khoảng 1 muỗng canh)",
+      "raw_name": "Bột rau câu giòn",
+      "quantity": 15,
+      "unit": "gr",
+      "note": "khoảng 1 muỗng canh",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Vani 1 ống",
+      "raw_name": "Vani 1 ống",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột trà sữa matcha 2 gói (khoảng 34gr)",
+      "raw_name": "Bột trà sữa matcha",
+      "quantity": 2,
+      "unit": "gói",
+      "note": "khoảng 34gr",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột trà sữa hòa tan 2 gói (khoảng 34gr)",
+      "raw_name": "Bột trà sữa hòa tan",
+      "quantity": 2,
+      "unit": "gói",
+      "note": "khoảng 34gr",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:01:28Z",
+  "page_title": "Cách làm trà sữa thạch kem hạt chia thơm béo, đơn giản, dễ làm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookProduct/Untitled-1-1200x676-25.jpg"
+}

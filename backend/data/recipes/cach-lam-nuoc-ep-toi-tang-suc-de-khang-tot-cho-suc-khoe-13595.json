@@ -1,0 +1,59 @@
+{
+  "source_id": "13595",
+  "name": "Nước ép tỏi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/990192a08ac365ee.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-toi-tang-suc-de-khang-tot-cho-suc-khoe-13595",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-toi-tang-suc-de-khang-tot-cho-suc-khoe-13595",
+  "servings_text": "Cho khoảng 700ml",
+  "topics": [
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tỏi 500 gr",
+      "raw_name": "Tỏi",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gừng 200 gr",
+      "raw_name": "Gừng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chanh vàng 3 trái",
+      "raw_name": "Chanh vàng",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mật ong 450 ml",
+      "raw_name": "Mật ong",
+      "quantity": 450,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Giấm táo 200 ml",
+      "raw_name": "Giấm táo",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:12:15Z",
+  "page_title": "Cách làm nước ép tỏi tăng sức đề kháng tốt cho sức khỏe",
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookDish/cach-lam-nuoc-ep-toi-tang-suc-de-khang-tot-cho-suc-khoe-avt-1200x675.jpg"
+}

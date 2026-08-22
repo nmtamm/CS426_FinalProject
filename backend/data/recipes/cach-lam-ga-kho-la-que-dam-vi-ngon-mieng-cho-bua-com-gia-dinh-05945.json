@@ -1,0 +1,87 @@
+{
+  "source_id": "05945",
+  "name": "Gà kho lá quế",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7735fe7c3465b543.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-kho-la-que-dam-vi-ngon-mieng-cho-bua-com-gia-dinh-05945",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-kho-la-que-dam-vi-ngon-mieng-cho-bua-com-gia-dinh-05945",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-kho",
+      "name": "Món kho"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đùi gà 400 gr (2 đùi)",
+      "raw_name": "Đùi gà",
+      "quantity": 400,
+      "unit": "gr",
+      "note": "2 đùi",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lá quế 200 gr",
+      "raw_name": "Lá quế",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành băm 1 muỗng canh",
+      "raw_name": "Hành băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt băm 1 muỗng cà phê",
+      "raw_name": "Ớt băm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ hạt nêm/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ hạt nêm/ tiêu xay",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:11:27Z",
+  "page_title": "Cách làm gà kho lá quế đậm vị ngon miệng cho bữa cơm gia đình",
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookProduct/gakhothum-1200x676.jpg"
+}

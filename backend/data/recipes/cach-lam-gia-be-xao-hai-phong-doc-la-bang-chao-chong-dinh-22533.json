@@ -1,0 +1,87 @@
+{
+  "source_id": "22533",
+  "name": "Giá bể xào",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b99331797f6a77e6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-gia-be-xao-hai-phong-doc-la-bang-chao-chong-dinh-22533",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-gia-be-xao-hai-phong-doc-la-bang-chao-chong-dinh-22533",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Giá bể 1 kg",
+      "raw_name": "Giá bể",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tinh bột nghệ 1 muỗng canh",
+      "raw_name": "Tinh bột nghệ",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột năng 3 muỗng canh",
+      "raw_name": "Bột năng",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tỏi 1 ít",
+      "raw_name": "Hành tỏi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Riềng 1 củ",
+      "raw_name": "Riềng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rau thơm 1 ít",
+      "raw_name": "Rau thơm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Lá chanh 1 ít",
+      "raw_name": "Lá chanh",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị thông thường 1 ít",
+      "raw_name": "Gia vị thông thường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:58:57Z",
+  "page_title": "Cách làm giá bể xào Hải Phòng độc lạ bằng chảo chống dính",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/gia-be-xao.jpg"
+}

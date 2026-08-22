@@ -1,0 +1,83 @@
+{
+  "source_id": "16641",
+  "name": "Chocolate bark trái cây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3c009683afd33856.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chocolate-bark-trai-cay-cho-ngay-valentine-them-ngot-16641",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chocolate-bark-trai-cay-cho-ngay-valentine-them-ngot-16641",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chocola đen 200 gr",
+      "raw_name": "Chocola đen",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chocola trắng 200 gr",
+      "raw_name": "Chocola trắng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chocola dâu 200 gr",
+      "raw_name": "Chocola dâu",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cam sấy dẻo 200 gr",
+      "raw_name": "Cam sấy dẻo",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Kiwi sấy dẻo 200 gr",
+      "raw_name": "Kiwi sấy dẻo",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hạnh nhân 50 gr",
+      "raw_name": "Hạnh nhân",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hạt dẻ cười 50 gr",
+      "raw_name": "Hạt dẻ cười",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bánh Oreo 1 gói",
+      "raw_name": "Bánh Oreo",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:37:05Z",
+  "page_title": "Cách làm Chocolate bark trái cây cho ngày Valentine thêm ngọt ngào",
+  "original_image_url": "https://cdn.tgdd.vn/2022/02/CookDish/cach-lam-chocolate-bark-trai-cay-cho-ngay-valentine-them-ngot-avt-1200x676-1.jpg"
+}

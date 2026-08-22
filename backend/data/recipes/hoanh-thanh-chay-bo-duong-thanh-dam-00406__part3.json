@@ -1,0 +1,77 @@
+{
+  "source_id": "00406",
+  "name": "Hoành thánh chay chiên nhân khoai môn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4f8b807ff57cb6f4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/hoanh-thanh-chay-bo-duong-thanh-dam-00406",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/hoanh-thanh-chay-bo-duong-thanh-dam-00406",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai môn 1 củ (500gr)",
+      "raw_name": "Khoai môn",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "500gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Khoai tây 1 củ (200gr)",
+      "raw_name": "Khoai tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "200gr",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột năng 2 muỗng canh (hoặc bột bắp)",
+      "raw_name": "Bột năng",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "hoặc bột bắp",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lá hoành thánh tươi 50 gr",
+      "raw_name": "Lá hoành thánh tươi",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 3 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:44:22Z",
+  "page_title": "4 cách làm hoành thánh chay chiên giòn rụm bổ dưỡng thanh đạm đơn giản",
+  "variant_index": 3,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/hoanh-thay-chay-chien-nhan-khoai-mon-thumbnail.jpg"
+}

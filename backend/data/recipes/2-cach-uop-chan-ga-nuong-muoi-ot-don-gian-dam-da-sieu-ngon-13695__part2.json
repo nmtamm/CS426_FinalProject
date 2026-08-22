@@ -1,0 +1,97 @@
+{
+  "source_id": "13695",
+  "name": "Chân gà nướng muối ớt nước tương",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6846be3707238bdf.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-uop-chan-ga-nuong-muoi-ot-don-gian-dam-da-sieu-ngon-13695",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-uop-chan-ga-nuong-muoi-ot-don-gian-dam-da-sieu-ngon-13695",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chân gà 100 gr",
+      "raw_name": "Chân gà",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tỏi 5 tép",
+      "raw_name": "Tỏi 5 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt sừng 1 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt bột 1 muỗng cà phê",
+      "raw_name": "Ớt bột",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Rượu nấu ăn 1 muỗng cà phê",
+      "raw_name": "Rượu nấu ăn",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước tương 1 muỗng cà phê",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ hạt nêm",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:05:53Z",
+  "page_title": "2 cách ướp chân gà nướng muối ớt đơn giản đậm đà siêu ngon chuẩn vị",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/thum.jpg"
+}

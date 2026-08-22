@@ -1,0 +1,65 @@
+{
+  "source_id": "00360",
+  "name": "Thạch rau câu phô mai cà phê",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2e4cdc7e7c495d9a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/thom-thom-beo-beo-voi-thach-rau-cau-pho-mai-00360",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/thom-thom-beo-beo-voi-thach-rau-cau-pho-mai-00360",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    },
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột rau câu dẻo 1 gói (khoảng 10gr)",
+      "raw_name": "Bột rau câu dẻo",
+      "quantity": 1,
+      "unit": "gói",
+      "note": "khoảng 10gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Phô mai con bò cười 80 gr",
+      "raw_name": "Phô mai con bò cười",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà phê đen hòa tan 3 gói",
+      "raw_name": "Cà phê đen hòa tan",
+      "quantity": 3,
+      "unit": "gói",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 270 gr",
+      "raw_name": "Đường",
+      "quantity": 270,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước 1 lít",
+      "raw_name": "Nước 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:11:19Z",
+  "page_title": "2 cách làm thạch rau câu nhân phô mai cà phê thơm ngon, đơn giản tại nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://img.youtube.com/vi/HzxghS5NkIw/maxresdefault.jpg"
+}

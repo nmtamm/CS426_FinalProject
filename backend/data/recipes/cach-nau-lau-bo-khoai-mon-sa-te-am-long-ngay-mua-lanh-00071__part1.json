@@ -1,0 +1,161 @@
+{
+  "source_id": "00071",
+  "name": "Lẩu bò sa tế",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/48a2ccfa8b72eabf.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-lau-bo-khoai-mon-sa-te-am-long-ngay-mua-lanh-00071",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-lau-bo-khoai-mon-sa-te-am-long-ngay-mua-lanh-00071",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-lau",
+      "name": "Món lẩu"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Phi lê bò 300 gr",
+      "raw_name": "Phi lê bò",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt nạm bò 300 gr",
+      "raw_name": "Thịt nạm bò",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt sừng 2 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà chua 2 trái",
+      "raw_name": "Cà chua",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sả 4 nhánh",
+      "raw_name": "Sả",
+      "quantity": 4,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tỏi băm 2 muỗng canh",
+      "raw_name": "Hành tỏi băm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Sả băm 4 muỗng canh",
+      "raw_name": "Sả băm",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đậu phộng rang 1 ít",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Giấm gạo 3 muỗng canh",
+      "raw_name": "Giấm gạo",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Sa tế 2 muỗng canh",
+      "raw_name": "Sa tế",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Bột bò kho 1 muỗng canh",
+      "raw_name": "Bột bò kho",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước dùng xương heo 2 lít",
+      "raw_name": "Nước dùng xương heo 2 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (tiêu/ hạt nêm/ đường/ muối)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "tiêu/ hạt nêm/ đường/ muối",
+      "display_order": 15
+    },
+    {
+      "raw_text": "Mì trứng 5 gói",
+      "raw_name": "Mì trứng",
+      "quantity": 5,
+      "unit": "gói",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Rau ăn kèm 1 ít (cải bẹ xanh/ bông bí/ cà tím)",
+      "raw_name": "Rau ăn kèm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "cải bẹ xanh/ bông bí/ cà tím",
+      "display_order": 17
+    }
+  ],
+  "scraped_at": "2026-08-19T18:24:31Z",
+  "page_title": "3 cách nấu lẩu bò sa tế cay nồng hấp dẫn ấm nóng ngày mưa lạnh",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/lau-bo-sa-te-thumbnail.jpg"
+}

@@ -1,0 +1,53 @@
+{
+  "source_id": "01551",
+  "name": "Khoai lang sấy dẻo bằng lò vi sóng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3e4ea961b0e0607d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-khoai-lang-say-deo-cuc-ngon-va-an-toan-tai-nha-01551",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-khoai-lang-say-deo-cuc-ngon-va-an-toan-tai-nha-01551",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai lang 1 củ",
+      "raw_name": "Khoai lang",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột hương thảo 1 muỗng cà phê",
+      "raw_name": "Bột hương thảo",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tiêu 1/4 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:29:32Z",
+  "page_title": "3 Cách làm khoai lang sấy bằng lò nướng, không lò nướng và lò vi sóng",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookRecipe/Avatar/khoai-lang-say-deo-bang-lo-vi-song-thumbnail-1.jpg"
+}

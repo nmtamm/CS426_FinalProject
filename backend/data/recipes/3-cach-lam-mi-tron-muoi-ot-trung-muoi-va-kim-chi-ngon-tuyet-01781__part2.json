@@ -1,0 +1,117 @@
+{
+  "source_id": "01781",
+  "name": "Mì trộn muối ớt bò tôm trứng ốp la",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3a0526d5ac4b5bf9.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-mi-tron-muoi-ot-trung-muoi-va-kim-chi-ngon-tuyet-01781",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-mi-tron-muoi-ot-trung-muoi-va-kim-chi-ngon-tuyet-01781",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tôm khô 50 gr",
+      "raw_name": "Tôm khô",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt bò 100 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tôm sú 50 gr",
+      "raw_name": "Tôm sú",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trứng gà 1 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt hiểm 1 quả",
+      "raw_name": "Ớt hiểm",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành phi 2 muỗng canh",
+      "raw_name": "Hành phi",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành lá 4 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 4,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành tím 1 củ",
+      "raw_name": "Hành tím",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Sa tế 1/2 muỗng cà phê",
+      "raw_name": "Sa tế",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tương ớt 2 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ tiêu/ bột ngọt/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ tiêu/ bột ngọt/ hạt nêm",
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T20:38:06Z",
+  "page_title": "3 cách làm mì trộn muối ớt ngon miệng đậm đà chuẩn vị như ngoài hàng",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/mi-tron-muoi-ot-bo-trung-long-dao-thumbnail-1.jpg"
+}

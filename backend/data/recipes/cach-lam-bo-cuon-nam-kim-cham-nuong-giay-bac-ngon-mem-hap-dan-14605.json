@@ -1,0 +1,71 @@
+{
+  "source_id": "14605",
+  "name": "Bò cuộn nấm kim châm nướng giấy bạc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/196bb227818d2da5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bo-cuon-nam-kim-cham-nuong-giay-bac-ngon-mem-hap-dan-14605",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bo-cuon-nam-kim-cham-nuong-giay-bac-ngon-mem-hap-dan-14605",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt ba chỉ bò 250 gr",
+      "raw_name": "Thịt ba chỉ bò",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm kim châm 200 gr",
+      "raw_name": "Nấm kim châm",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành lá 2 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước tương 2 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ đường/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ đường/ tiêu xay",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:35:32Z",
+  "page_title": "Cách làm bò cuộn nấm kim châm nướng giấy bạc ngon mềm hấp dẫn",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-bo-cuon-nam-kim-cham-nuong-giay-bac-ngon-mem-hap-dan-avt-1200x676-1.jpg"
+}

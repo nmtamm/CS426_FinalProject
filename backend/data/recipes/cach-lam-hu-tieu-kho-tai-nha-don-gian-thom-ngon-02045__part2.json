@@ -1,0 +1,165 @@
+{
+  "source_id": "02045",
+  "name": "Hủ tiếu khô thịt xá xíu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b9939cdb62b8deca.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-hu-tieu-kho-tai-nha-don-gian-thom-ngon-02045",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-hu-tieu-kho-tai-nha-don-gian-thom-ngon-02045",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt xá xíu 200 gr",
+      "raw_name": "Thịt xá xíu",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt heo 150 gr",
+      "raw_name": "Thịt heo",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tôm khô 10 gr",
+      "raw_name": "Tôm khô",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cà chua 2 quả",
+      "raw_name": "Cà chua",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Cần tây 5 nhánh",
+      "raw_name": "Cần tây",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành lá 5 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ngò rí 5 nhánh",
+      "raw_name": "Ngò rí",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Giá đỗ 100 gr",
+      "raw_name": "Giá đỗ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hẹ 50 gr",
+      "raw_name": "Hẹ",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Tỏi 5 tép",
+      "raw_name": "Tỏi 5 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Bột bắp 2.5 muỗng canh",
+      "raw_name": "Bột bắp",
+      "quantity": 2.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước tương 1/2 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Tương cà 1 muỗng canh",
+      "raw_name": "Tương cà",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Dầu hào 2 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Dầu mè 2 muỗng canh",
+      "raw_name": "Dầu mè",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 17
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ bột ngọt/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ bột ngọt/ hạt nêm",
+      "display_order": 18
+    }
+  ],
+  "scraped_at": "2026-08-19T20:37:49Z",
+  "page_title": "3 cách làm hủ tiếu khô tại nhà đơn giản đậm đà thơm ngon chuẩn ngoài hàng",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/hu-tieu-kho-thit-xa-xiu-thumbnail-1.jpg"
+}

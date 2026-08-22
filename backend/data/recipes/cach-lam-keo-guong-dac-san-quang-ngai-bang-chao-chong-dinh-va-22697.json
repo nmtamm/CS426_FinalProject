@@ -1,0 +1,67 @@
+{
+  "source_id": "22697",
+  "name": "Kẹo gương",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a57848bb11e4844c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-keo-guong-dac-san-quang-ngai-bang-chao-chong-dinh-va-22697",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-keo-guong-dac-san-quang-ngai-bang-chao-chong-dinh-va-22697",
+  "servings_text": "Cho 1 cái",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mè trắng 50 gr",
+      "raw_name": "Mè trắng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường cát trắng 500 gr",
+      "raw_name": "Đường cát trắng",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước lọc 30 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mạch nha 50 gr",
+      "raw_name": "Mạch nha",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chanh 1/2 trái",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đậu phộng đã rang chín 50 gr",
+      "raw_name": "Đậu phộng đã rang chín",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:58:17Z",
+  "page_title": "Cách làm kẹo gương đặc sản Quảng Ngãi bằng chảo chống dính và quánh nấu bột",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/34893ksdjkssasa9.jpg"
+}

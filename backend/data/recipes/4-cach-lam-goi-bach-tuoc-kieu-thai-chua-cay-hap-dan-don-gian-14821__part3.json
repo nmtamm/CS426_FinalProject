@@ -1,0 +1,189 @@
+{
+  "source_id": "14821",
+  "name": "Gỏi bạch tuộc kiểu Thái với mắm Thái",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/59dd82f4f88a8390.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-goi-bach-tuoc-kieu-thai-chua-cay-hap-dan-don-gian-14821",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-goi-bach-tuoc-kieu-thai-chua-cay-hap-dan-don-gian-14821",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bạch tuộc 450 gr",
+      "raw_name": "Bạch tuộc",
+      "quantity": 450,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rau nhút 10 gr",
+      "raw_name": "Rau nhút",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu rồng 1 trái",
+      "raw_name": "Đậu rồng",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mắm cá Thái 2 muỗng canh",
+      "raw_name": "Mắm cá Thái",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Miến 125 gr",
+      "raw_name": "Miến",
+      "quantity": 125,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt cay 20 trái",
+      "raw_name": "Ớt cay",
+      "quantity": 20,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Sả tươi 1 cây",
+      "raw_name": "Sả tươi",
+      "quantity": 1,
+      "unit": "cây",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đậu đũa 3 trái",
+      "raw_name": "Đậu đũa",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Cà chua bi 6 trái",
+      "raw_name": "Cà chua bi",
+      "quantity": 6,
+      "unit": "trái",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đu đủ 1/2 chén (sống)",
+      "raw_name": "Đu đủ",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": "sống",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Lá chanh 10 cái",
+      "raw_name": "Lá chanh",
+      "quantity": 10,
+      "unit": "cái",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Chanh 1 trái",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Hạt keo 1 ít",
+      "raw_name": "Hạt keo",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Đậu Sator 1 ít",
+      "raw_name": "Đậu Sator",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Nước đường Thái 2 muỗng canh",
+      "raw_name": "Nước đường Thái",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Giấm 2 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 17
+    },
+    {
+      "raw_text": "Nước me 1 muỗng canh",
+      "raw_name": "Nước me",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 18
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 19
+    },
+    {
+      "raw_text": "Muối 3 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 20
+    },
+    {
+      "raw_text": "Bột ngọt 1 muỗng cà phê",
+      "raw_name": "Bột ngọt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 21
+    }
+  ],
+  "scraped_at": "2026-08-19T17:59:53Z",
+  "page_title": "4 cách làm gỏi bạch tuộc kiểu Thái chua cay hấp dẫn đơn giản ăn là ghiền",
+  "variant_index": 3,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/goi-bach-tuoc-kieu-thai-voi-mam-thai-thumbnail.jpg"
+}

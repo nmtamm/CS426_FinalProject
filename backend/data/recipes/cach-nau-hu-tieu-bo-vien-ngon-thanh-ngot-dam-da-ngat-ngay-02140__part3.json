@@ -1,0 +1,98 @@
+{
+  "source_id": "02140",
+  "name": "Hủ tiếu bò viên sườn non",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f500caff9280ffb6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-hu-tieu-bo-vien-ngon-thanh-ngot-dam-da-ngat-ngay-02140",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-hu-tieu-bo-vien-ngon-thanh-ngot-dam-da-ngat-ngay-02140",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-nuoc",
+      "name": "Món nước"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sườn cọng chặt nhỏ 350 gr (khoảng 1 cọng sườn)",
+      "raw_name": "Sườn cọng chặt nhỏ",
+      "quantity": 350,
+      "unit": "gr",
+      "note": "khoảng 1 cọng sườn",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bò viên 100 gr",
+      "raw_name": "Bò viên",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng cút luộc 15 quả",
+      "raw_name": "Trứng cút luộc",
+      "quantity": 15,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sợi hủ tiếu tươi 200 gr",
+      "raw_name": "Sợi hủ tiếu tươi",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Giá/ hẹ hoặc hành lá 200 gr",
+      "raw_name": "Giá/ hẹ hoặc hành lá",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tím 2 củ (băm nhuyễn)",
+      "raw_name": "Hành tím",
+      "quantity": 2,
+      "unit": "củ",
+      "note": "băm nhuyễn",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi 2 tép (băm nhuyễn)",
+      "raw_name": "Tỏi 2 tép",
+      "quantity": null,
+      "unit": null,
+      "note": "băm nhuyễn",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tóp mỡ 1 muỗng canh",
+      "raw_name": "Tóp mỡ",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị hủ tiếu 40 gr (2 viên)",
+      "raw_name": "Gia vị hủ tiếu",
+      "quantity": 40,
+      "unit": "gr",
+      "note": "2 viên",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:31:40Z",
+  "page_title": "3 cách nấu hủ tiếu bò viên nước dùng trong veo hấp dẫn ngon dễ làm",
+  "variant_index": 3,
+  "variant_count": 3,
+  "note": "Công thức được chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2022/06/CookRecipe/Avatar/hu-tiu-bo-vien-suon-non-cong-thuc-duoc-chia-se-tu-nguoi-dung-thumbnail.jpg"
+}

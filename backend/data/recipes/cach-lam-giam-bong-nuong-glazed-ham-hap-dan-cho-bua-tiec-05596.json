@@ -1,0 +1,67 @@
+{
+  "source_id": "05596",
+  "name": "Dăm bông nướng - Glazed Ham",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/74129a8e9078ef9e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-giam-bong-nuong-glazed-ham-hap-dan-cho-bua-tiec-05596",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-giam-bong-nuong-glazed-ham-hap-dan-cho-bua-tiec-05596",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt dăm bông 1.7 kg (nguyên khối)",
+      "raw_name": "Thịt dăm bông",
+      "quantity": 1.7,
+      "unit": "kg",
+      "note": "nguyên khối",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành tây 2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước ép thơm 3.125 ml",
+      "raw_name": "Nước ép thơm",
+      "quantity": 3.125,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mù tạt Dijon 2 muỗng canh",
+      "raw_name": "Mù tạt Dijon",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Xi rô cây phong 1250 ml (Maple syrup)",
+      "raw_name": "Xi rô cây phong",
+      "quantity": 1250,
+      "unit": "ml",
+      "note": "Maple syrup",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đinh hương 25 gr",
+      "raw_name": "Đinh hương",
+      "quantity": 25,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:43:18Z",
+  "page_title": "Cách làm dăm bông nướng - Glazed Ham hấp dẫn cho bữa tiệc Giáng Sinh",
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookProduct/g61-1200x676.jpg"
+}

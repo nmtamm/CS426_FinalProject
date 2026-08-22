@@ -1,0 +1,139 @@
+{
+  "source_id": "09166",
+  "name": "Nộm sứa đỏ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/aa5dd647ea130be1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nom-sua-do-cham-bong-va-mam-tom-thom-ngon-hap-dan-la-09166",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nom-sua-do-cham-bong-va-mam-tom-thom-ngon-hap-dan-la-09166",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sứa đỏ 1 kg",
+      "raw_name": "Sứa đỏ",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cơm rượu nếp 150 gr",
+      "raw_name": "Cơm rượu nếp",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà chua 500 gr",
+      "raw_name": "Cà chua",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dừa bào sợi 100 gr",
+      "raw_name": "Dừa bào sợi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột năng 100 gr",
+      "raw_name": "Bột năng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đậu phộng 50 gr",
+      "raw_name": "Đậu phộng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt hiểm 2 trái (cắt lát nhỏ)",
+      "raw_name": "Ớt hiểm",
+      "quantity": 2,
+      "unit": "trái",
+      "note": "cắt lát nhỏ",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tỏi 1 muỗng canh (băm nhỏ)",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "băm nhỏ",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Chanh 1 quả",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Giấm gạo 5 muỗng canh",
+      "raw_name": "Giấm gạo",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Mắm tôm 1 muỗng cà phê",
+      "raw_name": "Mắm tôm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Hạt nêm 2 muỗng canh",
+      "raw_name": "Hạt nêm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Rau sống các loại 100 gr",
+      "raw_name": "Rau sống các loại",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ bột ngọt/ muối)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ bột ngọt/ muối",
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T17:55:04Z",
+  "page_title": "Cách làm nộm sứa đỏ chấm bỗng và mắm tôm thơm ngon hấp dẫn lạ miệng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookProduct/BeFunky-collage(1)-1200x676-1.jpg"
+}

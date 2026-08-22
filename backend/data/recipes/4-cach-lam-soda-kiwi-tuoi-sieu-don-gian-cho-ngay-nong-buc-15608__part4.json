@@ -1,0 +1,69 @@
+{
+  "source_id": "15608",
+  "name": "Soda kiwi chanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/88e88f573e909607.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-soda-kiwi-tuoi-sieu-don-gian-cho-ngay-nong-buc-15608",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-soda-kiwi-tuoi-sieu-don-gian-cho-ngay-nong-buc-15608",
+  "servings_text": "Cho 3 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Kiwi 5 quả (cỡ vừa)",
+      "raw_name": "Kiwi",
+      "quantity": 5,
+      "unit": "quả",
+      "note": "cỡ vừa",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường cát 700 gr",
+      "raw_name": "Đường cát",
+      "quantity": 700,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chanh vàng 3 quả (cỡ lớn)",
+      "raw_name": "Chanh vàng",
+      "quantity": 3,
+      "unit": "quả",
+      "note": "cỡ lớn",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Soda 660 ml (2 lon)",
+      "raw_name": "Soda",
+      "quantity": 660,
+      "unit": "ml",
+      "note": "2 lon",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Giấm ăn 1/2 chén",
+      "raw_name": "Giấm ăn",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:55:29Z",
+  "page_title": "4 cách làm soda kiwi tươi siêu đơn giản cho ngày nóng bức",
+  "variant_index": 4,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/soda-kiwi-chanh-thumbnail.jpg"
+}

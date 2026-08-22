@@ -1,0 +1,81 @@
+{
+  "source_id": "05564",
+  "name": "Gà cuộn măng tây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/100feb8dea888777.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-ga-cuon-rong-bien-va-mang-tay-chien-gion-thom-ngon-05564",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-ga-cuon-rong-bien-va-mang-tay-chien-gion-thom-ngon-05564",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ức gà 350 gr",
+      "raw_name": "Ức gà",
+      "quantity": 350,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Măng tây 200 gr",
+      "raw_name": "Măng tây",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi băm 3 tép",
+      "raw_name": "Tỏi băm 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lá húng quế khô 1 ít",
+      "raw_name": "Lá húng quế khô",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hạt nêm 1 muỗng cà phê",
+      "raw_name": "Hạt nêm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tiêu xay 1/2 muỗng cà phê",
+      "raw_name": "Tiêu xay",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bơ 2 muỗng canh",
+      "raw_name": "Bơ",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:19:14Z",
+  "page_title": "2 cách làm gà cuộn rong biển và măng tây chiên giòn thơm ngon, hấp dẫn",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookRecipe/Avatar/uc-ga-cuon-mang-tay-thumbnail.jpg"
+}

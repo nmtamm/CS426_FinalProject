@@ -1,0 +1,89 @@
+{
+  "source_id": "08281",
+  "name": "Trứng in hình vân đá cẩm thạch (trứng ngâm trà)",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/53bad5f7cde25b6f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-trung-luoc-ngam-in-hinh-van-da-hoa-la-vua-bo-duong-08281",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-trung-luoc-ngam-in-hinh-van-da-hoa-la-vua-bo-duong-08281",
+  "servings_text": "Cho 6 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trứng gà 6 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 6,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trà túi lọc 2 gói",
+      "raw_name": "Trà túi lọc",
+      "quantity": 2,
+      "unit": "gói",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Xuyên tiêu 0.5 gr",
+      "raw_name": "Xuyên tiêu",
+      "quantity": 0.5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cánh hồi 2 cái",
+      "raw_name": "Cánh hồi",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Quế 1 gr",
+      "raw_name": "Quế",
+      "quantity": 1,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hắc xì dầu 10 ml",
+      "raw_name": "Hắc xì dầu",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước tương 20 ml",
+      "raw_name": "Nước tương",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối/ đường 1 ít",
+      "raw_name": "Muối/ đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:08:07Z",
+  "page_title": "2 Cách làm trứng luộc ngâm in hình vân đá, hoa lá vừa bổ dưỡng lại đẹp mắt",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/trung-in-hinh-van-da-cam-thach-trung-ngam-tra-thumbnail.jpg"
+}

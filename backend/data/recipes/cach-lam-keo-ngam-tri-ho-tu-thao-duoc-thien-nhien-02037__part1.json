@@ -1,0 +1,77 @@
+{
+  "source_id": "02037",
+  "name": "Kẹo gừng đinh hương ngậm ho",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/456ea0ddeee2e703.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-keo-ngam-tri-ho-tu-thao-duoc-thien-nhien-02037",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-keo-ngam-tri-ho-tu-thao-duoc-thien-nhien-02037",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mật ong 2 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột đinh hương 1/4 muỗng canh",
+      "raw_name": "Bột đinh hương",
+      "quantity": 0.25,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 200 gr",
+      "raw_name": "Đường",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường bột 1 ít",
+      "raw_name": "Đường bột",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước 80 ml",
+      "raw_name": "Nước",
+      "quantity": 80,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:06:15Z",
+  "page_title": "4 cách làm kẹo gừng ngậm ho từ thảo dược thiên nhiên bổ dưỡng, ấm nóng",
+  "variant_index": 1,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/keo-gung-dinh-huong-ngam-ho-thumbnail.jpg"
+}

@@ -1,0 +1,139 @@
+{
+  "source_id": "11642",
+  "name": "Gỏi sầu đâu khô cá sặc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8afe12b11d6e6496.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-sau-dau-kho-ca-sac-ngon-quen-loi-ve-che-bien-11642",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-sau-dau-kho-ca-sac-ngon-quen-loi-ve-che-bien-11642",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khô cá sặc 1 con (lớn)",
+      "raw_name": "Khô cá sặc 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": "lớn",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt ba rọi 200 gr",
+      "raw_name": "Thịt ba rọi",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá sầu đâu non 50 gr",
+      "raw_name": "Lá sầu đâu non",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dưa leo 1 trái",
+      "raw_name": "Dưa leo",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Thơm 1/4 trái (dứa)",
+      "raw_name": "Thơm",
+      "quantity": 0.25,
+      "unit": "trái",
+      "note": "dứa",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Xoài xanh 1 trái",
+      "raw_name": "Xoài xanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Me chín 100 gr",
+      "raw_name": "Me chín",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt tươi 2 trái",
+      "raw_name": "Ớt tươi",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tỏi khô 3 tép",
+      "raw_name": "Tỏi khô 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Ngò gai 100 gr",
+      "raw_name": "Ngò gai",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Rau răm 100 gr",
+      "raw_name": "Rau răm",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu ăn 100 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ muối/hạt nêm/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ muối/hạt nêm/ tiêu xay",
+      "display_order": 13
+    },
+    {
+      "raw_text": "Đường 4 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 4,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Nước mắm 3 muỗng cà phê",
+      "raw_name": "Nước mắm",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T17:58:32Z",
+  "page_title": "Cách làm gỏi sầu đâu khô cá sặc ngon quên lối về chế biến nhanh, dễ",
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookProduct/BeFunky-collage(12)-1200x676.jpg"
+}

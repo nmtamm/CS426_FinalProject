@@ -1,0 +1,97 @@
+{
+  "source_id": "06961",
+  "name": "Cá viên sốt trứng muối",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d9a313ad5e03fc06.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-ca-vien-chien-nuoc-mam-sot-cay-va-sot-me-ngon-dam-06961",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-ca-vien-chien-nuoc-mam-sot-cay-va-sot-me-ngon-dam-06961",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cá viên thập cẩm 300 gr",
+      "raw_name": "Cá viên thập cẩm",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng vịt muối 10 quả",
+      "raw_name": "Trứng vịt muối",
+      "quantity": 10,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa tươi không đường 20 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Kem béo 30 ml",
+      "raw_name": "Kem béo",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bơ lạt 20 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sữa đặc 20 ml",
+      "raw_name": "Sữa đặc",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bắp mỹ tách hạt 50 gr",
+      "raw_name": "Bắp mỹ tách hạt",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng cà phê",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu ăn 100 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:18:19Z",
+  "page_title": "4 cách làm cá viên chiên nước mắm, sốt cay, sốt me và sốt trứng muối ngon",
+  "variant_index": 1,
+  "variant_count": 4,
+  "original_image_url": "https://img.youtube.com/vi/lqY-PCpfGVs/maxresdefault.jpg"
+}

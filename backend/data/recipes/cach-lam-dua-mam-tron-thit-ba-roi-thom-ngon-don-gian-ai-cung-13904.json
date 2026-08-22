@@ -1,0 +1,91 @@
+{
+  "source_id": "13904",
+  "name": "Dưa mắm trộn thịt ba rọi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2592708f9e4aedad.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dua-mam-tron-thit-ba-roi-thom-ngon-don-gian-ai-cung-13904",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dua-mam-tron-thit-ba-roi-thom-ngon-don-gian-ai-cung-13904",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt ba rọi 500 gr",
+      "raw_name": "Thịt ba rọi",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dưa mắm 400 gr",
+      "raw_name": "Dưa mắm",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 2 củ",
+      "raw_name": "Tỏi",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt sừng 2 quả",
+      "raw_name": "Ớt sừng",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt hiểm 10 quả",
+      "raw_name": "Ớt hiểm",
+      "quantity": 10,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Chanh 1/2 quả",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Rau răm 5 nhánh",
+      "raw_name": "Rau răm",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Giấm 1 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối/ đường 1 ít",
+      "raw_name": "Muối/ đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T20:30:36Z",
+  "page_title": "Cách làm dưa mắm trộn thịt ba rọi thơm ngon đơn giản ai cũng mê",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-dua-mam-tron-thit-ba-roi-thom-ngon-don-gian-ai-cung-avt-1200x676.jpg"
+}

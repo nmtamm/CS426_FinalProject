@@ -1,0 +1,39 @@
+{
+  "source_id": "09182",
+  "name": "Khai từ luộc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5e7f15ce7a0ca431.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-luoc-khoai-tu-ngon-ngot-beo-bui-mon-an-goi-nho-tuoi-tho-09182",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-luoc-khoai-tu-ngon-ngot-beo-bui-mon-an-goi-nho-tuoi-tho-09182",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai từ 1 kg",
+      "raw_name": "Khoai từ",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:01:41Z",
+  "page_title": "Cách luộc khoai từ ngon ngọt béo bùi món ăn gợi nhớ tuổi thơ rất dễ tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookProduct/1-1200x676-64.jpg"
+}

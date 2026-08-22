@@ -1,0 +1,51 @@
+{
+  "source_id": "23026",
+  "name": "Chí chương",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8f776f7ab8e4a4dc.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chi-chuong-tuong-ot-hai-phong-cay-nong-tai-nha-voi-23026",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chi-chuong-tuong-ot-hai-phong-cay-nong-tai-nha-voi-23026",
+  "servings_text": "Cho khoảng 4 - 5 lít",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ớt đỏ 2 kg",
+      "raw_name": "Ớt đỏ",
+      "quantity": 2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối ăn 100 gr",
+      "raw_name": "Muối ăn",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi ta 300 gr (hoặc dùng tỏi Lý Sơn để có vị cay)",
+      "raw_name": "Tỏi ta",
+      "quantity": 300,
+      "unit": "gr",
+      "note": "hoặc dùng tỏi Lý Sơn để có vị cay",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 50 gr (tùy ý)",
+      "raw_name": "Đường",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "tùy ý",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:27:08Z",
+  "page_title": "Cách làm chí chương - tương ớt Hải Phòng cay nồng tại nhà với máy xay",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20thumb%20to%20t7%20%2824%29.jpg"
+}

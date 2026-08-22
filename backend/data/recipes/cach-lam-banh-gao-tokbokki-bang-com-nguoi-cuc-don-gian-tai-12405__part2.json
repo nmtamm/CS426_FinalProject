@@ -1,0 +1,98 @@
+{
+  "source_id": "12405",
+  "name": "Bánh gạo tokbokki bằng cơm nguội",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ab02377b7bcab727.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-gao-tokbokki-bang-com-nguoi-cuc-don-gian-tai-12405",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-gao-tokbokki-bang-com-nguoi-cuc-don-gian-tai-12405",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cơm nguội 1 chén",
+      "raw_name": "Cơm nguội",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột năng 3 muỗng canh",
+      "raw_name": "Bột năng",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột gạo 3 muỗng canh",
+      "raw_name": "Bột gạo",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trứng gà 1 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Kim chi 1 ít",
+      "raw_name": "Kim chi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tương ớt 2 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt bột 1 ít",
+      "raw_name": "Ớt bột",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (hạt nêm/ đường/ muối)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hạt nêm/ đường/ muối",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:08:37Z",
+  "page_title": "3 Cách làm bánh gạo tokbokki bằng cơm nguội cực đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 3,
+  "note": "công thức được chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/banh-gao-tokbokki-bang-com-nguoi-thumbnail-3.jpg"
+}

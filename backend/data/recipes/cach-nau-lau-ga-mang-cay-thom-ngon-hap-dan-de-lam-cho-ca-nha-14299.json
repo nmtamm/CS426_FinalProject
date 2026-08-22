@@ -1,0 +1,143 @@
+{
+  "source_id": "14299",
+  "name": "Lẩu gà măng cay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1482d4ce890ded8f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-lau-ga-mang-cay-thom-ngon-hap-dan-de-lam-cho-ca-nha-14299",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-lau-ga-mang-cay-thom-ngon-hap-dan-de-lam-cho-ca-nha-14299",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-lau",
+      "name": "Món lẩu"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà 1 con (làm sẵn)",
+      "raw_name": "Gà 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": "làm sẵn",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Măng tươi 200 gr",
+      "raw_name": "Măng tươi",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nấm rơm 200 gr",
+      "raw_name": "Nấm rơm",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà chua 3 quả",
+      "raw_name": "Cà chua",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rau ngò ôm 100 gr",
+      "raw_name": "Rau ngò ôm",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tím 3 củ (băm nhuyễn)",
+      "raw_name": "Hành tím",
+      "quantity": 3,
+      "unit": "củ",
+      "note": "băm nhuyễn",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tỏi 2 củ (băm nhuyễn)",
+      "raw_name": "Tỏi",
+      "quantity": 2,
+      "unit": "củ",
+      "note": "băm nhuyễn",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Sả 4 cây",
+      "raw_name": "Sả",
+      "quantity": 4,
+      "unit": "cây",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Ớt bột 2 muỗng canh",
+      "raw_name": "Ớt bột",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Ngũ vị hương 1 muỗng cà phê",
+      "raw_name": "Ngũ vị hương",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Bột màu đỏ thực phẩm 1 muỗng cà phê (hoặc màu dầu điều)",
+      "raw_name": "Bột màu đỏ thực phẩm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "hoặc màu dầu điều",
+      "display_order": 13
+    },
+    {
+      "raw_text": "Giấm 1 ít",
+      "raw_name": "Giấm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/đường/hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/đường/hạt nêm",
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T18:12:11Z",
+  "page_title": "Cách nấu lẩu gà măng cay thơm ngon hấp dẫn dễ làm cho cả nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-nau-lau-ga-mang-cay-thom-ngon-hap-dan-cho-ca-nha-avt-1200x676-1.jpg"
+}

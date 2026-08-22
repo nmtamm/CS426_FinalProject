@@ -1,0 +1,103 @@
+{
+  "source_id": "07725",
+  "name": "Canh gà khổ qua",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9dc07af301697614.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-canh-ga-kho-qua-don-gian-thanh-mat-giai-nhiet-cho-07725",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-canh-ga-kho-qua-don-gian-thanh-mat-giai-nhiet-cho-07725",
+  "servings_text": "Cho 2 phần ăn",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-canh",
+      "name": "Món canh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khổ qua 2 trái (mướp đắng)",
+      "raw_name": "Khổ qua",
+      "quantity": 2,
+      "unit": "trái",
+      "note": "mướp đắng",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt gà 300 gr",
+      "raw_name": "Thịt gà",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá/Rau ngò 1 ít",
+      "raw_name": "Hành lá/Rau ngò",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tím 1 củ",
+      "raw_name": "Hành tím",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gừng 1 nhánh",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu 2 muỗng canh",
+      "raw_name": "Dầu",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước mắm 1 ít",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột ngột/hạt nêm 1 ít",
+      "raw_name": "Bột ngột/hạt nêm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:10:08Z",
+  "page_title": "Cách nấu canh gà khổ qua đơn giản thanh mát giải nhiệt cho gia đình",
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookProduct/Untitled-1-1200x676-22.jpg"
+}

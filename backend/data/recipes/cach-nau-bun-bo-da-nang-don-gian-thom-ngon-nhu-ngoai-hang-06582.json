@@ -1,0 +1,143 @@
+{
+  "source_id": "06582",
+  "name": "Bún bò Đà Nẵng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/39f27d6ccd3512f5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-bun-bo-da-nang-don-gian-thom-ngon-nhu-ngoai-hang-06582",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-bun-bo-da-nang-don-gian-thom-ngon-nhu-ngoai-hang-06582",
+  "servings_text": "Cho 10 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-nuoc",
+      "name": "Món nước"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đuôi bò 1 kg",
+      "raw_name": "Đuôi bò",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xương heo 1 kg",
+      "raw_name": "Xương heo",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Xương ống tủy 1 kg",
+      "raw_name": "Xương ống tủy",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chả lụa 1 kg",
+      "raw_name": "Chả lụa",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bún 2 kg",
+      "raw_name": "Bún",
+      "quantity": 2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Sả 8 cây",
+      "raw_name": "Sả",
+      "quantity": 8,
+      "unit": "cây",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành lá 5 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Thơm 1/2 trái",
+      "raw_name": "Thơm",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Mật ong 2 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước mắm 16 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 16,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu màu điều 3 muỗng canh",
+      "raw_name": "Dầu màu điều",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Mắm ruốc 1 ít",
+      "raw_name": "Mắm ruốc",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Hành ớt ngâm dấm 1 ít (ăn kèm)",
+      "raw_name": "Hành ớt ngâm dấm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "ăn kèm",
+      "display_order": 14
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T18:28:02Z",
+  "page_title": "Cách nấu bún bò Đà Nẵng biến tấu đơn giản hơn tại nhà, ăn là ghiền",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/BUNBODACSANDANANG.HUONGVIDAMDAKHONGBOTNGOTKHONGBOTNEM.NGONTUTHITNGOTTUXUONG.0-13screenshot-1200x676.jpg"
+}

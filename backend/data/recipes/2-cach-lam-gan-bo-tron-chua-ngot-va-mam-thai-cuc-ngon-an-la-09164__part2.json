@@ -1,0 +1,161 @@
+{
+  "source_id": "09164",
+  "name": "Gân bò trộn mắm thái",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a19d2ae682ab1894.png",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-gan-bo-tron-chua-ngot-va-mam-thai-cuc-ngon-an-la-09164",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-gan-bo-tron-chua-ngot-va-mam-thai-cuc-ngon-an-la-09164",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gân bò 500 gr",
+      "raw_name": "Gân bò",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lá nguyệt quế 2 gr",
+      "raw_name": "Lá nguyệt quế",
+      "quantity": 2,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột gạo lức 20 gr",
+      "raw_name": "Bột gạo lức",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Quế 10 gr",
+      "raw_name": "Quế",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hoa hồi 8 gr",
+      "raw_name": "Hoa hồi",
+      "quantity": 8,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sả 30 gr",
+      "raw_name": "Sả",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gừng 30 gr",
+      "raw_name": "Gừng",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành tây 60 gr",
+      "raw_name": "Hành tây",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Me vắt 80 gr",
+      "raw_name": "Me vắt",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Thìa là 1/4 muỗng canh",
+      "raw_name": "Thìa là",
+      "quantity": 0.25,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Hành tím 40 gr",
+      "raw_name": "Hành tím",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Rau nêm 1 ít (hành lá/mùi tàu hoặc ngò gai)",
+      "raw_name": "Rau nêm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hành lá/mùi tàu hoặc ngò gai",
+      "display_order": 12
+    },
+    {
+      "raw_text": "Tiêu sọ 7 gr",
+      "raw_name": "Tiêu sọ",
+      "quantity": 7,
+      "unit": "gr",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Bột ớt 15 gr",
+      "raw_name": "Bột ớt",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Nước mắm 40 ml",
+      "raw_name": "Nước mắm",
+      "quantity": 40,
+      "unit": "ml",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Đường thốt nốt 40 gr",
+      "raw_name": "Đường thốt nốt",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Hạt nêm/tiêu 1 ít",
+      "raw_name": "Hạt nêm/tiêu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 17
+    }
+  ],
+  "scraped_at": "2026-08-19T18:25:50Z",
+  "page_title": "2 cách làm gân bò trộn chua ngọt và mắm thái cực ngon, ăn là ghiền",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookRecipe/Avatar/gan-bo-tron-mam-thai-thumbnail.png"
+}

@@ -1,0 +1,79 @@
+{
+  "source_id": "06283",
+  "name": "Cheesecake chuối lạnh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9c920cbb6dca8b62.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cheesecake-chuoi-lanh-thom-ngon-khong-can-lo-nuong-06283",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cheesecake-chuoi-lanh-thom-ngon-khong-can-lo-nuong-06283",
+  "servings_text": "Cho 8 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chuối 3 quả",
+      "raw_name": "Chuối",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Phô mai mascarpone 500 gr",
+      "raw_name": "Phô mai mascarpone",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Whipping cream 200 ml",
+      "raw_name": "Whipping cream",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bánh quy 150 gr",
+      "raw_name": "Bánh quy",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bơ lạt 70 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 70,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 70 gr",
+      "raw_name": "Đường",
+      "quantity": 70,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Chanh 1 quả",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:22:58Z",
+  "page_title": "Cách làm cheesecake chuối lạnh thơm ngon không cần lò nướng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/1200-1200x676-12.jpg"
+}

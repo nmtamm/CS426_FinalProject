@@ -1,0 +1,93 @@
+{
+  "source_id": "09657",
+  "name": "Sụn gà xào sa tế",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/285b126692344e83.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sun-ga-xao-sa-te-va-sa-ot-gion-gion-cay-cay-cuc-da-09657",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sun-ga-xao-sa-te-va-sa-ot-gion-gion-cay-cay-cuc-da-09657",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sụn gà 300 gr",
+      "raw_name": "Sụn gà",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt chuông đỏ 1 trái",
+      "raw_name": "Ớt chuông đỏ",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt chuông xanh 1 trái",
+      "raw_name": "Ớt chuông xanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 4 tép",
+      "raw_name": "Tỏi 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sa tế 1 muỗng canh",
+      "raw_name": "Sa tế",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu màu điều 1 muỗng canh",
+      "raw_name": "Dầu màu điều",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước tương 2 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ bột ngọt/ muối)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ bột ngọt/ muối",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:14:41Z",
+  "page_title": "2 cách làm sụn gà xào sa tế và sả ớt giòn giòn, cay cay cực đã miệng",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookRecipe/Avatar/sun-ga-xao-sa-te-thumbnail.jpg"
+}

@@ -1,0 +1,95 @@
+{
+  "source_id": "02269",
+  "name": "Bánh trung thu dẻo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/73fd1c5a70b5340e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-deo-trung-thu-nhan-thap-cam-thom-ngo-02269",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-deo-trung-thu-nhan-thap-cam-thom-ngo-02269",
+  "servings_text": "Cho 5 cái",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột dẻo 150 gr (dành cho phần vỏ bánh)",
+      "raw_name": "Bột dẻo",
+      "quantity": 150,
+      "unit": "gr",
+      "note": "dành cho phần vỏ bánh",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước đường 500 ml (dành cho phần vỏ bánh)",
+      "raw_name": "Nước đường",
+      "quantity": 500,
+      "unit": "ml",
+      "note": "dành cho phần vỏ bánh",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tinh dầu hoa bưởi 10 ml (dành cho phần vỏ bánh)",
+      "raw_name": "Tinh dầu hoa bưởi",
+      "quantity": 10,
+      "unit": "ml",
+      "note": "dành cho phần vỏ bánh",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mứt bí 50 gr (dành cho phần nhân)",
+      "raw_name": "Mứt bí",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "dành cho phần nhân",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột dẻo 10 gr (dành cho phần nhân)",
+      "raw_name": "Bột dẻo",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "dành cho phần nhân",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lạp xưởng 20 gr (dành cho phần nhân)",
+      "raw_name": "Lạp xưởng",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "dành cho phần nhân",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hạt dưa 10 gr (dành cho phần nhân)",
+      "raw_name": "Hạt dưa",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "dành cho phần nhân",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hạt vừng 5 gr (dành cho phần nhân)",
+      "raw_name": "Hạt vừng",
+      "quantity": 5,
+      "unit": "gr",
+      "note": "dành cho phần nhân",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tinh dầu hoa bưởi 5 ml (dành cho phần nhân)",
+      "raw_name": "Tinh dầu hoa bưởi",
+      "quantity": 5,
+      "unit": "ml",
+      "note": "dành cho phần nhân",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:44:40Z",
+  "page_title": "Cách làm bánh dẻo trung thu nhân thập cẩm thơm ngon không cần lò nướng",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/05/05/1253533/cach-lam-banh-deo-trung-thu-nhan-thap-cam-thom-ngo-25-760x367.jpg"
+}

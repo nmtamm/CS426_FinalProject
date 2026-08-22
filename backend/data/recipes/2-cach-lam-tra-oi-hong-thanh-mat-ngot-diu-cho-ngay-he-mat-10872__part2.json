@@ -1,0 +1,69 @@
+{
+  "source_id": "10872",
+  "name": "Trà ổi hồng ngâm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f1d0bb79fd36c683.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-oi-hong-thanh-mat-ngot-diu-cho-ngay-he-mat-10872",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-oi-hong-thanh-mat-ngot-diu-cho-ngay-he-mat-10872",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Túi lọc trà đen 1 cái",
+      "raw_name": "Túi lọc trà đen",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ổi hồng 1 kg",
+      "raw_name": "Ổi hồng",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường cát 300 gr",
+      "raw_name": "Đường cát",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước chanh 1 muỗng canh",
+      "raw_name": "Nước chanh",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Siro hương chanh vàng 20 ml",
+      "raw_name": "Siro hương chanh vàng",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:54:04Z",
+  "page_title": "2 cách làm trà ổi hồng thanh mát ngọt dịu cho ngày hè mát lành",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookRecipe/Avatar/tra-oi-hong-ngam-thumbnail.jpg"
+}

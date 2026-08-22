@@ -1,0 +1,39 @@
+{
+  "source_id": "00627",
+  "name": "Bánh trung thu nhân kem lạnh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3013da305dbf9c58.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/lam-banh-trung-thu-nhan-kem-lanh-la-ma-quen-00627",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/lam-banh-trung-thu-nhan-kem-lanh-la-ma-quen-00627",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chocolate đắng 300 gr",
+      "raw_name": "Chocolate đắng",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Kem 1 kg (có thể tùy chọn nhiều loại mùi vị mình thích sao cho tổng lượng kem là 1 kg)",
+      "raw_name": "Kem",
+      "quantity": 1,
+      "unit": "kg",
+      "note": "có thể tùy chọn nhiều loại mùi vị mình thích sao cho tổng lượng kem là 1 kg",
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:45:45Z",
+  "page_title": "Làm bánh trung thu nhân kem lạnh lạ mà quen",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2016/08/20/877365/lam-banh-trung-thu-nhan-kem-lanh-la-ma-quen-760x367.jpg"
+}

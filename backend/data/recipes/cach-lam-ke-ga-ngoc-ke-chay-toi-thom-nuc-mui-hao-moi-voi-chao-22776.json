@@ -1,0 +1,79 @@
+{
+  "source_id": "22776",
+  "name": "Kê gà cháy tỏi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/408fdf290a9dcf4d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ke-ga-ngoc-ke-chay-toi-thom-nuc-mui-hao-moi-voi-chao-22776",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ke-ga-ngoc-ke-chay-toi-thom-nuc-mui-hao-moi-voi-chao-22776",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Kê gà 300 gr",
+      "raw_name": "Kê gà",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tỏi 2 củ",
+      "raw_name": "Tỏi",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi phi 1 muỗng canh",
+      "raw_name": "Tỏi phi",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rau răm 1 ít",
+      "raw_name": "Rau răm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gừng 1 nhánh",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nguyên liệu xào cùng tùy ý 1 ít (hành tây/ ớt chuông/ ớt sừng/ cà rốt/ gốc hành lá)",
+      "raw_name": "Nguyên liệu xào cùng tùy ý",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hành tây/ ớt chuông/ ớt sừng/ cà rốt/ gốc hành lá",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ bột ngọt/ tương ớt/ dầu hào/ đường/ nước tương/ dầu ăn)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ bột ngọt/ tương ớt/ dầu hào/ đường/ nước tương/ dầu ăn",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:06:40Z",
+  "page_title": "Cách làm kê gà (ngọc kê) cháy tỏi thơm nức mũi, hao mồi với chảo nhôm lớn",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/05052025%20%2856%29.jpg"
+}

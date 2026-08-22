@@ -1,0 +1,71 @@
+{
+  "source_id": "01674",
+  "name": "Bánh cam tươi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4beaf1e6181e90f6.png",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-cam-tuoi-thom-ngon-tang-suc-de-khang-cho-co-the-01674",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-cam-tuoi-thom-ngon-tang-suc-de-khang-cho-co-the-01674",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cam tươi 600 gr",
+      "raw_name": "Cam tươi",
+      "quantity": 600,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột bắp 30 gr",
+      "raw_name": "Bột bắp",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột năng 30 gr",
+      "raw_name": "Bột năng",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 40 gr (hoặc 60gr nếu thích ăn ngọt)",
+      "raw_name": "Đường",
+      "quantity": 40,
+      "unit": "gr",
+      "note": "hoặc 60gr nếu thích ăn ngọt",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bơ nhạt 20 gr",
+      "raw_name": "Bơ nhạt",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dừa sấy khô 5 gr",
+      "raw_name": "Dừa sấy khô",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:11:47Z",
+  "page_title": "Cách làm bánh cam tươi thơm ngon, tăng sức đề kháng cho cơ thể",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/02/18/1237143/cach-lam-banh-cam-tuoi-thom-ngon-tang-suc-de-khang-cho-co-the-760x367.png"
+}

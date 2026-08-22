@@ -1,0 +1,51 @@
+{
+  "source_id": "23580",
+  "name": "Rượu táo đỏ kỷ tử",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5218e610058c3607.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-ngam-ruou-tao-do-ky-tu-don-gian-an-toan-giu-tron-duong-23580",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-ngam-ruou-tao-do-ky-tu-don-gian-an-toan-giu-tron-duong-23580",
+  "servings_text": "Cho 1 bình 4.3 lít",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Táo đỏ khô 300 gr (quả to)",
+      "raw_name": "Táo đỏ khô",
+      "quantity": 300,
+      "unit": "gr",
+      "note": "quả to",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Kỷ tử 100 gr",
+      "raw_name": "Kỷ tử",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rượu nếp 4.3 lít (khoảng 40 độ)",
+      "raw_name": "Rượu nếp 4.3 lít",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 40 độ",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường phèn 1 ít",
+      "raw_name": "Đường phèn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:47:27Z",
+  "page_title": "Cách ngâm rượu táo đỏ kỷ tử đơn giản an toàn giữ trọn dưỡng chất",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/cach-ngam-ruou-tao-do-ky-tu-thumb.jpg"
+}

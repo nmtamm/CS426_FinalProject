@@ -1,0 +1,101 @@
+{
+  "source_id": "04587",
+  "name": "Ghẹ sữa rang me",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/dde2264e45880bc3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-ghe-sua-rang-me-va-chien-gion-cuc-ngon-mieng-04587",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-ghe-sua-rang-me-va-chien-gion-cuc-ngon-mieng-04587",
+  "servings_text": "Cho 4",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ghẹ sữa 500 gr",
+      "raw_name": "Ghẹ sữa",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột chiên giòn 50 gr",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng cà phê",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt băm 1 muỗng canh",
+      "raw_name": "Ớt băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước mắm 4 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 80 gr",
+      "raw_name": "Đường",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước cốt me 100 ml",
+      "raw_name": "Nước cốt me",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Sa tế 1 muỗng cà phê",
+      "raw_name": "Sa tế",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Mè rang thơm 1 muỗng cà phê",
+      "raw_name": "Mè rang thơm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 215 ml (200ml để chiên và 15ml để xào)",
+      "raw_name": "Dầu ăn",
+      "quantity": 215,
+      "unit": "ml",
+      "note": "200ml để chiên và 15ml để xào",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T19:03:31Z",
+  "page_title": "2 cách làm ghẹ sữa rang me và chiên giòn cực ngon miệng",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookRecipe/Avatar/ghe-sua-rim-me-thumbnail.jpg"
+}

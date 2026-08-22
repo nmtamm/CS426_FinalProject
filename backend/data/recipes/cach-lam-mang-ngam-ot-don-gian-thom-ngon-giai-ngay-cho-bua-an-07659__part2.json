@@ -1,0 +1,69 @@
+{
+  "source_id": "07659",
+  "name": "Măng ngâm ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8ab03cbe287a31f0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mang-ngam-ot-don-gian-thom-ngon-giai-ngay-cho-bua-an-07659",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mang-ngam-ot-don-gian-thom-ngon-giai-ngay-cho-bua-an-07659",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Măng tre 1 kg",
+      "raw_name": "Măng tre",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt hiểm 100 gr",
+      "raw_name": "Ớt hiểm",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 150 gr",
+      "raw_name": "Tỏi",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Giấm gạo 700 ml",
+      "raw_name": "Giấm gạo",
+      "quantity": 700,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 4 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 4 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:00:05Z",
+  "page_title": "3 cách làm măng ngâm ớt chua cay giòn ngon không đắng cực đơn giản",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookRecipe/Avatar/mang-ngam-ot-thumbnail.jpg"
+}

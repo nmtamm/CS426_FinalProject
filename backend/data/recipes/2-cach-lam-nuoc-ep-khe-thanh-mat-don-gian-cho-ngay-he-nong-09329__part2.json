@@ -1,0 +1,33 @@
+{
+  "source_id": "09329",
+  "name": "Nước ép khế ngọt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3d89f00e4b0def7e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-ep-khe-thanh-mat-don-gian-cho-ngay-he-nong-09329",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-ep-khe-thanh-mat-don-gian-cho-ngay-he-nong-09329",
+  "servings_text": "Cho 2 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khế ngọt 8 quả",
+      "raw_name": "Khế ngọt",
+      "quantity": 8,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    }
+  ],
+  "scraped_at": "2026-08-19T19:54:53Z",
+  "page_title": "2 cách làm nước ép khế thanh mát đơn giản cho ngày hè nóng bức",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookRecipe/Avatar/nuoc-ep-khe-ngot-thumbnail.jpg"
+}

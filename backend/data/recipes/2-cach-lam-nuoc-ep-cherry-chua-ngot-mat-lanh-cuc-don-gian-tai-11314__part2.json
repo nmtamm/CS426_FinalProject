@@ -1,0 +1,45 @@
+{
+  "source_id": "11314",
+  "name": "Nước ép cherry rim",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8ebe4ff4c99c76d8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-ep-cherry-chua-ngot-mat-lanh-cuc-don-gian-tai-11314",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-ep-cherry-chua-ngot-mat-lanh-cuc-don-gian-tai-11314",
+  "servings_text": "Cho 4 lít nước ép",
+  "topics": [
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cherry 3 kg",
+      "raw_name": "Cherry",
+      "quantity": 3,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 500 gr",
+      "raw_name": "Đường",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước 4.5 lít",
+      "raw_name": "Nước 4.5 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T20:12:02Z",
+  "page_title": "2 cách làm nước ép cherry chua ngọt, mát lạnh cực đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookRecipe/Avatar/nuoc-ep-cherry-thumbnail-1.jpg"
+}

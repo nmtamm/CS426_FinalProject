@@ -1,0 +1,69 @@
+{
+  "source_id": "14257",
+  "name": "Sung ngâm mắm tỏi ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0371a7a3a48ef688.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sung-ngam-mam-de-lam-don-gian-an-la-ghien-14257",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sung-ngam-mam-de-lam-don-gian-an-la-ghien-14257",
+  "servings_text": "Cho 1 hũ",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Quả sung 400 gr",
+      "raw_name": "Quả sung",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tỏi 9 tép",
+      "raw_name": "Tỏi 9 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt 6 trái",
+      "raw_name": "Ớt",
+      "quantity": 6,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước mắm 1 chén (chén ăn cơm)",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "chén",
+      "note": "chén ăn cơm",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột ngọt 1/2 muỗng cà phê",
+      "raw_name": "Bột ngọt",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:30:38Z",
+  "page_title": "2 cách làm sung ngâm mắm dễ làm đơn giản ăn là ghiền",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/sung-ngam-mam-toi-ot-thumbnail.jpg"
+}

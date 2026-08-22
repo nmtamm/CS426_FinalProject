@@ -1,0 +1,113 @@
+{
+  "source_id": "23059",
+  "name": "Mắm cá lóc chưng thịt băm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3afc7e05bc75d1cd.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mam-ca-loc-chung-thit-top-mo-cuc-hao-com-voi-noi-23059",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mam-ca-loc-chung-thit-top-mo-cuc-hao-com-voi-noi-23059",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mắm cá lóc 1 con (400gr)",
+      "raw_name": "Mắm cá lóc 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": "400gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước ngâm mắm 50 gr",
+      "raw_name": "Nước ngâm mắm",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Thịt băm 300 gr (gồm 150gr thịt nạc và 150gr mỡ xay nhuyễn)",
+      "raw_name": "Thịt băm",
+      "quantity": 300,
+      "unit": "gr",
+      "note": "gồm 150gr thịt nạc và 150gr mỡ xay nhuyễn",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tóp mỡ 1 ít",
+      "raw_name": "Tóp mỡ",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tím 1 muỗng canh (băm nhuyễn)",
+      "raw_name": "Hành tím",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "băm nhuyễn",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gừng 30 gr (cắt sợi)",
+      "raw_name": "Gừng",
+      "quantity": 30,
+      "unit": "gr",
+      "note": "cắt sợi",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt 1 trái",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành lá 1 ít",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hành tím nhỏ 5 củ",
+      "raw_name": "Hành tím nhỏ",
+      "quantity": 5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (bột ngọt/ tiêu xay/ đường)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "bột ngọt/ tiêu xay/ đường",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Rau ăn kèm 1 ít (dưa leo/ rau sống/ rau luộc/...)",
+      "raw_name": "Rau ăn kèm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "dưa leo/ rau sống/ rau luộc/...",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T20:27:05Z",
+  "page_title": "2 cách làm mắm cá lóc chưng thịt tóp mỡ cực hao cơm với nồi xửng hấp",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2025/07/CookRecipe/Avatar/mam-ca-loc-chung-thit-bam-thumbnail.jpg"
+}

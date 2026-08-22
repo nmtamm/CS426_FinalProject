@@ -1,0 +1,79 @@
+{
+  "source_id": "12207",
+  "name": "Khúc bạch khoai môn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4451cdcd262ea03f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-topping-khuc-bach-khoai-mon-cho-mon-che-khuc-bach-12207",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-topping-khuc-bach-khoai-mon-cho-mon-che-khuc-bach-12207",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    },
+    {
+      "slug": "mon-che",
+      "name": "Món chè"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột gelatin 30 gr",
+      "raw_name": "Bột gelatin",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột khoai môn 100 gr",
+      "raw_name": "Bột khoai môn",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Phô mai 30 gr",
+      "raw_name": "Phô mai",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa tươi không đường 400 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Kem sữa tươi 300 ml (whipping cream)",
+      "raw_name": "Kem sữa tươi",
+      "quantity": 300,
+      "unit": "ml",
+      "note": "whipping cream",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 100 gr",
+      "raw_name": "Đường",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước lọc 100 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:11:50Z",
+  "page_title": "Cách làm topping khúc bạch khoai môn cho món chè khúc bạch thêm lạ vị",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/thum-1200x676.jpg"
+}

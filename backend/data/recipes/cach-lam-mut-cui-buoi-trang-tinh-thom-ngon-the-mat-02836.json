@@ -1,0 +1,47 @@
+{
+  "source_id": "02836",
+  "name": "Mứt cùi bưởi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/07051cf80108da56.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-cui-buoi-trang-tinh-thom-ngon-the-mat-02836",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-cui-buoi-trang-tinh-thom-ngon-the-mat-02836",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bưởi 2 trái",
+      "raw_name": "Bưởi",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 500 gram",
+      "raw_name": "Đường 500 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối 2 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:16:47Z",
+  "page_title": "Cách làm mứt cùi bưởi trắng tinh thơm ngon the mát không bị đắng",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/06/23/1264934/cach-lam-mut-cui-buoi-trang-tinh-thom-ngon-the-mat-11-760x367.jpg"
+}

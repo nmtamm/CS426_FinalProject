@@ -1,0 +1,59 @@
+{
+  "source_id": "16187",
+  "name": "Mứt đu đủ xanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/51333419ef3207c9.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-du-du-xanh-dai-dai-ngot-ngot-hap-dan-dai-khach-16187",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-du-du-xanh-dai-dai-ngot-ngot-hap-dan-dai-khach-16187",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đu đủ xanh 1 kg",
+      "raw_name": "Đu đủ xanh",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thơm 200 gr (Dứa)",
+      "raw_name": "Thơm",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "Dứa",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá dứa 30 gr",
+      "raw_name": "Lá dứa",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 500 gr",
+      "raw_name": "Đường",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 1 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:39:37Z",
+  "page_title": "Cách làm mứt đu đủ xanh dai dai ngot ngọt hấp dẫn đãi khách ngày Tết",
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookDish/cach-lam-mut-du-du-xanh-dai-dai-ngot-ngot-hap-dan-dai-khach-avt-1200x676.jpg"
+}

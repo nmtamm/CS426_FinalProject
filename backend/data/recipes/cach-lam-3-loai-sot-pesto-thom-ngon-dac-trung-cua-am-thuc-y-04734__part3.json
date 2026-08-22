@@ -1,0 +1,77 @@
+{
+  "source_id": "04734",
+  "name": "Sốt Pesto biến tấu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/47a4ac3efde1f0f9.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-3-loai-sot-pesto-thom-ngon-dac-trung-cua-am-thuc-y-04734",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-3-loai-sot-pesto-thom-ngon-dac-trung-cua-am-thuc-y-04734",
+  "servings_text": "Cho 150ml sốt Pesto",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ngò rí 60 gr",
+      "raw_name": "Ngò rí",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu phộng 30 gr (bóc vỏ)",
+      "raw_name": "Đậu phộng",
+      "quantity": 30,
+      "unit": "gr",
+      "note": "bóc vỏ",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 5 gr",
+      "raw_name": "Tỏi",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1/3 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.333,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tiêu 1/3 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 0.333,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu oliu 50 ml",
+      "raw_name": "Dầu oliu",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột phô mai Parmesan 30 gr",
+      "raw_name": "Bột phô mai Parmesan",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:02:50Z",
+  "page_title": "Cách làm 3 loại sốt Pesto thơm ngon, đặc trưng của ẩm thực Ý ngay tại nhà",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookRecipe/Avatar/sot-pesto-bien-tau-thumbnail-1.jpg"
+}

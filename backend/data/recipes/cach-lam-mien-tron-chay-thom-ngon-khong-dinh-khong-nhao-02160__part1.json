@@ -1,0 +1,69 @@
+{
+  "source_id": "02160",
+  "name": "Miến trộn chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/538df795e000cb70.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mien-tron-chay-thom-ngon-khong-dinh-khong-nhao-02160",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mien-tron-chay-thom-ngon-khong-dinh-khong-nhao-02160",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Miến dong 200 gr",
+      "raw_name": "Miến dong",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rau bó xôi 100 gr",
+      "raw_name": "Rau bó xôi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nấm bào ngư 100 gr",
+      "raw_name": "Nấm bào ngư",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 500 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nấm mèo khô 2 cái",
+      "raw_name": "Nấm mèo khô",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 10 gr (nước tương/đường/dầu hào/hắc xì dầu/hạt nêm/mè rang)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "nước tương/đường/dầu hào/hắc xì dầu/hạt nêm/mè rang",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:37:50Z",
+  "page_title": "3 cách làm miến trộn chay thơm ngon không dính, không nhão đơn giản tại nhà",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/mien-tron-chay-thumbnail.jpg"
+}

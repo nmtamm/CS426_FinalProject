@@ -1,0 +1,95 @@
+{
+  "source_id": "06965",
+  "name": "Bánh chưng ngũ sắc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/cf470abb87b68b69.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-chung-ngu-sac-doc-dao-don-gian-cho-mam-com-ngay-06965",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-chung-ngu-sac-doc-dao-don-gian-cho-mam-com-ngay-06965",
+  "servings_text": "Cho 6 cái",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nếp ngỗng 1 kg",
+      "raw_name": "Nếp ngỗng",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt ba chỉ 800 gr",
+      "raw_name": "Thịt ba chỉ",
+      "quantity": 800,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu xanh 500 gr (cà vỏ)",
+      "raw_name": "Đậu xanh",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "cà vỏ",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gấc 1/2 quả",
+      "raw_name": "Gấc",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lá dứa 1 bó (7 lá)",
+      "raw_name": "Lá dứa 1 bó",
+      "quantity": null,
+      "unit": null,
+      "note": "7 lá",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lá cẩm 1 bó (200 gr)",
+      "raw_name": "Lá cẩm 1 bó",
+      "quantity": null,
+      "unit": null,
+      "note": "200 gr",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hạt dành dành 2 muỗng cà phê (bột dành dành)",
+      "raw_name": "Hạt dành dành",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": "bột dành dành",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành tím 10 củ",
+      "raw_name": "Hành tím",
+      "quantity": 10,
+      "unit": "củ",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu ăn 150 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:38:04Z",
+  "page_title": "Cách làm bánh chưng ngũ sắc độc đáo, đơn giản cho mâm cơm ngày Tết",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/BeFunky-collage-(22)-1200x676.jpg"
+}

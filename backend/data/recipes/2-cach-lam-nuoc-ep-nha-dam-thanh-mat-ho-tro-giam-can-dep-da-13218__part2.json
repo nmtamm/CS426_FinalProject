@@ -1,0 +1,73 @@
+{
+  "source_id": "13218",
+  "name": "Nước ép nha đam dưa leo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c8e80c70fa3083ae.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-ep-nha-dam-thanh-mat-ho-tro-giam-can-dep-da-13218",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-ep-nha-dam-thanh-mat-ho-tro-giam-can-dep-da-13218",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nha đam 100 gr",
+      "raw_name": "Nha đam",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dưa leo 100 gr",
+      "raw_name": "Dưa leo",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gừng 10 gr",
+      "raw_name": "Gừng",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước cốt chanh 10 ml",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đá viên 100 gr",
+      "raw_name": "Đá viên",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:50:51Z",
+  "page_title": "2 cách làm nước ép nha đam thanh mát hỗ trợ giảm cân đẹp da",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/nuoc-ep-nha-dam-dua-leo-thumbnail.jpg"
+}

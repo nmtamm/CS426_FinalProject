@@ -1,0 +1,145 @@
+{
+  "source_id": "09990",
+  "name": "Tai heo trộn thính cuốn bánh tráng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9200897d3da1e537.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tai-heo-cuon-banh-trang-mon-ngon-an-hoai-khong-chan-09990",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tai-heo-cuon-banh-trang-mon-ngon-an-hoai-khong-chan-09990",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh tráng 50 gr",
+      "raw_name": "Bánh tráng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tai heo 500 gr",
+      "raw_name": "Tai heo",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Thính gạo 70 gr",
+      "raw_name": "Thính gạo",
+      "quantity": 70,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tây 60 gr (1/2 củ)",
+      "raw_name": "Hành tây",
+      "quantity": 60,
+      "unit": "gr",
+      "note": "1/2 củ",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sả 30 gr (2 nhánh)",
+      "raw_name": "Sả",
+      "quantity": 30,
+      "unit": "gr",
+      "note": "2 nhánh",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dưa leo 2 trái",
+      "raw_name": "Dưa leo",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Lá sung 100 gr",
+      "raw_name": "Lá sung",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Lá chanh 3 cái",
+      "raw_name": "Lá chanh",
+      "quantity": 3,
+      "unit": "cái",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Chanh 2 trái",
+      "raw_name": "Chanh",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tỏi băm 2 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Ớt băm 1/2 muỗng canh",
+      "raw_name": "Ớt băm",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Ớt 1 trái (cắt lát)",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "trái",
+      "note": "cắt lát",
+      "display_order": 12
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Nước mắm 3.5 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 3.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ hạt nêm/ đường/ bột ngọt/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ hạt nêm/ đường/ bột ngọt/ tiêu xay",
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T19:05:36Z",
+  "page_title": "2 cách làm tai heo cuốn bánh tráng, món ngon ăn hoài không chán",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/tai-heo-tron-thinh-cuon-banh-trang-thumbnail.jpg"
+}

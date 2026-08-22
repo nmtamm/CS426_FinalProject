@@ -1,0 +1,59 @@
+{
+  "source_id": "15034",
+  "name": "Quất lắc sữa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4812700e88e3b494.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-quat-lac-sua-thom-ngon-la-mieng-sieu-de-lam-15034",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-quat-lac-sua-thom-ngon-la-mieng-sieu-de-lam-15034",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Quất 3 quả",
+      "raw_name": "Quất",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước đường 20 ml",
+      "raw_name": "Nước đường",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước lọc 100 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa đặc 30 ml",
+      "raw_name": "Sữa đặc",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:00:44Z",
+  "page_title": "Cách làm quất lắc sữa (sữa tắc) thơm ngon siêu dễ làm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookDish/cach-lam-quat-lac-sua-thom-ngon-la-mieng-sieu-de-lam-avt-1200x676.jpg"
+}

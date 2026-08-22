@@ -1,0 +1,59 @@
+{
+  "source_id": "12874",
+  "name": "Cà phê bạc xỉu nóng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/859c38a04576b40f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-ca-phe-bac-xiu-nong-12874",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-ca-phe-bac-xiu-nong-12874",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột cà phê đen 20 gr (loại tùy chọn)",
+      "raw_name": "Bột cà phê đen",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "loại tùy chọn",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa đặc 50 ml",
+      "raw_name": "Sữa đặc",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa tươi không đường 30 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước cốt dừa 5 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 5,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước sôi 120 ml",
+      "raw_name": "Nước sôi",
+      "quantity": 120,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:57:02Z",
+  "page_title": "Cách pha cà phê bạc xỉu nóng đơn giản tại nhà chuẩn vị ngoài hàng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/Khongtieude(2)-1200x676.jpg"
+}

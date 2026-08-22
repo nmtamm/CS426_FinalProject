@@ -1,0 +1,95 @@
+{
+  "source_id": "00396",
+  "name": "Bánh phô mai",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0705f881f8dd4249.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-pho-mai-beo-ngot-sieu-ngon-00396",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-pho-mai-beo-ngot-sieu-ngon-00396",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột bánh quy giã nát 1 chén (240ml)",
+      "raw_name": "Bột bánh quy giã nát",
+      "quantity": 1,
+      "unit": "chén",
+      "note": "240ml",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bơ 100 gr",
+      "raw_name": "Bơ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường nâu 2 muỗng",
+      "raw_name": "Đường nâu",
+      "quantity": 2,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1 muỗng",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Kem phô mai 230 gr (cream cheese)",
+      "raw_name": "Kem phô mai",
+      "quantity": 230,
+      "unit": "gr",
+      "note": "cream cheese",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Kem chua 1/2 cốc",
+      "raw_name": "Kem chua 1/2 cốc",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 1 cốc",
+      "raw_name": "Đường 1 cốc",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Sốt vani 1 muỗng",
+      "raw_name": "Sốt vani",
+      "quantity": 1,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T20:24:34Z",
+  "page_title": "Cách làm bánh phô mai béo ngọt siêu ngon",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2014/10/20/574810/cach-lam-banh-pho-mai-beo-ngot-sieu-ngon12-760x367.jpg"
+}

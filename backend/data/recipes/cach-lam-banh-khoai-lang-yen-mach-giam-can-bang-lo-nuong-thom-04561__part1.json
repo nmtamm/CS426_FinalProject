@@ -1,0 +1,81 @@
+{
+  "source_id": "04561",
+  "name": "Bánh khoai lang yến mạch giảm cân không cần lò nướng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/dac09001e0b6476b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-khoai-lang-yen-mach-giam-can-bang-lo-nuong-thom-04561",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-khoai-lang-yen-mach-giam-can-bang-lo-nuong-thom-04561",
+  "servings_text": "Cho 6 cái",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai lang 200 gr",
+      "raw_name": "Khoai lang",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Phô mai con bò cười 2 miếng",
+      "raw_name": "Phô mai con bò cười 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột năng 50 gr",
+      "raw_name": "Bột năng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột yến mạch 20 gr",
+      "raw_name": "Bột yến mạch",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bơ lạt 1 muỗng cà phê",
+      "raw_name": "Bơ lạt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sữa tươi 30 ml",
+      "raw_name": "Sữa tươi",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 2 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:00:30Z",
+  "page_title": "2 Cách làm bánh khoai lang yến mạch giảm cân thơm ngon đơn giản",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/banh-khoai-lang-yen-mach-giam-can-khong-can-lo-nuong-thumbnail.jpg"
+}

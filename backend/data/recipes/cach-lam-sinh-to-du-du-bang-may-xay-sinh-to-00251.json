@@ -1,0 +1,55 @@
+{
+  "source_id": "00251",
+  "name": "Sinh tố đu đủ bằng máy xay sinh tố",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/807b90e508f9b074.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sinh-to-du-du-bang-may-xay-sinh-to-00251",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sinh-to-du-du-bang-may-xay-sinh-to-00251",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đu đủ khoảng 1 quả",
+      "raw_name": "Đu đủ khoảng",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mật ong 2 muỗng cà phê",
+      "raw_name": "Mật ong",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 3 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước 200 ml",
+      "raw_name": "Nước",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:00:29Z",
+  "page_title": "Cách làm sinh tố đu đủ bằng máy xay sinh tố",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2014/04/19/542768/Lam-nuoc-ep-du-du-bang-may-xay-sinh-to-600x400.jpg"
+}

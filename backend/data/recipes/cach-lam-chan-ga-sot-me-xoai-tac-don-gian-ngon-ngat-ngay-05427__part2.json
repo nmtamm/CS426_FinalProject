@@ -1,0 +1,78 @@
+{
+  "source_id": "05427",
+  "name": "Chân gà sốt me",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b7841a927498d350.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chan-ga-sot-me-xoai-tac-don-gian-ngon-ngat-ngay-05427",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chan-ga-sot-me-xoai-tac-don-gian-ngon-ngat-ngay-05427",
+  "servings_text": "Cho 1 - 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chân gà rút xương 500 gr",
+      "raw_name": "Chân gà rút xương",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xoài 1 trái",
+      "raw_name": "Xoài",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi phi 1 ít",
+      "raw_name": "Tỏi phi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 4 muỗng",
+      "raw_name": "Đường",
+      "quantity": 4,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sa tế 3 muỗng",
+      "raw_name": "Sa tế",
+      "quantity": 3,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước me 1/2 chén",
+      "raw_name": "Nước me",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Rau tiến vua 1 ít",
+      "raw_name": "Rau tiến vua",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:05:10Z",
+  "page_title": "Cách làm chân gà sốt me xoài tắc đơn giản, ngon ngất ngây",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "Công thức được chia sẻ tự Tiktok vào bếp cùng Điện máy XANH",
+  "original_image_url": "https://cdn.tgdd.vn/2024/01/CookRecipe/Avatar/chan-ga-sot-me-cong-thuc-duoc-chia-se-tu-tiktok-vao-bep-cung-dien-may-xanh-thumbnail.jpg"
+}

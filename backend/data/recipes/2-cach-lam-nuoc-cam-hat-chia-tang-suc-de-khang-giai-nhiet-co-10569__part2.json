@@ -1,0 +1,53 @@
+{
+  "source_id": "10569",
+  "name": "Nước cam chanh hạt chia",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6d4590306456bfd3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-cam-hat-chia-tang-suc-de-khang-giai-nhiet-co-10569",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-cam-hat-chia-tang-suc-de-khang-giai-nhiet-co-10569",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cam 2 quả",
+      "raw_name": "Cam",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chanh 1 quả",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mật ong 2 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hạt chia 2 muỗng canh",
+      "raw_name": "Hạt chia",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:03:11Z",
+  "page_title": "2 cách làm nước cam hạt chia tăng sức đề kháng, giải nhiệt cơ thể",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookRecipe/Avatar/nuoc-cam-chanh-hat-chia-thumbnail-1.jpg"
+}

@@ -1,0 +1,113 @@
+{
+  "source_id": "05413",
+  "name": "Khoai tây nhồi thịt bò nướng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a10d5753f271e9bf.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-khoai-tay-nhoi-thit-bo-va-ga-nuong-thom-lung-beo-05413",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-khoai-tay-nhoi-thit-bo-va-ga-nuong-thom-lung-beo-05413",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò băm 250 gr",
+      "raw_name": "Thịt bò băm",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Khoai tây 2 củ",
+      "raw_name": "Khoai tây",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tây 1/4 củ",
+      "raw_name": "Hành tây",
+      "quantity": 0.25,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 3 tép",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Phô mai sợi 100 gr",
+      "raw_name": "Phô mai sợi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ô liu 6 muỗng canh (hoặc dầu ăn)",
+      "raw_name": "Dầu ô liu",
+      "quantity": 6,
+      "unit": "muỗng canh",
+      "note": "hoặc dầu ăn",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Sốt cà chua 2 muỗng canh",
+      "raw_name": "Sốt cà chua",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột thì là 1 muỗng cà phê",
+      "raw_name": "Bột thì là",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Xì dầu 1 muỗng canh (nước tương)",
+      "raw_name": "Xì dầu",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "nước tương",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Bột tiêu 1 ít",
+      "raw_name": "Bột tiêu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:09:03Z",
+  "page_title": "2 cách làm khoai tây nhồi thịt bò và gà nướng thơm lừng béo ngon hấp dẫn",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookRecipe/Avatar/khoai-tay-nhoi-thit-bo-nuong-thumbnail-1.jpg"
+}

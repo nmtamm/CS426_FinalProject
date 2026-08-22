@@ -1,0 +1,53 @@
+{
+  "source_id": "05213",
+  "name": "Nước la hán quả táo tàu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/00655ba7e5f91f44.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-pha-tra-la-han-qua-nha-dam-long-nhan-va-tao-tau-thanh-05213",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-pha-tra-la-han-qua-nha-dam-long-nhan-va-tao-tau-thanh-05213",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trái la hán 1 quả",
+      "raw_name": "Trái la hán",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Táo tàu 100 gr",
+      "raw_name": "Táo tàu",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 100 gr",
+      "raw_name": "Đường",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước lọc 500 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:59:56Z",
+  "page_title": "4 cách nấu nước la hán quả (trà la hán) thanh lọc cơ thể đơn giản tại nhà",
+  "variant_index": 4,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookRecipe/Avatar/tra-la-han-qua-tao-tau-thumbnail.jpg"
+}

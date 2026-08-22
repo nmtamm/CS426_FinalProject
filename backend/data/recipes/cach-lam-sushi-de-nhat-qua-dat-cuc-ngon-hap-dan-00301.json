@@ -1,0 +1,91 @@
+{
+  "source_id": "00301",
+  "name": "Sushi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0ef74dee22bef902.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sushi-de-nhat-qua-dat-cuc-ngon-hap-dan-00301",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sushi-de-nhat-qua-dat-cuc-ngon-hap-dan-00301",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gạo Nhật 500 gr (có thể thay thế bằng gạo trắng trộn với gạo nếp)",
+      "raw_name": "Gạo Nhật",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "có thể thay thế bằng gạo trắng trộn với gạo nếp",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dầu mè 20 ml",
+      "raw_name": "Dầu mè",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dấm 20 ml",
+      "raw_name": "Dấm",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 20 gr",
+      "raw_name": "Muối",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 20 gr",
+      "raw_name": "Đường",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Trứng chiên 100 gr",
+      "raw_name": "Trứng chiên",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Thanh cua 100 gr",
+      "raw_name": "Thanh cua",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dưa leo 100 gr",
+      "raw_name": "Dưa leo",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bơ sáp 100 gr",
+      "raw_name": "Bơ sáp",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:59:51Z",
+  "page_title": "Cách làm Sushi dễ nhất quả đất cực ngon hấp dẫn",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2014/06/16/549732/cach-lam-sushi-de-nhat-qua-dat--7-760x367.jpg"
+}

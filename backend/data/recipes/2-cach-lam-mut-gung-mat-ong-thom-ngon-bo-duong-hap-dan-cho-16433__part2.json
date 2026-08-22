@@ -1,0 +1,65 @@
+{
+  "source_id": "16433",
+  "name": "Mứt gừng mật ong khô",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/cc7a82d85a89af0f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mut-gung-mat-ong-thom-ngon-bo-duong-hap-dan-cho-16433",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mut-gung-mat-ong-thom-ngon-bo-duong-hap-dan-cho-16433",
+  "servings_text": "Cho 1 hũ",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gừng tươi 500 gr",
+      "raw_name": "Gừng tươi",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mật ong 5 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường phèn 250 gr (xay nhuyễn)",
+      "raw_name": "Đường phèn",
+      "quantity": 250,
+      "unit": "gr",
+      "note": "xay nhuyễn",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Vanilla 1 ống",
+      "raw_name": "Vanilla 1 ống",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chanh 1 quả",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:16:57Z",
+  "page_title": "2 cách làm mứt gừng mật ong thơm ngon bổ dưỡng hấp dẫn cho ngày Tết",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2022/01/CookRecipe/Avatar/mut-gung-mat-ong-deo-thumbnail-1.jpg"
+}

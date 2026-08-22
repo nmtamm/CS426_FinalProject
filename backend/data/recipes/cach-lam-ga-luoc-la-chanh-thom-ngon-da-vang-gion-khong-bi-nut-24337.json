@@ -1,0 +1,63 @@
+{
+  "source_id": "24337",
+  "name": "Gà luộc lá chanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/287f0f740278a99e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-luoc-la-chanh-thom-ngon-da-vang-gion-khong-bi-nut-24337",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-luoc-la-chanh-thom-ngon-da-vang-gion-khong-bi-nut-24337",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà ta thả vườn 1 con (khoảng 1.5 kg - 1.8 kg)",
+      "raw_name": "Gà ta thả vườn 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 1.5 kg - 1.8 kg",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lá chanh 20 lá",
+      "raw_name": "Lá chanh",
+      "quantity": 20,
+      "unit": "lá",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gừng 2 củ",
+      "raw_name": "Gừng",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tím 3 củ",
+      "raw_name": "Hành tím",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối hạt/ Muối tinh 1 ít",
+      "raw_name": "Muối hạt/ Muối tinh",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T18:03:38Z",
+  "page_title": "Cách làm gà luộc lá chanh thơm ngon, da vàng giòn không bị nứt cực đơn giản",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t04%201200676%20%2879%29.jpg"
+}

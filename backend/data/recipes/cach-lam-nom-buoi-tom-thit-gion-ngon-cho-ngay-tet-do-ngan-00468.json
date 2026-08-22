@@ -1,0 +1,155 @@
+{
+  "source_id": "00468",
+  "name": "Gỏi bưởi tôm thịt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c06bb0f8324a2d90.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nom-buoi-tom-thit-gion-ngon-cho-ngay-tet-do-ngan-00468",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nom-buoi-tom-thit-gion-ngon-cho-ngay-tet-do-ngan-00468",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bưởi 1 quả",
+      "raw_name": "Bưởi",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt heo 1/2 kg",
+      "raw_name": "Thịt heo",
+      "quantity": 0.5,
+      "unit": "kg",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tôm 200 gr",
+      "raw_name": "Tôm",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Củ cải trắng 1 củ",
+      "raw_name": "Củ cải trắng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bánh phồng tôm 50 gr",
+      "raw_name": "Bánh phồng tôm",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đậu phộng 20 gr",
+      "raw_name": "Đậu phộng",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ngò gai 3 nhánh",
+      "raw_name": "Ngò gai",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tắc 6 quả",
+      "raw_name": "Tắc",
+      "quantity": 6,
+      "unit": "quả",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Ớt 3 quả",
+      "raw_name": "Ớt",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Tỏi 4 tép",
+      "raw_name": "Tỏi 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Hành tím 5 củ",
+      "raw_name": "Hành tím",
+      "quantity": 5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Rau thơm 3 nhánh",
+      "raw_name": "Rau thơm",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Giấm 2 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Dầu ăn 100 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Đường/ muối/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Đường/ muối/ bột ngọt",
+      "display_order": 17
+    }
+  ],
+  "scraped_at": "2026-08-19T17:58:46Z",
+  "page_title": "Cách làm gỏi bưởi tôm thịt chua ngọt giòn ngon hấp dẫn dễ làm tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookProduct/thg-1200x676.jpg"
+}

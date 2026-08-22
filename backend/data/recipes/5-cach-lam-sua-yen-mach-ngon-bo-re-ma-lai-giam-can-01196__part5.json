@@ -1,0 +1,45 @@
+{
+  "source_id": "01196",
+  "name": "Sữa yến mạch óc chó",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/852f57794fd646fa.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/5-cach-lam-sua-yen-mach-ngon-bo-re-ma-lai-giam-can-01196",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/5-cach-lam-sua-yen-mach-ngon-bo-re-ma-lai-giam-can-01196",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Óc chó 50 g",
+      "raw_name": "Óc chó",
+      "quantity": 50,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Yến mạch 50 g",
+      "raw_name": "Yến mạch",
+      "quantity": 50,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường phèn 15 g",
+      "raw_name": "Đường phèn",
+      "quantity": 15,
+      "unit": "g",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:58:31Z",
+  "page_title": "6 Cách làm sữa yến mạch ngon bổ rẻ mà lại giảm cân các mẹ nên biết",
+  "variant_index": 5,
+  "variant_count": 6,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/sua-yen-mach-oc-cho-thumbnail.jpg"
+}

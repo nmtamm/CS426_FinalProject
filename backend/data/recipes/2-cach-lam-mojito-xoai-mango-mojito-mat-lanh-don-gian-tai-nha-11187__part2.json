@@ -1,0 +1,77 @@
+{
+  "source_id": "11187",
+  "name": "Mojito xoài chanh dây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/fa5460f46efd6b57.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mojito-xoai-mango-mojito-mat-lanh-don-gian-tai-nha-11187",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mojito-xoai-mango-mojito-mat-lanh-don-gian-tai-nha-11187",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Xoài 1/2 quả",
+      "raw_name": "Xoài",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chanh dây 1/2 quả",
+      "raw_name": "Chanh dây",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chanh 1/2 quả",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lá bạc hà 6 lá",
+      "raw_name": "Lá bạc hà",
+      "quantity": 6,
+      "unit": "lá",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Siro đường 1 muỗng canh",
+      "raw_name": "Siro đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Soda 1 ít (khoảng 1 lon)",
+      "raw_name": "Soda",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "khoảng 1 lon",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:05:33Z",
+  "page_title": "2 cách làm mojito xoài - mango mojito mát lạnh đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookRecipe/Avatar/mojito-xoai-chanh-day-thumbnail-1.jpg"
+}

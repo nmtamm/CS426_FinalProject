@@ -1,0 +1,53 @@
+{
+  "source_id": "12088",
+  "name": "Sinh tố oreo dâu tây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/40c19dcfcde5257c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sinh-to-oreo-ngot-ngao-thom-beo-ho-tro-tang-can-12088",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sinh-to-oreo-ngot-ngao-thom-beo-ho-tro-tang-can-12088",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh oreo 5 cái",
+      "raw_name": "Bánh oreo",
+      "quantity": 5,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dâu tây 6 quả",
+      "raw_name": "Dâu tây",
+      "quantity": 6,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa chua không đường 100 ml (1 hũ)",
+      "raw_name": "Sữa chua không đường",
+      "quantity": 100,
+      "unit": "ml",
+      "note": "1 hũ",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mật ong 2 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:08:52Z",
+  "page_title": "3 cách làm sinh tố oreo ngọt ngào, thơm béo hỗ trợ tăng cân hiệu quả",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/sinh-to-oreo-dau-tay-thumbnail.jpg"
+}

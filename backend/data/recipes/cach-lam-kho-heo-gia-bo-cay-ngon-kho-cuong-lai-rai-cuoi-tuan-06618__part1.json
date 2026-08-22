@@ -1,0 +1,109 @@
+{
+  "source_id": "06618",
+  "name": "Khô heo giả bò",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0fe5dd3abcee3449.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kho-heo-gia-bo-cay-ngon-kho-cuong-lai-rai-cuoi-tuan-06618",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kho-heo-gia-bo-cay-ngon-kho-cuong-lai-rai-cuoi-tuan-06618",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt heo 1 kg (thịt nạc mông)",
+      "raw_name": "Thịt heo",
+      "quantity": 1,
+      "unit": "kg",
+      "note": "thịt nạc mông",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sả 5 nhánh",
+      "raw_name": "Sả",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt 5 trái",
+      "raw_name": "Ớt",
+      "quantity": 5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nghệ 3 muỗng canh (xay nhuyễn)",
+      "raw_name": "Nghệ",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": "xay nhuyễn",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hũ gia vị bò kho 2 muỗng canh",
+      "raw_name": "Hũ gia vị bò kho",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ngũ vị hương 1 muỗng canh",
+      "raw_name": "Ngũ vị hương",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu điều 3 muỗng canh",
+      "raw_name": "Dầu điều",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột nêm 2 muỗng cà phê",
+      "raw_name": "Bột nêm",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đường 2 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước mắm 3 muỗng cà phê",
+      "raw_name": "Nước mắm",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T19:22:33Z",
+  "page_title": "2 Cách làm khô bò từ thịt heo cực thơm ngon ngay tại nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/kho-heo-gia-bo-thumbnail.jpg"
+}

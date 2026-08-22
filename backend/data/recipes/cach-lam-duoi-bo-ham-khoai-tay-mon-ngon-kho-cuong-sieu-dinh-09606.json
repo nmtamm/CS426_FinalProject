@@ -1,0 +1,159 @@
+{
+  "source_id": "09606",
+  "name": "Đuôi bò hầm khoai tây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d809e2067471cbfc.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-duoi-bo-ham-khoai-tay-mon-ngon-kho-cuong-sieu-dinh-09606",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-duoi-bo-ham-khoai-tay-mon-ngon-kho-cuong-sieu-dinh-09606",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-canh",
+      "name": "Món canh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đuôi bò 1 kg",
+      "raw_name": "Đuôi bò",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thuốc bắc 1 gói",
+      "raw_name": "Thuốc bắc",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Khoai tây 2 củ",
+      "raw_name": "Khoai tây",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tím 3 củ",
+      "raw_name": "Hành tím",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gừng 1 nhánh",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Sả 2 nhánh",
+      "raw_name": "Sả",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ớt sừng 1/2 quả",
+      "raw_name": "Ớt sừng",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Táo tàu 1/2 quả",
+      "raw_name": "Táo tàu",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Lá chanh 5 lá (cắt nhỏ)",
+      "raw_name": "Lá chanh",
+      "quantity": 5,
+      "unit": "lá",
+      "note": "cắt nhỏ",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Rau mùi 1 ít",
+      "raw_name": "Rau mùi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước cốt chanh 4 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Sữa đặc 2 muỗng canh",
+      "raw_name": "Sữa đặc",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng cà phê",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ đường/ hạt nêm/ bột ngọt/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ đường/ hạt nêm/ bột ngọt/ tiêu xay",
+      "display_order": 17
+    }
+  ],
+  "scraped_at": "2026-08-19T18:27:20Z",
+  "page_title": "Cách làm đuôi bò hầm khoai tây món ngon khó cưỡng siêu dinh dưỡng",
+  "original_image_url": "https://cdn.tgdd.vn/2022/09/CookDish/cach-lam-duoi-bo-ham-khoai-tay-mon-ngon-kho-cuong-sieu-dinh-avt-1200x676.jpg"
+}

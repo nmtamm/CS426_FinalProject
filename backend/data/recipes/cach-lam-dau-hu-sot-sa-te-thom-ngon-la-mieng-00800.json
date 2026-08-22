@@ -1,0 +1,91 @@
+{
+  "source_id": "00800",
+  "name": "Đậu hũ sốt sa tế",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d52cfe591252f3bb.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-hu-sot-sa-te-thom-ngon-la-mieng-00800",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-hu-sot-sa-te-thom-ngon-la-mieng-00800",
+  "servings_text": "Cho 3 người ăn",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sả băm 2 cây",
+      "raw_name": "Sả băm",
+      "quantity": 2,
+      "unit": "cây",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tỏi băm 2 củ",
+      "raw_name": "Tỏi băm",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt 2 trái",
+      "raw_name": "Ớt",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đậu hũ chiên 300 gr",
+      "raw_name": "Đậu hũ chiên",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cà rốt 1/2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bông cải xanh 100 g (Bông súp lơ xanh)",
+      "raw_name": "Bông cải xanh",
+      "quantity": 100,
+      "unit": "g",
+      "note": "Bông súp lơ xanh",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nấm rơm 100 g",
+      "raw_name": "Nấm rơm",
+      "quantity": 100,
+      "unit": "g",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bắp non 100 g",
+      "raw_name": "Bắp non",
+      "quantity": 100,
+      "unit": "g",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ hạt nêm chay/ dầu điều/ dầu ăn/ tương cà/ tương ớt/ tiêu/...)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ hạt nêm chay/ dầu điều/ dầu ăn/ tương cà/ tương ớt/ tiêu/...",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:52:16Z",
+  "page_title": "Cách làm đậu hũ chay sốt sa tế thơm ngon lạ miệng cho ngày rằm tháng 4",
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookProduct/1200-1200x676-17.jpg"
+}

@@ -1,0 +1,127 @@
+{
+  "source_id": "06657",
+  "name": "Cá chép chiên giòn cuốn bánh tráng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ca0c0f84f2394554.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-chep-chien-gion-cuon-banh-trang-thom-ngon-hap-dan-06657",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-chep-chien-gion-cuon-banh-trang-thom-ngon-hap-dan-06657",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cá chép 2 con (3kg)",
+      "raw_name": "Cá chép 2 con",
+      "quantity": null,
+      "unit": null,
+      "note": "3kg",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dứa 1 trái (thơm)",
+      "raw_name": "Dứa",
+      "quantity": 1,
+      "unit": "trái",
+      "note": "thơm",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dưa leo 1 kg",
+      "raw_name": "Dưa leo",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 4 tép",
+      "raw_name": "Tỏi 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt sừng 2 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Chanh 2 trái",
+      "raw_name": "Chanh",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Rau sống các loại 500 gr (xà lách/ tía tô/ húng quế/ kinh giới...)",
+      "raw_name": "Rau sống các loại",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "xà lách/ tía tô/ húng quế/ kinh giới...",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bánh tráng 200 gr",
+      "raw_name": "Bánh tráng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu ăn 200 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước mắm 100 ml",
+      "raw_name": "Nước mắm",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đường 2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Bột ngọt 1 muỗng cà phê",
+      "raw_name": "Bột ngọt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Muối hạt 1 ít",
+      "raw_name": "Muối hạt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T20:34:10Z",
+  "page_title": "Cách làm cá chép chiên giòn cuốn bánh tráng thơm ngon hấp dẫn dễ làm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/1-1200x676-24.jpg"
+}

@@ -1,0 +1,85 @@
+{
+  "source_id": "05069",
+  "name": "Salad ớt chuông tôm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ec872a2a75ab1fe1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-salad-ot-chuong-ngon-mieng-don-gian-de-lam-giup-05069",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-salad-ot-chuong-ngon-mieng-don-gian-de-lam-giup-05069",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tôm 500 gr",
+      "raw_name": "Tôm",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt chuông 2 quả",
+      "raw_name": "Ớt chuông",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dầu ô liu 2 muỗng canh (hoặc dầu ăn)",
+      "raw_name": "Dầu ô liu",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "hoặc dầu ăn",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tiêu 1 ít",
+      "raw_name": "Tiêu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước cốt chanh 1/2 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ngò 50 gr",
+      "raw_name": "Ngò",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Rau thơm 1 ít",
+      "raw_name": "Rau thơm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T17:58:01Z",
+  "page_title": "3 cách làm salad ớt chuông ngon miệng đơn giản dễ làm giúp đẹp da",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookRecipe/Avatar/salad-ot-chuong-tom-thumbnail.jpg"
+}

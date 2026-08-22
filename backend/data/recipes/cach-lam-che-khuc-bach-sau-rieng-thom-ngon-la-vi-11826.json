@@ -1,0 +1,143 @@
+{
+  "source_id": "11826",
+  "name": "Chè khúc bạch sầu riêng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d09b749151ce779a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-che-khuc-bach-sau-rieng-thom-ngon-la-vi-11826",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-che-khuc-bach-sau-rieng-thom-ngon-la-vi-11826",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-che",
+      "name": "Món chè"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt sầu riêng 100 gr",
+      "raw_name": "Thịt sầu riêng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa tươi 200 ml (Không đường)",
+      "raw_name": "Sữa tươi",
+      "quantity": 200,
+      "unit": "ml",
+      "note": "Không đường",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Kem sữa tươi 300 ml",
+      "raw_name": "Kem sữa tươi",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gelatin lá 22 gr (khoảng 7.5 lá)",
+      "raw_name": "Gelatin lá",
+      "quantity": 22,
+      "unit": "gr",
+      "note": "khoảng 7.5 lá",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường cát trắng 120 g",
+      "raw_name": "Đường cát trắng",
+      "quantity": 120,
+      "unit": "g",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường phèn 100 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột năng 200 gr",
+      "raw_name": "Bột năng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột mì 1 ít",
+      "raw_name": "Bột mì",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột trà xanh 1/2 muỗng cà phê",
+      "raw_name": "Bột trà xanh",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Củ dền 1 củ",
+      "raw_name": "Củ dền",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước sôi 120 ml",
+      "raw_name": "Nước sôi",
+      "quantity": 120,
+      "unit": "ml",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước lọc 1 lít",
+      "raw_name": "Nước lọc 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Lá dứa 1 bó",
+      "raw_name": "Lá dứa 1 bó",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Hạt é 1 muỗng cà phê",
+      "raw_name": "Hạt é",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Hạnh nhân cắt lát 50 gr",
+      "raw_name": "Hạnh nhân cắt lát",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T20:20:29Z",
+  "page_title": "Cách làm chè khúc bạch sầu riêng thơm ngon, lạ vị",
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookProduct/HuongdancachlammonCHEKHUCBACHSAURIENGFeedyTV0-5screenshotddd-1200x676-1.jpg"
+}

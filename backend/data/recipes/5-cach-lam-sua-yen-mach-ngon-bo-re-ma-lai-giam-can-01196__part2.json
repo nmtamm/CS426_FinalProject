@@ -1,0 +1,45 @@
+{
+  "source_id": "01196",
+  "name": "Sữa yến mạch hạt chia",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/49b8937effadc2e4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/5-cach-lam-sua-yen-mach-ngon-bo-re-ma-lai-giam-can-01196",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/5-cach-lam-sua-yen-mach-ngon-bo-re-ma-lai-giam-can-01196",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Yến mạch 6 muỗng",
+      "raw_name": "Yến mạch",
+      "quantity": 6,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước lọc 800 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 800,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hạt chia 2 muỗng",
+      "raw_name": "Hạt chia",
+      "quantity": 2,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:58:31Z",
+  "page_title": "6 Cách làm sữa yến mạch ngon bổ rẻ mà lại giảm cân các mẹ nên biết",
+  "variant_index": 2,
+  "variant_count": 6,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/sua-yen-mach-hat-chia-thumbnail.jpg"
+}

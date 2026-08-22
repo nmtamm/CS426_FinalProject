@@ -1,0 +1,70 @@
+{
+  "source_id": "00667",
+  "name": "Sữa bắp",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f316eb332593e13e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-ngo-ngon-tai-nha-00667",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-ngo-ngon-tai-nha-00667",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bắp 2 trái (ngô)",
+      "raw_name": "Bắp",
+      "quantity": 2,
+      "unit": "trái",
+      "note": "ngô",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa đặc 100 ml",
+      "raw_name": "Sữa đặc",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa tươi không đường 200 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lá dứa 20 gr (nếu thích)",
+      "raw_name": "Lá dứa",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "nếu thích",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường vani 2 gr",
+      "raw_name": "Đường vani",
+      "quantity": 2,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước 1.5 lít",
+      "raw_name": "Nước 1.5 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:58:38Z",
+  "page_title": "Cách làm sữa bắp (ngô) bằng máy xay sinh tố thơm ngon, đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "công thức được chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookRecipe/Avatar/sua-ngo-my-la-dua-thumbnail.jpg"
+}

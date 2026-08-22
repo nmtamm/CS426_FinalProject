@@ -1,0 +1,81 @@
+{
+  "source_id": "09395",
+  "name": "Rau bầu đất xào tỏi hàu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b34a88ff0b5f06a9.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-che-bien-rau-bau-dat-thom-ngon-la-mieng-bo-duong-don-09395",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-che-bien-rau-bau-dat-thom-ngon-la-mieng-bo-duong-don-09395",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hàu sữa 200 gr",
+      "raw_name": "Hàu sữa",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rau bầu đất 200 gr",
+      "raw_name": "Rau bầu đất",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng cà phê",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành ngò 3 nhánh (cắt nhỏ)",
+      "raw_name": "Hành ngò",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": "cắt nhỏ",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ tiêu/ đường/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ tiêu/ đường/ hạt nêm",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T17:57:29Z",
+  "page_title": "3 cách chế biến rau bầu đất thơm ngon lạ miệng bổ dưỡng đơn giản",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookRecipe/Avatar/rau-bau-dat-xao-toi-hau-thumbnail-1.jpg"
+}

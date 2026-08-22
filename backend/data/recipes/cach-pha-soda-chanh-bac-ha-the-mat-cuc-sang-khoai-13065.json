@@ -1,0 +1,51 @@
+{
+  "source_id": "13065",
+  "name": "Soda chanh bạc hà",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b7bc4a4759e14b77.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-soda-chanh-bac-ha-the-mat-cuc-sang-khoai-13065",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-soda-chanh-bac-ha-the-mat-cuc-sang-khoai-13065",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Soda chanh 180 ml (loại tùy thích)",
+      "raw_name": "Soda chanh",
+      "quantity": 180,
+      "unit": "ml",
+      "note": "loại tùy thích",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Siro bạc hà 3 muỗng canh",
+      "raw_name": "Siro bạc hà",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chanh 2 quả",
+      "raw_name": "Chanh",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:53:26Z",
+  "page_title": "Cách pha soda chanh bạc hà the mát cực sảng khoái",
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookProduct/z2723954736974e3bc46c3a81e3cfb9acedc79ab566f48-1200x676.jpg"
+}

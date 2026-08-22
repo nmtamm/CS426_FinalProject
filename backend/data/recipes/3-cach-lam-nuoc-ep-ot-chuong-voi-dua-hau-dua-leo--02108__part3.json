@@ -1,0 +1,65 @@
+{
+  "source_id": "02108",
+  "name": "Nước ép ớt chuông dứa cần tây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8e1f89c61d53ccb6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nuoc-ep-ot-chuong-voi-dua-hau-dua-leo--02108",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nuoc-ep-ot-chuong-voi-dua-hau-dua-leo--02108",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ớt chuông xanh 1 trái",
+      "raw_name": "Ớt chuông xanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dứa 1/2 trái",
+      "raw_name": "Dứa",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cần tây 100 gr",
+      "raw_name": "Cần tây",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 muỗng",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Mật ong 1 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:56:49Z",
+  "page_title": "3 cách làm nước ép ớt chuông với dưa hấu, dưa leo, cần tây thơm ngon",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/nuoc-ep-ot-chuong-dua-can-tay-thumbnail.jpg"
+}

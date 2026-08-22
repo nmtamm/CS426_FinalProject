@@ -1,0 +1,63 @@
+{
+  "source_id": "11772",
+  "name": "Lòng xào nấm rơm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/931af08c848a4335.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-long-ga-xao-nam-rom-ngon-la-mieng-de-lam-cho-gia-11772",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-long-ga-xao-nam-rom-ngon-la-mieng-de-lam-cho-gia-11772",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lòng gà 200 gr",
+      "raw_name": "Lòng gà",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm rơm 100 gr",
+      "raw_name": "Nấm rơm",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 4 tép",
+      "raw_name": "Tỏi 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ hạt nêm/ bột ngọt/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ hạt nêm/ bột ngọt/ tiêu xay",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T18:18:29Z",
+  "page_title": "Cách làm lòng gà xào nấm rơm ngon lạ miệng dễ làm cho gia đình",
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookProduct/gthum-1200x676.jpg"
+}

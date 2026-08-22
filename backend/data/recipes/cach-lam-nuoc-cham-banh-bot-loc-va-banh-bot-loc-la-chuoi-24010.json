@@ -1,0 +1,95 @@
+{
+  "source_id": "24010",
+  "name": "Nước chấm bánh bột lọc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3d001a44ffaa659b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-cham-banh-bot-loc-va-banh-bot-loc-la-chuoi-24010",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-cham-banh-bot-loc-va-banh-bot-loc-la-chuoi-24010",
+  "servings_text": "Cho 3 - 4 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nước luộc tôm 250 ml",
+      "raw_name": "Nước luộc tôm",
+      "quantity": 250,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước mắm 125 ml",
+      "raw_name": "Nước mắm",
+      "quantity": 125,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường trắng 100 gr",
+      "raw_name": "Đường trắng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt xanh và ớt đỏ 10 gr",
+      "raw_name": "Ớt xanh và ớt đỏ",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột năng 240 gr",
+      "raw_name": "Bột năng",
+      "quantity": 240,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 1/3 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.333,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Mỡ heo 2 muỗng canh (hoặc dầu ăn)",
+      "raw_name": "Mỡ heo",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "hoặc dầu ăn",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tôm nhỏ 200 gr (đã xào chín để làm nhân)",
+      "raw_name": "Tôm nhỏ",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "đã xào chín để làm nhân",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Mỡ heo thắng 100 gr (làm nhân)",
+      "raw_name": "Mỡ heo thắng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "làm nhân",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T20:25:10Z",
+  "page_title": "Cách làm nước chấm bánh bột lọc và bánh bột lọc lá chuối chuẩn vị Huế",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t01%201200676%20%2856%29.jpg"
+}

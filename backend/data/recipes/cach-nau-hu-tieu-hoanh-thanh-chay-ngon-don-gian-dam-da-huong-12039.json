@@ -1,0 +1,155 @@
+{
+  "source_id": "12039",
+  "name": "Hủ tiếu hoành thánh chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/971e36f97692bbe9.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-hu-tieu-hoanh-thanh-chay-ngon-don-gian-dam-da-huong-12039",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-hu-tieu-hoanh-thanh-chay-ngon-don-gian-dam-da-huong-12039",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hủ tiếu khô 100 gr",
+      "raw_name": "Hủ tiếu khô",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành boa rô 2 nhánh",
+      "raw_name": "Hành boa rô",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1 củ (100gr)",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "100gr",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Củ cải trắng 1 củ (100gr)",
+      "raw_name": "Củ cải trắng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "100gr",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Khoai môn 100 gr",
+      "raw_name": "Khoai môn",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Khoai lang 100 gr",
+      "raw_name": "Khoai lang",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Cải thảo 100 gr",
+      "raw_name": "Cải thảo",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nấm hương tươi 100 gr",
+      "raw_name": "Nấm hương tươi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nấm hương khô 50 gr",
+      "raw_name": "Nấm hương khô",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đậu hũ trắng 2 miếng (300gr)",
+      "raw_name": "Đậu hũ trắng 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": "300gr",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Lê 2 quả (150gr)",
+      "raw_name": "Lê",
+      "quantity": 2,
+      "unit": "quả",
+      "note": "150gr",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Bắp mỹ 1 quả (200gr)",
+      "raw_name": "Bắp mỹ",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "200gr",
+      "display_order": 12
+    },
+    {
+      "raw_text": "Rau ăn kèm 1 ít (hẹ/ giá đỗ/ ngò tàu)",
+      "raw_name": "Rau ăn kèm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hẹ/ giá đỗ/ ngò tàu",
+      "display_order": 13
+    },
+    {
+      "raw_text": "Tiêu/ muối 1 ít",
+      "raw_name": "Tiêu/ muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Hạt nêm chay 1.5 muỗng canh",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Đường phèn 1/2 muỗng canh",
+      "raw_name": "Đường phèn",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Dầu ăn 500 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 17
+    }
+  ],
+  "scraped_at": "2026-08-19T18:45:10Z",
+  "page_title": "Cách nấu hủ tiếu hoành thánh chay ngon đơn giản đậm đà hương vị",
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookProduct/Hutieuhoanhthanhchay-1200x676.jpg"
+}

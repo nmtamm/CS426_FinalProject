@@ -1,0 +1,189 @@
+{
+  "source_id": "00748",
+  "name": "Mì trộn trứng gà lòng đào",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/54a605daa1502091.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mi-tron-trung-long-dao-00748",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mi-tron-trung-long-dao-00748",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mì tôm ăn liền 5 gói",
+      "raw_name": "Mì tôm ăn liền",
+      "quantity": 5,
+      "unit": "gói",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng gà 5 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Thịt bò 200 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tôm tươi 200 gr",
+      "raw_name": "Tôm tươi",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sườn heo 800 gr",
+      "raw_name": "Sườn heo",
+      "quantity": 800,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bò viên 200 gr",
+      "raw_name": "Bò viên",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Thanh cua 200 gr",
+      "raw_name": "Thanh cua",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tôm khô 100 gr",
+      "raw_name": "Tôm khô",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bông cải xanh 300 gr",
+      "raw_name": "Bông cải xanh",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Củ cải trắng 300 gr",
+      "raw_name": "Củ cải trắng",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Tỏi 5 tép",
+      "raw_name": "Tỏi 5 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Ớt 6 quả",
+      "raw_name": "Ớt",
+      "quantity": 6,
+      "unit": "quả",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Hành tím 2 củ",
+      "raw_name": "Hành tím",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Hành lá 6 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 6,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Gừng 2 lát",
+      "raw_name": "Gừng 2 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Ớt bột khô 1.5 muỗng cà phê",
+      "raw_name": "Ớt bột khô",
+      "quantity": 1.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 17
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng cà phê",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 18
+    },
+    {
+      "raw_text": "Đường phèn 8 gr (1 viên nhỏ)",
+      "raw_name": "Đường phèn",
+      "quantity": 8,
+      "unit": "gr",
+      "note": "1 viên nhỏ",
+      "display_order": 19
+    },
+    {
+      "raw_text": "Dầu ăn 200 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 20
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Tiêu xay/ đường/ muối/ hạt nêm/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Tiêu xay/ đường/ muối/ hạt nêm/ bột ngọt",
+      "display_order": 21
+    }
+  ],
+  "scraped_at": "2026-08-19T20:37:27Z",
+  "page_title": "4 cách làm mì trộn trứng lòng đào béo bùi hấp dẫn ngon như ngoài hàng",
+  "variant_index": 1,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/mi-tron-trung-ga-long-dao-thumbnail-1.jpg"
+}

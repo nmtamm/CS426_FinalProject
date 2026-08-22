@@ -1,0 +1,35 @@
+{
+  "source_id": "00990",
+  "name": "Chuối sứ lắc phô mai",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4b71082f2e3bd463.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chuoi-su-lac-pho-mai-nong-hoi-thom-lung-00990",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chuoi-su-lac-pho-mai-nong-hoi-thom-lung-00990",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chuối sứ 10 trái",
+      "raw_name": "Chuối sứ",
+      "quantity": 10,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột phô mai 20 gr",
+      "raw_name": "Bột phô mai",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:12:55Z",
+  "page_title": "Cách làm chuối sứ lắc phô mai nóng hổi, thơm lừng đang hot xình xịch",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2018/06/23/1097097/cach-lam-chuoi-su-lac-pho-mai-nong-hoi-thom-lung-dang-hot-xinh-xich-12-760x367.jpg"
+}

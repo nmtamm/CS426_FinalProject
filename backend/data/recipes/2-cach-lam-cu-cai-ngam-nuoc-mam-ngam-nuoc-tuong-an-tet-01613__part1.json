@@ -1,0 +1,61 @@
+{
+  "source_id": "01613",
+  "name": "Củ cải ngâm nước mắm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/fa6ff283457405d2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-cu-cai-ngam-nuoc-mam-ngam-nuoc-tuong-an-tet-01613",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-cu-cai-ngam-nuoc-mam-ngam-nuoc-tuong-an-tet-01613",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Củ cải trắng 300 gr",
+      "raw_name": "Củ cải trắng",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt tươi 6 quả",
+      "raw_name": "Ớt tươi",
+      "quantity": 6,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối/ đường 1 ít",
+      "raw_name": "Muối/ đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:38:33Z",
+  "page_title": "2 cách làm củ cải ngâm nước mắm, ngâm nước tương ăn Tết",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/cu-cai-ngam-nuoc-mam-thumbnail.jpg"
+}

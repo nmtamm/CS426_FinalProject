@@ -1,0 +1,118 @@
+{
+  "source_id": "02208",
+  "name": "Bún huế chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/931bf582f7ab5a1b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-bun-bo-hue-chay-thom-ngon-thanh-dam-dam-02208",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-bun-bo-hue-chay-thom-ngon-thanh-dam-dam-02208",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sả xay 3 muỗng canh",
+      "raw_name": "Sả xay",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt bột Hàn Quốc 1 muỗng canh",
+      "raw_name": "Ớt bột Hàn Quốc",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt xay 1 muỗng canh",
+      "raw_name": "Ớt xay",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu màu điều 3 muỗng canh",
+      "raw_name": "Dầu màu điều",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước mắm chay 5 muỗng canh",
+      "raw_name": "Nước mắm chay",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường phèn 5 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hạt nêm chay 5 muỗng canh",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Thơm chín 1 trái",
+      "raw_name": "Thơm chín",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Sả cây 6 cây",
+      "raw_name": "Sả cây",
+      "quantity": 6,
+      "unit": "cây",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nấm tuỳ chọn 200 gr (nấm rơm;nấm kim châm;nấm hương)",
+      "raw_name": "Nấm tuỳ chọn",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "nấm rơm;nấm kim châm;nấm hương",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Bún tươi 500 gr",
+      "raw_name": "Bún tươi",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Rau muống bào 200 gr",
+      "raw_name": "Rau muống bào",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:45:43Z",
+  "page_title": "2 cách nấu bún bò Huế chay thơm ngon, thanh đạm, đậm đà khó cưỡng",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "công thức từ kênh tiktok Bếp chay XANH",
+  "original_image_url": "https://cdn.tgdd.vn/2023/06/CookRecipe/Avatar/bun-hue-chay-cong-thuc-tu-kenh-tiktok-bep-chay-xanh-thumbnail-1.jpg"
+}

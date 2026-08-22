@@ -1,0 +1,73 @@
+{
+  "source_id": "07923",
+  "name": "Sinh tố dừa sáp dâu tây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0fcfb0f3386c5d33.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sinh-to-dua-sap-don-gian-beo-ngay-mat-lanh-tai-nha-07923",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sinh-to-dua-sap-don-gian-beo-ngay-mat-lanh-tai-nha-07923",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dừa sáp 1 quả",
+      "raw_name": "Dừa sáp",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dâu tây 200 gr (khoảng 15 quả)",
+      "raw_name": "Dâu tây",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "khoảng 15 quả",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đặc 100 ml",
+      "raw_name": "Sữa đặc",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đậu phộng rang 20 gr",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đá bào 150 gr",
+      "raw_name": "Đá bào",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 15 gr (khoảng 1 muỗng canh)",
+      "raw_name": "Đường",
+      "quantity": 15,
+      "unit": "gr",
+      "note": "khoảng 1 muỗng canh",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:48:27Z",
+  "page_title": "2 cách làm sinh tố dừa sáp đơn giản béo ngậy mát lạnh tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/sinh-to-dua-sap-dau-tay-thumbnail-1.jpg"
+}

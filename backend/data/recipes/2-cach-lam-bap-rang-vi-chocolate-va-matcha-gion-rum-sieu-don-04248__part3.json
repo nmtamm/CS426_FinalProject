@@ -1,0 +1,61 @@
+{
+  "source_id": "04248",
+  "name": "Bắp rang vị marshmallow",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/796907e1b0b753d0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-bap-rang-vi-chocolate-va-matcha-gion-rum-sieu-don-04248",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-bap-rang-vi-chocolate-va-matcha-gion-rum-sieu-don-04248",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hạt bắp khô 50 gr",
+      "raw_name": "Hạt bắp khô",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bơ lạc 3 muỗng canh",
+      "raw_name": "Bơ lạc",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tinh chất vani 1 muỗng cà phê",
+      "raw_name": "Tinh chất vani",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng cà phê",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 1/4 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:15:50Z",
+  "page_title": "4 cách làm bắp rang vị thơm ngon giòn rụm, siêu đơn giản",
+  "variant_index": 3,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/bap-rang-vi-marshmallow-thumbnail-1.jpg"
+}

@@ -1,0 +1,99 @@
+{
+  "source_id": "08427",
+  "name": "Gỏi cá ngừ đại dương",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ee5069ed3998ff55.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-ca-ngu-dai-duong-thom-ngon-la-mieng-cuc-hap-dan-08427",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-ca-ngu-dai-duong-thom-ngon-la-mieng-cuc-hap-dan-08427",
+  "servings_text": "Cho 2 người ăn",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cá ngừ đại dương phi lê 100 gr",
+      "raw_name": "Cá ngừ đại dương phi lê",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Xoài 1/2 quả",
+      "raw_name": "Xoài",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Xà lách 100 gr",
+      "raw_name": "Xà lách",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cải bẹ xanh 100 gr",
+      "raw_name": "Cải bẹ xanh",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ngò gai 100 gr",
+      "raw_name": "Ngò gai",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đậu phộng sống 50 gr",
+      "raw_name": "Đậu phộng sống",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Rượu trắng 1 ít",
+      "raw_name": "Rượu trắng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước tương 5 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Mù tạt 1/2 muỗng canh",
+      "raw_name": "Mù tạt",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:02:24Z",
+  "page_title": "Cách làm gỏi cá ngừ đại dương thơm ngon lạ miệng cực hấp dẫn",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/Goicangudaiduong-1200x676-1.jpg"
+}

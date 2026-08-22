@@ -1,0 +1,77 @@
+{
+  "source_id": "13205",
+  "name": "Cà pháo muối xổi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/acec1edaf060522e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-phao-muoi-xoi-an-lien-chua-cay-gion-ngon-don-gian-13205",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-phao-muoi-xoi-an-lien-chua-cay-gion-ngon-don-gian-13205",
+  "servings_text": "Cho 1 hũ cà pháo ngâm",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cà pháo 500 gr",
+      "raw_name": "Cà pháo",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt bột 2 muỗng canh",
+      "raw_name": "Ớt bột",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt 5 trái",
+      "raw_name": "Ớt",
+      "quantity": 5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Giấm 1/2 chén",
+      "raw_name": "Giấm",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước mắm 2/3 chén",
+      "raw_name": "Nước mắm",
+      "quantity": 0.667,
+      "unit": "chén",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Đường/ Muối/ Bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Đường/ Muối/ Bột ngọt",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:00:24Z",
+  "page_title": "3 cách làm cà pháo muối xổi ăn liền chua cay giòn ngon đơn giản tại nhà",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/ca-phao-muoi-xoi-thumbnail-1.jpg"
+}

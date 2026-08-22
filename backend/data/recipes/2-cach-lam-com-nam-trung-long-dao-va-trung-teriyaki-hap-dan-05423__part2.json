@@ -1,0 +1,85 @@
+{
+  "source_id": "05423",
+  "name": "Cơm nắm trứng lòng đào teriyaki",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/fdfde68ba67f42bc.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-com-nam-trung-long-dao-va-trung-teriyaki-hap-dan-05423",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-com-nam-trung-long-dao-va-trung-teriyaki-hap-dan-05423",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trứng gà 3 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sốt Teriyaki 1 muỗng canh",
+      "raw_name": "Sốt Teriyaki",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gạo 350 gr",
+      "raw_name": "Gạo",
+      "quantity": 350,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rượu mirin 2 muỗng canh",
+      "raw_name": "Rượu mirin",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước tương 2 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nấm hương khô 3 cái",
+      "raw_name": "Nấm hương khô",
+      "quantity": 3,
+      "unit": "cái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Mè rang 1 muỗng canh",
+      "raw_name": "Mè rang",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Rong biển nori 3 miếng",
+      "raw_name": "Rong biển nori 3 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:05:18Z",
+  "page_title": "2 cách làm cơm nắm trứng lòng đào thơm ngon hấp dẫn lạ miệng",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookRecipe/Avatar/com-nam-trung-teriyaki-thumbnail.jpg"
+}

@@ -1,0 +1,73 @@
+{
+  "source_id": "22666",
+  "name": "Trân châu cốm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/be3050b885f3788e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-sua-com-va-tra-sua-kem-com-thom-ngon-tai-nha-chi-22666",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-sua-com-va-tra-sua-kem-com-thom-ngon-tai-nha-chi-22666",
+  "servings_text": "Cho 15 - 20 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột năng 200 gr",
+      "raw_name": "Bột năng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột gạo 40 gr",
+      "raw_name": "Bột gạo",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cốm 100 gr",
+      "raw_name": "Cốm",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước sôi 100 ml",
+      "raw_name": "Nước sôi",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Màu thực phẩm xanh bơ 1 ít (hoặc thay bằng màu xanh lá dứa)",
+      "raw_name": "Màu thực phẩm xanh bơ",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hoặc thay bằng màu xanh lá dứa",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường cát nhuyễn 200 gr",
+      "raw_name": "Đường cát nhuyễn",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:52:05Z",
+  "page_title": "Cách làm trà sữa cốm và trà sữa kem cốm thơm ngon tại nhà chỉ với nồi nấu",
+  "variant_index": 3,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2025/03/CookRecipe/Avatar/tran-chau-com-thumbnail.jpg"
+}

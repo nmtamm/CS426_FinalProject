@@ -1,0 +1,57 @@
+{
+  "source_id": "01644",
+  "name": "Gừng mật ong chanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e332fa2563c7b245.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-mat-ong-gung-bo-suc-khoe-tang-de-khang-co-the-01644",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-mat-ong-gung-bo-suc-khoe-tang-de-khang-co-the-01644",
+  "servings_text": "Cho 2 - 3 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "meo-vao-bep",
+      "name": "Mẹo vào bếp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gừng tươi 200 gr",
+      "raw_name": "Gừng tươi",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước lọc 3 chén",
+      "raw_name": "Nước lọc",
+      "quantity": 3,
+      "unit": "chén",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mật ong 3 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chanh 1/2 trái",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:05:22Z",
+  "page_title": "3 cách làm mật ong gừng bổ sức khỏe, tăng đề kháng cơ thể",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/gung-mat-ong-chanh-thumbnail.jpg"
+}

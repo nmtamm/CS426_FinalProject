@@ -1,0 +1,69 @@
+{
+  "source_id": "04479",
+  "name": "Gỏi bầu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8994bcbc6182607e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-goi-mang-bau-va-tan-o-chay-don-gian-thanh-dam-04479",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-goi-mang-bau-va-tan-o-chay-don-gian-thanh-dam-04479",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bầu non 1 trái",
+      "raw_name": "Bầu non",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nấm bào ngư 150 gr",
+      "raw_name": "Nấm bào ngư",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tàu hũ ky 1/2 lá",
+      "raw_name": "Tàu hũ ky",
+      "quantity": 0.5,
+      "unit": "lá",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt 1 trái",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Húng quế 10 gr",
+      "raw_name": "Húng quế",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:02:53Z",
+  "page_title": "3 cách làm gỏi măng, bầu và tần ô chay đơn giản, thanh đạm",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/goi-bau-thumbnail-1.jpg"
+}

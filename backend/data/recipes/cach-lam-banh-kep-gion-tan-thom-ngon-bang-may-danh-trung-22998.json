@@ -1,0 +1,67 @@
+{
+  "source_id": "22998",
+  "name": "Bánh kẹp giòn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/77fa06274e14426c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-kep-gion-tan-thom-ngon-bang-may-danh-trung-22998",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-kep-gion-tan-thom-ngon-bang-may-danh-trung-22998",
+  "servings_text": "Cho 150gr bột mì đa dụng",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bơ mặn 150 gr (nếu dùng bơ lạt thì thêm 1gr muối)",
+      "raw_name": "Bơ mặn",
+      "quantity": 150,
+      "unit": "gr",
+      "note": "nếu dùng bơ lạt thì thêm 1gr muối",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng gà 2 quả (khoảng 70gr 1 quả có vỏ)",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": "khoảng 70gr 1 quả có vỏ",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường tinh luyện 150 gr",
+      "raw_name": "Đường tinh luyện",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột mì đa dụng 150 gr (hoặc bột mì số 8/hoặc số 11/hoặc cake flour)",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 150,
+      "unit": "gr",
+      "note": "hoặc bột mì số 8/hoặc số 11/hoặc cake flour",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước lọc 30 ml (nhiệt độ phòng)",
+      "raw_name": "Nước lọc",
+      "quantity": 30,
+      "unit": "ml",
+      "note": "nhiệt độ phòng",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tinh chất rum 1 muỗng cà phê (có thể thay bằng tinh chất vani hoặc rượu cognac)",
+      "raw_name": "Tinh chất rum",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "có thể thay bằng tinh chất vani hoặc rượu cognac",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:57:32Z",
+  "page_title": "Cách làm bánh kẹp giòn tan thơm ngon bằng máy đánh trứng",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/banh-kep-gion-111.jpg"
+}

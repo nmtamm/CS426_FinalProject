@@ -1,0 +1,151 @@
+{
+  "source_id": "22999",
+  "name": "Bánh trung thu mini",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/639b71b2b77bc32b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-mini-an-mai-khong-chan-bang-lo-nuong-22999",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-mini-an-mai-khong-chan-bang-lo-nuong-22999",
+  "servings_text": "Cho 18 cái",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu xanh nấu chín 100 gr (sau khi nấu khoảng 320gr)",
+      "raw_name": "Đậu xanh nấu chín",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "sau khi nấu khoảng 320gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước 400 ml",
+      "raw_name": "Nước",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối 2 gr",
+      "raw_name": "Muối",
+      "quantity": 2,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 100 gr",
+      "raw_name": "Đường",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu thực vật 40 gr (như dầu hướng dương)",
+      "raw_name": "Dầu thực vật",
+      "quantity": 40,
+      "unit": "gr",
+      "note": "như dầu hướng dương",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tinh bột bắp 10 gr (hoặc thay bằng bột nếp rang chín)",
+      "raw_name": "Tinh bột bắp",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "hoặc thay bằng bột nếp rang chín",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước lọc 100 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường glucose 30 gr (hoặc thay bằng mạch nha/mật bắp)",
+      "raw_name": "Đường glucose",
+      "quantity": 30,
+      "unit": "gr",
+      "note": "hoặc thay bằng mạch nha/mật bắp",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước cốt chanh dây 100 ml (khoảng 12 quả chanh dây tươi)",
+      "raw_name": "Nước cốt chanh dây",
+      "quantity": 100,
+      "unit": "ml",
+      "note": "khoảng 12 quả chanh dây tươi",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bơ không muối 125 gr (lấy từ tủ lạnh và làm chảy khoảng 1/3 lượng)",
+      "raw_name": "Bơ không muối",
+      "quantity": 125,
+      "unit": "gr",
+      "note": "lấy từ tủ lạnh và làm chảy khoảng 1/3 lượng",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đường bột 50 gr (nếu dùng đường cát thì xay mịn)",
+      "raw_name": "Đường bột",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "nếu dùng đường cát thì xay mịn",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Lòng đỏ trứng gà 2 cái (1 cái cho vỏ bánh/1 cái để phết mặt bánh)",
+      "raw_name": "Lòng đỏ trứng gà",
+      "quantity": 2,
+      "unit": "cái",
+      "note": "1 cái cho vỏ bánh/1 cái để phết mặt bánh",
+      "display_order": 12
+    },
+    {
+      "raw_text": "Mật ong 20 gr",
+      "raw_name": "Mật ong",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Bột custard 20 gr (hoặc thay bằng 20gr sữa bột và 1 thìa cà phê vani chiết xuất)",
+      "raw_name": "Bột custard",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "hoặc thay bằng 20gr sữa bột và 1 thìa cà phê vani chiết xuất",
+      "display_order": 14
+    },
+    {
+      "raw_text": "Bột mì số 8 220 gr (hoặc bột mì đa dụng)",
+      "raw_name": "Bột mì số 8",
+      "quantity": 220,
+      "unit": "gr",
+      "note": "hoặc bột mì đa dụng",
+      "display_order": 15
+    },
+    {
+      "raw_text": "Nước lọc để pha trứng phết bánh 1 thìa cà phê (nhiệt độ phòng)",
+      "raw_name": "Nước lọc để pha trứng phết bánh",
+      "quantity": 1,
+      "unit": "thìa cà phê",
+      "note": "nhiệt độ phòng",
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T19:34:03Z",
+  "page_title": "Cách làm bánh trung thu mini ăn mãi không chán bằng lò nướng thùng",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/banh-trung-thu-mini.jpg"
+}

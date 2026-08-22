@@ -1,0 +1,87 @@
+{
+  "source_id": "23225",
+  "name": "Gà nòi hầm sả",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/dd0b8f1863fd540e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-ga-noi-ham-sa-thom-ngon-voi-du-du-bang-noi-lau-dien-23225",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-ga-noi-ham-sa-thom-ngon-voi-du-du-bang-noi-lau-dien-23225",
+  "servings_text": "Cho 4-6 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-nuoc",
+      "name": "Món nước"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà nòi 1 con (khoảng 2-3 kg)",
+      "raw_name": "Gà nòi 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 2-3 kg",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sả 6 cây",
+      "raw_name": "Sả",
+      "quantity": 6,
+      "unit": "cây",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tím 6 củ",
+      "raw_name": "Hành tím",
+      "quantity": 6,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt tươi 3 quả (tùy khẩu vị)",
+      "raw_name": "Ớt tươi",
+      "quantity": 3,
+      "unit": "quả",
+      "note": "tùy khẩu vị",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ít Củ tùy chọn 1 quả (khoai môn/đu đủ xanh/cà rốt)",
+      "raw_name": "Ít Củ tùy chọn",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "khoai môn/đu đủ xanh/cà rốt",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành lá và ngò rí 1 ít",
+      "raw_name": "Hành lá và ngò rí",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (bột ngọt/hạt nêm/tiêu xay/đường cát/muối/bột nghệ/nước mắm ngon)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "bột ngọt/hạt nêm/tiêu xay/đường cát/muối/bột nghệ/nước mắm ngon",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Sa tế 1 ít (hoặc dầu điều)",
+      "raw_name": "Sa tế",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hoặc dầu điều",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:06:01Z",
+  "page_title": "Cách nấu gà nòi hầm sả thơm ngon với đu đủ bằng nồi lẩu điện",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/ga-noi-ham-sa.jpg"
+}

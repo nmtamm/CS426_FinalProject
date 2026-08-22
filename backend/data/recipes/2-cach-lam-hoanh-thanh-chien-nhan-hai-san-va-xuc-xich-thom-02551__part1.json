@@ -1,0 +1,81 @@
+{
+  "source_id": "02551",
+  "name": "Hoành thánh chiên nhân hải sản",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a7d8e30ec9071a63.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-hoanh-thanh-chien-nhan-hai-san-va-xuc-xich-thom-02551",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-hoanh-thanh-chien-nhan-hai-san-va-xuc-xich-thom-02551",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tôm 100 gr",
+      "raw_name": "Tôm",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mực 100 gr",
+      "raw_name": "Mực",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tây 1/4 củ",
+      "raw_name": "Hành tây",
+      "quantity": 0.25,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trứng gà 1 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Vỏ hoành thánh 20 cái",
+      "raw_name": "Vỏ hoành thánh",
+      "quantity": 20,
+      "unit": "cái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành lá 2 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Sốt mayonnaise 1 muỗng canh",
+      "raw_name": "Sốt mayonnaise",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:27:18Z",
+  "page_title": "2 cách làm hoành thánh chiên nhân hải sản và xúc xích thơm ngon, giòn rụm",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/hoanh-thanh-chien-nhan-hai-san-thumbnail.jpg"
+}

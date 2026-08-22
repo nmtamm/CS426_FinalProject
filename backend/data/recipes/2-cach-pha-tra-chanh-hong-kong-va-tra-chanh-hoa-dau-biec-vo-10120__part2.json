@@ -1,0 +1,77 @@
+{
+  "source_id": "10120",
+  "name": "Trà chanh hoa đậu biếc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bc23176907253e99.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-pha-tra-chanh-hong-kong-va-tra-chanh-hoa-dau-biec-vo-10120",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-pha-tra-chanh-hong-kong-va-tra-chanh-hoa-dau-biec-vo-10120",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Túi lọc trà đen 1 gói (khoảng 5gr)",
+      "raw_name": "Túi lọc trà đen",
+      "quantity": 1,
+      "unit": "gói",
+      "note": "khoảng 5gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Túi lọc lục trà lài 1 gói (khoảng 15gr)",
+      "raw_name": "Túi lọc lục trà lài",
+      "quantity": 1,
+      "unit": "gói",
+      "note": "khoảng 15gr",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bông hoa đậu biếc 15 cái (khô)",
+      "raw_name": "Bông hoa đậu biếc",
+      "quantity": 15,
+      "unit": "cái",
+      "note": "khô",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chanh 2 trái",
+      "raw_name": "Chanh",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chanh muối 1 trái",
+      "raw_name": "Chanh muối",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 175 gr",
+      "raw_name": "Đường",
+      "quantity": 175,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Rau húng lủi 1 ít",
+      "raw_name": "Rau húng lủi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:05:39Z",
+  "page_title": "2 cách pha trà chanh hong kong và trà chanh hoa đậu biếc vô cùng thơm mát",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/tra-chanh-hoa-dau-biec-thumbnail.jpg"
+}

@@ -1,0 +1,75 @@
+{
+  "source_id": "14052",
+  "name": "Gỏi đu đủ tôm khô",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4e397620a0e03b4a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-du-du-tom-kho-hap-dan-don-gian-14052",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-du-du-tom-kho-hap-dan-don-gian-14052",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đu đủ xanh 1 trái",
+      "raw_name": "Đu đủ xanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tôm khô 100 gr",
+      "raw_name": "Tôm khô",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chanh 1 trái",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rau răm 1 ít",
+      "raw_name": "Rau răm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt 1 trái",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T17:51:02Z",
+  "page_title": "Cách làm gỏi đu đủ tôm khô hấp dẫn, đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-goi-du-du-tom-kho-hap-dan-don-gian-avt-1200x676-1.jpg"
+}

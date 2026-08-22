@@ -1,0 +1,59 @@
+{
+  "source_id": "23147",
+  "name": "Thịt gà rang mắm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/320355dbcef53289.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-ga-rang-mam-toi-gion-thom-chuan-vi-voi-chao-23147",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-ga-rang-mam-toi-gion-thom-chuan-vi-voi-chao-23147",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà nguyên con 1.2 kg",
+      "raw_name": "Gà nguyên con",
+      "quantity": 1.2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tỏi 50 gr",
+      "raw_name": "Tỏi",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chanh tươi 1 quả",
+      "raw_name": "Chanh tươi",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ dầu ăn/ nước mắm/ hạt nêm/ muối)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ dầu ăn/ nước mắm/ hạt nêm/ muối",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T18:06:18Z",
+  "page_title": "Cách làm thịt gà rang mắm tỏi giòn thơm, chuẩn vị với chảo chiên ngập dầu",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20thumb%20to%20t8%20%2884%29.jpg"
+}

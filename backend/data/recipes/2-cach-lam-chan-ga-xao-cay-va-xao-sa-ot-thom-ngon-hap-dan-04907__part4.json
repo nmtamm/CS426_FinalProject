@@ -1,0 +1,102 @@
+{
+  "source_id": "04907",
+  "name": "Chân gà xào cay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c3be889fb9b6abbc.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-chan-ga-xao-cay-va-xao-sa-ot-thom-ngon-hap-dan-04907",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-chan-ga-xao-cay-va-xao-sa-ot-thom-ngon-hap-dan-04907",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chân gà 500 gr",
+      "raw_name": "Chân gà",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột chiên giòn 3 muỗng canh",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước 5 muỗng canh",
+      "raw_name": "Nước",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tương ớt 2 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Giấm 1 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bơ 1 muỗng canh",
+      "raw_name": "Bơ",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tỏi ớt băm 100 gr",
+      "raw_name": "Tỏi ớt băm",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 200 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:16:08Z",
+  "page_title": "4 cách làm chân gà xào cay, xào sả ớt, xào giấm ớt thơm ngon hấp dẫn",
+  "variant_index": 4,
+  "variant_count": 4,
+  "note": "Công thức được chia sẻ từ TikTok Vào Bếp cùng Điện máy XANH",
+  "original_image_url": "https://cdn.tgdd.vn/2023/05/CookRecipe/Avatar/chan-ga-xao-cay-cong-thuc-duoc-chia-se-tu-tiktok-vao-bep-cung-dien-may-xanh-thumbnail.jpg"
+}

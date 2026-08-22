@@ -1,0 +1,87 @@
+{
+  "source_id": "03831",
+  "name": "Gà hầm hoa atiso",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/18dd23e39ce10277.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-ga-ham-hoa-atiso-thom-ngon-bo-duong-cho-ca-nha-03831",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-ga-ham-hoa-atiso-thom-ngon-bo-duong-cho-ca-nha-03831",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-kho",
+      "name": "Món kho"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà ta 500 gr",
+      "raw_name": "Gà ta",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hoa atiso tươi 300 gr",
+      "raw_name": "Hoa atiso tươi",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tím 10 gr",
+      "raw_name": "Hành tím",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Táo đỏ khô 10 gr",
+      "raw_name": "Táo đỏ khô",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi băm 10 gr",
+      "raw_name": "Tỏi băm",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hạt nêm 3 muỗng cà phê",
+      "raw_name": "Hạt nêm",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường 1/2 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:09:50Z",
+  "page_title": "Cách làm món gà hầm hoa atiso thơm ngon bổ dưỡng cho cả nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookProduct/1200-1200x676-8.jpg"
+}

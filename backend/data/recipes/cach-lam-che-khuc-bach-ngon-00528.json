@@ -1,0 +1,71 @@
+{
+  "source_id": "00528",
+  "name": "Chè khúc bạch",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0ce0c5e08d3a5147.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-che-khuc-bach-ngon-00528",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-che-khuc-bach-ngon-00528",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-che",
+      "name": "Món chè"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Vải 500 ml (đóng hộp)",
+      "raw_name": "Vải",
+      "quantity": 500,
+      "unit": "ml",
+      "note": "đóng hộp",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gelatin 10 gr",
+      "raw_name": "Gelatin",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa tươi không đường 220 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 220,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Kem tươi 220 ml (whipping cream)",
+      "raw_name": "Kem tươi",
+      "quantity": 220,
+      "unit": "ml",
+      "note": "whipping cream",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hạnh nhân lát 150 gr",
+      "raw_name": "Hạnh nhân lát",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 300 gr",
+      "raw_name": "Đường",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:05:22Z",
+  "page_title": "Hướng dẫn chi tiết cách làm chè khúc bạch ngon mê ly dễ làm",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2015/12/12/756159/cach-lam-che-khuc-bach-7-760x367.jpg"
+}

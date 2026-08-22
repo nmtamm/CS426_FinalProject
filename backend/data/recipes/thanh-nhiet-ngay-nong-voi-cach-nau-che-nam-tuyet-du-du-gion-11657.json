@@ -1,0 +1,71 @@
+{
+  "source_id": "11657",
+  "name": "Chè nấm tuyết đu đủ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0ac7bbe202afcf64.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/thanh-nhiet-ngay-nong-voi-cach-nau-che-nam-tuyet-du-du-gion-11657",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/thanh-nhiet-ngay-nong-voi-cach-nau-che-nam-tuyet-du-du-gion-11657",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-che",
+      "name": "Món chè"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nấm tuyết 20 gr",
+      "raw_name": "Nấm tuyết",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đu đủ chín 400 gr",
+      "raw_name": "Đu đủ chín",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường phèn 100 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước lọc 6 chén",
+      "raw_name": "Nước lọc",
+      "quantity": 6,
+      "unit": "chén",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Táo khô 1 muỗng canh",
+      "raw_name": "Táo khô",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hạnh nhân ngọt 1 chén (chén ăn cơm)",
+      "raw_name": "Hạnh nhân ngọt",
+      "quantity": 1,
+      "unit": "chén",
+      "note": "chén ăn cơm",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:18:33Z",
+  "page_title": "Thanh nhiệt ngày nóng với cách nấu chè nấm tuyết đu đủ giòn ngọt",
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookProduct/canh-du-du-tiem-tao-do-1200x676.jpg"
+}

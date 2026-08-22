@@ -1,0 +1,79 @@
+{
+  "source_id": "07210",
+  "name": "Tương hột kho nước cốt dừa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/65965c9992431561.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tuong-hot-kho-nuoc-cot-dua-chay-beo-thom-hao-com-de-07210",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tuong-hot-kho-nuoc-cot-dua-chay-beo-thom-hao-com-de-07210",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-kho",
+      "name": "Món kho"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tương hột 200 gr",
+      "raw_name": "Tương hột",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước cốt dừa 150 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 3 tép",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ngò rí 1 ít",
+      "raw_name": "Ngò rí",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt 1 quả",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ muối/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ muối/ bột ngọt",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:40:04Z",
+  "page_title": "Cách làm tương hột kho nước cốt dừa chay béo thơm hao cơm dễ làm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookProduct/Thumb-1200x676-1.jpg"
+}

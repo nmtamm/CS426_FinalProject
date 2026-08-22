@@ -1,0 +1,49 @@
+{
+  "source_id": "12405",
+  "name": "Bánh gạo tokbokki bằng cơm nguội",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a46cde66a2e0df2a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-gao-tokbokki-bang-com-nguoi-cuc-don-gian-tai-12405",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-gao-tokbokki-bang-com-nguoi-cuc-don-gian-tai-12405",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cơm nguội 100 gr (khoảng 1 - 2 chén)",
+      "raw_name": "Cơm nguội",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "khoảng 1 - 2 chén",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột năng 1 ít",
+      "raw_name": "Bột năng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột phô mai 1 ít (hoặc tương ớt)",
+      "raw_name": "Bột phô mai",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hoặc tương ớt",
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:08:37Z",
+  "page_title": "3 Cách làm bánh gạo tokbokki bằng cơm nguội cực đơn giản tại nhà",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/banh-gao-tokbokki-bang-com-nguoi-thumbnail-2.jpg"
+}

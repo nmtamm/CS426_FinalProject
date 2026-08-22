@@ -1,0 +1,79 @@
+{
+  "source_id": "23221",
+  "name": "Chè hạt sen thập cẩm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/dc65f5229df0dddf.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-che-hat-sen-thap-cam-ngot-diu-vua-bo-duong-vua-giup-23221",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-che-hat-sen-thap-cam-ngot-diu-vua-bo-duong-vua-giup-23221",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-che",
+      "name": "Món chè"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hạt sen tươi 200 gr (hoặc 100gr hạt sen khô ngâm nở)",
+      "raw_name": "Hạt sen tươi",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "hoặc 100gr hạt sen khô ngâm nở",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bắp 2 quả (ngô - có thể dùng bắp ngọt/bắp nếp hoặc kết hợp cả hai)",
+      "raw_name": "Bắp",
+      "quantity": 2,
+      "unit": "quả",
+      "note": "ngô - có thể dùng bắp ngọt/bắp nếp hoặc kết hợp cả hai",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường phèn 120 gr (có thể điều chỉnh tùy khẩu vị)",
+      "raw_name": "Đường phèn",
+      "quantity": 120,
+      "unit": "gr",
+      "note": "có thể điều chỉnh tùy khẩu vị",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Táo đỏ khô 50 gr",
+      "raw_name": "Táo đỏ khô",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hạt chia 2 muỗng canh",
+      "raw_name": "Hạt chia",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột sắn dây hoặc bột năng 2 muỗng canh",
+      "raw_name": "Bột sắn dây hoặc bột năng",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Lá dứa 1 bó (lá nếp)",
+      "raw_name": "Lá dứa 1 bó",
+      "quantity": null,
+      "unit": null,
+      "note": "lá nếp",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:14:33Z",
+  "page_title": "Cách nấu chè hạt sen thập cẩm ngọt dịu, vừa bổ dưỡng, vừa giúp thanh nhiệt",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20thumb%20to%20t8%20-%202025-09-18T165852.153.jpg"
+}

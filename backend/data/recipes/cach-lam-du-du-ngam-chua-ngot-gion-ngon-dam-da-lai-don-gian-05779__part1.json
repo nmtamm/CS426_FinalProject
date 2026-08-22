@@ -1,0 +1,77 @@
+{
+  "source_id": "05779",
+  "name": "Đu đủ ngâm chua ngọt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ee27fbf2438f80b7.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-du-du-ngam-chua-ngot-gion-ngon-dam-da-lai-don-gian-05779",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-du-du-ngam-chua-ngot-gion-ngon-dam-da-lai-don-gian-05779",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đu đủ 1 quả (khoảng 1kg)",
+      "raw_name": "Đu đủ",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "khoảng 1kg",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gừng thái sợi 1 muỗng canh",
+      "raw_name": "Gừng thái sợi",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt băm nhuyễn 1 muỗng canh",
+      "raw_name": "Ớt băm nhuyễn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước mắm 110 ml",
+      "raw_name": "Nước mắm",
+      "quantity": 110,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Giấm gạo 220 ml",
+      "raw_name": "Giấm gạo",
+      "quantity": 220,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 220 gr",
+      "raw_name": "Đường",
+      "quantity": 220,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T17:56:02Z",
+  "page_title": "2 cách làm đu đủ ngâm chua ngọt cho bữa ăn ngày Tết thêm hấp dẫn",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookRecipe/Avatar/du-du-ngam-chua-ngot-gion-ngon-dam-da-lai-don-gian-thumbnail.jpg"
+}

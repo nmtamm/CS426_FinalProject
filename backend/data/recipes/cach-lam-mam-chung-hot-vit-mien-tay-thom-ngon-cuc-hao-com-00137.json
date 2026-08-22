@@ -1,0 +1,119 @@
+{
+  "source_id": "00137",
+  "name": "Mắm chưng hột vịt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a9020bd682583b85.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mam-chung-hot-vit-mien-tay-thom-ngon-cuc-hao-com-00137",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mam-chung-hot-vit-mien-tay-thom-ngon-cuc-hao-com-00137",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mắm cá linh 200 gr",
+      "raw_name": "Mắm cá linh",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt heo xay 450 gr",
+      "raw_name": "Thịt heo xay",
+      "quantity": 450,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng vịt 6 quả",
+      "raw_name": "Trứng vịt",
+      "quantity": 6,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tím 5 củ",
+      "raw_name": "Hành tím",
+      "quantity": 5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành phi 15 gr",
+      "raw_name": "Hành phi",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành lá 5 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi 4 củ",
+      "raw_name": "Tỏi",
+      "quantity": 4,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gừng 3 củ",
+      "raw_name": "Gừng",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ớt 2 trái",
+      "raw_name": "Ớt",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Ớt bột 2 muỗng cà phê",
+      "raw_name": "Ớt bột",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Mỡ heo 2 muỗng canh",
+      "raw_name": "Mỡ heo",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Hạt nêm/ đường/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Hạt nêm/ đường/ tiêu xay",
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T20:29:13Z",
+  "page_title": "Cách làm mắm chưng hột vịt thơm ngon đậm vị cho bữa cơm nhà thêm hấp dẫn",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookDish/cach-lam-mam-chung-hot-vit-mien-tay-thom-ngon-cuc-hao-com-avt-1200x676.jpg"
+}

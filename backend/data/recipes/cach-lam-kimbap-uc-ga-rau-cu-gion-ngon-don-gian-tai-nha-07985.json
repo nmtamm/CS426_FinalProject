@@ -1,0 +1,155 @@
+{
+  "source_id": "07985",
+  "name": "Kimbap ức gà rau củ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5471955efa2842ef.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kimbap-uc-ga-rau-cu-gion-ngon-don-gian-tai-nha-07985",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kimbap-uc-ga-rau-cu-gion-ngon-don-gian-tai-nha-07985",
+  "servings_text": "Cho 2 phần ăn",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ức gà 100 gr (1 cái ức gà)",
+      "raw_name": "Ức gà",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "1 cái ức gà",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng gà 4 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 4,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dưa leo 1 trái",
+      "raw_name": "Dưa leo",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt chuông đỏ 1 trái",
+      "raw_name": "Ớt chuông đỏ",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt chuông vàng 1 trái",
+      "raw_name": "Ớt chuông vàng",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rau xà lách 150 gr (rau diếp)",
+      "raw_name": "Rau xà lách",
+      "quantity": 150,
+      "unit": "gr",
+      "note": "rau diếp",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Thanh cua 1 cái",
+      "raw_name": "Thanh cua",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Rong biển cuộn kimbap 1 gói",
+      "raw_name": "Rong biển cuộn kimbap",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rượu trắng 1 muỗng canh",
+      "raw_name": "Rượu trắng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Phô mai 20 miếng",
+      "raw_name": "Phô mai 20 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Mật ong 1 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Sữa chua 2 muỗng canh",
+      "raw_name": "Sữa chua",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Lá nguyệt quế khô 1 lá",
+      "raw_name": "Lá nguyệt quế khô",
+      "quantity": 1,
+      "unit": "lá",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Tiêu hạt/ tiêu xay 1 ít",
+      "raw_name": "Tiêu hạt/ tiêu xay",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 17
+    }
+  ],
+  "scraped_at": "2026-08-19T18:05:07Z",
+  "page_title": "Cách làm kimbap ức gà rau củ giòn ngon, đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookProduct/kimbapucgaraucu-1200x676.jpg"
+}

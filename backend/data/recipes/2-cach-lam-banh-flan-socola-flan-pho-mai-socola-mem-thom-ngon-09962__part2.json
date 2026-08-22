@@ -1,0 +1,90 @@
+{
+  "source_id": "09962",
+  "name": "Bánh flan socola phô mai",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c8a2ddb4741b3ed5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-flan-socola-flan-pho-mai-socola-mem-thom-ngon-09962",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-flan-socola-flan-pho-mai-socola-mem-thom-ngon-09962",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Socola 150 gr",
+      "raw_name": "Socola",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Kem phô mai 230 gr (Cream Cheese)",
+      "raw_name": "Kem phô mai",
+      "quantity": 230,
+      "unit": "gr",
+      "note": "Cream Cheese",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng gà 5 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa tươi không đường 397 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 397,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sữa đặc 350 ml",
+      "raw_name": "Sữa đặc",
+      "quantity": 350,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Vani nước 1 muỗng cà phê",
+      "raw_name": "Vani nước",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 200 gr",
+      "raw_name": "Đường",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:22:27Z",
+  "page_title": "2 cách làm bánh flan socola, flan phô mai socola mềm thơm ngon không bị rỗ",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": null,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/banh-flan-socola-pho-mai-thumbnail.jpg"
+}

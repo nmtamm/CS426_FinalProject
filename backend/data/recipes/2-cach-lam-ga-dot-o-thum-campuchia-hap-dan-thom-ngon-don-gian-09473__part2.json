@@ -1,0 +1,145 @@
+{
+  "source_id": "09473",
+  "name": "Gà đốt ô thum bằng lò nướng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a4510b6baa3ad4c9.png",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-ga-dot-o-thum-campuchia-hap-dan-thom-ngon-don-gian-09473",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-ga-dot-o-thum-campuchia-hap-dan-thom-ngon-don-gian-09473",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà ta 1.5 kg (1 con)",
+      "raw_name": "Gà ta",
+      "quantity": 1.5,
+      "unit": "kg",
+      "note": "1 con",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sả băm 1 muỗng canh",
+      "raw_name": "Sả băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Riềng cắt lát 1 muỗng canh",
+      "raw_name": "Riềng cắt lát",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng cắt nhỏ 1 muỗng canh",
+      "raw_name": "Gừng cắt nhỏ",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành lá cắt nhỏ 1 nhánh",
+      "raw_name": "Hành lá cắt nhỏ",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ngò rí 2 nhánh",
+      "raw_name": "Ngò rí",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi 3 củ",
+      "raw_name": "Tỏi",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt sừng cắt lát 1 trái",
+      "raw_name": "Ớt sừng cắt lát",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Là chanh tươi 15 lá",
+      "raw_name": "Là chanh tươi",
+      "quantity": 15,
+      "unit": "lá",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước tương 2 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Ngũ vị hương 1 muỗng cà phê",
+      "raw_name": "Ngũ vị hương",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu màu điều 1 muỗng canh",
+      "raw_name": "Dầu màu điều",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước cốt chanh 4 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ đường/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ đường/ bột ngọt",
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T18:12:21Z",
+  "page_title": "2 cách làm gà đốt ô thum Campuchia hấp dẫn thơm ngon đơn giản",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookRecipe/Avatar/ga-dot-o-thum-truyen-thong-thumbnail.png"
+}

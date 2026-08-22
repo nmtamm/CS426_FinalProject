@@ -1,0 +1,131 @@
+{
+  "source_id": "15075",
+  "name": "Tré trộn cóc non",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bede913fb2724b39.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tre-tron-coc-non-chua-cay-cuc-ngon-va-vo-cung-don-15075",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tre-tron-coc-non-chua-cay-cuc-ngon-va-vo-cung-don-15075",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tré mini 5 cái",
+      "raw_name": "Tré mini",
+      "quantity": 5,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chả heo mini 2 cái",
+      "raw_name": "Chả heo mini",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chả bò mini 2 cái",
+      "raw_name": "Chả bò mini",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nem chua 2 cái",
+      "raw_name": "Nem chua",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cóc non 100 gr",
+      "raw_name": "Cóc non",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Xoài xanh 100 gr",
+      "raw_name": "Xoài xanh",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dưa leo 100 gr",
+      "raw_name": "Dưa leo",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Rau răm 50 gr",
+      "raw_name": "Rau răm",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Trứng cút 4 quả",
+      "raw_name": "Trứng cút",
+      "quantity": 4,
+      "unit": "quả",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tắc 2 cái",
+      "raw_name": "Tắc",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Tỏi 30 gr",
+      "raw_name": "Tỏi",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Ớt 20 gr",
+      "raw_name": "Ớt",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Ớt bột 1 muỗng cà phê",
+      "raw_name": "Ớt bột",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Muối tiêu 1 muỗng cà phê",
+      "raw_name": "Muối tiêu",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T20:37:58Z",
+  "page_title": "Cách làm tré trộn cóc non chua cay cực ngon và vô cùng đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookDish/cach-lam-tre-tron-coc-non-chua-cay-cuc-ngon-va-vo-cung-don-avt-1200x676.jpg"
+}

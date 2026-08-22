@@ -1,0 +1,103 @@
+{
+  "source_id": "08468",
+  "name": "Đậu hũ xào rau củ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b5f9aa9b345972bb.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-hu-xao-rau-cu-thanh-dam-don-gian-de-lam-cho-ngay-08468",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-hu-xao-rau-cu-thanh-dam-don-gian-de-lam-cho-ngay-08468",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu hũ 1 miếng",
+      "raw_name": "Đậu hũ 1 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt chuông xanh/ vàng/ đỏ 1/2 trái",
+      "raw_name": "Ớt chuông xanh/ vàng/ đỏ",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nấm đông cô tươi 3 cây (có thể dùng khô)",
+      "raw_name": "Nấm đông cô tươi",
+      "quantity": 3,
+      "unit": "cây",
+      "note": "có thể dùng khô",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Mè rang 1 muỗng cà phê",
+      "raw_name": "Mè rang",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước tương 4 muỗng cà phê",
+      "raw_name": "Nước tương",
+      "quantity": 4,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu mè 1 muỗng canh",
+      "raw_name": "Dầu mè",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường ngô 4 muỗng canh (có thể thay bằng đường trắng)",
+      "raw_name": "Đường ngô",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": "có thể thay bằng đường trắng",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:40:34Z",
+  "page_title": "Cách làm đậu hũ xào rau củ thanh đạm đơn giản dễ làm cho ngày nhạt miệng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/[Phu-de]-Dau-phu-xao-rau-cu--Dau-phu-xao-kieu-Han-Quoc--Cong-thuc-thuan-chay-3-42-screenshot-1200x675.jpg"
+}

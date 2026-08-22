@@ -1,0 +1,125 @@
+{
+  "source_id": "02492",
+  "name": "Sữa chua mít trân châu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/27f0c69ed8efe4b3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-chua-mit-thach-la-dua-don-gian-de-lam-02492",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-chua-mit-thach-la-dua-don-gian-de-lam-02492",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt mít 1 chén (chén ăn cơm)",
+      "raw_name": "Thịt mít",
+      "quantity": 1,
+      "unit": "chén",
+      "note": "chén ăn cơm",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa chua 3 hộp",
+      "raw_name": "Sữa chua",
+      "quantity": 3,
+      "unit": "hộp",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột rau câu dẻo 5 gr",
+      "raw_name": "Bột rau câu dẻo",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột rau câu giòn 5 gr",
+      "raw_name": "Bột rau câu giòn",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột năng 100 gr",
+      "raw_name": "Bột năng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột cacao 3 gr",
+      "raw_name": "Bột cacao",
+      "quantity": 3,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tinh chất lá dứa 1/3 muỗng cà phê",
+      "raw_name": "Tinh chất lá dứa",
+      "quantity": 0.333,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Siro việt quất 1/3 muỗng cà phê",
+      "raw_name": "Siro việt quất",
+      "quantity": 0.333,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hạt é 10 gr",
+      "raw_name": "Hạt é",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Cùi dừa 2 muỗng canh (cắt hạt lựu)",
+      "raw_name": "Cùi dừa",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "cắt hạt lựu",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dừa khô 1 ít",
+      "raw_name": "Dừa khô",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Màu thực phẩm đỏ 1 ít",
+      "raw_name": "Màu thực phẩm đỏ",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Đường 100 gr",
+      "raw_name": "Đường",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T20:22:02Z",
+  "page_title": "2 cách làm sữa chua mít trân châu ngon giòn dai đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/sua-chua-mit-tran-chau-thumbnail.jpg"
+}

@@ -1,0 +1,111 @@
+{
+  "source_id": "06930",
+  "name": "Lẩu gan bò",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/52337d42e8f16ef2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-lau-gan-bo-thom-ngon-bo-duong-am-bung-cho-ngay-se-06930",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-lau-gan-bo-thom-ngon-bo-duong-am-bung-cho-ngay-se-06930",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-lau",
+      "name": "Món lẩu"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gan bò 1 kg",
+      "raw_name": "Gan bò",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thơm 1/4 trái",
+      "raw_name": "Thơm",
+      "quantity": 0.25,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà chua 2 trái",
+      "raw_name": "Cà chua",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tây 1/2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Cần tây 100 gr",
+      "raw_name": "Cần tây",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Sả 4 cây",
+      "raw_name": "Sả",
+      "quantity": 4,
+      "unit": "cây",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt xiêm 5 trái",
+      "raw_name": "Ớt xiêm",
+      "quantity": 5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Giấm ăn 1 ít",
+      "raw_name": "Giấm ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ hạt nêm",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:33:37Z",
+  "page_title": "Cách nấu lẩu gan bò thơm ngon bổ dưỡng ấm bụng cho ngày se lạnh cuối năm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/Untitled-2-1200x676-12.jpg"
+}

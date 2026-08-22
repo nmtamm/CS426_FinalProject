@@ -1,0 +1,74 @@
+{
+  "source_id": "04598",
+  "name": "Bánh cú mèo bay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c15be1ba31a8429c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-cu-meo-bay-va-banh-doi-bay-don-gian-cho-le-04598",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-cu-meo-bay-va-banh-doi-bay-don-gian-cho-le-04598",
+  "servings_text": "Cho 12 cái bánh",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh torttila 4 miếng",
+      "raw_name": "Bánh torttila 4 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bánh snack Cheetos nghiền vụn 140 gr (có thể thay thế bằng loại snack khác)",
+      "raw_name": "Bánh snack Cheetos nghiền vụn",
+      "quantity": 140,
+      "unit": "gr",
+      "note": "có thể thay thế bằng loại snack khác",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mè đen 14 gr",
+      "raw_name": "Mè đen",
+      "quantity": 14,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cream cheese 225 gr",
+      "raw_name": "Cream cheese",
+      "quantity": 225,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Phô mai dê 113 gr",
+      "raw_name": "Phô mai dê",
+      "quantity": 113,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tiêu 1/4 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:24:03Z",
+  "page_title": "2 cách làm bánh cú mèo bay và bánh dơi bay đơn giản cho lễ Halloween",
+  "variant_index": 1,
+  "variant_count": 2,
+  "note": null,
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookRecipe/Avatar/banh-cu-meo-bay-thumbnail.jpg"
+}

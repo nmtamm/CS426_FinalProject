@@ -1,0 +1,85 @@
+{
+  "source_id": "10570",
+  "name": "Hoa chuối kho riềng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9d63ff9de078d1b5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-hoa-chuoi-kho-tieu-ca-va-rieng-chay-moi-la-hap-dan-10570",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-hoa-chuoi-kho-tieu-ca-va-rieng-chay-moi-la-hap-dan-10570",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hoa chuối non 300 gr",
+      "raw_name": "Hoa chuối non",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm đùi gà 100 gr",
+      "raw_name": "Nấm đùi gà",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Riềng 100 gr",
+      "raw_name": "Riềng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt 1 trái",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường. 2 muỗng canh",
+      "raw_name": "Đường.",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hạt nêm chay 2 muỗng canh",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước màu 1 muỗng canh",
+      "raw_name": "Nước màu",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước mắm chay 2 muỗng canh",
+      "raw_name": "Nước mắm chay",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:38:37Z",
+  "page_title": "3 cách làm hoa chuối kho tiêu, cà và riềng chay mới lạ hấp dẫn đơn giản",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookRecipe/Avatar/hoa-chuoi-kho-rieng-thumbnail.jpg"
+}

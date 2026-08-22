@@ -1,0 +1,95 @@
+{
+  "source_id": "01600",
+  "name": "Lẩu gà ngải cứu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6b5851cbd7c79a55.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-lau-ga-ngai-cuu-ngon-lanh-bo-duong-giai-ngan-01600",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-lau-ga-ngai-cuu-ngon-lanh-bo-duong-giai-ngan-01600",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-lau",
+      "name": "Món lẩu"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà 1 con (nặng khoảng 1.5kg)",
+      "raw_name": "Gà 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": "nặng khoảng 1.5kg",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ngải cứu 100 gr",
+      "raw_name": "Ngải cứu",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bắp 1 trái",
+      "raw_name": "Bắp",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đậu phụ 100 gr",
+      "raw_name": "Đậu phụ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Trứng vịt lộn 5 quả",
+      "raw_name": "Trứng vịt lộn",
+      "quantity": 5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Thuốc Bắc 50 gr",
+      "raw_name": "Thuốc Bắc",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Rau ăn kèm 100 gr (rau muống/cải thảo/cải ngọt/ mồng tơi…)",
+      "raw_name": "Rau ăn kèm",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "rau muống/cải thảo/cải ngọt/ mồng tơi…",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nấm 100 gr (nấm hương/ nấm kim châm/ nấm đùi gà)",
+      "raw_name": "Nấm",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "nấm hương/ nấm kim châm/ nấm đùi gà",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị 10 gr (gừng tươi/ hành/muối/mắm/ hạt nêm/ đường/ bột ngọt)",
+      "raw_name": "Gia vị",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "gừng tươi/ hành/muối/mắm/ hạt nêm/ đường/ bột ngọt",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:12:36Z",
+  "page_title": "Cách nấu lẩu gà ngải cứu ngon lành bổ dưỡng giải ngán ngày Tết",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/01/09/1230690/cach-nau-lau-ga-ngai-cuu-ngon-lanh-bo-duong-giai-ngan-ngay-tet-760x367.jpg"
+}

@@ -1,0 +1,79 @@
+{
+  "source_id": "08447",
+  "name": "Kimbap",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0115aa64bfa73352.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kimbap-don-gian-nhat-tai-nha-vung-ve-cung-co-the-lam-08447",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kimbap-don-gian-nhat-tai-nha-vung-ve-cung-co-the-lam-08447",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "meo-vao-bep",
+      "name": "Mẹo vào bếp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rong biển 2 miếng",
+      "raw_name": "Rong biển 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt nguội Spam 200 gr",
+      "raw_name": "Thịt nguội Spam",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng 2 quả",
+      "raw_name": "Trứng",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá 1 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Kim chi 30 gr",
+      "raw_name": "Kim chi",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Phô mai cheddar 2 lát",
+      "raw_name": "Phô mai cheddar 2 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:38:09Z",
+  "page_title": "Cách làm kimbap gấp đơn giản nhất tại nhà, vụng về cũng có thể làm được",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/Spam-Rice-Sandwich-lam-bang-cach-gap-!!-Gap-Gimbap-1200x676-(1)-1200x676.jpg"
+}

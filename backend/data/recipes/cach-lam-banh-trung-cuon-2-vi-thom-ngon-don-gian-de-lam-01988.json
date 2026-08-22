@@ -1,0 +1,95 @@
+{
+  "source_id": "01988",
+  "name": "bánh trứng cuộn 2 vị",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/71367d8cad7201a1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-cuon-2-vi-thom-ngon-don-gian-de-lam-01988",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-cuon-2-vi-thom-ngon-don-gian-de-lam-01988",
+  "servings_text": "Cho 4 người ăn",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bơ 20 g",
+      "raw_name": "Bơ",
+      "quantity": 20,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 30 g",
+      "raw_name": "Đường",
+      "quantity": 30,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng 1 quả",
+      "raw_name": "Trứng",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột bánh 50 g (cake flour hoặc có thể dùng bột mì số 8)",
+      "raw_name": "Bột bánh",
+      "quantity": 50,
+      "unit": "g",
+      "note": "cake flour hoặc có thể dùng bột mì số 8",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bơ 20 g (hương cacao)",
+      "raw_name": "Bơ",
+      "quantity": 20,
+      "unit": "g",
+      "note": "hương cacao",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Trứng 1 quả (hương cacao)",
+      "raw_name": "Trứng",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "hương cacao",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 30 g (hương cacao)",
+      "raw_name": "Đường",
+      "quantity": 30,
+      "unit": "g",
+      "note": "hương cacao",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột bánh 40 g (cake flour hoặc bột mì số 8 - hương cacao)",
+      "raw_name": "Bột bánh",
+      "quantity": 40,
+      "unit": "g",
+      "note": "cake flour hoặc bột mì số 8 - hương cacao",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột ca cao nguyên chất 5 g (hương cacao)",
+      "raw_name": "Bột ca cao nguyên chất",
+      "quantity": 5,
+      "unit": "g",
+      "note": "hương cacao",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:28:42Z",
+  "page_title": "Cách làm bánh trứng cuộn 2 vị thơm ngon dễ làm chỉ với chảo chống dính",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/04/09/1247795/cach-lam-banh-trung-cuon-2-vi-thom-ngon-don-gian-de-lam-8-760x367.jpg"
+}

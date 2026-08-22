@@ -1,0 +1,77 @@
+{
+  "source_id": "00436",
+  "name": "Dưa hành",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b9da46664549a822.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-muoi-dua-hanh-gion-ngon-khong-bi-tham-vo-00436",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-muoi-dua-hanh-gion-ngon-khong-bi-tham-vo-00436",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hành tím 1 kg",
+      "raw_name": "Hành tím",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt 5 quả",
+      "raw_name": "Ớt",
+      "quantity": 5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1/2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước vo gạo 500 ml",
+      "raw_name": "Nước vo gạo",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Giấm 500 ml",
+      "raw_name": "Giấm",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 300 gr",
+      "raw_name": "Đường",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối 50 gr",
+      "raw_name": "Muối",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:35:06Z",
+  "page_title": "Cách muối dưa hành giòn ngon, không bị hăng đơn giản tại nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://img.youtube.com/vi/5ZK6C5VaNWk/maxresdefault.jpg"
+}

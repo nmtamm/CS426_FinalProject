@@ -1,0 +1,65 @@
+{
+  "source_id": "01824",
+  "name": "Ghẹ rang me",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d3fcee461b391a4e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-ghe-rang-gay-nghien-nham-nhi-ngay-cuoi-tuan-01824",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-ghe-rang-gay-nghien-nham-nhi-ngay-cuoi-tuan-01824",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ghẹ 1 kg",
+      "raw_name": "Ghẹ",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Me chín 70 gr",
+      "raw_name": "Me chín",
+      "quantity": 70,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột năng 1.5 muỗng cà phê",
+      "raw_name": "Bột năng",
+      "quantity": 1.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gia vị 30 gr (đường trắng/ hạt nêm/ muối...)",
+      "raw_name": "Gia vị",
+      "quantity": 30,
+      "unit": "gr",
+      "note": "đường trắng/ hạt nêm/ muối...",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:28:54Z",
+  "page_title": "2 cách làm ghẹ rang me và rang muối ớt gây nghiện nhâm nhi ngày cuối tuần",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/ghe-rang-me-thumbnail-1.jpg"
+}

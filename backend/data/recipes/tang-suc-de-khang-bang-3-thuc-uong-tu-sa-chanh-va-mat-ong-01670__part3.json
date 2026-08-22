@@ -1,0 +1,53 @@
+{
+  "source_id": "01670",
+  "name": "Siro húng quất đường phèn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/781f58a486373d13.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/tang-suc-de-khang-bang-3-thuc-uong-tu-sa-chanh-va-mat-ong-01670",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/tang-suc-de-khang-bang-3-thuc-uong-tu-sa-chanh-va-mat-ong-01670",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lá húng chanh 500 gr (rau tần lá dày)",
+      "raw_name": "Lá húng chanh",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "rau tần lá dày",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường phèn 1 kg",
+      "raw_name": "Đường phèn",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trái quất 500 gr (trái tắc)",
+      "raw_name": "Trái quất",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "trái tắc",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng 1 củ (nhỏ)",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "nhỏ",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:59:32Z",
+  "page_title": "Tăng sức đề kháng, bảo vệ sức khỏe bằng 3 thức uống từ sả tắc và mật ong",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookRecipe/Avatar/siro-hung-quat-thumbnail.jpg"
+}

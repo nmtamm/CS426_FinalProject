@@ -1,0 +1,43 @@
+{
+  "source_id": "01182",
+  "name": "Tôm khô",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5cce9fd1854f8b53.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tom-kho-truyen-thong-va-lam-tom-kho-bang-lo-vi-song-01182",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tom-kho-truyen-thong-va-lam-tom-kho-bang-lo-vi-song-01182",
+  "servings_text": "Cho 150gr tôm khô",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tôm đất 1 kg (hoặc tôm thẻ)",
+      "raw_name": "Tôm đất",
+      "quantity": 1,
+      "unit": "kg",
+      "note": "hoặc tôm thẻ",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối 200 gr",
+      "raw_name": "Muối",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước sạch 500 ml",
+      "raw_name": "Nước sạch",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:34:58Z",
+  "page_title": "Cách làm tôm khô truyền thống và làm tôm khô bằng lò vi sóng cực đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2018/12/12/1137481/cach-lam-tom-kho-truyen-thong-va-lam-tom-kho-bang-lo-vi-song-10-760x367.jpg"
+}

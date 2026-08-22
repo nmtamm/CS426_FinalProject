@@ -1,0 +1,102 @@
+{
+  "source_id": "00705",
+  "name": "Khô heo tẩm vị xé sợi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c87d3a5efec73ed1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kho-heo-xe-soi-cho-ngay-tet-bang-chao-chong-dinh-00705",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kho-heo-xe-soi-cho-ngay-tet-bang-chao-chong-dinh-00705",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt heo 2 kg",
+      "raw_name": "Thịt heo",
+      "quantity": 2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sả tươi 5 cây",
+      "raw_name": "Sả tươi",
+      "quantity": 5,
+      "unit": "cây",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt cay 2 trái",
+      "raw_name": "Ớt cay",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột ớt 2 muỗng canh",
+      "raw_name": "Bột ớt",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột ngũ vị thương 1/2 gói",
+      "raw_name": "Bột ngũ vị thương",
+      "quantity": 0.5,
+      "unit": "gói",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Rượu trắng 3 muỗng canh",
+      "raw_name": "Rượu trắng",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước luộc thịt 100 ml",
+      "raw_name": "Nước luộc thịt",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ hạt nêm",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T19:03:44Z",
+  "page_title": "2 Cách làm khô heo tẩm vị xé sợi cực ngon, lai rai cuối tuần ngon phải biết",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "Công thức được chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookRecipe/Avatar/kho-heo-tam-vi-xe-soi-cong-thuc-duoc-chia-se-tu-nguoi-dung-thumbnail.jpg"
+}

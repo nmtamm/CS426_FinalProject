@@ -1,0 +1,77 @@
+{
+  "source_id": "12790",
+  "name": "Thơm kho quẹt chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/513276bae4aea8d2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-thom-kho-chay-chua-chua-ngot-ngot-doi-vi-cho-gia-12790",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-thom-kho-chay-chua-chua-ngot-ngot-doi-vi-cho-gia-12790",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thơm 1/2 quả",
+      "raw_name": "Thơm",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành lá 2 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tím 2 củ",
+      "raw_name": "Hành tím",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt 2 quả",
+      "raw_name": "Ớt",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Tiêu xay/ đường/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Tiêu xay/ đường/ hạt nêm",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:36:35Z",
+  "page_title": "2 cách làm thơm kho chay chua chua ngọt ngọt đổi vị cho gia đình",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/thom-kho-quet-thumbnail.jpg"
+}

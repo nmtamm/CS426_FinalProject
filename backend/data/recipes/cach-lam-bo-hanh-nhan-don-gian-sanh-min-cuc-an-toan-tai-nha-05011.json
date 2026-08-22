@@ -1,0 +1,43 @@
+{
+  "source_id": "05011",
+  "name": "Bơ hạnh nhân",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/65226c74ce526817.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bo-hanh-nhan-don-gian-sanh-min-cuc-an-toan-tai-nha-05011",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bo-hanh-nhan-don-gian-sanh-min-cuc-an-toan-tai-nha-05011",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hạnh nhân 600 gr (4 cốc)",
+      "raw_name": "Hạnh nhân",
+      "quantity": 600,
+      "unit": "gr",
+      "note": "4 cốc",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng cà phê (nếu thích)",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": "nếu thích",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mật ong 1 muỗng canh (nếu thích)",
+      "raw_name": "Mật ong",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "nếu thích",
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T20:16:24Z",
+  "page_title": "Cách làm bơ hạnh nhân đơn giản, sánh mịn cực an toàn tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookProduct/bohanhnhan120000-1200x676.jpg"
+}

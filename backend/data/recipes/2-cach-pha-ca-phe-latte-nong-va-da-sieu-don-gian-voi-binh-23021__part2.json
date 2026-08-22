@@ -1,0 +1,53 @@
+{
+  "source_id": "23021",
+  "name": "Cà phê latte đá",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2019802119a7d27e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-pha-ca-phe-latte-nong-va-da-sieu-don-gian-voi-binh-23021",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-pha-ca-phe-latte-nong-va-da-sieu-don-gian-voi-binh-23021",
+  "servings_text": "Cho 1 ly 400ml",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Espresso hòa tan 4 gr (hoặc 2 shot espresso)",
+      "raw_name": "Espresso hòa tan",
+      "quantity": 4,
+      "unit": "gr",
+      "note": "hoặc 2 shot espresso",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa tươi 240 ml (tùy ý thích)",
+      "raw_name": "Sữa tươi",
+      "quantity": 240,
+      "unit": "ml",
+      "note": "tùy ý thích",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Siro đường 60 ml (hoặc dùng mật ong/ siro cây phong/...)",
+      "raw_name": "Siro đường",
+      "quantity": 60,
+      "unit": "ml",
+      "note": "hoặc dùng mật ong/ siro cây phong/...",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đá viên 100 gr (khoảng 7 - 8 viên cỡ vừa)",
+      "raw_name": "Đá viên",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "khoảng 7 - 8 viên cỡ vừa",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:51:26Z",
+  "page_title": "2 cách pha cà phê latte nóng và đá siêu đơn giản với bình đun siêu tốc",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2025/07/CookRecipe/Avatar/ca-phe-latte-da-thumbnail.jpg"
+}

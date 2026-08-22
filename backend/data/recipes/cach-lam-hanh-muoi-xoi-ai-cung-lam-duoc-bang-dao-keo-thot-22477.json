@@ -1,0 +1,71 @@
+{
+  "source_id": "22477",
+  "name": "Hành muối xổi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/957ef5aad120c36a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-hanh-muoi-xoi-ai-cung-lam-duoc-bang-dao-keo-thot-22477",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-hanh-muoi-xoi-ai-cung-lam-duoc-bang-dao-keo-thot-22477",
+  "servings_text": "Cho 1 cái",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Củ kiệu 200 gr (loại còn cuốn)",
+      "raw_name": "Củ kiệu",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "loại còn cuốn",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gia vị 1 ít (muối/đường/nước mắm/bột ngọt)",
+      "raw_name": "Gia vị",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/đường/nước mắm/bột ngọt",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tiêu xay 1 ít",
+      "raw_name": "Tiêu xay",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt 1 ít",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước cốt tắc 1 ít",
+      "raw_name": "Nước cốt tắc",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:34:30Z",
+  "page_title": "Cách làm hành muối xổi ai cũng làm được bằng dao kéo thớt",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/hanh-muoi-xoi.jpg"
+}

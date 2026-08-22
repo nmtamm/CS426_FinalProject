@@ -1,0 +1,99 @@
+{
+  "source_id": "23419",
+  "name": "Tiết canh lợn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9ca4658bac0499d0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/hoc-cach-danh-tiet-canh-lon-dong-ngot-thom-cuc-dinh-tai-nha-23419",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/hoc-cach-danh-tiet-canh-lon-dong-ngot-thom-cuc-dinh-tai-nha-23419",
+  "servings_text": "Cho 5 bát con",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tiết lợn tươi 1 bát (mới đặt mua tại lò mổ còn nóng hổi)",
+      "raw_name": "Tiết lợn tươi",
+      "quantity": 1,
+      "unit": "bát",
+      "note": "mới đặt mua tại lò mổ còn nóng hổi",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cuống họng lợn 1 cái (đã luộc sẵn loại nhiều sụn)",
+      "raw_name": "Cuống họng lợn",
+      "quantity": 1,
+      "unit": "cái",
+      "note": "đã luộc sẵn loại nhiều sụn",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rau thơm 1 ít (rau mùi/rau kinh giới/rau húng)",
+      "raw_name": "Rau thơm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "rau mùi/rau kinh giới/rau húng",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lạc rang 1 chén",
+      "raw_name": "Lạc rang",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt 1 quả",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành củ nướng 1 củ",
+      "raw_name": "Hành củ nướng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Chanh 1 quả",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Lá chanh 1 ít",
+      "raw_name": "Lá chanh",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước đun sôi để nguội 1 bát",
+      "raw_name": "Nước đun sôi để nguội",
+      "quantity": 1,
+      "unit": "bát",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Mì chính 2 thìa cà phê",
+      "raw_name": "Mì chính",
+      "quantity": 2,
+      "unit": "thìa cà phê",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T17:51:35Z",
+  "page_title": "Học cách đánh tiết canh lợn đông ngọt thơm cực đỉnh tại nhà",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/hoc-cach-danh-tiet-canh-lon-dong-ngot-thom-cuc-dinh-tai-nhao.jpg"
+}

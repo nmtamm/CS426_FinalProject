@@ -1,0 +1,53 @@
+{
+  "source_id": "01242",
+  "name": "Mứt khoai môn sên đường",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d110046a7f54d4a9.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-khoai-mon-deo-don-gian-dip-tet-ngon-01242",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-khoai-mon-deo-don-gian-dip-tet-ngon-01242",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai môn 500 gr",
+      "raw_name": "Khoai môn",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dầu ăn 100 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước lọc 30 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 100 gr",
+      "raw_name": "Đường",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:39:28Z",
+  "page_title": "3 cách làm mứt khoai môn ngon dẻo đơn giản như ngoài hàng cho dịp Tết",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2022/01/CookRecipe/Avatar/1200.jpg"
+}

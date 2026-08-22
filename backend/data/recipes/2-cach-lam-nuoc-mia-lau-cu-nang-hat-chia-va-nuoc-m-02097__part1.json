@@ -1,0 +1,73 @@
+{
+  "source_id": "02097",
+  "name": "Nước mía lau củ năng hạt chia",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/efb7d535ea895b50.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-mia-lau-cu-nang-hat-chia-va-nuoc-m-02097",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-mia-lau-cu-nang-hat-chia-va-nuoc-m-02097",
+  "servings_text": "Cho 04 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Củ năng 500 gram",
+      "raw_name": "Củ năng 500 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mía lau 400 gram (2 khúc)",
+      "raw_name": "Mía lau 400 gram",
+      "quantity": null,
+      "unit": null,
+      "note": "2 khúc",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hạt chia 3 muỗng cà phê",
+      "raw_name": "Hạt chia",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường phèn 80 gram (gia giảm theo khẩu vị gia đình)",
+      "raw_name": "Đường phèn 80 gram",
+      "quantity": null,
+      "unit": null,
+      "note": "gia giảm theo khẩu vị gia đình",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lá dứa 50 gram (1 bó)",
+      "raw_name": "Lá dứa 50 gram",
+      "quantity": null,
+      "unit": null,
+      "note": "1 bó",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước lọc 2 lít",
+      "raw_name": "Nước lọc 2 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:01:59Z",
+  "page_title": "3 Cách làm nước mía lau bổ dưỡng, mát lạnh, giải nhiệt mùa hè",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/nuoc-mia-lau-cu-nang-hat-chia-thumbnail.jpg"
+}

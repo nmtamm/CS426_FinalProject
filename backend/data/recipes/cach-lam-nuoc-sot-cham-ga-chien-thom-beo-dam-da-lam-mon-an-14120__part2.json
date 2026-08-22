@@ -1,0 +1,69 @@
+{
+  "source_id": "14120",
+  "name": "Sốt mù tạt mật ong",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/95f22e0f62d9dc19.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-sot-cham-ga-chien-thom-beo-dam-da-lam-mon-an-14120",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-sot-cham-ga-chien-thom-beo-dam-da-lam-mon-an-14120",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mù tạt vàng 2 muỗng canh",
+      "raw_name": "Mù tạt vàng",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mù tạt Dijon 1 muỗng canh",
+      "raw_name": "Mù tạt Dijon",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mật ong 2 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mayonnaise 2 muỗng canh",
+      "raw_name": "Mayonnaise",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cốt chanh 1/2 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột ớt Cayenne 1 ít",
+      "raw_name": "Bột ớt Cayenne",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:18:02Z",
+  "page_title": "Cách làm nước sốt chấm gà chiên thơm béo, đậm đà làm món ăn thêm hấp dẫn",
+  "variant_index": 2,
+  "variant_count": 5,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/sot-mu-tat-mat-ong-thumbnail.jpg"
+}

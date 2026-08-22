@@ -1,0 +1,125 @@
+{
+  "source_id": "14747",
+  "name": "Bánh cornbread mặn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c29e1bb7255ee3ed.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-cornbread-banh-mi-ngo-mem-xop-thom-ngon-cho-14747",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-cornbread-banh-mi-ngo-mem-xop-thom-ngon-cho-14747",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột bắp khô 150 gr (cornmeal)",
+      "raw_name": "Bột bắp khô",
+      "quantity": 150,
+      "unit": "gr",
+      "note": "cornmeal",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột mì đa dụng 125 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 125,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Baking soda 1/2 muỗng cà phê",
+      "raw_name": "Baking soda",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột nở 1.5 muỗng cà phê",
+      "raw_name": "Bột nở",
+      "quantity": 1.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bắp hạt 130 gr",
+      "raw_name": "Bắp hạt",
+      "quantity": 130,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rau mùi 1 ít (cắt nhỏ)",
+      "raw_name": "Rau mùi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "cắt nhỏ",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Cà chua khô 20 gr",
+      "raw_name": "Cà chua khô",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt Jalapeno 20 gr",
+      "raw_name": "Ớt Jalapeno",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bơ lạt 70 gr (đun chảy 56gr)",
+      "raw_name": "Bơ lạt",
+      "quantity": 70,
+      "unit": "gr",
+      "note": "đun chảy 56gr",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Phô mai cheddar 50 gr (cắt nhỏ)",
+      "raw_name": "Phô mai cheddar",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "cắt nhỏ",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Buttermilk 240 ml",
+      "raw_name": "Buttermilk",
+      "quantity": 240,
+      "unit": "ml",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Muối/ đường 1 ít",
+      "raw_name": "Muối/ đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T19:40:27Z",
+  "page_title": "2 cách làm bánh cornbread - bánh mì ngô mềm xốp thơm ngon cho ngày lễ Tạ ơn",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/banh-cornbread-man-thumbnail.jpg"
+}

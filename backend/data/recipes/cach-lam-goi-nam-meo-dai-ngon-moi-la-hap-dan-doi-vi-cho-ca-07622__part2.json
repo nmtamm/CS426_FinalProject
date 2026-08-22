@@ -1,0 +1,101 @@
+{
+  "source_id": "07622",
+  "name": "Gỏi nấm mèo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3cef64988cbce897.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-nam-meo-dai-ngon-moi-la-hap-dan-doi-vi-cho-ca-07622",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-nam-meo-dai-ngon-moi-la-hap-dan-doi-vi-cho-ca-07622",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nấm mèo xắt sợi khô 25 gr",
+      "raw_name": "Nấm mèo xắt sợi khô",
+      "quantity": 25,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước tương 2 muỗng canh (xì dầu)",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "xì dầu",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Giấm ăn 1.5 muỗng canh",
+      "raw_name": "Giấm ăn",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 1/2 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sốt dầu hào 1 muỗng cà phê",
+      "raw_name": "Sốt dầu hào",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu mè 1 muỗng cà phê",
+      "raw_name": "Dầu mè",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi ớt băm 1 muỗng cà phê",
+      "raw_name": "Tỏi ớt băm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành phi đậu phộng 1 muỗng canh",
+      "raw_name": "Hành phi đậu phộng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rau thơm/ rau răm/ hành lá 1 ít",
+      "raw_name": "Rau thơm/ rau răm/ hành lá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bánh tráng mè ăn kèm 2 cái",
+      "raw_name": "Bánh tráng mè ăn kèm",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:01:36Z",
+  "page_title": "2 Cách làm gỏi nấm mèo dai ngon mới lạ hấp dẫn đổi vị cho cả nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookRecipe/Avatar/cach-lam-goi-nam-meo-dai-ngon-moi-la-hap-dan-doi-vi-cho-ca-nha-thumbnail.jpg"
+}

@@ -1,0 +1,135 @@
+{
+  "source_id": "23115",
+  "name": "Bánh trung thu cốm dừa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ffa742ebcc4830b7.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-com-dua-deo-thom-doc-dao-de-lam-qua-23115",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-com-dua-deo-thom-doc-dao-de-lam-qua-23115",
+  "servings_text": "Cho 7 chiếc bánh 150gr",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì đa dụng 300 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cốm khô 150 gr",
+      "raw_name": "Cốm khô",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dừa tươi bào sợi 150 gr",
+      "raw_name": "Dừa tươi bào sợi",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước đường làm bánh nướng 200 gr",
+      "raw_name": "Nước đường làm bánh nướng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 60 gr",
+      "raw_name": "Đường",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 45 gr",
+      "raw_name": "Dầu ăn",
+      "quantity": 45,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước dừa tươi 150 gr (có thể thay bằng nước lọc)",
+      "raw_name": "Nước dừa tươi",
+      "quantity": 150,
+      "unit": "gr",
+      "note": "có thể thay bằng nước lọc",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước cốt dừa 50 gr",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Lòng đỏ trứng gà 2 quả",
+      "raw_name": "Lòng đỏ trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Rượu mai quế lộ 1 muỗng canh",
+      "raw_name": "Rượu mai quế lộ",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Bơ đậu phộng 1 muỗng cà phê",
+      "raw_name": "Bơ đậu phộng",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Hương cốm 5 gr",
+      "raw_name": "Hương cốm",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước 1 muỗng canh (hoặc sữa tươi)",
+      "raw_name": "Nước",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "hoặc sữa tươi",
+      "display_order": 13
+    },
+    {
+      "raw_text": "Dầu mè 1 muỗng cà phê",
+      "raw_name": "Dầu mè",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T19:34:00Z",
+  "page_title": "Cách làm bánh trung thu cốm dừa dẻo thơm, độc đáo để làm quà biếu gia đình",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20thumb%20to%20t8%20%2853%29.jpg"
+}

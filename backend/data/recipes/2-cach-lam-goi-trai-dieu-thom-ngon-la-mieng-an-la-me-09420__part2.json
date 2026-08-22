@@ -1,0 +1,109 @@
+{
+  "source_id": "09420",
+  "name": "Gỏi trái điều cá khô",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/35f1f321c0ed06a7.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-trai-dieu-thom-ngon-la-mieng-an-la-me-09420",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-trai-dieu-thom-ngon-la-mieng-an-la-me-09420",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trái điều 9 trái",
+      "raw_name": "Trái điều",
+      "quantity": 9,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xoài xanh 1/2 quả",
+      "raw_name": "Xoài xanh",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cá khô 4 con",
+      "raw_name": "Cá khô 4 con",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tím 6 củ (thái lát mỏng)",
+      "raw_name": "Hành tím",
+      "quantity": 6,
+      "unit": "củ",
+      "note": "thái lát mỏng",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt 1 trái (băm nhỏ)",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "trái",
+      "note": "băm nhỏ",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rau thơm 200 gr (rau răm/ rau húng lủi)",
+      "raw_name": "Rau thơm",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "rau răm/ rau húng lủi",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đậu phộng rang 1 ít",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu tỏi phi 1 muỗng canh",
+      "raw_name": "Dầu tỏi phi",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng cà phê",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đường/ muối 1 ít",
+      "raw_name": "Đường/ muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T17:59:01Z",
+  "page_title": "2 cách làm gỏi trái điều thơm ngon, lạ miệng, ăn là mê",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookRecipe/Avatar/goi-trai-dieu-ca-kho-thumbnail-2.jpg"
+}

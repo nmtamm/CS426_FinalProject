@@ -1,0 +1,151 @@
+{
+  "source_id": "23346",
+  "name": "Bún bò xào",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/aebd24cefc7bc442.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/lam-bun-bo-xao-nam-bo-mem-tan-theo-cong-thuc-nay-dam-bao-cang-23346",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/lam-bun-bo-xao-nam-bo-mem-tan-theo-cong-thuc-nay-dam-bao-cang-23346",
+  "servings_text": "Cho 2 - 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bún tươi 500 gr",
+      "raw_name": "Bún tươi",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt bò nạc vai 300 gr",
+      "raw_name": "Thịt bò nạc vai",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dưa leo 2 quả",
+      "raw_name": "Dưa leo",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Xà lách 1 ít",
+      "raw_name": "Xà lách",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tây 50 gr (khoảng 1/2 củ)",
+      "raw_name": "Hành tây",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "khoảng 1/2 củ",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tím 70 gr",
+      "raw_name": "Hành tím",
+      "quantity": 70,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tỏi 10 gr",
+      "raw_name": "Tỏi",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Me vắt 20 gr",
+      "raw_name": "Me vắt",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gừng 10 gr",
+      "raw_name": "Gừng",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Ớt sừng 2 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Đậu phộng rang 1 ít",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Bột ngũ vị hương 5 gr",
+      "raw_name": "Bột ngũ vị hương",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Rau húng lủi/ rau ngò rí/ giá đỗ 1 ít",
+      "raw_name": "Rau húng lủi/ rau ngò rí/ giá đỗ",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (nước mắm/ đường/ nước tương/ dầu hào/ hạt nêm/ muối/ giấm/ tiêu/ dầu ăn)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "nước mắm/ đường/ nước tương/ dầu hào/ hạt nêm/ muối/ giấm/ tiêu/ dầu ăn",
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T18:21:35Z",
+  "page_title": "Làm bún bò xào Nam Bộ mềm tan theo công thức này đảm bảo càng ăn càng ghiền",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20thumb%20m%C3%B3n%20an%20t10%20%2810%29.jpg"
+}

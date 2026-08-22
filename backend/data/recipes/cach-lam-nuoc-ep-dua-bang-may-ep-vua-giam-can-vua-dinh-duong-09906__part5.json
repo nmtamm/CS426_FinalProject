@@ -1,0 +1,41 @@
+{
+  "source_id": "09906",
+  "name": "Nước ép dứa ổi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/cf42e2aa1b48e644.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-dua-bang-may-ep-vua-giam-can-vua-dinh-duong-09906",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-dua-bang-may-ep-vua-giam-can-vua-dinh-duong-09906",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dứa 1/3 trái (thơm)",
+      "raw_name": "Dứa",
+      "quantity": 0.333,
+      "unit": "trái",
+      "note": "thơm",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ổi 1 trái",
+      "raw_name": "Ổi",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:57:40Z",
+  "page_title": "7 Cách làm nước ép dứa - thơm bằng máy ép cực thơm ngon ngay tại nhà",
+  "variant_index": 5,
+  "variant_count": 7,
+  "original_image_url": "https://cdn.tgdd.vn/2022/04/CookRecipe/Avatar/nuoc-ep-dua-oi-thumbnail-1.jpg"
+}

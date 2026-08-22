@@ -1,0 +1,131 @@
+{
+  "source_id": "01695",
+  "name": "Ốc hút",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9b05da7538c96e80.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-oc-hut-sieu-ngon-dam-vi-mien-trung-ai-cung-me-01695",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-oc-hut-sieu-ngon-dam-vi-mien-trung-ai-cung-me-01695",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ốc đắng 500 gr",
+      "raw_name": "Ốc đắng",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sả tươi 5 cây",
+      "raw_name": "Sả tươi",
+      "quantity": 5,
+      "unit": "cây",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tắc 3 quả",
+      "raw_name": "Tắc",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt cay 4 quả",
+      "raw_name": "Ớt cay",
+      "quantity": 4,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lá chanh 6 cái",
+      "raw_name": "Lá chanh",
+      "quantity": 6,
+      "unit": "cái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tím/ tỏi 2 muỗng canh (băm nhuyễn)",
+      "raw_name": "Hành tím/ tỏi",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "băm nhuyễn",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước dừa 250 ml",
+      "raw_name": "Nước dừa",
+      "quantity": 250,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Sa tế 1 muỗng canh",
+      "raw_name": "Sa tế",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu điều 1 muỗng canh",
+      "raw_name": "Dầu điều",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước mắm 3 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ bột ngọt",
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T19:17:25Z",
+  "page_title": "Cách nấu ốc hút siêu ngon hấp dẫn, đậm vị miền Trung ai cũng mê",
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookDish/cach-nau-oc-hut-sieu-ngon-dam-vi-mien-trung-ai-cung-me-avt-1200x676.jpg"
+}

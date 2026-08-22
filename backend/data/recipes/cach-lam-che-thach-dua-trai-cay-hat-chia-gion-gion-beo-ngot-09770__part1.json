@@ -1,0 +1,61 @@
+{
+  "source_id": "09770",
+  "name": "Thạch dừa hạt chia",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a4f707cb3514594d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-che-thach-dua-trai-cay-hat-chia-gion-gion-beo-ngot-09770",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-che-thach-dua-trai-cay-hat-chia-gion-gion-beo-ngot-09770",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thạch dừa thô 500 gr",
+      "raw_name": "Thạch dừa thô",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hạt chia 20 gr",
+      "raw_name": "Hạt chia",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá dứa 1 bó",
+      "raw_name": "Lá dứa 1 bó",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường phèn 1 kg",
+      "raw_name": "Đường phèn",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường cát 300 gr",
+      "raw_name": "Đường cát",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:15:53Z",
+  "page_title": "2 cách làm thạch dừa hạt chia giòn giòn béo ngọt ăn cực đã miệng",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/thach-dua-hat-chia-thumbnail.jpg"
+}

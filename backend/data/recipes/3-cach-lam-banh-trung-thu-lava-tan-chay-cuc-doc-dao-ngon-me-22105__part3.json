@@ -1,0 +1,153 @@
+{
+  "source_id": "22105",
+  "name": "Bánh trung thu lava ngàn lớp",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/61024c03da441a0b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-banh-trung-thu-lava-tan-chay-cuc-doc-dao-ngon-me-22105",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-banh-trung-thu-lava-tan-chay-cuc-doc-dao-ngon-me-22105",
+  "servings_text": "Cho 12 cái",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lòng đỏ trứng muối 6 cái",
+      "raw_name": "Lòng đỏ trứng muối",
+      "quantity": 6,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bơ nhạt 100 gr",
+      "raw_name": "Bơ nhạt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột custard 20 gr (bột sư tử)",
+      "raw_name": "Bột custard",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "bột sư tử",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột mì số 8 100 gr",
+      "raw_name": "Bột mì số 8",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường bột 80 gr",
+      "raw_name": "Đường bột",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột mì đa dụng 100 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Sữa tươi không đường 60 gr",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Whipping cream 40 gr",
+      "raw_name": "Whipping cream",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Lòng đỏ trứng 1 cái (trứng tươi)",
+      "raw_name": "Lòng đỏ trứng",
+      "quantity": 1,
+      "unit": "cái",
+      "note": "trứng tươi",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Lòn đỏ trứng 2 g (trứng tươi)",
+      "raw_name": "Lòn đỏ trứng",
+      "quantity": 2,
+      "unit": "g",
+      "note": "trứng tươi",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Bột sữa 10 gr",
+      "raw_name": "Bột sữa",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước cốt dừa 100 gr",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Gelatin 3 gr",
+      "raw_name": "Gelatin",
+      "quantity": 3,
+      "unit": "gr",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Dầu ăn 30 gr",
+      "raw_name": "Dầu ăn",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Mè đen 1 ít",
+      "raw_name": "Mè đen",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T19:34:49Z",
+  "page_title": "3 cách làm bánh trung thu lava tan chảy cực độc đáo, ngon mê ly",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2024/09/CookRecipe/Avatar/banh-trung-thu-deo-nhan-lava-sua-trung-pho-mai-vi-dua-thumbnail-1.jpg"
+}

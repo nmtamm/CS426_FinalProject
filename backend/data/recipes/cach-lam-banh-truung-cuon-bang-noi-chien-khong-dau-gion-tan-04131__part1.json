@@ -1,0 +1,37 @@
+{
+  "source_id": "04131",
+  "name": "Bánh Trung Thu oreo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a8f7e0dbaa99fae4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-truung-cuon-bang-noi-chien-khong-dau-gion-tan-04131",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-truung-cuon-bang-noi-chien-khong-dau-gion-tan-04131",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh oreo 548 gr (khoảng 4 cây bánh)",
+      "raw_name": "Bánh oreo",
+      "quantity": 548,
+      "unit": "gr",
+      "note": "khoảng 4 cây bánh",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bơ lạt 40 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:41:52Z",
+  "page_title": "2 cách làm bánh Trung Thu oreo cực ngon ngọt ngào lạ miệng ngày rằm phá cỗ",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/banh-trung-thu-oreo-thumbnail.jpg"
+}

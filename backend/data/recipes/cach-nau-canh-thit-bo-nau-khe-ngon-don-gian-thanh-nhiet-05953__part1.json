@@ -1,0 +1,113 @@
+{
+  "source_id": "05953",
+  "name": "Canh thịt bò nấu khế",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ee607a103e3a61ca.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-canh-thit-bo-nau-khe-ngon-don-gian-thanh-nhiet-05953",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-canh-thit-bo-nau-khe-ngon-don-gian-thanh-nhiet-05953",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-canh",
+      "name": "Món canh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò 150 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Giò sống 150 gr",
+      "raw_name": "Giò sống",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Khế 2 trái",
+      "raw_name": "Khế",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà chua bi 7 trái",
+      "raw_name": "Cà chua bi",
+      "quantity": 7,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rau ngò gai 3 nhánh",
+      "raw_name": "Rau ngò gai",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rau ngò ôm 3 nhánh",
+      "raw_name": "Rau ngò ôm",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Rượu trắng 300 ml",
+      "raw_name": "Rượu trắng",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tinh bột khoai 1 muỗng canh (hoặc tinh bột bắp)",
+      "raw_name": "Tinh bột khoai",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "hoặc tinh bột bắp",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng cà phê",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh (hoặc 20 gr mỡ heo lạnh)",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "hoặc 20 gr mỡ heo lạnh",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (tiêu/ hạt nêm/ muối/ đường)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "tiêu/ hạt nêm/ muối/ đường",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:32:58Z",
+  "page_title": "Cách nấu canh thịt bò nấu khế ngon đơn giản thanh nhiệt",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookRecipe/Avatar/cach-nau-canh-thit-bo-nau-khe-ngon-don-gian-thanh-nhiet-thumbnail.jpg"
+}

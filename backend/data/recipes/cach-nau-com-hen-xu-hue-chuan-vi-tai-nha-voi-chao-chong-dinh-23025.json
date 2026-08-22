@@ -1,0 +1,147 @@
+{
+  "source_id": "23025",
+  "name": "Cơm hến",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0e04f08edf128236.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-com-hen-xu-hue-chuan-vi-tai-nha-voi-chao-chong-dinh-23025",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-com-hen-xu-hue-chuan-vi-tai-nha-voi-chao-chong-dinh-23025",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cơm nguội 1 ít",
+      "raw_name": "Cơm nguội",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hến tươi 3 kg",
+      "raw_name": "Hến tươi",
+      "quantity": 3,
+      "unit": "kg",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Da heo khô/bóng bì 200 gr",
+      "raw_name": "Da heo khô/bóng bì",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đậu phộng nguyên hạt 300 gr",
+      "raw_name": "Đậu phộng nguyên hạt",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Khế chua 2 trái",
+      "raw_name": "Khế chua",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Cây bạc hà 200 gr",
+      "raw_name": "Cây bạc hà",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Thân chuối bào 100 gr",
+      "raw_name": "Thân chuối bào",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Giá 200 gr",
+      "raw_name": "Giá",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bắp chuối bào 100 gr",
+      "raw_name": "Bắp chuối bào",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Rau thơm/ ngò rí/ húng lủi 100 gr",
+      "raw_name": "Rau thơm/ ngò rí/ húng lủi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gốc hành lá 50 gr",
+      "raw_name": "Gốc hành lá",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Ớt xiêm xanh 20 gr",
+      "raw_name": "Ớt xiêm xanh",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Ớt bột Huế 1 ít",
+      "raw_name": "Ớt bột Huế",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Dầu màu điều 1/2 chén",
+      "raw_name": "Dầu màu điều",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (mắm/ muối/ đường/ hạt nêm/ dầu ăn/ dầu màu điều/ mắm ruốc Huế...)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "mắm/ muối/ đường/ hạt nêm/ dầu ăn/ dầu màu điều/ mắm ruốc Huế...",
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T20:33:36Z",
+  "page_title": "Cách nấu cơm hến xứ Huế chuẩn vị tại nhà với chảo chống dính và nồi",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20thumb%20to%20t7%20%2822%29.jpg"
+}

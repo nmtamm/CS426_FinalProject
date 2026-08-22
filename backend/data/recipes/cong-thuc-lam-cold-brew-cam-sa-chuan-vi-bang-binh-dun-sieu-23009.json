@@ -1,0 +1,67 @@
+{
+  "source_id": "23009",
+  "name": "Cold Brew cam",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9211977c0ff3c814.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cong-thuc-lam-cold-brew-cam-sa-chuan-vi-bang-binh-dun-sieu-23009",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cong-thuc-lam-cold-brew-cam-sa-chuan-vi-bang-binh-dun-sieu-23009",
+  "servings_text": "Cho 100gr cà phê",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cà phê hạt 100 gr (xay thô)",
+      "raw_name": "Cà phê hạt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "xay thô",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước lọc 1200 ml (nhiệt độ phòng hoặc nước lạnh)",
+      "raw_name": "Nước lọc",
+      "quantity": 1200,
+      "unit": "ml",
+      "note": "nhiệt độ phòng hoặc nước lạnh",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cam vàng 1 trái",
+      "raw_name": "Cam vàng",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Siro cam sả 50 ml",
+      "raw_name": "Siro cam sả",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sả 1 nhánh",
+      "raw_name": "Sả",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:51:31Z",
+  "page_title": "Công thức làm Cold Brew cam sả chuẩn vị bằng bình đun siêu tốc",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/cold-brew-cam-thumb-lon.jpg"
+}

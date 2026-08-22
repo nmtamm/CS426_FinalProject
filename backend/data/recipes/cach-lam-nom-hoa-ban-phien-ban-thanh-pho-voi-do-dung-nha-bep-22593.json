@@ -1,0 +1,99 @@
+{
+  "source_id": "22593",
+  "name": "Nộm hoa ban",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ae49968417b5d946.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nom-hoa-ban-phien-ban-thanh-pho-voi-do-dung-nha-bep-22593",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nom-hoa-ban-phien-ban-thanh-pho-voi-do-dung-nha-bep-22593",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hoa ban tươi 100 gr",
+      "raw_name": "Hoa ban tươi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Măng tươi 50 gr",
+      "raw_name": "Măng tươi",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Thịt ba chỉ luộc 100 gr",
+      "raw_name": "Thịt ba chỉ luộc",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Thịt trâu gác bếp 100 gr",
+      "raw_name": "Thịt trâu gác bếp",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rau thơm 1 ít (rau mùi/rau húng/bạc hà)",
+      "raw_name": "Rau thơm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "rau mùi/rau húng/bạc hà",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt tươi 1 quả",
+      "raw_name": "Ớt tươi",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đậu phộng rang 1 ít",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị 1 ít (muối/đường/bột ngọt/bột ớt/tiêu)",
+      "raw_name": "Gia vị",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/đường/bột ngọt/bột ớt/tiêu",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước mắm 1 ít",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tỏi xay 1 ít",
+      "raw_name": "Tỏi xay",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T20:33:48Z",
+  "page_title": "Cách làm nộm hoa ban phiên bản thành phố với đồ dùng nhà bếp đơn giản",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/NOM-HOA-BAN.jpg"
+}

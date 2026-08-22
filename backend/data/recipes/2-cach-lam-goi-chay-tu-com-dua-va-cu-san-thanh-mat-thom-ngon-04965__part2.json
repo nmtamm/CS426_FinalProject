@@ -1,0 +1,129 @@
+{
+  "source_id": "04965",
+  "name": "Gỏi chay từ củ sắn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e15f55e432b94f40.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-chay-tu-com-dua-va-cu-san-thanh-mat-thom-ngon-04965",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-chay-tu-com-dua-va-cu-san-thanh-mat-thom-ngon-04965",
+  "servings_text": "Cho 2 - 3 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    },
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Củ sắn 200 gr (củ đậu)",
+      "raw_name": "Củ sắn",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "củ đậu",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 100 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Xà lách 200 gr",
+      "raw_name": "Xà lách",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tàu hũ ky 100 gr",
+      "raw_name": "Tàu hũ ky",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tím 3 củ",
+      "raw_name": "Hành tím",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đậu phộng rang 20 gr",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi 3 nhánh",
+      "raw_name": "Tỏi",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt 1 quả",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường 2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Giấm 2 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Sốt mayonnaise 1 muỗng canh (nếu thích)",
+      "raw_name": "Sốt mayonnaise",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "nếu thích",
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T17:54:29Z",
+  "page_title": "2 cách làm gỏi chay từ cơm dừa và củ sắn thanh mát thơm ngon đơn giản",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookRecipe/Avatar/goi-chay-tu-cu-san-thumbnail.jpg"
+}

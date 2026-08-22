@@ -1,0 +1,65 @@
+{
+  "source_id": "02083",
+  "name": "Kẹo hạt điều sữa dừa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2b46591e65b2c1c0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-keo-hat-dieu-sua-dua-thom-ngon-beo-ngay-d-02083",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-keo-hat-dieu-sua-dua-thom-ngon-beo-ngay-d-02083",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hạt điều rang 200 gr",
+      "raw_name": "Hạt điều rang",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột cốt dừa 2 muỗng canh",
+      "raw_name": "Bột cốt dừa",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bơ lạt 500 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột vani 2 ống (2 giọt tinh chất vani)",
+      "raw_name": "Bột vani 2 ống",
+      "quantity": null,
+      "unit": null,
+      "note": "2 giọt tinh chất vani",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Si rô cây phong 3 muỗng canh (maple syrup)",
+      "raw_name": "Si rô cây phong",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": "maple syrup",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:15:58Z",
+  "page_title": "2 cách làm kẹo hạt điều caramel và sữa dừa ngọt ngào nhâm nhi ngày Tết",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookRecipe/Avatar/banh-tiramisu-dau-hu-thumbnail.jpg"
+}

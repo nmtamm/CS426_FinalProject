@@ -1,0 +1,99 @@
+{
+  "source_id": "00852",
+  "name": "Mắm tôm chua Huế",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a3333d63ccbed264.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-ngam-tom-muoi-chua-ngot-ngon-dung-dieu-chong-00852",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-ngam-tom-muoi-chua-ngot-ngon-dung-dieu-chong-00852",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tôm thẻ 500 gr",
+      "raw_name": "Tôm thẻ",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cơm nguội xay 1 chén (chén ăn cơm)",
+      "raw_name": "Cơm nguội xay",
+      "quantity": 1,
+      "unit": "chén",
+      "note": "chén ăn cơm",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mật ong 1 chén (chén ăn cơm)",
+      "raw_name": "Mật ong",
+      "quantity": 1,
+      "unit": "chén",
+      "note": "chén ăn cơm",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rượu 2 chén (chén ăn cơm)",
+      "raw_name": "Rượu",
+      "quantity": 2,
+      "unit": "chén",
+      "note": "chén ăn cơm",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Giềng 1 củ",
+      "raw_name": "Giềng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Riềng 1 củ",
+      "raw_name": "Riềng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt 10 trái",
+      "raw_name": "Ớt",
+      "quantity": 10,
+      "unit": "trái",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước mắm 2 chén (chén ăn cơm)",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "chén",
+      "note": "chén ăn cơm",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đường 2 chén (chén ăn cơm)",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "chén",
+      "note": "chén ăn cơm",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T19:38:19Z",
+  "page_title": "Cách làm mắm tôm chua Huế ngọt thơm chua mặn hài hòa, đậm đà vị Tết",
+  "original_image_url": "https://cdn.tgdd.vn/2022/01/CookRecipe/Avatar/mam-tom-chua-hue-thumbnail.jpg"
+}

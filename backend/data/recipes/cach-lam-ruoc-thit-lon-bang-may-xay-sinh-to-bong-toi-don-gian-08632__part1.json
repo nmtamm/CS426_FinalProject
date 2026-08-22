@@ -1,0 +1,53 @@
+{
+  "source_id": "08632",
+  "name": "Ruốc thịt lợn bằng máy xay sinh tố",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/602e1608007a578c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ruoc-thit-lon-bang-may-xay-sinh-to-bong-toi-don-gian-08632",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ruoc-thit-lon-bang-may-xay-sinh-to-bong-toi-don-gian-08632",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt thăn 500 gr",
+      "raw_name": "Thịt thăn",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước mắm Nam Ngư 1 muỗng canh",
+      "raw_name": "Nước mắm Nam Ngư",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột nêm 2 muỗng cà phê",
+      "raw_name": "Bột nêm",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước lọc 1/2 chén",
+      "raw_name": "Nước lọc",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:18:25Z",
+  "page_title": "2 Cách làm ruốc thịt lợn (chà bông heo) bằng máy xay sinh tố cực đơn giản",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2022/09/CookRecipe/Avatar/ruoc-thit-lon-bang-may-xay-sinh-to-thumbnail-2.jpg"
+}

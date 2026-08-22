@@ -1,0 +1,95 @@
+{
+  "source_id": "02018",
+  "name": "Kem socola",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2bdf53f88f832400.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kem-socola-khong-can-may-thom-ngon-don-gi-02018",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kem-socola-khong-can-may-thom-ngon-don-gi-02018",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-kem",
+      "name": "Món kem"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Siro socola 15 ml",
+      "raw_name": "Siro socola",
+      "quantity": 15,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột cacao 20 gr",
+      "raw_name": "Bột cacao",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa tươi không đường 200 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột sữa 40 gr",
+      "raw_name": "Bột sữa",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Kem béo dạng đặc 150 gr (hoặc 80ml Whipping cream đánh bông)",
+      "raw_name": "Kem béo dạng đặc",
+      "quantity": 150,
+      "unit": "gr",
+      "note": "hoặc 80ml Whipping cream đánh bông",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lòng đỏ trứng gà 1 cái (16gr)",
+      "raw_name": "Lòng đỏ trứng gà",
+      "quantity": 1,
+      "unit": "cái",
+      "note": "16gr",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tinh bột bắp 10 gr",
+      "raw_name": "Tinh bột bắp",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường cát trắng 80 gr",
+      "raw_name": "Đường cát trắng",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tinh chất vani 1/2 muỗng cà phê",
+      "raw_name": "Tinh chất vani",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:00:41Z",
+  "page_title": "Cách làm kem socola không cần máy siêu ngon đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2022/08/CookRecipe/Avatar/thumb-cn.jpg"
+}

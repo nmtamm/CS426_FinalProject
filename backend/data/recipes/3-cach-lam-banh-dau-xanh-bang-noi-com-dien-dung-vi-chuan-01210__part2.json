@@ -1,0 +1,57 @@
+{
+  "source_id": "01210",
+  "name": "Bánh đậu xanh chuẩn Hải Dương",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/402c398551300660.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-banh-dau-xanh-bang-noi-com-dien-dung-vi-chuan-01210",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-banh-dau-xanh-bang-noi-com-dien-dung-vi-chuan-01210",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu xanh bỏ vỏ 500 gr",
+      "raw_name": "Đậu xanh bỏ vỏ",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 200 gr",
+      "raw_name": "Đường",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước cốt dừa 100 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Vani 10 g",
+      "raw_name": "Vani",
+      "quantity": 10,
+      "unit": "g",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:30:53Z",
+  "page_title": "3 cách làm bánh đậu xanh bằng nồi cơm điện đúng vị chuẩn ngoài hàng",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/bánh-dạu-xanh-chuản-hải-duong-thumbnail-1.jpg"
+}

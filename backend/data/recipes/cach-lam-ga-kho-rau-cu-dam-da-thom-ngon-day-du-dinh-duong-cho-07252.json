@@ -1,0 +1,167 @@
+{
+  "source_id": "07252",
+  "name": "Gà kho rau củ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6cd11176bc48a7e5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-kho-rau-cu-dam-da-thom-ngon-day-du-dinh-duong-cho-07252",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-kho-rau-cu-dam-da-thom-ngon-day-du-dinh-duong-cho-07252",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-kho",
+      "name": "Món kho"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt má đùi gà 400 gr",
+      "raw_name": "Thịt má đùi gà",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm đông cô 50 gr (khô)",
+      "raw_name": "Nấm đông cô",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "khô",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Măng luộc 100 gr",
+      "raw_name": "Măng luộc",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Củ sen 1/2 củ",
+      "raw_name": "Củ sen",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cà rốt 1/2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tây 1/2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước dừa tươi 1 lít",
+      "raw_name": "Nước dừa tươi 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt 2 trái",
+      "raw_name": "Ớt",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Sả 3 tép",
+      "raw_name": "Sả 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hành lá 1 ít",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Hành tím băm 1 muỗng canh",
+      "raw_name": "Hành tím băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Ớt bột 1 muỗng cà phê",
+      "raw_name": "Ớt bột",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Dầu điều 2 muỗng cà phê",
+      "raw_name": "Dầu điều",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Dầu mè 1 muỗng cà phê",
+      "raw_name": "Dầu mè",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Nước tương 3 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Rượu trắng 50 ml",
+      "raw_name": "Rượu trắng",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 17
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ muối/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ muối/ hạt nêm",
+      "display_order": 18
+    }
+  ],
+  "scraped_at": "2026-08-19T18:09:32Z",
+  "page_title": "Cách làm gà kho rau củ đậm đà, thơm ngon đầy đủ dinh dưỡng cho bữa cơm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookProduct/BeFunky-collage-2021-02-04T141004.708-1200x676.jpg"
+}

@@ -1,0 +1,109 @@
+{
+  "source_id": "08126",
+  "name": "Gỏi đu đủ tôm thịt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2fd83112771234db.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-tron-goi-du-du-tom-thit-va-oc-toi-tuoi-mat-thom-ngon-08126",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-tron-goi-du-du-tom-thit-va-oc-toi-tuoi-mat-thom-ngon-08126",
+  "servings_text": "Cho 1 người ăn",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đu đủ 500 gr (1 trái vừa)",
+      "raw_name": "Đu đủ",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "1 trái vừa",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tôm 200 gr",
+      "raw_name": "Tôm",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Thịt ba chỉ 150 gr",
+      "raw_name": "Thịt ba chỉ",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rau răm 1 ít",
+      "raw_name": "Rau răm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt băm 1 muỗng canh",
+      "raw_name": "Ớt băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đậu phộng giã 50 gr",
+      "raw_name": "Đậu phộng giã",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành phi 20 gr",
+      "raw_name": "Hành phi",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước cốt tắc 2 muỗng canh",
+      "raw_name": "Nước cốt tắc",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:01:24Z",
+  "page_title": "2 cách làm gỏi đu đủ tôm thịt và ốc tỏi tươi mát thơm ngon đơn giản",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/goi-du-du-tom-thit-thumbnail.jpg"
+}

@@ -1,0 +1,47 @@
+{
+  "source_id": "00477",
+  "name": "Bánh mì phô mai nướng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3f285267bb35b871.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-mi-pho-mai-nuong-bang-ban-ui-cuc-nhanh-00477",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-mi-pho-mai-nuong-bang-ban-ui-cuc-nhanh-00477",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh mì sandwich 6 miếng",
+      "raw_name": "Bánh mì sandwich 6 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Phô mai xắt nhỏ 200 gr",
+      "raw_name": "Phô mai xắt nhỏ",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bơ 20 gr (có thể sử dụng mayonnaise)",
+      "raw_name": "Bơ",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "có thể sử dụng mayonnaise",
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:31:19Z",
+  "page_title": "Cách làm bánh mì phô mai nướng bằng bàn ủi cực nhanh, đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2015/03/01/615219/lam-banh-mi-pho-mai-nuong-bang-ban-ui-7-760x367.jpg"
+}

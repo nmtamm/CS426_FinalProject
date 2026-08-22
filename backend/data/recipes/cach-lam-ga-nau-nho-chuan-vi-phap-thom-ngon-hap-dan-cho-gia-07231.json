@@ -1,0 +1,111 @@
+{
+  "source_id": "07231",
+  "name": "Gà nấu nho",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c0551dc746af7e17.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-nau-nho-chuan-vi-phap-thom-ngon-hap-dan-cho-gia-07231",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-nau-nho-chuan-vi-phap-thom-ngon-hap-dan-cho-gia-07231",
+  "servings_text": "Cho 3 - 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-kho",
+      "name": "Món kho"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đùi gà 4 cái",
+      "raw_name": "Đùi gà",
+      "quantity": 4,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nho khô 30 gr",
+      "raw_name": "Nho khô",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nho tươi 150 gr",
+      "raw_name": "Nho tươi",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Củ cải 1/2 củ",
+      "raw_name": "Củ cải",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cà rốt 1/2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ngò 1 ít",
+      "raw_name": "Ngò",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nấm bào ngư 100 gr",
+      "raw_name": "Nấm bào ngư",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nấm rơm 100 gr",
+      "raw_name": "Nấm rơm",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột mì 100 gr",
+      "raw_name": "Bột mì",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 100 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:11:54Z",
+  "page_title": "Cách làm gà nấu nho chuẩn vị Pháp thơm ngon hấp dẫn cho gia đình",
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookProduct/thumhcn2-1200x676-2.jpg"
+}

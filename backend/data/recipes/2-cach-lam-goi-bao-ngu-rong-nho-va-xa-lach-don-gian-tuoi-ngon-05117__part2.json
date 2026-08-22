@@ -1,0 +1,85 @@
+{
+  "source_id": "05117",
+  "name": "Gỏi bào ngư xà lách",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e48db11f5a7ab8cc.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-bao-ngu-rong-nho-va-xa-lach-don-gian-tuoi-ngon-05117",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-bao-ngu-rong-nho-va-xa-lach-don-gian-tuoi-ngon-05117",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bào ngư 6 con",
+      "raw_name": "Bào ngư 6 con",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xà lách búp Mỹ 50 gr",
+      "raw_name": "Xà lách búp Mỹ",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ngò rí 5 gr",
+      "raw_name": "Ngò rí",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt hiểm 1 trái",
+      "raw_name": "Ớt hiểm",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước chanh 4 muỗng canh",
+      "raw_name": "Nước chanh",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sốt mận 4 muỗng canh",
+      "raw_name": "Sốt mận",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đậu phộng rang 2 muỗng canh (giã nhuyễn)",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "giã nhuyễn",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T17:55:29Z",
+  "page_title": "2 cách làm gỏi bào ngư rong nho và xà lách đơn giản tươi ngon hấp dẫn",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookRecipe/Avatar/goi-bao-ngu-xa-lach-thumbnail.jpg"
+}

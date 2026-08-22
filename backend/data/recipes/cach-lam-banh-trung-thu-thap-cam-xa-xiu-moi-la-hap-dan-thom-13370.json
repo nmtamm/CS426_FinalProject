@@ -1,0 +1,235 @@
+{
+  "source_id": "13370",
+  "name": "Bánh trung thu thập cẩm xá xíu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/60add01507aa1205.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-thap-cam-xa-xiu-moi-la-hap-dan-thom-13370",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-thap-cam-xa-xiu-moi-la-hap-dan-thom-13370",
+  "servings_text": "Cho 12 cái bánh (125gr)",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì số 8 – Bột mì làm bánh ngọt 120 gr",
+      "raw_name": "Bột mì số 8 – Bột mì làm bánh ngọt",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột mì số 11 – Bột mì đa dụng 120 gr",
+      "raw_name": "Bột mì số 11 – Bột mì đa dụng",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước đường làm bánh nướng 160 gr",
+      "raw_name": "Nước đường làm bánh nướng",
+      "quantity": 160,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu đậu phộng hoặc dầu ăn thông thường 30 gr",
+      "raw_name": "Dầu đậu phộng hoặc dầu ăn thông thường",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lòng đỏ trứng gà 1 cái (18 – 20gr)",
+      "raw_name": "Lòng đỏ trứng gà",
+      "quantity": 1,
+      "unit": "cái",
+      "note": "18 – 20gr",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bơ đậu phộng 10 g (Khoảng 2 muỗng cà phê đầy - Có thể bỏ qua)",
+      "raw_name": "Bơ đậu phộng",
+      "quantity": 10,
+      "unit": "g",
+      "note": "Khoảng 2 muỗng cà phê đầy - Có thể bỏ qua",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ngũ vị hương 1 muỗng cà phê",
+      "raw_name": "Ngũ vị hương",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Thịt nạc vai heo 350 gr",
+      "raw_name": "Thịt nạc vai heo",
+      "quantity": 350,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Mạch nha 30 ml",
+      "raw_name": "Mạch nha",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Mật ong 15 ml",
+      "raw_name": "Mật ong",
+      "quantity": 15,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Hắc xì dầu 1 muỗng cà phê",
+      "raw_name": "Hắc xì dầu",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Bột tỏi 1/2 muỗng cà phê",
+      "raw_name": "Bột tỏi",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Mạch nha 30 ml (sốt xá xíu)",
+      "raw_name": "Mạch nha",
+      "quantity": 30,
+      "unit": "ml",
+      "note": "sốt xá xíu",
+      "display_order": 13
+    },
+    {
+      "raw_text": "Mật ong 15 ml (sốt xá xíu)",
+      "raw_name": "Mật ong",
+      "quantity": 15,
+      "unit": "ml",
+      "note": "sốt xá xíu",
+      "display_order": 14
+    },
+    {
+      "raw_text": "Dầu hào 15 ml (sốt xá xíu)",
+      "raw_name": "Dầu hào",
+      "quantity": 15,
+      "unit": "ml",
+      "note": "sốt xá xíu",
+      "display_order": 15
+    },
+    {
+      "raw_text": "Bột tỏi 1/2 muỗng cà phê (sốt xá xíu)",
+      "raw_name": "Bột tỏi",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": "sốt xá xíu",
+      "display_order": 16
+    },
+    {
+      "raw_text": "Xì dầu 3 muỗng cà phê",
+      "raw_name": "Xì dầu",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 17
+    },
+    {
+      "raw_text": "Tiêu xay 1 muỗng cà phê",
+      "raw_name": "Tiêu xay",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 18
+    },
+    {
+      "raw_text": "Dầu mè 1 muỗng cà phê",
+      "raw_name": "Dầu mè",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 19
+    },
+    {
+      "raw_text": "Rượu Mai Quế Lộ 1 muỗng cà phê",
+      "raw_name": "Rượu Mai Quế Lộ",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 20
+    },
+    {
+      "raw_text": "Hạt bí 60 gr",
+      "raw_name": "Hạt bí",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 21
+    },
+    {
+      "raw_text": "Hạt dưa 30 gr",
+      "raw_name": "Hạt dưa",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 22
+    },
+    {
+      "raw_text": "Mứt sen 120 gr",
+      "raw_name": "Mứt sen",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 23
+    },
+    {
+      "raw_text": "Lạp xưởng 30 gr",
+      "raw_name": "Lạp xưởng",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 24
+    },
+    {
+      "raw_text": "Bột bánh dẻo 45 gr (bột nếp rang chín)",
+      "raw_name": "Bột bánh dẻo",
+      "quantity": 45,
+      "unit": "gr",
+      "note": "bột nếp rang chín",
+      "display_order": 25
+    },
+    {
+      "raw_text": "Vừng 20 gr (mè trắng)",
+      "raw_name": "Vừng",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "mè trắng",
+      "display_order": 26
+    },
+    {
+      "raw_text": "Mỡ đường 50 gr",
+      "raw_name": "Mỡ đường",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 27
+    }
+  ],
+  "scraped_at": "2026-08-19T19:33:51Z",
+  "page_title": "Cách làm bánh trung thu thập cẩm xá xíu mới lạ hấp dẫn thơm ngon",
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookProduct/3-1200x676-4.jpg"
+}

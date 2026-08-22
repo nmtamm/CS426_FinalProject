@@ -1,0 +1,53 @@
+{
+  "source_id": "14409",
+  "name": "Gỏi da heo húng lủi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2a24d731ed3ef741.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-goi-da-heo-ngon-hap-dan-de-lam-don-gian-an-la-14409",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-goi-da-heo-ngon-hap-dan-de-lam-don-gian-an-la-14409",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Da heo 300 gr",
+      "raw_name": "Da heo",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rau húng lủi 100 gr",
+      "raw_name": "Rau húng lủi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ đường/ bột ngọt/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ đường/ bột ngọt/ tiêu xay",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T17:53:05Z",
+  "page_title": "3 cách làm gỏi da heo ngon hấp dẫn dễ làm đơn giản ăn là ghiền",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/goi-da-heo-hung-lui-thumbnail.jpg"
+}

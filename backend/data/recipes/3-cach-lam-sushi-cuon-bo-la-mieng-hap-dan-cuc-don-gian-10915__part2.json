@@ -1,0 +1,61 @@
+{
+  "source_id": "10915",
+  "name": "Sushi bơ xoài",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3b841f97a418f54c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sushi-cuon-bo-la-mieng-hap-dan-cuc-don-gian-10915",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sushi-cuon-bo-la-mieng-hap-dan-cuc-don-gian-10915",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rong biển cuộn cơm 2 miếng",
+      "raw_name": "Rong biển cuộn cơm 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cơm trắng 100 gr (1 chén)",
+      "raw_name": "Cơm trắng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "1 chén",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bơ 1 trái",
+      "raw_name": "Bơ",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Xoài chín 1 trái",
+      "raw_name": "Xoài chín",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Giấm gạo 2 muỗng canh",
+      "raw_name": "Giấm gạo",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:34:32Z",
+  "page_title": "3 cách làm sushi cuộn bơ lạ miệng, hấp dẫn cực đơn giản",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookRecipe/Avatar/sushi-bo-xoai-thumbnail.jpg"
+}

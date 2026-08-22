@@ -1,0 +1,97 @@
+{
+  "source_id": "05050",
+  "name": "Gà tây nướng nhồi bơ nguyên con",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0774d745cbcd7709.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-tay-nhoi-dut-lo-nguyen-con-cho-ngay-le-ta-on-hap-05050",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-tay-nhoi-dut-lo-nguyen-con-cho-ngay-le-ta-on-hap-05050",
+  "servings_text": "Cho 23 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà tây 8 kg (1 con)",
+      "raw_name": "Gà tây",
+      "quantity": 8,
+      "unit": "kg",
+      "note": "1 con",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt gà xông khói 50 gr",
+      "raw_name": "Thịt gà xông khói",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bơ lạt 250 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rau thơm 50 gr",
+      "raw_name": "Rau thơm",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tây 3 củ",
+      "raw_name": "Hành tây",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Chanh vàng 3 trái",
+      "raw_name": "Chanh vàng",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Giấm 2 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu ăn 5 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối/ tiêu xay 1 ít",
+      "raw_name": "Muối/ tiêu xay",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:11:16Z",
+  "page_title": "3 cách làm gà tây nướng nguyên con cho ngày Lễ Tạ Ơn hấp dẫn cho cả nhà",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/ga-tay-nuong-nhoi-bo-nguyen-con-thumbnail.jpg"
+}

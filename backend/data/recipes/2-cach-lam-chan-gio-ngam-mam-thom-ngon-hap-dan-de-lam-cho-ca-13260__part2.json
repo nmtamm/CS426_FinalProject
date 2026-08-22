@@ -1,0 +1,93 @@
+{
+  "source_id": "13260",
+  "name": "Chân giò ngâm mắm chua ngọt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c4911414e9e6c030.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-chan-gio-ngam-mam-thom-ngon-hap-dan-de-lam-cho-ca-13260",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-chan-gio-ngam-mam-thom-ngon-hap-dan-de-lam-cho-ca-13260",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chân giò 1 kg",
+      "raw_name": "Chân giò",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gừng 1 nhánh",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sả 4 nhánh",
+      "raw_name": "Sả",
+      "quantity": 4,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt 4 trái",
+      "raw_name": "Ớt",
+      "quantity": 4,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chanh 1 trái",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước mắm 3 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Giấm gạo 1.5 muỗng canh",
+      "raw_name": "Giấm gạo",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ bột ngọt",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T20:28:23Z",
+  "page_title": "2 cách làm chân giò ngâm mắm thơm ngon hấp dẫn dễ làm cho cả gia đình",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/chan-gio-ngam-mam-chua-ngot-thumbnail.jpg"
+}

@@ -1,0 +1,77 @@
+{
+  "source_id": "12975",
+  "name": "Gà kẹp phô mai chiên xù",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f6d6725d4ba7b30e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-mon-an-vat-cuc-ngon-va-de-lam-tai-nha-nham-nhi-cung-coca-12975",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-mon-an-vat-cuc-ngon-va-de-lam-tai-nha-nham-nhi-cung-coca-12975",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ức gà 3 miếng (khoảng 500gr)",
+      "raw_name": "Ức gà 3 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 500gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng gà 4 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 4,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột mì 100 gr",
+      "raw_name": "Bột mì",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột chiên xù 100 gr",
+      "raw_name": "Bột chiên xù",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Phô mai mozzarella 200 gr",
+      "raw_name": "Phô mai mozzarella",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 200 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:19:32Z",
+  "page_title": "3 món ăn vặt cực ngon và dễ làm tại nhà nhăm nhi cùng Coca Cola không đường",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/ga-kep-pho-mai-chien-xu-thumbnail-1.jpg"
+}

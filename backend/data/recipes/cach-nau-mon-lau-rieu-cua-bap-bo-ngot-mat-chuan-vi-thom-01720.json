@@ -1,0 +1,167 @@
+{
+  "source_id": "01720",
+  "name": "Lẩu riêu cua bắp bò",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/00c9f5aa616ed3d3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-mon-lau-rieu-cua-bap-bo-ngot-mat-chuan-vi-thom-01720",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-mon-lau-rieu-cua-bap-bo-ngot-mat-chuan-vi-thom-01720",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-lau",
+      "name": "Món lẩu"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bắp bò 500 gr",
+      "raw_name": "Bắp bò",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cua đồng xay 500 gr",
+      "raw_name": "Cua đồng xay",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gạch cua 50 gr",
+      "raw_name": "Gạch cua",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đậu hũ chiên 100 gr",
+      "raw_name": "Đậu hũ chiên",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nấm rơm 50 gr",
+      "raw_name": "Nấm rơm",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Cà chua 2 trái",
+      "raw_name": "Cà chua",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Sợi bánh đa 500 gr",
+      "raw_name": "Sợi bánh đa",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành tím băm 1 muỗng canh",
+      "raw_name": "Hành tím băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hành phi 1 muỗng canh",
+      "raw_name": "Hành phi",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hành lá 1 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Rau ăn kèm 1 ít (rau muống bào/ hoa chuối bào/ mùng tơi)",
+      "raw_name": "Rau ăn kèm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "rau muống bào/ hoa chuối bào/ mùng tơi",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Mắm tôm 1 muỗng canh",
+      "raw_name": "Mắm tôm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Giấm bổng 3 muỗng canh",
+      "raw_name": "Giấm bổng",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Đường phèn 1 muỗng canh",
+      "raw_name": "Đường phèn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Dầu màu điều 1 muỗng canh",
+      "raw_name": "Dầu màu điều",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 17
+    },
+    {
+      "raw_text": "Hạt nêm/ bột ngọt 1 ít",
+      "raw_name": "Hạt nêm/ bột ngọt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 18
+    }
+  ],
+  "scraped_at": "2026-08-19T18:26:35Z",
+  "page_title": "Cách nấu món lẩu riêu cua bắp bò ngọt mát chuẩn vị thơm ngon",
+  "original_image_url": "https://cdn.tgdd.vn/2022/05/CookDish/cach-lam-bong-lan-kem-trung-dua-nuong-thom-mem-beo-ngay-de-avt-1200x676.jpg"
+}

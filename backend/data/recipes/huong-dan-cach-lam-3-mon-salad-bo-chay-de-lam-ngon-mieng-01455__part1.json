@@ -1,0 +1,85 @@
+{
+  "source_id": "01455",
+  "name": "Salad bơ cà chua",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7cfd56b62672ee9a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-cach-lam-3-mon-salad-bo-chay-de-lam-ngon-mieng-01455",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-cach-lam-3-mon-salad-bo-chay-de-lam-ngon-mieng-01455",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bơ 1 quả",
+      "raw_name": "Bơ",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà chua bi 5 quả",
+      "raw_name": "Cà chua bi",
+      "quantity": 5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt Đà Lạt 1 quả",
+      "raw_name": "Ớt Đà Lạt",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chanh 1 quả",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu oliu 1 ít",
+      "raw_name": "Dầu oliu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Rau mùi 1 ít",
+      "raw_name": "Rau mùi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:00:18Z",
+  "page_title": "Hướng dẫn cách làm 3 món salad bơ chay dễ làm ngon miệng",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookRecipe/Avatar/salad-bo-ca-chua-thumbnail.jpg"
+}

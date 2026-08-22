@@ -1,0 +1,83 @@
+{
+  "source_id": "03194",
+  "name": "Mousse thanh long",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9ea1e4bd542ca681.png",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mousse-thanh-long-thom-ngon-don-gian-de-lam-khong-03194",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mousse-thanh-long-thom-ngon-don-gian-de-lam-khong-03194",
+  "servings_text": "Cho 3 - 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cốt bánh bông lan 2 miếng",
+      "raw_name": "Cốt bánh bông lan 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thanh long 350 gr",
+      "raw_name": "Thanh long",
+      "quantity": 350,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cream Cheese 180 gr",
+      "raw_name": "Cream Cheese",
+      "quantity": 180,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường cát 100 gr",
+      "raw_name": "Đường cát",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột Gelatine 10 gr",
+      "raw_name": "Bột Gelatine",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước 20 gr",
+      "raw_name": "Nước",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Trứng gà 1 quả (lòng đỏ)",
+      "raw_name": "Trứng gà",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "lòng đỏ",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Whipping cream 250 gr (kem sữa tươi)",
+      "raw_name": "Whipping cream",
+      "quantity": 250,
+      "unit": "gr",
+      "note": "kem sữa tươi",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:26:18Z",
+  "page_title": "Cách làm mousse thanh long thơm ngon, đơn giản, dễ làm không cần lò nướng",
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookProduct/thumi-1200x676.png"
+}

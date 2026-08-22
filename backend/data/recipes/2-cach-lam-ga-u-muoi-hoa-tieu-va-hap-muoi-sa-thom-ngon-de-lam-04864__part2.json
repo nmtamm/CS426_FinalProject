@@ -1,0 +1,109 @@
+{
+  "source_id": "04864",
+  "name": "Gà ủ muối hoa tiêu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/93d2a9e4849b3c8e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-ga-u-muoi-hoa-tieu-va-hap-muoi-sa-thom-ngon-de-lam-04864",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-ga-u-muoi-hoa-tieu-va-hap-muoi-sa-thom-ngon-de-lam-04864",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà 1 kg (1 con)",
+      "raw_name": "Gà",
+      "quantity": 1,
+      "unit": "kg",
+      "note": "1 con",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sả 40 gr",
+      "raw_name": "Sả",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rau răm 20 gr",
+      "raw_name": "Rau răm",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lá chanh 10 gr",
+      "raw_name": "Lá chanh",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tím 20 gr",
+      "raw_name": "Hành tím",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gừng 10 gr",
+      "raw_name": "Gừng",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt băm 5 gr",
+      "raw_name": "Ớt băm",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước cốt nghệ 2 muỗng canh",
+      "raw_name": "Nước cốt nghệ",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Muối hạt 1 kg",
+      "raw_name": "Muối hạt",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Muối/ tiêu xay 1 ít",
+      "raw_name": "Muối/ tiêu xay",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:17:01Z",
+  "page_title": "3 cách làm gà ủ muối vàng ươm, cực thơm ngon, siêu dễ làm tại nhà",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookRecipe/Avatar/ga-u-muoi-hoa-tieu-thumbnail.jpg"
+}

@@ -1,0 +1,86 @@
+{
+  "source_id": "01361",
+  "name": "Chân gà muối chiên",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f1cf3b63721e418a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/-video-cach-lam-4-mon-nhau-don-gian-de-lam-ma-ngon-an-cuc-phe-01361",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/-video-cach-lam-4-mon-nhau-don-gian-de-lam-ma-ngon-an-cuc-phe-01361",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chân gà 300 gr",
+      "raw_name": "Chân gà",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột năng 2 muỗng canh",
+      "raw_name": "Bột năng",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hạt nêm 1 muỗng cà phê",
+      "raw_name": "Hạt nêm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 1 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt bột 1 muỗng cà phê",
+      "raw_name": "Ớt bột",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tím 2 muỗng canh",
+      "raw_name": "Hành tím",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tiêu 1/4 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:03:23Z",
+  "page_title": "Cách làm 4 món nhậu đơn giản dễ làm mà ngon, ăn cực phê",
+  "variant_index": 2,
+  "variant_count": 4,
+  "note": null,
+  "original_image_url": "https://img.youtube.com/vi/C8KxHlLjzzI/maxresdefault.jpg"
+}

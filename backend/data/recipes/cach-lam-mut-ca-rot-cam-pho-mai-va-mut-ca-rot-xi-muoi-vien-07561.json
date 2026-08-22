@@ -1,0 +1,79 @@
+{
+  "source_id": "07561",
+  "name": "Mứt cà rốt phô mai xí muội viên",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7ee2ff919d7db85b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-ca-rot-cam-pho-mai-va-mut-ca-rot-xi-muoi-vien-07561",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-ca-rot-cam-pho-mai-va-mut-ca-rot-xi-muoi-vien-07561",
+  "servings_text": "Cho 4 phần ăn",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cà rốt 4 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 4,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cam vàng 1 trái",
+      "raw_name": "Cam vàng",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cơm dừa sấy khô 100 gr",
+      "raw_name": "Cơm dừa sấy khô",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Phô mai con bò cười 2 hộp",
+      "raw_name": "Phô mai con bò cười",
+      "quantity": 2,
+      "unit": "hộp",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tắc 200 gr",
+      "raw_name": "Tắc",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Xí muội không hạt 100 gr",
+      "raw_name": "Xí muội không hạt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 240 gr",
+      "raw_name": "Đường",
+      "quantity": 240,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:16:27Z",
+  "page_title": "Cá́ch làm mứt cà rốt cam phô mai và mứt cà rốt xí muội viên dẻo",
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookProduct/image(45)-600x337-1.jpg"
+}

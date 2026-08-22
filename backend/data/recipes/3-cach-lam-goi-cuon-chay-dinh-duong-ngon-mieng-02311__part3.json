@@ -1,0 +1,109 @@
+{
+  "source_id": "02311",
+  "name": "Gỏi cuốn ngũ sắc chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5988c8116e83a408.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-goi-cuon-chay-dinh-duong-ngon-mieng-02311",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-goi-cuon-chay-dinh-duong-ngon-mieng-02311",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chả chiên chay 100 gr",
+      "raw_name": "Chả chiên chay",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu hũ chiên 2 miếng",
+      "raw_name": "Đậu hũ chiên 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bắp cải tím 300 gr",
+      "raw_name": "Bắp cải tím",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt chuông 3 quả (bạn nên chọn 3 màu khác nhau cho món ăn này nhé)",
+      "raw_name": "Ớt chuông",
+      "quantity": 3,
+      "unit": "quả",
+      "note": "bạn nên chọn 3 màu khác nhau cho món ăn này nhé",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Thơm 1/4 quả",
+      "raw_name": "Thơm",
+      "quantity": 0.25,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bún tươi 100 gr (có thể có hoặc không)",
+      "raw_name": "Bún tươi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "có thể có hoặc không",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bánh tráng 10 miếng",
+      "raw_name": "Bánh tráng 10 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước cốt chanh 2 muỗng cà phê",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước tương 4 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Muối/ đường 1 ít",
+      "raw_name": "Muối/ đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:47:57Z",
+  "page_title": "3 cách làm gỏi cuốn chay dinh dưỡng ngon miệng đơn giản",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookRecipe/Avatar/goi-cuon-ngu-sac-chay-thumbnail.jpg"
+}

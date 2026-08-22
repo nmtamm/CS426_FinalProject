@@ -1,0 +1,151 @@
+{
+  "source_id": "08217",
+  "name": "Canh thịt bò bulgogi Hàn Quốc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/caf7d395cd91751a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-canh-thit-bo-bulgogi-han-quoc-am-nong-thom-ngon-bo-08217",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-canh-thit-bo-bulgogi-han-quoc-am-nong-thom-ngon-bo-08217",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-canh",
+      "name": "Món canh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt thăn bò 300 gr",
+      "raw_name": "Thịt thăn bò",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành tây 1/2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1/5 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành baro 1 nhánh",
+      "raw_name": "Hành baro",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nấm đùi gà 1 cây",
+      "raw_name": "Nấm đùi gà",
+      "quantity": 1,
+      "unit": "cây",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nấm kim châm 50 gr",
+      "raw_name": "Nấm kim châm",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi băm 2 muỗng cà phê",
+      "raw_name": "Tỏi băm",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Miến hàn quốc 70 gr (miến khoai lang)",
+      "raw_name": "Miến hàn quốc",
+      "quantity": 70,
+      "unit": "gr",
+      "note": "miến khoai lang",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước lê 2.5 muỗng canh",
+      "raw_name": "Nước lê",
+      "quantity": 2.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước tương 4 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước dùng cá cơm 700 ml (hoặc nước lọc)",
+      "raw_name": "Nước dùng cá cơm",
+      "quantity": 700,
+      "unit": "ml",
+      "note": "hoặc nước lọc",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Rượu gạo 1.5 muỗng canh",
+      "raw_name": "Rượu gạo",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu mè 1 muỗng cà phê",
+      "raw_name": "Dầu mè",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Dầu thưc vật 1 muỗng canh",
+      "raw_name": "Dầu thưc vật",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Vừng/ mè rang 1 muỗng cà phê",
+      "raw_name": "Vừng/ mè rang",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ tiêu/ đường)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ tiêu/ đường",
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T18:26:32Z",
+  "page_title": "Cách làm canh thịt bò bulgogi Hàn Quốc ấm nóng, thơm ngon bổ dưỡng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/thum-1200x676-10.jpg"
+}

@@ -1,0 +1,101 @@
+{
+  "source_id": "04164",
+  "name": "Mì soba vịt sốt teriyaki",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/236e75bd1225fb94.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mi-soba-vit-va-nam-dui-ga-dam-da-mem-ngon-cuc-hap-04164",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mi-soba-vit-va-nam-dui-ga-dam-da-mem-ngon-cuc-hap-04164",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mì soba 180 gr",
+      "raw_name": "Mì soba",
+      "quantity": 180,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ức vịt 300 gr",
+      "raw_name": "Ức vịt",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sốt teriyaki 150 gr",
+      "raw_name": "Sốt teriyaki",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng 20 gr",
+      "raw_name": "Gừng",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 10 gr",
+      "raw_name": "Tỏi",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Cà rốt 100 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối 5 gr",
+      "raw_name": "Muối",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tiêu 5 gr",
+      "raw_name": "Tiêu",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đậu Hà Lan 50 gr",
+      "raw_name": "Đậu Hà Lan",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Mè 5 gr",
+      "raw_name": "Mè",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T20:34:25Z",
+  "page_title": "2 cách làm mì soba vịt và nấm đùi gà đậm đà, mềm ngon cực hấp dẫn",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/mì-soba-vịt-sót-teriyaki-thumbnail.jpg"
+}

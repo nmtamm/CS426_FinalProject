@@ -1,0 +1,53 @@
+{
+  "source_id": "14742",
+  "name": "Sốt cranberry với nước ép trái cây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a249fd3a1d726726.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-sot-nam-viet-quat-cranberry-sauce-don-gian-14742",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-sot-nam-viet-quat-cranberry-sauce-don-gian-14742",
+  "servings_text": "Cho 1 lọ",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Quả nam việt quất 300 gr",
+      "raw_name": "Quả nam việt quất",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cam vàng 2 quả",
+      "raw_name": "Cam vàng",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 200 gr",
+      "raw_name": "Đường",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước ép lựu 100 ml",
+      "raw_name": "Nước ép lựu",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:40:33Z",
+  "page_title": "3 cách làm nước sốt nam việt quất - cranberry sauce đơn giản cho lễ Tạ ơn",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/sot-cranberry-voi-nuoc-ep-trai-cay-thumbnail.jpg"
+}

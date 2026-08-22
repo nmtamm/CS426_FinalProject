@@ -1,0 +1,115 @@
+{
+  "source_id": "00544",
+  "name": "Chè trôi nước",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4145574832cc31e4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-troi-nuoc-thom-ngon-hap-dan-00544",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-troi-nuoc-thom-ngon-hap-dan-00544",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột nếp 600 g",
+      "raw_name": "Bột nếp",
+      "quantity": 600,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu xanh không vỏ 150 g",
+      "raw_name": "Đậu xanh không vỏ",
+      "quantity": 150,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường thốt nốt hoặc đường vàng 215 g (200g - nước đường và 1 muỗng canh - nhân bánh)",
+      "raw_name": "Đường thốt nốt hoặc đường vàng",
+      "quantity": 215,
+      "unit": "g",
+      "note": "200g - nước đường và 1 muỗng canh - nhân bánh",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước cốt dừa 100 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột năng làm vỏ bánh 1 ít",
+      "raw_name": "Bột năng làm vỏ bánh",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước 300 ml (100ml - nhân bánh và 200ml - nước đường)",
+      "raw_name": "Nước",
+      "quantity": 300,
+      "unit": "ml",
+      "note": "100ml - nhân bánh và 200ml - nước đường",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước nóng 100 ml",
+      "raw_name": "Nước nóng",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành phi 1 muỗng canh",
+      "raw_name": "Hành phi",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gừng nhỏ 1 củ",
+      "raw_name": "Gừng nhỏ",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Mè đã rang 15 g",
+      "raw_name": "Mè đã rang",
+      "quantity": 15,
+      "unit": "g",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu 1/3 muỗng cà phê",
+      "raw_name": "Dầu",
+      "quantity": 0.333,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T19:36:41Z",
+  "page_title": "Cách làm bánh trôi nước (chè trôi nước) thơm ngon cho Tết Đoan Ngọ",
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookProduct/24-1200x676.jpg"
+}

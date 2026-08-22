@@ -1,0 +1,53 @@
+{
+  "source_id": "23717",
+  "name": "Nước mắm ăn bánh xèo miền Trung",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8f77c4a1892940fc.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-mam-an-banh-xeo-mien-trung-mien-tay-chua-ngot-23717",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-mam-an-banh-xeo-mien-trung-mien-tay-chua-ngot-23717",
+  "servings_text": "Cho 4-5 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dứa 1 quả (thơm)",
+      "raw_name": "Dứa",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "thơm",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tỏi 1 ít",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt 1 ít",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/nước mắm/muối/bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/nước mắm/muối/bột ngọt",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:25:32Z",
+  "page_title": "Cách làm nước mắm ăn bánh xèo miền Trung miền Tây chua ngọt chuẩn vị",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2025/12/CookRecipe/Avatar/nuoc-mam-an-banh-xeo-mien-tay-thumbnail.jpg"
+}

@@ -1,0 +1,122 @@
+{
+  "source_id": "05300",
+  "name": "Bạch tuộc giã nhuyễn chiên giòn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1dfc85904c41326e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-bach-tuoc-chien-gion-thom-ngon-hap-dan-cho-gia-05300",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-bach-tuoc-chien-gion-thom-ngon-hap-dan-cho-gia-05300",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bạch tuộc 500 gr",
+      "raw_name": "Bạch tuộc",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mỡ heo 50 gr",
+      "raw_name": "Mỡ heo",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt 1 trái",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tiêu 1/2 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước tương 1 muỗng cà phê",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ngò rí 1 ít (rau mùi)",
+      "raw_name": "Ngò rí",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "rau mùi",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng cà phê",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột chiên giòn 200 gr",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột chiên xù 200 gr",
+      "raw_name": "Bột chiên xù",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Trứng 4 quả",
+      "raw_name": "Trứng",
+      "quantity": 4,
+      "unit": "quả",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu ăn 250 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 250,
+      "unit": "ml",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Muối/giấm 1 ít",
+      "raw_name": "Muối/giấm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T19:23:32Z",
+  "page_title": "2 cách làm bạch tuộc chiên giòn thơm ngon, hấp dẫn cho gia đình",
+  "variant_index": 1,
+  "variant_count": 2,
+  "note": null,
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookRecipe/Avatar/bach-tuoc-gia-nhuyen-chien-gion-thumbnail.jpg"
+}

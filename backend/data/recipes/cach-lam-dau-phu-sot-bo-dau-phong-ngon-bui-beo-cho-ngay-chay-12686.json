@@ -1,0 +1,115 @@
+{
+  "source_id": "12686",
+  "name": "Đậu phụ sốt bơ đậu phộng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1e2a20a811349d9a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-phu-sot-bo-dau-phong-ngon-bui-beo-cho-ngay-chay-12686",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-phu-sot-bo-dau-phong-ngon-bui-beo-cho-ngay-chay-12686",
+  "servings_text": "Cho 3 - 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu phụ trắng 3 miếng",
+      "raw_name": "Đậu phụ trắng 3 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Giá đỗ 100 gr",
+      "raw_name": "Giá đỗ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bơ đậu phộng 2 muỗng canh",
+      "raw_name": "Bơ đậu phộng",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước cốt dừa 2 muỗng canh",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành boa rô 1 cây",
+      "raw_name": "Hành boa rô",
+      "quantity": 1,
+      "unit": "cây",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt băm 10 gr",
+      "raw_name": "Ớt băm",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đậu phộng rang 15 gr",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu màu điều 1 muỗng canh",
+      "raw_name": "Dầu màu điều",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu ăn 220 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 220,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đường 1/2 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Đường/ Muối)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Đường/ Muối",
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:49:03Z",
+  "page_title": "Cách làm đậu phụ sốt bơ đậu phộng ngon bùi béo cho ngày chay ngon miệng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/1200(3)-1200x676-2.jpg"
+}

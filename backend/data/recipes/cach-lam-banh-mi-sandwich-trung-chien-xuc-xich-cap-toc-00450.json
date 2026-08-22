@@ -1,0 +1,63 @@
+{
+  "source_id": "00450",
+  "name": "Bánh mì sandwich trứng chiên xúc xích",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/60ac71871fe7247a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-mi-sandwich-trung-chien-xuc-xich-cap-toc-00450",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-mi-sandwich-trung-chien-xuc-xich-cap-toc-00450",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh mì sandwich 200 gr",
+      "raw_name": "Bánh mì sandwich",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xúc xích 6 cây",
+      "raw_name": "Xúc xích",
+      "quantity": 6,
+      "unit": "cây",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng 3 quả",
+      "raw_name": "Trứng",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Phô mai 100 gr",
+      "raw_name": "Phô mai",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cà chua 2 quả",
+      "raw_name": "Cà chua",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:30:59Z",
+  "page_title": "Cách làm bánh mì sandwich trứng chiên xúc xích cấp tốc cực ngon",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2015/02/10/608658/lam-banh-mi-sandwich-trung-chien-xuc-xich-cap-toc-cuc-ngon-9-760x367.jpg"
+}

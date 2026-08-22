@@ -1,0 +1,55 @@
+{
+  "source_id": "19429",
+  "name": "Bánh quẩy bọc tôm chiên",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7ff636b8709a4373.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-cach-lam-banh-quay-boc-tom-chien-la-mieng-hap-dan-19429",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-cach-lam-banh-quay-boc-tom-chien-la-mieng-hap-dan-19429",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tôm thẻ 300 gr",
+      "raw_name": "Tôm thẻ",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm mèo 1 cái",
+      "raw_name": "Nấm mèo",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột năng 1/2 muỗng canh",
+      "raw_name": "Bột năng",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bánh quẩy 200 gr",
+      "raw_name": "Bánh quẩy",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:12:53Z",
+  "page_title": "Hướng dẫn cách làm bánh quẩy bọc tôm chiên lạ miệng, hấp dẫn ăn là ghiền",
+  "original_image_url": "https://cdn.tgdd.vn/2023/05/CookDish/huong-dan-cach-lam-banh-quay-boc-tom-chien-la-mieng-hap-dan-avt-1200x676.jpg"
+}

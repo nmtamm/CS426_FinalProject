@@ -1,0 +1,85 @@
+{
+  "source_id": "12640",
+  "name": "Sườn non chay khìa nước dừa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d6e5f729d793657f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-suon-non-chay-khia-dam-da-tham-vi-bat-com-don-gian-12640",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-suon-non-chay-khia-dam-da-tham-vi-bat-com-don-gian-12640",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sườn non chay 50 gr",
+      "raw_name": "Sườn non chay",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước dừa 1/2 chén (chén ăn cơm)",
+      "raw_name": "Nước dừa",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": "chén ăn cơm",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sốt ướp thịt nướng chay 2 muỗng canh",
+      "raw_name": "Sốt ướp thịt nướng chay",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa đặc 1 muỗng canh",
+      "raw_name": "Sữa đặc",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 1 tép",
+      "raw_name": "Tỏi 1 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành lá 1 ít",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ bột ngọt/ hạt nêm/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ bột ngọt/ hạt nêm/ tiêu xay",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:44:55Z",
+  "page_title": "3 cách làm sườn non chay khìa đậm đà thấm vị bắt cơm đơn giản",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2022/10/CookRecipe/Avatar/suon-non-chay-khia-nuoc-dua-thumbnail.jpg"
+}

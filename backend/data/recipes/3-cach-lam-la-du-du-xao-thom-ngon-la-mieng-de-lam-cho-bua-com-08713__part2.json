@@ -1,0 +1,81 @@
+{
+  "source_id": "08713",
+  "name": "Lá đu đủ xào thịt bò",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a964ca530f8cb4e2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-la-du-du-xao-thom-ngon-la-mieng-de-lam-cho-bua-com-08713",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-la-du-du-xao-thom-ngon-la-mieng-de-lam-cho-bua-com-08713",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lá đu đủ 2 cái (loại lớn)",
+      "raw_name": "Lá đu đủ",
+      "quantity": 2,
+      "unit": "cái",
+      "note": "loại lớn",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt bò 300 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột ngọt 1/2 muỗng canh",
+      "raw_name": "Bột ngọt",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước mắm 1/2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:33:25Z",
+  "page_title": "3 cách làm lá đu đủ xào thơm ngon lạ miệng dễ làm cho bữa cơm",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookRecipe/Avatar/la-du-du-xao-thit-bo-thumbnail-1.jpg"
+}

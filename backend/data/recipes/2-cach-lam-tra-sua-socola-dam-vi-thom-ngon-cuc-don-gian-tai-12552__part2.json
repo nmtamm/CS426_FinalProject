@@ -1,0 +1,61 @@
+{
+  "source_id": "12552",
+  "name": "Trà sữa milkfoam socola",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/612b9d3e1b0370d5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-sua-socola-dam-vi-thom-ngon-cuc-don-gian-tai-12552",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-sua-socola-dam-vi-thom-ngon-cuc-don-gian-tai-12552",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà đen túi lọc 5 gr (1 túi)",
+      "raw_name": "Trà đen túi lọc",
+      "quantity": 5,
+      "unit": "gr",
+      "note": "1 túi",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột socola 30 gr",
+      "raw_name": "Bột socola",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Heavy cream 2 muỗng canh",
+      "raw_name": "Heavy cream",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa tươi có đường 100 ml",
+      "raw_name": "Sữa tươi có đường",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:10:31Z",
+  "page_title": "6 cách làm trà sữa socola tại nhà đậm vị thơm ngon cực đơn giản",
+  "variant_index": 2,
+  "variant_count": 6,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/tra-sua-milkfoam-socola-thumbnail.jpg"
+}

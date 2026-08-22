@@ -1,0 +1,65 @@
+{
+  "source_id": "22707",
+  "name": "Trà sữa thái xanh đóng chai",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0b9c52320127063b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cong-thuc-lam-tra-sua-chai-kinh-doanh-don-gian-voi-noi-va-22707",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cong-thuc-lam-tra-sua-chai-kinh-doanh-don-gian-voi-noi-va-22707",
+  "servings_text": "Cho 10 chai dung tích 380ml",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột trà thái xanh 25 gr",
+      "raw_name": "Bột trà thái xanh",
+      "quantity": 25,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột béo 60 gr",
+      "raw_name": "Bột béo",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 250 gr",
+      "raw_name": "Đường",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa đặc 150 ml",
+      "raw_name": "Sữa đặc",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột rau câu 5 gr",
+      "raw_name": "Bột rau câu",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:52:01Z",
+  "page_title": "3 công thức làm trà sữa chai kinh doanh đơn giản với nồi và bình siêu tốc",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2025/04/CookRecipe/Avatar/tra-sua-thai-xanh-dong-chai-thumbnail.jpg"
+}

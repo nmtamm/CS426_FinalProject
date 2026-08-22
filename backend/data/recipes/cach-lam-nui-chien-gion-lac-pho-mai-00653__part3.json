@@ -1,0 +1,50 @@
+{
+  "source_id": "00653",
+  "name": "Nui lắc phô mai",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4d1f17bee0242450.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nui-chien-gion-lac-pho-mai-00653",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nui-chien-gion-lac-pho-mai-00653",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nui chữ C 200 gr",
+      "raw_name": "Nui chữ C",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột phô mai 1 gói",
+      "raw_name": "Bột phô mai",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dầu ăn 300 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:09:30Z",
+  "page_title": "3 cách làm nui chiên lắc phô mai giòn rụm thơm béo dễ làm ăn là ghiền",
+  "variant_index": 3,
+  "variant_count": 3,
+  "note": "Công thức được chia sẻ từ TikTok Vào bếp cùng Điện máy XANH",
+  "original_image_url": "https://cdn.tgdd.vn/2023/08/CookRecipe/Avatar/nui-lac-pho-mai-cong-thuc-duoc-chia-se-tu-tiktok-vao-bep-cung-dien-may-xanh-thumbnail.jpg"
+}

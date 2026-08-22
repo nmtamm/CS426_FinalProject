@@ -1,0 +1,61 @@
+{
+  "source_id": "14630",
+  "name": "Pudding trứng bằng bột pudding",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d5c73291ec8befe5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-pudding-trung-trong-tra-sua-mem-muot-beo-ngay-uong-14630",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-pudding-trung-trong-tra-sua-mem-muot-beo-ngay-uong-14630",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột pudding trứng 100 gr",
+      "raw_name": "Bột pudding trứng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột sữa 50 gr",
+      "raw_name": "Bột sữa",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước lọc 800 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 800,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường cát trắng 70 gr",
+      "raw_name": "Đường cát trắng",
+      "quantity": 70,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột rau câu 1 muỗng cà phê",
+      "raw_name": "Bột rau câu",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:10:34Z",
+  "page_title": "2 cách làm pudding trứng trong trà sữa mềm mướt béo ngậy uống là ghiền",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/pudding-trung-bang-bot-pudding-thumbnail.jpg"
+}

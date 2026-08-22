@@ -1,0 +1,113 @@
+{
+  "source_id": "03095",
+  "name": "Gỏi ổi chay với nấm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1a3bc239e2ce0283.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-oi-chay-gion-ngon-thom-la-mieng-don-gian-03095",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-oi-chay-gion-ngon-thom-la-mieng-don-gian-03095",
+  "servings_text": "Cho 3 người ăn",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    },
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ổi trân châu 200 gram",
+      "raw_name": "Ổi trân châu 200 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm bào ngư 200 gram",
+      "raw_name": "Nấm bào ngư 200 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 100 gram",
+      "raw_name": "Cà rốt 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dưa leo 100 gram",
+      "raw_name": "Dưa leo 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt sừng 1 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt bằm 10 gram",
+      "raw_name": "Ớt bằm 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 100 gram",
+      "raw_name": "Đường 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước mắm chay 90 gram",
+      "raw_name": "Nước mắm chay 90 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước 50 gram",
+      "raw_name": "Nước 50 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước cốt tắc 20 gram",
+      "raw_name": "Nước cốt tắc 20 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Tương ớt 20 gram",
+      "raw_name": "Tương ớt 20 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T17:59:21Z",
+  "page_title": "2 cách làm gỏi ổi chay giòn ngon thơm lạ miệng đơn giản",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2023/06/CookRecipe/Avatar/goi-oi-chay-voi-nam-thumbnail-1.jpg"
+}

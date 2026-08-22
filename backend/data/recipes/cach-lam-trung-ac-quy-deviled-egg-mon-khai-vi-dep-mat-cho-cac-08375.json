@@ -1,0 +1,87 @@
+{
+  "source_id": "08375",
+  "name": "Trứng ác quỷ (deviled egg)",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f256c1aeaca98c44.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-trung-ac-quy-deviled-egg-mon-khai-vi-dep-mat-cho-cac-08375",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-trung-ac-quy-deviled-egg-mon-khai-vi-dep-mat-cho-cac-08375",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trứng gà 10 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 10,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt ba chỉ muối 300 gr",
+      "raw_name": "Thịt ba chỉ muối",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Thì là 100 gr",
+      "raw_name": "Thì là",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước cốt chanh 2 muỗng cà phê",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Mayonnaise 2 muỗng canh",
+      "raw_name": "Mayonnaise",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Mù tạt vàng 2 muỗng canh",
+      "raw_name": "Mù tạt vàng",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột ớt Paprika 1 muỗng canh",
+      "raw_name": "Bột ớt Paprika",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối/ tiêu 1 ít",
+      "raw_name": "Muối/ tiêu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:02:05Z",
+  "page_title": "Cách làm trứng ác quỷ (deviled egg) - món khai vị đẹp mắt cho các buổi tiệc",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/THUM-1-1200x676.jpg"
+}

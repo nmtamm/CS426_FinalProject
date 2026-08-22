@@ -1,0 +1,141 @@
+{
+  "source_id": "00898",
+  "name": "Chân gà ngâm sả tắc xoài",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a92593e1225bede5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chan-ga-tron-xoai-xanh-sieu-nhanh-tai-nha-00898",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chan-ga-tron-xoai-xanh-sieu-nhanh-tai-nha-00898",
+  "servings_text": "Cho 20 cái",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chân gà 20 cái",
+      "raw_name": "Chân gà",
+      "quantity": 20,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xoài non 500 gr",
+      "raw_name": "Xoài non",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sả 3 cây",
+      "raw_name": "Sả",
+      "quantity": 3,
+      "unit": "cây",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tắc 10 trái",
+      "raw_name": "Tắc",
+      "quantity": 10,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 3 củ",
+      "raw_name": "Tỏi",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gừng 2 củ",
+      "raw_name": "Gừng",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt 5 trái",
+      "raw_name": "Ớt",
+      "quantity": 5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước mắm 100 ml",
+      "raw_name": "Nước mắm",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Giấm ăn 90 ml",
+      "raw_name": "Giấm ăn",
+      "quantity": 90,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Ớt bột 2 muỗng cà phê",
+      "raw_name": "Ớt bột",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Đá viên 300 gr",
+      "raw_name": "Đá viên",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Đường 150 gr",
+      "raw_name": "Đường",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T18:01:59Z",
+  "page_title": "2 cách làm chân gà ngâm sả tắc xoài chua cay, hấp dẫn ăn là ghiền",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://img.youtube.com/vi/Hy-IdC_r42k/maxresdefault.jpg"
+}

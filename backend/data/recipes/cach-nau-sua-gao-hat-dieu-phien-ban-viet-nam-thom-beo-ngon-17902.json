@@ -1,0 +1,59 @@
+{
+  "source_id": "17902",
+  "name": "Sữa gạo hạt điều",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0d889ea5c8ea5b3d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-sua-gao-hat-dieu-phien-ban-viet-nam-thom-beo-ngon-17902",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-sua-gao-hat-dieu-phien-ban-viet-nam-thom-beo-ngon-17902",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gạo tẻ 20 gr (2 thìa)",
+      "raw_name": "Gạo tẻ",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "2 thìa",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gạo nếp 10 gr (1 thìa)",
+      "raw_name": "Gạo nếp",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "1 thìa",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hạt điều 40 gr",
+      "raw_name": "Hạt điều",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường phèn 30 gr (có thể thay đổi tùy ý theo khẩu vị)",
+      "raw_name": "Đường phèn",
+      "quantity": 30,
+      "unit": "gr",
+      "note": "có thể thay đổi tùy ý theo khẩu vị",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ca cao/ hoa đậu biếc 2 gr (tùy sở thích)",
+      "raw_name": "Ca cao/ hoa đậu biếc",
+      "quantity": 2,
+      "unit": "gr",
+      "note": "tùy sở thích",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:52:40Z",
+  "page_title": "Cách nấu sữa gạo hạt điều phiên bản Việt Nam thơm béo ngon khó cưỡng",
+  "original_image_url": "https://cdn.tgdd.vn/2022/08/CookDish/cach-nau-sua-gao-hat-dieu-phien-ban-viet-nam-thom-beo-ngon-avt-1200x676.jpg"
+}

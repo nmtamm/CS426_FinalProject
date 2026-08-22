@@ -1,0 +1,94 @@
+{
+  "source_id": "04547",
+  "name": "Gỏi trái vải chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7ccdb42039993be3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-trai-va-chay-moi-la-dam-vi-que-nha-don-gian-04547",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-trai-va-chay-moi-la-dam-vi-que-nha-don-gian-04547",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Vải 3 trái",
+      "raw_name": "Vải",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm bào ngư 100 gram",
+      "raw_name": "Nấm bào ngư 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dưa leo 50 gram",
+      "raw_name": "Dưa leo 50 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 50 gram",
+      "raw_name": "Cà rốt 50 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Khế chua 50 gram",
+      "raw_name": "Khế chua 50 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rau răm 1 ít",
+      "raw_name": "Rau răm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Rau hũng lũi 1 ít",
+      "raw_name": "Rau hũng lũi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt sừng 1 ít",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị 1 ít (đường/nước mắm chay/nước cốt tắc/tương ớt)",
+      "raw_name": "Gia vị",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/nước mắm chay/nước cốt tắc/tương ớt",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:42:03Z",
+  "page_title": "2 cách làm gỏi trái vải chay mới lạ đậm vị quê nhà đơn giản",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "Công thức được chia sẻ bởi Tiktok Bếp chay XANH",
+  "original_image_url": "https://cdn.tgdd.vn/2023/11/CookRecipe/Avatar/goi-trai-vai-chay-cong-thuc-duoc-chia-se-boi-tiktok-bep-chay-xanh-thumbnail.jpg"
+}

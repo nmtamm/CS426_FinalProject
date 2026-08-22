@@ -1,0 +1,75 @@
+{
+  "source_id": "13955",
+  "name": "Đậu hũ kho nấm đông cô",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/746995b5a6733e22.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-hu-kho-nam-dong-co-nam-huong-thom-ngon-bat-vi-13955",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-hu-kho-nam-dong-co-nam-huong-thom-ngon-bat-vi-13955",
+  "servings_text": "Cho 4 người ăn",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu hũ trắng 4 miếng",
+      "raw_name": "Đậu hũ trắng 4 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm đông cô khô 50 gr (nấm hương khô)",
+      "raw_name": "Nấm đông cô khô",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "nấm hương khô",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước mắm chay 2 muỗng cà phê",
+      "raw_name": "Nước mắm chay",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước tương 1 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tương ớt 2 muỗng cà phê",
+      "raw_name": "Tương ớt",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ bột ngọt/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ bột ngọt/ tiêu xay",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:36:07Z",
+  "page_title": "Cách làm đậu hũ kho nấm đông cô - nấm hương thơm ngon, bắt vị tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-dau-hu-kho-nam-dong-co-nam-huong-thom-ngon-bat-vi-avt-1200x676-2.jpg"
+}

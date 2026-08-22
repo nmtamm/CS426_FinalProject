@@ -1,0 +1,67 @@
+{
+  "source_id": "13138",
+  "name": "Bánh tráng lắc muối tỏi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ecb6594642e28113.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trang-lac-muoi-toi-sieu-ngon-de-lam-an-vat-cuc-13138",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trang-lac-muoi-toi-sieu-ngon-de-lam-an-vat-cuc-13138",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh tráng 20 cái",
+      "raw_name": "Bánh tráng",
+      "quantity": 20,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chanh 1 lát",
+      "raw_name": "Chanh 1 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 50 gr (băm nhuyễn)",
+      "raw_name": "Tỏi",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "băm nhuyễn",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối tôm Tây Ninh 50 gr",
+      "raw_name": "Muối tôm Tây Ninh",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt bột 2 muỗng canh",
+      "raw_name": "Ớt bột",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:19:13Z",
+  "page_title": "Cách làm bánh tráng lắc muối tỏi siêu ngon dễ làm ăn vặt cực đã tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookProduct/Duanmoi(2)pts-1200x676.jpg"
+}

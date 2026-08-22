@@ -1,0 +1,47 @@
+{
+  "source_id": "22830",
+  "name": "Chè bí đỏ gạo nếp",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/aa78a7ec7496cd47.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-che-bi-do-gao-nep-thanh-mat-chuan-vi-bac-bo-voi-noi-22830",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-che-bi-do-gao-nep-thanh-mat-chuan-vi-bac-bo-voi-noi-22830",
+  "servings_text": "Cho 4 - 6 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-che",
+      "name": "Món chè"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bí đỏ 600 gr",
+      "raw_name": "Bí đỏ",
+      "quantity": 600,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gạo nếp 40 gr",
+      "raw_name": "Gạo nếp",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 200 gr",
+      "raw_name": "Đường",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T18:57:53Z",
+  "page_title": "Cách nấu chè bí đỏ gạo nếp thanh mát chuẩn vị Bắc bộ với nồi thủy tinh",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/20052025%20%2863%29.jpg"
+}

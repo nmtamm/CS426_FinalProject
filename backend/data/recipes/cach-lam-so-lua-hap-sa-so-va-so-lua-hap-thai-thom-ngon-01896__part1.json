@@ -1,0 +1,113 @@
+{
+  "source_id": "01896",
+  "name": "Sò lụa hấp thái",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e71a1b9196927856.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-so-lua-hap-sa-so-va-so-lua-hap-thai-thom-ngon-01896",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-so-lua-hap-sa-so-va-so-lua-hap-thai-thom-ngon-01896",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sò lụa 300 gr",
+      "raw_name": "Sò lụa",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lá chanh 3 lá",
+      "raw_name": "Lá chanh",
+      "quantity": 3,
+      "unit": "lá",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sả 1 cây",
+      "raw_name": "Sả",
+      "quantity": 1,
+      "unit": "cây",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt 2 trái",
+      "raw_name": "Ớt",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rau răm 1 ít",
+      "raw_name": "Rau răm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tím băm 1 muỗng cà phê",
+      "raw_name": "Hành tím băm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Cốt me 1 muỗng cà phê",
+      "raw_name": "Cốt me",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột ớt 1 muỗng cà phê",
+      "raw_name": "Bột ớt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng cà phê",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đường/ bột ngọt 1 ít",
+      "raw_name": "Đường/ bột ngọt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T19:10:53Z",
+  "page_title": "2 cách làm sò lụa hấp thơm ngon, đơn giản, ăn là mê",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2022/07/CookRecipe/Avatar/38..jpg"
+}

@@ -1,0 +1,121 @@
+{
+  "source_id": "08079",
+  "name": "Đậu đũa cuộn chả cá",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/16acf4adbd72d729.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-dau-dua-cuon-thit-va-cha-ca-chien-gion-thom-ngon-08079",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-dau-dua-cuon-thit-va-cha-ca-chien-gion-thom-ngon-08079",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu đũa 150 gr",
+      "raw_name": "Đậu đũa",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cá thác lác nạo 200 gr",
+      "raw_name": "Cá thác lác nạo",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Thịt heo xay 150 gr",
+      "raw_name": "Thịt heo xay",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt chuông 1 trái",
+      "raw_name": "Ớt chuông",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành lá 1 ít",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tím 3 củ",
+      "raw_name": "Hành tím",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt 2 trái",
+      "raw_name": "Ớt",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tỏi 3 tép",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tắc 2 trái",
+      "raw_name": "Tắc",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước mắm/ Dầu ăn 1 ít",
+      "raw_name": "Nước mắm/ Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (bột ngọt/ hạt nêm/ muối/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "bột ngọt/ hạt nêm/ muối/ tiêu xay",
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T20:36:30Z",
+  "page_title": "2 Cách làm đậu đũa cuộn thịt và chả cá chiên giòn thơm ngon, đẹp mắt",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/dau-dua-cuon-cha-ca-thumbnail-1.jpg"
+}

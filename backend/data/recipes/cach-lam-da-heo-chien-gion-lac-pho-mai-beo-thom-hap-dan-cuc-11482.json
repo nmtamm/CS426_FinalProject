@@ -1,0 +1,75 @@
+{
+  "source_id": "11482",
+  "name": "Da heo chiên giòn lắc phô mai",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f3f1b9fcb8a64e09.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-da-heo-chien-gion-lac-pho-mai-beo-thom-hap-dan-cuc-11482",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-da-heo-chien-gion-lac-pho-mai-beo-thom-hap-dan-cuc-11482",
+  "servings_text": "Cho 2  người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Da heo 250 gr",
+      "raw_name": "Da heo",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột phô mai 3 muỗng canh",
+      "raw_name": "Bột phô mai",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Giấm 1 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tím 2 củ",
+      "raw_name": "Hành tím",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gừng 1 lát",
+      "raw_name": "Gừng 1 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:07:39Z",
+  "page_title": "Cách làm da heo chiên giòn lắc phô mai béo thơm hấp dẫn cực ngon",
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookProduct/CachLamDaHeoChienGionLacPhoMaiGionRumNgonTuyetGocBepNho8-14screenshot-1200x676.jpg"
+}

@@ -1,0 +1,103 @@
+{
+  "source_id": "02389",
+  "name": "Bánh da lợn heo quay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6fa57f71ce1087bd.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-da-lon-heo-quay-thom-ngon-doc-la-va--02389",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-da-lon-heo-quay-thom-ngon-doc-la-va--02389",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột năng 175 gr",
+      "raw_name": "Bột năng",
+      "quantity": 175,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột gạo 50 gr",
+      "raw_name": "Bột gạo",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột báng 15 gr",
+      "raw_name": "Bột báng",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Khoai môn 200 gr",
+      "raw_name": "Khoai môn",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gấc chín 1 muỗng canh",
+      "raw_name": "Gấc chín",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước cốt dừa 200 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tinh chất vani 1/2 muỗng cà phê",
+      "raw_name": "Tinh chất vani",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường 145 gr",
+      "raw_name": "Đường",
+      "quantity": 145,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:37:47Z",
+  "page_title": "Cách làm bánh da lợn heo quay thơm ngon độc lạ và dễ làm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-banh-da-lon-heo-quay-thom-ngon-doc-la-va--avt-1200x676.jpg"
+}

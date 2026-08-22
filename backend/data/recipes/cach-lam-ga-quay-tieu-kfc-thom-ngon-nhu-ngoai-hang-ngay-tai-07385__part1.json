@@ -1,0 +1,97 @@
+{
+  "source_id": "07385",
+  "name": "Gà quay tiêu KFC",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/63b63bacabe70f47.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-quay-tieu-kfc-thom-ngon-nhu-ngoai-hang-ngay-tai-07385",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-quay-tieu-kfc-thom-ngon-nhu-ngoai-hang-ngay-tai-07385",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đùi gà góc tư 2 cái (khoảng 600gr)",
+      "raw_name": "Đùi gà góc tư",
+      "quantity": 2,
+      "unit": "cái",
+      "note": "khoảng 600gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tỏi 4 tép",
+      "raw_name": "Tỏi 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tương ớt Hàn Quốc 1 muỗng canh",
+      "raw_name": "Tương ớt Hàn Quốc",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tương cà 2 muỗng canh",
+      "raw_name": "Tương cà",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tương xí muội 1 muỗng canh",
+      "raw_name": "Tương xí muội",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (hạt nêm/đường/bột ngọt/tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hạt nêm/đường/bột ngọt/tiêu xay",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:13:44Z",
+  "page_title": "Cách làm gà quay tiêu KFC thơm ngon như ngoài hàng ngay tại nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookRecipe/Avatar/ga-quay-tieu-kfc-thumbnail.jpg"
+}

@@ -1,0 +1,126 @@
+{
+  "source_id": "14476",
+  "name": "Chân gà sốt thái",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8843cc476265730c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chan-ga-sot-thai-tron-coc-non-chua-cay-dam-da-ai-14476",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chan-ga-sot-thai-tron-coc-non-chua-cay-dam-da-ai-14476",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chân gà rút xương 500 gr",
+      "raw_name": "Chân gà rút xương",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sả 6 cây",
+      "raw_name": "Sả",
+      "quantity": 6,
+      "unit": "cây",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt sừng 2 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tím 2 củ",
+      "raw_name": "Hành tím",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chanh 2 trái",
+      "raw_name": "Chanh",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Riềng 1/2 củ",
+      "raw_name": "Riềng",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối tôm 1 muỗng canh",
+      "raw_name": "Muối tôm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường 5 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bột ớt 1 muỗng canh",
+      "raw_name": "Bột ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị thêm 1 ít (bột ngọt;muối)",
+      "raw_name": "Gia vị thêm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "bột ngọt;muối",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Cà rốt 1/2 trái",
+      "raw_name": "Cà rốt",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Rau nêm 1 ít (rau răm;lá chanh)",
+      "raw_name": "Rau nêm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "rau răm;lá chanh",
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T18:14:34Z",
+  "page_title": "2 cách làm chân gà sốt Thái trộn cóc non chua cay đậm đà ai cũng thích",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "Công thức từ kênh tiktok Vào bếp cùng Điện máy XANH",
+  "original_image_url": "https://cdn.tgdd.vn/2023/06/CookRecipe/Avatar/chan-ga-sot-thai-cong-thuc-tu-kenh-tiktok-vao-bep-cung-dien-may-xanh-thumbnail-1.jpg"
+}

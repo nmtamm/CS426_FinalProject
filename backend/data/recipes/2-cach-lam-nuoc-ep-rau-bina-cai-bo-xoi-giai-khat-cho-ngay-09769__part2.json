@@ -1,0 +1,77 @@
+{
+  "source_id": "09769",
+  "name": "Nước ép cải bó xôi (rau bina), cà rốt và củ dền",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7c3df2785e74ea09.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-ep-rau-bina-cai-bo-xoi-giai-khat-cho-ngay-09769",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-ep-rau-bina-cai-bo-xoi-giai-khat-cho-ngay-09769",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cải bó xôi 200 gr",
+      "raw_name": "Cải bó xôi",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 150 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Củ dền 150 gr",
+      "raw_name": "Củ dền",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chanh 1/4 quả",
+      "raw_name": "Chanh",
+      "quantity": 0.25,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gừng 3 gr (1 lát)",
+      "raw_name": "Gừng",
+      "quantity": 3,
+      "unit": "gr",
+      "note": "1 lát",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đá đông lạnh 1 ít",
+      "raw_name": "Đá đông lạnh",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước 70 ml",
+      "raw_name": "Nước",
+      "quantity": 70,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:12:18Z",
+  "page_title": "4 cách làm nước ép cải bó xôi (rau bina) giảm cân thanh lọc cơ thể",
+  "variant_index": 2,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/nuoc-ep-cai-bo-xoi-rau-bina-ca-rot-va-cu-den-thumbnail.jpg"
+}

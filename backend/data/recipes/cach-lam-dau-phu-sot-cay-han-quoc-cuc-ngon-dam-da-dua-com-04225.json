@@ -1,0 +1,71 @@
+{
+  "source_id": "04225",
+  "name": "Đậu phụ sốt cay Hàn Quốc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6a2b55603d6d75fa.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-phu-sot-cay-han-quoc-cuc-ngon-dam-da-dua-com-04225",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-phu-sot-cay-han-quoc-cuc-ngon-dam-da-dua-com-04225",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu phụ trắng 450 gr (đậu hũ trắng)",
+      "raw_name": "Đậu phụ trắng",
+      "quantity": 450,
+      "unit": "gr",
+      "note": "đậu hũ trắng",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột bắp 4 thìa canh (hoặc bột khoai tây)",
+      "raw_name": "Bột bắp",
+      "quantity": 4,
+      "unit": "thìa canh",
+      "note": "hoặc bột khoai tây",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tương cà 4 thìa canh",
+      "raw_name": "Tương cà",
+      "quantity": 4,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mạch nha 4 thìa canh",
+      "raw_name": "Mạch nha",
+      "quantity": 4,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tương ớt Hàn Quốc 3 muỗng",
+      "raw_name": "Tương ớt Hàn Quốc",
+      "quantity": 3,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hạt bí 1 muỗng",
+      "raw_name": "Hạt bí",
+      "quantity": 1,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:25:02Z",
+  "page_title": "Cách làm đậu phụ sốt cay Hàn Quốc cực ngon đậm đà đưa cơm",
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookProduct/1200dhcg-1200x676-1.jpg"
+}

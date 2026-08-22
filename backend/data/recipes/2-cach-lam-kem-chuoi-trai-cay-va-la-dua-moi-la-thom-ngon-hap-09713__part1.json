@@ -1,0 +1,113 @@
+{
+  "source_id": "09713",
+  "name": "Kem chuối trái cây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a334aa667c3c6cb4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-kem-chuoi-trai-cay-va-la-dua-moi-la-thom-ngon-hap-09713",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-kem-chuoi-trai-cay-va-la-dua-moi-la-thom-ngon-hap-09713",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-kem",
+      "name": "Món kem"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chuối sứ 10 trái",
+      "raw_name": "Chuối sứ",
+      "quantity": 10,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bơ 1 trái",
+      "raw_name": "Bơ",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mít 150 gr",
+      "raw_name": "Mít",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dâu tây 150 gr",
+      "raw_name": "Dâu tây",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cơm dừa 150 gr",
+      "raw_name": "Cơm dừa",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước cốt dừa 600 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 600,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột năng 3 muỗng canh",
+      "raw_name": "Bột năng",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 2.5 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 2.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường 4 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Sữa chua không đường 100 gr",
+      "raw_name": "Sữa chua không đường",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Sữa đặc 100 ml",
+      "raw_name": "Sữa đặc",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:55:21Z",
+  "page_title": "2 cách làm kem chuối trái cây và lá dứa mới lạ thơm ngon hấp dẫn",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/kem-chuoi-trai-cay-thumbnail.jpg"
+}

@@ -1,0 +1,101 @@
+{
+  "source_id": "11625",
+  "name": "Sườn chay kho nấm đông cô",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f5a501af4dea19fe.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-suon-chay-kho-nam-thom-ngon-bat-com-de-lam-tai-nha-11625",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-suon-chay-kho-nam-thom-ngon-bat-com-de-lam-tai-nha-11625",
+  "servings_text": "Cho 4 người ăn",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sườn non chay khô 75 gr",
+      "raw_name": "Sườn non chay khô",
+      "quantity": 75,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm đông cô khô 50 gr",
+      "raw_name": "Nấm đông cô khô",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Củ cải trắng 1 củ (150gr)",
+      "raw_name": "Củ cải trắng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "150gr",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá 4 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 4,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước tương 3 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu hào 2/3 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 0.667,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Xì dầu 2 muỗng canh",
+      "raw_name": "Xì dầu",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu ăn 200 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hạt nêm chay 2/3 muỗng canh",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 0.667,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đường/ tiêu 1 ít",
+      "raw_name": "Đường/ tiêu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:39:18Z",
+  "page_title": "3 cách làm sườn chay kho nấm thơm ngon bắt cơm dễ làm tại nhà",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/suon-chay-kho-nam-dong-co-thumbnail.jpg"
+}

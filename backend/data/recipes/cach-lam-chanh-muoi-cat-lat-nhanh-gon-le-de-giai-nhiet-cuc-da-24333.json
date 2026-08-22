@@ -1,0 +1,43 @@
+{
+  "source_id": "24333",
+  "name": "Chanh muối cắt lát",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3e50d00074875fa4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chanh-muoi-cat-lat-nhanh-gon-le-de-giai-nhiet-cuc-da-24333",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chanh-muoi-cat-lat-nhanh-gon-le-de-giai-nhiet-cuc-da-24333",
+  "servings_text": "Cho 2kg chanh",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chanh tươi 2 kg (có thể dùng chanh vàng hoặc chanh xanh)",
+      "raw_name": "Chanh tươi",
+      "quantity": 2,
+      "unit": "kg",
+      "note": "có thể dùng chanh vàng hoặc chanh xanh",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 2 kg (đường vàng hoặc đường trắng)",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "kg",
+      "note": "đường vàng hoặc đường trắng",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối 200 gr",
+      "raw_name": "Muối",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:46:27Z",
+  "page_title": "Cách làm chanh muối cắt lát nhanh gọn lẹ để giải nhiệt cực đã cho ngày hè",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t04%201200676%20%2838%29.jpg"
+}

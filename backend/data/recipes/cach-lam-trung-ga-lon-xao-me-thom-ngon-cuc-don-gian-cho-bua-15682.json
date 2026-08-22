@@ -1,0 +1,107 @@
+{
+  "source_id": "15682",
+  "name": "Trứng gà lộn xào me",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/447c95c9b30fdd34.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-trung-ga-lon-xao-me-thom-ngon-cuc-don-gian-cho-bua-15682",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-trung-ga-lon-xao-me-thom-ngon-cuc-don-gian-cho-bua-15682",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trứng gà lộn 8 quả (đã luộc chín)",
+      "raw_name": "Trứng gà lộn",
+      "quantity": 8,
+      "unit": "quả",
+      "note": "đã luộc chín",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Me vắt 30 gr",
+      "raw_name": "Me vắt",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 1 muỗng cà phê (băm nhuyễn)",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "băm nhuyễn",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rau răm 6 nhánh",
+      "raw_name": "Rau răm",
+      "quantity": 6,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt cay 1/2 quả",
+      "raw_name": "Ớt cay",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đậu phộng rang 1 ít",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành phi 1 ít",
+      "raw_name": "Hành phi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tương ớt 2 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu hành 1 muỗng canh",
+      "raw_name": "Dầu hành",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đường 2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T19:17:26Z",
+  "page_title": "Cách làm trứng gà lộn xào me thơm ngon cực đơn giản cho bữa ăn xế",
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookDish/cach-lam-trung-ga-lon-xao-me-thom-ngon-cuc-don-gian-cho-bua-avt-1200x676.jpg"
+}

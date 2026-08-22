@@ -1,0 +1,153 @@
+{
+  "source_id": "08999",
+  "name": "Mì trộn thịt bò cay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ebd9905ff18c0608.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-mi-tron-bo-cay-sieu-hap-dan-don-gian-cuc-ngon-08999",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-mi-tron-bo-cay-sieu-hap-dan-don-gian-cuc-ngon-08999",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò 200 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mì tươi đã trụng 400 gr",
+      "raw_name": "Mì tươi đã trụng",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường thốt nốt 2 muỗng canh",
+      "raw_name": "Đường thốt nốt",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tím cắt lát 10 củ",
+      "raw_name": "Hành tím cắt lát",
+      "quantity": 10,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 6 tép",
+      "raw_name": "Tỏi 6 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi băm 1 ít (phi thơm)",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "phi thơm",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt sừng 2 trái (cắt lát)",
+      "raw_name": "Ớt sừng",
+      "quantity": 2,
+      "unit": "trái",
+      "note": "cắt lát",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt bột 30 gr",
+      "raw_name": "Ớt bột",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Trứng lòng đào 1 quả",
+      "raw_name": "Trứng lòng đào",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước tương 1 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Hạt nêm 1 muỗng cà phê",
+      "raw_name": "Hạt nêm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Rau cần 5 nhánh",
+      "raw_name": "Rau cần",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Giá 200 gr",
+      "raw_name": "Giá",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T18:28:30Z",
+  "page_title": "4 cách làm mì trộn bò cay siêu hấp dẫn, đơn giản cực ngon miệng",
+  "variant_index": 1,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookRecipe/Avatar/mi-tron-bo-cay-thumbnail.jpg"
+}

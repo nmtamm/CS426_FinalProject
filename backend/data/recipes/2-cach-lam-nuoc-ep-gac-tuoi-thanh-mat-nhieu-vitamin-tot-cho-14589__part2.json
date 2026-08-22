@@ -1,0 +1,53 @@
+{
+  "source_id": "14589",
+  "name": "Nước ép gấc chanh dây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c26363708bf5b97a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-ep-gac-tuoi-thanh-mat-nhieu-vitamin-tot-cho-14589",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-ep-gac-tuoi-thanh-mat-nhieu-vitamin-tot-cho-14589",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gấc 1 quả (1.2kg)",
+      "raw_name": "Gấc",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "1.2kg",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chanh dây 1 kg",
+      "raw_name": "Chanh dây",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường phèn 600 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 600,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước lọc 4 lít",
+      "raw_name": "Nước lọc 4 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:12:32Z",
+  "page_title": "2 cách làm nước ép gấc tươi thanh mát nhiều vitamin tốt cho sức khỏe mắt",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/nuoc-ep-gac-chanh-day-thumbnail.jpg"
+}

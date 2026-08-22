@@ -1,0 +1,97 @@
+{
+  "source_id": "05182",
+  "name": "Gà hầm sâm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/46592319cef9ab30.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-ga-ham-sam-la-ngai-cuu-bo-duong-thom-ngon-cho-gia-05182",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-ga-ham-sam-la-ngai-cuu-bo-duong-thom-ngon-cho-gia-05182",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-canh",
+      "name": "Món canh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà ta 1.5 kg (1 con)",
+      "raw_name": "Gà ta",
+      "quantity": 1.5,
+      "unit": "kg",
+      "note": "1 con",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sâm tươi 200 gr",
+      "raw_name": "Sâm tươi",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gạo nếp 50 gr",
+      "raw_name": "Gạo nếp",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hạt sen 30 gr",
+      "raw_name": "Hạt sen",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Táo đỏ 9 quả",
+      "raw_name": "Táo đỏ",
+      "quantity": 9,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành boa rô 1 cây",
+      "raw_name": "Hành boa rô",
+      "quantity": 1,
+      "unit": "cây",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tỏi 15 củ",
+      "raw_name": "Tỏi",
+      "quantity": 15,
+      "unit": "củ",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:14:21Z",
+  "page_title": "3 cách nấu gà hầm sâm, lá ngải cứu, bào ngư thơm ngon cho gia đình",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://img.youtube.com/vi/oRzfRFY811Q/maxresdefault.jpg"
+}

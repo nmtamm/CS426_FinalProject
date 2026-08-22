@@ -1,0 +1,69 @@
+{
+  "source_id": "03905",
+  "name": "Thạch xoài đào bưởi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/69bd3a18981940b5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thach-xoai-dao-buoi-chua-ngot-gion-tan-dep-mat-03905",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thach-xoai-dao-buoi-chua-ngot-gion-tan-dep-mat-03905",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Xoài chín 2 trái",
+      "raw_name": "Xoài chín",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bưởi 100 gr",
+      "raw_name": "Bưởi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Siro đào 100 ml",
+      "raw_name": "Siro đào",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột gelatin 2 muỗng cà phê",
+      "raw_name": "Bột gelatin",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cốt chanh 10 ml",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:22:23Z",
+  "page_title": "3 cách làm thạch xoài ngon đơn giản dai mềm, núng nính cực thích",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookRecipe/Avatar/thach-xoai-dao-buoi-thumbnail.jpg"
+}

@@ -1,0 +1,111 @@
+{
+  "source_id": "02559",
+  "name": "Mì sầu riêng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5b06d4d2a968cd4f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-mi-sau-rieng-thom-ngon-beo-ngay-cuc-la-mieng-02559",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-mi-sau-rieng-thom-ngon-beo-ngay-cuc-la-mieng-02559",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt sầu riêng 400 gr",
+      "raw_name": "Thịt sầu riêng",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường thốt nốt 300 gr",
+      "raw_name": "Đường thốt nốt",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu phộng rang 30 gr (lạc rang)",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 30,
+      "unit": "gr",
+      "note": "lạc rang",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột năng 30 gr",
+      "raw_name": "Bột năng",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Trân châu trắng 100 gr",
+      "raw_name": "Trân châu trắng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Mè rang 30 gr (vừng rang)",
+      "raw_name": "Mè rang",
+      "quantity": 30,
+      "unit": "gr",
+      "note": "vừng rang",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Thạch đen 100 gr",
+      "raw_name": "Thạch đen",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột mì đa dụng 200 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước cốt dừa 200 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Lá dứa 40 gr",
+      "raw_name": "Lá dứa",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Muối 30 gr",
+      "raw_name": "Muối",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T19:08:51Z",
+  "page_title": "Cách làm món mì sầu riêng thơm ngon, béo ngậy, cực lạ miệng",
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookProduct/43-1200x676.jpg"
+}

@@ -1,0 +1,151 @@
+{
+  "source_id": "12542",
+  "name": "Lưỡi bò kho cà rốt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8b31fb6692d702b8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-luoi-bo-kho-ca-rot-don-gian-thom-lung-hap-dan-an-la-12542",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-luoi-bo-kho-ca-rot-don-gian-thom-lung-hap-dan-an-la-12542",
+  "servings_text": "Cho 3",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-kho",
+      "name": "Món kho"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lưỡi bò 1 cái (khoảng 1.5kg)",
+      "raw_name": "Lưỡi bò",
+      "quantity": 1,
+      "unit": "cái",
+      "note": "khoảng 1.5kg",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột gia vị bò kho 25 g",
+      "raw_name": "Bột gia vị bò kho",
+      "quantity": 25,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rượu 1 ít",
+      "raw_name": "Rượu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng 2 củ",
+      "raw_name": "Gừng",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tây 2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hạt nêm 2 muỗng cà phê",
+      "raw_name": "Hạt nêm",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 1 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hành tím 4 củ",
+      "raw_name": "Hành tím",
+      "quantity": 4,
+      "unit": "củ",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Sa tế tôm 2 hộp (hũ)",
+      "raw_name": "Sa tế tôm",
+      "quantity": 2,
+      "unit": "hộp",
+      "note": "hũ",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Hoa quế hồi 1 ít",
+      "raw_name": "Hoa quế hồi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Quế khô 1 ít",
+      "raw_name": "Quế khô",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Cà rốt 3 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Tỏi 3 củ",
+      "raw_name": "Tỏi",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Dừa 1 trái (lấy nước)",
+      "raw_name": "Dừa",
+      "quantity": 1,
+      "unit": "trái",
+      "note": "lấy nước",
+      "display_order": 15
+    },
+    {
+      "raw_text": "Bột bắp 1 muỗng canh",
+      "raw_name": "Bột bắp",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T18:28:11Z",
+  "page_title": "Cách làm lưỡi bò kho cà rốt đơn giản thơm lừng hấp dẫn ăn là ghiền",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/2-1200x676-7.jpg"
+}

@@ -1,0 +1,69 @@
+{
+  "source_id": "15027",
+  "name": "Ca cao đá",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a70490fb2aac539b.png",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-ca-cao-da-thom-beo-giai-khat-cuc-da-ai-cung-ghien-15027",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-ca-cao-da-thom-beo-giai-khat-cuc-da-ai-cung-ghien-15027",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột ca cao 3 muỗng canh",
+      "raw_name": "Bột ca cao",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa đặc 30 ml",
+      "raw_name": "Sữa đặc",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa tươi 120 ml",
+      "raw_name": "Sữa tươi",
+      "quantity": 120,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Thạch cà phê 1 ít (hoặc thạch socola)",
+      "raw_name": "Thạch cà phê",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hoặc thạch socola",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước nóng 50 ml",
+      "raw_name": "Nước nóng",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đá bào 1 ít",
+      "raw_name": "Đá bào",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:58:59Z",
+  "page_title": "3 cách làm ca cao đá thơm béo giải khát cực đã ai cũng ghiền",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/ca-cao-da-thumbnail.png"
+}

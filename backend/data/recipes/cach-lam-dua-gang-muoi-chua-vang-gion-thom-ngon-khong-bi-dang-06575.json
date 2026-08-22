@@ -1,0 +1,55 @@
+{
+  "source_id": "06575",
+  "name": "Dưa gang muối chua",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b4ffafd59a832035.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dua-gang-muoi-chua-vang-gion-thom-ngon-khong-bi-dang-06575",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dua-gang-muoi-chua-vang-gion-thom-ngon-khong-bi-dang-06575",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    },
+    {
+      "slug": "meo-vao-bep",
+      "name": "Mẹo vào bếp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa gang non 3 trái",
+      "raw_name": "Dưa gang non",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 50 gr",
+      "raw_name": "Đường",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối hột 100 gr",
+      "raw_name": "Muối hột",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối ăn 1 ít",
+      "raw_name": "Muối ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:31:32Z",
+  "page_title": "Cách làm dưa gang muối chua vàng giòn thơm ngon không bị đắng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/16-1200x676.jpg"
+}

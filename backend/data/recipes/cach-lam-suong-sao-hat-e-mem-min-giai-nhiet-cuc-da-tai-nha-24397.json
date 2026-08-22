@@ -1,0 +1,51 @@
+{
+  "source_id": "24397",
+  "name": "sương sáo hạt é",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1f5e653a0f7568bd.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-suong-sao-hat-e-mem-min-giai-nhiet-cuc-da-tai-nha-24397",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-suong-sao-hat-e-mem-min-giai-nhiet-cuc-da-tai-nha-24397",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột sương sáo 2 gói",
+      "raw_name": "Bột sương sáo",
+      "quantity": 2,
+      "unit": "gói",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hạt é 50 gr",
+      "raw_name": "Hạt é",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 700 gr",
+      "raw_name": "Đường",
+      "quantity": 700,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:13:14Z",
+  "page_title": "Cách làm sương sáo hạt é mềm mịn, giải nhiệt cực đã tại nhà!",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/s%C6%B0%C6%A1ng%20s%C3%A1o%20h%E1%BA%A1t%20%C3%A9%201200x676.jpg"
+}

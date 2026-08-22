@@ -1,0 +1,119 @@
+{
+  "source_id": "01675",
+  "name": "Bánh Biscotti",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3e636df5a6932999.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-biscotti-an-kieng-gion-tan-thom-ngon-01675",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-biscotti-an-kieng-gion-tan-thom-ngon-01675",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì nguyên cám 100 gr",
+      "raw_name": "Bột mì nguyên cám",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột nở 2 gr (baking powder)",
+      "raw_name": "Bột nở",
+      "quantity": 2,
+      "unit": "gr",
+      "note": "baking powder",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu phộng 10 gr",
+      "raw_name": "Đậu phộng",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bơ lạt 20 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hạnh nhân 10 gr",
+      "raw_name": "Hạnh nhân",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hạt óc chó 10 gr",
+      "raw_name": "Hạt óc chó",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hạt bí 10 gr",
+      "raw_name": "Hạt bí",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hạt điều 10 gr",
+      "raw_name": "Hạt điều",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nho khô 10 gr (việt quất/ mơ)",
+      "raw_name": "Nho khô",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "việt quất/ mơ",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Trứng gà 1 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Vỏ chanh 1 miếng",
+      "raw_name": "Vỏ chanh 1 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Đường 1 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T19:03:14Z",
+  "page_title": "Cách làm bánh biscotti ăn kiêng giòn tan để được lâu, thơm ngon siêu dễ",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookDish/cach-lam-banh-biscotti-an-kieng-gion-tan-thom-ngon-avt-1200x676.jpg"
+}

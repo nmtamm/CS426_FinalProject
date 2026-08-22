@@ -1,0 +1,67 @@
+{
+  "source_id": "13113",
+  "name": "Nộm mực khô hoa chuối",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2c656d3d6039d89e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nom-muc-kho-hoa-chuoi-ngon-ngat-ngay-khong-bi-tham-13113",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nom-muc-kho-hoa-chuoi-ngon-ngat-ngay-khong-bi-tham-13113",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mực khô 400 gr (3 con)",
+      "raw_name": "Mực khô",
+      "quantity": 400,
+      "unit": "gr",
+      "note": "3 con",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bắp chuối 500 gr (1 bắp)",
+      "raw_name": "Bắp chuối",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "1 bắp",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Khế 3 trái",
+      "raw_name": "Khế",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Húng quế 100 gr",
+      "raw_name": "Húng quế",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt 2 trái",
+      "raw_name": "Ớt",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường/ muối 1 ít",
+      "raw_name": "Đường/ muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T17:57:52Z",
+  "page_title": "Cách làm nộm mực khô hoa chuối ngon ngất ngây, không bị thâm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookProduct/Nommuckhohoachuoi(2)-1200x676.jpg"
+}

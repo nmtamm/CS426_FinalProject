@@ -1,0 +1,49 @@
+{
+  "source_id": "22592",
+  "name": "Ginger shot với cần tây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5b49f81679ee6aed.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cong-thuc-lam-ginger-shot-dep-da-moi-ngay-voi-may-ep-cham-22592",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cong-thuc-lam-ginger-shot-dep-da-moi-ngay-voi-may-ep-cham-22592",
+  "servings_text": "Cho 7 - 10 shot",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gừng tươi 250 gr",
+      "raw_name": "Gừng tươi",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cần tây 2 nhánh (khoảng 100gr)",
+      "raw_name": "Cần tây",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": "khoảng 100gr",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chanh vàng 1.5 quả",
+      "raw_name": "Chanh vàng",
+      "quantity": 1.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:52:16Z",
+  "page_title": "3 công thức làm ginger shot đẹp da mỗi ngày với máy ép chậm hoặc máy xay",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2025/03/CookRecipe/Avatar/ginger-shot-voi-can-tay-thumbnail.jpg"
+}

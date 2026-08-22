@@ -1,0 +1,75 @@
+{
+  "source_id": "12739",
+  "name": "Bánh trung thu không nhân",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/fc31ebedacd03f8b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-khong-nhan-don-gian-tai-nha-don-hoi-12739",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-khong-nhan-don-gian-tai-nha-don-hoi-12739",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì đa dụng 200 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bơ đậu phộng 5 gr",
+      "raw_name": "Bơ đậu phộng",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước đường bánh nướng 144 gr",
+      "raw_name": "Nước đường bánh nướng",
+      "quantity": 144,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rượu mai quế lộ 5 ml",
+      "raw_name": "Rượu mai quế lộ",
+      "quantity": 5,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Trứng gà 1 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu mè 1 muỗng canh",
+      "raw_name": "Dầu mè",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 36 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 36,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:41:58Z",
+  "page_title": "Cách làm bánh Trung Thu không nhân đơn giản tại nhà đón hội Trăng Rằm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/1200-1200x676-70.jpg"
+}

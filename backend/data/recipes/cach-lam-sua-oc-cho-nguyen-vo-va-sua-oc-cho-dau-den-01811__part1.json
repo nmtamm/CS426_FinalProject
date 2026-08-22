@@ -1,0 +1,45 @@
+{
+  "source_id": "01811",
+  "name": "Sữa óc chó đậu đen",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a0782facabba1b46.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-oc-cho-nguyen-vo-va-sua-oc-cho-dau-den-01811",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-oc-cho-nguyen-vo-va-sua-oc-cho-dau-den-01811",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hạt óc chó 200 gr",
+      "raw_name": "Hạt óc chó",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu đen 100 gr",
+      "raw_name": "Đậu đen",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước lọc 1.5 lít",
+      "raw_name": "Nước lọc 1.5 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T20:04:15Z",
+  "page_title": "4 cách làm sữa óc chó đậu đen béo bùi thơm ngon bổ dưỡng cho cả nhà",
+  "variant_index": 1,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/sua-oc-cho-dau-den-thumbnail.jpg"
+}

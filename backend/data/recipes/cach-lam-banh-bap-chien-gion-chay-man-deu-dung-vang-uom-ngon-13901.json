@@ -1,0 +1,87 @@
+{
+  "source_id": "13901",
+  "name": "Bánh bắp chiên giòn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8019a9710b74bc2b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-bap-chien-gion-chay-man-deu-dung-vang-uom-ngon-13901",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-bap-chien-gion-chay-man-deu-dung-vang-uom-ngon-13901",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột chiên giòn 3 muỗng canh",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột gạo 2 muỗng canh",
+      "raw_name": "Bột gạo",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bắp Mỹ 2 trái (đã tách hạt)",
+      "raw_name": "Bắp Mỹ",
+      "quantity": 2,
+      "unit": "trái",
+      "note": "đã tách hạt",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá 2 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt 1 trái",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 150 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hạt nêm chay 1 muỗng cà phê",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tiêu xay 1 muỗng cà phê",
+      "raw_name": "Tiêu xay",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:38:19Z",
+  "page_title": "Cách làm bánh bắp chiên giòn chay mặn đều dùng, vàng ươm ngon khó cưỡng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookDish/cach-lam-banh-bap-chien-gion-chay-man-deu-dung-vang-uom-ngon-avt-1200x676.jpg"
+}

@@ -1,0 +1,51 @@
+{
+  "source_id": "04082",
+  "name": "Kẹo dừa nạo phủ socola",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9d42e8bae01a9317.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-keo-dua-nao-phu-chocolate-beo-ngay-ngon-tuyet-04082",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-keo-dua-nao-phu-chocolate-beo-ngay-ngon-tuyet-04082",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dừa khô nạo 30 gr",
+      "raw_name": "Dừa khô nạo",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Socola 200 gr (65% cacao trở lên)",
+      "raw_name": "Socola",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "65% cacao trở lên",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bơ 40 gr",
+      "raw_name": "Bơ",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa đặc có đường 50 gr",
+      "raw_name": "Sữa đặc có đường",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:25:17Z",
+  "page_title": "Cách làm kẹo dừa nạo phủ chocolate béo ngậy, ngon tuyệt",
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookProduct/36-1200x676.jpg"
+}

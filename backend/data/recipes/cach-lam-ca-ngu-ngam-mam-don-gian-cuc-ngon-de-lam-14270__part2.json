@@ -1,0 +1,70 @@
+{
+  "source_id": "14270",
+  "name": "Cá ngừ ngâm mắm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7e9e8938b2443ca8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-ngu-ngam-mam-don-gian-cuc-ngon-de-lam-14270",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-ngu-ngam-mam-don-gian-cuc-ngon-de-lam-14270",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cá ngừ 800 gr (3 khúc to)",
+      "raw_name": "Cá ngừ",
+      "quantity": 800,
+      "unit": "gr",
+      "note": "3 khúc to",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tiêu xanh 2 nhánh",
+      "raw_name": "Tiêu xanh",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước mắm 150 ml",
+      "raw_name": "Nước mắm",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 150 gr",
+      "raw_name": "Đường",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt 4 quả (ớt đỏ và xanh)",
+      "raw_name": "Ớt",
+      "quantity": 4,
+      "unit": "quả",
+      "note": "ớt đỏ và xanh",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:31:20Z",
+  "page_title": "2 cách làm cá ngừ ngâm mắm đơn giản cực ngon dễ làm",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "công thức chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2022/06/CookRecipe/Avatar/ca-ngu-ngam-mam-thumbnail.jpg"
+}

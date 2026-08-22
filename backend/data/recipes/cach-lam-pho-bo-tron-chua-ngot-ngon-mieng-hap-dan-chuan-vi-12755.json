@@ -1,0 +1,135 @@
+{
+  "source_id": "12755",
+  "name": "Phở bò trộn chua ngọt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/167cc1bd62b2e61f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-pho-bo-tron-chua-ngot-ngon-mieng-hap-dan-chuan-vi-12755",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-pho-bo-tron-chua-ngot-ngon-mieng-hap-dan-chuan-vi-12755",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh phở 1 kg",
+      "raw_name": "Bánh phở",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt bò 200 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đu đủ xanh 150 gr",
+      "raw_name": "Đu đủ xanh",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Giá đỗ 150 gr",
+      "raw_name": "Giá đỗ",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đậu phộng rang 100 gr",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi băm 4 muỗng cà phê",
+      "raw_name": "Tỏi băm",
+      "quantity": 4,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt băm 1 muỗng cà phê",
+      "raw_name": "Ớt băm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rau xà lách 300 gr",
+      "raw_name": "Rau xà lách",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Giấm 3 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng cà phê",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Hạt nêm/ Đường/ Tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Hạt nêm/ Đường/ Tiêu xay",
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T18:21:11Z",
+  "page_title": "Cách làm phở bò trộn chua ngọt ngon miệng hấp dẫn chuẩn vị tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/1200(1)-1200x676-3.jpg"
+}

@@ -1,0 +1,107 @@
+{
+  "source_id": "00439",
+  "name": "Gỏi cuốn tôm thịt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/65a5082a2b778b5c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/mach-ban-cach-lam-goi-cuon-tom-thit-thom-ngon-cho-ngay-tet-00439",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/mach-ban-cach-lam-goi-cuon-tom-thit-thom-ngon-cho-ngay-tet-00439",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt heo 300 gr",
+      "raw_name": "Thịt heo",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tôm 300 gr",
+      "raw_name": "Tôm",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hẹ 10 nhánh",
+      "raw_name": "Hẹ",
+      "quantity": 10,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt 2 trái",
+      "raw_name": "Ớt",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bún tươi 200 gr",
+      "raw_name": "Bún tươi",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bánh tráng mỏng 300 gr",
+      "raw_name": "Bánh tráng mỏng",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước cốt chanh 3 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rau ăn kèm 1 ít (Húng lủi/ tía tô/ xà lách)",
+      "raw_name": "Rau ăn kèm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Húng lủi/ tía tô/ xà lách",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước mắm 5 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Muối/ đường 1 ít",
+      "raw_name": "Muối/ đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T19:05:27Z",
+  "page_title": "Cách làm gỏi cuốn tôm thịt, ngon, dễ thực hiện ngay tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/z262692910475431f8fbc533ea57bff69e5e86a005e04a1200-1200x676.jpg"
+}

@@ -1,0 +1,77 @@
+{
+  "source_id": "10008",
+  "name": "Nước sốt bánh mì chay cà chua",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4942ee953aaaa80a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-sot-banh-mi-chay-moi-la-thom-ngon-ai-cung-lam-10008",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-sot-banh-mi-chay-moi-la-thom-ngon-ai-cung-lam-10008",
+  "servings_text": "Cho 6 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cà chua 3 trái",
+      "raw_name": "Cà chua",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm đùi gà 100 gr",
+      "raw_name": "Nấm đùi gà",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tím 2 củ",
+      "raw_name": "Hành tím",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu hào chay 1 muỗng canh",
+      "raw_name": "Dầu hào chay",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột ngũ vị hương 1/2 muỗng cà phê",
+      "raw_name": "Bột ngũ vị hương",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ hạt nêm",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:20:51Z",
+  "page_title": "2 cách làm nước sốt bánh mì chay mới lạ thơm ngon ai cũng làm được",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/nuoc-sot-banh-mi-chay-ca-chua-nam-thumbnail.jpg"
+}

@@ -1,0 +1,139 @@
+{
+  "source_id": "23242",
+  "name": "Hủ tiếu xào bò",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/022b7151fcbfd472.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-hu-tieu-xao-bo-kho-dam-da-chuan-vi-nhu-nha-hang-23242",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-hu-tieu-xao-bo-kho-dam-da-chuan-vi-nhu-nha-hang-23242",
+  "servings_text": "Cho 2 - 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò phi lê 500 gr",
+      "raw_name": "Thịt bò phi lê",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sợi phở khô 400 gr (hoặc hủ tiếu khô bản lớn)",
+      "raw_name": "Sợi phở khô",
+      "quantity": 400,
+      "unit": "gr",
+      "note": "hoặc hủ tiếu khô bản lớn",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cải thìa 250 gr",
+      "raw_name": "Cải thìa",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Giá đỗ 50 gr",
+      "raw_name": "Giá đỗ",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Củ hành tây 50 gr",
+      "raw_name": "Củ hành tây",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gừng 10 gr",
+      "raw_name": "Gừng",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi 3 tép",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột ngũ vị hương 1/2 muỗng cà phê",
+      "raw_name": "Bột ngũ vị hương",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối nở 1/2 muỗng cà phê (baking soda)",
+      "raw_name": "Muối nở",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": "baking soda",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tinh bột khoai tây 1/2 muỗng canh (hoặc bột năng)",
+      "raw_name": "Tinh bột khoai tây",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": "hoặc bột năng",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước tương 2.5 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 2.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Hắc xì dầu 1 muỗng canh",
+      "raw_name": "Hắc xì dầu",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu hào 2.5 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 2.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Nước tro tàu 1/2 muỗng cà phê (tùy chọn)",
+      "raw_name": "Nước tro tàu",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": "tùy chọn",
+      "display_order": 14
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ bột ngọt/ dầu ăn/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ bột ngọt/ dầu ăn/ tiêu xay",
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T18:22:04Z",
+  "page_title": "Cách làm món hủ tiếu xào bò khô đậm đà, chuẩn vị như nhà hàng người Hoa",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20thumb%20to%20t9%20%2811%29.jpg"
+}

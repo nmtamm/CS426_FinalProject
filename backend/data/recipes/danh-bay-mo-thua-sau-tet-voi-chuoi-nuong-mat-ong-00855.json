@@ -1,0 +1,43 @@
+{
+  "source_id": "00855",
+  "name": "Chuối nướng mật ong",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b295b36749dbdd7f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/danh-bay-mo-thua-sau-tet-voi-chuoi-nuong-mat-ong-00855",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/danh-bay-mo-thua-sau-tet-voi-chuoi-nuong-mat-ong-00855",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chuối tiêu 3 quả",
+      "raw_name": "Chuối tiêu",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chanh 1 quả",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mật ong 1 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:42:40Z",
+  "page_title": "Đánh bay mỡ thừa sau tết với chuối nướng mật ong",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2018/02/05/1064828/danh-bay-mo-thua-sau-tet-voi-chuoi-nuong-mat-ong-760x367.jpg"
+}

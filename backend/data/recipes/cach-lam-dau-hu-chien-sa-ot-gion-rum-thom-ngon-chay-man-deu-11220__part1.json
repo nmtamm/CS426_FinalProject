@@ -1,0 +1,53 @@
+{
+  "source_id": "11220",
+  "name": "Đậu hũ chiên sả ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/fdce06115235175f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-hu-chien-sa-ot-gion-rum-thom-ngon-chay-man-deu-11220",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-hu-chien-sa-ot-gion-rum-thom-ngon-chay-man-deu-11220",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu hũ trắng 400 gr (khoảng 4 - 5 miếng)",
+      "raw_name": "Đậu hũ trắng",
+      "quantity": 400,
+      "unit": "gr",
+      "note": "khoảng 4 - 5 miếng",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sả 7 nhánh",
+      "raw_name": "Sả",
+      "quantity": 7,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt tươi 10 quả",
+      "raw_name": "Ớt tươi",
+      "quantity": 10,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 130 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 130,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T18:44:16Z",
+  "page_title": "3 cách làm đậu hũ chiên sả ớt ngon, giòn rụm chay mặn đều dùng được",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookRecipe/Avatar/dau-hu-chien-sa-ot-thumbnail.jpg"
+}

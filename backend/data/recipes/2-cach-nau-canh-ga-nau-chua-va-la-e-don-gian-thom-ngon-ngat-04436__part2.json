@@ -1,0 +1,137 @@
+{
+  "source_id": "04436",
+  "name": "Canh gà lá é",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e939afe23a8d7a7d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-canh-ga-nau-chua-va-la-e-don-gian-thom-ngon-ngat-04436",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-canh-ga-nau-chua-va-la-e-don-gian-thom-ngon-ngat-04436",
+  "servings_text": "Cho 2 - 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-canh",
+      "name": "Món canh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà ta 1/2 con",
+      "raw_name": "Gà ta 1/2 con",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lá é trắng 100 gr",
+      "raw_name": "Lá é trắng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Măng tươi bào 250 gr",
+      "raw_name": "Măng tươi bào",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt hiểm xanh 5 trái",
+      "raw_name": "Ớt hiểm xanh",
+      "quantity": 5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt sừng đỏ 1 trái",
+      "raw_name": "Ớt sừng đỏ",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước dùng gà 1.5 lít",
+      "raw_name": "Nước dùng gà 1.5 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi băm 2 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành tím băm 2 muỗng canh",
+      "raw_name": "Hành tím băm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị 1 ít (muối/ đường/)",
+      "raw_name": "Gia vị",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Bột canh 4 muỗng cà phê",
+      "raw_name": "Bột canh",
+      "quantity": 4,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước cốt chanh 2 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Dầu tỏi 1 muỗng canh",
+      "raw_name": "Dầu tỏi",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T18:08:39Z",
+  "page_title": "2 Cách nấu canh gà nấu chua và lá é đơn giản, thơm ngon ngất ngây",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/canh-ga-la-e-thumbnail.jpg"
+}

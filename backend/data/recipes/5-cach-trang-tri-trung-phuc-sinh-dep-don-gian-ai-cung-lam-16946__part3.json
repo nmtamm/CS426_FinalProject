@@ -1,0 +1,61 @@
+{
+  "source_id": "16946",
+  "name": "Trang trí trứng màu kẹo marshmallow",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/26afe82202cc8792.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/5-cach-trang-tri-trung-phuc-sinh-dep-don-gian-ai-cung-lam-16946",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/5-cach-trang-tri-trung-phuc-sinh-dep-don-gian-ai-cung-lam-16946",
+  "servings_text": "Cho 6 cái",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Kẹo Mashmallow 30 cái (3 màu khác nhau)",
+      "raw_name": "Kẹo Mashmallow",
+      "quantity": 30,
+      "unit": "cái",
+      "note": "3 màu khác nhau",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ngũ cốc 60 gr",
+      "raw_name": "Ngũ cốc",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Kẹo sprinkle 50 gr",
+      "raw_name": "Kẹo sprinkle",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Kẹo socola 50 gr",
+      "raw_name": "Kẹo socola",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bơ lạt 1 muỗng cà phê",
+      "raw_name": "Bơ lạt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:36:40Z",
+  "page_title": "5 cách trang trí trứng Phục Sinh đẹp, đơn giản ai cũng làm được",
+  "variant_index": 3,
+  "variant_count": 5,
+  "original_image_url": "https://cdn.tgdd.vn/2022/03/CookRecipe/Avatar/trang-tri-trung-mau-keo-marshmallow-thumbnail.jpg"
+}

@@ -1,0 +1,149 @@
+{
+  "source_id": "06807",
+  "name": "Bánh kem socola hình trái tim",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f3ec93d62d7686b5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-kem-dau-tay-socola-hinh-trai-tim-don-gian-cho-06807",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-kem-dau-tay-socola-hinh-trai-tim-don-gian-cho-06807",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì đa dụng 85 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 85,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Baking powder 5 gr (bột nở)",
+      "raw_name": "Baking powder",
+      "quantity": 5,
+      "unit": "gr",
+      "note": "bột nở",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Baking soda 3 gr (muối nở)",
+      "raw_name": "Baking soda",
+      "quantity": 3,
+      "unit": "gr",
+      "note": "muối nở",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột cacao 42 gr (loại nguyên chất không ngọt)",
+      "raw_name": "Bột cacao",
+      "quantity": 42,
+      "unit": "gr",
+      "note": "loại nguyên chất không ngọt",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bơ lạt 25 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 25,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Cream of tartar 1/4 muỗng cà phê (hoặc 1/2 muỗng cà phê nước cốt chanh)",
+      "raw_name": "Cream of tartar",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": "hoặc 1/2 muỗng cà phê nước cốt chanh",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Heavy cream 300 ml (hoặc Whipping cream)",
+      "raw_name": "Heavy cream",
+      "quantity": 300,
+      "unit": "ml",
+      "note": "hoặc Whipping cream",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Socola 230 gr",
+      "raw_name": "Socola",
+      "quantity": 230,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Trứng gà 4 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 4,
+      "unit": "quả",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Rượu Rum 1 muỗng canh (nếu có)",
+      "raw_name": "Rượu Rum",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "nếu có",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Cà phê 80 ml (hoặc nước lọc)",
+      "raw_name": "Cà phê",
+      "quantity": 80,
+      "unit": "ml",
+      "note": "hoặc nước lọc",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Tinh chất vani 2 muỗng cà phê",
+      "raw_name": "Tinh chất vani",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Socola 10 cái (để trang trí)",
+      "raw_name": "Socola",
+      "quantity": 10,
+      "unit": "cái",
+      "note": "để trang trí",
+      "display_order": 13
+    },
+    {
+      "raw_text": "Dầu ăn 120 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 120,
+      "unit": "ml",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Đường 225 gr",
+      "raw_name": "Đường",
+      "quantity": 225,
+      "unit": "gr",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Muối 1/4 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T19:41:00Z",
+  "page_title": "4 cách làm bánh kem trái tim đơn giản đẹp mắt thơm ngon tặng mẹ ngày 20/10",
+  "variant_index": 1,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/banh-kem-socola-hinh-trai-tim-thumbnail-1.jpg"
+}

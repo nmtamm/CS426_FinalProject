@@ -1,0 +1,73 @@
+{
+  "source_id": "03084",
+  "name": "Nước chấm chân gà nướng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/89a64bf5b1f746c6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-cham-chan-ga-don-gian-thom-ngon-dung-dieu-03084",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-cham-chan-ga-don-gian-thom-ngon-dung-dieu-03084",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "meo-vao-bep",
+      "name": "Mẹo vào bếp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ớt xanh 10 trái",
+      "raw_name": "Ớt xanh",
+      "quantity": 10,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối 2 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường cát trắng 2 muỗng cà phê",
+      "raw_name": "Đường cát trắng",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mì chính 1 muỗng cà phê",
+      "raw_name": "Mì chính",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chanh tươi 1 trái",
+      "raw_name": "Chanh tươi",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lá chanh 20 gr",
+      "raw_name": "Lá chanh",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:26:35Z",
+  "page_title": "2 Cách làm nước chấm chân gà đơn giản thơm ngon đúng điệu",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/nuoc-cham-chan-ga-nuong-thumbnail.jpg"
+}

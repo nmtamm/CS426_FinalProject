@@ -1,0 +1,137 @@
+{
+  "source_id": "08428",
+  "name": "Phở xào thịt gà",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/557dbbdd0f8eb9d1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-pho-xao-ga-thom-ngon-la-mieng-don-gian-de-lam-08428",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-pho-xao-ga-thom-ngon-la-mieng-don-gian-de-lam-08428",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh phở 150 gr (khô)",
+      "raw_name": "Bánh phở",
+      "quantity": 150,
+      "unit": "gr",
+      "note": "khô",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt gà 200 gr (ức)",
+      "raw_name": "Thịt gà",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "ức",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rau cải 200 gr",
+      "raw_name": "Rau cải",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt chuông 1 quả",
+      "raw_name": "Ớt chuông",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Giá 100 gr",
+      "raw_name": "Giá",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành boa rô 1 nhánh",
+      "raw_name": "Hành boa rô",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tỏi 3 tép",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột bắp 1 muỗng cà phê",
+      "raw_name": "Bột bắp",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bột nở 1/3 muỗng cà phê",
+      "raw_name": "Bột nở",
+      "quantity": 0.333,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước tương 4 muỗng cà phê",
+      "raw_name": "Nước tương",
+      "quantity": 4,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng cà phê",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T18:18:52Z",
+  "page_title": "2 cách làm phở xào gà thơm ngon lạ miệng đơn giản dễ làm",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/pho-xao-thit-ga-thumbnail-3.jpg"
+}

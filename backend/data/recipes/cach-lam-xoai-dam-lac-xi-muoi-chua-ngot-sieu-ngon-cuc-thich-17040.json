@@ -1,0 +1,59 @@
+{
+  "source_id": "17040",
+  "name": "Xoài dầm (lắc) xí muội",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/93df3447acb91757.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-xoai-dam-lac-xi-muoi-chua-ngot-sieu-ngon-cuc-thich-17040",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-xoai-dam-lac-xi-muoi-chua-ngot-sieu-ngon-cuc-thich-17040",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Xoài xanh 1 quả",
+      "raw_name": "Xoài xanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối ô mai 1 muỗng cà phê (muối xí muội)",
+      "raw_name": "Muối ô mai",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "muối xí muội",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột ớt 1/2 muỗng cà phê (nếu có)",
+      "raw_name": "Bột ớt",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": "nếu có",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 2 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:15:34Z",
+  "page_title": "Cách làm xoài dầm (lắc) xí muội chua ngọt, siêu ngon cực thích",
+  "original_image_url": "https://cdn.tgdd.vn/2022/04/CookDish/cach-lam-xoai-dam-lac-xi-muoi-chua-ngot-sieu-ngon-cuc-thich-avt-1200x676.jpg"
+}

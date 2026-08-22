@@ -1,0 +1,85 @@
+{
+  "source_id": "12643",
+  "name": "Trà tắc mật ong nha đam",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f3b454bda5f56432.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-tac-mat-ong-thanh-mat-thom-ngon-giai-nhiet-ngay-12643",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-tac-mat-ong-thanh-mat-thom-ngon-giai-nhiet-ngay-12643",
+  "servings_text": "Cho 5 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lá trà xanh 200 gr",
+      "raw_name": "Lá trà xanh",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tắc 20 trái",
+      "raw_name": "Tắc",
+      "quantity": 20,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nha đam 2 nhánh",
+      "raw_name": "Nha đam",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chanh 1/2 trái",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Mật ong 2 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường thốt nốt 4 miếng",
+      "raw_name": "Đường thốt nốt 4 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 4 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:04:01Z",
+  "page_title": "3 Cách làm trà tắc mật ong thanh mát thơm ngon giải nhiệt ngày nắng nóng",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/tra-tac-mat-ong-nha-dam-thumbnail.jpg"
+}

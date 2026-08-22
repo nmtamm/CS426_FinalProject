@@ -1,0 +1,75 @@
+{
+  "source_id": "23042",
+  "name": "Đồ chua bánh mì",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f315093310c99290.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-do-chua-banh-mi-trong-5-phut-chi-bang-hop-dung-thuc-23042",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-do-chua-banh-mi-trong-5-phut-chi-bang-hop-dung-thuc-23042",
+  "servings_text": "Cho 1.05kg củ cà rốt và 1.05kg củ cải trắng",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đường cát 250 gr",
+      "raw_name": "Đường cát",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Giấm gạo 500 ml (tự nuôi hoặc mua từ chợ)",
+      "raw_name": "Giấm gạo",
+      "quantity": 500,
+      "unit": "ml",
+      "note": "tự nuôi hoặc mua từ chợ",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng cà phê (dùng cho nước ngâm)",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": "dùng cho nước ngâm",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Củ cải trắng 1.05 kg (sau khi gọt còn khoảng 1kg)",
+      "raw_name": "Củ cải trắng",
+      "quantity": 1.05,
+      "unit": "kg",
+      "note": "sau khi gọt còn khoảng 1kg",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cà rốt 1.05 kg (sau khi gọt còn khoảng 1kg)",
+      "raw_name": "Cà rốt",
+      "quantity": 1.05,
+      "unit": "kg",
+      "note": "sau khi gọt còn khoảng 1kg",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt 1 ít (tùy chọn)",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "tùy chọn",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối hầm 1 muỗng canh (dùng sơ chế củ cải và cà rốt)",
+      "raw_name": "Muối hầm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "dùng sơ chế củ cải và cà rốt",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T17:52:43Z",
+  "page_title": "Cách làm đồ chua bánh mì trong 5 phút chỉ bằng hộp đựng thực phẩm",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/do-chua-banh-mii.jpg"
+}

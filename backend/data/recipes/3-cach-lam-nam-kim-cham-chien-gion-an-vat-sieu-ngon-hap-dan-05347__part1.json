@@ -1,0 +1,69 @@
+{
+  "source_id": "05347",
+  "name": "Nấm kim châm chiên giòn cuộn rong biển",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5a0ac63224ebac1c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nam-kim-cham-chien-gion-an-vat-sieu-ngon-hap-dan-05347",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nam-kim-cham-chien-gion-an-vat-sieu-ngon-hap-dan-05347",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nấm kim châm 200 gr",
+      "raw_name": "Nấm kim châm",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rong biển 1 lá",
+      "raw_name": "Rong biển",
+      "quantity": 1,
+      "unit": "lá",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột mì 3 muỗng canh",
+      "raw_name": "Bột mì",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột bắp 1 muỗng canh",
+      "raw_name": "Bột bắp",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 10 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 10,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ hạt nêm/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ hạt nêm/ tiêu xay",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:18:43Z",
+  "page_title": "3 cách làm nấm kim châm chiên giòn ăn vặt siêu ngon hấp dẫn",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://img.youtube.com/vi/b5jvJYyrJgQ/maxresdefault.jpg"
+}

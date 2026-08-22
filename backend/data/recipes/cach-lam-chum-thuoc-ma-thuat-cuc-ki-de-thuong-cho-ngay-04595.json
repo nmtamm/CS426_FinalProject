@@ -1,0 +1,87 @@
+{
+  "source_id": "04595",
+  "name": "Chum thuốc ma thuật",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/941449fc23c08f4a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chum-thuoc-ma-thuat-cuc-ki-de-thuong-cho-ngay-04595",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chum-thuoc-ma-thuat-cuc-ki-de-thuong-cho-ngay-04595",
+  "servings_text": "Cho 10 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Socola chips đen 340 gr",
+      "raw_name": "Socola chips đen",
+      "quantity": 340,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bong bóng 10 cái",
+      "raw_name": "Bong bóng",
+      "quantity": 10,
+      "unit": "cái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Socola chips trắng 240 g",
+      "raw_name": "Socola chips trắng",
+      "quantity": 240,
+      "unit": "g",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Kẹo 100 gr (kẹo dẻo sâu/ kẹo bí đỏ/ kẹo bắp)",
+      "raw_name": "Kẹo",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "kẹo dẻo sâu/ kẹo bí đỏ/ kẹo bắp",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Heavy cream 540 gr",
+      "raw_name": "Heavy cream",
+      "quantity": 540,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Mứt hạt dẻ Nutella 280 gr",
+      "raw_name": "Mứt hạt dẻ Nutella",
+      "quantity": 280,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Màu thực phẩm xanh lá 1 ml",
+      "raw_name": "Màu thực phẩm xanh lá",
+      "quantity": 1,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Màu thực phẩm vàng 1 ml",
+      "raw_name": "Màu thực phẩm vàng",
+      "quantity": 1,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:24:00Z",
+  "page_title": "Cách làm chum thuốc ma thuật cực kì dễ thương cho ngày Halloween",
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookProduct/1260-1200x676.jpg"
+}

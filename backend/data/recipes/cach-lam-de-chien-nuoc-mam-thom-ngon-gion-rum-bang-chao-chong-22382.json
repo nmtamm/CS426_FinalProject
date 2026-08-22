@@ -1,0 +1,87 @@
+{
+  "source_id": "22382",
+  "name": "Dế chiên nước mắm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d90d60665ebf0e73.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-de-chien-nuoc-mam-thom-ngon-gion-rum-bang-chao-chong-22382",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-de-chien-nuoc-mam-thom-ngon-gion-rum-bang-chao-chong-22382",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dế cơm 1 kg",
+      "raw_name": "Dế cơm",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu phộng 500 gr",
+      "raw_name": "Đậu phộng",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dầu ăn 3 chén",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "chén",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước mắm 1/2 chén",
+      "raw_name": "Nước mắm",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt 1 ít",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 1 ít",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị 1 ít (đường/bột ngọt)",
+      "raw_name": "Gia vị",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/bột ngọt",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Xoài 1 trái",
+      "raw_name": "Xoài",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:59:21Z",
+  "page_title": "Cách làm dế chiên nước mắm thơm ngon giòn rụm bằng chảo chống dính",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/de-chien-1.jpg"
+}

@@ -1,0 +1,67 @@
+{
+  "source_id": "14036",
+  "name": "Mơ dầm muối ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c6507ba6fdec41fa.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mo-dam-muoi-ot-chua-cay-hap-dan-de-lam-an-vat-cuc-14036",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mo-dam-muoi-ot-chua-cay-hap-dan-de-lam-an-vat-cuc-14036",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mơ xanh 100 gr",
+      "raw_name": "Mơ xanh",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt 11 trái",
+      "raw_name": "Ớt",
+      "quantity": 11,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 6 tép",
+      "raw_name": "Tỏi 6 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt bột 1 muỗng canh",
+      "raw_name": "Ớt bột",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột mắc khén 1/2 muỗng canh (không bắt buộc)",
+      "raw_name": "Bột mắc khén",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": "không bắt buộc",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:18:58Z",
+  "page_title": "Cách làm mơ dầm muối ớt chua cay hấp dẫn dễ làm ăn vặt cực ngon",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-mo-dam-muoi-ot-chua-cay-hap-dan-de-lam-an-vat-cuc-avt-1200x676-1.jpg"
+}

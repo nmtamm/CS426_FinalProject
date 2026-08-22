@@ -1,0 +1,43 @@
+{
+  "source_id": "08280",
+  "name": "Hạt mít rang muối ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2b82147b11904e72.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-hat-mit-rang-muoi-ot-mon-an-dan-da-don-gian-vi-ngon-08280",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-hat-mit-rang-muoi-ot-mon-an-dan-da-don-gian-vi-ngon-08280",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mít chín 1 quả",
+      "raw_name": "Mít chín",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối ớt 4 muỗng cà phê",
+      "raw_name": "Muối ớt",
+      "quantity": 4,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:04:40Z",
+  "page_title": "Cách làm hạt mít rang muối ớt món ăn dân dã đơn giản vị ngon bất ngờ",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/1200-1200x676-46.jpg"
+}

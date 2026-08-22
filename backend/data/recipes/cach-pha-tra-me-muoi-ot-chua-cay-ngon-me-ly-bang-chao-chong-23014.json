@@ -1,0 +1,91 @@
+{
+  "source_id": "23014",
+  "name": "Trà me muối ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f4de6c6a5bffa466.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-tra-me-muoi-ot-chua-cay-ngon-me-ly-bang-chao-chong-23014",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-tra-me-muoi-ot-chua-cay-ngon-me-ly-bang-chao-chong-23014",
+  "servings_text": "Cho 1 ly 700ml",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Me 50 gr",
+      "raw_name": "Me",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước sôi 150 ml",
+      "raw_name": "Nước sôi",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 20 gr",
+      "raw_name": "Đường",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trà lài 150 ml (đã pha sẵn)",
+      "raw_name": "Trà lài",
+      "quantity": 150,
+      "unit": "ml",
+      "note": "đã pha sẵn",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường cát 20 gr",
+      "raw_name": "Đường cát",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tắc 1 trái (quất)",
+      "raw_name": "Tắc",
+      "quantity": 1,
+      "unit": "trái",
+      "note": "quất",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối ớt 1 ít",
+      "raw_name": "Muối ớt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ô mai me 1 ít",
+      "raw_name": "Ô mai me",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:51:28Z",
+  "page_title": "Cách pha trà me muối ớt chua cay ngon mê ly bằng chảo chống dính",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/tra-me-muoi-ot-thumb.jpg"
+}

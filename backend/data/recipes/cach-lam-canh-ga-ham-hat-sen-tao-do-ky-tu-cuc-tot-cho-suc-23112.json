@@ -1,0 +1,115 @@
+{
+  "source_id": "23112",
+  "name": "Gà hầm hạt sen táo đỏ kỷ tử",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e5cd3b5869a527de.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-canh-ga-ham-hat-sen-tao-do-ky-tu-cuc-tot-cho-suc-23112",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-canh-ga-ham-hat-sen-tao-do-ky-tu-cuc-tot-cho-suc-23112",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà ta 1/2 con (khoảng 1 kg)",
+      "raw_name": "Gà ta 1/2 con",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 1 kg",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hạt sen tươi 200 gr (hoặc 70 - 80gr hạt sen khô ngâm mềm)",
+      "raw_name": "Hạt sen tươi",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "hoặc 70 - 80gr hạt sen khô ngâm mềm",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Táo đỏ 100 gr",
+      "raw_name": "Táo đỏ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Kỷ tử 50 gr",
+      "raw_name": "Kỷ tử",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cải trắng 1 củ",
+      "raw_name": "Cải trắng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gừng 10 gr",
+      "raw_name": "Gừng",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành lá 10 gr",
+      "raw_name": "Hành lá",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ngò rí 10 gr",
+      "raw_name": "Ngò rí",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Chanh 1 trái",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước dừa 500 ml (có thể bỏ qua)",
+      "raw_name": "Nước dừa",
+      "quantity": 500,
+      "unit": "ml",
+      "note": "có thể bỏ qua",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (hạt nêm/ đường/ muối/ nước mắm/ tiêu/ dầu ăn)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hạt nêm/ đường/ muối/ nước mắm/ tiêu/ dầu ăn",
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:06:24Z",
+  "page_title": "Cách làm canh gà hầm hạt sen táo đỏ kỷ tử cực tốt cho sức khoẻ bằng nồi đất",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20thumb%20to%20t8%20%2849%29.jpg"
+}

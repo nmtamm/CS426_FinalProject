@@ -1,0 +1,133 @@
+{
+  "source_id": "08589",
+  "name": "Mì xào thập cẩm chay rau củ nấm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d05634a442d60a59.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-mi-xao-thap-cam-chay-ngon-mieng-hap-dan-cho-bua-08589",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-mi-xao-thap-cam-chay-ngon-mieng-hap-dan-cho-bua-08589",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mì trứng 450 gr (khoảng 1 gói)",
+      "raw_name": "Mì trứng",
+      "quantity": 450,
+      "unit": "gr",
+      "note": "khoảng 1 gói",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm mèo khô 10 gr (mộc nhĩ)",
+      "raw_name": "Nấm mèo khô",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "mộc nhĩ",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nấm đùi gà 1 cây",
+      "raw_name": "Nấm đùi gà",
+      "quantity": 1,
+      "unit": "cây",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt chuông đỏ 1/2 trái",
+      "raw_name": "Ớt chuông đỏ",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt chuông vàng 1/2 trái",
+      "raw_name": "Ớt chuông vàng",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Su hào 1/2 củ",
+      "raw_name": "Su hào",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đậu hũ chiên 1 miếng",
+      "raw_name": "Đậu hũ chiên 1 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hành boa rô băm 1 muỗng canh",
+      "raw_name": "Hành boa rô băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước tương 2 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu hào chay 2 muỗng canh",
+      "raw_name": "Dầu hào chay",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu mè 1 muỗng canh",
+      "raw_name": "Dầu mè",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ tiêu",
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T18:37:14Z",
+  "page_title": "3 cách làm mì xào thập cẩm chay ngon miệng hấp dẫn cho bữa chay phong phú",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/mi-xao-thap-cam-chay-rau-cu-nam-thumbnail-1.jpg"
+}

@@ -1,0 +1,109 @@
+{
+  "source_id": "00654",
+  "name": "Bánh tráng nướng bằng chảo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/75d7a1a774fbaef5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trang-nuong-bang-chao-chong-dinh-00654",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trang-nuong-bang-chao-chong-dinh-00654",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh tráng 2 cái",
+      "raw_name": "Bánh tráng",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt băm 100 gr",
+      "raw_name": "Thịt băm",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tép khô 100 gr",
+      "raw_name": "Tép khô",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá 10 gr",
+      "raw_name": "Hành lá",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Xúc xích 3 cây",
+      "raw_name": "Xúc xích",
+      "quantity": 3,
+      "unit": "cây",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Mayonnaise 1 ít",
+      "raw_name": "Mayonnaise",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tương ớt 1 ít",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bơ lạt 1 muỗng canh",
+      "raw_name": "Bơ lạt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/muối/tiêu xay/hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/muối/tiêu xay/hạt nêm",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T19:06:00Z",
+  "page_title": "2 cách làm bánh tráng nướng bằng chảo chống dính cực dễ mà ngon mê ly",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://img.youtube.com/vi/ACWJmUhMuVI/maxresdefault.jpg"
+}

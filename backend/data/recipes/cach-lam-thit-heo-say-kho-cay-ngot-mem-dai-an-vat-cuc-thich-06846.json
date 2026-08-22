@@ -1,0 +1,107 @@
+{
+  "source_id": "06846",
+  "name": "Thịt heo khô miếng - khô heo singapore",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5a74998fcff01738.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-heo-say-kho-cay-ngot-mem-dai-an-vat-cuc-thich-06846",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-heo-say-kho-cay-ngot-mem-dai-an-vat-cuc-thich-06846",
+  "servings_text": "Cho 1 phần ăn",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt heo xay 400 gr (thịt ba rọi xay)",
+      "raw_name": "Thịt heo xay",
+      "quantity": 400,
+      "unit": "gr",
+      "note": "thịt ba rọi xay",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rượu nấu ăn 2 muỗng canh (rượu gia vị)",
+      "raw_name": "Rượu nấu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "rượu gia vị",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước tương 3 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mật ong 1/2 chén",
+      "raw_name": "Mật ong",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu hàu 1 muỗng canh",
+      "raw_name": "Dầu hàu",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 4 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hắc xì dầu 1 muỗng canh",
+      "raw_name": "Hắc xì dầu",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Mè hạt 1 ít",
+      "raw_name": "Mè hạt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tiêu trắng xay 1 muỗng canh",
+      "raw_name": "Tiêu trắng xay",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Tiêu đen xay 1 ít",
+      "raw_name": "Tiêu đen xay",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T19:06:30Z",
+  "page_title": "Cách làm thịt heo khô miếng - khô heo singapore nhâm nhi ăn vặt cực thích",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/heo-cay-1200x676.jpg"
+}

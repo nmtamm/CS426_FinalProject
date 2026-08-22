@@ -1,0 +1,51 @@
+{
+  "source_id": "09170",
+  "name": "Bánh tráng chiên giòn lắc muối ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5393c939bfdd9582.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trang-chien-gion-lac-muoi-ot-snack-banh-trang-09170",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trang-chien-gion-lac-muoi-ot-snack-banh-trang-09170",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh tráng 10 cái",
+      "raw_name": "Bánh tráng",
+      "quantity": 10,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt bột 1/2 muỗng cà phê",
+      "raw_name": "Ớt bột",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dầu ăn 200 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường/ muối 1 ít",
+      "raw_name": "Đường/ muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:21:06Z",
+  "page_title": "Cách làm bánh tráng chiên giòn lắc muối ớt, snack bánh tráng ngon bá cháy",
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookProduct/Banhtrangchiengionlacmuoiot1200-1200x675.jpg"
+}

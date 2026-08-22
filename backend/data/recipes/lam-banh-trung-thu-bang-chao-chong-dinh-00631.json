@@ -1,0 +1,79 @@
+{
+  "source_id": "00631",
+  "name": "Bánh trung thu bằng chảo chống dính",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/66d763dce303e3a7.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/lam-banh-trung-thu-bang-chao-chong-dinh-00631",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/lam-banh-trung-thu-bang-chao-chong-dinh-00631",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì 300 gr",
+      "raw_name": "Bột mì",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 10 gr",
+      "raw_name": "Đường",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bơ nhạt 100 gr",
+      "raw_name": "Bơ nhạt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước 80 gr",
+      "raw_name": "Nước",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đậu đỏ 300 gr",
+      "raw_name": "Đậu đỏ",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 80 gr (tùy khẩu vị)",
+      "raw_name": "Đường",
+      "quantity": 80,
+      "unit": "gr",
+      "note": "tùy khẩu vị",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 100 gr",
+      "raw_name": "Dầu ăn",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:45:18Z",
+  "page_title": "Cách làm bánh trung thu bằng chảo chống dính cực ngon mà dễ làm",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2016/09/03/883016/lam-banh-trung-thu-bang-chao-chong-dinh-760x367.jpg"
+}

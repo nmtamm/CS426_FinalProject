@@ -1,0 +1,29 @@
+{
+  "source_id": "12606",
+  "name": "Nước ép lựu bằng cách cán nhuyễn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2472091053007beb.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-ep-luu-bang-tay-khong-can-may-nguyen-chat-cuc-12606",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-ep-luu-bang-tay-khong-can-may-nguyen-chat-cuc-12606",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lựu 2 quả",
+      "raw_name": "Lựu",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    }
+  ],
+  "scraped_at": "2026-08-19T20:12:29Z",
+  "page_title": "2 cách làm nước ép lựu bằng tay không cần máy nguyên chất, cực đơn giản",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/nuoc-ep-luu-bang-cach-can-nhuyen-thumbnail.jpg"
+}

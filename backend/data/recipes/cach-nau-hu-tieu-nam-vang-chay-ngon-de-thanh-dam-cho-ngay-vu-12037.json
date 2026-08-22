@@ -1,0 +1,159 @@
+{
+  "source_id": "12037",
+  "name": "Hủ tiếu Nam Vang chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b61da5a7e85f2a8c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-hu-tieu-nam-vang-chay-ngon-de-thanh-dam-cho-ngay-vu-12037",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-hu-tieu-nam-vang-chay-ngon-de-thanh-dam-cho-ngay-vu-12037",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sợi hủ tiếu 500 gr",
+      "raw_name": "Sợi hủ tiếu",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm hương tươi 10 cây (nấm đông cô)",
+      "raw_name": "Nấm hương tươi",
+      "quantity": 10,
+      "unit": "cây",
+      "note": "nấm đông cô",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành boa rô 1 cây",
+      "raw_name": "Hành boa rô",
+      "quantity": 1,
+      "unit": "cây",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 1 củ (200gr)",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "200gr",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sắn 1 củ (100gr)",
+      "raw_name": "Sắn",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "100gr",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Củ cải muối 1 củ (80gr)",
+      "raw_name": "Củ cải muối",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "80gr",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Củ cải trắng 2 củ (500gr)",
+      "raw_name": "Củ cải trắng",
+      "quantity": 2,
+      "unit": "củ",
+      "note": "500gr",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Mía cây 2 cây (nhỏ)",
+      "raw_name": "Mía cây",
+      "quantity": 2,
+      "unit": "cây",
+      "note": "nhỏ",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Sườn chay khô 2 miếng (20gr)",
+      "raw_name": "Sườn chay khô 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": "20gr",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đậu hũ trắng 2 miếng (150gr)",
+      "raw_name": "Đậu hũ trắng 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": "150gr",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Vỏ hoành thánh 500 gr",
+      "raw_name": "Vỏ hoành thánh",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Ớt cắt lát 1 trái",
+      "raw_name": "Ớt cắt lát",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Tỏi phi thơm 1/2 muỗng cà phê",
+      "raw_name": "Tỏi phi thơm",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Rau ăn kèm 200 gr (rau tần ô/ giá đỗ/ xà lách/ hẹ/ cần tàu)",
+      "raw_name": "Rau ăn kèm",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "rau tần ô/ giá đỗ/ xà lách/ hẹ/ cần tàu",
+      "display_order": 14
+    },
+    {
+      "raw_text": "Dầu ăn 800 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 800,
+      "unit": "ml",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Muối/ đường 1 ít",
+      "raw_name": "Muối/ đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Hạt nêm chay 2.5 muỗng canh",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 2.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 17
+    }
+  ],
+  "scraped_at": "2026-08-19T18:49:33Z",
+  "page_title": "Cách nấu hủ tiếu Nam Vang chay ngon dễ thanh đạm cho ngày Vu Lan",
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookProduct/HutieuNamVangchay-1200x676.jpg"
+}

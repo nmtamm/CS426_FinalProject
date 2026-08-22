@@ -1,0 +1,131 @@
+{
+  "source_id": "08269",
+  "name": "Gân bò xào sa tế",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a12e65d6ad1d8fe2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-gan-bo-xao-sa-te-hap-dan-de-thuc-hien-tai-nha-08269",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-gan-bo-xao-sa-te-hap-dan-de-thuc-hien-tai-nha-08269",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nạm gân bò 700 gr (hoặc chỗ gân khác tùy sở thích)",
+      "raw_name": "Nạm gân bò",
+      "quantity": 700,
+      "unit": "gr",
+      "note": "hoặc chỗ gân khác tùy sở thích",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dứa 1/4 quả (thơm)",
+      "raw_name": "Dứa",
+      "quantity": 0.25,
+      "unit": "quả",
+      "note": "thơm",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hoa hồi 2 cái",
+      "raw_name": "Hoa hồi",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sả 5 nhánh",
+      "raw_name": "Sả",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gừng 1 củ (cỡ nhỏ)",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "cỡ nhỏ",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tím/ tỏi 1/2 muỗng canh (băm nhuyễn)",
+      "raw_name": "Hành tím/ tỏi",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": "băm nhuyễn",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tiêu hạt 1/2 muỗng cà phê",
+      "raw_name": "Tiêu hạt",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt bột 1 muỗng cà phê",
+      "raw_name": "Ớt bột",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột năng 2 muỗng canh",
+      "raw_name": "Bột năng",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Ớt sa tế 3 muỗng cà phê",
+      "raw_name": "Ớt sa tế",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Tương ớt 3 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gia vị bò kho 2 muỗng canh",
+      "raw_name": "Gia vị bò kho",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ hạt nêm/ đường/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ hạt nêm/ đường/ bột ngọt",
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T18:29:20Z",
+  "page_title": "Cách làm gân bò xào sa tế hấp dẫn, dễ thực hiện tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/Cook-GANBOXAOSATEkieunuocSetSet1-47screenshot-1200x676.jpg"
+}

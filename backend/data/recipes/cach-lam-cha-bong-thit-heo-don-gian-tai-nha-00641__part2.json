@@ -1,0 +1,62 @@
+{
+  "source_id": "00641",
+  "name": "Chà bông thịt heo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d4e9e13e35f8fba9.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-bong-thit-heo-don-gian-tai-nha-00641",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-bong-thit-heo-don-gian-tai-nha-00641",
+  "servings_text": "Cho 1.2 kg chà bông",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt nạc heo 2 kg",
+      "raw_name": "Thịt nạc heo",
+      "quantity": 2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành tím 2 củ (băm nhỏ)",
+      "raw_name": "Hành tím",
+      "quantity": 2,
+      "unit": "củ",
+      "note": "băm nhỏ",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước mắm 5 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ đường/ hạt nêm/ tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ đường/ hạt nêm/ tiêu",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:09:48Z",
+  "page_title": "Cách làm chà bông thịt heo thơm ngon chuẩn vị đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "công thức được chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookRecipe/Avatar/cha-bong-thit-heo-cong-thuc-duoc-chia-se-tu-nguoi-dung-thumbnail.jpg"
+}

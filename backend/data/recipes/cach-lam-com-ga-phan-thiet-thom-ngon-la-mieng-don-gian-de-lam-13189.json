@@ -1,0 +1,75 @@
+{
+  "source_id": "13189",
+  "name": "Cơm gà Phan Thiết",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/605fda2c574066da.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-com-ga-phan-thiet-thom-ngon-la-mieng-don-gian-de-lam-13189",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-com-ga-phan-thiet-thom-ngon-la-mieng-don-gian-de-lam-13189",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà 1 con",
+      "raw_name": "Gà 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gạo 1.5 chén (khoảng 300gr)",
+      "raw_name": "Gạo",
+      "quantity": 1.5,
+      "unit": "chén",
+      "note": "khoảng 300gr",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 2 củ",
+      "raw_name": "Tỏi",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rau răm 5 nhánh",
+      "raw_name": "Rau răm",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột nghệ 1 muỗng cà phê",
+      "raw_name": "Bột nghệ",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ đường/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ đường/ hạt nêm",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:13:17Z",
+  "page_title": "Cách làm cơm gà Phan Thiết thơm ngon lạ miệng đơn giản dễ làm chuẩn vị",
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookProduct/1200-1200x676-39.jpg"
+}

@@ -1,0 +1,45 @@
+{
+  "source_id": "01242",
+  "name": "Mứt khoai môn caramen",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c0a6a705c193e34c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-khoai-mon-deo-don-gian-dip-tet-ngon-01242",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-khoai-mon-deo-don-gian-dip-tet-ngon-01242",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai môn 200 gr (1 củ)",
+      "raw_name": "Khoai môn",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "1 củ",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 100 gr",
+      "raw_name": "Đường",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dầu ăn 100 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:39:28Z",
+  "page_title": "3 cách làm mứt khoai môn ngon dẻo đơn giản như ngoài hàng cho dịp Tết",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2022/01/CookRecipe/Avatar/mut-khoai-mon-caramen-thumbnail-1.jpg"
+}

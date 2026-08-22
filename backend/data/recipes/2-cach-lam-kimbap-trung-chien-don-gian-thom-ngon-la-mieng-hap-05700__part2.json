@@ -1,0 +1,85 @@
+{
+  "source_id": "05700",
+  "name": "Kimbap trứng chiên thịt cay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/64aa7dd9868d3655.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-kimbap-trung-chien-don-gian-thom-ngon-la-mieng-hap-05700",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-kimbap-trung-chien-don-gian-thom-ngon-la-mieng-hap-05700",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trứng 7 quả",
+      "raw_name": "Trứng",
+      "quantity": 7,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cơm 2 chén",
+      "raw_name": "Cơm",
+      "quantity": 2,
+      "unit": "chén",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước bột bắp 1 muỗng cà phê (pha loãng)",
+      "raw_name": "Nước bột bắp",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "pha loãng",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tương ớt Hàn Quốc 3 muỗng canh",
+      "raw_name": "Tương ớt Hàn Quốc",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Thịt heo băm 50 gr",
+      "raw_name": "Thịt heo băm",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước đường nấu ăn 1 muỗng canh",
+      "raw_name": "Nước đường nấu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu mè 1 muỗng canh",
+      "raw_name": "Dầu mè",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ muối/ tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ muối/ tiêu",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:02:37Z",
+  "page_title": "2 cách làm kimbap trứng chiên đơn giản thơm ngon lạ miệng hấp dẫn",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookRecipe/Avatar/nama-chocolate-khoai-lang-tim-thumbnail.jpg"
+}

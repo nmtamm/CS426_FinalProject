@@ -1,0 +1,45 @@
+{
+  "source_id": "09958",
+  "name": "Đậu phộng rang muối đường",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8d68a4f211080936.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-phong-rang-muoi-duong-gion-ngon-bui-ngay-an-vat-09958",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-phong-rang-muoi-duong-gion-ngon-bui-ngay-an-vat-09958",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu phộng 300 gr",
+      "raw_name": "Đậu phộng",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 80 gr",
+      "raw_name": "Đường",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:04:57Z",
+  "page_title": "3 cách làm đậu phộng rang muối giòn ngon, ăn vặt xem EURO cực thích",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookRecipe/Avatar/dau-phong-rang-muoi-duong-thumbnail.jpg"
+}

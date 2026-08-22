@@ -1,0 +1,37 @@
+{
+  "source_id": "06698",
+  "name": "Rượu hành",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/035ffd0fe7cd8b3a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-muoi-nuoc-mam-thom-ngon-don-gian-cho-ngay-tet-06698",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-muoi-nuoc-mam-thom-ngon-don-gian-cho-ngay-tet-06698",
+  "servings_text": "Cho 1 hũ",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hành tím 250 gr",
+      "raw_name": "Hành tím",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rượu nếp 500 ml",
+      "raw_name": "Rượu nếp",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:36:33Z",
+  "page_title": "Cách làm thịt muối nước mắm thơm ngon, đơn giản cho ngày Tết",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookRecipe/Avatar/ruou-hanh-thumbnail.jpg"
+}

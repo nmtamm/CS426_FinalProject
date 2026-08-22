@@ -1,0 +1,74 @@
+{
+  "source_id": "02930",
+  "name": "Chả giò rong biển",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bfcc49c5b0daaed0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-gio-hai-san-cuon-rong-bien-chien-gion-rum-don-02930",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-gio-hai-san-cuon-rong-bien-chien-gion-rum-don-02930",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Giò sống 300 gr",
+      "raw_name": "Giò sống",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tiêu 1 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rong biển rắc cơm 2 muỗng canh",
+      "raw_name": "Rong biển rắc cơm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Thanh cua 1 gói",
+      "raw_name": "Thanh cua",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột chiên giòn 3 muỗng canh",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột chiên xù 3 muỗng canh",
+      "raw_name": "Bột chiên xù",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:36:34Z",
+  "page_title": "Cách làm chả giò hải sản cuộn rong biển chiên giòn rụm, đơn giản",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "Công thức được chia sẻ từ TikTok Vào bếp cùng Điện máy XANH",
+  "original_image_url": "https://cdn.tgdd.vn/2023/08/CookRecipe/Avatar/cha-gio-rong-bien-cong-thuc-thumbnail.jpg"
+}

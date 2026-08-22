@@ -1,0 +1,71 @@
+{
+  "source_id": "23641",
+  "name": "Giò gà nấm hương",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/062526b941bb9278.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-gio-ga-nam-huong-chuan-vi-ha-noi-cho-man-co-tet-ngon-23641",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-gio-ga-nam-huong-chuan-vi-ha-noi-cho-man-co-tet-ngon-23641",
+  "servings_text": "Cho 4 - 6 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đùi gà góc tư lóc xương 2 cái (gà ta)",
+      "raw_name": "Đùi gà góc tư lóc xương",
+      "quantity": 2,
+      "unit": "cái",
+      "note": "gà ta",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mọc 200 gr (giò sống)",
+      "raw_name": "Mọc",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "giò sống",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nấm hương khô 20 gr",
+      "raw_name": "Nấm hương khô",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trứng muối 4 quả (nếu thích)",
+      "raw_name": "Trứng muối",
+      "quantity": 4,
+      "unit": "quả",
+      "note": "nếu thích",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (bột nêm/ bột hành/ hạt tiêu/ bột nghệ)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "bột nêm/ bột hành/ hạt tiêu/ bột nghệ",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tiêu sọ 1 ít (nếu thích)",
+      "raw_name": "Tiêu sọ",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "nếu thích",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:04:40Z",
+  "page_title": "Cách làm giò gà nấm hương chuẩn vị Hà Nội, cho mân cỗ tết ngon khó cưỡng",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20m%C3%B3n%20an%20t11%20%281200%20x%20676%20px%29%20-%202025-12-11T155238.584.jpg"
+}

@@ -1,0 +1,79 @@
+{
+  "source_id": "02086",
+  "name": "Cà tím chiên giòn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/68811bea168082dc.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-ca-tim-chien-gion-thom-ngon-an-la-ghien-02086",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-ca-tim-chien-gion-thom-ngon-an-la-ghien-02086",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cà tím 1 trái (khoảng 200gr)",
+      "raw_name": "Cà tím",
+      "quantity": 1,
+      "unit": "trái",
+      "note": "khoảng 200gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành lá 2 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng gà 1 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột chiên giòn 100 gr",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước lọc 70 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 70,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 400 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (tiêu xay/ muối/ hạt nêm/ đường)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "tiêu xay/ muối/ hạt nêm/ đường",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:17:42Z",
+  "page_title": "Cách làm món cà tím chiên giòn rụm đơn giản, thơm ngon khiến ai cũng mê",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookDish/cach-lam-mon-ca-tim-chien-gion-thom-ngon-an-la-ghien-avt-1200x676.jpg"
+}

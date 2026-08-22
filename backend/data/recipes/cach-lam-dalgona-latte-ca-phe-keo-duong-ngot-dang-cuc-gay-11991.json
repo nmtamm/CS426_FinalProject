@@ -1,0 +1,67 @@
+{
+  "source_id": "11991",
+  "name": "Dalgona latte",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/69055750d0630547.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dalgona-latte-ca-phe-keo-duong-ngot-dang-cuc-gay-11991",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dalgona-latte-ca-phe-keo-duong-ngot-dang-cuc-gay-11991",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột cà phê Espresso 10 gr (2 muỗng cà phê)",
+      "raw_name": "Bột cà phê Espresso",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "2 muỗng cà phê",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa tươi không đường 70 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 70,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối nở 1/2 muỗng canh (Baking soda)",
+      "raw_name": "Muối nở",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": "Baking soda",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước 120 ml",
+      "raw_name": "Nước",
+      "quantity": 120,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 100 gr",
+      "raw_name": "Đường",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:53:05Z",
+  "page_title": "Cách làm dalgona latte - cà phê kẹo đường ngọt đắng cực gây nghiện",
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookProduct/latte1200-1200x676.jpg"
+}

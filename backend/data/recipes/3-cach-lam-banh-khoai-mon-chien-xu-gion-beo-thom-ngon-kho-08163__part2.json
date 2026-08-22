@@ -1,0 +1,73 @@
+{
+  "source_id": "08163",
+  "name": "Khoai môn xiên que chiên xù",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d83f946a54e45c72.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-banh-khoai-mon-chien-xu-gion-beo-thom-ngon-kho-08163",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-banh-khoai-mon-chien-xu-gion-beo-thom-ngon-kho-08163",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai môn củ nhỏ 500 gr",
+      "raw_name": "Khoai môn củ nhỏ",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột chiên giòn 30 gr",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột chiên xù 30 gr",
+      "raw_name": "Bột chiên xù",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 300 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tiêu xay 1/2 muỗng cà phê",
+      "raw_name": "Tiêu xay",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:09:50Z",
+  "page_title": "5 cách làm bánh khoai môn chiên xù giòn béo thơm ngon khó cưỡng",
+  "variant_index": 2,
+  "variant_count": 5,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/khoai-mon-xien-que-chien-xu-thumbnail-2.jpg"
+}

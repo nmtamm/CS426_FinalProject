@@ -1,0 +1,117 @@
+{
+  "source_id": "09318",
+  "name": "Gỏi cóc tai heo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/354950ec458019d8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-coc-tai-heo-chua-cay-gion-ngon-hap-dan-don-09318",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-coc-tai-heo-chua-cay-gion-ngon-hap-dan-don-09318",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tai heo 400 gr",
+      "raw_name": "Tai heo",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cóc non 500 gr",
+      "raw_name": "Cóc non",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tắc 100 gr",
+      "raw_name": "Tắc",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sả 2 cây",
+      "raw_name": "Sả",
+      "quantity": 2,
+      "unit": "cây",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gừng 1 củ (cắt lát)",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "cắt lát",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tím 3 củ",
+      "raw_name": "Hành tím",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt sừng 1 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt băm 2 muỗng cà phê",
+      "raw_name": "Ớt băm",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tỏi băm 2 muỗng cà phê",
+      "raw_name": "Tỏi băm",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước cốt me 2 muỗng canh",
+      "raw_name": "Nước cốt me",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước mắm 4 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Muối/ Đường 1 ít",
+      "raw_name": "Muối/ Đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:00:14Z",
+  "page_title": "3 cách làm gỏi cóc tai heo chua cay giòn ngon hấp dẫn đơn giản tại nhà",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookRecipe/Avatar/goi-coc-tai-heo-thumbnail-1.jpg"
+}

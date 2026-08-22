@@ -1,0 +1,59 @@
+{
+  "source_id": "14122",
+  "name": "Gà hấp muối ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9002437ef5f8bcd7.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-hap-muoi-ot-hap-dan-de-lam-dam-da-huong-vi-an-la-14122",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-hap-muoi-ot-hap-dan-de-lam-dam-da-huong-vi-an-la-14122",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt gà 1 kg (1 con)",
+      "raw_name": "Thịt gà",
+      "quantity": 1,
+      "unit": "kg",
+      "note": "1 con",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rau răm 50 gr",
+      "raw_name": "Rau răm",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt 3 trái",
+      "raw_name": "Ớt",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Giấm ăn 200 ml",
+      "raw_name": "Giấm ăn",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 5 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T18:14:02Z",
+  "page_title": "Cách làm gà hấp muối ớt hấp dẫn dễ làm đậm đà hương vị ăn là ghiền",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-ga-hap-muoi-kieu-nguoi-hoa-thom-ngon-dam-da-chuan-vi-avt-1200x676.jpg"
+}

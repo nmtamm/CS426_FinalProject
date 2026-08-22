@@ -1,0 +1,61 @@
+{
+  "source_id": "12875",
+  "name": "Nước ép cải cầu vồng táo dưa leo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/77160737a80b5388.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nuoc-ep-cai-cau-vong-thanh-loc-co-the-tot-cho-suc-12875",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nuoc-ep-cai-cau-vong-thanh-loc-co-the-tot-cho-suc-12875",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cải cầu vồng 500 gr",
+      "raw_name": "Cải cầu vồng",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Táo 1 trái",
+      "raw_name": "Táo",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dưa leo 2 trái",
+      "raw_name": "Dưa leo",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Vỏ dưa hấu 300 gr",
+      "raw_name": "Vỏ dưa hấu",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:03:21Z",
+  "page_title": "3 cách làm nước ép cải cầu vồng thanh lọc cơ thể, tốt cho sức khỏe",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/nuoc-ep-cai-cau-vong-tao-dua-leo-thumbnail.jpg"
+}

@@ -1,0 +1,41 @@
+{
+  "source_id": "02041",
+  "name": "Nước ép dưa hấu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/67e43c9d86177e4e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nuoc-ep-dua-hau-vua-ngon-lai-mat-don-gian-02041",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nuoc-ep-dua-hau-vua-ngon-lai-mat-don-gian-02041",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa hấu 1 trái",
+      "raw_name": "Dưa hấu",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối 1 ít (khoảng 1/4 muỗng cà phê)",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "khoảng 1/4 muỗng cà phê",
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T20:00:18Z",
+  "page_title": "15 Cách làm nước ép dưa hấu bằng máy xay sinh tố thanh mát ngày nóng",
+  "variant_index": 1,
+  "variant_count": 15,
+  "original_image_url": "https://cdn.tgdd.vn/2022/01/CookRecipe/Avatar/nuoc-ep-dua-hau-cong-thuc-duoc-chia-se-tu-nguoi-dung-thumbnail.jpg"
+}

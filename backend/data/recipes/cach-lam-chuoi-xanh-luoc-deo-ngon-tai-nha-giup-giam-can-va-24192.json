@@ -1,0 +1,39 @@
+{
+  "source_id": "24192",
+  "name": "Chuối xanh luộc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bd07b5e4e36912d8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chuoi-xanh-luoc-deo-ngon-tai-nha-giup-giam-can-va-24192",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chuoi-xanh-luoc-deo-ngon-tai-nha-giup-giam-can-va-24192",
+  "servings_text": "Cho 2 - 3 người ăn",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chuối xanh 7 quả (chuối tiêu hoặc chuối già/ chuối sứ)",
+      "raw_name": "Chuối xanh",
+      "quantity": 7,
+      "unit": "quả",
+      "note": "chuối tiêu hoặc chuối già/ chuối sứ",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối hột/ muối ớt/ muối tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối hột/ muối ớt/ muối tiêu",
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T18:34:28Z",
+  "page_title": "Cách làm chuối xanh luộc dẻo ngon tại nhà giúp giảm cân và tốt cho sức khỏe",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t03%201200676%20%2842%29.jpg"
+}

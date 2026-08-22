@@ -1,0 +1,103 @@
+{
+  "source_id": "14723",
+  "name": "Chè lam gấc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f3331085b31c8972.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-che-lam-gac-deo-ngot-thom-ngon-chuan-vi-don-gian-tai-14723",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-che-lam-gac-deo-ngot-thom-ngon-chuan-vi-don-gian-tai-14723",
+  "servings_text": "Cho khoảng 2 - 2.5kg",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-che",
+      "name": "Món chè"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột gạo nếp 2.5 kg (bột nếp chín)",
+      "raw_name": "Bột gạo nếp",
+      "quantity": 2.5,
+      "unit": "kg",
+      "note": "bột nếp chín",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gấc 2 kg (khoảng 2 trái)",
+      "raw_name": "Gấc",
+      "quantity": 2,
+      "unit": "kg",
+      "note": "khoảng 2 trái",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mạch nha 500 gr",
+      "raw_name": "Mạch nha",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường trắng 1/2 kg",
+      "raw_name": "Đường trắng",
+      "quantity": 0.5,
+      "unit": "kg",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đậu phộng rang 500 gr",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gừng tươi 1 củ (củ lớn)",
+      "raw_name": "Gừng tươi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "củ lớn",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Vừng rang 500 gr",
+      "raw_name": "Vừng rang",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Vani 4 ống",
+      "raw_name": "Vani 4 ống",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu ăn 4 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước lọc 2.5 lít",
+      "raw_name": "Nước lọc 2.5 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:59:39Z",
+  "page_title": "Cách làm chè lam gấc dẻo ngọt thơm ngon chuẩn vị đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-che-lam-gac-deo-ngot-thom-ngon-chuan-vi-don-gian-tai-avt-1200x676.jpg"
+}

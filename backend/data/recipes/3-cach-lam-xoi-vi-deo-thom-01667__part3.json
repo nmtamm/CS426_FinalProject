@@ -1,0 +1,81 @@
+{
+  "source_id": "01667",
+  "name": "Xôi vị lá dứa đậu xanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/87a0d302ddcf989d.png",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-xoi-vi-deo-thom-01667",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-xoi-vi-deo-thom-01667",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nếp ngon 500 g",
+      "raw_name": "Nếp ngon",
+      "quantity": 500,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu xannh cà bỏ vỏ 200 g",
+      "raw_name": "Đậu xannh cà bỏ vỏ",
+      "quantity": 200,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá dứa 50 g",
+      "raw_name": "Lá dứa",
+      "quantity": 50,
+      "unit": "g",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hoa hồi 5 gr (5 cánh)",
+      "raw_name": "Hoa hồi",
+      "quantity": 5,
+      "unit": "gr",
+      "note": "5 cánh",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dừa nạo 300 g",
+      "raw_name": "Dừa nạo",
+      "quantity": 300,
+      "unit": "g",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Mè trắng 100 g",
+      "raw_name": "Mè trắng",
+      "quantity": 100,
+      "unit": "g",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đậu phộng rang 100 g",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 100,
+      "unit": "g",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:29:15Z",
+  "page_title": "3 cách làm xôi vị dẻo thơm khó quên đơn giản tại nhà",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/xoi-vi-la-dua-dau-xanh-thumbnail.png"
+}

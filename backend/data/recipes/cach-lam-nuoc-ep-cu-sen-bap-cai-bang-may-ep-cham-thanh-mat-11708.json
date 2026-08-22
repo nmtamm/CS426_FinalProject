@@ -1,0 +1,51 @@
+{
+  "source_id": "11708",
+  "name": "Nước ép củ sen",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ccb3a89868814311.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-cu-sen-bap-cai-bang-may-ep-cham-thanh-mat-11708",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-cu-sen-bap-cai-bang-may-ep-cham-thanh-mat-11708",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Củ sen 680 gr",
+      "raw_name": "Củ sen",
+      "quantity": 680,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bắp cải trắng 160 gr",
+      "raw_name": "Bắp cải trắng",
+      "quantity": 160,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lê 240 gr",
+      "raw_name": "Lê",
+      "quantity": 240,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chanh 1 quả (vắt lấy nước)",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "vắt lấy nước",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:12:11Z",
+  "page_title": "Cách làm nước ép củ sen bắp cải bằng máy ép chậm tốt cho sức khỏe",
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookProduct/Cong-Thuc-Nuoc-Ep-Cu-Sen-+-Le-+-Bap-Cai--Cong-Thuc-Nuoc-Ep-Tot-Cho-He-Tieu-Hoa-2-43-screenshot-1200x676.jpg"
+}

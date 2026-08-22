@@ -1,0 +1,137 @@
+{
+  "source_id": "05028",
+  "name": "Bắp non xào thịt bò",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/15a56cace330d9bd.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-bap-non-xao-thit-bo-va-xao-dau-que-don-gian-thom-05028",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-bap-non-xao-thit-bo-va-xao-dau-que-don-gian-thom-05028",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thăn bò 500 gr",
+      "raw_name": "Thăn bò",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt chuông đỏ 1/2 quả",
+      "raw_name": "Ớt chuông đỏ",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bắp non 8 trái",
+      "raw_name": "Bắp non",
+      "quantity": 8,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đậu tuyết 12 hạt",
+      "raw_name": "Đậu tuyết 12 hạt",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tây vừa 1 củ",
+      "raw_name": "Hành tây vừa",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hạt dẻ 70 gr",
+      "raw_name": "Hạt dẻ",
+      "quantity": 70,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi 2 tép (loại to)",
+      "raw_name": "Tỏi 2 tép",
+      "quantity": null,
+      "unit": null,
+      "note": "loại to",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột ngô 1 muỗng canh",
+      "raw_name": "Bột ngô",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tiêu 1/4 muỗng canh",
+      "raw_name": "Tiêu",
+      "quantity": 0.25,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu hào 60 ml",
+      "raw_name": "Dầu hào",
+      "quantity": 60,
+      "unit": "ml",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước tương 6 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 6,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Rượu Thiệu Hưng 2 muỗng canh",
+      "raw_name": "Rượu Thiệu Hưng",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T18:27:35Z",
+  "page_title": "2 cách làm bắp non xào thịt bò và xào đậu que đơn giản thơm ngon",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookRecipe/Avatar/bap-non-xao-thit-bo-thumbnail.jpg"
+}

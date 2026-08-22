@@ -1,0 +1,139 @@
+{
+  "source_id": "07145",
+  "name": "Bắp bò hầm nước dừa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a40b9d77d0575361.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bap-bo-ham-nuoc-dua-thom-ngon-don-gian-chieu-dai-gia-07145",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bap-bo-ham-nuoc-dua-thom-ngon-don-gian-chieu-dai-gia-07145",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bắp bò 350 gr",
+      "raw_name": "Bắp bò",
+      "quantity": 350,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng cà phê",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rượu trắng 2 muỗng cà phê",
+      "raw_name": "Rượu trắng",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dứa 1/4 trái (thơm/ khóm)",
+      "raw_name": "Dứa",
+      "quantity": 0.25,
+      "unit": "trái",
+      "note": "thơm/ khóm",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước dừa 800 ml",
+      "raw_name": "Nước dừa",
+      "quantity": 800,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Xoài xanh 1 trái",
+      "raw_name": "Xoài xanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dưa leo 1 trái",
+      "raw_name": "Dưa leo",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Sả 4 cây",
+      "raw_name": "Sả",
+      "quantity": 4,
+      "unit": "cây",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tỏi băm 1/2 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Rau sống 100 gr (xà lách/ rau thơm/ diếp cá/ rau mầm)",
+      "raw_name": "Rau sống",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "xà lách/ rau thơm/ diếp cá/ rau mầm",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước mắm 3 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước cốt chanh 2 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Ớt băm 1 muỗng cà phê",
+      "raw_name": "Ớt băm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ muối/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ muối/ hạt nêm",
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T18:31:34Z",
+  "page_title": "Cách làm bắp bò hầm nước dừa thơm ngon, đơn giản chiêu đãi gia đình",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/bapbonuocdua-1200x676.jpg"
+}

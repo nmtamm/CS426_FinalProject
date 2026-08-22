@@ -1,0 +1,53 @@
+{
+  "source_id": "15772",
+  "name": "Sinh tố sung mỹ táo cải bó xôi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e9f210021b287ed1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sinh-to-qua-sung-my-ngot-thom-nhieu-vitamin-tot-15772",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sinh-to-qua-sung-my-ngot-thom-nhieu-vitamin-tot-15772",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sung Mỹ 4 quả (khoảng 100 gr)",
+      "raw_name": "Sung Mỹ",
+      "quantity": 4,
+      "unit": "quả",
+      "note": "khoảng 100 gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Táo 1 quả",
+      "raw_name": "Táo",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rau cải bó xôi 50 gr",
+      "raw_name": "Rau cải bó xôi",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:09:43Z",
+  "page_title": "3 cách làm sinh tố quả sung mỹ ngọt thơm nhiều vitamin tốt cho sức khỏe",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookRecipe/Avatar/sinh-to-sung-my-tao-cai-bo-xoi-thumbnail.jpg"
+}

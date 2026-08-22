@@ -1,0 +1,102 @@
+{
+  "source_id": "15233",
+  "name": "Bánh khoai tây nhân thịt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/10be6f6b9c2fff88.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-khoai-tay-nhan-thit-va-nhan-pho-mai-beo-ngay-15233",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-khoai-tay-nhan-thit-va-nhan-pho-mai-beo-ngay-15233",
+  "servings_text": "Cho 6 cái",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai tây 500 gr (khoảng 3 - 4 củ)",
+      "raw_name": "Khoai tây",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "khoảng 3 - 4 củ",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt heo xay 150 gr",
+      "raw_name": "Thịt heo xay",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Phô mai 4 lát",
+      "raw_name": "Phô mai 4 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột năng 30 gr",
+      "raw_name": "Bột năng",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tím 1 củ",
+      "raw_name": "Hành tím",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Trứng gà 1 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột mì 200 gr",
+      "raw_name": "Bột mì",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột chiên xù 200 gr",
+      "raw_name": "Bột chiên xù",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (tiêu/ muối)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "tiêu/ muối",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 100 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T19:02:19Z",
+  "page_title": "2 Cách làm bánh khoai tây nhân thịt và nhân phô mai béo ngậy ăn vặt",
+  "variant_index": 1,
+  "variant_count": 2,
+  "note": null,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/banh-khoai-tay-nhan-thit-thumbnail.jpg"
+}

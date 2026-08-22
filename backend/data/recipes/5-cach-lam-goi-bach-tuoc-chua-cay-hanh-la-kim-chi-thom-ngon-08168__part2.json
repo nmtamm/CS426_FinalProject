@@ -1,0 +1,37 @@
+{
+  "source_id": "08168",
+  "name": "Gỏi bạch tuộc hành lá",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2ac11235f3d25109.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/5-cach-lam-goi-bach-tuoc-chua-cay-hanh-la-kim-chi-thom-ngon-08168",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/5-cach-lam-goi-bach-tuoc-chua-cay-hanh-la-kim-chi-thom-ngon-08168",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bạch tuộc 750 gr",
+      "raw_name": "Bạch tuộc",
+      "quantity": 750,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành lá 100 gr",
+      "raw_name": "Hành lá",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T17:58:16Z",
+  "page_title": "5 cách làm gỏi bạch tuộc chua cay, hành lá, kim chi thơm ngon khó cưỡng",
+  "variant_index": 2,
+  "variant_count": 5,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/goi-bach-tuoc-hanh-la-thumbnail.jpg"
+}

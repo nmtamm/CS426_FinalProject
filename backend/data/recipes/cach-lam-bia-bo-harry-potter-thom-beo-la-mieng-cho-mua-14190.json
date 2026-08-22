@@ -1,0 +1,67 @@
+{
+  "source_id": "14190",
+  "name": "Bia bơ Harry Potter",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d518b3c264bf637d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bia-bo-harry-potter-thom-beo-la-mieng-cho-mua-14190",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bia-bo-harry-potter-thom-beo-la-mieng-cho-mua-14190",
+  "servings_text": "Cho 4 ly",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bia 450 ml (có thể thay bằng soda)",
+      "raw_name": "Bia",
+      "quantity": 450,
+      "unit": "ml",
+      "note": "có thể thay bằng soda",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sốt bơ đường 75 gr (butterscotch)",
+      "raw_name": "Sốt bơ đường",
+      "quantity": 75,
+      "unit": "gr",
+      "note": "butterscotch",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bơ mặn 2 muỗng canh",
+      "raw_name": "Bơ mặn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa đặc 75 gr",
+      "raw_name": "Sữa đặc",
+      "quantity": 75,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Topping cream 1 ít",
+      "raw_name": "Topping cream",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột quế 1 ít (hoặc bột nhục đậu khấu)",
+      "raw_name": "Bột quế",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hoặc bột nhục đậu khấu",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:40:58Z",
+  "page_title": "Cách làm bia bơ Harry Potter thơm béo lạ miệng cho mùa Halloween",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-bia-bo-harry-potter-thom-beo-la-mieng-cho-mua-avt-1200x676.jpg"
+}

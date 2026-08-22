@@ -1,0 +1,87 @@
+{
+  "source_id": "03179",
+  "name": "Bánh bột lọc tôm chiên",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e0232c7a654c2d9c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-bot-loc-tom-chien-gion-thom-ngon-la-mieng-03179",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-bot-loc-tom-chien-gion-thom-ngon-la-mieng-03179",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột năng 120 gr",
+      "raw_name": "Bột năng",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tôm 150 gr",
+      "raw_name": "Tôm",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tím băm 20 gr",
+      "raw_name": "Hành tím băm",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng cà phê",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hạt nêm 1/2 muỗng cà phê",
+      "raw_name": "Hạt nêm",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột ngọt 1/4 muỗng cà phê",
+      "raw_name": "Bột ngọt",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tiêu 1/2 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:26:20Z",
+  "page_title": "Cách làm bánh bột lọc tôm chiên giòn thơm ngon, lạ miệng, ăn là ghiền",
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookProduct/1-1200x676-8.jpg"
+}

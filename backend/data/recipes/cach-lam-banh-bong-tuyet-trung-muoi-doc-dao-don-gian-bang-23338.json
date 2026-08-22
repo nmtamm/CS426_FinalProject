@@ -1,0 +1,95 @@
+{
+  "source_id": "23338",
+  "name": "Bánh bông tuyết",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f58cf5a159591790.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-bong-tuyet-trung-muoi-doc-dao-don-gian-bang-23338",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-bong-tuyet-trung-muoi-doc-dao-don-gian-bang-23338",
+  "servings_text": "Cho 36 miếng bánh",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lòng đỏ trứng muối 5 cái (70gr)",
+      "raw_name": "Lòng đỏ trứng muối",
+      "quantity": 5,
+      "unit": "cái",
+      "note": "70gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chà bông 20 gr",
+      "raw_name": "Chà bông",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mè rang vàng 4 gr",
+      "raw_name": "Mè rang vàng",
+      "quantity": 4,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rong biển 2 gr (1/2 lá)",
+      "raw_name": "Rong biển",
+      "quantity": 2,
+      "unit": "gr",
+      "note": "1/2 lá",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bánh quy mặn 180 gr",
+      "raw_name": "Bánh quy mặn",
+      "quantity": 180,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột sữa 65 gr",
+      "raw_name": "Bột sữa",
+      "quantity": 65,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Marshmallow 250 gr",
+      "raw_name": "Marshmallow",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bơ lạt 90 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 90,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Phô mai cheddar 40 gr (tùy chọn)",
+      "raw_name": "Phô mai cheddar",
+      "quantity": 40,
+      "unit": "gr",
+      "note": "tùy chọn",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:55:48Z",
+  "page_title": "Cách làm bánh bông tuyết trứng muối độc đáo đơn giản bằng chảo",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/banh-bong-tuyet.jpg"
+}

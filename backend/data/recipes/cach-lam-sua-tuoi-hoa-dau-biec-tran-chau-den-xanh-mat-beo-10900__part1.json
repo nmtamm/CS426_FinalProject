@@ -1,0 +1,61 @@
+{
+  "source_id": "10900",
+  "name": "Trân châu từ bột nếp",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d294823e6ee0e218.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-tuoi-hoa-dau-biec-tran-chau-den-xanh-mat-beo-10900",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-tuoi-hoa-dau-biec-tran-chau-den-xanh-mat-beo-10900",
+  "servings_text": "Cho 5 người ăn",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột năng 300 gr",
+      "raw_name": "Bột năng",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột nếp 20 gr",
+      "raw_name": "Bột nếp",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột cacao nguyên chất 30 gr",
+      "raw_name": "Bột cacao nguyên chất",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường cát trắng 50 gr",
+      "raw_name": "Đường cát trắng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước sôi 260 ml",
+      "raw_name": "Nước sôi",
+      "quantity": 260,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:01:47Z",
+  "page_title": "Cách làm sữa tươi hoa đậu biếc trân châu đen xanh mát, béo thơm",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookRecipe/Avatar/tran-chau-tu-bot-nep-thumbnail.jpg"
+}

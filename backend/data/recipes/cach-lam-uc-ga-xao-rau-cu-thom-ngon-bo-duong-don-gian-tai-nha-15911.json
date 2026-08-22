@@ -1,0 +1,103 @@
+{
+  "source_id": "15911",
+  "name": "Ức gà xào rau củ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/94179afbfe2eb8a3.png",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-uc-ga-xao-rau-cu-thom-ngon-bo-duong-don-gian-tai-nha-15911",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-uc-ga-xao-rau-cu-thom-ngon-bo-duong-don-gian-tai-nha-15911",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt ức gà 300 gr",
+      "raw_name": "Thịt ức gà",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 1/2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bí ngòi 1 quả",
+      "raw_name": "Bí ngòi",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá 2 cây",
+      "raw_name": "Hành lá",
+      "quantity": 2,
+      "unit": "cây",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 3 tép",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ngũ vị hương 1 muỗng cà phê",
+      "raw_name": "Ngũ vị hương",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng cà phê",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng cà phê",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (hạt nêm/ muối/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hạt nêm/ muối/ tiêu xay",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:17:48Z",
+  "page_title": "Cách làm ức gà xào rau củ thơm ngon bổ dưỡng đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookDish/cach-lam-uc-ga-xao-rau-cu-thom-ngon-bo-duong-don-gian-tai-nha-avt-1200x676.png"
+}

@@ -1,0 +1,75 @@
+{
+  "source_id": "23599",
+  "name": "Su hào muối xổi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/fdbe25ba868c049c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-su-hao-muoi-xoi-chua-ngot-gion-ngon-chi-voi-vai-phut-23599",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-su-hao-muoi-xoi-chua-ngot-gion-ngon-chi-voi-vai-phut-23599",
+  "servings_text": "Cho 2-4 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Su hào 1 củ",
+      "raw_name": "Su hào",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 1/2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chanh 1/2 quả",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 3 tép",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt 2 quả",
+      "raw_name": "Ớt",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối xổi 1 thìa canh",
+      "raw_name": "Muối xổi",
+      "quantity": 1,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 1 thìa canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:25:47Z",
+  "page_title": "Cách làm su hào muối xổi chua ngọt giòn ngon chỉ với vài phút",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/cach-lam-su-hao-muoi-xoi-thumb..jpg"
+}

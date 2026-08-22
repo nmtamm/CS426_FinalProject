@@ -1,0 +1,45 @@
+{
+  "source_id": "08367",
+  "name": "Sữa nghệ sữa đặc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/753164587e109c22.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sua-nghe-uong-dep-da-thon-dang-tot-cho-suc-khoe-08367",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sua-nghe-uong-dep-da-thon-dang-tot-cho-suc-khoe-08367",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột nghệ 5 muỗng cà phê",
+      "raw_name": "Bột nghệ",
+      "quantity": 5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa đặc 2 muỗng canh",
+      "raw_name": "Sữa đặc",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa tươi không đường 250 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 250,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:58:40Z",
+  "page_title": "2 Cách làm sữa nghệ uống đẹp da thon dáng tốt cho sức khỏe",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/sua-nghe-sua-dac-thumbnail-1.jpg"
+}

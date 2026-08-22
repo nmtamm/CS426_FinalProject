@@ -1,0 +1,51 @@
+{
+  "source_id": "08489",
+  "name": "Cocktail Sidecar",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/983b5a191b58af09.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cong-thuc-cocktail-sidecar-co-dien-day-quyen-ru-08489",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cong-thuc-cocktail-sidecar-co-dien-day-quyen-ru-08489",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rượu Cognac 60 ml",
+      "raw_name": "Rượu Cognac",
+      "quantity": 60,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rượu Cointreau 20 ml",
+      "raw_name": "Rượu Cointreau",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước cốt chanh 30 ml",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đá viên 100 gr",
+      "raw_name": "Đá viên",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:06:41Z",
+  "page_title": "Công thức Cocktail Sidecar cổ điển đầy quyến rũ",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/CongthucCocktailSidecarcodiendayquyenru-1200x676.jpg"
+}

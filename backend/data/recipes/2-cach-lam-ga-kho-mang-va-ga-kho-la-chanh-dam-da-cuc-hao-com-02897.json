@@ -1,0 +1,87 @@
+{
+  "source_id": "02897",
+  "name": "Gà kho lá chanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/59da1a2797671666.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-ga-kho-mang-va-ga-kho-la-chanh-dam-da-cuc-hao-com-02897",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-ga-kho-mang-va-ga-kho-la-chanh-dam-da-cuc-hao-com-02897",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-kho",
+      "name": "Món kho"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà 1/4 con (khoảng 250gr thịt gà)",
+      "raw_name": "Gà 1/4 con",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 250gr thịt gà",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chanh 1 trái",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá chanh 50 gr",
+      "raw_name": "Lá chanh",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt 1 quả",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 2 tép",
+      "raw_name": "Tỏi 2 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tím 1 củ",
+      "raw_name": "Hành tím",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ bột ngọt/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ bột ngọt/ hạt nêm",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:18:40Z",
+  "page_title": "Cách làm gà kho lá chanh đậm đà thơm nức mũi cực hao cơm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookProduct/Cachlamgakholachanhdamdathomnucmuicuchaocom-1200x676.jpg"
+}

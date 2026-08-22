@@ -1,0 +1,102 @@
+{
+  "source_id": "01806",
+  "name": "Bánh tráng cuộn cơm sữa dừa xoài",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ab6992e15dd2a9bd.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-trang-cuon-chien-gion-moi-la-doc-dao-01806",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-trang-cuon-chien-gion-moi-la-doc-dao-01806",
+  "servings_text": "Cho 4 cái",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh tráng 4 miếng",
+      "raw_name": "Bánh tráng 4 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gạo tẻ 1 chén",
+      "raw_name": "Gạo tẻ",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Xoài chín 1 trái",
+      "raw_name": "Xoài chín",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước cốt dừa 200 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Mật ong 30 ml",
+      "raw_name": "Mật ong",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường trắng 80 g",
+      "raw_name": "Đường trắng",
+      "quantity": 80,
+      "unit": "g",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối 1/4 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu ăn 200 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bơ 1 muỗng canh",
+      "raw_name": "Bơ",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Sữa tươi 30 ml",
+      "raw_name": "Sữa tươi",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T19:08:00Z",
+  "page_title": "2 cách làm bánh tráng cuộn chiên giòn mới lạ, độc đáo ăn hoài không ngán",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": null,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/banh-trang-cuon-com-sua-dua-xoai-thumbnail.jpg"
+}

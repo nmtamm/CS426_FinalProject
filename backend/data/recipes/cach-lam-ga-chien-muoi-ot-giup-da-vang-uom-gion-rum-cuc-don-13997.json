@@ -1,0 +1,79 @@
+{
+  "source_id": "13997",
+  "name": "Gà chiên muối ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f5cd0757f3607140.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-chien-muoi-ot-giup-da-vang-uom-gion-rum-cuc-don-13997",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-chien-muoi-ot-giup-da-vang-uom-gion-rum-cuc-don-13997",
+  "servings_text": "Cho 1 - 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt gà 200 gr (tùy chọn bộ phận theo sở thích)",
+      "raw_name": "Thịt gà",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "tùy chọn bộ phận theo sở thích",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt đỏ 1 trái (ớt đỏ sẽ giúp lớp da gà có màu đẹp)",
+      "raw_name": "Ớt đỏ",
+      "quantity": 1,
+      "unit": "trái",
+      "note": "ớt đỏ sẽ giúp lớp da gà có màu đẹp",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tím băm 1 muỗng canh",
+      "raw_name": "Hành tím băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 100 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối hạt 1 muỗng canh",
+      "raw_name": "Muối hạt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (tiêu xay/ hạt nêm/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "tiêu xay/ hạt nêm/ bột ngọt",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:08:54Z",
+  "page_title": "Cách làm gà chiên muối ớt giúp da vàng ươm giòn rụm cực đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-ga-chien-muoi-ot-giup-da-vang-uom-gion-rum-cuc-don-avt-1200x676.jpg"
+}

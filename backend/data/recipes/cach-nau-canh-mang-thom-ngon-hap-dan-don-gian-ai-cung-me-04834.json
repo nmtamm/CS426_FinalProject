@@ -1,0 +1,95 @@
+{
+  "source_id": "04834",
+  "name": "Canh gà nấu măng chua",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/58f156197c1d3661.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-canh-mang-thom-ngon-hap-dan-don-gian-ai-cung-me-04834",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-canh-mang-thom-ngon-hap-dan-don-gian-ai-cung-me-04834",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-canh",
+      "name": "Món canh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt gà 300 gr",
+      "raw_name": "Thịt gà",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Măng chua 150 gr",
+      "raw_name": "Măng chua",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành lá 2 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tím 2 củ",
+      "raw_name": "Hành tím",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt tươi 2 quả",
+      "raw_name": "Ớt tươi",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng cà phê",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng cà phê",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Giấm ăn 2 muỗng canh",
+      "raw_name": "Giấm ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ đường/ hạt nêm/ bột ngọt/ tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ đường/ hạt nêm/ bột ngọt/ tiêu",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:19:22Z",
+  "page_title": "Cách nấu canh gà nấu măng chua ngon ngọt dân dã đổi vị cho bữa cơm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookProduct/S127639554-1200x676.jpg"
+}

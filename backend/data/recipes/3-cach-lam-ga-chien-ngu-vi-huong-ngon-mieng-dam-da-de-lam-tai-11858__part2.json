@@ -1,0 +1,85 @@
+{
+  "source_id": "11858",
+  "name": "Gà chiên giòn lắc ngũ vị hương",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c32c013546452992.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-ga-chien-ngu-vi-huong-ngon-mieng-dam-da-de-lam-tai-11858",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-ga-chien-ngu-vi-huong-ngon-mieng-dam-da-de-lam-tai-11858",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ức gà 500 gr",
+      "raw_name": "Ức gà",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ngũ vị hương 1.5 muỗng cà phê",
+      "raw_name": "Ngũ vị hương",
+      "quantity": 1.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Húng quế 30 gr",
+      "raw_name": "Húng quế",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột bắp 10 muỗng cà phê",
+      "raw_name": "Bột bắp",
+      "quantity": 10,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột ớt 1/2 muỗng cà phê",
+      "raw_name": "Bột ớt",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 200 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Tiêu xay/ muối/ đường)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Tiêu xay/ muối/ đường",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:15:31Z",
+  "page_title": "3 cách làm gà chiên ngũ vị hương ngon miệng đậm đà dễ làm tại nhà",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/ga-chien-gion-lac-ngu-vi-huong-thumbnail-1.jpg"
+}

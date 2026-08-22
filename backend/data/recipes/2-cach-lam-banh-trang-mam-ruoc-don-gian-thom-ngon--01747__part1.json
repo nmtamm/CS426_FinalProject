@@ -1,0 +1,93 @@
+{
+  "source_id": "01747",
+  "name": "Bánh tráng mắm ruốc nướng bằng bếp than",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3043b180f8a63d1e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-trang-mam-ruoc-don-gian-thom-ngon--01747",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-trang-mam-ruoc-don-gian-thom-ngon--01747",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trứng gà 3 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tôm khô 50 gr",
+      "raw_name": "Tôm khô",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sả 1 cây",
+      "raw_name": "Sả",
+      "quantity": 1,
+      "unit": "cây",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá 20 gr",
+      "raw_name": "Hành lá",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Mắm ruốc 50 ml",
+      "raw_name": "Mắm ruốc",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Thịt nạc heo xay 100 gr",
+      "raw_name": "Thịt nạc heo xay",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tím 1 củ",
+      "raw_name": "Hành tím",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bánh tráng 20 gr (vài cái)",
+      "raw_name": "Bánh tráng",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "vài cái",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tỏi 20 gr (khoảng 4 tép)",
+      "raw_name": "Tỏi",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "khoảng 4 tép",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:03:03Z",
+  "page_title": "2 cách làm bánh tráng mắm ruốc đơn giản, thơm ngon",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/banh-trang-mam-ruoc-nuong-bang-bep-than-thumbnail.jpg"
+}

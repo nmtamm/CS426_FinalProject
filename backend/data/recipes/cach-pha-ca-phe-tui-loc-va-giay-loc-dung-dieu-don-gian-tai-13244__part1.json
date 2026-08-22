@@ -1,0 +1,37 @@
+{
+  "source_id": "13244",
+  "name": "Cà phê giấy lọc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a49effc754fd7d66.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-ca-phe-tui-loc-va-giay-loc-dung-dieu-don-gian-tai-13244",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-ca-phe-tui-loc-va-giay-loc-dung-dieu-don-gian-tai-13244",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hạt cà phê 26 gr",
+      "raw_name": "Hạt cà phê",
+      "quantity": 26,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước nóng 400 ml",
+      "raw_name": "Nước nóng",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:57:13Z",
+  "page_title": "2 cách pha cà phê túi lọc và giấy lọc đúng điệu đơn giản tại nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/ca-phe-giay-loc-thumbnail-1.jpg"
+}

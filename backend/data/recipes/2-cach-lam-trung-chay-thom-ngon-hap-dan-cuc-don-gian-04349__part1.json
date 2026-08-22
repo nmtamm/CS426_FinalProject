@@ -1,0 +1,125 @@
+{
+  "source_id": "04349",
+  "name": "Trứng vịt lộn chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7212f7af5de9e093.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-trung-chay-thom-ngon-hap-dan-cuc-don-gian-04349",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-trung-chay-thom-ngon-hap-dan-cuc-don-gian-04349",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tàu hũ ky 100 gr",
+      "raw_name": "Tàu hũ ky",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm đông cô 50 gr",
+      "raw_name": "Nấm đông cô",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu hũ trắng 100 gr",
+      "raw_name": "Đậu hũ trắng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đậu xanh không vỏ 100 gr",
+      "raw_name": "Đậu xanh không vỏ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rong biển 2 lá",
+      "raw_name": "Rong biển",
+      "quantity": 2,
+      "unit": "lá",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt 1 quả",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Lá chuối 2 lá",
+      "raw_name": "Lá chuối",
+      "quantity": 2,
+      "unit": "lá",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành tím 2 củ",
+      "raw_name": "Hành tím",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rau răm 10 gr",
+      "raw_name": "Rau răm",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đường 2 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Hạt nêm 1 muỗng cà phê",
+      "raw_name": "Hạt nêm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Tiêu 1/4 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Bột ngọt 1/4 muỗng cà phê",
+      "raw_name": "Bột ngọt",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T18:43:43Z",
+  "page_title": "2 cách làm trứng chay thơm ngon hấp dẫn cực đơn giản",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookRecipe/Avatar/trung-vit-lon-chay-thumbnail.jpg"
+}

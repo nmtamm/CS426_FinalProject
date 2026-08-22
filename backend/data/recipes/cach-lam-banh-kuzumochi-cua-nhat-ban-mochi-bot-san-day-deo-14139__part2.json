@@ -1,0 +1,57 @@
+{
+  "source_id": "14139",
+  "name": "Kuzumochi sữa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1f5c6b78b5ee4b90.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-kuzumochi-cua-nhat-ban-mochi-bot-san-day-deo-14139",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-kuzumochi-cua-nhat-ban-mochi-bot-san-day-deo-14139",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột sắn dây 110 gr",
+      "raw_name": "Bột sắn dây",
+      "quantity": 110,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa tươi không đường 1 lít",
+      "raw_name": "Sữa tươi không đường 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 200 gr",
+      "raw_name": "Đường",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột đậu nành rang 1 ít",
+      "raw_name": "Bột đậu nành rang",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:21:57Z",
+  "page_title": "3 cách làm bánh kuzumochi của Nhật Bản (mochi bột sắn dây) dẻo mềm lạ miệng",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/kuzumochi-sua-thumbnail-1.jpg"
+}

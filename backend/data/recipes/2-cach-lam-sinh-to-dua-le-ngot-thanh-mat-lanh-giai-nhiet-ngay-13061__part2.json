@@ -1,0 +1,45 @@
+{
+  "source_id": "13061",
+  "name": "Sinh tố dưa lê sữa chua",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6639f791aa989341.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sinh-to-dua-le-ngot-thanh-mat-lanh-giai-nhiet-ngay-13061",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sinh-to-dua-le-ngot-thanh-mat-lanh-giai-nhiet-ngay-13061",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa lê 2 quả (khoảng 500gr)",
+      "raw_name": "Dưa lê",
+      "quantity": 2,
+      "unit": "quả",
+      "note": "khoảng 500gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa chua 100 gr (1 hũ)",
+      "raw_name": "Sữa chua",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "1 hũ",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mật ong 1 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T20:09:23Z",
+  "page_title": "2 cách làm sinh tố dưa lê ngọt thanh, mát lạnh giải nhiệt ngày hè",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/sinh-to-dua-le-sua-chua-thumbnail.jpg"
+}

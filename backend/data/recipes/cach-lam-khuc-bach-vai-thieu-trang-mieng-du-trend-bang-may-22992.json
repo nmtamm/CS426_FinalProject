@@ -1,0 +1,95 @@
+{
+  "source_id": "22992",
+  "name": "Khúc bạch vải thiều",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1aaa0e6fb59b20d2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-khuc-bach-vai-thieu-trang-mieng-du-trend-bang-may-22992",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-khuc-bach-vai-thieu-trang-mieng-du-trend-bang-may-22992",
+  "servings_text": "Cho 1 kg vải thiều tươi",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sữa tươi không đường 100 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 20 gr",
+      "raw_name": "Đường",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Kem tươi 100 ml (whipping cream)",
+      "raw_name": "Kem tươi",
+      "quantity": 100,
+      "unit": "ml",
+      "note": "whipping cream",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gelatin 6 gr (lá hoặc bột)",
+      "raw_name": "Gelatin",
+      "quantity": 6,
+      "unit": "gr",
+      "note": "lá hoặc bột",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước lọc 100 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lá dứa 1 nhánh",
+      "raw_name": "Lá dứa",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Vải thiều tươi 1 kg (để nguyên trái)",
+      "raw_name": "Vải thiều tươi",
+      "quantity": 1,
+      "unit": "kg",
+      "note": "để nguyên trái",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Vải thiều tươi 30 gr",
+      "raw_name": "Vải thiều tươi",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hạnh nhân 1 ít",
+      "raw_name": "Hạnh nhân",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:57:36Z",
+  "page_title": "Cách làm khúc bạch vải thiều tráng miệng đu trend bằng máy xay sinh tố",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/khuc-bach-vai-thieu-11.jpg"
+}

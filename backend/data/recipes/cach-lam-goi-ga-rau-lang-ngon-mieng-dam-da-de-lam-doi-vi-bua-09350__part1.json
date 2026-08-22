@@ -1,0 +1,101 @@
+{
+  "source_id": "09350",
+  "name": "Gỏi ức gà rau lang",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bcc22e00c7ad2098.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-ga-rau-lang-ngon-mieng-dam-da-de-lam-doi-vi-bua-09350",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-ga-rau-lang-ngon-mieng-dam-da-de-lam-doi-vi-bua-09350",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ức gà 200 gr",
+      "raw_name": "Ức gà",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rau lang 1 bó",
+      "raw_name": "Rau lang 1 bó",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tây 1/2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt cay 1 trái",
+      "raw_name": "Ớt cay",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 2 tép",
+      "raw_name": "Tỏi 2 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rau răm 10 gr",
+      "raw_name": "Rau răm",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Chanh 1/2 trái",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước mắm 5 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước lọc 900 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 900,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ muối)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ muối",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T17:57:25Z",
+  "page_title": "2 Cách làm gỏi gà rau lang ngon miệng đậm đà dễ làm đổi vị bữa ăn",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookRecipe/Avatar/goi-uc-ga-rau-lang-thumbnail.jpg"
+}

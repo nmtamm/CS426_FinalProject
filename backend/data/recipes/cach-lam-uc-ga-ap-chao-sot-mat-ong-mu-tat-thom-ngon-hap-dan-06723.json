@@ -1,0 +1,127 @@
+{
+  "source_id": "06723",
+  "name": "Ức gà sốt mật ong mù tạt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a5ceade71f6cc742.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-uc-ga-ap-chao-sot-mat-ong-mu-tat-thom-ngon-hap-dan-06723",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-uc-ga-ap-chao-sot-mat-ong-mu-tat-thom-ngon-hap-dan-06723",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ức gà 1 cái (khoảng 500gr)",
+      "raw_name": "Ức gà",
+      "quantity": 1,
+      "unit": "cái",
+      "note": "khoảng 500gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành tây baby 250 gr",
+      "raw_name": "Hành tây baby",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bông cải xanh 1 cây",
+      "raw_name": "Bông cải xanh",
+      "quantity": 1,
+      "unit": "cây",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước hầm gà 200 ml",
+      "raw_name": "Nước hầm gà",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt bột Cayenne 1/2 muỗng cà phê",
+      "raw_name": "Ớt bột Cayenne",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Mè đen rang 1 ít",
+      "raw_name": "Mè đen rang",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Mật ong 2 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Mù tạt 2 muỗng canh",
+      "raw_name": "Mù tạt",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Giấm 1 muỗng cà phê (có thể thay bằng rượu trắng hoặc rượu gạo)",
+      "raw_name": "Giấm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "có thể thay bằng rượu trắng hoặc rượu gạo",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bột bắp 1 muỗng cà phê",
+      "raw_name": "Bột bắp",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Bơ lạt 50 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu oliu 2 muỗng canh",
+      "raw_name": "Dầu oliu",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Muối/ tiêu 1 ít",
+      "raw_name": "Muối/ tiêu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T18:13:38Z",
+  "page_title": "Cách làm ức gà áp chảo mật ong mù tạt thơm ngon hấp dẫn",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/14-1200x676-4.jpg"
+}

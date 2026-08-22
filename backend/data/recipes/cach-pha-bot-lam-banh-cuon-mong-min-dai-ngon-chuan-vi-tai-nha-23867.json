@@ -1,0 +1,131 @@
+{
+  "source_id": "23867",
+  "name": "Bột làm bánh cuốn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/13e35a81e174a67a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-bot-lam-banh-cuon-mong-min-dai-ngon-chuan-vi-tai-nha-23867",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-bot-lam-banh-cuon-mong-min-dai-ngon-chuan-vi-tai-nha-23867",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột gạo 400 gr",
+      "raw_name": "Bột gạo",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột năng 100 gr",
+      "raw_name": "Bột năng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột bắp 50 gr",
+      "raw_name": "Bột bắp",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 30 ml (hoặc dầu hành phi)",
+      "raw_name": "Dầu ăn",
+      "quantity": 30,
+      "unit": "ml",
+      "note": "hoặc dầu hành phi",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Thịt heo xay 300 gr",
+      "raw_name": "Thịt heo xay",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Củ sắn 300 gr (củ đậu)",
+      "raw_name": "Củ sắn",
+      "quantity": 300,
+      "unit": "gr",
+      "note": "củ đậu",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tây 50 gr",
+      "raw_name": "Hành tây",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nấm mèo khô 20 gr (mộc nhĩ)",
+      "raw_name": "Nấm mèo khô",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "mộc nhĩ",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối hột 25 gr",
+      "raw_name": "Muối hột",
+      "quantity": 25,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước mắm 100 ml (loại 10 - 12 độ đạm)",
+      "raw_name": "Nước mắm",
+      "quantity": 100,
+      "unit": "ml",
+      "note": "loại 10 - 12 độ đạm",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Giấm gạo 1 muỗng canh",
+      "raw_name": "Giấm gạo",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ dầu hào/ hạt nêm/ đường/ bột ngọt/ tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ dầu hào/ hạt nêm/ đường/ bột ngọt/ tiêu",
+      "display_order": 12
+    },
+    {
+      "raw_text": "Chả lụa/ nem chua/ bánh tôm chiên 1 ít",
+      "raw_name": "Chả lụa/ nem chua/ bánh tôm chiên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Giá đỗ/ dưa leo/ rau quế/ hành phi/ ngò rí 1 ít",
+      "raw_name": "Giá đỗ/ dưa leo/ rau quế/ hành phi/ ngò rí",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T20:32:22Z",
+  "page_title": "Cách pha bột làm bánh cuốn mỏng mịn, dai ngon chuẩn vị tại nhà dễ làm",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20m%C3%B3n%20an%20t1%20%281200%20x%20676%20px%29%20%2841%29.jpg"
+}

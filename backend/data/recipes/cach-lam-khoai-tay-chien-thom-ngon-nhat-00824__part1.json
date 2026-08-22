@@ -1,0 +1,65 @@
+{
+  "source_id": "00824",
+  "name": "Khoai tây chiên giòn không cần bột",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/236abccf50ca0b0f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-khoai-tay-chien-thom-ngon-nhat-00824",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-khoai-tay-chien-thom-ngon-nhat-00824",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai tây 4 củ",
+      "raw_name": "Khoai tây",
+      "quantity": 4,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột phô mai 2 muỗng canh",
+      "raw_name": "Bột phô mai",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột nghệ 1 muỗng cà phê",
+      "raw_name": "Bột nghệ",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:08:46Z",
+  "page_title": "3 cách làm khoai tây chiên giòn, vàng rụm cực đơn giản tại nhà",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2022/10/CookRecipe/Avatar/1200.jpg"
+}

@@ -1,0 +1,99 @@
+{
+  "source_id": "07946",
+  "name": "Gỏi cá lăng trộn rau mầm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0040a330357b0bec.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-ca-lang-tron-rau-mam-chua-ngot-cuc-ngon-an-la-07946",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-ca-lang-tron-rau-mam-chua-ngot-cuc-ngon-an-la-07946",
+  "servings_text": "Cho 1 phần ăn",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cá lăng 150 gr (phần bụng cá)",
+      "raw_name": "Cá lăng",
+      "quantity": 150,
+      "unit": "gr",
+      "note": "phần bụng cá",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rau cải mầm 200 gr",
+      "raw_name": "Rau cải mầm",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt sừng 2 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tím 5 củ",
+      "raw_name": "Hành tím",
+      "quantity": 5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rau mùi tàu 1 ít",
+      "raw_name": "Rau mùi tàu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước cốt chanh 3 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột ớt 2 muỗng canh",
+      "raw_name": "Bột ớt",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường 3 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Mù tạt 1 muỗng cà phê",
+      "raw_name": "Mù tạt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước mắm 3 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T17:58:58Z",
+  "page_title": "Cách làm gỏi cá lăng trộn rau mầm chua ngọt cực ngon, ăn là ghiền",
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookProduct/goicalangraumam-1200x676.jpg"
+}

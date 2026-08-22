@@ -1,0 +1,79 @@
+{
+  "source_id": "04192",
+  "name": "Bánh bông lan chiffon dừa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5bf7a7ab391fbdd9.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-bong-lan-chiffon-dua-thom-ngon-la-mieng-bong-04192",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-bong-lan-chiffon-dua-thom-ngon-la-mieng-bong-04192",
+  "servings_text": "Cho 4 - 5 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lòng đỏ trứng 4 cái",
+      "raw_name": "Lòng đỏ trứng",
+      "quantity": 4,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột mì số 8 100 gr",
+      "raw_name": "Bột mì số 8",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường bột 100 gr",
+      "raw_name": "Đường bột",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu dừa 60 ml",
+      "raw_name": "Dầu dừa",
+      "quantity": 60,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cốt dừa 70 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 70,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lòng trắng trứng 4 cái",
+      "raw_name": "Lòng trắng trứng",
+      "quantity": 4,
+      "unit": "cái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước cốt chanh 1/2 muỗng cà phê",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:24:52Z",
+  "page_title": "Cách làm bánh bông lan chiffon dừa thơm ngon lạ miệng bông mịn",
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookProduct/Webp.net-resizeimage(47)-1200x676.jpg"
+}

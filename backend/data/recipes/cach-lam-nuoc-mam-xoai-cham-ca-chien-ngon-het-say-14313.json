@@ -1,0 +1,99 @@
+{
+  "source_id": "14313",
+  "name": "Nước mắm xoài",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/65448f8fd1c0ab6f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-mam-xoai-cham-ca-chien-ngon-het-say-14313",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-mam-xoai-cham-ca-chien-ngon-het-say-14313",
+  "servings_text": "Cho 1 tô",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Xoài xanh 1 quả",
+      "raw_name": "Xoài xanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chanh 2/3 quả",
+      "raw_name": "Chanh",
+      "quantity": 0.667,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt cam 4 quả",
+      "raw_name": "Ớt cam",
+      "quantity": 4,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt xanh 5 quả",
+      "raw_name": "Ớt xanh",
+      "quantity": 5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt đỏ 4 quả",
+      "raw_name": "Ớt đỏ",
+      "quantity": 4,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành 2 củ",
+      "raw_name": "Hành",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi 3 tép",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành lá 2 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước mắm 1 chén (100 ml)",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "chén",
+      "note": "100 ml",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T20:26:22Z",
+  "page_title": "Cách làm nước mắm xoài chấm cá chiên ngon hết sảy",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-nuoc-mam-xoai-cham-ca-chien-ngon-het-say-avt-1200x676-1.jpg"
+}

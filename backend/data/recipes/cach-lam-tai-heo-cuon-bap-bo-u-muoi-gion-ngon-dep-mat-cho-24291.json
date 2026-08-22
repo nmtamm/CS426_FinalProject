@@ -1,0 +1,83 @@
+{
+  "source_id": "24291",
+  "name": "Tai heo cuộn bắp bò ủ muối",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7de92a337cfc67c4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tai-heo-cuon-bap-bo-u-muoi-gion-ngon-dep-mat-cho-24291",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tai-heo-cuon-bap-bo-u-muoi-gion-ngon-dep-mat-cho-24291",
+  "servings_text": "Cho 4 - 5 người ăn",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tai heo 600 gr (2 cái)",
+      "raw_name": "Tai heo",
+      "quantity": 600,
+      "unit": "gr",
+      "note": "2 cái",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bắp bò 700 gr",
+      "raw_name": "Bắp bò",
+      "quantity": 700,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gia vị gà ủ muối 1 gói",
+      "raw_name": "Gia vị gà ủ muối",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rượu trắng 100 ml",
+      "raw_name": "Rượu trắng",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tiểu hồi 1 muỗng cà phê",
+      "raw_name": "Tiểu hồi",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Quế cây 1 cây",
+      "raw_name": "Quế cây",
+      "quantity": 1,
+      "unit": "cây",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tai hồi 2 cái",
+      "raw_name": "Tai hồi",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối/ đường 1 ít",
+      "raw_name": "Muối/ đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:31:57Z",
+  "page_title": "Cách làm tai heo cuộn bắp bò ủ muối giòn ngon, đẹp mắt cho các ngày lễ Tết",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t03%201200676%20-%202026-04-06T153536.844.jpg"
+}

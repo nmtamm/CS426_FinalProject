@@ -1,0 +1,79 @@
+{
+  "source_id": "22567",
+  "name": "Củ hũ dừa xào thịt bò",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/062055d8fa217191.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cu-hu-dua-xao-thit-bo-gion-ngon-hap-dan-dam-da-bang-22567",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cu-hu-dua-xao-thit-bo-gion-ngon-hap-dan-dam-da-bang-22567",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò 400 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Củ hũ dừa tươi 800 gr",
+      "raw_name": "Củ hũ dừa tươi",
+      "quantity": 800,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành lá 1 cây",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "cây",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 4 tép",
+      "raw_name": "Tỏi 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tím 2 củ",
+      "raw_name": "Hành tím",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt 1 quả",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ bột ngọt/ hạt nêm/ nước mắm/ dầu ăn)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ bột ngọt/ hạt nêm/ nước mắm/ dầu ăn",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:22:59Z",
+  "page_title": "Cách làm củ hũ dừa xào thịt bò giòn ngon hấp dẫn đậm đà bằng chảo nhôm lớn",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/17022025%20%2837%29.jpg"
+}

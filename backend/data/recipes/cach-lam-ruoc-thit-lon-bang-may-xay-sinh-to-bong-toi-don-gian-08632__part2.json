@@ -1,0 +1,93 @@
+{
+  "source_id": "08632",
+  "name": "Ruốc thịt lợn (có tạo màu)",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2a540e02125d8485.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ruoc-thit-lon-bang-may-xay-sinh-to-bong-toi-don-gian-08632",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ruoc-thit-lon-bang-may-xay-sinh-to-bong-toi-don-gian-08632",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt heo 500 gr",
+      "raw_name": "Thịt heo",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gừng 1 nhánh",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột nghệ 1/2 muỗng cà phê (nếu thích)",
+      "raw_name": "Bột nghệ",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": "nếu thích",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột nêm 1 muỗng cà phê",
+      "raw_name": "Bột nêm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rượu 9 muỗng cà phê",
+      "raw_name": "Rượu",
+      "quantity": 9,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng cà phê",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng cà phê",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng cà phê",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:18:25Z",
+  "page_title": "2 Cách làm ruốc thịt lợn (chà bông heo) bằng máy xay sinh tố cực đơn giản",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/ruoc-thit-lon-co-tao-mau-thumbnail.jpg"
+}

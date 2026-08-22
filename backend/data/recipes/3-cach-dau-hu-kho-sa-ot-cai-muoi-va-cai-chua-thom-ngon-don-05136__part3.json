@@ -1,0 +1,81 @@
+{
+  "source_id": "05136",
+  "name": "Đậu hũ kho cải chua",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d07f8aedc51d2d1c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-dau-hu-kho-sa-ot-cai-muoi-va-cai-chua-thom-ngon-don-05136",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-dau-hu-kho-sa-ot-cai-muoi-va-cai-chua-thom-ngon-don-05136",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-kho",
+      "name": "Món kho"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu hũ trắng 150 gr",
+      "raw_name": "Đậu hũ trắng",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cải chua 150 gr",
+      "raw_name": "Cải chua",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gia vị 1 ít (đường/hạt nêm chay)",
+      "raw_name": "Gia vị",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/hạt nêm chay",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng 5 lát",
+      "raw_name": "Gừng 5 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tím 1 củ",
+      "raw_name": "Hành tím",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước tương 1 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt 1 trái",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:51:07Z",
+  "page_title": "3 cách làm đậu hũ kho sả ớt, cải muối và cải chua thơm ngon đơn giản",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookRecipe/Avatar/dau-hu-kho-cai-chua-thumbnail.jpg"
+}

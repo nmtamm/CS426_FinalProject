@@ -1,0 +1,49 @@
+{
+  "source_id": "15458",
+  "name": "Cách làm người tuyết bằng củ cải trắng, cà rốt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1404baffd4c795f0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nguoi-tuyet-bang-cach-cat-tia-trai-cay-nhu-ca-rot-15458",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nguoi-tuyet-bang-cach-cat-tia-trai-cay-nhu-ca-rot-15458",
+  "servings_text": "Cho 1 cái",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "meo-vao-bep",
+      "name": "Mẹo vào bếp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cải trắng 1 củ",
+      "raw_name": "Cải trắng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tiêu xanh 2 hạt (hoặc tiêu đen)",
+      "raw_name": "Tiêu xanh 2 hạt",
+      "quantity": null,
+      "unit": null,
+      "note": "hoặc tiêu đen",
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:40:07Z",
+  "page_title": "Cách làm người tuyết bằng cách cắt tỉa trái cây như cà rốt, bưởi dễ dàng",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/cach-lam-nguoi-tuyet-bang-cu-cai-trang-ca-rot-thumbnail-2.jpg"
+}

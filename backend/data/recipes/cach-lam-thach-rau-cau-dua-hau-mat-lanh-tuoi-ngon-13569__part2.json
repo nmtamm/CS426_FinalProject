@@ -1,0 +1,53 @@
+{
+  "source_id": "13569",
+  "name": "Thạch rau câu dưa hấu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/16e9fd874872da54.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thach-rau-cau-dua-hau-mat-lanh-tuoi-ngon-13569",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thach-rau-cau-dua-hau-mat-lanh-tuoi-ngon-13569",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa hấu 1 quả (khoảng 2.5kg)",
+      "raw_name": "Dưa hấu",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "khoảng 2.5kg",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột rau câu dẻo 1 gói (12gr)",
+      "raw_name": "Bột rau câu dẻo",
+      "quantity": 1,
+      "unit": "gói",
+      "note": "12gr",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước 1.6 lít",
+      "raw_name": "Nước 1.6 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường cát 150 gr",
+      "raw_name": "Đường cát",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:17:09Z",
+  "page_title": "4 cách làm thạch rau câu dưa hấu giòn ngon, ngọt mát cực đơn giản",
+  "variant_index": 2,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/thach-rau-cau-dua-hau-thumbnail.jpg"
+}

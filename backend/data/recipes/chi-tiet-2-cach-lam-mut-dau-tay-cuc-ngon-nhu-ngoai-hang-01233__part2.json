@@ -1,0 +1,41 @@
+{
+  "source_id": "01233",
+  "name": "Mứt dâu tây sấy",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f6aa5e371b849868.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/chi-tiet-2-cach-lam-mut-dau-tay-cuc-ngon-nhu-ngoai-hang-01233",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/chi-tiet-2-cach-lam-mut-dau-tay-cuc-ngon-nhu-ngoai-hang-01233",
+  "servings_text": "Cho 300gr mứt",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dâu tây 1 kg",
+      "raw_name": "Dâu tây",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 600 gr",
+      "raw_name": "Đường",
+      "quantity": 600,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:14:13Z",
+  "page_title": "Chi tiết 2 cách làm mứt dâu tây cực ngon như ngoài hàng",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/mut-dau-tay-say-thumbnail.jpg"
+}

@@ -1,0 +1,85 @@
+{
+  "source_id": "05589",
+  "name": "Bánh quy vòng xoáy",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/76e30b4b7fdc691f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-quy-gion-giang-sinh-bat-mat-thom-ngon-don-gian-05589",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-quy-gion-giang-sinh-bat-mat-thom-ngon-don-gian-05589",
+  "servings_text": "Cho 6 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì đa dụng 320 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 320,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bơ lạt 230 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 230,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lòng đỏ trứng gà 2 cái",
+      "raw_name": "Lòng đỏ trứng gà",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Màu thực phẩm đỏ 5 ml",
+      "raw_name": "Màu thực phẩm đỏ",
+      "quantity": 5,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Màu thực phẩm xanh 5 ml",
+      "raw_name": "Màu thực phẩm xanh",
+      "quantity": 5,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Chiết xuất vani 2 muỗng cà phê",
+      "raw_name": "Chiết xuất vani",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 200 gr",
+      "raw_name": "Đường",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 2 gr",
+      "raw_name": "Muối",
+      "quantity": 2,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:40:12Z",
+  "page_title": "2 cách làm bánh quy vòng xoáy - Pinwheel cookies bắt mắt cho mùa Giáng Sinh",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookRecipe/Avatar/christmas-swirl-cookies-main1200.jpg"
+}

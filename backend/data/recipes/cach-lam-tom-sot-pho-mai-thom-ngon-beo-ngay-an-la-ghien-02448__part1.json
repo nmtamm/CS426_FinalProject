@@ -1,0 +1,97 @@
+{
+  "source_id": "02448",
+  "name": "Tôm sốt phô mai",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ea5495b6f52b71d3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tom-sot-pho-mai-thom-ngon-beo-ngay-an-la-ghien-02448",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tom-sot-pho-mai-thom-ngon-beo-ngay-an-la-ghien-02448",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tôm 500 gr",
+      "raw_name": "Tôm",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Phô mai mozzarella 500 gr",
+      "raw_name": "Phô mai mozzarella",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bắp ngọt 200 gr",
+      "raw_name": "Bắp ngọt",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rong biển 5 gr",
+      "raw_name": "Rong biển",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Mùi tây khô 1 ít",
+      "raw_name": "Mùi tây khô",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bơ lạt 40 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt bột 1/2 muỗng cà phê",
+      "raw_name": "Ớt bột",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối/ Tiêu xay 1 ít",
+      "raw_name": "Muối/ Tiêu xay",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:18:16Z",
+  "page_title": "2 Cách làm tôm sốt phô mai thơm lừng, béo ngậy kéo sợi ăn là ghiền",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://img.youtube.com/vi/NthHSYjo7Og/maxresdefault.jpg"
+}

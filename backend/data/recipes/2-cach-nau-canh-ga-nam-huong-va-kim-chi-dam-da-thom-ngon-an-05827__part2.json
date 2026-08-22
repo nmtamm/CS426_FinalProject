@@ -1,0 +1,97 @@
+{
+  "source_id": "05827",
+  "name": "Canh gà kim chi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7ef0de475e2a872c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-canh-ga-nam-huong-va-kim-chi-dam-da-thom-ngon-an-05827",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-canh-ga-nam-huong-va-kim-chi-dam-da-thom-ngon-an-05827",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-canh",
+      "name": "Món canh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đùi gà 700 gr",
+      "raw_name": "Đùi gà",
+      "quantity": 700,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Kim chi 500 gr",
+      "raw_name": "Kim chi",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước kim chi 50 ml",
+      "raw_name": "Nước kim chi",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành boa rô 1 cây (tỏi tây)",
+      "raw_name": "Hành boa rô",
+      "quantity": 1,
+      "unit": "cây",
+      "note": "tỏi tây",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tây 1/4 củ",
+      "raw_name": "Hành tây",
+      "quantity": 0.25,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước tương 1.5 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đương/ muối/ tiêu/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đương/ muối/ tiêu/ hạt nêm",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:19:12Z",
+  "page_title": "2 cách nấu canh gà nấm hương và kim chi đậm đà thơm ngon ăn là ghiền",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookRecipe/Avatar/canh-ga-kim-chi-thumbnail.jpg"
+}

@@ -1,0 +1,109 @@
+{
+  "source_id": "02137",
+  "name": "Bánh giò chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/038b3b1641f50a50.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-gio-chay-thom-ngon-dep-mat-de-lam-t-02137",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-gio-chay-thom-ngon-dep-mat-de-lam-t-02137",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lá chuối vuông 16 lá (khoảng 30cm)",
+      "raw_name": "Lá chuối vuông",
+      "quantity": 16,
+      "unit": "lá",
+      "note": "khoảng 30cm",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột gạo 200 gr",
+      "raw_name": "Bột gạo",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột năng 50 gr",
+      "raw_name": "Bột năng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước cốt dừa 250 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 250,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nấm mèo 20 gr",
+      "raw_name": "Nấm mèo",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tây 1/2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành tím 1 muỗng canh (băm nhuyễn)",
+      "raw_name": "Hành tím",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "băm nhuyễn",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hạt nêm chay 2 muỗng cà phê",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Muối/ Tiêu xay 1 ít",
+      "raw_name": "Muối/ Tiêu xay",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:46:34Z",
+  "page_title": "2 cách làm bánh giò chay thơm ngon, đẹp mắt dễ làm tại nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/banh-gio-chay-thumbnail.jpg"
+}

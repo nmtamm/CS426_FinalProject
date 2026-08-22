@@ -1,0 +1,55 @@
+{
+  "source_id": "15304",
+  "name": "Nước ép nha đam mật ong",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3e9f7b1216910dc5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-nha-dam-mat-ong-giam-can-ngot-mat-de-uong-15304",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-nha-dam-mat-ong-giam-can-ngot-mat-de-uong-15304",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nha đam 300 gr (khoảng 1 nhánh to)",
+      "raw_name": "Nha đam",
+      "quantity": 300,
+      "unit": "gr",
+      "note": "khoảng 1 nhánh to",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gừng 10 gr",
+      "raw_name": "Gừng",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mật ong 1.5 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối hạt 1 ít",
+      "raw_name": "Muối hạt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:48:25Z",
+  "page_title": "Cách làm nước ép nha đam mật ong giảm cân ngọt mát dễ uống",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookDish/cach-lam-nuoc-ep-nha-dam-mat-ong-giam-can-ngot-mat-de-uong-avt-1200x676.jpg"
+}

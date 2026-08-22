@@ -1,0 +1,153 @@
+{
+  "source_id": "05050",
+  "name": "Gà tây nướng ngũ vị nguyên con",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/936a7f6ab1adaedc.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-tay-nhoi-dut-lo-nguyen-con-cho-ngay-le-ta-on-hap-05050",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-tay-nhoi-dut-lo-nguyen-con-cho-ngay-le-ta-on-hap-05050",
+  "servings_text": "Cho 17 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà tây 6 kg (1 con)",
+      "raw_name": "Gà tây",
+      "quantity": 6,
+      "unit": "kg",
+      "note": "1 con",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Khoai tây 200 gr",
+      "raw_name": "Khoai tây",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 200 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Vỏ chanh vàng 5 gr",
+      "raw_name": "Vỏ chanh vàng",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chanh vàng 150 gr",
+      "raw_name": "Chanh vàng",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lá hương thảo 20 gr",
+      "raw_name": "Lá hương thảo",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi 30 gr",
+      "raw_name": "Tỏi",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bơ lạt 150 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột ngũ vị hương 1 muỗng cà phê",
+      "raw_name": "Bột ngũ vị hương",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bột màu điều 1 muỗng cà phê",
+      "raw_name": "Bột màu điều",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước cốt chanh vàng 20 ml",
+      "raw_name": "Nước cốt chanh vàng",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước tương 3 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Mật ong 5 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Đường nâu 1 muỗng canh",
+      "raw_name": "Đường nâu",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T18:11:16Z",
+  "page_title": "3 cách làm gà tây nướng nguyên con cho ngày Lễ Tạ Ơn hấp dẫn cho cả nhà",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/ga-tay-nuong-ngu-vi-nguyen-con-thumbnail.jpg"
+}

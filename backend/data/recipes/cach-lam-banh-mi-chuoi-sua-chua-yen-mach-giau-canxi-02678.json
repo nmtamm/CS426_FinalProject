@@ -1,0 +1,111 @@
+{
+  "source_id": "02678",
+  "name": "Bánh mì chuối sữa chua yến mạch",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0e95297683e8f4ec.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-mi-chuoi-sua-chua-yen-mach-giau-canxi-02678",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-mi-chuoi-sua-chua-yen-mach-giau-canxi-02678",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chuối 3 quả",
+      "raw_name": "Chuối",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hạnh nhân 3 muỗng canh (thái lát)",
+      "raw_name": "Hạnh nhân",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": "thái lát",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột yến mạch 300 gr",
+      "raw_name": "Bột yến mạch",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột nở 1.5 muỗng cà phê (baking powder)",
+      "raw_name": "Bột nở",
+      "quantity": 1.5,
+      "unit": "muỗng cà phê",
+      "note": "baking powder",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột quế 1 muỗng cà phê",
+      "raw_name": "Bột quế",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu oliu 60 ml",
+      "raw_name": "Dầu oliu",
+      "quantity": 60,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Mật ong 60 ml",
+      "raw_name": "Mật ong",
+      "quantity": 60,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Sữa chua không đường 110 gr (sữa chua Hy Lạp)",
+      "raw_name": "Sữa chua không đường",
+      "quantity": 110,
+      "unit": "gr",
+      "note": "sữa chua Hy Lạp",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hạt chia 1.5 muỗng cà phê",
+      "raw_name": "Hạt chia",
+      "quantity": 1.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Tinh chất vani 1 muỗng cà phê",
+      "raw_name": "Tinh chất vani",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T19:08:43Z",
+  "page_title": "Cách làm bánh mì chuối sữa chua yến mạch giàu canxi thơm ngon bổ dưỡng",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/06/03/1260401/cach-lam-banh-mi-chuoi-sua-chua-yen-mach-giau-canx-7-760x367.jpg"
+}

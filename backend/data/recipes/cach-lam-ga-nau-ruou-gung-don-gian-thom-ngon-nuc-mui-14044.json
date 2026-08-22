@@ -1,0 +1,59 @@
+{
+  "source_id": "14044",
+  "name": "Gà nấu rượu gừng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/30d08cb3e29463b1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-nau-ruou-gung-don-gian-thom-ngon-nuc-mui-14044",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-nau-ruou-gung-don-gian-thom-ngon-nuc-mui-14044",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt gà 500 gr",
+      "raw_name": "Thịt gà",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rượu trắng 500 ml",
+      "raw_name": "Rượu trắng",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 ít",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối/ bột ngọt 1 ít",
+      "raw_name": "Muối/ bột ngọt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T18:12:18Z",
+  "page_title": "Cách làm gà nấu rượu gừng đơn giản, thơm ngon nức mũi",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-ga-nau-ruou-gung-don-gian-thom-ngon-nuc-mui-avt-1200x676.jpg"
+}

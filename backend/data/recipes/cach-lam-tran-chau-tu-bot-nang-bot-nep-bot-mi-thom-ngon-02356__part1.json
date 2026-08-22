@@ -1,0 +1,77 @@
+{
+  "source_id": "02356",
+  "name": "Trân châu đường đen",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/387ead452e40ed3c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tran-chau-tu-bot-nang-bot-nep-bot-mi-thom-ngon-02356",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tran-chau-tu-bot-nang-bot-nep-bot-mi-thom-ngon-02356",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột năng 140 gr",
+      "raw_name": "Bột năng",
+      "quantity": 140,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột gạo 20 gr",
+      "raw_name": "Bột gạo",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trà bí đao 200 ml",
+      "raw_name": "Trà bí đao",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Siro đường 4 muỗng cà phê",
+      "raw_name": "Siro đường",
+      "quantity": 4,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường đen 200 gr",
+      "raw_name": "Đường đen",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột cacao 5 gr",
+      "raw_name": "Bột cacao",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột cà phê 5 gr",
+      "raw_name": "Bột cà phê",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:04:49Z",
+  "page_title": "4 cách làm trân châu từ bột năng, bột nếp, bột mì thơm ngon, dai mềm",
+  "variant_index": 1,
+  "variant_count": 4,
+  "original_image_url": "https://img.youtube.com/vi/6XUnZTtwoGk/maxresdefault.jpg"
+}

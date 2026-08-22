@@ -1,0 +1,65 @@
+{
+  "source_id": "04129",
+  "name": "Mỡ đường",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a5835c0fb02fb8d0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mo-duong-lam-banh-trung-thu-thap-cam-de-duoc-lau-04129",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mo-duong-lam-banh-trung-thu-thap-cam-de-duoc-lau-04129",
+  "servings_text": "Cho 1kg",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "meo-vao-bep",
+      "name": "Mẹo vào bếp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mỡ gáy heo 1 kg",
+      "raw_name": "Mỡ gáy heo",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường cát trắng 420 gr",
+      "raw_name": "Đường cát trắng",
+      "quantity": 420,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hoa quế 5 gr",
+      "raw_name": "Hoa quế",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hoa hồi 5 gr",
+      "raw_name": "Hoa hồi",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gừng 1/2 củ",
+      "raw_name": "Gừng",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:44:19Z",
+  "page_title": "2 cách làm mỡ đường làm bánh trung thu thập cẩm để được lâu, trắng trong",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/mo-duong-cho-banh-trung-thu-thap-cam-thumbnail.jpg"
+}

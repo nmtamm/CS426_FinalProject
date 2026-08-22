@@ -1,0 +1,51 @@
+{
+  "source_id": "07918",
+  "name": "Khô cá ba sa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1d91df47bf0c2dd7.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kho-ca-ba-sa-thom-ngon-chuan-vi-de-lam-tai-nha-07918",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kho-ca-ba-sa-thom-ngon-chuan-vi-de-lam-tai-nha-07918",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cá ba sa 1 kg",
+      "raw_name": "Cá ba sa",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt bột 1 muỗng canh",
+      "raw_name": "Ớt bột",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ bột ngọt",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:29:45Z",
+  "page_title": "Cách làm khô cá ba sa thơm ngon, chuẩn vị dễ làm tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/1-1200x676-23.jpg"
+}

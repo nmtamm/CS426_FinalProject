@@ -1,0 +1,91 @@
+{
+  "source_id": "22831",
+  "name": "Cách làm sốt xá xíu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ad069fbac7b4eba6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sot-xa-xiu-cham-thit-quay-dam-da-bang-noi-va-chao-22831",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sot-xa-xiu-cham-thit-quay-dam-da-bang-noi-va-chao-22831",
+  "servings_text": "Cho 1 phần",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dầu hào 2 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước tương 2 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rượu gạo 1 muỗng canh",
+      "raw_name": "Rượu gạo",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Mạch nha 1.5 muỗng canh",
+      "raw_name": "Mạch nha",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gừng 1 muỗng canh",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi 2 tép",
+      "raw_name": "Tỏi 2 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tiêu 1 muỗng canh",
+      "raw_name": "Tiêu",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ngũ vị hương 1/2 muỗng cà phê",
+      "raw_name": "Ngũ vị hương",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T20:27:16Z",
+  "page_title": "Cách làm sốt xá xíu chấm thịt quay đậm đà bằng nồi và chảo chống dính",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/djsasjjso%CC%88o%CC%88.jpg"
+}

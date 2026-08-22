@@ -1,0 +1,107 @@
+{
+  "source_id": "14127",
+  "name": "Salad gà dầu giấm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/882fe5452c9548f2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-salad-ga-dau-giam-ngot-thanh-chua-diu-ngon-tuyet-14127",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-salad-ga-dau-giam-ngot-thanh-chua-diu-ngon-tuyet-14127",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt ức gà 300 gr",
+      "raw_name": "Thịt ức gà",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bơ 1 quả",
+      "raw_name": "Bơ",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Khoai lang 1 củ",
+      "raw_name": "Khoai lang",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà chua 2 quả (hoặc 10 quả cà chua bi)",
+      "raw_name": "Cà chua",
+      "quantity": 2,
+      "unit": "quả",
+      "note": "hoặc 10 quả cà chua bi",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rau xà lách 2 cây",
+      "raw_name": "Rau xà lách",
+      "quantity": 2,
+      "unit": "cây",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bắp cải tím 1/4 cái",
+      "raw_name": "Bắp cải tím",
+      "quantity": 0.25,
+      "unit": "cái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột nghệ 1 muỗng cà phê",
+      "raw_name": "Bột nghệ",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Lá Oregano khô 1 muỗng cà phê",
+      "raw_name": "Lá Oregano khô",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu ô liu 8 muỗng cà phê",
+      "raw_name": "Dầu ô liu",
+      "quantity": 8,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Giấm 4 muỗng cà phê",
+      "raw_name": "Giấm",
+      "quantity": 4,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Muối/ tiêu 1 ít",
+      "raw_name": "Muối/ tiêu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T17:54:35Z",
+  "page_title": "Cách làm salad gà dầu giấm ngọt thanh, chua dịu, ngon tuyệt",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-salad-ga-dau-giam-ngot-thanh-chua-diu-ngon-tuyet-avt-1200x676.jpg"
+}

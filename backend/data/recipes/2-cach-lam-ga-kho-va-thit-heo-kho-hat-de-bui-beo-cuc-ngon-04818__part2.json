@@ -1,0 +1,129 @@
+{
+  "source_id": "04818",
+  "name": "Thịt heo kho hạt dẻ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9c7a51d1bc523bd1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-ga-kho-va-thit-heo-kho-hat-de-bui-beo-cuc-ngon-04818",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-ga-kho-va-thit-heo-kho-hat-de-bui-beo-cuc-ngon-04818",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-kho",
+      "name": "Món kho"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt heo 300 gr",
+      "raw_name": "Thịt heo",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hạt dẻ luộc 200 gr",
+      "raw_name": "Hạt dẻ luộc",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước dừa 500 ml",
+      "raw_name": "Nước dừa",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá 6 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 6,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hoa hồi 1 cái",
+      "raw_name": "Hoa hồi",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bún tàu 5 gr",
+      "raw_name": "Bún tàu",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt 2 trái",
+      "raw_name": "Ớt",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành tím băm 2 muỗng cà phê",
+      "raw_name": "Hành tím băm",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối hột 1 ít",
+      "raw_name": "Muối hột",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu điều 1 muỗng cà phê",
+      "raw_name": "Dầu điều",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Gia vị 1 ít (hạt nêm/bột ngọt/đường/tiêu...)",
+      "raw_name": "Gia vị",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hạt nêm/bột ngọt/đường/tiêu...",
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T18:13:23Z",
+  "page_title": "2 cách làm gà kho và thịt heo kho hạt dẻ bùi béo cực ngon miệng",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookRecipe/Avatar/thit-heo-kho-hat-de-thumbnail.jpg"
+}

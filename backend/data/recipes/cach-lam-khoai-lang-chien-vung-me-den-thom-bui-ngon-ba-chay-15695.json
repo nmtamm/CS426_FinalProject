@@ -1,0 +1,103 @@
+{
+  "source_id": "15695",
+  "name": "Khoai lang chiên vừng - mè đen",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9ef0a38d9ae275a6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-khoai-lang-chien-vung-me-den-thom-bui-ngon-ba-chay-15695",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-khoai-lang-chien-vung-me-den-thom-bui-ngon-ba-chay-15695",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai lang 300 gr",
+      "raw_name": "Khoai lang",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Vừng đen 1 muỗng cà phê (mè đen)",
+      "raw_name": "Vừng đen",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "mè đen",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột năng 2 muỗng cà phê",
+      "raw_name": "Bột năng",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột gạo 100 gr",
+      "raw_name": "Bột gạo",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột nếp 20 gr",
+      "raw_name": "Bột nếp",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột mì 50 gr",
+      "raw_name": "Bột mì",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Sữa tươi không đường 170 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 170,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột nghệ 1 muỗng cà phê",
+      "raw_name": "Bột nghệ",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu ăn 400 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Muối/ đường 1 ít",
+      "raw_name": "Muối/ đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T19:04:32Z",
+  "page_title": "Cách làm khoai lang chiên vừng - mè đen thơm bùi ngon bá cháy tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookDish/cach-lam-khoai-lang-chien-vung-me-den-thom-bui-ngon-ba-chay-avt-1200x676.jpg"
+}

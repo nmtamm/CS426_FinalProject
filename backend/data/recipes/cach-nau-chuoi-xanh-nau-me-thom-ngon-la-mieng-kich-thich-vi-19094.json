@@ -1,0 +1,107 @@
+{
+  "source_id": "19094",
+  "name": "Chuối xanh nấu mẻ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9a3751679d0766f5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-chuoi-xanh-nau-me-thom-ngon-la-mieng-kich-thich-vi-19094",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-chuoi-xanh-nau-me-thom-ngon-la-mieng-kich-thich-vi-19094",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chuối xanh 2 quả",
+      "raw_name": "Chuối xanh",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm đùi gà 100 gram",
+      "raw_name": "Nấm đùi gà 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu hũ bi chiên 100 gram",
+      "raw_name": "Đậu hũ bi chiên 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà chua 2 quả",
+      "raw_name": "Cà chua",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cơm mẻ 1 muỗng canh",
+      "raw_name": "Nước cơm mẻ",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lá tía tô khô 10 gram",
+      "raw_name": "Lá tía tô khô 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Chao 2 miếng",
+      "raw_name": "Chao 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước mắm chay 1 muỗng canh",
+      "raw_name": "Nước mắm chay",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hạt nêm chay 1 muỗng canh",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:47:19Z",
+  "page_title": "Cách làm chuối xanh nấu mẻ thơm ngon, lạ miệng kích thích vị giác gia đình",
+  "original_image_url": "https://cdn.tgdd.vn/2023/04/CookDish/cach-nau-chuoi-xanh-nau-me-thom-ngon-la-mieng-kich-thich-vi-avt-1200x676-2.jpg"
+}

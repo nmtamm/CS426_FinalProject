@@ -1,0 +1,59 @@
+{
+  "source_id": "12490",
+  "name": "Khô cá mối chiên rim đường",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c0fa5e547f991c07.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kho-ca-moi-rim-duong-thom-ngon-don-gian-12490",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kho-ca-moi-rim-duong-thom-ngon-don-gian-12490",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khô cá mối 2 con",
+      "raw_name": "Khô cá mối 2 con",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 3 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dầu ăn 5 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước 100 ml",
+      "raw_name": "Nước",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ bột ngọt",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:30:15Z",
+  "page_title": "Cách làm khô cá mối chiên giấm đường chua ngọt thơm ngon dễ làm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/BeFunky-collage(10)-1200x676.jpg"
+}

@@ -1,0 +1,137 @@
+{
+  "source_id": "14251",
+  "name": "Bánh kem bí ngô hình bí ngô",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7a10f00d24e3550a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-kem-hinh-bi-ngo-sieu-xinh-cho-mua-halloween-14251",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-kem-hinh-bi-ngo-sieu-xinh-cho-mua-halloween-14251",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cake flour 90 gr (bột mì số 8)",
+      "raw_name": "Cake flour",
+      "quantity": 90,
+      "unit": "gr",
+      "note": "bột mì số 8",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Baking powder 5 gr (bột nở)",
+      "raw_name": "Baking powder",
+      "quantity": 5,
+      "unit": "gr",
+      "note": "bột nở",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bí ngô 65 gr (bí đỏ)",
+      "raw_name": "Bí ngô",
+      "quantity": 65,
+      "unit": "gr",
+      "note": "bí đỏ",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bơ lạt 100 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cream cheese 240 gr (để lạnh)",
+      "raw_name": "Cream cheese",
+      "quantity": 240,
+      "unit": "gr",
+      "note": "để lạnh",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Whipping cream 120 gr",
+      "raw_name": "Whipping cream",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Socola trắng 180 gr",
+      "raw_name": "Socola trắng",
+      "quantity": 180,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Sữa đặc 40 gr",
+      "raw_name": "Sữa đặc",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Lá gelatin 6 gr",
+      "raw_name": "Lá gelatin",
+      "quantity": 6,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đường 105 gr",
+      "raw_name": "Đường",
+      "quantity": 105,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Bánh que socola 5 cây (để trang trí)",
+      "raw_name": "Bánh que socola",
+      "quantity": 5,
+      "unit": "cây",
+      "note": "để trang trí",
+      "display_order": 12
+    },
+    {
+      "raw_text": "Màu thực phẩm 1 ít (trắng/ cam/ nâu)",
+      "raw_name": "Màu thực phẩm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "trắng/ cam/ nâu",
+      "display_order": 13
+    },
+    {
+      "raw_text": "Tinh chất vani 1/2 muỗng cà phê",
+      "raw_name": "Tinh chất vani",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T19:40:37Z",
+  "page_title": "2 cách làm bánh kem hình bí ngô siêu xinh cho mùa Halloween hoành tráng",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/banh-kem-bi-ngo-hinh-bi-ngo-thumbnail-1.jpg"
+}

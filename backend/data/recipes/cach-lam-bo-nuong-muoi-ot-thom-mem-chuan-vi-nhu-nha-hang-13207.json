@@ -1,0 +1,51 @@
+{
+  "source_id": "13207",
+  "name": "Bò nướng muối ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/dcc143ac719e7591.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bo-nuong-muoi-ot-thom-mem-chuan-vi-nhu-nha-hang-13207",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bo-nuong-muoi-ot-thom-mem-chuan-vi-nhu-nha-hang-13207",
+  "servings_text": "Cho 1 - 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò 500 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối ớt 1 muỗng canh",
+      "raw_name": "Muối ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước mắm 1/2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T18:30:40Z",
+  "page_title": "Cách làm bò nướng muối ớt thơm mềm, chuẩn vị như nhà hàng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookProduct/BeFunky-collage-2021-09-05T104020.642-1200x676.jpg"
+}

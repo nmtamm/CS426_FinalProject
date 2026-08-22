@@ -1,0 +1,91 @@
+{
+  "source_id": "24306",
+  "name": "sứa đạn sốt thái",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0becbb3db50ad8c2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/sua-dan-sot-thai-bi-quyet-ngam-gion-san-sat-chua-cay-dam-da-24306",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/sua-dan-sot-thai-bi-quyet-ngam-gion-san-sat-chua-cay-dam-da-24306",
+  "servings_text": "Cho 1-2 kg sứa đạn",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sứa đạn 1 kg",
+      "raw_name": "Sứa đạn",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước sốt Thái trộn gỏi 150 ml",
+      "raw_name": "Nước sốt Thái trộn gỏi",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà pháo 200 g",
+      "raw_name": "Cà pháo",
+      "quantity": 200,
+      "unit": "g",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đậu đũa 100 g",
+      "raw_name": "Đậu đũa",
+      "quantity": 100,
+      "unit": "g",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 3 củ",
+      "raw_name": "Tỏi",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt tươi 10 quả",
+      "raw_name": "Ớt tươi",
+      "quantity": 10,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Chanh tươi 3 quả",
+      "raw_name": "Chanh tươi",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Rau thơm 1 ít",
+      "raw_name": "Rau thơm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T17:50:19Z",
+  "page_title": "Sứa đạn sốt Thái: bí quyết ngâm giòn sần sật, chua cay đậm đà",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Su%CC%9B%CC%81a%20%C4%91a%CC%A3n%20so%CC%82%CC%81t%20Tha%CC%81i.jpg"
+}

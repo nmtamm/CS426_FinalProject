@@ -1,0 +1,75 @@
+{
+  "source_id": "23846",
+  "name": "Sốt mắm tỏi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/80636286a395c653.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sot-mam-toi-dam-da-de-nhung-ga-chien-ca-vien-ngon-23846",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sot-mam-toi-dam-da-de-nhung-ga-chien-ca-vien-ngon-23846",
+  "servings_text": "Cho 3 - 4 người ăn (dùng cho 1 con gà)",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nước mắm 150 gr",
+      "raw_name": "Nước mắm",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường cát vàng 150 gr",
+      "raw_name": "Đường cát vàng",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tương ớt 90 gr",
+      "raw_name": "Tương ớt",
+      "quantity": 90,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột ngọt 15 gr",
+      "raw_name": "Bột ngọt",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước lọc 75 gr",
+      "raw_name": "Nước lọc",
+      "quantity": 75,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Thơm chín 50 gr (dứa)",
+      "raw_name": "Thơm chín",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "dứa",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi phi 1/2 muỗng canh",
+      "raw_name": "Tỏi phi",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:25:21Z",
+  "page_title": "Cách làm sốt mắm tỏi đậm đà để nhúng gà, chiên cá viên... ngon chuẩn vị",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20m%C3%B3n%20an%20t1%20%281200%20x%20676%20px%29%20%2818%29.jpg"
+}

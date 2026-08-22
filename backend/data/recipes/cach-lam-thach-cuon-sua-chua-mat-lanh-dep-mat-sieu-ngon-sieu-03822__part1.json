@@ -1,0 +1,81 @@
+{
+  "source_id": "03822",
+  "name": "Thạch cuộn sữa chua",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/94ac84c963d50338.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thach-cuon-sua-chua-mat-lanh-dep-mat-sieu-ngon-sieu-03822",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thach-cuon-sua-chua-mat-lanh-dep-mat-sieu-ngon-sieu-03822",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa hấu 400 g (Thạch dưa hấu)",
+      "raw_name": "Dưa hấu",
+      "quantity": 400,
+      "unit": "g",
+      "note": "Thạch dưa hấu",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 45 g (Thạch dưa hấu)",
+      "raw_name": "Đường",
+      "quantity": 45,
+      "unit": "g",
+      "note": "Thạch dưa hấu",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa chua uống 350 ml (Thạch sữa chua)",
+      "raw_name": "Sữa chua uống",
+      "quantity": 350,
+      "unit": "ml",
+      "note": "Thạch sữa chua",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột rau câu 4.5 g (Thạch dưa hấu)",
+      "raw_name": "Bột rau câu",
+      "quantity": 4.5,
+      "unit": "g",
+      "note": "Thạch dưa hấu",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước lọc 50 ml (Thạch sữa chua)",
+      "raw_name": "Nước lọc",
+      "quantity": 50,
+      "unit": "ml",
+      "note": "Thạch sữa chua",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 35 g (Thạch sữa chua)",
+      "raw_name": "Đường",
+      "quantity": 35,
+      "unit": "g",
+      "note": "Thạch sữa chua",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột rau câu 4.5 g (Thạch sữa chua)",
+      "raw_name": "Bột rau câu",
+      "quantity": 4.5,
+      "unit": "g",
+      "note": "Thạch sữa chua",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:25:56Z",
+  "page_title": "2 cách làm thạch cuộn sữa chua và marshmallow mát lạnh đẹp mắt siêu ngon",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookRecipe/Avatar/thach-cuon-sua-chua-thumbnail.jpg"
+}

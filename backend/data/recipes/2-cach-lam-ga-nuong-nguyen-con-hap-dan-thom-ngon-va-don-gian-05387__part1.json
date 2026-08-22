@@ -1,0 +1,137 @@
+{
+  "source_id": "05387",
+  "name": "Gà nướng nguyên con nhồi gạo nếp",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/deb8f32b2a91a22f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-ga-nuong-nguyen-con-hap-dan-thom-ngon-va-don-gian-05387",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-ga-nuong-nguyen-con-hap-dan-thom-ngon-va-don-gian-05387",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà 1 con",
+      "raw_name": "Gà 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gạo nếp 125 gr",
+      "raw_name": "Gạo nếp",
+      "quantity": 125,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chanh 1 trái",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tiêu 1 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lá kinh giới 1 muỗng canh (oregano)",
+      "raw_name": "Lá kinh giới",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "oregano",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nho khô 1 muỗng canh",
+      "raw_name": "Nho khô",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hạt óc chó 1 muỗng canh",
+      "raw_name": "Hạt óc chó",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nhân sâm 1 nhánh (không bắt buộc)",
+      "raw_name": "Nhân sâm",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": "không bắt buộc",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tỏi 6 tép",
+      "raw_name": "Tỏi 6 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Muối 3 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Bơ lạt 4 muỗng canh",
+      "raw_name": "Bơ lạt",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Giấm 1 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Chồi đậu Hà Lan/rau cải mầm 10 gr",
+      "raw_name": "Chồi đậu Hà Lan/rau cải mầm",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T18:10:22Z",
+  "page_title": "2 cách làm gà nướng nguyên con hấp dẫn thơm ngon và đơn giản tại nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookRecipe/Avatar/ga-nuong-nguyen-con-nhoi-gao-nep-thumbnail.jpg"
+}

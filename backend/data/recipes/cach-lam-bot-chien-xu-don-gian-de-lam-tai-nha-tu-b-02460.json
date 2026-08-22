@@ -1,0 +1,31 @@
+{
+  "source_id": "02460",
+  "name": "Bột chiên xù",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/089f439fafd744e7.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bot-chien-xu-don-gian-de-lam-tai-nha-tu-b-02460",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bot-chien-xu-don-gian-de-lam-tai-nha-tu-b-02460",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    },
+    {
+      "slug": "meo-vao-bep",
+      "name": "Mẹo vào bếp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ổ bánh mì sandwich 150 gr (hoặc bánh mì dài)",
+      "raw_name": "Ổ bánh mì sandwich",
+      "quantity": 150,
+      "unit": "gr",
+      "note": "hoặc bánh mì dài",
+      "display_order": 1
+    }
+  ],
+  "scraped_at": "2026-08-19T20:31:42Z",
+  "page_title": "Cách làm bột chiên xù đơn giản dễ làm tại nhà từ bánh mì cũ",
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookProduct/cach-lam-bot-chien-xu-don-gian-de-lam-tai-nha-3-1200x676.jpg"
+}

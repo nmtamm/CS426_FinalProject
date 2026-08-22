@@ -1,0 +1,87 @@
+{
+  "source_id": "02156",
+  "name": "Gà viên chiên phô mai",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/841acefa8053f534.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-vien-chien-pho-mai-thom-ngon-beo-ngay-02156",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-vien-chien-pho-mai-thom-ngon-beo-ngay-02156",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Phi lê gà 500 gr",
+      "raw_name": "Phi lê gà",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột bắp 2 muỗng canh",
+      "raw_name": "Bột bắp",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Phô mai 100 gr",
+      "raw_name": "Phô mai",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Phô mai mozzarella 200 gr",
+      "raw_name": "Phô mai mozzarella",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột chiên giòn 200 gr",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột chiên xù 200 gr",
+      "raw_name": "Bột chiên xù",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Lá thyme 5 gr (nếu có)",
+      "raw_name": "Lá thyme",
+      "quantity": 5,
+      "unit": "gr",
+      "note": "nếu có",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:12:45Z",
+  "page_title": "Cách làm gà viên chiên phô mai thơm ngon, béo ngậy, siêu đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/04/23/1251243/cach-lam-ga-vien-chien-pho-mai-thom-ngon-beo-ngay-6-760x367.jpg"
+}

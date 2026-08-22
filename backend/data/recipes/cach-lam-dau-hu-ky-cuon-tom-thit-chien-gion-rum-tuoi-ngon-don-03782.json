@@ -1,0 +1,79 @@
+{
+  "source_id": "03782",
+  "name": "Đậu hũ ky cuộn tôm thịt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c0710fb6ece6d264.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-hu-ky-cuon-tom-thit-chien-gion-rum-tuoi-ngon-don-03782",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-hu-ky-cuon-tom-thit-chien-gion-rum-tuoi-ngon-don-03782",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nạc heo xay 100 gr",
+      "raw_name": "Nạc heo xay",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Giò sống 100 gr",
+      "raw_name": "Giò sống",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hạt nêm 2 muỗng cà phê",
+      "raw_name": "Hạt nêm",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu tỏi 1 muỗng cà phê",
+      "raw_name": "Dầu tỏi",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tôm 300 gr",
+      "raw_name": "Tôm",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tàu hũ ky 6 miếng",
+      "raw_name": "Tàu hũ ky 6 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành lá 1 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:34:49Z",
+  "page_title": "Cách làm đậu hũ ky cuộn tôm thịt chiên giòn rụm, tươi ngon đơn giản hấp dẫn",
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookProduct/Untitled-3-1200x676-5.jpg"
+}

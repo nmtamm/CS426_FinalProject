@@ -1,0 +1,95 @@
+{
+  "source_id": "23756",
+  "name": "Thịt kho tàu truyền thống",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f2d7098c85e6a27a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-kho-thit-kho-tau-truyen-thong-mem-ngon-nuoc-trong-chuan-23756",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-kho-thit-kho-tau-truyen-thong-mem-ngon-nuoc-trong-chuan-23756",
+  "servings_text": "Cho 4 - 5 người ăn",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-kho",
+      "name": "Món kho"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt ba rọi 1 kg",
+      "raw_name": "Thịt ba rọi",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng vịt 5 quả",
+      "raw_name": "Trứng vịt",
+      "quantity": 5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước dừa tươi 1.5 lít",
+      "raw_name": "Nước dừa tươi 1.5 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi lớn 2 củ",
+      "raw_name": "Tỏi lớn",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tím 10 củ",
+      "raw_name": "Hành tím",
+      "quantity": 10,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt đỏ 5 trái (loại lớn)",
+      "raw_name": "Ớt đỏ",
+      "quantity": 5,
+      "unit": "trái",
+      "note": "loại lớn",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Chanh 1/2 trái",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Lá mít tươi 1 ít (5 - 7 lá)",
+      "raw_name": "Lá mít tươi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "5 - 7 lá",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (nước mắm/ đường/ muối/ bột ngọt/...)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "nước mắm/ đường/ muối/ bột ngọt/...",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:32:31Z",
+  "page_title": "Cách kho thịt kho tàu truyền thống mềm ngon, nước trong chuẩn vị miền Tây",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20m%C3%B3n%20an%20t12%20%281200%20x%20676%20px%29%20%2894%29.jpg"
+}

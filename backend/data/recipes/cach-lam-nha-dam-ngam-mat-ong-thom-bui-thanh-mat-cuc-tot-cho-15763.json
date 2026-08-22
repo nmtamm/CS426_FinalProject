@@ -1,0 +1,35 @@
+{
+  "source_id": "15763",
+  "name": "Nha đam mật ong",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d5d40d57dc1e8e61.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nha-dam-ngam-mat-ong-thom-bui-thanh-mat-cuc-tot-cho-15763",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nha-dam-ngam-mat-ong-thom-bui-thanh-mat-cuc-tot-cho-15763",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nha đam 3 nhánh (nhỏ)",
+      "raw_name": "Nha đam",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": "nhỏ",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mật ong 50 ml",
+      "raw_name": "Mật ong",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:48:49Z",
+  "page_title": "Cách làm nha đam ngâm mật ong thơm bùi, thanh mát cực tốt cho sức khỏe",
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookDish/cach-lam-nha-dam-mat-ong-avt-1200x676.jpg"
+}

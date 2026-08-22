@@ -1,0 +1,113 @@
+{
+  "source_id": "07892",
+  "name": "Bún gà xáo sả",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0b28335987c4fb24.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-bun-ga-moc-va-bun-ga-xao-sa-thom-ngon-hap-dan-de-07892",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-bun-ga-moc-va-bun-ga-xao-sa-thom-ngon-hap-dan-de-07892",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-nuoc",
+      "name": "Món nước"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà 1/2 con",
+      "raw_name": "Gà 1/2 con",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bún tươi 200 gr",
+      "raw_name": "Bún tươi",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sả 5 cây",
+      "raw_name": "Sả",
+      "quantity": 5,
+      "unit": "cây",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 1/3 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.333,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nấm mèo 2 cái",
+      "raw_name": "Nấm mèo",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Mắm ruốc 1 muỗng cà phê",
+      "raw_name": "Mắm ruốc",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước mắm 1.5 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột nghệ 1/4 muỗng cà phê",
+      "raw_name": "Bột nghệ",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu điều 2 muỗng canh",
+      "raw_name": "Dầu điều",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Củ nén 1 muỗng canh",
+      "raw_name": "Củ nén",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (hạt nêm/đường/bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hạt nêm/đường/bột ngọt",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:13:55Z",
+  "page_title": "2 cách nấu bún gà mọc và bún gà xáo sả thơm ngon hấp dẫn dễ làm tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookRecipe/Avatar/bun-ga-xao-sa-thumbnail.jpg"
+}

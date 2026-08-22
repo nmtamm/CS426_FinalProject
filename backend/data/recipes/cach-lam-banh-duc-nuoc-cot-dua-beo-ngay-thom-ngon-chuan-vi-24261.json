@@ -1,0 +1,111 @@
+{
+  "source_id": "24261",
+  "name": "Bánh đúc nước cốt dừa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f4e1db85c3008d4a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-duc-nuoc-cot-dua-beo-ngay-thom-ngon-chuan-vi-24261",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-duc-nuoc-cot-dua-beo-ngay-thom-ngon-chuan-vi-24261",
+  "servings_text": "Cho 4 - 6 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột gạo 200 gr",
+      "raw_name": "Bột gạo",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột năng 100 gr",
+      "raw_name": "Bột năng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước cốt dừa 500 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Củ sắn 200 gr (củ đậu)",
+      "raw_name": "Củ sắn",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "củ đậu",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Thịt nạc xay 100 gr",
+      "raw_name": "Thịt nạc xay",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hạt màu điều 20 gr (để lấy dầu)",
+      "raw_name": "Hạt màu điều",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "để lấy dầu",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ruốc sấy 20 gr",
+      "raw_name": "Ruốc sấy",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tôm khô 30 gr",
+      "raw_name": "Tôm khô",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hành lá 1 ít",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Rau thơm/ giá trụng/ hành phi/ nước mắm chua ngọt 1 ít",
+      "raw_name": "Rau thơm/ giá trụng/ hành phi/ nước mắm chua ngọt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ muối/ hạt nêm/ tiêu/ dầu ăn)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ muối/ hạt nêm/ tiêu/ dầu ăn",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:52:51Z",
+  "page_title": "Cách làm bánh đúc nước cốt dừa béo ngậy thơm ngon chuẩn vị cho cả gia đình",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t03%201200676%20-%202026-03-27T150222.980.jpg"
+}

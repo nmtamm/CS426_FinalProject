@@ -1,0 +1,69 @@
+{
+  "source_id": "00953",
+  "name": "Nước mộc nhĩ đen táo đỏ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/30d55affa07acac4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-mon-nuoc-mat-giai-nhiet-cho-ngay-nang-nong--00953",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-mon-nuoc-mat-giai-nhiet-cho-ngay-nang-nong--00953",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mộc nhĩ đen 20 gr (nấm mèo)",
+      "raw_name": "Mộc nhĩ đen",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "nấm mèo",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Táo đỏ 50 gr",
+      "raw_name": "Táo đỏ",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Long nhãn 50 gr (nhãn nhục)",
+      "raw_name": "Long nhãn",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "nhãn nhục",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Kỷ tử 15 gr",
+      "raw_name": "Kỷ tử",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường thốt nốt 250 gr",
+      "raw_name": "Đường thốt nốt",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước lọc 2.5 lít",
+      "raw_name": "Nước lọc 2.5 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:58:22Z",
+  "page_title": "5 cách nấu nước mát giải nhiệt cực tốt, cực thơm ngon cho mùa nắng nóng",
+  "variant_index": 5,
+  "variant_count": 5,
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookRecipe/Avatar/nuoc-moc-nhi-den-tao-do-thumbnail.jpg"
+}

@@ -1,0 +1,142 @@
+{
+  "source_id": "00799",
+  "name": "Bánh canh nấm chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b5bcb0c26da9c6d3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-canh-nam-chay-ngon-ngat-ngay-00799",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-canh-nam-chay-ngon-ngat-ngay-00799",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nấm rơm 200 gram",
+      "raw_name": "Nấm rơm 200 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm đông cô 100 gram (4 tai nấm)",
+      "raw_name": "Nấm đông cô 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": "4 tai nấm",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu hũ bi chiên 100 gram",
+      "raw_name": "Đậu hũ bi chiên 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chả lụa chay 100 gram",
+      "raw_name": "Chả lụa chay 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Thơm 1/4 trái",
+      "raw_name": "Thơm",
+      "quantity": 0.25,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Cà chua 2 trái",
+      "raw_name": "Cà chua",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Sả 2 cây",
+      "raw_name": "Sả",
+      "quantity": 2,
+      "unit": "cây",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gừng 1 miếng",
+      "raw_name": "Gừng 1 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Ớt 3 trái",
+      "raw_name": "Ớt",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước cốt tắc 4 muỗng canh",
+      "raw_name": "Nước cốt tắc",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Hành Poaro băm 1 muỗng canh",
+      "raw_name": "Hành Poaro băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Bột năng 2 muỗng canh",
+      "raw_name": "Bột năng",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Dầu màu điều 2 muỗng canh",
+      "raw_name": "Dầu màu điều",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Gia vị 1 ít (hạt nêm chay/ tiêu xay/ tương ớt/ tương cà/ đường/ muối)",
+      "raw_name": "Gia vị",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hạt nêm chay/ tiêu xay/ tương ớt/ tương cà/ đường/ muối",
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T18:43:04Z",
+  "page_title": "Cách nấu bánh canh nấm chay ngon ngất ngây cho ngày chán thịt cá",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "Công thức được chia sẻ bởi Tiktok Bếp chay XANH",
+  "original_image_url": "https://cdn.tgdd.vn/2023/10/CookRecipe/Avatar/banh-canh-nam-chay-cong-thuc-duoc-chia-se-boi-tiktok-bep-chay-xanh-thumbnail.jpg"
+}

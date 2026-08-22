@@ -1,0 +1,59 @@
+{
+  "source_id": "22643",
+  "name": "Ốc vòi voi sống",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/75d4308e43e432cb.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-oc-voi-voi-song-an-sashimi-bang-binh-dun-sieu-toc-va-22643",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-oc-voi-voi-song-an-sashimi-bang-binh-dun-sieu-toc-va-22643",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ốc vòi voi 1 con",
+      "raw_name": "Ốc vòi voi 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước tương 3 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mù tại 1 muỗng cà phê",
+      "raw_name": "Mù tại",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lá kim 1 ít",
+      "raw_name": "Lá kim",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cải đỏ 1 củ",
+      "raw_name": "Cải đỏ",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T17:52:53Z",
+  "page_title": "Cách làm ốc vòi voi sống ăn sashimi bằng bình đun siêu tốc và dao thái",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/oc-voi-voi-song.jpg"
+}

@@ -1,0 +1,79 @@
+{
+  "source_id": "04303",
+  "name": "Bánh táo nướng bơ sữa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/188e2f6b8346e7ca.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-tao-nuong-bo-sua-thom-ngon-don-gian-khong-can-04303",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-tao-nuong-bo-sua-thom-ngon-don-gian-khong-can-04303",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Táo 5 trái",
+      "raw_name": "Táo",
+      "quantity": 5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bánh mì sandwich 12 miếng",
+      "raw_name": "Bánh mì sandwich 12 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 100 g",
+      "raw_name": "Đường",
+      "quantity": 100,
+      "unit": "g",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chanh 1 miếng",
+      "raw_name": "Chanh 1 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bơ nhạt 10 gr",
+      "raw_name": "Bơ nhạt",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Vani 1 ống",
+      "raw_name": "Vani 1 ống",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:23:29Z",
+  "page_title": "Cách làm bánh táo nướng bơ sữa thơm ngon đơn giản không cần bột mì",
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookProduct/Untitled-1-1200x676-6.jpg"
+}

@@ -1,0 +1,82 @@
+{
+  "source_id": "09563",
+  "name": "Sinh tố xoài cốt dừa bột báng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b81a514c81566074.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/12-cach-lam-sinh-to-xoai-ngot-mat-giai-khat-ngay-nang-nong-09563",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/12-cach-lam-sinh-to-xoai-ngot-mat-giai-khat-ngay-nang-nong-09563",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Xoài chín 1 quả",
+      "raw_name": "Xoài chín",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước cốt dừa 200 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột báng 100 gr",
+      "raw_name": "Bột báng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa đặc 40 ml",
+      "raw_name": "Sữa đặc",
+      "quantity": 40,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đá lạnh 1 ít",
+      "raw_name": "Đá lạnh",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Húng lủi 3 lá (trang trsi)",
+      "raw_name": "Húng lủi",
+      "quantity": 3,
+      "unit": "lá",
+      "note": "trang trsi",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:57:31Z",
+  "page_title": "14 cách làm sinh tố xoài ngọt mát giải khát ngày nóng",
+  "variant_index": 13,
+  "variant_count": 14,
+  "note": null,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/sinh-to-xoai-cot-dua-bot-bang-thumbnail-1.jpg"
+}

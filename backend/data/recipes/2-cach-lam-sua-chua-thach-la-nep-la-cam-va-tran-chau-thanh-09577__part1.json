@@ -1,0 +1,97 @@
+{
+  "source_id": "09577",
+  "name": "Sữa chua thạch lá nếp lá cẩm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/fcbc20b12eccaf52.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sua-chua-thach-la-nep-la-cam-va-tran-chau-thanh-09577",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sua-chua-thach-la-nep-la-cam-va-tran-chau-thanh-09577",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sữa chua 100 ml",
+      "raw_name": "Sữa chua",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa đặc 1 ít",
+      "raw_name": "Sữa đặc",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột agar 12 gr (Bột rau câu giòn)",
+      "raw_name": "Bột agar",
+      "quantity": 12,
+      "unit": "gr",
+      "note": "Bột rau câu giòn",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột bắp 15 gr",
+      "raw_name": "Bột bắp",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lá nếp 20 gr (lá dứa)",
+      "raw_name": "Lá nếp",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "lá dứa",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lá cẩm 300 gr",
+      "raw_name": "Lá cẩm",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước cốt dừa 300 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước lọc 1200 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 1200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường cát 200 gr",
+      "raw_name": "Đường cát",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:06:45Z",
+  "page_title": "2 cách làm sữa chua lá nếp lá cẩm và trân châu thanh mát tại nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookRecipe/Avatar/sua-chua-thach-la-nep-la-cam-thumbnail.jpg"
+}

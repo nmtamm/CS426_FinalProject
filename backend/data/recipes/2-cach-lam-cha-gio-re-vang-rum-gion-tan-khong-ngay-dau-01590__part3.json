@@ -1,0 +1,105 @@
+{
+  "source_id": "01590",
+  "name": "Chả giò rế tôm thịt thanh cua khoai môn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/86deb1ead378fe14.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-cha-gio-re-vang-rum-gion-tan-khong-ngay-dau-01590",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-cha-gio-re-vang-rum-gion-tan-khong-ngay-dau-01590",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh tráng rế 4 gói",
+      "raw_name": "Bánh tráng rế",
+      "quantity": 4,
+      "unit": "gói",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt heo xay 200 gr",
+      "raw_name": "Thịt heo xay",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Thanh cua 250 gr",
+      "raw_name": "Thanh cua",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tôm 200 gr",
+      "raw_name": "Tôm",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Trứng gà 1 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Khoai môn 500 gr (1 củ)",
+      "raw_name": "Khoai môn",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "1 củ",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Cà rốt 100 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành tím 100 gr",
+      "raw_name": "Hành tím",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu ăn 100 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ tiêu xay/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ tiêu xay/ bột ngọt",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T20:35:27Z",
+  "page_title": "3 cách làm chả giò rế vàng rụm giòn tan không ngấy dầu dễ làm tại nhà",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/cha-gio-re-tom-thit-thanh-cua-khoai-mon-thumbnail.jpg"
+}

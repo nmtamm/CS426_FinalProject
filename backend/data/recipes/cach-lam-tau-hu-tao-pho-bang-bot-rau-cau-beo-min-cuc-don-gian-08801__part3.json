@@ -1,0 +1,65 @@
+{
+  "source_id": "08801",
+  "name": "Tàu hủ bằng bột rau câu trân châu nước đường",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7773df30e2e5bd6c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tau-hu-tao-pho-bang-bot-rau-cau-beo-min-cuc-don-gian-08801",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tau-hu-tao-pho-bang-bot-rau-cau-beo-min-cuc-don-gian-08801",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sữa đậu nành 400 ml (có đường)",
+      "raw_name": "Sữa đậu nành",
+      "quantity": 400,
+      "unit": "ml",
+      "note": "có đường",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột năng 1 chén (chén ăn cơm)",
+      "raw_name": "Bột năng",
+      "quantity": 1,
+      "unit": "chén",
+      "note": "chén ăn cơm",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột rau câu dẻo 1 muỗng cà phê",
+      "raw_name": "Bột rau câu dẻo",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường thốt nốt 1 cái (viên)",
+      "raw_name": "Đường thốt nốt",
+      "quantity": 1,
+      "unit": "cái",
+      "note": "viên",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:04:35Z",
+  "page_title": "3 cách làm tàu hủ (tào phớ) bằng bột rau câu béo mịn, cực đơn giản tại nhà",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/tau-hu-bang-bot-rau-cau-tran-chau-nuoc-duong-thumbnail.jpg"
+}

@@ -1,0 +1,91 @@
+{
+  "source_id": "06862",
+  "name": "Bắp bò ngâm nước tương",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5280dcaba4167cdf.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bap-bo-ngam-nuoc-tuong-xi-dau-hap-dan-dai-khach-ngay-06862",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bap-bo-ngam-nuoc-tuong-xi-dau-hap-dan-dai-khach-ngay-06862",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bắp bò 600 gr",
+      "raw_name": "Bắp bò",
+      "quantity": 600,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dứa 1/4 quả (thơm)",
+      "raw_name": "Dứa",
+      "quantity": 0.25,
+      "unit": "quả",
+      "note": "thơm",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sả 1 ít",
+      "raw_name": "Sả",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 1 củ (lớn)",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "lớn",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt sừng 4 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 4,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước tương 200 ml",
+      "raw_name": "Nước tương",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hạt nêm 1 muỗng cà phê",
+      "raw_name": "Hạt nêm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường trắng 3 muỗng canh",
+      "raw_name": "Đường trắng",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:16:04Z",
+  "page_title": "Cách làm bắp bò ngâm nước tương (xì dầu) hấp dẫn đãi khách ngày Tết",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/CachLamBapBoNgamNuocTuongDamDaChieuDaiCaNhaNgayTet-CookyTV0-6screenshot-1200x676-1.jpg"
+}

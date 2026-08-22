@@ -1,0 +1,91 @@
+{
+  "source_id": "12731",
+  "name": "Gỏi lưỡi heo đu đủ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/002e3f84a6ced532.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-luoi-heo-du-du-bat-vi-de-lam-cho-bua-com-tron-vi-12731",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-luoi-heo-du-du-bat-vi-de-lam-cho-bua-com-tron-vi-12731",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lưỡi heo 1 cái",
+      "raw_name": "Lưỡi heo",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đu đủ xanh 1 trái",
+      "raw_name": "Đu đủ xanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chanh 2 trái",
+      "raw_name": "Chanh",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt sừng 3 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 8 tép",
+      "raw_name": "Tỏi 8 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rau răm 5 nhánh",
+      "raw_name": "Rau răm",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đậu phộng rang 50 gr",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành phi 2 muỗng canh",
+      "raw_name": "Hành phi",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ đường/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ đường/ bột ngọt",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:01:53Z",
+  "page_title": "Cách làm gỏi lưỡi heo đu đủ bắt vị, dễ làm cho bữa cơm tròn vị",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/1200-1200x676-66.jpg"
+}

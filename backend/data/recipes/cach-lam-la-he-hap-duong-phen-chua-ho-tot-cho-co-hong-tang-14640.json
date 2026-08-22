@@ -1,0 +1,35 @@
+{
+  "source_id": "14640",
+  "name": "Lá hẹ hấp đường phèn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/26c4b81e04981221.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-la-he-hap-duong-phen-chua-ho-tot-cho-co-hong-tang-14640",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-la-he-hap-duong-phen-chua-ho-tot-cho-co-hong-tang-14640",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lá hẹ 200 gr",
+      "raw_name": "Lá hẹ",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường phèn 200 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:35:57Z",
+  "page_title": "Cách làm lá hẹ hấp đường phèn chữa ho tốt cho cổ họng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-la-he-hap-duong-phen-chua-ho-cho-co-hong-tang-thay-avt-1200x676.jpg"
+}

@@ -1,0 +1,49 @@
+{
+  "source_id": "02543",
+  "name": "Nước ép kiwi táo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5790b656943c84d5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-ep-kiwi-thom-ngon-bo-duong-02543",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-ep-kiwi-thom-ngon-bo-duong-02543",
+  "servings_text": "Cho 02 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Kiwi 4 trái",
+      "raw_name": "Kiwi",
+      "quantity": 4,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Táo tây 2 trái",
+      "raw_name": "Táo tây",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường cát trắng 2 muỗng canh",
+      "raw_name": "Đường cát trắng",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:55:10Z",
+  "page_title": "2 cách làm nước ép kiwi thơm ngon bổ dưỡng tốt cho sức khỏe",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/nuoc-ep-kiwi-tao-thumbnail.jpg"
+}

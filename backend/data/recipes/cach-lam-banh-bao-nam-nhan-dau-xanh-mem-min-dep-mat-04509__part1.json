@@ -1,0 +1,81 @@
+{
+  "source_id": "04509",
+  "name": "Cách sên nhân bánh Trung Thu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6fd3d36fe0b5bc42.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-bao-nam-nhan-dau-xanh-mem-min-dep-mat-04509",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-bao-nam-nhan-dau-xanh-mem-min-dep-mat-04509",
+  "servings_text": "Cho 200gr nhân bánh",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu xanh 100 gr",
+      "raw_name": "Đậu xanh",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước nóng 300 ml",
+      "raw_name": "Nước nóng",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 80 gr (tùy khẩu vị)",
+      "raw_name": "Đường",
+      "quantity": 80,
+      "unit": "gr",
+      "note": "tùy khẩu vị",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 70 gr",
+      "raw_name": "Dầu ăn",
+      "quantity": 70,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột mì 10 gr",
+      "raw_name": "Bột mì",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước lọc 1 muỗng canh",
+      "raw_name": "Nước lọc",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột bánh dẻo 10 gr",
+      "raw_name": "Bột bánh dẻo",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:24:24Z",
+  "page_title": "Cách làm bánh bao nấm nhân đậu xanh mềm mịn đẹp mắt",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://img.youtube.com/vi/VmPJifldhNw/maxresdefault.jpg"
+}

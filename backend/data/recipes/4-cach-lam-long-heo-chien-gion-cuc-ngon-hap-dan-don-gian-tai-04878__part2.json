@@ -1,0 +1,121 @@
+{
+  "source_id": "04878",
+  "name": "Lòng heo chiên giòn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2113d1c6290c57e5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-long-heo-chien-gion-cuc-ngon-hap-dan-don-gian-tai-04878",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-long-heo-chien-gion-cuc-ngon-hap-dan-don-gian-tai-04878",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lòng heo 1.5 kg",
+      "raw_name": "Lòng heo",
+      "quantity": 1.5,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Giấm 2 muỗng cà phê",
+      "raw_name": "Giấm",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chanh 1 trái",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rượu trắng 5 muỗng canh",
+      "raw_name": "Rượu trắng",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Mạch nha 1 muỗng",
+      "raw_name": "Mạch nha",
+      "quantity": 1,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đồ chua thái nhỏ 100 g (Làm sốt chấm)",
+      "raw_name": "Đồ chua thái nhỏ",
+      "quantity": 100,
+      "unit": "g",
+      "note": "Làm sốt chấm",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước 2/3 chén (Làm sốt chấm)",
+      "raw_name": "Nước",
+      "quantity": 0.667,
+      "unit": "chén",
+      "note": "Làm sốt chấm",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Chanh muối xắt nhỏ 1.2 trái (Làm sốt chấm)",
+      "raw_name": "Chanh muối xắt nhỏ",
+      "quantity": 1.2,
+      "unit": "trái",
+      "note": "Làm sốt chấm",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đường 70 g (Làm sốt chấm)",
+      "raw_name": "Đường",
+      "quantity": 70,
+      "unit": "g",
+      "note": "Làm sốt chấm",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Cà chua 1 trái (Làm sốt chấm)",
+      "raw_name": "Cà chua",
+      "quantity": 1,
+      "unit": "trái",
+      "note": "Làm sốt chấm",
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T19:04:02Z",
+  "page_title": "4 cách làm lòng heo chiên giòn cực ngon hấp dẫn đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookRecipe/Avatar/long-heo-chien-gion-thumbnail.jpg"
+}

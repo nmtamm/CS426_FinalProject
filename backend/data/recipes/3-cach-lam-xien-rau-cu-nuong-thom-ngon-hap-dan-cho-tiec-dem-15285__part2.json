@@ -1,0 +1,117 @@
+{
+  "source_id": "15285",
+  "name": "Xiên rau củ nướng kiểu Việt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9735a3fefd37c2a1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-xien-rau-cu-nuong-thom-ngon-hap-dan-cho-tiec-dem-15285",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-xien-rau-cu-nuong-thom-ngon-hap-dan-cho-tiec-dem-15285",
+  "servings_text": "Cho 2 - 3 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lát heo chay 20 gr",
+      "raw_name": "Lát heo chay",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm rơm 200 gr",
+      "raw_name": "Nấm rơm",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt chuông 100 gr",
+      "raw_name": "Ớt chuông",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đậu bắp 50 gr",
+      "raw_name": "Đậu bắp",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sữa tươi không đường 20 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước ướp đồ nướng 1 muỗng canh (chay mặn đều dùng được)",
+      "raw_name": "Nước ướp đồ nướng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "chay mặn đều dùng được",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước mắm chay 1 muỗng canh",
+      "raw_name": "Nước mắm chay",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ngũ vị hương 1/2 muỗng cà phê",
+      "raw_name": "Ngũ vị hương",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Mè rang 2 muỗng cà phê",
+      "raw_name": "Mè rang",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Hạt nêm chay 1 muỗng cà phê",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Đường 2 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T19:36:00Z",
+  "page_title": "3 cách làm xiên rau củ nướng thơm ngon hấp dẫn cho tiệc đêm Giáng Sinh",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/xien-rau-cu-nuong-kieu-viet-thumbnail.jpg"
+}

@@ -1,0 +1,111 @@
+{
+  "source_id": "03784",
+  "name": "Sandwich cuộn cá hộp",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bf4ab6bc5041167a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sandwich-cuon-ca-hop-chien-gion-rum-beo-ngay-cuc-03784",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sandwich-cuon-ca-hop-chien-gion-rum-beo-ngay-cuc-03784",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cá hộp 1 hộp",
+      "raw_name": "Cá hộp",
+      "quantity": 1,
+      "unit": "hộp",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hạt nêm 1/2 muỗng cà phê",
+      "raw_name": "Hạt nêm",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tiêu 1/2 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sốt mayonnaise 1 muỗng canh",
+      "raw_name": "Sốt mayonnaise",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bánh mì sandwich 4 lát",
+      "raw_name": "Bánh mì sandwich 4 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Thịt giò sống 50 gr",
+      "raw_name": "Thịt giò sống",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Rong biển 4 lát",
+      "raw_name": "Rong biển 4 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột mì 100 gr",
+      "raw_name": "Bột mì",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Trứng gà 3 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Bột chiên xù 100 gr",
+      "raw_name": "Bột chiên xù",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T19:12:23Z",
+  "page_title": "Cách làm sandwich cuộn cá hộp chiên giòn rụm, béo ngậy cực ngon miệng",
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookProduct/2-1200x676-4.jpg"
+}

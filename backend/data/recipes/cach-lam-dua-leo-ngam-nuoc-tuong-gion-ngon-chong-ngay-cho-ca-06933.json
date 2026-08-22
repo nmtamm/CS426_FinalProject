@@ -1,0 +1,83 @@
+{
+  "source_id": "06933",
+  "name": "Dưa leo ngâm nước tương",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/db1d80152b754826.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dua-leo-ngam-nuoc-tuong-gion-ngon-chong-ngay-cho-ca-06933",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dua-leo-ngam-nuoc-tuong-gion-ngon-chong-ngay-cho-ca-06933",
+  "servings_text": "Cho 1 hủ",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa leo 800 gr",
+      "raw_name": "Dưa leo",
+      "quantity": 800,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước tương 400 ml",
+      "raw_name": "Nước tương",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước lọc 100 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 200 gr",
+      "raw_name": "Đường",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gừng 1 củ (băm nhuyễn)",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "băm nhuyễn",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt 3 trái (băm nhuyễn)",
+      "raw_name": "Ớt",
+      "quantity": 3,
+      "unit": "trái",
+      "note": "băm nhuyễn",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tỏi 1 củ (băm nhuyễn)",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "băm nhuyễn",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:02:38Z",
+  "page_title": "Cách làm dưa leo ngâm nước tương giòn ngon, chống ngấy cho cả nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/BeFunky-collage-2021-01-21T105058.999-1200x676-1.jpg"
+}

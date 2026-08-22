@@ -1,0 +1,99 @@
+{
+  "source_id": "02504",
+  "name": "Gỏi da bò đu đủ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4e982337d6c92243.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-da-bo-du-du-gion-ngon-don-gian-02504",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-da-bo-du-du-gion-ngon-don-gian-02504",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Da bò 500 g",
+      "raw_name": "Da bò",
+      "quantity": 500,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đu đủ 2 quả",
+      "raw_name": "Đu đủ",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tím 5 củ",
+      "raw_name": "Hành tím",
+      "quantity": 5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tây 2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt 5 quả",
+      "raw_name": "Ớt",
+      "quantity": 5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Lá húng quế 20 g",
+      "raw_name": "Lá húng quế",
+      "quantity": 20,
+      "unit": "g",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tắc 4 quả",
+      "raw_name": "Tắc",
+      "quantity": 4,
+      "unit": "quả",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Củ cải trắng 1 củ",
+      "raw_name": "Củ cải trắng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:03:06Z",
+  "page_title": "Cách làm gỏi da bò đu đủ giòn ngon, đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/05/22/1257455/cach-lam-goi-da-bo-du-du-gion-ngon-don-gian-tai-nha-16-760x367.jpg"
+}

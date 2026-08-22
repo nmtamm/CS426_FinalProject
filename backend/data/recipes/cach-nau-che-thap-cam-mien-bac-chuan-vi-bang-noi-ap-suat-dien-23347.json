@@ -1,0 +1,151 @@
+{
+  "source_id": "23347",
+  "name": "Chè thập cẩm miền Bắc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9c3b840ae335d7ea.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-che-thap-cam-mien-bac-chuan-vi-bang-noi-ap-suat-dien-23347",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-che-thap-cam-mien-bac-chuan-vi-bang-noi-ap-suat-dien-23347",
+  "servings_text": "Cho Khoảng 30 ly",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-che",
+      "name": "Món chè"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu đen 250 gr",
+      "raw_name": "Đậu đen",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu đỏ 250 gr",
+      "raw_name": "Đậu đỏ",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu ngự 250 gr",
+      "raw_name": "Đậu ngự",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đậu xanh đã bóc vỏ 250 gr",
+      "raw_name": "Đậu xanh đã bóc vỏ",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cốm khô 100 gr",
+      "raw_name": "Cốm khô",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hạt ngô ngọt 400 gr (bắp Mỹ)",
+      "raw_name": "Hạt ngô ngọt",
+      "quantity": 400,
+      "unit": "gr",
+      "note": "bắp Mỹ",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Trân châu nhân dừa 500 gr",
+      "raw_name": "Trân châu nhân dừa",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước cốt dừa 600 gr",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 600,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường 1350 gr (đường cát trắng/đường thốt nốt/đường vàng)",
+      "raw_name": "Đường",
+      "quantity": 1350,
+      "unit": "gr",
+      "note": "đường cát trắng/đường thốt nốt/đường vàng",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bột năng 212 gr",
+      "raw_name": "Bột năng",
+      "quantity": 212,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Bột gạo 20 gr (có thể thay bằng bột năng/ bột bắp)",
+      "raw_name": "Bột gạo",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "có thể thay bằng bột năng/ bột bắp",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/dầu chuối/hương lá dứa)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/dầu chuối/hương lá dứa",
+      "display_order": 12
+    },
+    {
+      "raw_text": "Lá dứa 8 lá (lá nếp)",
+      "raw_name": "Lá dứa",
+      "quantity": 8,
+      "unit": "lá",
+      "note": "lá nếp",
+      "display_order": 13
+    },
+    {
+      "raw_text": "Mứt đu đủ 1 ít",
+      "raw_name": "Mứt đu đủ",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Mứt dừa sấy khô 1 ít",
+      "raw_name": "Mứt dừa sấy khô",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Đá bào 1 ít",
+      "raw_name": "Đá bào",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T18:55:42Z",
+  "page_title": "Cách nấu chè thập cẩm miền Bắc chuẩn vị bằng nồi áp suất điện",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/cach-nau-che-thap-cam-mien-bac.jpg"
+}

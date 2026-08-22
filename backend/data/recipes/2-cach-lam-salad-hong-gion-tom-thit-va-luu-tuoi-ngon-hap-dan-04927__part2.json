@@ -1,0 +1,93 @@
+{
+  "source_id": "04927",
+  "name": "Salad hồng giòn lựu hồ đào",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/23457c858507dc3f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-salad-hong-gion-tom-thit-va-luu-tuoi-ngon-hap-dan-04927",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-salad-hong-gion-tom-thit-va-luu-tuoi-ngon-hap-dan-04927",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hạt hồ đào 120 gr",
+      "raw_name": "Hạt hồ đào",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rau Arugula 70 gr (rau Rocket)",
+      "raw_name": "Rau Arugula",
+      "quantity": 70,
+      "unit": "gr",
+      "note": "rau Rocket",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hồng giòn 2 quả",
+      "raw_name": "Hồng giòn",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu Ô-liu 1.5 muỗng cà phê",
+      "raw_name": "Dầu Ô-liu",
+      "quantity": 1.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Giấm Balsamic 2 muỗng canh",
+      "raw_name": "Giấm Balsamic",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Củ cải đường 1 củ",
+      "raw_name": "Củ cải đường",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị 1 ít (muối/tiêu)",
+      "raw_name": "Gia vị",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/tiêu",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Lựu 1 trái",
+      "raw_name": "Lựu",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hạt diêm mạch 60 gr (quinoa)",
+      "raw_name": "Hạt diêm mạch",
+      "quantity": 60,
+      "unit": "gr",
+      "note": "quinoa",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T17:56:05Z",
+  "page_title": "2 cách làm salad hồng giòn tôm thịt và lựu tươi ngon hấp dẫn dễ làm",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookRecipe/Avatar/salad-hong-gion-luu-ho-dao-thumbnail.jpg"
+}

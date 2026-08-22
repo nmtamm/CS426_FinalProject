@@ -1,0 +1,111 @@
+{
+  "source_id": "22498",
+  "name": "Chân gà ủ muối",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b81aa37415e27fbd.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chan-ga-u-muoi-vang-thom-gion-ngon-hap-dan-de-dang-22498",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chan-ga-u-muoi-vang-thom-gion-ngon-hap-dan-de-dang-22498",
+  "servings_text": "Cho 4 - 6 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chân gà 1 kg (có thể thay bằng loại rút xương sẵn)",
+      "raw_name": "Chân gà",
+      "quantity": 1,
+      "unit": "kg",
+      "note": "có thể thay bằng loại rút xương sẵn",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột nghệ 1 muỗng cà phê",
+      "raw_name": "Bột nghệ",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nghệ tươi 2 muỗng canh (giã nhuyễn)",
+      "raw_name": "Nghệ tươi",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "giã nhuyễn",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột xuyên tiêu 2 muỗng canh (tùy ý)",
+      "raw_name": "Bột xuyên tiêu",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "tùy ý",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hoa hồi 3 cái",
+      "raw_name": "Hoa hồi",
+      "quantity": 3,
+      "unit": "cái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Quế thanh 1 ít (2 - 3 thanh)",
+      "raw_name": "Quế thanh",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "2 - 3 thanh",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Sả 2 nhánh",
+      "raw_name": "Sả",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gừng nhỏ 1 củ",
+      "raw_name": "Gừng nhỏ",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Chanh 2 trái",
+      "raw_name": "Chanh",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ bột ngọt/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ bột ngọt/ tiêu xay",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:07:05Z",
+  "page_title": "Cách làm chân gà ủ muối vàng thơm, giòn ngon, hấp dẫn dễ dàng với nồi inox",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/luoc%20ga%20%2811%29.jpg"
+}

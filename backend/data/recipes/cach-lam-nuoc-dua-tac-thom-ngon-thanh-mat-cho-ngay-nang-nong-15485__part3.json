@@ -1,0 +1,61 @@
+{
+  "source_id": "15485",
+  "name": "Dừa tắc mít",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/74fc95ad4c898ceb.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-dua-tac-thom-ngon-thanh-mat-cho-ngay-nang-nong-15485",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-dua-tac-thom-ngon-thanh-mat-cho-ngay-nang-nong-15485",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dừa tươi 1 trái",
+      "raw_name": "Dừa tươi",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mít 50 gr (5 múi)",
+      "raw_name": "Mít",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "5 múi",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tắc 4 trái",
+      "raw_name": "Tắc",
+      "quantity": 4,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:59:28Z",
+  "page_title": "3 Cách làm nước dừa tắc xí muội, dừa tắc mít thơm ngon khó cưỡng",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookRecipe/Avatar/dua-tac-mit-thumbnail-3.jpg"
+}

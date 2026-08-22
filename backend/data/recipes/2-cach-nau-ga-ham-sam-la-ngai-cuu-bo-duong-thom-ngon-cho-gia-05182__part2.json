@@ -1,0 +1,81 @@
+{
+  "source_id": "05182",
+  "name": "Gà hầm ngải cứu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9fee8b54a489f1a6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-ga-ham-sam-la-ngai-cuu-bo-duong-thom-ngon-cho-gia-05182",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-ga-ham-sam-la-ngai-cuu-bo-duong-thom-ngon-cho-gia-05182",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-canh",
+      "name": "Món canh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đùi gà 1 cái",
+      "raw_name": "Đùi gà",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ngải cứu 50 gr",
+      "raw_name": "Ngải cứu",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gia vị thuốc bắc 1 gói",
+      "raw_name": "Gia vị thuốc bắc",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nghệ 10 gr",
+      "raw_name": "Nghệ",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 15 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 15,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối/ hạt nêm 1 ít",
+      "raw_name": "Muối/ hạt nêm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:14:21Z",
+  "page_title": "3 cách nấu gà hầm sâm, lá ngải cứu, bào ngư thơm ngon cho gia đình",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookRecipe/Avatar/ga-ham-ngai-cuu-thumbnail.jpg"
+}

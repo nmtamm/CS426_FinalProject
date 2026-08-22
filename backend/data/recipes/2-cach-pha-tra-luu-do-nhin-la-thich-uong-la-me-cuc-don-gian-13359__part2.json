@@ -1,0 +1,85 @@
+{
+  "source_id": "13359",
+  "name": "Trà lựu đỏ trân châu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0e880b650c06c1c0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-pha-tra-luu-do-nhin-la-thich-uong-la-me-cuc-don-gian-13359",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-pha-tra-luu-do-nhin-la-thich-uong-la-me-cuc-don-gian-13359",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà xanh 50 gr",
+      "raw_name": "Trà xanh",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lựu đỏ 6 trái",
+      "raw_name": "Lựu đỏ",
+      "quantity": 6,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường cát 55 gr",
+      "raw_name": "Đường cát",
+      "quantity": 55,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột rau câu dẻo 8 gr",
+      "raw_name": "Bột rau câu dẻo",
+      "quantity": 8,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột rau câu giòn 5 gr",
+      "raw_name": "Bột rau câu giòn",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 1/2 muỗng cà phê",
+      "raw_name": "Dầu ăn",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước 950 ml",
+      "raw_name": "Nước",
+      "quantity": 950,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đá lạnh 1 ít",
+      "raw_name": "Đá lạnh",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:55:40Z",
+  "page_title": "2 cách pha trà lựu đỏ nhìn là thích uống là mê cực đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/tra-luu-do-tran-chau-thumbnail.jpg"
+}

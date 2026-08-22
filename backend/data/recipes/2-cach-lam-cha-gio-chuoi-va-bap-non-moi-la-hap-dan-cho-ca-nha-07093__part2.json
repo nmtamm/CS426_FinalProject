@@ -1,0 +1,73 @@
+{
+  "source_id": "07093",
+  "name": "Chả giò chuối",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/93387cba5ebb2cac.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-cha-gio-chuoi-va-bap-non-moi-la-hap-dan-cho-ca-nha-07093",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-cha-gio-chuoi-va-bap-non-moi-la-hap-dan-cho-ca-nha-07093",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chuối xiêm chín 5 quả",
+      "raw_name": "Chuối xiêm chín",
+      "quantity": 5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột quế 1 muỗng cà phê",
+      "raw_name": "Bột quế",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bánh tráng cuốn chả giò 30 gr",
+      "raw_name": "Bánh tráng cuốn chả giò",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường nâu 1 muỗng canh",
+      "raw_name": "Đường nâu",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 300 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:50:43Z",
+  "page_title": "2 cách làm chả giò chuối và bắp non mới lạ hấp dẫn cho cả nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookRecipe/Avatar/cha-gio-bap-non-thumbnail-1.jpg"
+}

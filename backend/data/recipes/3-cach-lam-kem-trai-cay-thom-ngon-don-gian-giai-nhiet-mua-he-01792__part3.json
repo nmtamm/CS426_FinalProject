@@ -1,0 +1,49 @@
+{
+  "source_id": "01792",
+  "name": "Kem dứa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3ad5b854fa8483bf.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-kem-trai-cay-thom-ngon-don-gian-giai-nhiet-mua-he-01792",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-kem-trai-cay-thom-ngon-don-gian-giai-nhiet-mua-he-01792",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-kem",
+      "name": "Món kem"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dứa 1 trái (thơm & khóm)",
+      "raw_name": "Dứa",
+      "quantity": 1,
+      "unit": "trái",
+      "note": "thơm & khóm",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Kem sữa tươi 80 ml (whipping cream)",
+      "raw_name": "Kem sữa tươi",
+      "quantity": 80,
+      "unit": "ml",
+      "note": "whipping cream",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 3 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:11:17Z",
+  "page_title": "3 Cách làm kem trái cây thơm ngon đơn giản giải nhiệt mùa hè",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/kem-dua-thumbnail.jpg"
+}

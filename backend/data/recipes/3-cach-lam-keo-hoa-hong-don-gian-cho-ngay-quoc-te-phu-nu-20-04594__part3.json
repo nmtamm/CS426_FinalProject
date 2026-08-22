@@ -1,0 +1,53 @@
+{
+  "source_id": "04594",
+  "name": "Kẹo hoa hồng sấy đường",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b4622c748984cbbc.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-keo-hoa-hong-don-gian-cho-ngay-quoc-te-phu-nu-20-04594",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-keo-hoa-hong-don-gian-cho-ngay-quoc-te-phu-nu-20-04594",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lòng trắng trứng 2 cái",
+      "raw_name": "Lòng trắng trứng",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hoa hồng 3 cái",
+      "raw_name": "Hoa hồng",
+      "quantity": 3,
+      "unit": "cái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường bột 50 gr",
+      "raw_name": "Đường bột",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước cốt chanh 1/2 muỗng cà phê",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:18:40Z",
+  "page_title": "3 cách làm kẹo hoa hồng đơn giản cho ngày phụ nữ Việt Nam 20/10",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookRecipe/Avatar/keo-hoa-hong-say-duong-thumbnail.jpg"
+}

@@ -1,0 +1,101 @@
+{
+  "source_id": "05713",
+  "name": "Tàu hũ ky kho mắm me",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f0c92900620e2918.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-tau-hu-ky-kho-chay-dam-da-hao-com-lai-cuc-don-gian-05713",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-tau-hu-ky-kho-chay-dam-da-hao-com-lai-cuc-don-gian-05713",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tàu hủ ky non chiên 400 gr",
+      "raw_name": "Tàu hủ ky non chiên",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Me vắt 30 gr",
+      "raw_name": "Me vắt",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước mắm chay 3 muỗng canh",
+      "raw_name": "Nước mắm chay",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hạt nêm chay 2 muỗng cà phê",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 3 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt bột 1 muỗng cà phê",
+      "raw_name": "Ớt bột",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt sừng không cay 1 trái (băm nhỏ)",
+      "raw_name": "Ớt sừng không cay",
+      "quantity": 1,
+      "unit": "trái",
+      "note": "băm nhỏ",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hành boa rô 1 ít (băm nhỏ)",
+      "raw_name": "Hành boa rô",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "băm nhỏ",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Mè trắng rang 1 ít (trang trí)",
+      "raw_name": "Mè trắng rang",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "trang trí",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:42:49Z",
+  "page_title": "5 cách làm tàu hũ ky kho chay đậm đà, hao cơm lại cực đơn giản",
+  "variant_index": 2,
+  "variant_count": 5,
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookRecipe/Avatar/tau-hu-ky-kho-mang-thumbnail-2.jpg"
+}

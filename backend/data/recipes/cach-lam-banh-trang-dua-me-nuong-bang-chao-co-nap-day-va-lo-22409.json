@@ -1,0 +1,91 @@
+{
+  "source_id": "22409",
+  "name": "Bánh tráng dừa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b9282468772376de.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trang-dua-me-nuong-bang-chao-co-nap-day-va-lo-22409",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trang-dua-me-nuong-bang-chao-co-nap-day-va-lo-22409",
+  "servings_text": "Cho 10 cái",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột gạo 200 gr",
+      "raw_name": "Bột gạo",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột năng 50 gr",
+      "raw_name": "Bột năng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dừa vụn sấy khô 50 gr",
+      "raw_name": "Dừa vụn sấy khô",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mè 50 gr",
+      "raw_name": "Mè",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cốt dừa 250 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 250,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước 500 ml",
+      "raw_name": "Nước",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối 5 gr",
+      "raw_name": "Muối",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tiêu 5 gr",
+      "raw_name": "Tiêu",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hành tím 20 gr",
+      "raw_name": "Hành tím",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:59:18Z",
+  "page_title": "Cách làm bánh tráng dừa mè nướng bằng chảo có nắp đậy và lò vi sóng",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/985nsd.jpg"
+}

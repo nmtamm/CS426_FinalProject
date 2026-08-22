@@ -1,0 +1,75 @@
+{
+  "source_id": "19600",
+  "name": "Dưa leo cuộn cơm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b3273931b8c08bee.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/lam-dua-leo-cuon-com-mon-an-thanh-dam-ngon-mieng-giai-ngan-19600",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/lam-dua-leo-cuon-com-mon-an-thanh-dam-ngon-mieng-giai-ngan-19600",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gạo Nhật 1 chén",
+      "raw_name": "Gạo Nhật",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Khoai tây 1 củ",
+      "raw_name": "Khoai tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dưa leo Nhật 1 trái",
+      "raw_name": "Dưa leo Nhật",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu oliu 2 muỗng canh",
+      "raw_name": "Dầu oliu",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cốt chanh 2 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Mù tạt vàng 1 muỗng cà phê",
+      "raw_name": "Mù tạt vàng",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Giấm trộn shushi 1 muỗng canh",
+      "raw_name": "Giấm trộn shushi",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:45:36Z",
+  "page_title": "Làm dưa leo cuộn cơm, món ăn thanh đạm, ngon miệng giải ngán cho cả nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2023/06/CookDish/lam-dua-leo-cuon-com-mon-an-thanh-dam-ngon-mieng-giai-ngan-avt-1200x676.jpg"
+}

@@ -1,0 +1,127 @@
+{
+  "source_id": "23300",
+  "name": "Càng ghẹ rang muối",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1521508e6910e428.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cang-ghe-rang-muoi-ot-don-gian-tai-nha-bang-chao-23300",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cang-ghe-rang-muoi-ot-don-gian-tai-nha-bang-chao-23300",
+  "servings_text": "Cho 1 kg càng ghẹ",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Càng ghẹ 1 kg",
+      "raw_name": "Càng ghẹ",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sả 3 cây",
+      "raw_name": "Sả",
+      "quantity": 3,
+      "unit": "cây",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gừng 10 gr",
+      "raw_name": "Gừng",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt hiểm 2 trái",
+      "raw_name": "Ớt hiểm",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt không cay 1 trái",
+      "raw_name": "Ớt không cay",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Chanh 1 trái",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt khô 1 ít",
+      "raw_name": "Ớt khô",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rượu trắng 2 muỗng canh (khoảng 40 độ)",
+      "raw_name": "Rượu trắng",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "khoảng 40 độ",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước lọc 1/2 chén",
+      "raw_name": "Nước lọc",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/muối/bột ngọt/tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/muối/bột ngọt/tiêu xay",
+      "display_order": 12
+    },
+    {
+      "raw_text": "Muối ớt Tây Ninh 1.5 muỗng canh",
+      "raw_name": "Muối ớt Tây Ninh",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T18:55:59Z",
+  "page_title": "Cách làm càng ghẹ rang muối ớt đơn giản tại nhà bằng chảo inox",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/cang-ghe-rang-muoi.jpg"
+}

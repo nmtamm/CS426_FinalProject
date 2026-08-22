@@ -1,0 +1,73 @@
+{
+  "source_id": "01263",
+  "name": "Sữa chua nha đam hoa đậu biếc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/79af930251f8f1fe.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-chua-nha-dam-giai-nhiet-ngay-nong-cho-ca-nha-01263",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-chua-nha-dam-giai-nhiet-ngay-nong-cho-ca-nha-01263",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hoa đậu biếc 5 gr",
+      "raw_name": "Hoa đậu biếc",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nha đam nhỏ 6 nhánh",
+      "raw_name": "Nha đam nhỏ",
+      "quantity": 6,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa tươi có đường 220 ml",
+      "raw_name": "Sữa tươi có đường",
+      "quantity": 220,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa đặc 380 gr (1 lon)",
+      "raw_name": "Sữa đặc",
+      "quantity": 380,
+      "unit": "gr",
+      "note": "1 lon",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sữa chua cái 100 gr (1 hũ)",
+      "raw_name": "Sữa chua cái",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "1 hũ",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:18:06Z",
+  "page_title": "2 Cách làm sữa chua nha đam giải nhiệt ngày nóng đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/sua-chua-nha-dam-hoa-dau-biec-thumbnail.jpg"
+}

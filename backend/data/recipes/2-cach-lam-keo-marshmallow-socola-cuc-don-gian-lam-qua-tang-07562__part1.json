@@ -1,0 +1,53 @@
+{
+  "source_id": "07562",
+  "name": "Kẹo marshmallow socola đen",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8b95f75eb0e50eeb.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-keo-marshmallow-socola-cuc-don-gian-lam-qua-tang-07562",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-keo-marshmallow-socola-cuc-don-gian-lam-qua-tang-07562",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gelatin 20 gr (dạng lá)",
+      "raw_name": "Gelatin",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "dạng lá",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột cacao 50 gr",
+      "raw_name": "Bột cacao",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 150 gr",
+      "raw_name": "Đường",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Siro ngô 120 gr",
+      "raw_name": "Siro ngô",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:22:00Z",
+  "page_title": "2 cách làm kẹo marshmallow socola cực đơn giản tặng người bạn yêu thương",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookRecipe/Avatar/keo-marshmallow-socola-de-thumbnail.jpg"
+}

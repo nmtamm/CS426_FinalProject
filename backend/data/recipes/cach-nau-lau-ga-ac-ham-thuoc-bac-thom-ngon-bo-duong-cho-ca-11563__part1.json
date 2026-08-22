@@ -1,0 +1,105 @@
+{
+  "source_id": "11563",
+  "name": "Lẩu gà ác hầm thuốc bắc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c14603fee6dde2fd.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-lau-ga-ac-ham-thuoc-bac-thom-ngon-bo-duong-cho-ca-11563",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-lau-ga-ac-ham-thuoc-bac-thom-ngon-bo-duong-cho-ca-11563",
+  "servings_text": "Cho 6 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-lau",
+      "name": "Món lẩu"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà ác 3 con",
+      "raw_name": "Gà ác 3 con",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gừng 2 củ",
+      "raw_name": "Gừng",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hột vịt lộn 5 quả",
+      "raw_name": "Hột vịt lộn",
+      "quantity": 5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gia vị thuốc bắc 1 gói",
+      "raw_name": "Gia vị thuốc bắc",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước dừa tươi 500 ml",
+      "raw_name": "Nước dừa tươi",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nấm rơm 100 gr",
+      "raw_name": "Nấm rơm",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Rau ăn kèm 1 ít (rau tần ô/ rau mồng tơi)",
+      "raw_name": "Rau ăn kèm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "rau tần ô/ rau mồng tơi",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối hạt 1 ít (dùng để sơ chế gà ác)",
+      "raw_name": "Muối hạt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "dùng để sơ chế gà ác",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ muối/ bột ngọt/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ muối/ bột ngọt/ tiêu xay",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:05:19Z",
+  "page_title": "2 cách nấu lẩu gà tiềm thuốc bắc thơm ngon nhiều dinh dưỡng bồi bổ sức khỏe",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/lau-ga-ac-ham-thuoc-bac-thumbnail-1.jpg"
+}

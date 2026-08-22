@@ -1,0 +1,113 @@
+{
+  "source_id": "03708",
+  "name": "Miến cuộn rong biển chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d6af6a7e1e1b9ced.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mien-cuon-rong-bien-chien-gion-rum-thom-ngon-cuc-03708",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mien-cuon-rong-bien-chien-gion-rum-thom-ngon-cuc-03708",
+  "servings_text": "Cho 3 người ăn",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rong biển 8 lá",
+      "raw_name": "Rong biển",
+      "quantity": 8,
+      "unit": "lá",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Miến 100 gram",
+      "raw_name": "Miến 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1/2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột chiên giòn 4 muỗng canh",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gốc Poaro 1 muỗng canh",
+      "raw_name": "Gốc Poaro",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lá Poaro 1 muỗng canh",
+      "raw_name": "Lá Poaro",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu mè 2 muỗng canh",
+      "raw_name": "Dầu mè",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước tương 2 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đường 1 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước 2 muỗng canh",
+      "raw_name": "Nước",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T19:13:25Z",
+  "page_title": "3 cách làm miến cuộn rong biển chiên giòn rụm, thơm ngon cực đơn giản",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2023/05/CookRecipe/Avatar/mien-cuon-rong-bien-chay-thumbnail-1.jpg"
+}

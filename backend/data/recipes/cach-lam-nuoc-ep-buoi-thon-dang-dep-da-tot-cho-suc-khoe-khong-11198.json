@@ -1,0 +1,55 @@
+{
+  "source_id": "11198",
+  "name": "Nước ép bưởi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/fb99692db0cec5ba.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-buoi-thon-dang-dep-da-tot-cho-suc-khoe-khong-11198",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-buoi-thon-dang-dep-da-tot-cho-suc-khoe-khong-11198",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bưởi 1 quả",
+      "raw_name": "Bưởi",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước cốt chanh 1/2 muỗng cà phê",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường cát trắng 20 gr (khoảng 4 muỗng cà phê)",
+      "raw_name": "Đường cát trắng",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "khoảng 4 muỗng cà phê",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đá viên 100 gr",
+      "raw_name": "Đá viên",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:53:43Z",
+  "page_title": "Cách làm nước ép bưởi thon dáng đẹp da tốt cho sức khỏe không bị đắng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookProduct/Cachlamnuocepbuoithondangdepdatotchosuckhoekhongbidang-1200x676.jpg"
+}

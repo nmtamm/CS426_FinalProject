@@ -1,0 +1,33 @@
+{
+  "source_id": "09799",
+  "name": "Nước ép quýt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7cd5b4793f28a0e4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-quyt-giam-can-thanh-nhiet-va-tot-cho-suc-09799",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-quyt-giam-can-thanh-nhiet-va-tot-cho-suc-09799",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Quýt vàng 6 quả",
+      "raw_name": "Quýt vàng",
+      "quantity": 6,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    }
+  ],
+  "scraped_at": "2026-08-19T19:49:26Z",
+  "page_title": "2 cách làm nước ép quýt giảm cân, thanh nhiệt và tốt cho sức khỏe",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/nuoc-ep-quyt-thumbnail.jpg"
+}

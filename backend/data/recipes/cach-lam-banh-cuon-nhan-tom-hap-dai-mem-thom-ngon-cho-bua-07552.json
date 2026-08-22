@@ -1,0 +1,151 @@
+{
+  "source_id": "07552",
+  "name": "Bánh cuốn nhân tôm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/acedeccdf16a31bb.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-cuon-nhan-tom-hap-dai-mem-thom-ngon-cho-bua-07552",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-cuon-nhan-tom-hap-dai-mem-thom-ngon-cho-bua-07552",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì đa dụng 300 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tôm 150 gr",
+      "raw_name": "Tôm",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng 4 quả",
+      "raw_name": "Trứng",
+      "quantity": 4,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tinh bột ngô 1/2 muỗng cà phê",
+      "raw_name": "Tinh bột ngô",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hẹ 150 gr",
+      "raw_name": "Hẹ",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành lá 1 nhánh (xắt nhỏ)",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": "xắt nhỏ",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi 3 tép (băm nhuyễn)",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": "băm nhuyễn",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột ớt 1 muỗng cà phê",
+      "raw_name": "Bột ớt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột gừng 1/2 muỗng cà phê",
+      "raw_name": "Bột gừng",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Vừng 2 muỗng cà phê",
+      "raw_name": "Vừng",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Giấm đen 2 muỗng canh",
+      "raw_name": "Giấm đen",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Baking soda 1/8 muỗng cà phê",
+      "raw_name": "Baking soda",
+      "quantity": 0.125,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước tương 2 muỗng cà phê",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Dầu mè 1 muỗng cà phê",
+      "raw_name": "Dầu mè",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Dầu ăn 6.5 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 6.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ tiêu/ đường)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ tiêu/ đường",
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T20:36:04Z",
+  "page_title": "Cách làm bánh cuốn nhân tôm hấp dai mềm, thơm ngon cho bữa sáng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookProduct/banhcuonnhantomthumb-1200x676.jpg"
+}

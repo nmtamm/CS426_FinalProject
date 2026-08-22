@@ -1,0 +1,113 @@
+{
+  "source_id": "02618",
+  "name": "Gân bò hầm sen",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/91430dfd9b534c69.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-gan-bo-ham-hat-sen-va-dau-do-thom-ngon--02618",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-gan-bo-ham-hat-sen-va-dau-do-thom-ngon--02618",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-canh",
+      "name": "Món canh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gân bò 400 g",
+      "raw_name": "Gân bò",
+      "quantity": 400,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hạt sen 150 g",
+      "raw_name": "Hạt sen",
+      "quantity": 150,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước 500 ml",
+      "raw_name": "Nước",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước màu 1/2 muỗng cà phê",
+      "raw_name": "Nước màu",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hạt nêm 1 muỗng canh",
+      "raw_name": "Hạt nêm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột canh 3 muỗng cà phê",
+      "raw_name": "Bột canh",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường 1 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Táo đỏ 10 g",
+      "raw_name": "Táo đỏ",
+      "quantity": 10,
+      "unit": "g",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Kỳ tử 20 hạt",
+      "raw_name": "Kỳ tử 20 hạt",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:32:10Z",
+  "page_title": "3 cách làm gân bò hầm hạt sen, đậu đỏ và cà ri thơm ngon, bổ dưỡng",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookRecipe/Avatar/gan-bo-ham-sen-thumbnail.jpg"
+}

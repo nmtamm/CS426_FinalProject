@@ -1,0 +1,51 @@
+{
+  "source_id": "07884",
+  "name": "Kẹo gôm dẻo lá dứa cốt dừa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9596ed27d0e47b2e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-keo-gom-deo-la-dua-cot-dua-thom-ngon-don-gian-de-lam-07884",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-keo-gom-deo-la-dua-cot-dua-thom-ngon-don-gian-de-lam-07884",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột gelatin 100 gr",
+      "raw_name": "Bột gelatin",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 90 gr",
+      "raw_name": "Đường",
+      "quantity": 90,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước cốt lá dứa 45 ml",
+      "raw_name": "Nước cốt lá dứa",
+      "quantity": 45,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước cốt dừa 30 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:21:49Z",
+  "page_title": "Cách làm kẹo gôm dẻo lá dứa cốt dừa thơm ngon đơn giản dễ làm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookProduct/Untitled-1-1200x676-29.jpg"
+}

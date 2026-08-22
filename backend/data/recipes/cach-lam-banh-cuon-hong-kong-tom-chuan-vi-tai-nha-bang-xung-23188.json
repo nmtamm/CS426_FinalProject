@@ -1,0 +1,103 @@
+{
+  "source_id": "23188",
+  "name": "Bánh cuốn Hong Kong",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/07205b3f06f65e64.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-cuon-hong-kong-tom-chuan-vi-tai-nha-bang-xung-23188",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-cuon-hong-kong-tom-chuan-vi-tai-nha-bang-xung-23188",
+  "servings_text": "Cho 4-5 phần ăn (10-15 cái bánh cuốn)",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột gạo tẻ 200 gr (loại Vĩnh Thuận)",
+      "raw_name": "Bột gạo tẻ",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "loại Vĩnh Thuận",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột củ năng 7 gr",
+      "raw_name": "Bột củ năng",
+      "quantity": 7,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột tàn mì hoặc bột há cảo 20 gr",
+      "raw_name": "Bột tàn mì hoặc bột há cảo",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước 594 gr",
+      "raw_name": "Nước",
+      "quantity": 594,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tôm tươi 350 gr",
+      "raw_name": "Tôm tươi",
+      "quantity": 350,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành lá 1 ít",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ngò rí còn rễ 1 ít",
+      "raw_name": "Ngò rí còn rễ",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Trứng gà 1 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột năng 1 muỗng cà phê",
+      "raw_name": "Bột năng",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị pha sốt 1 ít (nước tương/dầu hào)",
+      "raw_name": "Gia vị pha sốt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "nước tương/dầu hào",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T20:33:19Z",
+  "page_title": "Cách làm bánh cuốn Hong Kong tôm chuẩn vị tại nhà bằng xửng hấp",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/banh-cuon-hong-kong.jpg"
+}

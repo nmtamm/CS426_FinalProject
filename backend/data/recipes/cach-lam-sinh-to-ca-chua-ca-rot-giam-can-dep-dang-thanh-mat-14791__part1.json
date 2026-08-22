@@ -1,0 +1,57 @@
+{
+  "source_id": "14791",
+  "name": "Sinh tố cà chua cà rốt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8c3ad1dcff2744a1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sinh-to-ca-chua-ca-rot-giam-can-dep-dang-thanh-mat-14791",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sinh-to-ca-chua-ca-rot-giam-can-dep-dang-thanh-mat-14791",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà chua 1 trái",
+      "raw_name": "Cà chua",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường thốt nốt 1 muỗng cà phê",
+      "raw_name": "Đường thốt nốt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước lọc 200 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:50:35Z",
+  "page_title": "3 Cách làm sinh tố cà chua cà rốt giảm cân đẹp dáng thanh mát cho chị em",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/sinh-to-ca-chua-ca-rot-thumbnail.jpg"
+}

@@ -1,0 +1,131 @@
+{
+  "source_id": "11376",
+  "name": "Gỏi bò nấm tuyết",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/19dce208b5ab11c5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-bo-nam-tuyet-moi-la-thom-ngon-hap-dan-ai-cung-11376",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-bo-nam-tuyet-moi-la-thom-ngon-hap-dan-ai-cung-11376",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò 300 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm tuyết 100 gr",
+      "raw_name": "Nấm tuyết",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rau mùi 20 gr",
+      "raw_name": "Rau mùi",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chanh 4 quả",
+      "raw_name": "Chanh",
+      "quantity": 4,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt 4 quả",
+      "raw_name": "Ớt",
+      "quantity": 4,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi 10 tép",
+      "raw_name": "Tỏi 10 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hạt nêm 1 muỗng cà phê",
+      "raw_name": "Hạt nêm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột ngọt 1 muỗng cà phê",
+      "raw_name": "Bột ngọt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đường vàng 1/2 chén",
+      "raw_name": "Đường vàng",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước mắm 1/2 chén",
+      "raw_name": "Nước mắm",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Tương ớt 4 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T17:58:00Z",
+  "page_title": "Cách làm gỏi bò nấm tuyết mới lạ thơm ngon hấp dẫn ai cũng thích",
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookProduct/1200-1200x676-4.jpg"
+}

@@ -1,0 +1,93 @@
+{
+  "source_id": "01646",
+  "name": "Gỏi rau má trộn mắm tôm (Công thức được chia sẻ từ người dùng)",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f48f1a7cc42aa86a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-rau-ma-cuc-ngon-an-mat-ruot-01646",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-rau-ma-cuc-ngon-an-mat-ruot-01646",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rau má 200 gr",
+      "raw_name": "Rau má",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tây 1 củ (củ nhỏ)",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "củ nhỏ",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 3 tép (băm nhỏ)",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": "băm nhỏ",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lạc rang 50 gr (đậu phộng rang)",
+      "raw_name": "Lạc rang",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "đậu phộng rang",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Chanh 2 quả",
+      "raw_name": "Chanh",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt 1 quả",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng cà phê (có thể dùng mắm tôm để món gỏi có hương vị đặc trưng hơn)",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": "có thể dùng mắm tôm để món gỏi có hương vị đặc trưng hơn",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường/ muối 1 ít",
+      "raw_name": "Đường/ muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T17:55:22Z",
+  "page_title": "3 cách làm gỏi rau má cực ngon dễ làm tại nhà",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2022/04/CookRecipe/Avatar/gỏi-rau-má-trọn-mám-tom-cong-thúc-duọc-chia-sẻ-tù-nguòi-dùng-thumbnail.jpg"
+}

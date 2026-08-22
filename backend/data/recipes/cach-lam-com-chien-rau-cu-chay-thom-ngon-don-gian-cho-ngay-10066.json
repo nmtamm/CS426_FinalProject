@@ -1,0 +1,131 @@
+{
+  "source_id": "10066",
+  "name": "Cơm chiên rau củ chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0680770a7e4642e1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-com-chien-rau-cu-chay-thom-ngon-don-gian-cho-ngay-10066",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-com-chien-rau-cu-chay-thom-ngon-don-gian-cho-ngay-10066",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cơm 1 tô (tô đựng canh)",
+      "raw_name": "Cơm",
+      "quantity": 1,
+      "unit": "tô",
+      "note": "tô đựng canh",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sườn non chay 200 gr",
+      "raw_name": "Sườn non chay",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bắp Mỹ 1 quả (300gr)",
+      "raw_name": "Bắp Mỹ",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "300gr",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đậu que 200 gr",
+      "raw_name": "Đậu que",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nấm rơm 200 gr",
+      "raw_name": "Nấm rơm",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Cà rốt 1 quả (100gr)",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "100gr",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tím 6 củ",
+      "raw_name": "Hành tím",
+      "quantity": 6,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ngò rí 2 nhánh",
+      "raw_name": "Ngò rí",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước tương 1/2 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu hào chay 1 muỗng canh",
+      "raw_name": "Dầu hào chay",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu mè 1/4 muỗng cà phê",
+      "raw_name": "Dầu mè",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Hạt nêm chay 1 muỗng cà phê",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ tiêu/ đường)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ tiêu/ đường",
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T18:35:46Z",
+  "page_title": "Cách làm cơm chiên rau củ chay thơm ngon, đơn giản cho ngày rằm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookProduct/COM-RANG-CHAY---Cach-lam-COM-RANG-RAU-CU-Thanh-Dam---Mon-An-Ngon-Moi-Ngay-0-19-screenshot-1200x676.jpg"
+}

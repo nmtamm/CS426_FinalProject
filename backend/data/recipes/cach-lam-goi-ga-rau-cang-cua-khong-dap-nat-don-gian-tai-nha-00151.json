@@ -1,0 +1,107 @@
+{
+  "source_id": "00151",
+  "name": "Gỏi gà rau càng cua",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b727cc2b0263e355.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-ga-rau-cang-cua-khong-dap-nat-don-gian-tai-nha-00151",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-ga-rau-cang-cua-khong-dap-nat-don-gian-tai-nha-00151",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà 1/2 con",
+      "raw_name": "Gà 1/2 con",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rau càng cua 300 gr",
+      "raw_name": "Rau càng cua",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sả 1 cây",
+      "raw_name": "Sả",
+      "quantity": 1,
+      "unit": "cây",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng 1/2 củ",
+      "raw_name": "Gừng",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chanh 1 trái",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đậu phộng 30 gr",
+      "raw_name": "Đậu phộng",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành phi 1 muỗng canh",
+      "raw_name": "Hành phi",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tỏi 1/2 muỗng canh (băm nhuyễn)",
+      "raw_name": "Tỏi",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": "băm nhuyễn",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ớt 1/2 muỗng canh (băm nhuyễn)",
+      "raw_name": "Ớt",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": "băm nhuyễn",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ đường/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ đường/ bột ngọt",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T17:53:25Z",
+  "page_title": "Cách làm gỏi gà rau càng cua ngon không dập nát đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookDish/cach-lam-goi-ga-rau-cang-cua-khong-dap-nat-don-gian-tai-nha-avt-1200x676.jpg"
+}

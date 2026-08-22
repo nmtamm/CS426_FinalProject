@@ -1,0 +1,91 @@
+{
+  "source_id": "24293",
+  "name": "Nộm bí xanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8e754b7345f4131b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nom-bi-xanh-ca-rot-thit-ba-chi-thom-ngon-thanh-mat-24293",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nom-bi-xanh-ca-rot-thit-ba-chi-thom-ngon-thanh-mat-24293",
+  "servings_text": "Cho 3 người ăn",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bí xanh 500 gr (bí đao)",
+      "raw_name": "Bí xanh",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "bí đao",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt ba chỉ 100 gr",
+      "raw_name": "Thịt ba chỉ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lạc rang 1 ít (đậu phộng)",
+      "raw_name": "Lạc rang",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đậu phộng",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rau húng 1 ít (hoặc rau thơm tùy ý)",
+      "raw_name": "Rau húng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hoặc rau thơm tùy ý",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước cốt chanh 2 thìa",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 2,
+      "unit": "thìa",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi băm/ ớt băm 1 ít",
+      "raw_name": "Tỏi băm/ ớt băm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành khô 1 củ",
+      "raw_name": "Hành khô",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ bột canh/ nước mắm/ đường)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ bột canh/ nước mắm/ đường",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T17:50:22Z",
+  "page_title": "Cách làm nộm bí xanh cà rốt thịt ba chỉ thơm ngon thanh mát cực đơn giản",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t03%201200676%20-%202026-04-06T164140.182.jpg"
+}

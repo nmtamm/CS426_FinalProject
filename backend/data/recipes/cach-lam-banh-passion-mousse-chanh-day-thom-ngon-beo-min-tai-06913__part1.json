@@ -1,0 +1,73 @@
+{
+  "source_id": "06913",
+  "name": "Mousse chanh dây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a17227972cd6b798.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-passion-mousse-chanh-day-thom-ngon-beo-min-tai-06913",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-passion-mousse-chanh-day-thom-ngon-beo-min-tai-06913",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chanh dây 1 kg",
+      "raw_name": "Chanh dây",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Whipping cream 290 gr",
+      "raw_name": "Whipping cream",
+      "quantity": 290,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột gelatin 11 gr",
+      "raw_name": "Bột gelatin",
+      "quantity": 11,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 100 gr",
+      "raw_name": "Đường",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bánh quy 3 miếng",
+      "raw_name": "Bánh quy 3 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước lọc 105 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 105,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:17:40Z",
+  "page_title": "4 cách làm bánh mousse chanh dây (chanh leo) chua ngọt béo mịn tại nhà",
+  "variant_index": 1,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/mousse-chanh-day-thumbnail-1.jpg"
+}

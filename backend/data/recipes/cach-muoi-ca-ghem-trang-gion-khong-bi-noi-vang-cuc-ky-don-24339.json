@@ -1,0 +1,51 @@
+{
+  "source_id": "24339",
+  "name": "Cà ghém muối",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/dd06ff6ddc632cbe.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-muoi-ca-ghem-trang-gion-khong-bi-noi-vang-cuc-ky-don-24339",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-muoi-ca-ghem-trang-gion-khong-bi-noi-vang-cuc-ky-don-24339",
+  "servings_text": "Cho 1 hũ lớn",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cà pháo 1.5 kg",
+      "raw_name": "Cà pháo",
+      "quantity": 1.5,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối hột 150 gr",
+      "raw_name": "Muối hột",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 40 gr",
+      "raw_name": "Đường",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi/ ớt 1 ít",
+      "raw_name": "Tỏi/ ớt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:24:52Z",
+  "page_title": "Cách muối cà ghém trắng giòn, không bị nổi váng, cực kỳ đơn giản tại nhà",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t04%201200676%20%2842%29.jpg"
+}

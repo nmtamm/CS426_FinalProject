@@ -1,0 +1,131 @@
+{
+  "source_id": "14590",
+  "name": "Gỏi bò ba khía",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/415ea2ce87369a3a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-bo-ba-khia-cuc-ngon-va-vo-cung-don-gian-cho-ca-14590",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-bo-ba-khia-cuc-ngon-va-vo-cung-don-gian-cho-ca-14590",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò 300 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ba khía 3 con",
+      "raw_name": "Ba khía 3 con",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chuối chát 2 quả",
+      "raw_name": "Chuối chát",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà chua 4 quả",
+      "raw_name": "Cà chua",
+      "quantity": 4,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tây 2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt 6 quả",
+      "raw_name": "Ớt",
+      "quantity": 6,
+      "unit": "quả",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Me chua 20 gr",
+      "raw_name": "Me chua",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rau răm 20 gr",
+      "raw_name": "Rau răm",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đậu phộng rang 30 gr",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước cốt chanh 3 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước mắm 3 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ bột ngọt/ đường)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ bột ngọt/ đường",
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T17:51:08Z",
+  "page_title": "Cách làm gỏi bò ba khía cực ngon và vô cùng đơn giản cho cả nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-goi-bo-ba-khia-cuc-ngon-va-vo-cung-don-gian-cho-ca-avt-1200x676-1.jpg"
+}

@@ -1,0 +1,51 @@
+{
+  "source_id": "07334",
+  "name": "Khoai lang nướng phô mai",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0ce3dd64c28d1460.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-khoai-lang-nuong-pho-mai-thom-ngon-kho-cuong-07334",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-khoai-lang-nuong-pho-mai-thom-ngon-kho-cuong-07334",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai lang 2 củ",
+      "raw_name": "Khoai lang",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mật ong 20 ml",
+      "raw_name": "Mật ong",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá parsley khô 1 ít",
+      "raw_name": "Lá parsley khô",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Phô mai mozzarella 40 gr",
+      "raw_name": "Phô mai mozzarella",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T18:54:58Z",
+  "page_title": "Cách làm khoai lang nướng phô mai thơm ngon khó cưỡng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookProduct/1200-1200x676-41.jpg"
+}

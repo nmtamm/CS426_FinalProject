@@ -1,0 +1,61 @@
+{
+  "source_id": "15176",
+  "name": "Sữa đậu xanh lá dứa cốt dừa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ec3f8f11199f4ab7.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sua-dau-xanh-bang-may-lam-sua-hat-thom-ngon-nhieu-15176",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sua-dau-xanh-bang-may-lam-sua-hat-thom-ngon-nhieu-15176",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu xanh nguyên vỏ 30 gr",
+      "raw_name": "Đậu xanh nguyên vỏ",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cơm dừa 500 gr",
+      "raw_name": "Cơm dừa",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá dứa 100 gr",
+      "raw_name": "Lá dứa",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối hồng 1 ít",
+      "raw_name": "Muối hồng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:53:16Z",
+  "page_title": "2 cách làm sữa đậu xanh bằng máy làm sữa hạt thơm ngon nhiều dinh dưỡng",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/sua-dau-xanh-la-dua-cot-dua-thumbnail.jpg"
+}

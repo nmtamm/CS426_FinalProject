@@ -1,0 +1,87 @@
+{
+  "source_id": "03777",
+  "name": "Tôm càng xanh sốt trứng muối",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/56f884dc83b8fb85.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tom-cang-xanh-sot-trung-muoi-thom-beo-cuc-ngon-dam-03777",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tom-cang-xanh-sot-trung-muoi-thom-beo-cuc-ngon-dam-03777",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tôm càng xanh 500 gr",
+      "raw_name": "Tôm càng xanh",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lòng đỏ trứng muối 5 quả",
+      "raw_name": "Lòng đỏ trứng muối",
+      "quantity": 5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lòng đỏ trứng muối 5 cái",
+      "raw_name": "Lòng đỏ trứng muối",
+      "quantity": 5,
+      "unit": "cái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột bắp 30 gr",
+      "raw_name": "Bột bắp",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bơ lạc 50 gr",
+      "raw_name": "Bơ lạc",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi băm 5 gr",
+      "raw_name": "Tỏi băm",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tím băm 5 gr",
+      "raw_name": "Hành tím băm",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hạt nêm 1 muỗng cà phê",
+      "raw_name": "Hạt nêm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:26:00Z",
+  "page_title": "Cách làm tôm càng xanh sốt trứng muối thơm béo, cực ngon đậm đà hương vị",
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookProduct/3-1200x676-6.jpg"
+}

@@ -1,0 +1,99 @@
+{
+  "source_id": "01286",
+  "name": "Salad hạt chia",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/599e51b5b3c278f3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-lam-salad-hat-chia-giai-nhiet-ngay-he-01286",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-lam-salad-hat-chia-giai-nhiet-ngay-he-01286",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hạt chia 3 muỗng cà phê",
+      "raw_name": "Hạt chia",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xà lách giòn 100 gr",
+      "raw_name": "Xà lách giòn",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nho khô 1 thìa cà phê",
+      "raw_name": "Nho khô",
+      "quantity": 1,
+      "unit": "thìa cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chuối già 1 quả",
+      "raw_name": "Chuối già",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Xoài chín giòn 1/2 trái",
+      "raw_name": "Xoài chín giòn",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sả cây 2 cây",
+      "raw_name": "Sả cây",
+      "quantity": 2,
+      "unit": "cây",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dâu tây 8 trái",
+      "raw_name": "Dâu tây",
+      "quantity": 8,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu ô liu 3 thìa",
+      "raw_name": "Dầu ô liu",
+      "quantity": 3,
+      "unit": "thìa",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Mật ong 2 thìa",
+      "raw_name": "Mật ong",
+      "quantity": 2,
+      "unit": "thìa",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước cốt chanh 2 thìa",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 2,
+      "unit": "thìa",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T17:54:47Z",
+  "page_title": "Cách làm salad hạt chia, giải nhiệt ngày hè",
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookProduct/17-1200x676-4.jpg"
+}

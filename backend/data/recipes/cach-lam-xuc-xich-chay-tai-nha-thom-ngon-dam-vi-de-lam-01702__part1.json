@@ -1,0 +1,117 @@
+{
+  "source_id": "01702",
+  "name": "Xúc xích chay từ đậu gà",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b02333bd81601d79.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-xuc-xich-chay-tai-nha-thom-ngon-dam-vi-de-lam-01702",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-xuc-xich-chay-tai-nha-thom-ngon-dam-vi-de-lam-01702",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột thì là 4 gram",
+      "raw_name": "Bột thì là 4 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hạt cây thì là 4 gram",
+      "raw_name": "Hạt cây thì là 4 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đậu gà 100 gram",
+      "raw_name": "Đậu gà 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sốt cà chua 30 ml",
+      "raw_name": "Sốt cà chua",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Cỏ xạ hương 4 gram",
+      "raw_name": "Cỏ xạ hương 4 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt cựa gà 4 gram",
+      "raw_name": "Ớt cựa gà 4 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước lọc có gas 30 ml",
+      "raw_name": "Nước lọc có gas",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bột mì căn 300 gram",
+      "raw_name": "Bột mì căn 300 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị thông dụng 10 gram (xì dầu/muối/đường...)",
+      "raw_name": "Gia vị thông dụng 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": "xì dầu/muối/đường...",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu hạt cải 10 ml",
+      "raw_name": "Dầu hạt cải",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:43:49Z",
+  "page_title": "3 cách làm xúc xích chay tại nhà thơm ngon đậm vị dễ làm",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/xuc-xich-chay-thumbnail.jpg"
+}

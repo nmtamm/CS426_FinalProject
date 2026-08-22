@@ -1,0 +1,99 @@
+{
+  "source_id": "02445",
+  "name": "Gỏi tai heo bắp cải",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5deae7f41f8adbe6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-tai-heo-bap-cai-gion-ngon-don-gian-02445",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-tai-heo-bap-cai-gion-ngon-don-gian-02445",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tai heo 1/2 cái",
+      "raw_name": "Tai heo",
+      "quantity": 0.5,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bắp cải tím 1 quả",
+      "raw_name": "Bắp cải tím",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tây 1/2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rau răm 20 gr",
+      "raw_name": "Rau răm",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tím 3 củ",
+      "raw_name": "Hành tím",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt 1 trái",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Chanh 1 trái",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đậu phộng rang 20 gr",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T17:59:18Z",
+  "page_title": "Cách làm gỏi tai heo bắp cải giòn ngon, đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookProduct/Huong-dan-tron-GOI-TAI-HEO-BAP-CAI-TIM-sieu-gion-sieu-ngon-5-24-screenshot-1200x676.jpg"
+}

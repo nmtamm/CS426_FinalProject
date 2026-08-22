@@ -1,0 +1,53 @@
+{
+  "source_id": "01138",
+  "name": "Trân châu hoa đậu biếc bằng bột năng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e4f914541dbb3c70.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tran-chau-hoa-dau-biec-cuc-dep-mat-de-lam-tai-nha-01138",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tran-chau-hoa-dau-biec-cuc-dep-mat-de-lam-tai-nha-01138",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hoa đậu biếc 10 gr (10 hoa)",
+      "raw_name": "Hoa đậu biếc",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "10 hoa",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột năng 200 gr",
+      "raw_name": "Bột năng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước 700 ml",
+      "raw_name": "Nước",
+      "quantity": 700,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 45 gr (3 muỗng canh)",
+      "raw_name": "Đường",
+      "quantity": 45,
+      "unit": "gr",
+      "note": "3 muỗng canh",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:11:48Z",
+  "page_title": "2 cách làm trân châu hoa đậu biếc cực đẹp mắt dễ làm tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/tran-chau-hoa-dau-biec-bang-bot-nang-thumbnail-2.jpg"
+}

@@ -1,0 +1,77 @@
+{
+  "source_id": "14684",
+  "name": "Mojito phúc bồn tử",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b255c8122e150814.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-pha-mojito-phuc-bon-tu-mat-lanh-giai-nhiet-ngay-nang-14684",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-pha-mojito-phuc-bon-tu-mat-lanh-giai-nhiet-ngay-nang-14684",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Soda 150 ml",
+      "raw_name": "Soda",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rum trắng 60 ml",
+      "raw_name": "Rum trắng",
+      "quantity": 60,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Phúc bồn tử 5 quả",
+      "raw_name": "Phúc bồn tử",
+      "quantity": 5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chanh 1/2 quả",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bạc hà 10 lá",
+      "raw_name": "Bạc hà",
+      "quantity": 10,
+      "unit": "lá",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 1 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:04:43Z",
+  "page_title": "3 cách pha mojito phúc bồn tử mát lạnh giải nhiệt ngày nắng",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/mojito-phuc-bon-tu-thumbnail.jpg"
+}

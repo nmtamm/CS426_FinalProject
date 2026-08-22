@@ -1,0 +1,111 @@
+{
+  "source_id": "05397",
+  "name": "Bò Wellington",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/161e0618b7d5a7eb.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bo-wellington-moi-la-cho-ban-tiec-giang-sinh-them-05397",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bo-wellington-moi-la-cho-ban-tiec-giang-sinh-them-05397",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thăn bò 500 gr (nguyên miếng)",
+      "raw_name": "Thăn bò",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "nguyên miếng",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm mỡ 500 gr",
+      "raw_name": "Nấm mỡ",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột mì đa dụng 50 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa tươi không đường 120 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 120,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột bánh ngàn lớp 2 miếng (pastry puff)",
+      "raw_name": "Bột bánh ngàn lớp 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": "pastry puff",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành tím băm 2 muỗng canh",
+      "raw_name": "Hành tím băm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Mù tạt vàng 3 muỗng canh",
+      "raw_name": "Mù tạt vàng",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu oilu 4 muỗng canh",
+      "raw_name": "Dầu oilu",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Muối/tiêu 1 ít",
+      "raw_name": "Muối/tiêu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:33:49Z",
+  "page_title": "Cách làm bò Wellington mới lạ cho bàn tiệc Giáng sinh thêm sang chảnh",
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookProduct/cach-lam-bo-wellington1200-1200x676.jpg"
+}

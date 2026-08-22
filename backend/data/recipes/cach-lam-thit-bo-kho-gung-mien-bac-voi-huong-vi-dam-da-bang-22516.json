@@ -1,0 +1,67 @@
+{
+  "source_id": "22516",
+  "name": "Thịt bò kho gừng miền Bắc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/83aa07fae9afa4a7.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-bo-kho-gung-mien-bac-voi-huong-vi-dam-da-bang-22516",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-bo-kho-gung-mien-bac-voi-huong-vi-dam-da-bang-22516",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò dẻ sườn 1 kg",
+      "raw_name": "Thịt bò dẻ sườn",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gừng 100 gr",
+      "raw_name": "Gừng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước hàng 2 thìa canh (nước màu đường)",
+      "raw_name": "Nước hàng",
+      "quantity": 2,
+      "unit": "thìa canh",
+      "note": "nước màu đường",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 4 thìa canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 4,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu màu điều 3 thìa canh (tùy ý)",
+      "raw_name": "Dầu màu điều",
+      "quantity": 3,
+      "unit": "thìa canh",
+      "note": "tùy ý",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (bột canh/ hạt nêm/ mì chính/ tiêu xay/ đường/ nước mắm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "bột canh/ hạt nêm/ mì chính/ tiêu xay/ đường/ nước mắm",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:23:16Z",
+  "page_title": "Cách làm thịt bò kho gừng miền Bắc với hương vị đậm đà bằng nồi inox",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Thi%E1%BA%BFt%20k%E1%BA%BF%20ch%C6%B0a%20c%C3%B3%20t%C3%AAn%20-%202025-02-05T174916.227.jpg"
+}

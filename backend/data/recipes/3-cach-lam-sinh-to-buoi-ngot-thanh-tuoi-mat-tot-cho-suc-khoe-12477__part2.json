@@ -1,0 +1,85 @@
+{
+  "source_id": "12477",
+  "name": "Sinh tố bưởi quýt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3a05e8019ede8418.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sinh-to-buoi-ngot-thanh-tuoi-mat-tot-cho-suc-khoe-12477",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sinh-to-buoi-ngot-thanh-tuoi-mat-tot-cho-suc-khoe-12477",
+  "servings_text": "Cho 2 ly",
+  "topics": [
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bưởi 500 gr",
+      "raw_name": "Bưởi",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Quýt 50 gr",
+      "raw_name": "Quýt",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa chua Hy Lạp 100 ml",
+      "raw_name": "Sữa chua Hy Lạp",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hạt chia 5 gr",
+      "raw_name": "Hạt chia",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chuối 100 gr (đông lạnh)",
+      "raw_name": "Chuối",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "đông lạnh",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột quế 1/8 muỗng canh",
+      "raw_name": "Bột quế",
+      "quantity": 0.125,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột vani 1/8 muỗng canh",
+      "raw_name": "Bột vani",
+      "quantity": 0.125,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước lọc 100 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:09:08Z",
+  "page_title": "3 cách làm sinh tố bưởi ngọt thanh, tươi mát tốt cho sức khỏe",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/sinh-to-buoi-quyt-thumbnail-1.jpg"
+}

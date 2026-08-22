@@ -1,0 +1,55 @@
+{
+  "source_id": "10103",
+  "name": "Rau câu chôm chôm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5e44805b13942c67.jpeg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thach-rau-cau-chom-chom-gion-thanh-mat-thom-ngon-10103",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thach-rau-cau-chom-chom-gion-thanh-mat-thom-ngon-10103",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột rau câu dừa 10 gr (1 gói)",
+      "raw_name": "Bột rau câu dừa",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "1 gói",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chôm chôm 300 gr",
+      "raw_name": "Chôm chôm",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 100 gr",
+      "raw_name": "Đường",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước 2 lít",
+      "raw_name": "Nước 2 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:02:29Z",
+  "page_title": "Cách làm rau câu chôm chôm mát lạnh giải nhiệt mùa hè cực đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/2022/07/CookDish/cach-lam-thach-rau-cau-chom-chom-gion-thanh-mat-thom-ngon-avt-1200x676.jpeg"
+}

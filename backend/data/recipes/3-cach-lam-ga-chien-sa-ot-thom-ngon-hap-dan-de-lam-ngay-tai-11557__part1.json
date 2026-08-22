@@ -1,0 +1,77 @@
+{
+  "source_id": "11557",
+  "name": "Gà chiên sả ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/fb7c22d28826eae8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-ga-chien-sa-ot-thom-ngon-hap-dan-de-lam-ngay-tai-11557",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-ga-chien-sa-ot-thom-ngon-hap-dan-de-lam-ngay-tai-11557",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà 1 con (1kg)",
+      "raw_name": "Gà 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": "1kg",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sả 5 nhánh",
+      "raw_name": "Sả",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt 1 trái",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột bắp 4 muỗng canh",
+      "raw_name": "Bột bắp",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 200 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường/ bột ngọt 1 ít",
+      "raw_name": "Đường/ bột ngọt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:15:35Z",
+  "page_title": "3 cách làm gà chiên sả ớt thơm ngon hấp dẫn dễ làm ngay tại nhà",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/ga-chien-sa-ot-thumbnail-2.jpg"
+}

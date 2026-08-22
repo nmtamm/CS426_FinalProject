@@ -1,0 +1,77 @@
+{
+  "source_id": "01454",
+  "name": "Gà nấu đông với trứng gà, trứng vịt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/45893b755b7a2abd.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-3-mon-ga-nau-dong-don-gian-ngon-kho-cuong-ai-cung-me-01454",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-3-mon-ga-nau-dong-don-gian-ngon-kho-cuong-ai-cung-me-01454",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ức gà nướng 2 cái (cắt hạt lựu)",
+      "raw_name": "Ức gà nướng",
+      "quantity": 2,
+      "unit": "cái",
+      "note": "cắt hạt lựu",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gelatin 1 gói",
+      "raw_name": "Gelatin",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng gà 2 quả (luộc chín)",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": "luộc chín",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đậu Hà Lan 1/2 chén (đông lạnh)",
+      "raw_name": "Đậu Hà Lan",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": "đông lạnh",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cà rốt 1/2 chén (cắt hạt lựu)",
+      "raw_name": "Cà rốt",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": "cắt hạt lựu",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành trắng nhỏ 1/2 chén (đông lạnh)",
+      "raw_name": "Hành trắng nhỏ",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": "đông lạnh",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước gà kho 1 lít",
+      "raw_name": "Nước gà kho 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:10:29Z",
+  "page_title": "Cách làm 3 món gà nấu đông đơn giản, ngon khó cưỡng ai cũng mê",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2022/01/CookRecipe/Avatar/ga-nau-dong-voi-trung-ga-trung-vit-thumbnail.jpg"
+}

@@ -1,0 +1,70 @@
+{
+  "source_id": "01502",
+  "name": "Khô mực rim me",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bb97ab9f43e0827f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cong-thuc-lam-muc-rim-me-rim-nuoc-mam-cuc-ngon-com-01502",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cong-thuc-lam-muc-rim-me-rim-nuoc-mam-cuc-ngon-com-01502",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khô mực 8 con",
+      "raw_name": "Khô mực 8 con",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Me 1 gói",
+      "raw_name": "Me",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước 1 chén",
+      "raw_name": "Nước",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 1 chén",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước mắm 1/2 chén",
+      "raw_name": "Nước mắm",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gừng 1 củ (1 nhánh nhỏ)",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "1 nhánh nhỏ",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:30:21Z",
+  "page_title": "2 cách làm khô mực rim me và rim nước mắm cực ngon cơm ngày mưa gió",
+  "variant_index": 3,
+  "variant_count": 3,
+  "note": "Công thức được chia sẻ từ TikTok Vào bếp cùng Điện máy XANH",
+  "original_image_url": "https://cdn.tgdd.vn/2023/06/CookRecipe/Avatar/kho-muc-rim-me-cong-thuc-duoc-chia-se-tu-tiktok-vao-bep-cung-dien-may-xanh-thumbnail.jpg"
+}

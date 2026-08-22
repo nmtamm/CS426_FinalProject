@@ -1,0 +1,133 @@
+{
+  "source_id": "07046",
+  "name": "Bún nấm chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6d7ebd5817bbfef5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/5-cach-lam-bun-nuoc-leo-chay-thom-ngon-don-gian-doi-vi-cho-07046",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/5-cach-lam-bun-nuoc-leo-chay-thom-ngon-don-gian-doi-vi-cho-07046",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tàu hũ ky khô 100 gr (hay còn gọi là sườn non chay)",
+      "raw_name": "Tàu hũ ky khô",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "hay còn gọi là sườn non chay",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm rơm 150 gr",
+      "raw_name": "Nấm rơm",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nấm bào ngư 150 gr",
+      "raw_name": "Nấm bào ngư",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ngải bún 100 gr",
+      "raw_name": "Ngải bún",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Mía 20 gr (1 đốt)",
+      "raw_name": "Mía",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "1 đốt",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Xá bấu 1 củ",
+      "raw_name": "Xá bấu",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Sả 3 củ",
+      "raw_name": "Sả",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước dừa tươi 1.5 lít",
+      "raw_name": "Nước dừa tươi 1.5 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước mắm chay 40 ml",
+      "raw_name": "Nước mắm chay",
+      "quantity": 40,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hạt nêm chay 3 muỗng cà phê",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đường 3 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu ăn 110 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 110,
+      "unit": "ml",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Bún 200 gr",
+      "raw_name": "Bún",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T18:41:22Z",
+  "page_title": "5 cách nấu bún nấm chay thơm ngon, đơn giản đổi vị cho gia đình",
+  "variant_index": 1,
+  "variant_count": 5,
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookRecipe/Avatar/bun-nuoc-leo-chay-tu-nam-thumbnail.jpg"
+}

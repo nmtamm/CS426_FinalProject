@@ -1,0 +1,127 @@
+{
+  "source_id": "00148",
+  "name": "Gỏi gà ngó sen",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/dda72d1c13e84251.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-ga-ngo-sen-trang-gion-ngon-don-gian-tai-nha-00148",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-ga-ngo-sen-trang-gion-ngon-don-gian-tai-nha-00148",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    },
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà 1 con (1.5kg)",
+      "raw_name": "Gà 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": "1.5kg",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ngó sen 200 gr",
+      "raw_name": "Ngó sen",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 300 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tây 2 củ (nhỏ)",
+      "raw_name": "Hành tây",
+      "quantity": 2,
+      "unit": "củ",
+      "note": "nhỏ",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt sừng 2 quả",
+      "raw_name": "Ớt sừng",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rau răm 5 nhánh",
+      "raw_name": "Rau răm",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đậu phộng rang 1 muỗng canh",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành phi 1 muỗng canh",
+      "raw_name": "Hành phi",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Giấm 2 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước mắm 1.5 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 chén (loại chén ăn cơm)",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "chén",
+      "note": "loại chén ăn cơm",
+      "display_order": 12
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ hạt nêm/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ hạt nêm/ bột ngọt",
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T18:00:29Z",
+  "page_title": "Cách làm gỏi gà ngó sen trắng giòn ngon miệng đơn giản ngay tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookProduct/thgd-1200x676.jpg"
+}

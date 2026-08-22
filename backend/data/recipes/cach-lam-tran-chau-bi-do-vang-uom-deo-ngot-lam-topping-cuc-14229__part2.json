@@ -1,0 +1,49 @@
+{
+  "source_id": "14229",
+  "name": "Trân châu bí đỏ làm bằng bột năng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d662cf2053592b4e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tran-chau-bi-do-vang-uom-deo-ngot-lam-topping-cuc-14229",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tran-chau-bi-do-vang-uom-deo-ngot-lam-topping-cuc-14229",
+  "servings_text": "Cho 3 - 5 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bí đỏ 200 gr",
+      "raw_name": "Bí đỏ",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột năng 2.5 chén (chén ăn cơm)",
+      "raw_name": "Bột năng",
+      "quantity": 2.5,
+      "unit": "chén",
+      "note": "chén ăn cơm",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 2 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:01:29Z",
+  "page_title": "2 Cách làm trân châu bí đỏ vàng ươm dẻo ngọt làm topping cực ngon",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookRecipe/Avatar/tran-chau-bi-do-lam-bang-bot-nang-thumbnail.jpg"
+}

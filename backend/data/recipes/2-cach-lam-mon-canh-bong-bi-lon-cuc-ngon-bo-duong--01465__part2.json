@@ -1,0 +1,113 @@
+{
+  "source_id": "01465",
+  "name": "Canh bóng cuộn chả cá thác lác",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1546fc417b503044.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mon-canh-bong-bi-lon-cuc-ngon-bo-duong--01465",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mon-canh-bong-bi-lon-cuc-ngon-bo-duong--01465",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-canh",
+      "name": "Món canh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bóng bì to 1 lát",
+      "raw_name": "Bóng bì to 1 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 100 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Su hào 100 gr",
+      "raw_name": "Su hào",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bông cải xanh 100 gr",
+      "raw_name": "Bông cải xanh",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cá thác lác 250 gr",
+      "raw_name": "Cá thác lác",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Giò sống 100 gr",
+      "raw_name": "Giò sống",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước xương gà 300 ml",
+      "raw_name": "Nước xương gà",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Thì là 1 ít",
+      "raw_name": "Thì là",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rượu 1 ít",
+      "raw_name": "Rượu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/tiêu/đường/bột ngọt/hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/tiêu/đường/bột ngọt/hạt nêm",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T19:45:03Z",
+  "page_title": "2 cách nấu canh bóng thả (bóng bì lợn) cực ngon, bổ dưỡng đơn giản",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/canh-bong-cuon-cha-ca-thac-lac-thumbnail.jpg"
+}

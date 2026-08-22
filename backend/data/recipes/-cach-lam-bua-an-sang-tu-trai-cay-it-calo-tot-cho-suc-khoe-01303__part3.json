@@ -1,0 +1,102 @@
+{
+  "source_id": "01303",
+  "name": "Pancake chuối yến mạch",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e73a7faf9aff1682.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/-cach-lam-bua-an-sang-tu-trai-cay-it-calo-tot-cho-suc-khoe-01303",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/-cach-lam-bua-an-sang-tu-trai-cay-it-calo-tot-cho-suc-khoe-01303",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chuối 2 quả",
+      "raw_name": "Chuối",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng 2 quả",
+      "raw_name": "Trứng",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Yến mạch 10 thìa canh (loại ăn liền)",
+      "raw_name": "Yến mạch",
+      "quantity": 10,
+      "unit": "thìa canh",
+      "note": "loại ăn liền",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột quế 1 thìa canh",
+      "raw_name": "Bột quế",
+      "quantity": 1,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 1 thìa canh",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hạt chia 1 thìa canh",
+      "raw_name": "Hạt chia",
+      "quantity": 1,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 thìa canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Mật ong 1 thìa canh",
+      "raw_name": "Mật ong",
+      "quantity": 1,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Sữa chua không đường 3 thìa canh",
+      "raw_name": "Sữa chua không đường",
+      "quantity": 3,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước cam 2 thìa canh",
+      "raw_name": "Nước cam",
+      "quantity": 2,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T20:24:14Z",
+  "page_title": "4 cách làm bữa ăn sáng từ trái cây ít calo, tốt cho sức khỏe",
+  "variant_index": 3,
+  "variant_count": 4,
+  "note": null,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/pancake-chuoi-yen-mach-thumbnail.jpg"
+}

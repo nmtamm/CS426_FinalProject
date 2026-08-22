@@ -1,0 +1,69 @@
+{
+  "source_id": "05578",
+  "name": "Panna cotta cà phê espresso",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7d0314922c6ea574.png",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-panna-cotta-ca-phe-thom-lung-dam-vi-don-gian-thom-05578",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-panna-cotta-ca-phe-thom-lung-dam-vi-don-gian-thom-05578",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Viên nén cà phê espresso 1 cái",
+      "raw_name": "Viên nén cà phê espresso",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Heavy cream 400 ml",
+      "raw_name": "Heavy cream",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gelatin lá 8 gr",
+      "raw_name": "Gelatin lá",
+      "quantity": 8,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 85 gr",
+      "raw_name": "Đường",
+      "quantity": 85,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Vani 1 quả (tùy chọn)",
+      "raw_name": "Vani",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "tùy chọn",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bánh quy 4 cái",
+      "raw_name": "Bánh quy",
+      "quantity": 4,
+      "unit": "cái",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:23:06Z",
+  "page_title": "2 cách làm panna cotta cà phê thơm lừng đậm vị đơn giản thơm ngon",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookRecipe/Avatar/panna-cotta-ca-phe-espresso-thumbnail.png"
+}

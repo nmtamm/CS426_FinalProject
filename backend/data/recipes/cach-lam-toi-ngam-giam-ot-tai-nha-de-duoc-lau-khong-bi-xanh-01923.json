@@ -1,0 +1,43 @@
+{
+  "source_id": "01923",
+  "name": "Tỏi ngâm giấm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f8d5892acf18f723.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-toi-ngam-giam-ot-tai-nha-de-duoc-lau-khong-bi-xanh-01923",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-toi-ngam-giam-ot-tai-nha-de-duoc-lau-khong-bi-xanh-01923",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tỏi 500 gr",
+      "raw_name": "Tỏi",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Giấm chua 2 chén (chén ăn cơm)",
+      "raw_name": "Giấm chua",
+      "quantity": 2,
+      "unit": "chén",
+      "note": "chén ăn cơm",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T20:29:03Z",
+  "page_title": "Cách làm tỏi ngâm giấm ớt không bị xanh tại nhà để được lâu",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/toi-ngam-giam-thumbnail.jpg"
+}

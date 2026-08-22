@@ -1,0 +1,67 @@
+{
+  "source_id": "24150",
+  "name": "Bánh đúc miền Bắc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d28b95943be4d0a7.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-duc-mien-bac-truyen-thong-cham-mam-tom-chuan-vi-24150",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-duc-mien-bac-truyen-thong-cham-mam-tom-chuan-vi-24150",
+  "servings_text": "Cho khoảng 18 đĩa nhỏ",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gạo tẻ 2 bát",
+      "raw_name": "Gạo tẻ",
+      "quantity": 2,
+      "unit": "bát",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lạc 1 bát",
+      "raw_name": "Lạc",
+      "quantity": 1,
+      "unit": "bát",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước 3.5 lít",
+      "raw_name": "Nước 3.5 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Vôi ăn trầu 1 thìa canh (thìa lưng)",
+      "raw_name": "Vôi ăn trầu",
+      "quantity": 1,
+      "unit": "thìa canh",
+      "note": "thìa lưng",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Mỡ lợn 2 thìa canh (mỡ nước)",
+      "raw_name": "Mỡ lợn",
+      "quantity": 2,
+      "unit": "thìa canh",
+      "note": "mỡ nước",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ bột canh)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ bột canh",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:53:04Z",
+  "page_title": "Cách làm bánh đúc miền Bắc truyền thống chấm mắm tôm chuẩn vị xưa tại nhà",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t02%201200676%20%2878%29.jpg"
+}

@@ -1,0 +1,45 @@
+{
+  "source_id": "04178",
+  "name": "Quýt ngâm đường phèn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/10fac5f937d43046.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-quyt-ngam-duong-phen-va-mut-quyt-gung-chua-ho-hieu-04178",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-quyt-ngam-duong-phen-va-mut-quyt-gung-chua-ho-hieu-04178",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Quýt 20 trái",
+      "raw_name": "Quýt",
+      "quantity": 20,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước 400 ml",
+      "raw_name": "Nước",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường phèn 80 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T20:07:09Z",
+  "page_title": "2 Cách làm quýt ngâm đường phèn và mứt quýt gừng chữa ho hiệu quả",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/quyt-ngam-duong-phen-thumbnail.jpg"
+}

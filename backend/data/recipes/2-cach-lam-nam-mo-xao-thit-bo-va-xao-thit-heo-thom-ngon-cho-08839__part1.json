@@ -1,0 +1,113 @@
+{
+  "source_id": "08839",
+  "name": "Nấm mỡ xào thịt bò",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/cc63bd3b047b2765.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nam-mo-xao-thit-bo-va-xao-thit-heo-thom-ngon-cho-08839",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nam-mo-xao-thit-bo-va-xao-thit-heo-thom-ngon-cho-08839",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò phi lê 200 gr",
+      "raw_name": "Thịt bò phi lê",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm mỡ 100 gr",
+      "raw_name": "Nấm mỡ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bông cải xanh 100 gr",
+      "raw_name": "Bông cải xanh",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bông cải trắng 100 gr",
+      "raw_name": "Bông cải trắng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt chuông vàng 1/4 quả",
+      "raw_name": "Ớt chuông vàng",
+      "quantity": 0.25,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt chuông đỏ 1/4 quả",
+      "raw_name": "Ớt chuông đỏ",
+      "quantity": 0.25,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tây 1/2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành tím/ tỏi 2 thìa canh (băm nhuyễn)",
+      "raw_name": "Hành tím/ tỏi",
+      "quantity": 2,
+      "unit": "thìa canh",
+      "note": "băm nhuyễn",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Mè trắng rang 1 thìa cà phê",
+      "raw_name": "Mè trắng rang",
+      "quantity": 1,
+      "unit": "thìa cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu oliu 1/2 chén (chén cơm)",
+      "raw_name": "Dầu oliu",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": "chén cơm",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (hạt nêm/ muối/ tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hạt nêm/ muối/ tiêu",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:33:23Z",
+  "page_title": "2 cách làm nấm mỡ xào thịt bò và xào thịt heo thơm ngon cho bữa cơm",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookRecipe/Avatar/nam-mo-xao-thit-bo-thumbnail-1.jpg"
+}

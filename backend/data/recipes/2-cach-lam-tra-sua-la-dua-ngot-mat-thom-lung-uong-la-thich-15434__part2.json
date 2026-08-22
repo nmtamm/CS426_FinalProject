@@ -1,0 +1,65 @@
+{
+  "source_id": "15434",
+  "name": "Trà sữa lá dứa trân châu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e8c4bd3cbf5b346b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-sua-la-dua-ngot-mat-thom-lung-uong-la-thich-15434",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-sua-la-dua-ngot-mat-thom-lung-uong-la-thich-15434",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hồng trà túi lọc 1 gói",
+      "raw_name": "Hồng trà túi lọc",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa tươi không đường 600 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 600,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá dứa 1 lá",
+      "raw_name": "Lá dứa",
+      "quantity": 1,
+      "unit": "lá",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trân châu đường đen 3 muỗng cà phê",
+      "raw_name": "Trân châu đường đen",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:49:34Z",
+  "page_title": "2 cách làm trà sữa lá dứa ngọt mát, thơm lừng uống là thích",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/tra-sua-la-dua-tran-chau-thumbnail-1.jpg"
+}

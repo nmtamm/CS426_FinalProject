@@ -1,0 +1,53 @@
+{
+  "source_id": "10563",
+  "name": "Soda phúc bồn tử (quả mâm xôi) xay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/fbed988868a2bf3f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/5-cach-lam-soda-phuc-bon-tu-thanh-mat-giai-nhiet-mua-he-10563",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/5-cach-lam-soda-phuc-bon-tu-thanh-mat-giai-nhiet-mua-he-10563",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Soda 220 ml",
+      "raw_name": "Soda",
+      "quantity": 220,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Quả phúc bồn tử 130 gr",
+      "raw_name": "Quả phúc bồn tử",
+      "quantity": 130,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột hoa dâm bụt 1 muỗng canh",
+      "raw_name": "Bột hoa dâm bụt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 4.5 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 4.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:03:09Z",
+  "page_title": "5 cách làm soda phúc bồn tử thanh mát, giải nhiệt mùa hè",
+  "variant_index": 2,
+  "variant_count": 5,
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookRecipe/Avatar/soda-phuc-bon-tu-xay-qua-mam-xoi-thumbnail-1.jpg"
+}

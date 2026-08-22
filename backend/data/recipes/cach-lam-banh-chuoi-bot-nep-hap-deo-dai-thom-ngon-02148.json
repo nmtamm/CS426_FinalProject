@@ -1,0 +1,63 @@
+{
+  "source_id": "02148",
+  "name": "Bánh chuối bột nếp hấp",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/38841daf0180539b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-chuoi-bot-nep-hap-deo-dai-thom-ngon-02148",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-chuoi-bot-nep-hap-deo-dai-thom-ngon-02148",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chuối chín 2 trái",
+      "raw_name": "Chuối chín",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột nếp 170 gr",
+      "raw_name": "Bột nếp",
+      "quantity": 170,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường trắng 50 gr",
+      "raw_name": "Đường trắng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước lọc 100 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 10 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:10:45Z",
+  "page_title": "Cách làm bánh chuối bột nếp hấp dẻo dai thơm ngon",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/04/22/1251130/cach-lam-banh-chuoi-bot-nep-hap-deo-dai-thom-ngon-760x367.jpg"
+}

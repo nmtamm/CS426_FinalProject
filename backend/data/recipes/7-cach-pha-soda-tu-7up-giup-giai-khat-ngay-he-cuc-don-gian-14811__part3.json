@@ -1,0 +1,69 @@
+{
+  "source_id": "14811",
+  "name": "Up số đỏ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e453b6105dd3718a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/7-cach-pha-soda-tu-7up-giup-giai-khat-ngay-he-cuc-don-gian-14811",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/7-cach-pha-soda-tu-7up-giup-giai-khat-ngay-he-cuc-don-gian-14811",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "7up 150 ml",
+      "raw_name": "7up",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bưởi hồng 30 gr",
+      "raw_name": "Bưởi hồng",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá bạc hà 2 gr (2 lá)",
+      "raw_name": "Lá bạc hà",
+      "quantity": 2,
+      "unit": "gr",
+      "note": "2 lá",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Syrup bưởi 2 muỗng cà phê",
+      "raw_name": "Syrup bưởi",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Syrup lựu 1 muỗng cà phê",
+      "raw_name": "Syrup lựu",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:04:33Z",
+  "page_title": "7 cách pha soda từ 7up giúp giải khát ngày hè cực đơn giản",
+  "variant_index": 3,
+  "variant_count": 7,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/up-so-do-thumbnail.jpg"
+}

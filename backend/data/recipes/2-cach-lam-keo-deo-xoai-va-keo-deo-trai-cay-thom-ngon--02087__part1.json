@@ -1,0 +1,53 @@
+{
+  "source_id": "02087",
+  "name": "Kẹo dẻo xoài",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a25bc0d628d2ffd8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-keo-deo-xoai-va-keo-deo-trai-cay-thom-ngon--02087",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-keo-deo-xoai-va-keo-deo-trai-cay-thom-ngon--02087",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Xoài cát 200 gram (chín)",
+      "raw_name": "Xoài cát 200 gram",
+      "quantity": null,
+      "unit": null,
+      "note": "chín",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường cát 100 gram",
+      "raw_name": "Đường cát 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mạch nha 45 gram",
+      "raw_name": "Mạch nha 45 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước chanh 1.5 ml",
+      "raw_name": "Nước chanh",
+      "quantity": 1.5,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:13:53Z",
+  "page_title": "2 Cách làm kẹo dẻo xoài và kẹo trái cây sữa thơm ngon, dẻo mềm dễ làm",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookRecipe/Avatar/keo-deo-xoai-thumbnail-2.jpg"
+}

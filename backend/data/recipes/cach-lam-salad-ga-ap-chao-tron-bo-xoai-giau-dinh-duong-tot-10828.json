@@ -1,0 +1,139 @@
+{
+  "source_id": "10828",
+  "name": "Salad gà áp chảo trộn bơ xoài",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/65782af43d082d3a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-salad-ga-ap-chao-tron-bo-xoai-giau-dinh-duong-tot-10828",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-salad-ga-ap-chao-tron-bo-xoai-giau-dinh-duong-tot-10828",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ức gà 2 miếng",
+      "raw_name": "Ức gà 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rau xà lách 1 cây (rau diếp)",
+      "raw_name": "Rau xà lách",
+      "quantity": 1,
+      "unit": "cây",
+      "note": "rau diếp",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Xoài 1 quả",
+      "raw_name": "Xoài",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bơ 1 quả",
+      "raw_name": "Bơ",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dưa leo 1 quả",
+      "raw_name": "Dưa leo",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Cà chua bi 10 quả",
+      "raw_name": "Cà chua bi",
+      "quantity": 10,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tím 1/2 củ",
+      "raw_name": "Hành tím",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Rau ngò 20 gr",
+      "raw_name": "Rau ngò",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tỏi 3 tép",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ô liu 8 muỗng canh",
+      "raw_name": "Dầu ô liu",
+      "quantity": 8,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Giấm táo 3 muỗng canh",
+      "raw_name": "Giấm táo",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Mù tạt vàng 2 muỗng cà phê",
+      "raw_name": "Mù tạt vàng",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Mật ong 2 muỗng cà phê",
+      "raw_name": "Mật ong",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Hạnh nhân lát 5 gr (tùy chọn)",
+      "raw_name": "Hạnh nhân lát",
+      "quantity": 5,
+      "unit": "gr",
+      "note": "tùy chọn",
+      "display_order": 14
+    },
+    {
+      "raw_text": "Muối/ tiêu 1 ít",
+      "raw_name": "Muối/ tiêu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T17:58:34Z",
+  "page_title": "Cách làm salad gà áp chảo trộn bơ xoài giàu dinh dưỡng, tốt cho sức khỏe",
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookProduct/PerfectCHICKENMANGOandAVOCADOSALAD+EasyDressing5-32screenshot-1200x676-2-1200x676.jpg"
+}

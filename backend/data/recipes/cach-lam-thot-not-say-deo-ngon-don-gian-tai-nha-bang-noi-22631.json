@@ -1,0 +1,27 @@
+{
+  "source_id": "22631",
+  "name": "Thốt nốt sấy dẻo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/28ffbaa6d3bb7e4c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thot-not-say-deo-ngon-don-gian-tai-nha-bang-noi-22631",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thot-not-say-deo-ngon-don-gian-tai-nha-bang-noi-22631",
+  "servings_text": "Cho 1 cái",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thốt nốt tươi 1 kg",
+      "raw_name": "Thốt nốt tươi",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    }
+  ],
+  "scraped_at": "2026-08-19T18:58:40Z",
+  "page_title": "Cách làm thốt nốt sấy dẻo ngon đơn giản tại nhà bằng nồi chiên không dầu",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/thot-not-say-deo-1.jpg"
+}

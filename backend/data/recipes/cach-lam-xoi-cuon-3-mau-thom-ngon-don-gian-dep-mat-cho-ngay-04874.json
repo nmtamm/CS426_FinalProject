@@ -1,0 +1,71 @@
+{
+  "source_id": "04874",
+  "name": "Xôi cuộn 3 màu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/26055ac5e8a39b4a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-xoi-cuon-3-mau-thom-ngon-don-gian-dep-mat-cho-ngay-04874",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-xoi-cuon-3-mau-thom-ngon-don-gian-dep-mat-cho-ngay-04874",
+  "servings_text": "Cho 12 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gạo nếp 1 kg",
+      "raw_name": "Gạo nếp",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu xanh 200 gr",
+      "raw_name": "Đậu xanh",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gấc 1/2 quả",
+      "raw_name": "Gấc",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lá dứa 1 bó",
+      "raw_name": "Lá dứa 1 bó",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:23:17Z",
+  "page_title": "Cách làm xôi cuộn 3 màu thơm ngon đơn giản đẹp mắt cho ngày Tết",
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookProduct/1260-1200x676-40.jpg"
+}

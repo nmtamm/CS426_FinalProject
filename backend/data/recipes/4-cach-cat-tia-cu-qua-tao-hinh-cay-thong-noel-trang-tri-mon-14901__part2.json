@@ -1,0 +1,33 @@
+{
+  "source_id": "14901",
+  "name": "Tạo hình cây thông Noel từ trái dưa leo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c0182acd384e71b5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/4-cach-cat-tia-cu-qua-tao-hinh-cay-thong-noel-trang-tri-mon-14901",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/4-cach-cat-tia-cu-qua-tao-hinh-cay-thong-noel-trang-tri-mon-14901",
+  "servings_text": "Cho 1 cái",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "meo-vao-bep",
+      "name": "Mẹo vào bếp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa leo 1 trái",
+      "raw_name": "Dưa leo",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    }
+  ],
+  "scraped_at": "2026-08-19T19:40:18Z",
+  "page_title": "4 cách cắt tỉa củ quả, tạo hình cây thông Noel trang trí món ăn Giáng sinh",
+  "variant_index": 2,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/tao-hinh-cay-thong-noel-tu-trai-dua-leo-thumbnail.jpg"
+}

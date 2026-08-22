@@ -1,0 +1,123 @@
+{
+  "source_id": "15449",
+  "name": "Gỏi cá diêu hồng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9d031167a3e28e3a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-ca-dieu-hong-thom-ngon-hap-dan-la-mieng-de-lam-15449",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-ca-dieu-hong-thom-ngon-hap-dan-la-mieng-de-lam-15449",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cá diêu hồng 1 con",
+      "raw_name": "Cá diêu hồng 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gạo 320 gr",
+      "raw_name": "Gạo",
+      "quantity": 320,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nghệ 1/2 củ",
+      "raw_name": "Nghệ",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sả 4 tép",
+      "raw_name": "Sả 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt 8 quả",
+      "raw_name": "Ớt",
+      "quantity": 8,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Rau 1 ít (lá mơ/ lá cóc/ lá ổi/ lá xoài)",
+      "raw_name": "Rau",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "lá mơ/ lá cóc/ lá ổi/ lá xoài",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Men chua 30 gr",
+      "raw_name": "Men chua",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột thính 140 gr",
+      "raw_name": "Bột thính",
+      "quantity": 140,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước 140 ml",
+      "raw_name": "Nước",
+      "quantity": 140,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng cà phê",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ đường/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ đường/ bột ngọt",
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T17:51:29Z",
+  "page_title": "Cách làm gỏi cá diêu hồng thơm ngon hấp dẫn lạ miệng dễ làm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookDish/cach-lam-goi-ca-dieu-hong-thom-ngon-hap-dan-la-mieng-de-lam-avt-1200x676-1.jpg"
+}

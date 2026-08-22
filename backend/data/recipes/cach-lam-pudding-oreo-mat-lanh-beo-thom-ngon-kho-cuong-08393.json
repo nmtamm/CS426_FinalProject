@@ -1,0 +1,91 @@
+{
+  "source_id": "08393",
+  "name": "Pudding oreo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d348fe63a2faa105.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-pudding-oreo-mat-lanh-beo-thom-ngon-kho-cuong-08393",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-pudding-oreo-mat-lanh-beo-thom-ngon-kho-cuong-08393",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh oreo 12 cái",
+      "raw_name": "Bánh oreo",
+      "quantity": 12,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mặt bánh oreo 4 cái (không kem)",
+      "raw_name": "Mặt bánh oreo",
+      "quantity": 4,
+      "unit": "cái",
+      "note": "không kem",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bơ lạt 2 muỗng cà phê (đun chảy)",
+      "raw_name": "Bơ lạt",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": "đun chảy",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột bắp 2 muỗng cà phê",
+      "raw_name": "Bột bắp",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Socola trắng 50 gr",
+      "raw_name": "Socola trắng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Socola đen 50 gr",
+      "raw_name": "Socola đen",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Sữa tươi không đường 250 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 250,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Whipping cream 125 ml",
+      "raw_name": "Whipping cream",
+      "quantity": 125,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T20:20:27Z",
+  "page_title": "Cách làm pudding Oreo mát lạnh béo thơm ngon khó cưỡng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/Oreo-Pudding-Dessert-Box--Oreo-Dessert-Recipe--Yummy-Dessert-Recipe-4-13-screenshot-1200x676.jpg"
+}

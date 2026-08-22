@@ -1,0 +1,143 @@
+{
+  "source_id": "24392",
+  "name": "Bánh bò mặn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/35014b1b2ce69a14.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-bo-man-soc-trang-dai-ngon-beo-ngay-chuan-vi-cho-24392",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-bo-man-soc-trang-dai-ngon-beo-ngay-chuan-vi-cho-24392",
+  "servings_text": "Cho 6 - 8 người ăn",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột gạo tẻ 400 gr",
+      "raw_name": "Bột gạo tẻ",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột gạo lọc 200 gr",
+      "raw_name": "Bột gạo lọc",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột năng 100 gr",
+      "raw_name": "Bột năng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước cốt dừa 900 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 900,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tép bạc 500 gr",
+      "raw_name": "Tép bạc",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tôm khô 100 gr",
+      "raw_name": "Tôm khô",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Củ sắn 2 củ",
+      "raw_name": "Củ sắn",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hành lá 50 gr",
+      "raw_name": "Hành lá",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hành phi 50 gr",
+      "raw_name": "Hành phi",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu màu điều 2 muỗng canh",
+      "raw_name": "Dầu màu điều",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (hạt nêm/ muối/ đường/ tiêu/ nước mắm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hạt nêm/ muối/ đường/ tiêu/ nước mắm",
+      "display_order": 12
+    },
+    {
+      "raw_text": "Chanh 1.5 quả",
+      "raw_name": "Chanh",
+      "quantity": 1.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Tỏi và ớt băm 1 ít",
+      "raw_name": "Tỏi và ớt băm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Rau ăn kèm 1 ít (dưa leo/ húng cây/ húng quế)",
+      "raw_name": "Rau ăn kèm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "dưa leo/ húng cây/ húng quế",
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T18:52:40Z",
+  "page_title": "Cách làm bánh bò mặn Sóc Trăng dai ngon béo ngậy chuẩn vị cho gia đình bạn",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t04%201200676%20%2886%29.jpg"
+}

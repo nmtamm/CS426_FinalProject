@@ -1,0 +1,75 @@
+{
+  "source_id": "23320",
+  "name": "Gà hầm ngải cứu hạt sen",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/10641cdd62428974.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-ham-ngai-cuu-hat-sen-boi-bo-suc-khoe-bang-noi-ap-23320",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-ham-ngai-cuu-hat-sen-boi-bo-suc-khoe-bang-noi-ap-23320",
+  "servings_text": "Cho 4-6 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà công nghiệp 2 con (khoảng 1.2 - 1.5 kg/con)",
+      "raw_name": "Gà công nghiệp 2 con",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 1.2 - 1.5 kg/con",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ngải cứu tươi 1 bó (khoảng 200-300gr)",
+      "raw_name": "Ngải cứu tươi 1 bó",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 200-300gr",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hạt sen 50 gr (tươi hoặc khô)",
+      "raw_name": "Hạt sen",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "tươi hoặc khô",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Táo đỏ 30 gr",
+      "raw_name": "Táo đỏ",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Kỷ tử 10 gr",
+      "raw_name": "Kỷ tử",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nấm đông trùng hạ thảo 5 gr",
+      "raw_name": "Nấm đông trùng hạ thảo",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (hạt nêm/tiêu/nước mắm/đường phèn/muối/rượu nấu ăn)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hạt nêm/tiêu/nước mắm/đường phèn/muối/rượu nấu ăn",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:05:32Z",
+  "page_title": "Cách làm gà hầm ngải cứu hạt sen bồi bổ sức khoẻ bằng nồi áp suất điện",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/ga-ham-ngai-cuu-hat-sennn.jpg"
+}

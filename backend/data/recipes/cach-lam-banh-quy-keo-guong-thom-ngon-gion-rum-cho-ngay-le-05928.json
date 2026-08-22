@@ -1,0 +1,71 @@
+{
+  "source_id": "05928",
+  "name": "Bánh quy kẹo gương",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a2bae4ca4958a427.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-quy-keo-guong-thom-ngon-gion-rum-cho-ngay-le-05928",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-quy-keo-guong-thom-ngon-gion-rum-cho-ngay-le-05928",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bơ 50 gr (để mềm)",
+      "raw_name": "Bơ",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "để mềm",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột mì số 8 120 gr",
+      "raw_name": "Bột mì số 8",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường xay 36 gr",
+      "raw_name": "Đường xay",
+      "quantity": 36,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trứng gà 22 gr",
+      "raw_name": "Trứng gà",
+      "quantity": 22,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Kẹo cứng 1 ít",
+      "raw_name": "Kẹo cứng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 1 gr",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:43:15Z",
+  "page_title": "Cách làm bánh quy kẹo gương thơm ngon giòn rụm cho ngày lễ Tết",
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookProduct/1260-1200x643-55.jpg"
+}

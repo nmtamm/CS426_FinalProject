@@ -1,0 +1,83 @@
+{
+  "source_id": "00540",
+  "name": "Cà pháo muối",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8dfcc22a146590dd.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-muoi-ca-phao-ngon-gion-dung-dieu-cho-ngay-tet-00540",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-muoi-ca-phao-ngon-gion-dung-dieu-cho-ngay-tet-00540",
+  "servings_text": "Cho 1 hũ cà pháo ngâm",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cà pháo 300 gr (trắng hoặc tím đều được)",
+      "raw_name": "Cà pháo",
+      "quantity": 300,
+      "unit": "gr",
+      "note": "trắng hoặc tím đều được",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tỏi 2 tép",
+      "raw_name": "Tỏi 2 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt 1 trái",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng 1 nhánh",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước mắm 1/2 chén",
+      "raw_name": "Nước mắm",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 1/2 chén",
+      "raw_name": "Đường",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối hạt 1/4 chén",
+      "raw_name": "Muối hạt",
+      "quantity": 0.25,
+      "unit": "chén",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Giấm 1.5 chén",
+      "raw_name": "Giấm",
+      "quantity": 1.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:31:06Z",
+  "page_title": "Cách muối cà pháo trắng giòn, không bị nổi váng, không bị thâm, để được lâu",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/pastedimage0(13)-1200x676.jpg"
+}

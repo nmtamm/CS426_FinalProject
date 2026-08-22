@@ -1,0 +1,45 @@
+{
+  "source_id": "01985",
+  "name": "Canh rong biển củ cải chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a11f02c8d8544503.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-canh-rong-bien-cu-cai-hat-sen-chay-01985",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-canh-rong-bien-cu-cai-hat-sen-chay-01985",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rong biển khô 70 g",
+      "raw_name": "Rong biển khô",
+      "quantity": 70,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tỏi tây 1 nhánh (hành boa rô)",
+      "raw_name": "Tỏi tây",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": "hành boa rô",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Củ cải 2 củ",
+      "raw_name": "Củ cải",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T18:44:31Z",
+  "page_title": "3 cách nấu canh rong biển củ cải, hạt sen, củ sen chay thơm ngon đơn giản",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/canh-rong-bien-cu-cai-chay-thumbnail.jpg"
+}

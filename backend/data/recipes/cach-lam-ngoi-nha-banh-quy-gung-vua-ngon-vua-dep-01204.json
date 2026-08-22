@@ -1,0 +1,127 @@
+{
+  "source_id": "01204",
+  "name": "Ngôi nhà bánh quy gừng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0349ae175b92ae01.png",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ngoi-nha-banh-quy-gung-vua-ngon-vua-dep-01204",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ngoi-nha-banh-quy-gung-vua-ngon-vua-dep-01204",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì đa dụng 420 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 420,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối 3 gr",
+      "raw_name": "Muối",
+      "quantity": 3,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Baking soda 1/8 muỗng cà phê (muối nở)",
+      "raw_name": "Baking soda",
+      "quantity": 0.125,
+      "unit": "muỗng cà phê",
+      "note": "muối nở",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột gừng 5 gr",
+      "raw_name": "Bột gừng",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột quế 3 gr",
+      "raw_name": "Bột quế",
+      "quantity": 3,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường nâu 100 gr",
+      "raw_name": "Đường nâu",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Mật ong 145 gr",
+      "raw_name": "Mật ong",
+      "quantity": 145,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bơ nhạt 160 gr",
+      "raw_name": "Bơ nhạt",
+      "quantity": 160,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Vani 3 ml",
+      "raw_name": "Vani",
+      "quantity": 3,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đường bột (đường xay) 160 gr (kem trang trí)",
+      "raw_name": "Đường bột (đường xay)",
+      "quantity": 160,
+      "unit": "gr",
+      "note": "kem trang trí",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Màu thực phẩm (1 giọt) 1 ml (kem trang trí)",
+      "raw_name": "Màu thực phẩm (1 giọt)",
+      "quantity": 1,
+      "unit": "ml",
+      "note": "kem trang trí",
+      "display_order": 12
+    },
+    {
+      "raw_text": "Lòng trắng trứng 1 cái (kem trang trí)",
+      "raw_name": "Lòng trắng trứng",
+      "quantity": 1,
+      "unit": "cái",
+      "note": "kem trang trí",
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T19:45:02Z",
+  "page_title": "Cách làm ngôi nhà bánh quy gừng vừa ngon vừa đẹp đón giáng sinh",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2018/12/25/1140327/video-cach-lam-ngoi-nha-banh-quy-gung-vua-ngon-vua-dep-don-giang-sinh-760x367.png"
+}

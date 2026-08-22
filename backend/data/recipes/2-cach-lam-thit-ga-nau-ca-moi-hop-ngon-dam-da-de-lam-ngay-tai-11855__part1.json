@@ -1,0 +1,129 @@
+{
+  "source_id": "11855",
+  "name": "Gà nấu cá mòi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/17ac5bfa3abede94.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-thit-ga-nau-ca-moi-hop-ngon-dam-da-de-lam-ngay-tai-11855",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-thit-ga-nau-ca-moi-hop-ngon-dam-da-de-lam-ngay-tai-11855",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-kho",
+      "name": "Món kho"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt gà 500 gr (nửa con gà)",
+      "raw_name": "Thịt gà",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "nửa con gà",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cá mòi hộp 1 hộp",
+      "raw_name": "Cá mòi hộp",
+      "quantity": 1,
+      "unit": "hộp",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước dừa 400 ml",
+      "raw_name": "Nước dừa",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tím 70 gr",
+      "raw_name": "Hành tím",
+      "quantity": 70,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cà rốt 1 củ (khoảng 150gr)",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "khoảng 150gr",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 6 tép",
+      "raw_name": "Tỏi 6 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt 3 trái",
+      "raw_name": "Ớt",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu điều 2 muỗng cà phê",
+      "raw_name": "Dầu điều",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu mè 1 muỗng cà phê",
+      "raw_name": "Dầu mè",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước tương 2 muỗng cà phê",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Tương cà 2 muỗng cà phê",
+      "raw_name": "Tương cà",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu ăn 50 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ hạt nêm/ bột ngọt/ tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ hạt nêm/ bột ngọt/ tiêu",
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T18:12:13Z",
+  "page_title": "3 cách làm thịt gà nấu cá mòi hộp ngon đậm đà dễ làm ngay tại nhà",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/ga-nau-ca-moi-thumbnail.jpg"
+}

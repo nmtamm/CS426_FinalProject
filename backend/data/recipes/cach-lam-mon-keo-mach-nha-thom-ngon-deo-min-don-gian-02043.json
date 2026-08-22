@@ -1,0 +1,35 @@
+{
+  "source_id": "02043",
+  "name": "Kẹo mạch nha",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/26d4b38930ee8a42.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-keo-mach-nha-thom-ngon-deo-min-don-gian-02043",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-keo-mach-nha-thom-ngon-deo-min-don-gian-02043",
+  "servings_text": "Cho 10 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hạt thóc 200 gr",
+      "raw_name": "Hạt thóc",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gạo nếp 2 kg",
+      "raw_name": "Gạo nếp",
+      "quantity": 2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:28:33Z",
+  "page_title": "Cách làm món kẹo mạch nha thơm ngon, dẻo mịn, đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/04/15/1249157/cach-lam-keo-mach-nha-deo-min-don-gian-tai-nha-16-760x367.jpg"
+}

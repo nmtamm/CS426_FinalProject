@@ -1,0 +1,35 @@
+{
+  "source_id": "23048",
+  "name": "Nước nhân trần",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/65a6956b81b3cfbe.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-nuoc-nhan-tran-giai-nhiet-bang-binh-dun-sieu-toc-23048",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-nuoc-nhan-tran-giai-nhiet-bang-binh-dun-sieu-toc-23048",
+  "servings_text": "Cho 30gr nhân trần khô",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nhân trần khô 30 gr",
+      "raw_name": "Nhân trần khô",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước 1 lít",
+      "raw_name": "Nước 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:51:22Z",
+  "page_title": "Cách pha nước nhân trần giải nhiệt bằng bình đun siêu tốc hiện đại",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/nuoc-nhan-trann.jpg"
+}

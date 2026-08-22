@@ -1,0 +1,123 @@
+{
+  "source_id": "13011",
+  "name": "Gỏi cá lạc Đà Nẵng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c808cccb1a09cd88.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-ca-lac-da-nang-thom-ngon-moi-la-don-gian-an-la-13011",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-ca-lac-da-nang-thom-ngon-moi-la-don-gian-an-la-13011",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cá lạc 2 con (1kg)",
+      "raw_name": "Cá lạc 2 con",
+      "quantity": null,
+      "unit": null,
+      "note": "1kg",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chanh 4 quả",
+      "raw_name": "Chanh",
+      "quantity": 4,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt 3 trái",
+      "raw_name": "Ớt",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đậu phộng 30 gr (rang và giã nhỏ)",
+      "raw_name": "Đậu phộng",
+      "quantity": 30,
+      "unit": "gr",
+      "note": "rang và giã nhỏ",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sả xay 30 gr",
+      "raw_name": "Sả xay",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành củ 20 gr",
+      "raw_name": "Hành củ",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành lá 15 gr",
+      "raw_name": "Hành lá",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Cà chua 1 quả",
+      "raw_name": "Cà chua",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rau thơm 1 ít (ngò rí/húng quế/hủ điếc)",
+      "raw_name": "Rau thơm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "ngò rí/húng quế/hủ điếc",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bột năng 1 muỗng canh",
+      "raw_name": "Bột năng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Bột nghệ 1 muỗng cà phê",
+      "raw_name": "Bột nghệ",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Bột canh 1 muỗng cà phê",
+      "raw_name": "Bột canh",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (bột ngọt/đường/tiêu/hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "bột ngọt/đường/tiêu/hạt nêm",
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T17:53:50Z",
+  "page_title": "Cách làm gỏi cá lạc Đà Nẵng thơm ngon mới lạ đơn giản ăn là ghiền",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/goicalac-1200x676.jpg"
+}

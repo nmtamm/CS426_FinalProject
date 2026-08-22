@@ -1,0 +1,95 @@
+{
+  "source_id": "00097",
+  "name": "Gân bò xào sả ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2512fac6304c08c8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-gan-bo-xao-sa-ot-gion-ngon-don-gian-cuc-hao-com-00097",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-gan-bo-xao-sa-ot-gion-ngon-don-gian-cuc-hao-com-00097",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gân bò luộc sẵn 300 gr",
+      "raw_name": "Gân bò luộc sẵn",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành tím 13 củ",
+      "raw_name": "Hành tím",
+      "quantity": 13,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sả 6 cây",
+      "raw_name": "Sả",
+      "quantity": 6,
+      "unit": "cây",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt hiểm 2 quả",
+      "raw_name": "Ớt hiểm",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành lá 3 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đậu phộng rang 2 muỗng cà phê",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt sừng 1 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:27:32Z",
+  "page_title": "Cách làm gân bò xào sả ớt giòn ngon, đơn giản, cực hao cơm",
+  "original_image_url": "https://cdn.tgdd.vn/2020/06/CookProduct/29-1200x676.jpg"
+}

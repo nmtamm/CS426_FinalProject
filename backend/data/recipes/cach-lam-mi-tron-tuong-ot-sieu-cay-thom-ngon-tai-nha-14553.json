@@ -1,0 +1,67 @@
+{
+  "source_id": "14553",
+  "name": "Mì trộn tương ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/122f4f95ef33e447.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mi-tron-tuong-ot-sieu-cay-thom-ngon-tai-nha-14553",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mi-tron-tuong-ot-sieu-cay-thom-ngon-tai-nha-14553",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mì gói 1 gói",
+      "raw_name": "Mì gói",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt mỡ 200 gr",
+      "raw_name": "Thịt mỡ",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng gà 1 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chanh 1/4 trái",
+      "raw_name": "Chanh",
+      "quantity": 0.25,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tương ớt 2 muỗng cà phê",
+      "raw_name": "Tương ớt",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 1/2 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:33:30Z",
+  "page_title": "Cách làm mì trộn tương ớt siêu cay, thơm ngon tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-mi-tron-tuong-ot-sieu-cay-thom-ngon-tai-nha-avt-1200x676.jpg"
+}

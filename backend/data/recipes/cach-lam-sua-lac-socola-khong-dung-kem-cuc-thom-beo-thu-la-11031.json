@@ -1,0 +1,67 @@
+{
+  "source_id": "11031",
+  "name": "Sữa lắc socola",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/87158e55ddf91de1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-lac-socola-khong-dung-kem-cuc-thom-beo-thu-la-11031",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-lac-socola-khong-dung-kem-cuc-thom-beo-thu-la-11031",
+  "servings_text": "Cho 2 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Kem socola 100 gr",
+      "raw_name": "Kem socola",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột ca cao 5 gr",
+      "raw_name": "Bột ca cao",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Siro socola 10 ml",
+      "raw_name": "Siro socola",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa tươi không đường 80 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 80,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sữa đặc 50 ml",
+      "raw_name": "Sữa đặc",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước đá đông lạnh 150 gr",
+      "raw_name": "Nước đá đông lạnh",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:00:42Z",
+  "page_title": "Cách làm sữa lắc socola đơn giản cực thơm béo, thử là ghiền",
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookProduct/thums-1200x676.jpg"
+}

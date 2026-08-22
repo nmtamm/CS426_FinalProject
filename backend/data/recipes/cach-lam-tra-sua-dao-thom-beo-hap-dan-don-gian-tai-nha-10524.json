@@ -1,0 +1,87 @@
+{
+  "source_id": "10524",
+  "name": "Trà sữa đào",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6e2706fe0ac87c10.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-sua-dao-thom-beo-hap-dan-don-gian-tai-nha-10524",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-sua-dao-thom-beo-hap-dan-don-gian-tai-nha-10524",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đào ngâm 3 miếng",
+      "raw_name": "Đào ngâm 3 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước đào ngâm 1 muỗng canh",
+      "raw_name": "Nước đào ngâm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột rau câu giòn 140 gr",
+      "raw_name": "Bột rau câu giòn",
+      "quantity": 140,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trà đen 5 gr",
+      "raw_name": "Trà đen",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Siro đào 1 muỗng canh",
+      "raw_name": "Siro đào",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột sữa béo 1 muỗng canh",
+      "raw_name": "Bột sữa béo",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 1 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:49:25Z",
+  "page_title": "Cách làm trà sữa đào thơm béo, hấp dẫn, đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookProduct/daothum-1200x676.jpg"
+}

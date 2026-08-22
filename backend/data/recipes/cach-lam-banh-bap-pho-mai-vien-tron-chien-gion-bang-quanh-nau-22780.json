@@ -1,0 +1,111 @@
+{
+  "source_id": "22780",
+  "name": "Bánh bắp phô mai",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e664e380981d3588.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-bap-pho-mai-vien-tron-chien-gion-bang-quanh-nau-22780",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-bap-pho-mai-vien-tron-chien-gion-bang-quanh-nau-22780",
+  "servings_text": "Cho 6 cái",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì 250 gr",
+      "raw_name": "Bột mì",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 10 gr",
+      "raw_name": "Đường",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối 2 gr",
+      "raw_name": "Muối",
+      "quantity": 2,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Men 5 gr",
+      "raw_name": "Men",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước 100 ml",
+      "raw_name": "Nước",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Trứng gà 3 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Phô mai bào sợi 150 gr",
+      "raw_name": "Phô mai bào sợi",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Kinh giới tây khô 3 gr",
+      "raw_name": "Kinh giới tây khô",
+      "quantity": 3,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bắp 50 gr",
+      "raw_name": "Bắp",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bột chiên xù 250 gr",
+      "raw_name": "Bột chiên xù",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Hành lá 30 gr",
+      "raw_name": "Hành lá",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:58:05Z",
+  "page_title": "Cách làm bánh bắp phô mai viên tròn chiên giòn bằng quánh nấu bột",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/9kksdskskk.jpg"
+}

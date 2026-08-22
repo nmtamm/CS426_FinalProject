@@ -1,0 +1,61 @@
+{
+  "source_id": "09077",
+  "name": "Cơm cháy rong biển chà bông",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/cf00f998364dc460.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-com-chay-rong-bien-chay-va-rong-bien-cha-bong-gion-09077",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-com-chay-rong-bien-chay-va-rong-bien-cha-bong-gion-09077",
+  "servings_text": "Cho 3 người ăn",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cơm nguội 1.5 kg (1 tô canh)",
+      "raw_name": "Cơm nguội",
+      "quantity": 1.5,
+      "unit": "kg",
+      "note": "1 tô canh",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rong biển khô 60 gr",
+      "raw_name": "Rong biển khô",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chà bông 300 gr",
+      "raw_name": "Chà bông",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành boa rô cắt nhỏ 1 nhánh",
+      "raw_name": "Hành boa rô cắt nhỏ",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (hạt nêm/ tiêu/ muối/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hạt nêm/ tiêu/ muối/ bột ngọt",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:21:10Z",
+  "page_title": "2 cách làm cơm cháy rong biển mè rang và rong biển chà bông giòn rụm dễ làm",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookRecipe/Avatar/com-chay-rong-bien-cha-bong-thumbnail.jpg"
+}

@@ -1,0 +1,103 @@
+{
+  "source_id": "03198",
+  "name": "Bắp bò sốt pate chấm muối ớt tắc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d29efb96f324f266.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bap-bo-sot-pate-cham-muoi-ot-tac-don-gian-moi-la-dam-03198",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bap-bo-sot-pate-cham-muoi-ot-tac-don-gian-moi-la-dam-03198",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bắp bò 600 gr",
+      "raw_name": "Bắp bò",
+      "quantity": 600,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành tím 4 củ",
+      "raw_name": "Hành tím",
+      "quantity": 4,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Pate gan heo 2 miếng",
+      "raw_name": "Pate gan heo 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột năng 1 muỗng",
+      "raw_name": "Bột năng",
+      "quantity": 1,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Cọng đầu hành 10 lá",
+      "raw_name": "Cọng đầu hành",
+      "quantity": 10,
+      "unit": "lá",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tắc 2 quả",
+      "raw_name": "Tắc",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Cải bẹ xanh 1 cây",
+      "raw_name": "Cải bẹ xanh",
+      "quantity": 1,
+      "unit": "cây",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ngò rí 20 gr",
+      "raw_name": "Ngò rí",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị 30 gr (dầu ăn/tiêu/đường/ớt bột/nước tương/bột canh)",
+      "raw_name": "Gia vị",
+      "quantity": 30,
+      "unit": "gr",
+      "note": "dầu ăn/tiêu/đường/ớt bột/nước tương/bột canh",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:28:34Z",
+  "page_title": "Cách làm bắp bò sốt pate chấm muối ớt tắc đơn giản, mới lạ đậm đà",
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookProduct/big-1200x675.jpg"
+}

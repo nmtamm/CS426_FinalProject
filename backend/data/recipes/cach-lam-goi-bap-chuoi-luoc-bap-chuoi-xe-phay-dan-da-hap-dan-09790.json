@@ -1,0 +1,75 @@
+{
+  "source_id": "09790",
+  "name": "Gỏi bắp chuối luộc - bắp chuối xé phay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/aee770d2c88dab3b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-bap-chuoi-luoc-bap-chuoi-xe-phay-dan-da-hap-dan-09790",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-bap-chuoi-luoc-bap-chuoi-xe-phay-dan-da-hap-dan-09790",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bắp chuối 500 gr (1 bắp)",
+      "raw_name": "Bắp chuối",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "1 bắp",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu phộng 100 gr",
+      "raw_name": "Đậu phộng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rau răm 50 gr",
+      "raw_name": "Rau răm",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chanh 4 trái",
+      "raw_name": "Chanh",
+      "quantity": 4,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt hiểm 3 trái",
+      "raw_name": "Ớt hiểm",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 3 tép",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối/ Đường 1 ít",
+      "raw_name": "Muối/ Đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:02:11Z",
+  "page_title": "Cách làm gỏi bắp chuối luộc - bắp chuối xé phay dân dã, hấp dẫn, đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookProduct/goibapchuoi1200-1200x676.jpg"
+}

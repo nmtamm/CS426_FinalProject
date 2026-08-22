@@ -1,0 +1,75 @@
+{
+  "source_id": "03898",
+  "name": "Bánh tart chuối socola",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6ae9a4c922316dd7.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-tart-chuoi-socola-thom-ngon-don-gian-khong-can-03898",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-tart-chuoi-socola-thom-ngon-don-gian-khong-can-03898",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh quy oreo 130 g",
+      "raw_name": "Bánh quy oreo",
+      "quantity": 130,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chuối 2 quả",
+      "raw_name": "Chuối",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 15 g",
+      "raw_name": "Đường",
+      "quantity": 15,
+      "unit": "g",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Socola hạt phỉ 100 gr",
+      "raw_name": "Socola hạt phỉ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Socola sữa 100 gr",
+      "raw_name": "Socola sữa",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Whipping cream 240 gr (kem sữa tươi)",
+      "raw_name": "Whipping cream",
+      "quantity": 240,
+      "unit": "gr",
+      "note": "kem sữa tươi",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bơ lạt 50 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:23:48Z",
+  "page_title": "Cách làm bánh tart chuối socola thơm ngon, đơn giản, không cần lò nướng",
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookProduct/1200-1200x676-14.jpg"
+}

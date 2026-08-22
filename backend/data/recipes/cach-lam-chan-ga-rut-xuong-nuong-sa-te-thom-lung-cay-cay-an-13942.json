@@ -1,0 +1,63 @@
+{
+  "source_id": "13942",
+  "name": "Chân gà rút xương nướng sa tế",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/641a7a33c6a1bd17.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chan-ga-rut-xuong-nuong-sa-te-thom-lung-cay-cay-an-13942",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chan-ga-rut-xuong-nuong-sa-te-thom-lung-cay-cay-an-13942",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chân gà rút xương 500 gr",
+      "raw_name": "Chân gà rút xương",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sa tế tôm 4 muỗng cà phê",
+      "raw_name": "Sa tế tôm",
+      "quantity": 4,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt sa tế khô 2 muỗng cà phê",
+      "raw_name": "Ớt sa tế khô",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sốt ướp thịt nướng 2 muỗng canh",
+      "raw_name": "Sốt ướp thịt nướng",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T18:10:23Z",
+  "page_title": "Cách làm chân gà rút xương nướng sa tế thơm lừng cay cay ăn là ghiền",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-chan-ga-rut-xuong-nuong-sa-te-thom-lung-cay-cay-an-avt-1200x676.jpg"
+}

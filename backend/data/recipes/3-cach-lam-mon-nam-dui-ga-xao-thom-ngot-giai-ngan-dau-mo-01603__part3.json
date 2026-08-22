@@ -1,0 +1,81 @@
+{
+  "source_id": "01603",
+  "name": "Nấm đùi gà xào giá hẹ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a26239d51dcbcc91.png",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-mon-nam-dui-ga-xao-thom-ngot-giai-ngan-dau-mo-01603",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-mon-nam-dui-ga-xao-thom-ngot-giai-ngan-dau-mo-01603",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nấm đùi gà 50 g",
+      "raw_name": "Nấm đùi gà",
+      "quantity": 50,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Giá đỗ 50 g",
+      "raw_name": "Giá đỗ",
+      "quantity": 50,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hẹ 50 g",
+      "raw_name": "Hẹ",
+      "quantity": 50,
+      "unit": "g",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 3 g",
+      "raw_name": "Tỏi",
+      "quantity": 3,
+      "unit": "g",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước tương 5 ml",
+      "raw_name": "Nước tương",
+      "quantity": 5,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 10 g",
+      "raw_name": "Dầu ăn",
+      "quantity": 10,
+      "unit": "g",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hạt nêm chay/ đường 1 ít",
+      "raw_name": "Hạt nêm chay/ đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:40:11Z",
+  "page_title": "3 cách làm nấm đùi gà xào thơm ngon, giòn ngọt, cực kỳ đơn giản",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/nam-dui-ga-xao-gia-he-thumbnail.png"
+}

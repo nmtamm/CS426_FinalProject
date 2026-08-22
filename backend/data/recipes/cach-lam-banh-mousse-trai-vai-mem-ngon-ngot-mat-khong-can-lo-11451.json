@@ -1,0 +1,87 @@
+{
+  "source_id": "11451",
+  "name": "Bánh mousse trái vải",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0e3801f4822ea87a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-mousse-trai-vai-mem-ngon-ngot-mat-khong-can-lo-11451",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-mousse-trai-vai-mem-ngon-ngot-mat-khong-can-lo-11451",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trái vải 400 gr",
+      "raw_name": "Trái vải",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bánh quy 150 gr (loại bình thường không có nhân)",
+      "raw_name": "Bánh quy",
+      "quantity": 150,
+      "unit": "gr",
+      "note": "loại bình thường không có nhân",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Whipping cream 450 ml",
+      "raw_name": "Whipping cream",
+      "quantity": 450,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bơ lạt 75 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 75,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gelatin 25 gr (loại bột)",
+      "raw_name": "Gelatin",
+      "quantity": 25,
+      "unit": "gr",
+      "note": "loại bột",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rượu vang trắng 75 ml",
+      "raw_name": "Rượu vang trắng",
+      "quantity": 75,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 110 gr",
+      "raw_name": "Đường",
+      "quantity": 110,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Cánh hồng khô 20 gr (có thể có hoặc không)",
+      "raw_name": "Cánh hồng khô",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "có thể có hoặc không",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:22:15Z",
+  "page_title": "Cách làm bánh mousse trái vải mềm ngon, ngọt mát không cần lò",
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookProduct/t1200-1200x676.jpg"
+}

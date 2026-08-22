@@ -1,0 +1,137 @@
+{
+  "source_id": "00610",
+  "name": "Bánh cuốn làm bằng bột pha sẵn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5e34b037902dbc28.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-cuon-bang-chao-chong-dinh-00610",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-cuon-bang-chao-chong-dinh-00610",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột bánh cuốn pha sẵn 1/2 gói (200gr)",
+      "raw_name": "Bột bánh cuốn pha sẵn",
+      "quantity": 0.5,
+      "unit": "gói",
+      "note": "200gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt heo xay 200 gr",
+      "raw_name": "Thịt heo xay",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nấm mèo khô 50 gr",
+      "raw_name": "Nấm mèo khô",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tím 10 củ",
+      "raw_name": "Hành tím",
+      "quantity": 10,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Giá 1 ít",
+      "raw_name": "Giá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dưa leo 2 quả",
+      "raw_name": "Dưa leo",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Rau thơm 1 ít (húng quế/tía tô)",
+      "raw_name": "Rau thơm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "húng quế/tía tô",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nem chua/chả lụa 1 ít",
+      "raw_name": "Nem chua/chả lụa",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ớt 2 quả",
+      "raw_name": "Ớt",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 110 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 110,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Giấm ăn 1 muỗng canh",
+      "raw_name": "Giấm ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Cốt chanh 1/2 muỗng canh",
+      "raw_name": "Cốt chanh",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Đường/muối/hạt nêm/bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Đường/muối/hạt nêm/bột ngọt",
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T20:37:41Z",
+  "page_title": "3 Cách làm bánh cuốn bằng chảo chống dính cực đơn giản, ngon như ngoài hàng",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookRecipe/Avatar/banh-cuon-bang-cach-pha-bot-thumbnail.jpg"
+}

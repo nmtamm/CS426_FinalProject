@@ -1,0 +1,67 @@
+{
+  "source_id": "01011",
+  "name": "Gà rán chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ec702cbde1c14f78.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-ran-chay-gion-tan-thom-ngon-sieu-don-gian-tai-nha-01011",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-ran-chay-gion-tan-thom-ngon-sieu-don-gian-tai-nha-01011",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nấm bào ngư 500 gr",
+      "raw_name": "Nấm bào ngư",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột chiên giòn/ Bột mì/ Bột nếp/ Bột bắp 70 gr",
+      "raw_name": "Bột chiên giòn/ Bột mì/ Bột nếp/ Bột bắp",
+      "quantity": 70,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Baking soda 1/2 muỗng cà phê",
+      "raw_name": "Baking soda",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 5 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/tiêu đen/hạt nêm chay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/tiêu đen/hạt nêm chay",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:40:21Z",
+  "page_title": "Cách làm gà rán chay giòn tan thơm ngon siêu đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2018/07/12/1101002/cach-lam-ga-ran-chay-gion-tan-thom-ngon-sieu-don-gian-tai-nha-4-760x367.jpg"
+}

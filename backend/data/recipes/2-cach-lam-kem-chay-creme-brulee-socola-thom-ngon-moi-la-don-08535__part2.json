@@ -1,0 +1,61 @@
+{
+  "source_id": "08535",
+  "name": "Kem cháy - creme brulee socola trắng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c4a3385360099850.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-kem-chay-creme-brulee-socola-thom-ngon-moi-la-don-08535",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-kem-chay-creme-brulee-socola-thom-ngon-moi-la-don-08535",
+  "servings_text": "Cho 6 cái bánh",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lòng đỏ trứng gà 2 cái",
+      "raw_name": "Lòng đỏ trứng gà",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Socola trắng 55 gr",
+      "raw_name": "Socola trắng",
+      "quantity": 55,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Whipping cream 300 ml",
+      "raw_name": "Whipping cream",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 70 gr",
+      "raw_name": "Đường",
+      "quantity": 70,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tinh chất vani 1/4 muỗng cà phê",
+      "raw_name": "Tinh chất vani",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:22:36Z",
+  "page_title": "2 cách làm kem cháy - creme brulee socola thơm ngon mới lạ đơn giản",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/kem-chay-creme-brulee-socola-trang-thumbnail.jpg"
+}

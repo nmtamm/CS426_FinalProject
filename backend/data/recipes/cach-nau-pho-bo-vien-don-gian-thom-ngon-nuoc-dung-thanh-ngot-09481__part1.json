@@ -1,0 +1,161 @@
+{
+  "source_id": "09481",
+  "name": "Phở bò viên",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a41e1642930ce06e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-pho-bo-vien-don-gian-thom-ngon-nuoc-dung-thanh-ngot-09481",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-pho-bo-vien-don-gian-thom-ngon-nuoc-dung-thanh-ngot-09481",
+  "servings_text": "Cho 10 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-nuoc",
+      "name": "Món nước"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Xương bò 2.5 kg",
+      "raw_name": "Xương bò",
+      "quantity": 2.5,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt bò 0.5 kg",
+      "raw_name": "Thịt bò",
+      "quantity": 0.5,
+      "unit": "kg",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gân bò 0.5 kg",
+      "raw_name": "Gân bò",
+      "quantity": 0.5,
+      "unit": "kg",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nạm bò 0.5 kg",
+      "raw_name": "Nạm bò",
+      "quantity": 0.5,
+      "unit": "kg",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gầu bò 1 kg",
+      "raw_name": "Gầu bò",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bò viên 0.5 kg",
+      "raw_name": "Bò viên",
+      "quantity": 0.5,
+      "unit": "kg",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hoa hồi 2 cái",
+      "raw_name": "Hoa hồi",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Thảo quả 1 quả",
+      "raw_name": "Thảo quả",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Quế 1 cây",
+      "raw_name": "Quế",
+      "quantity": 1,
+      "unit": "cây",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Hành tây 2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Hành tím 4 củ",
+      "raw_name": "Hành tím",
+      "quantity": 4,
+      "unit": "củ",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Bánh phở khô 1 gói",
+      "raw_name": "Bánh phở khô",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Rau ăn kèm 1 ít (hành ngò/ rau mùi/ rau quế/ giá đỗ/ chanh/ ớt)",
+      "raw_name": "Rau ăn kèm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hành ngò/ rau mùi/ rau quế/ giá đỗ/ chanh/ ớt",
+      "display_order": 14
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Hạt nêm gà 2 muỗng canh",
+      "raw_name": "Hạt nêm gà",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 17
+    }
+  ],
+  "scraped_at": "2026-08-19T18:32:08Z",
+  "page_title": "Cách nấu phở bò viên nhanh chóng, đơn giản thơm ngon thanh ngọt tại nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookRecipe/Avatar/phobovien.jpg"
+}

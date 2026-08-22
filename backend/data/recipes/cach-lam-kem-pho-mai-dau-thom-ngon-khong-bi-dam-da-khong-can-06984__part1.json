@@ -1,0 +1,89 @@
+{
+  "source_id": "06984",
+  "name": "Kem phô mai dâu sữa chua",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9a840ce652cf28e7.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kem-pho-mai-dau-thom-ngon-khong-bi-dam-da-khong-can-06984",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kem-pho-mai-dau-thom-ngon-khong-bi-dam-da-khong-can-06984",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-kem",
+      "name": "Món kem"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dâu tươi 100 gr",
+      "raw_name": "Dâu tươi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa chua không đường 100 gr",
+      "raw_name": "Sữa chua không đường",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 70 gr",
+      "raw_name": "Đường",
+      "quantity": 70,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cream cheese 200 gr",
+      "raw_name": "Cream cheese",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Whipping cream 200 ml",
+      "raw_name": "Whipping cream",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Vỏ chanh vàng bào 1 ít",
+      "raw_name": "Vỏ chanh vàng bào",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước cốt chanh 2 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:17:07Z",
+  "page_title": "2 cách làm kem phô mai sữa chua và sữa đặc ngọt ngào, mát lạnh",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookRecipe/Avatar/kem-pho-mai-dau-thumbnail.jpg"
+}

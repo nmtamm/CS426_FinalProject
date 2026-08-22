@@ -1,0 +1,99 @@
+{
+  "source_id": "18058",
+  "name": "Cá cơm chay kho tiêu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bef2e0371f2cb137.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-com-chay-kho-tieu-thom-ngon-dam-vi-dua-com-18058",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-com-chay-kho-tieu-thom-ngon-dam-vi-dua-com-18058",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bắp chuối 1 cái",
+      "raw_name": "Bắp chuối",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột chiên giòn 1 chén",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước tương sốt tiêu đen 2 muỗng canh",
+      "raw_name": "Nước tương sốt tiêu đen",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 1 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu hào chay 1 muỗng cà phê",
+      "raw_name": "Dầu hào chay",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng cà phê",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tiêu đen 1/2 muỗng cà phê",
+      "raw_name": "Tiêu đen",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Mè rang 1 ít",
+      "raw_name": "Mè rang",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 100 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:35:53Z",
+  "page_title": "Cách làm cá cơm chay kho tiêu thơm ngon, đậm vị, đưa cơm",
+  "original_image_url": "https://cdn.tgdd.vn/2022/09/CookDish/cach-lam-ca-com-chay-kho-tieu-thom-ngon-dam-vi-dua-com-avt-1200x676.jpg"
+}

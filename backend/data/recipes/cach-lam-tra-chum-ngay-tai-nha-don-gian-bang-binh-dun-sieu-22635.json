@@ -1,0 +1,51 @@
+{
+  "source_id": "22635",
+  "name": "Cách làm trà chùm ngây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e3073510c1d6bb98.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-chum-ngay-tai-nha-don-gian-bang-binh-dun-sieu-22635",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-chum-ngay-tai-nha-don-gian-bang-binh-dun-sieu-22635",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lá chùm ngây tươi hoặc khô 1 ít",
+      "raw_name": "Lá chùm ngây tươi hoặc khô",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước sôi 250 ml (cho 1 ly trà)",
+      "raw_name": "Nước sôi",
+      "quantity": 250,
+      "unit": "ml",
+      "note": "cho 1 ly trà",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mật ong hoặc đường 1 ít (tuỳ khẩu vị và có thể bỏ qua nếu thích trà nguyên chất)",
+      "raw_name": "Mật ong hoặc đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "tuỳ khẩu vị và có thể bỏ qua nếu thích trà nguyên chất",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chanh 1 ít (tuỳ chọn và để thêm vị chua nhẹ cho trà)",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "tuỳ chọn và để thêm vị chua nhẹ cho trà",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:52:13Z",
+  "page_title": "Cách làm trà chùm ngây tại nhà đơn giản bằng bình đun siêu tốc",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/tra-chum-ngay-h.jpg"
+}

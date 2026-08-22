@@ -1,0 +1,122 @@
+{
+  "source_id": "04593",
+  "name": "Bánh brownie bí đỏ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/11641e025316915e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-brownie-con-ma-va-brownie-bi-do-de-thuong-04593",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-brownie-con-ma-va-brownie-bi-do-de-thuong-04593",
+  "servings_text": "Cho 8 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Socola đen 250 gr",
+      "raw_name": "Socola đen",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột mì đa dụng 150 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bơ lạt 250 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trứng gà 6 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 6,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường trắng 200 gr",
+      "raw_name": "Đường trắng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 5 gr",
+      "raw_name": "Muối",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Socola chips trắng 170 gr",
+      "raw_name": "Socola chips trắng",
+      "quantity": 170,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Màu thực phẩm xanh lá 1 ml",
+      "raw_name": "Màu thực phẩm xanh lá",
+      "quantity": 1,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Socola trang trí 450 gr (1 hộp)",
+      "raw_name": "Socola trang trí",
+      "quantity": 450,
+      "unit": "gr",
+      "note": "1 hộp",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Bánh oreo vụn 100 gr",
+      "raw_name": "Bánh oreo vụn",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Kẹo hình bí đỏ 24 cái (viên)",
+      "raw_name": "Kẹo hình bí đỏ",
+      "quantity": 24,
+      "unit": "cái",
+      "note": "viên",
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T19:24:21Z",
+  "page_title": "2 cách làm bánh brownie con ma và brownie bí đỏ cho ngày Halloween",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": null,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/banh-brownie-bi-do-thumbnail.jpg"
+}

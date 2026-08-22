@@ -1,0 +1,79 @@
+{
+  "source_id": "10131",
+  "name": "Chè bột lọc nhân đậu xanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/55c07f9a9f94a634.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-che-bot-loc-nhan-dau-xanh-beo-thom-don-gian-cho-ngay-10131",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-che-bot-loc-nhan-dau-xanh-beo-thom-don-gian-cho-ngay-10131",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-che",
+      "name": "Món chè"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột năng 220 gr",
+      "raw_name": "Bột năng",
+      "quantity": 220,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu xanh cà vỏ 100 gr",
+      "raw_name": "Đậu xanh cà vỏ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 320 gr",
+      "raw_name": "Đường",
+      "quantity": 320,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lá dứa 1 ít (khoảng 1 nắm tay)",
+      "raw_name": "Lá dứa",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "khoảng 1 nắm tay",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gừng bào sợi 50 gr",
+      "raw_name": "Gừng bào sợi",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dừa nạo 200 gr",
+      "raw_name": "Dừa nạo",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:18:16Z",
+  "page_title": "Cách làm chè bột lọc nhân đậu xanh béo thơm đơn giản cho ngày hè",
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookProduct/thun1200-1200x676.jpg"
+}

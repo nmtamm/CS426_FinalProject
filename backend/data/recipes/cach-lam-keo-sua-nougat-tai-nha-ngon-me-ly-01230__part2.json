@@ -1,0 +1,93 @@
+{
+  "source_id": "01230",
+  "name": "Làm kẹo Nougat từ lòng trắng trứng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/27124d95f553febf.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-keo-sua-nougat-tai-nha-ngon-me-ly-01230",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-keo-sua-nougat-tai-nha-ngon-me-ly-01230",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mạch nha 230 gr",
+      "raw_name": "Mạch nha",
+      "quantity": 230,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường cát trắng 100gr 100 gr",
+      "raw_name": "Đường cát trắng 100gr",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước 40 gr",
+      "raw_name": "Nước",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 2 gr (trung hòa vị ngọt của đường)",
+      "raw_name": "Muối",
+      "quantity": 2,
+      "unit": "gr",
+      "note": "trung hòa vị ngọt của đường",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lòng trắng trứng gà 1 cái",
+      "raw_name": "Lòng trắng trứng gà",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường cát trắng 10 gr (đánh chung với lòng trắng trứng gà)",
+      "raw_name": "Đường cát trắng",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "đánh chung với lòng trắng trứng gà",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hạt khô (cho vào lò giữ ấm 70 độ C) 300 gr (nếu sử dụng hạt nguội khi trộn sẽ làm mạch nha giảm nhiệt không thể kết dính hạt với kẹo)",
+      "raw_name": "Hạt khô (cho vào lò giữ ấm 70 độ C)",
+      "quantity": 300,
+      "unit": "gr",
+      "note": "nếu sử dụng hạt nguội khi trộn sẽ làm mạch nha giảm nhiệt không thể kết dính hạt với kẹo",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Sữa bột 25 gr (loại dùng làm bánh)",
+      "raw_name": "Sữa bột",
+      "quantity": 25,
+      "unit": "gr",
+      "note": "loại dùng làm bánh",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bơ lạt 50 gr (ngâm cách thủy với nước nóng giữ ấm)",
+      "raw_name": "Bơ lạt",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "ngâm cách thủy với nước nóng giữ ấm",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:12:20Z",
+  "page_title": "2 cách làm kẹo Nougat tại nhà ngon mê ly sẵn sàng đón Tết",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/lam-keo-nougat-tu-long-trang-trung-thumbnail.jpg"
+}

@@ -1,0 +1,83 @@
+{
+  "source_id": "14360",
+  "name": "Nước mắm chay từ nấm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f1759beab98f172a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-mam-chay-tu-nam-don-gian-de-lam-ai-cung-lam-14360",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-mam-chay-tu-nam-don-gian-de-lam-ai-cung-lam-14360",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nấm đông cô khô 100 gr",
+      "raw_name": "Nấm đông cô khô",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu nành 100 gr",
+      "raw_name": "Đậu nành",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rong biển 50 gr",
+      "raw_name": "Rong biển",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước lọc 1 lít",
+      "raw_name": "Nước lọc 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường thốt nốt 1 muỗng canh",
+      "raw_name": "Đường thốt nốt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường phèn 100 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối 100 gr",
+      "raw_name": "Muối",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hạt nêm chay 1/3 muỗng canh",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 0.333,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:42:54Z",
+  "page_title": "Cách làm nước mắm chay từ nấm đơn giản dễ làm ai cũng làm được",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-nuoc-mam-chay-tu-nam-don-gian-de-lam-ai-cung-lam-avt-1200x676-1.jpg"
+}

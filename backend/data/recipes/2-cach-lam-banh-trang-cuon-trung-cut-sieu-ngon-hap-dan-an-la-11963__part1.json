@@ -1,0 +1,137 @@
+{
+  "source_id": "11963",
+  "name": "Bánh tráng đỏ cuốn trứng cút",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3bd1a533325d941b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-trang-cuon-trung-cut-sieu-ngon-hap-dan-an-la-11963",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-trang-cuon-trung-cut-sieu-ngon-hap-dan-an-la-11963",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh tráng đỏ 6 cái",
+      "raw_name": "Bánh tráng đỏ",
+      "quantity": 6,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng cút 18 quả",
+      "raw_name": "Trứng cút",
+      "quantity": 18,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Me 60 gr",
+      "raw_name": "Me",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tím 8 củ",
+      "raw_name": "Hành tím",
+      "quantity": 8,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rau răm 20 gr",
+      "raw_name": "Rau răm",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tắc 2 quả",
+      "raw_name": "Tắc",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đậu phộng 50 gr",
+      "raw_name": "Đậu phộng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Xoài xanh 1 trái",
+      "raw_name": "Xoài xanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Mực tẩm xé 100 gr (hoặc khô gà/ khô bò)",
+      "raw_name": "Mực tẩm xé",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "hoặc khô gà/ khô bò",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu ăn 200 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Sốt mayonnaise 1 muỗng canh",
+      "raw_name": "Sốt mayonnaise",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Đường nâu 2 muỗng canh",
+      "raw_name": "Đường nâu",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T19:14:20Z",
+  "page_title": "2 cách làm bánh tráng cuốn trứng cút siêu ngon hấp dẫn ăn là ghiền",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/banh-trang-do-cuon-trung-cut-thumbnail-1.jpg"
+}

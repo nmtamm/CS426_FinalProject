@@ -1,0 +1,59 @@
+{
+  "source_id": "17943",
+  "name": "Sữa hạt điều hạt sen khoai lang tím",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9848f4402ae23e6c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-hat-dieu-hat-sen-mix-khoai-lang-tim-thom-ngon-17943",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-hat-dieu-hat-sen-mix-khoai-lang-tim-thom-ngon-17943",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hạt sen tươi 50 gr",
+      "raw_name": "Hạt sen tươi",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Điều rang 20 hạt",
+      "raw_name": "Điều rang 20 hạt",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột khoai lang tím 1 muỗng canh",
+      "raw_name": "Bột khoai lang tím",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường phèn 30 gr (tùy khẩu vị tăng giảm thêm)",
+      "raw_name": "Đường phèn",
+      "quantity": 30,
+      "unit": "gr",
+      "note": "tùy khẩu vị tăng giảm thêm",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước lọc 1.1 lít",
+      "raw_name": "Nước lọc 1.1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:03:43Z",
+  "page_title": "Cách làm sữa hạt điều hạt sen mix khoai lang tím thơm ngon dinh dưỡng",
+  "original_image_url": "https://cdn.tgdd.vn/2022/08/CookDish/cach-lam-sua-hat-dieu-hat-sen-mix-khoai-lang-tim-thom-ngon-avt-1200x676.jpg"
+}

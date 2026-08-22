@@ -1,0 +1,51 @@
+{
+  "source_id": "18395",
+  "name": "Sữa đậu ngự mix hạt điều",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/76a585f091c71d8f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-sua-dau-ngu-mix-hat-dieu-bang-may-nau-sua-hat-thom-18395",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-sua-dau-ngu-mix-hat-dieu-bang-may-nau-sua-hat-thom-18395",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu ngự 40 gr",
+      "raw_name": "Đậu ngự",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hạt điều 40 gr",
+      "raw_name": "Hạt điều",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước lọc 950 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 950,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường thốt nốt 30 gr (hoặc đường phèn)",
+      "raw_name": "Đường thốt nốt",
+      "quantity": 30,
+      "unit": "gr",
+      "note": "hoặc đường phèn",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:56:19Z",
+  "page_title": "Cách nấu sữa đậu ngự mix hạt điều bằng máy nấu sữa hạt thơm ngon đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/2022/10/CookDish/cach-nau-sua-dau-ngu-mix-hat-dieu-bang-may-nau-sua-hat-thom-avt-1200x676.jpg"
+}

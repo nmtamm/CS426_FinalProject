@@ -1,0 +1,123 @@
+{
+  "source_id": "16679",
+  "name": "Súp hải sản tuyết yến",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/359b1ac71b8c69d6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sup-hai-san-tuyet-yen-bo-duong-don-gian-ngay-tai-nha-16679",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sup-hai-san-tuyet-yen-bo-duong-don-gian-ngay-tai-nha-16679",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cồi sò điệp 100 gr",
+      "raw_name": "Cồi sò điệp",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt càng cua 100 gr",
+      "raw_name": "Thịt càng cua",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tuyết yến 50 gr",
+      "raw_name": "Tuyết yến",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nấm đông trùng hạ thảo 50 gr",
+      "raw_name": "Nấm đông trùng hạ thảo",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nấm đông cô 50 gr (nấm hương)",
+      "raw_name": "Nấm đông cô",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "nấm hương",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước dùng gà 1 lít",
+      "raw_name": "Nước dùng gà 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Kỷ tử 50 gr",
+      "raw_name": "Kỷ tử",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hoài sơn 100 gr",
+      "raw_name": "Hoài sơn",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Táo đỏ 50 gr",
+      "raw_name": "Táo đỏ",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gừng 1 nhánh",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đường phèn 2 muỗng canh",
+      "raw_name": "Đường phèn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Muối/ hạt nêm 1 ít",
+      "raw_name": "Muối/ hạt nêm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T19:37:01Z",
+  "page_title": "Cách làm súp hải sản tuyết yến bổ dưỡng, đơn giản ngay tại nhà cho ngày 8/3",
+  "original_image_url": "https://cdn.tgdd.vn/2022/03/CookDish/cach-lam-sup-hai-san-bo-duong-ngay-tai-nha-cho-ngay-quoc-te-avt-1200x676.jpg"
+}

@@ -1,0 +1,65 @@
+{
+  "source_id": "15747",
+  "name": "Trà sữa yakult",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/99b8c898e14e4302.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-sua-yakult-chua-ngot-thom-ngon-la-vi-cuc-da-15747",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-sua-yakult-chua-ngot-thom-ngon-la-vi-cuc-da-15747",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà đen 10 gr",
+      "raw_name": "Trà đen",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa 130 ml (2 chai sữa Yakult)",
+      "raw_name": "Sữa",
+      "quantity": 130,
+      "unit": "ml",
+      "note": "2 chai sữa Yakult",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột kem béo thực vật 4 muỗng canh",
+      "raw_name": "Bột kem béo thực vật",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước đường 20 ml",
+      "raw_name": "Nước đường",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:49:08Z",
+  "page_title": "2 cách làm trà sữa yakult chua ngọt thơm ngon lạ vị cực đã khát",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookRecipe/Avatar/tra-sua-yakult-thumbnail.jpg"
+}

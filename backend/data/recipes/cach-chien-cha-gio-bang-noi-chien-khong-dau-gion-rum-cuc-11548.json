@@ -1,0 +1,39 @@
+{
+  "source_id": "11548",
+  "name": "Chả giò chiên bằng nồi chiên không dầu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f4fa96ca107d0041.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-chien-cha-gio-bang-noi-chien-khong-dau-gion-rum-cuc-11548",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-chien-cha-gio-bang-noi-chien-khong-dau-gion-rum-cuc-11548",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chả giò 500 gr",
+      "raw_name": "Chả giò",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dầu ăn 1 chén (loại chén gia vị)",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "chén",
+      "note": "loại chén gia vị",
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T20:38:07Z",
+  "page_title": "Cách chiên chả giò bằng nồi chiên không dầu giòn rụm cực nhanh đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookProduct/BeFunky-collage(39)-1200x676.jpg"
+}

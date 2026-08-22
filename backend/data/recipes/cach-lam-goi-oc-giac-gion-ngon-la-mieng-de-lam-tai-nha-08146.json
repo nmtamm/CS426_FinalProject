@@ -1,0 +1,147 @@
+{
+  "source_id": "08146",
+  "name": "Gỏi ốc giác",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9335f61d90df9f7d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-oc-giac-gion-ngon-la-mieng-de-lam-tai-nha-08146",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-oc-giac-gion-ngon-la-mieng-de-lam-tai-nha-08146",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ốc giác 2 con (khoảng 500gr)",
+      "raw_name": "Ốc giác 2 con",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 500gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đu đủ 1 quả (khoảng 500gr)",
+      "raw_name": "Đu đủ",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "khoảng 500gr",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sả 5 nhánh",
+      "raw_name": "Sả",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt hiểm 2 quả",
+      "raw_name": "Ớt hiểm",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt sừng 2 quả",
+      "raw_name": "Ớt sừng",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Rau răm 5 nhánh",
+      "raw_name": "Rau răm",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ngò gai 2 nhánh (mùi Tàu)",
+      "raw_name": "Ngò gai",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": "mùi Tàu",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đậu phộng 50 gr (rang chín)",
+      "raw_name": "Đậu phộng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "rang chín",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Vừng 2 muỗng cà phê (mè)",
+      "raw_name": "Vừng",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": "mè",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Hành phi 1 muỗng canh",
+      "raw_name": "Hành phi",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu hành phi 2 muỗng cà phê",
+      "raw_name": "Dầu hành phi",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Bánh phồng tôm 10 cái (ăn kèm)",
+      "raw_name": "Bánh phồng tôm",
+      "quantity": 10,
+      "unit": "cái",
+      "note": "ăn kèm",
+      "display_order": 13
+    },
+    {
+      "raw_text": "Nước cốt chanh 3 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng cà phê",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Muối/ đường 1 ít",
+      "raw_name": "Muối/ đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T18:00:26Z",
+  "page_title": "Cách làm gỏi ốc giác giòn ngon, lạ miệng dễ làm tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/CachlamGoiOcGiacthomngondocdaokhocuonglaiKhamPhaBepViet0-8screenshot-1200x676.jpg"
+}

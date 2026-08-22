@@ -1,0 +1,75 @@
+{
+  "source_id": "08571",
+  "name": "Mojito chanh dây - passion mojito",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6a1a6fb3f5e53bc1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mojito-chanh-day-passion-mojito-mat-lanh-giai-nhiet-08571",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mojito-chanh-day-passion-mojito-mat-lanh-giai-nhiet-08571",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chanh dây 1 quả",
+      "raw_name": "Chanh dây",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lá bạc hà 8 lá",
+      "raw_name": "Lá bạc hà",
+      "quantity": 8,
+      "unit": "lá",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chanh 1/2 quả (cắt lát)",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": "cắt lát",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Siro đường 30 ml",
+      "raw_name": "Siro đường",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cốt chanh 30 ml",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Soda 200 ml",
+      "raw_name": "Soda",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:03:05Z",
+  "page_title": "Cách làm mojito chanh dây - passion mojito mát lạnh giải nhiệt mùa nóng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/60-1200x676.jpg"
+}

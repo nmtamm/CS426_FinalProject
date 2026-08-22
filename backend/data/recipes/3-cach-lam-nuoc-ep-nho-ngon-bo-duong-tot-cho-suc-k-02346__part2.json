@@ -1,0 +1,41 @@
+{
+  "source_id": "02346",
+  "name": "Nước ép nho hạt chia",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0c9459f74bf61eeb.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nuoc-ep-nho-ngon-bo-duong-tot-cho-suc-k-02346",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nuoc-ep-nho-ngon-bo-duong-tot-cho-suc-k-02346",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nho 200 gr",
+      "raw_name": "Nho",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hạt chia 3 muỗng cà phê",
+      "raw_name": "Hạt chia",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:55:37Z",
+  "page_title": "3 cách làm nước ép nho ngon bổ dưỡng tốt cho sức khỏe mỗi ngày",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/nuoc-ep-nho-hat-chia-thumbnail.jpg"
+}

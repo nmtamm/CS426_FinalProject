@@ -1,0 +1,91 @@
+{
+  "source_id": "23280",
+  "name": "Gà nấu nấm đông cô bắp non",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1b63066aabe7aa9c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-nau-nam-dong-co-bap-non-ngot-lanh-an-voi-bun-hay-23280",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-nau-nam-dong-co-bap-non-ngot-lanh-an-voi-bun-hay-23280",
+  "servings_text": "Cho 4 - 6 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt gà 600 gr",
+      "raw_name": "Thịt gà",
+      "quantity": 600,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bắp non 100 gr",
+      "raw_name": "Bắp non",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nấm đông cô khô 50 gr",
+      "raw_name": "Nấm đông cô khô",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Trứng gà non 100 gr",
+      "raw_name": "Trứng gà non",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hạt điều rang 100 gr",
+      "raw_name": "Hạt điều rang",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành lá/ ngò/ tỏi/ hành tím 1 ít",
+      "raw_name": "Hành lá/ ngò/ tỏi/ hành tím",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ hạt nêm/ nước mắm/ dầu ăn)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ hạt nêm/ nước mắm/ dầu ăn",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường phèn 1 ít (tùy ý)",
+      "raw_name": "Đường phèn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "tùy ý",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:05:46Z",
+  "page_title": "Cách làm gà nấu nấm đông cô bắp non ngọt lành ăn với bún hay cơm đều ngon",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20thumb%20to%20t9%20%2860%29.jpg"
+}

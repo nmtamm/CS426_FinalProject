@@ -1,0 +1,126 @@
+{
+  "source_id": "15010",
+  "name": "Bò sốt vang không cần rượu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bdfc45222cf9eac2.png",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bo-sot-vang-khong-can-ruou-van-thom-ngon-bat-bai-15010",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bo-sot-vang-khong-can-ruou-van-thom-ngon-bat-bai-15010",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sườn bò 1 kg",
+      "raw_name": "Sườn bò",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà chua 2 quả",
+      "raw_name": "Cà chua",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá 3 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rau mùi 1 ít",
+      "raw_name": "Rau mùi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tinh bột khoai tây 1/2 muỗng cà phê (hoặc bột sắn)",
+      "raw_name": "Tinh bột khoai tây",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": "hoặc bột sắn",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột ớt 1 muỗng cà phê (loại không cay)",
+      "raw_name": "Bột ớt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "loại không cay",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột ngũ vị hương 1/3 muỗng cà phê",
+      "raw_name": "Bột ngũ vị hương",
+      "quantity": 0.333,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tỏi 2 tép",
+      "raw_name": "Tỏi 2 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ hạt nêm/ đường/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ hạt nêm/ đường/ tiêu xay",
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T18:28:50Z",
+  "page_title": "2 Cách nấu bò sốt vang không cần rượu mà vẫn thơm ngon chuẩn vị",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "công thức chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/bo-sot-vang-khong-can-ruou-cong-thuc-chia-se-tu-nguoi-dung-thumbnail.png"
+}

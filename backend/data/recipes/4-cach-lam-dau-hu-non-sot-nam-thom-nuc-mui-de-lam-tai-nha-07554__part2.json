@@ -1,0 +1,101 @@
+{
+  "source_id": "07554",
+  "name": "Đậu hũ sốt nấm hải sản (nấm bạch tuyết)",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/84aa5d33fd47aee8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-dau-hu-non-sot-nam-thom-nuc-mui-de-lam-tai-nha-07554",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-dau-hu-non-sot-nam-thom-nuc-mui-de-lam-tai-nha-07554",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu hũ non 200 gr",
+      "raw_name": "Đậu hũ non",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm hải sản 150 gr (nấm bạch tuyết)",
+      "raw_name": "Nấm hải sản",
+      "quantity": 150,
+      "unit": "gr",
+      "note": "nấm bạch tuyết",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành lá 1 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột bắp 1 muỗng cà phê",
+      "raw_name": "Bột bắp",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu hào 2 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu mè 1 muỗng canh",
+      "raw_name": "Dầu mè",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước tương 1 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hạt nêm chay 1/2 muỗng canh",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:45:12Z",
+  "page_title": "4 cách làm đậu hũ non sốt nấm thơm nức mũi dễ làm tại nhà",
+  "variant_index": 2,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookRecipe/Avatar/dau-hu-sot-nam-hai-san-nam-bach-tuyet-thumbnail-1.jpg"
+}

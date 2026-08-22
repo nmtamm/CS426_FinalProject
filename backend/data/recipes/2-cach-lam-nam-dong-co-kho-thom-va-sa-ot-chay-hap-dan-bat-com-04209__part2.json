@@ -1,0 +1,57 @@
+{
+  "source_id": "04209",
+  "name": "Nấm đông cô kho sả",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/58818634347e9c2a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nam-dong-co-kho-thom-va-sa-ot-chay-hap-dan-bat-com-04209",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nam-dong-co-kho-thom-va-sa-ot-chay-hap-dan-bat-com-04209",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-kho",
+      "name": "Món kho"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nấm đông cô tươi 200 gr",
+      "raw_name": "Nấm đông cô tươi",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sả băm 2 muỗng canh",
+      "raw_name": "Sả băm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt băm 1 muỗng cà phê",
+      "raw_name": "Ớt băm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gia vị thông dụng 10 gr (muối/hạt nêm chay/đường/tiêu...)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "muối/hạt nêm chay/đường/tiêu...",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T18:42:01Z",
+  "page_title": "3 cách làm nấm đông cô kho thơm và sả ớt chay hấp dẫn bắt cơm đơn giản",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/nam-dong-co-kho-sa-thumbnail.jpg"
+}

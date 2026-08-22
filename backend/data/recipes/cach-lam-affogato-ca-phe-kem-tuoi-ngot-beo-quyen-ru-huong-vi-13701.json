@@ -1,0 +1,67 @@
+{
+  "source_id": "13701",
+  "name": "Affogato - cà phê kem tươi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d3b8b891827b2349.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-affogato-ca-phe-kem-tuoi-ngot-beo-quyen-ru-huong-vi-13701",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-affogato-ca-phe-kem-tuoi-ngot-beo-quyen-ru-huong-vi-13701",
+  "servings_text": "Cho 1 - 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Kem sữa tươi 500 ml",
+      "raw_name": "Kem sữa tươi",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột cà phê 3 muỗng canh",
+      "raw_name": "Bột cà phê",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Socola 40 gr (1 thanh)",
+      "raw_name": "Socola",
+      "quantity": 40,
+      "unit": "gr",
+      "note": "1 thanh",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Vani 1 quả",
+      "raw_name": "Vani",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 120 gr",
+      "raw_name": "Đường",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:54:14Z",
+  "page_title": "Cách làm affogato - cà phê kem tươi ngọt béo quyến rũ hương vị Ý",
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookDish/cach-lam-affogato-ca-phe-kem-tuoi-ngot-beo-quyen-ru-huong-vi-avt-1200x676.jpg"
+}

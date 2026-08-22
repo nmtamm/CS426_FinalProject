@@ -1,0 +1,71 @@
+{
+  "source_id": "16604",
+  "name": "Bánh quy rong biển nhân phô mai",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f8afd8892f08a198.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-quy-rong-bien-nhan-pho-mai-gion-xop-thom-beo-16604",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-quy-rong-bien-nhan-pho-mai-gion-xop-thom-beo-16604",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh quy mặn 30 cái (hoặc loại ít ngọt)",
+      "raw_name": "Bánh quy mặn",
+      "quantity": 30,
+      "unit": "cái",
+      "note": "hoặc loại ít ngọt",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rong biển khô 1 lá",
+      "raw_name": "Rong biển khô",
+      "quantity": 1,
+      "unit": "lá",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bơ lạt 50 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Marshmallow 110 gr",
+      "raw_name": "Marshmallow",
+      "quantity": 110,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột phô mai 20 gr",
+      "raw_name": "Bột phô mai",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột sữa tươi nguyên kem A2 10 gr",
+      "raw_name": "Bột sữa tươi nguyên kem A2",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:15:52Z",
+  "page_title": "Cách làm bánh quy rong biển nhân phô mai giòn xốp, thơm béo cực lạ miệng",
+  "original_image_url": "https://cdn.tgdd.vn/2022/02/CookDish/cach-lam-banh-quy-rong-bien-nhan-pho-mai-gion-xop-thom-beo-avt-1200x676.jpg"
+}

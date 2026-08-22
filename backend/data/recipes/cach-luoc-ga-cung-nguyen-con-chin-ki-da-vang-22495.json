@@ -1,0 +1,59 @@
+{
+  "source_id": "22495",
+  "name": "Gà cúng nguyên con",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7ac99c9dd12d3194.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-luoc-ga-cung-nguyen-con-chin-ki-da-vang-22495",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-luoc-ga-cung-nguyen-con-chin-ki-da-vang-22495",
+  "servings_text": "Cho 1 con gà",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà 1 con (khoảng 2.5kg)",
+      "raw_name": "Gà 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 2.5kg",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gừng lớn 1 củ",
+      "raw_name": "Gừng lớn",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành khô 3 củ (hành tím)",
+      "raw_name": "Hành khô",
+      "quantity": 3,
+      "unit": "củ",
+      "note": "hành tím",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối hạt 1 ít",
+      "raw_name": "Muối hạt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rượu trắng 1 ít",
+      "raw_name": "Rượu trắng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T18:07:07Z",
+  "page_title": "Cách luộc gà cúng nguyên con chín kĩ da vàng đẹp mắt tại nhà với nồi luộc",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/luoc%20ga%20%2815%29.jpg"
+}

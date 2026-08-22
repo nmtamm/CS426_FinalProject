@@ -1,0 +1,85 @@
+{
+  "source_id": "13307",
+  "name": "Trà sữa Okinawa hoa đậu biếc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/02d330063c0a68a0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-sua-okinawa-thom-ngon-chuan-vi-don-gian-tai-13307",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-sua-okinawa-thom-ngon-chuan-vi-don-gian-tai-13307",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà đen 50 gr",
+      "raw_name": "Trà đen",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hoa đậu biếc khô 8 cái",
+      "raw_name": "Hoa đậu biếc khô",
+      "quantity": 8,
+      "unit": "cái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột kem sữa Okinawa 4 muỗng canh",
+      "raw_name": "Bột kem sữa Okinawa",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột kem Topping Cream 1 muỗng canh (Có thể dùng kem béo Rich lùn thay thế)",
+      "raw_name": "Bột kem Topping Cream",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "Có thể dùng kem béo Rich lùn thay thế",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột phô mai 2 muỗng canh (dùng để pha chế)",
+      "raw_name": "Bột phô mai",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "dùng để pha chế",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Siro vani 20 ml",
+      "raw_name": "Siro vani",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Trân châu đen 3 muỗng canh",
+      "raw_name": "Trân châu đen",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:10:49Z",
+  "page_title": "2 cách làm trà sữa Okinawa thơm ngon chuẩn vị đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/tra-sua-okinawa-hoa-dau-biec-thumbnail-1.jpg"
+}

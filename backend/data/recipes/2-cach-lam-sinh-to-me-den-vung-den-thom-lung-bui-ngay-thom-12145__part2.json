@@ -1,0 +1,61 @@
+{
+  "source_id": "12145",
+  "name": "Sinh tố mè đen chuối cần tây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/55ff064ec0dfa597.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sinh-to-me-den-vung-den-thom-lung-bui-ngay-thom-12145",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sinh-to-me-den-vung-den-thom-lung-bui-ngay-thom-12145",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mè đen 1 muỗng cà phê",
+      "raw_name": "Mè đen",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chuối chín 2 trái",
+      "raw_name": "Chuối chín",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cọng cần tây 4 nhánh",
+      "raw_name": "Cọng cần tây",
+      "quantity": 4,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng 1 củ (củ nhỏ)",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "củ nhỏ",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước đá 1 ít (khoảng 3 - 5 viên)",
+      "raw_name": "Nước đá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "khoảng 3 - 5 viên",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:09:01Z",
+  "page_title": "2 cách làm sinh tố mè đen (vừng đen) thơm lừng, bùi ngậy thơm ngon",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/sinh-to-me-den-chuoi-can-tay-thumbnail.jpg"
+}

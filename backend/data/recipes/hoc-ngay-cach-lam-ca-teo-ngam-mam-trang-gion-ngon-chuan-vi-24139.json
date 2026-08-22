@@ -1,0 +1,67 @@
+{
+  "source_id": "24139",
+  "name": "Cà teo ngâm mắm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/47879ffa9d04b5b8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/hoc-ngay-cach-lam-ca-teo-ngam-mam-trang-gion-ngon-chuan-vi-24139",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/hoc-ngay-cach-lam-ca-teo-ngam-mam-trang-gion-ngon-chuan-vi-24139",
+  "servings_text": "Cho 2kg cà pháo",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cà pháo trắng 2 kg",
+      "raw_name": "Cà pháo trắng",
+      "quantity": 2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước mắm mặn 2 lít (loại mắm truyền thống)",
+      "raw_name": "Nước mắm mặn 2 lít",
+      "quantity": null,
+      "unit": null,
+      "note": "loại mắm truyền thống",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Củ riềng 200 gr",
+      "raw_name": "Củ riềng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 50 gr",
+      "raw_name": "Tỏi",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt tươi 20 gr",
+      "raw_name": "Ớt tươi",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối hạt/ bột ngọt/ đường trắng)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối hạt/ bột ngọt/ đường trắng",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:25:02Z",
+  "page_title": "Học ngay cách làm cà teo ngâm mắm trắng giòn, ngon chuẩn vị đặc sản xứ Nghệ",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t02%201200676%20%2864%29.jpg"
+}

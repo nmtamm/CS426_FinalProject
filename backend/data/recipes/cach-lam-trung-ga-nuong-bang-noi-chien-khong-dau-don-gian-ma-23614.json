@@ -1,0 +1,103 @@
+{
+  "source_id": "23614",
+  "name": "Trứng gà nướng bằng nồi chiên không dầu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/95c048a3f71372e4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-trung-ga-nuong-bang-noi-chien-khong-dau-don-gian-ma-23614",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-trung-ga-nuong-bang-noi-chien-khong-dau-don-gian-ma-23614",
+  "servings_text": "Cho 12 quả trứng gà",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trứng gà 12 quả (trứng gà công nghiệp)",
+      "raw_name": "Trứng gà",
+      "quantity": 12,
+      "unit": "quả",
+      "note": "trứng gà công nghiệp",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột nêm 1/2 muỗng canh",
+      "raw_name": "Bột nêm",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 1/2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước mắm 1/2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Mật ong 1/2 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột ngọt 1/2 muỗng cafe",
+      "raw_name": "Bột ngọt",
+      "quantity": 0.5,
+      "unit": "muỗng cafe",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tiêu 1/2 muỗng cafe",
+      "raw_name": "Tiêu",
+      "quantity": 0.5,
+      "unit": "muỗng cafe",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị chấm 1 ít (muối tiêu/ ớt)",
+      "raw_name": "Gia vị chấm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối tiêu/ ớt",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rau răm 1 ít",
+      "raw_name": "Rau răm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tắc 1 trái",
+      "raw_name": "Tắc",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:54:36Z",
+  "page_title": "Cách làm trứng gà nướng bằng nồi chiên không dầu đơn giản mà ngon",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/dssakdjskafhwke.jpg"
+}

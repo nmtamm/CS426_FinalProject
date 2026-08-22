@@ -1,0 +1,65 @@
+{
+  "source_id": "14544",
+  "name": "Sinh tố bơ ca cao việt quất",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7f625506b5ad52ef.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sinh-to-bo-ca-cao-beo-ngay-thom-ngon-bo-duong-14544",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sinh-to-bo-ca-cao-beo-ngay-thom-ngon-bo-duong-14544",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bơ 100 gr",
+      "raw_name": "Bơ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột ca cao 4 muỗng cà phê",
+      "raw_name": "Bột ca cao",
+      "quantity": 4,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Việt quất 20 gr",
+      "raw_name": "Việt quất",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa hạnh nhân 200 ml",
+      "raw_name": "Sữa hạnh nhân",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chà là 3 trái",
+      "raw_name": "Chà là",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:54:43Z",
+  "page_title": "3 cách làm sinh tố bơ ca cao béo ngậy thơm ngon bổ dưỡng",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/sinh-to-bo-ca-cao-viet-quat-thumbnail.jpg"
+}

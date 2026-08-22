@@ -1,0 +1,95 @@
+{
+  "source_id": "23721",
+  "name": "Thịt kho hột vịt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/146471a42b73f12a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-kho-hot-vit-nuoc-dua-mem-ruc-len-mau-dep-chuan-23721",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-kho-hot-vit-nuoc-dua-mem-ruc-len-mau-dep-chuan-23721",
+  "servings_text": "Cho 6 - 8 người ăn",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-kho",
+      "name": "Món kho"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt ba rọi 2 kg (ba chỉ)",
+      "raw_name": "Thịt ba rọi",
+      "quantity": 2,
+      "unit": "kg",
+      "note": "ba chỉ",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng vịt 15 quả",
+      "raw_name": "Trứng vịt",
+      "quantity": 15,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước dừa tươi 1.5 lít",
+      "raw_name": "Nước dừa tươi 1.5 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước lọc 1 lít",
+      "raw_name": "Nước lọc 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tím củ 60 gr",
+      "raw_name": "Hành tím củ",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 25 gr",
+      "raw_name": "Tỏi",
+      "quantity": 25,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt 50 gr (30gr ớt sừng không cay và 20gr ớt hiểm)",
+      "raw_name": "Ớt",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "30gr ớt sừng không cay và 20gr ớt hiểm",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Chanh 1 trái",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Nước mắm/ đường/ muối/ hạt nêm/ bột ngọt/ dầu ăn)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Nước mắm/ đường/ muối/ hạt nêm/ bột ngọt/ dầu ăn",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:32:33Z",
+  "page_title": "Cách làm thịt kho hột vịt nước dừa mềm rục, lên màu đẹp chuẩn vị Tết",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20m%C3%B3n%20an%20t12%20%281200%20x%20676%20px%29%20%2866%29.jpg"
+}

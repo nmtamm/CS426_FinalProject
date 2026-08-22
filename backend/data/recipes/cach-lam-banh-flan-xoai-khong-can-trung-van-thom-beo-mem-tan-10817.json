@@ -1,0 +1,67 @@
+{
+  "source_id": "10817",
+  "name": "Bánh flan xoài không cần trứng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/949e37acf92d539b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-flan-xoai-khong-can-trung-van-thom-beo-mem-tan-10817",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-flan-xoai-khong-can-trung-van-thom-beo-mem-tan-10817",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Xoài 1 quả",
+      "raw_name": "Xoài",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 10 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 10,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bánh mì sandwich 5 lát",
+      "raw_name": "Bánh mì sandwich 5 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa bột 3 muỗng canh",
+      "raw_name": "Sữa bột",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sữa tươi không đường 250 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 250,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước lọc 60 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 60,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:22:18Z",
+  "page_title": "Cách làm bánh flan xoài không cần trứng vẫn thơm béo, mềm tan trong miệng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookProduct/EgglessMangoBreadPuddingWithoutOvenCaramelBreadPuddingMangoDelightS1E55-34screenshot-1200x676.jpg"
+}

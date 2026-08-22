@@ -1,0 +1,135 @@
+{
+  "source_id": "07619",
+  "name": "Chả lụa gà",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/caf59dea6ca2df2e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-lua-ga-deo-dai-thom-ngon-moi-la-an-toan-tai-nha-07619",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-lua-ga-deo-dai-thom-ngon-moi-la-an-toan-tai-nha-07619",
+  "servings_text": "Cho 10 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ức gà 1.2 kg",
+      "raw_name": "Ức gà",
+      "quantity": 1.2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt ba rọi 500 gr",
+      "raw_name": "Thịt ba rọi",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước mắm 40 độ đạm 30 ml",
+      "raw_name": "Nước mắm 40 độ đạm",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tinh bột khoai tây 4 muỗng canh",
+      "raw_name": "Tinh bột khoai tây",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Baking powder 3 muỗng cà phê (bột nở)",
+      "raw_name": "Baking powder",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": "bột nở",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hạt nêm gà 1 muỗng cà phê",
+      "raw_name": "Hạt nêm gà",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột tỏi 1/2 muỗng cà phê",
+      "raw_name": "Bột tỏi",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột ngọt 1/3 muỗng cà phê",
+      "raw_name": "Bột ngọt",
+      "quantity": 0.333,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường 30 gr",
+      "raw_name": "Đường",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Tiêu 1 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu ăn 160 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 160,
+      "unit": "ml",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Đá lạnh 120 gr",
+      "raw_name": "Đá lạnh",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Lá chuối 1 ít",
+      "raw_name": "Lá chuối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T18:07:29Z",
+  "page_title": "Cách làm chả lụa gà dẻo dai thơm ngon mới lạ an toàn tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookProduct/1200-1200x676-77.jpg"
+}

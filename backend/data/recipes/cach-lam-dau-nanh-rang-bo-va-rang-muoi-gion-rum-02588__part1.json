@@ -1,0 +1,57 @@
+{
+  "source_id": "02588",
+  "name": "Đậu nành rang bơ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/320c02d456e6ace0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-nanh-rang-bo-va-rang-muoi-gion-rum-02588",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-nanh-rang-bo-va-rang-muoi-gion-rum-02588",
+  "servings_text": "Cho 1 - 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu nành 300 g",
+      "raw_name": "Đậu nành",
+      "quantity": 300,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối 1/4 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 0.25,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột ớt 1/4 muỗng canh",
+      "raw_name": "Bột ớt",
+      "quantity": 0.25,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bơ thực vật 1 muỗng canh",
+      "raw_name": "Bơ thực vật",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:11:45Z",
+  "page_title": "2 cách làm đậu nành rang bơ và rang muối giòn rụm, thơm lừng cực ngon miệng",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/dau-nanh-rang-bo-thumbnail.jpg"
+}

@@ -1,0 +1,73 @@
+{
+  "source_id": "00909",
+  "name": "Trà sữa dừa kiểu Thái",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e9345685db52d60d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-sua-dua-kieu-thai-thom-beo-cuc-de-lam-ma-00909",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-sua-dua-kieu-thai-thom-beo-cuc-de-lam-ma-00909",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà đen túi lọc 1 gói",
+      "raw_name": "Trà đen túi lọc",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước cốt dừa 20 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rượu rum 1/2 muỗng canh",
+      "raw_name": "Rượu rum",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Siro cây phong 1 muỗng canh",
+      "raw_name": "Siro cây phong",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường nâu 20 gr",
+      "raw_name": "Đường nâu",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước sôi 150 ml",
+      "raw_name": "Nước sôi",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:57:38Z",
+  "page_title": "3 cách làm trà sữa dừa thơm ngọt béo ngậy ngon ngất ngây",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/tra-sua-dua-kieu-thai-thumbnail-1.jpg"
+}

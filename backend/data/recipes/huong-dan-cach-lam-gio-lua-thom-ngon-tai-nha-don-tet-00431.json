@@ -1,0 +1,75 @@
+{
+  "source_id": "00431",
+  "name": "Giò lụa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/25d33da75650fd60.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-cach-lam-gio-lua-thom-ngon-tai-nha-don-tet-00431",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-cach-lam-gio-lua-thom-ngon-tai-nha-don-tet-00431",
+  "servings_text": "Cho 1kg giò lụa",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt nạc 1 kg (nên chọn nạc mông heo)",
+      "raw_name": "Thịt nạc",
+      "quantity": 1,
+      "unit": "kg",
+      "note": "nên chọn nạc mông heo",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột năng 30 gr",
+      "raw_name": "Bột năng",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột nở 5 gr",
+      "raw_name": "Bột nở",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 10 gr",
+      "raw_name": "Đường",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước mắm 40 ml",
+      "raw_name": "Nước mắm",
+      "quantity": 40,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Lá chuối và dây lạc hoặc dây ni lông 1 ít",
+      "raw_name": "Lá chuối và dây lạc hoặc dây ni lông",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:45:49Z",
+  "page_title": "Hướng dẫn cách làm giò lụa thơm ngon tại nhà đón Tết",
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookProduct/12-1200x676.jpg"
+}

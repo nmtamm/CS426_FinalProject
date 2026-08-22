@@ -1,0 +1,113 @@
+{
+  "source_id": "04536",
+  "name": "Lẩu gà thuốc bắc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/35eda315c037e909.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-lau-ga-thuoc-bac-va-dam-bong-ruou-nep-thom-ngon-bo-04536",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-lau-ga-thuoc-bac-va-dam-bong-ruou-nep-thom-ngon-bo-04536",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-lau",
+      "name": "Món lẩu"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà 1.3 kg",
+      "raw_name": "Gà",
+      "quantity": 1.3,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nguyên liệu thuốc bắc 1 gói (100gr)",
+      "raw_name": "Nguyên liệu thuốc bắc",
+      "quantity": 1,
+      "unit": "gói",
+      "note": "100gr",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nấm kim châm 300 gr",
+      "raw_name": "Nấm kim châm",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nấm hương khô 200 gr",
+      "raw_name": "Nấm hương khô",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ngò rí 5 gr",
+      "raw_name": "Ngò rí",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành lá 5 gr",
+      "raw_name": "Hành lá",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gừng 5 gr",
+      "raw_name": "Gừng",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Sen 1 củ",
+      "raw_name": "Sen",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Chanh 1 trái",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước dừa 1 lít",
+      "raw_name": "Nước dừa 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:09:26Z",
+  "page_title": "2 Cách nấu lẩu gà thuốc bắc và dấm bỗng (rượu nếp) thơm ngon, bổ dưỡng",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/lau-ga-thuoc-bac-thumbnail.jpg"
+}

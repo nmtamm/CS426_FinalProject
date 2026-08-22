@@ -1,0 +1,65 @@
+{
+  "source_id": "09329",
+  "name": "Nước ép khế xanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/07b395a68dc7c83f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-ep-khe-thanh-mat-don-gian-cho-ngay-he-nong-09329",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-ep-khe-thanh-mat-don-gian-cho-ngay-he-nong-09329",
+  "servings_text": "Cho 2 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khế xanh 3 quả",
+      "raw_name": "Khế xanh",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Siro tắc 10 ml",
+      "raw_name": "Siro tắc",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Siro chanh 20 ml",
+      "raw_name": "Siro chanh",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lá thyme 20 gr",
+      "raw_name": "Lá thyme",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước đường phèn 30 ml",
+      "raw_name": "Nước đường phèn",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:54:53Z",
+  "page_title": "2 cách làm nước ép khế thanh mát đơn giản cho ngày hè nóng bức",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookRecipe/Avatar/nuoc-ep-khe-xanh-thumbnail.jpg"
+}

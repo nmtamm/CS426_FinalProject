@@ -1,0 +1,85 @@
+{
+  "source_id": "11802",
+  "name": "Mắm thái cá lóc đu đủ thính gạo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/962840807ac06ea3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mam-thai-ca-loc-du-du-thom-ngon-hap-dan-an-la-11802",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mam-thai-ca-loc-du-du-thom-ngon-hap-dan-an-la-11802",
+  "servings_text": "Cho 4kg mắm",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đu đủ sống 5 kg",
+      "raw_name": "Đu đủ sống",
+      "quantity": 5,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mắm phi lê cá lóc 2 kg",
+      "raw_name": "Mắm phi lê cá lóc",
+      "quantity": 2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối hột 600 gr",
+      "raw_name": "Muối hột",
+      "quantity": 600,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 1.6 kg",
+      "raw_name": "Đường",
+      "quantity": 1.6,
+      "unit": "kg",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột ngọt 10 gr",
+      "raw_name": "Bột ngọt",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 200 gr",
+      "raw_name": "Tỏi",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gạo 20 gr",
+      "raw_name": "Gạo",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt khô 1 ít",
+      "raw_name": "Ớt khô",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:27:56Z",
+  "page_title": "2 cách làm mắm thái cá lóc đu đủ thơm ngon hấp dẫn ăn là ghiền",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/mam-thai-ca-loc-du-du-thinh-gao-thumbnail.jpg"
+}

@@ -1,0 +1,91 @@
+{
+  "source_id": "23705",
+  "name": "Nước bí đao",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5c3bded208b8ee72.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-nuoc-bi-dao-thanh-mat-khong-bi-chua-co-the-dung-de-23705",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-nuoc-bi-dao-thanh-mat-khong-bi-chua-co-the-dung-de-23705",
+  "servings_text": "Cho Khoảng 3 - 3.5 lít nước cốt (tương đương 15 - 20 ly)",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bí đao khô 60 gr",
+      "raw_name": "Bí đao khô",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Táo đỏ 30 gr",
+      "raw_name": "Táo đỏ",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "La hán quả 2 quả",
+      "raw_name": "La hán quả",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mía lau 300 gr (đã nướng thơm và róc vỏ)",
+      "raw_name": "Mía lau",
+      "quantity": 300,
+      "unit": "gr",
+      "note": "đã nướng thơm và róc vỏ",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lá nếp 2 lá (lá dứa)",
+      "raw_name": "Lá nếp",
+      "quantity": 2,
+      "unit": "lá",
+      "note": "lá dứa",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bí đao tươi 500 gr",
+      "raw_name": "Bí đao tươi",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường đen Hàn Quốc 150 gr",
+      "raw_name": "Đường đen Hàn Quốc",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường cát vàng 150 gr",
+      "raw_name": "Đường cát vàng",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Topping 1 ít (thạch đen/ thạch đường nâu/ hạt chia/ hồng trà/ đá viên...)",
+      "raw_name": "Topping",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "thạch đen/ thạch đường nâu/ hạt chia/ hồng trà/ đá viên...",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:47:18Z",
+  "page_title": "Cách nấu nước bí đao thanh mát, không bị chua, có thể dùng để kinh doanh",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20m%C3%B3n%20an%20t12%20%281200%20x%20676%20px%29%20%2836%29.jpg"
+}

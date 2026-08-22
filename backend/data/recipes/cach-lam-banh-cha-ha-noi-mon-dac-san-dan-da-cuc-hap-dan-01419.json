@@ -1,0 +1,103 @@
+{
+  "source_id": "01419",
+  "name": "Bánh chả Hà Nội",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f5add4cea6d4cb61.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-cha-ha-noi-mon-dac-san-dan-da-cuc-hap-dan-01419",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-cha-ha-noi-mon-dac-san-dan-da-cuc-hap-dan-01419",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mỡ đường 150 gr (bạn có thể mua hoặc tự làm tại nhà)",
+      "raw_name": "Mỡ đường",
+      "quantity": 150,
+      "unit": "gr",
+      "note": "bạn có thể mua hoặc tự làm tại nhà",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lạp xưởng loại ngon 100 gr",
+      "raw_name": "Lạp xưởng loại ngon",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Vừng rang 50 gr",
+      "raw_name": "Vừng rang",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mứt bí 60 gr",
+      "raw_name": "Mứt bí",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hạt điều được nghiền nhỏ 50 gr",
+      "raw_name": "Hạt điều được nghiền nhỏ",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước đường 20 ml",
+      "raw_name": "Nước đường",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Rượu trắng 8 ml (hoặc rượu mai quế lộ)",
+      "raw_name": "Rượu trắng",
+      "quantity": 8,
+      "unit": "ml",
+      "note": "hoặc rượu mai quế lộ",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Trứng gà 1 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Lá chanh 10 gr",
+      "raw_name": "Lá chanh",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị 20 gr (muối/ đường/ dầu ăn...)",
+      "raw_name": "Gia vị",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "muối/ đường/ dầu ăn...",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T19:28:15Z",
+  "page_title": "Cách làm bánh chả Hà Nội, món đặc sản dân dã cực hợp ăn Trung Thu",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2019/10/17/1209758/cach-lam-banh-cha-ha-noi-mon-dac-san-dan-da-cuc-hop-an-trung-thu-760x367.jpg"
+}

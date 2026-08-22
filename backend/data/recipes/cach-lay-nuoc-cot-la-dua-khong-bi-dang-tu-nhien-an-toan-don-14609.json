@@ -1,0 +1,35 @@
+{
+  "source_id": "14609",
+  "name": "Nước cốt lá dứa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/650064d438253c88.jpeg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lay-nuoc-cot-la-dua-khong-bi-dang-tu-nhien-an-toan-don-14609",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lay-nuoc-cot-la-dua-khong-bi-dang-tu-nhien-an-toan-don-14609",
+  "servings_text": "Cho 45ml",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lá dứa 100 gr (lá nếp)",
+      "raw_name": "Lá dứa",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "lá nếp",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước lọc 200 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:54:13Z",
+  "page_title": "Cách lấy nước cốt lá dứa không bị đắng tự nhiên an toàn đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lay-nuoc-cot-la-dua-khong-bi-dang-tu-nhien-an-toan-don-avt-1200x676.jpeg"
+}

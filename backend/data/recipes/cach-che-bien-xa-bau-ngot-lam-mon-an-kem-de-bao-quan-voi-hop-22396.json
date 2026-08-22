@@ -1,0 +1,55 @@
+{
+  "source_id": "22396",
+  "name": "Xá bấu ngọt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8f7f73199872f966.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-che-bien-xa-bau-ngot-lam-mon-an-kem-de-bao-quan-voi-hop-22396",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-che-bien-xa-bau-ngot-lam-mon-an-kem-de-bao-quan-voi-hop-22396",
+  "servings_text": "Cho 4 - 6 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Củ cải trắng 2 kg",
+      "raw_name": "Củ cải trắng",
+      "quantity": 2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường vàng 300 gr",
+      "raw_name": "Đường vàng",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối hạt 80 gr",
+      "raw_name": "Muối hạt",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước lọc 200 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:34:39Z",
+  "page_title": "Cách chế biến xá bấu ngọt làm món ăn kèm dễ bảo quản với hộp đựng thực phẩm",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/212025%20%283%29.jpg"
+}

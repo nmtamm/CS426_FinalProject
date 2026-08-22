@@ -1,0 +1,57 @@
+{
+  "source_id": "02278",
+  "name": "Trà tắc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5989e9592f62bcb1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-tac-giai-khat-voi-cong-thuc-gay-nghien-02278",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-tac-giai-khat-voi-cong-thuc-gay-nghien-02278",
+  "servings_text": "Cho 6 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà khô 36 gr",
+      "raw_name": "Trà khô",
+      "quantity": 36,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tắc 20 trái",
+      "raw_name": "Tắc",
+      "quantity": 20,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường vàng 400 gr",
+      "raw_name": "Đường vàng",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước lọc 2.1 lít",
+      "raw_name": "Nước lọc 2.1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:12:51Z",
+  "page_title": "2 cách làm trà tắc giải khát với công thức gây nghiện ngon như ngoài hàng",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/tra-tac-thumbnail.jpg"
+}

@@ -1,0 +1,51 @@
+{
+  "source_id": "07202",
+  "name": "Mực một nắng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3439945d4185e3a2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-muc-mot-nang-trang-dep-an-toan-nhanh-chong-khong-can-07202",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-muc-mot-nang-trang-dep-an-toan-nhanh-chong-khong-can-07202",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mực ống 1 kg",
+      "raw_name": "Mực ống",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rượu trắng 4 muỗng canh",
+      "raw_name": "Rượu trắng",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước đá 100 gr",
+      "raw_name": "Nước đá",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T18:52:22Z",
+  "page_title": "Cách làm mực một nắng trắng đẹp an toàn nhanh chóng không cần phơi",
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookProduct/CACHLAMMUCMOTNANG1200-1200x676.jpg"
+}

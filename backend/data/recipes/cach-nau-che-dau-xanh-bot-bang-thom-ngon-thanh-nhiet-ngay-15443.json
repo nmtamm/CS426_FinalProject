@@ -1,0 +1,87 @@
+{
+  "source_id": "15443",
+  "name": "Chè đậu xanh bột báng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d94aa93e7a8029f0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-che-dau-xanh-bot-bang-thom-ngon-thanh-nhiet-ngay-15443",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-che-dau-xanh-bot-bang-thom-ngon-thanh-nhiet-ngay-15443",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-che",
+      "name": "Món chè"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu xanh nguyên vỏ 200 gr",
+      "raw_name": "Đậu xanh nguyên vỏ",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột báng 70 gr",
+      "raw_name": "Bột báng",
+      "quantity": 70,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước cốt dừa 200 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột khoai 40 gr",
+      "raw_name": "Bột khoai",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lá dứa 1 bó",
+      "raw_name": "Lá dứa 1 bó",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước lọc 1 lít",
+      "raw_name": "Nước lọc 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 250 gr",
+      "raw_name": "Đường",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:14:24Z",
+  "page_title": "Cách nấu chè đậu xanh bột báng thơm ngon thanh nhiệt ngày nắng nóng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookDish/cach-nau-che-dau-xanh-bot-bang-thom-ngon-thanh-nhiet-ngay-avt-1200x676.jpg"
+}

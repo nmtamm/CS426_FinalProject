@@ -1,0 +1,97 @@
+{
+  "source_id": "04515",
+  "name": "Lẩu cháo gà nấm đông cô",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/332d903b288a9e21.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-nau-lau-chao-ga-don-gian-thom-ngon-hit-ha-ngay-mua-04515",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-nau-lau-chao-ga-don-gian-thom-ngon-hit-ha-ngay-mua-04515",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-lau",
+      "name": "Món lẩu"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà 1 con (khoảng 1.5kg)",
+      "raw_name": "Gà 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 1.5kg",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hạt sen 100 gr",
+      "raw_name": "Hạt sen",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu xanh 100 gr (đã bóc vỏ)",
+      "raw_name": "Đậu xanh",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "đã bóc vỏ",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lòng đỏ trứng gà 1 cái",
+      "raw_name": "Lòng đỏ trứng gà",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tím băm 10 gr",
+      "raw_name": "Hành tím băm",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gừng băm 10 gr",
+      "raw_name": "Gừng băm",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nấm đông cô khô 100 gr (nấm hương)",
+      "raw_name": "Nấm đông cô khô",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "nấm hương",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nấm kim châm 100 gr",
+      "raw_name": "Nấm kim châm",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gạo nếp + gạo tẻ 200 gr",
+      "raw_name": "Gạo nếp + gạo tẻ",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:10:27Z",
+  "page_title": "3 cách nấu lẩu cháo gà đơn giản, thơm ngon hít hà ngày mưa lạnh",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/Untitled-2.jpg"
+}

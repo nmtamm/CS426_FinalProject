@@ -1,0 +1,53 @@
+{
+  "source_id": "05347",
+  "name": "Nấm kim châm chiên giòn cuốn hoành thánh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/30c62fd67da018c6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nam-kim-cham-chien-gion-an-vat-sieu-ngon-hap-dan-05347",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nam-kim-cham-chien-gion-an-vat-sieu-ngon-hap-dan-05347",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hoành thánh 10 miếng",
+      "raw_name": "Hoành thánh 10 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm kim châm 300 gr",
+      "raw_name": "Nấm kim châm",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột chiên giòn 300 gr",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 100 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:18:43Z",
+  "page_title": "3 cách làm nấm kim châm chiên giòn ăn vặt siêu ngon hấp dẫn",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookRecipe/Avatar/nam-kim-cham-chien-gion-cuon-hoanh-thanh-thumbnail-1.jpg"
+}

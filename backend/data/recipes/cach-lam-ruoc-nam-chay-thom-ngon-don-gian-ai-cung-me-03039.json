@@ -1,0 +1,43 @@
+{
+  "source_id": "03039",
+  "name": "Ruốc nấm chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c5aaa3e6f1ff4317.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ruoc-nam-chay-thom-ngon-don-gian-ai-cung-me-03039",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ruoc-nam-chay-thom-ngon-don-gian-ai-cung-me-03039",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chân nấm hương khô 150 gr",
+      "raw_name": "Chân nấm hương khô",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dầu ăn 3 thìa canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước tương 4 thìa canh",
+      "raw_name": "Nước tương",
+      "quantity": 4,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T18:45:45Z",
+  "page_title": "Cách làm ruốc nấm chay thơm ngon đơn giản ai cũng mê",
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookProduct/10-1200x676-1.jpg"
+}

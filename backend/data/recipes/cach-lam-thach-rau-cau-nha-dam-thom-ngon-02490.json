@@ -1,0 +1,75 @@
+{
+  "source_id": "02490",
+  "name": "Rau câu nha đam",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/07b0ba0f69dd75bb.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thach-rau-cau-nha-dam-thom-ngon-02490",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thach-rau-cau-nha-dam-thom-ngon-02490",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nha đam 6 nhánh",
+      "raw_name": "Nha đam",
+      "quantity": 6,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dừa tươi 1 trái",
+      "raw_name": "Dừa tươi",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột rau câu giòn 25 gr (1 gói)",
+      "raw_name": "Bột rau câu giòn",
+      "quantity": 25,
+      "unit": "gr",
+      "note": "1 gói",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa đặc 190 gr (1/2 lon)",
+      "raw_name": "Sữa đặc",
+      "quantity": 190,
+      "unit": "gr",
+      "note": "1/2 lon",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường phèn 500 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước lọc 1.5 lít",
+      "raw_name": "Nước lọc 1.5 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:02:32Z",
+  "page_title": "Cách làm rau câu nha đam thơm ngon thanh mát ngay tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2022/02/CookDish/cach-lam-thach-rau-cau-nha-dam-thom-ngon-avt-1200x676.jpg"
+}

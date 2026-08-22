@@ -1,0 +1,115 @@
+{
+  "source_id": "22429",
+  "name": "Khoai mì quết cuốn bánh tráng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e737e4e21c300937.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-khoai-mi-quet-cuon-banh-trang-dac-san-cu-chi-voi-noi-22429",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-khoai-mi-quet-cuon-banh-trang-dac-san-cu-chi-voi-noi-22429",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai mì 500 gr",
+      "raw_name": "Khoai mì",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành lá 1 ít",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh (hoặc mỡ heo)",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "hoặc mỡ heo",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bánh tráng 1 ít",
+      "raw_name": "Bánh tráng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rau ăn kèm 1 ít (xà lách/ diếp cá/ tía tô/ cần nước/ quế thơm/ hẹ lá/ dưa leo/...)",
+      "raw_name": "Rau ăn kèm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "xà lách/ diếp cá/ tía tô/ cần nước/ quế thơm/ hẹ lá/ dưa leo/...",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ nước mắm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ nước mắm",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Chanh 2 quả",
+      "raw_name": "Chanh",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt 2 trái",
+      "raw_name": "Ớt",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tỏi 3 tép",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hành tím nhỏ 2 củ",
+      "raw_name": "Hành tím nhỏ",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Khô cá 100 gr (tùy ý)",
+      "raw_name": "Khô cá",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "tùy ý",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dứa thơm 3 lá (tùy ý)",
+      "raw_name": "Dứa thơm",
+      "quantity": 3,
+      "unit": "lá",
+      "note": "tùy ý",
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T20:33:55Z",
+  "page_title": "Cách làm khoai mì quết cuốn bánh tráng đặc sản Củ Chi với nồi và máy xay",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/312025%20%281%29.jpg"
+}

@@ -1,0 +1,53 @@
+{
+  "source_id": "10981",
+  "name": "Trà vải dưa hấu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1fa7d093d789653b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-vai-dua-hau-va-tra-vai-nha-dam-ngot-lim-thanh-10981",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-vai-dua-hau-va-tra-vai-nha-dam-ngot-lim-thanh-10981",
+  "servings_text": "Cho 1 ly trà vải (tăng thêm nguyên liệu để thêm khẩu phần)",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa hấu 200 gr",
+      "raw_name": "Dưa hấu",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Vải 5 quả",
+      "raw_name": "Vải",
+      "quantity": 5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trà xanh túi lọc 1 gói",
+      "raw_name": "Trà xanh túi lọc",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:02:12Z",
+  "page_title": "2 cách làm trà vải dưa hấu, trà vải nha đam ngọt lịm, thanh mát giải nhiệt",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookRecipe/Avatar/How-to-Make-Watermelon-Lychee-Tea-0-36-screenshot.jpg"
+}

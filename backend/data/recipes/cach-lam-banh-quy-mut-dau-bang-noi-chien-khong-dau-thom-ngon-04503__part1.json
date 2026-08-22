@@ -1,0 +1,69 @@
+{
+  "source_id": "04503",
+  "name": "Bánh quy mứt dâu bằng nồi chiên không dầu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1d3fe32afce275c6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-quy-mut-dau-bang-noi-chien-khong-dau-thom-ngon-04503",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-quy-mut-dau-bang-noi-chien-khong-dau-thom-ngon-04503",
+  "servings_text": "Cho 2 - 3 người ăn",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bơ lạt 115 gr (để mềm ở nhiệt độ phòng)",
+      "raw_name": "Bơ lạt",
+      "quantity": 115,
+      "unit": "gr",
+      "note": "để mềm ở nhiệt độ phòng",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 60 gr (đường bột càng tốt)",
+      "raw_name": "Đường",
+      "quantity": 60,
+      "unit": "gr",
+      "note": "đường bột càng tốt",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột mì đa dụng 130 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 130,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mứt dâu 50 gr",
+      "raw_name": "Mứt dâu",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 1/4 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Chiết xuất va-ni 1 gr",
+      "raw_name": "Chiết xuất va-ni",
+      "quantity": 1,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:20:04Z",
+  "page_title": "Cách làm bánh quy mứt dâu bằng nồi chiên không dầu thơm ngon giòn rụm",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/banh-quy-mut-dau-bang-noi-chien-khong-dau-thumbnail.jpg"
+}

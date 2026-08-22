@@ -1,0 +1,127 @@
+{
+  "source_id": "01848",
+  "name": "Bánh cá taiyaki",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/fc482af4e975c8f1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-ca-nhat-ban-banh-taiyaki-thom-ngon-01848",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-ca-nhat-ban-banh-taiyaki-thom-ngon-01848",
+  "servings_text": "Cho 2 - 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì đa dụng 150 gram (Dành cho phần bột bánh)",
+      "raw_name": "Bột mì đa dụng 150 gram",
+      "quantity": null,
+      "unit": null,
+      "note": "Dành cho phần bột bánh",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối nở Baking soda 1 muỗng cà phê (Dành cho phần bột bánh)",
+      "raw_name": "Muối nở Baking soda",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "Dành cho phần bột bánh",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột nở Baking powder 1 muỗng cà phê (Dành cho phần bột bánh)",
+      "raw_name": "Bột nở Baking powder",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "Dành cho phần bột bánh",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trứng 1 quả (lòng đỏ trứng/Dành cho phần bột bánh)",
+      "raw_name": "Trứng",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "lòng đỏ trứng/Dành cho phần bột bánh",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường trắng 3 muỗng canh (Dành cho phần bột bánh)",
+      "raw_name": "Đường trắng",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": "Dành cho phần bột bánh",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh (Dành cho phần bột bánh)",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "Dành cho phần bột bánh",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đậu đỏ 100 gram (Dành cho phần nhân bánh)",
+      "raw_name": "Đậu đỏ 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": "Dành cho phần nhân bánh",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường trắng 2 muỗng cà phê (Dành cho phần nhân bánh)",
+      "raw_name": "Đường trắng",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": "Dành cho phần nhân bánh",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng cà phê (Dành cho phần nhân bánh)",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": "Dành cho phần nhân bánh",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Trứng 2 quả (lòng đỏ trứng/Dành cho phần nhân kem)",
+      "raw_name": "Trứng",
+      "quantity": 2,
+      "unit": "quả",
+      "note": "lòng đỏ trứng/Dành cho phần nhân kem",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Sữa tươi không đường 200 ml (Dành cho phần nhân kem)",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 200,
+      "unit": "ml",
+      "note": "Dành cho phần nhân kem",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Đường trắng 3 muỗng cà phê (Dành cho phần nhân kem)",
+      "raw_name": "Đường trắng",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": "Dành cho phần nhân kem",
+      "display_order": 12
+    },
+    {
+      "raw_text": "Bột ngô 20 gram (Dành cho phần nhân kem)",
+      "raw_name": "Bột ngô 20 gram",
+      "quantity": null,
+      "unit": null,
+      "note": "Dành cho phần nhân kem",
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T19:11:59Z",
+  "page_title": "Cách làm bánh cá Nhật Bản - Bánh Taiyaki thơm ngon, mềm mịn, đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/03/19/1243178/cach-lam-banh-ca-nhat-ban-banh-taiyaki-thom-ngon-8-760x367.jpg"
+}

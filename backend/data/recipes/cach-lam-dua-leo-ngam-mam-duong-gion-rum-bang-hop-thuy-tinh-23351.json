@@ -1,0 +1,91 @@
+{
+  "source_id": "23351",
+  "name": "Dưa leo ngâm mắm đường",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/cee2144d421ffbed.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dua-leo-ngam-mam-duong-gion-rum-bang-hop-thuy-tinh-23351",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dua-leo-ngam-mam-duong-gion-rum-bang-hop-thuy-tinh-23351",
+  "servings_text": "Cho 2 kg dưa chuột",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa leo chuột 2 kg",
+      "raw_name": "Dưa leo chuột",
+      "quantity": 2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối hạt 150 gr",
+      "raw_name": "Muối hạt",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 250 gr (cho dưa leo ngâm chua ngọt)",
+      "raw_name": "Đường",
+      "quantity": 250,
+      "unit": "gr",
+      "note": "cho dưa leo ngâm chua ngọt",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Giấm ăn 250 ml (cho dưa leo ngâm chua ngọt)",
+      "raw_name": "Giấm ăn",
+      "quantity": 250,
+      "unit": "ml",
+      "note": "cho dưa leo ngâm chua ngọt",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước 1 lít (cho dưa leo ngâm chua ngọt)",
+      "raw_name": "Nước 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": "cho dưa leo ngâm chua ngọt",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 200 gr (cho dưa mắm dưa leo)",
+      "raw_name": "Đường",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "cho dưa mắm dưa leo",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước mắm ngon 2 muỗng canh",
+      "raw_name": "Nước mắm ngon",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước giấm đường 1 chén (50ml giấm: 50g đường: 150ml nước)",
+      "raw_name": "Nước giấm đường",
+      "quantity": 1,
+      "unit": "chén",
+      "note": "50ml giấm: 50g đường: 150ml nước",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (tỏi/ ớt/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "tỏi/ ớt/ bột ngọt",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T20:26:17Z",
+  "page_title": "Cách làm dưa leo ngâm mắm đường giòn rụm bằng hộp thuỷ tinh",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/cach-lam-dua-leo-ngam-mam-duong.jpg"
+}

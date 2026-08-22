@@ -1,0 +1,75 @@
+{
+  "source_id": "23327",
+  "name": "Mắm dưa gang",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7663e146c1f4bd9a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mam-dua-gang-de-ca-nam-van-gion-bang-hop-dung-thuc-23327",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mam-dua-gang-de-ca-nam-van-gion-bang-hop-dung-thuc-23327",
+  "servings_text": "Cho 2 kg dưa gang tươi",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa gang tươi 2 kg",
+      "raw_name": "Dưa gang tươi",
+      "quantity": 2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt 15 quả (tùy độ cay)",
+      "raw_name": "Ớt",
+      "quantity": 15,
+      "unit": "quả",
+      "note": "tùy độ cay",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi to 3 củ",
+      "raw_name": "Tỏi to",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mắm nêm 100 ml",
+      "raw_name": "Mắm nêm",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước mắm 100 ml (hoặc nửa chén ăn cơm)",
+      "raw_name": "Nước mắm",
+      "quantity": 100,
+      "unit": "ml",
+      "note": "hoặc nửa chén ăn cơm",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột ớt Hàn Quốc 1 muỗng canh (tùy chọn)",
+      "raw_name": "Bột ớt Hàn Quốc",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "tùy chọn",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/bột ngọt/muối)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/bột ngọt/muối",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:26:20Z",
+  "page_title": "Cách làm mắm dưa gang để cả năm vẫn giòn bằng hộp đựng thực phẩm Inochi",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/mam-dua-gang.jpg"
+}

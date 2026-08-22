@@ -1,0 +1,117 @@
+{
+  "source_id": "05042",
+  "name": "Mì gà kiểu Hàn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1d7bac5c3dfe6dc6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-nau-mi-ga-thom-ngon-don-gian-de-lam-cho-bua-sang-du-05042",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-nau-mi-ga-thom-ngon-don-gian-de-lam-cho-bua-sang-du-05042",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bí ngòi 1 quả",
+      "raw_name": "Bí ngòi",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt xanh 1 quả",
+      "raw_name": "Ớt xanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Xì dầu 1 muỗng canh",
+      "raw_name": "Xì dầu",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Mì 150 gr",
+      "raw_name": "Mì",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tiêu 1/2 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu mè 1 muỗng cà phê",
+      "raw_name": "Dầu mè",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tép tỏi 100 gr",
+      "raw_name": "Tép tỏi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tỏi băm 1/2 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Bột ớt 1/2 muỗng cà phê",
+      "raw_name": "Bột ớt",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Muối hột 1 ít",
+      "raw_name": "Muối hột",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:07:41Z",
+  "page_title": "3 cách nấu mì gà thơm ngon đơn giản dễ làm cho bữa sáng đủ chất",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookRecipe/Avatar/mi-ga-kieu-han-thumbnail.jpg"
+}

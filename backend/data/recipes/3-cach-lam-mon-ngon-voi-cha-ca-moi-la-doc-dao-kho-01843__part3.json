@@ -1,0 +1,121 @@
+{
+  "source_id": "01843",
+  "name": "Chả cá bọc trứng muối",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/710cac22d2ec2b02.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-mon-ngon-voi-cha-ca-moi-la-doc-dao-kho-01843",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-mon-ngon-voi-cha-ca-moi-la-doc-dao-kho-01843",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt cá thác lác 400 gram",
+      "raw_name": "Thịt cá thác lác 400 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng muối 10 quả (lòng đỏ trứng)",
+      "raw_name": "Trứng muối",
+      "quantity": 10,
+      "unit": "quả",
+      "note": "lòng đỏ trứng",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước cốt me 200 ml",
+      "raw_name": "Nước cốt me",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Thì là 10 gram",
+      "raw_name": "Thì là 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành lá 10 gram",
+      "raw_name": "Hành lá 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 15 gram",
+      "raw_name": "Tỏi 15 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tím 10 gram",
+      "raw_name": "Hành tím 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt bột 1 muỗng canh",
+      "raw_name": "Ớt bột",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (hạt nêm/tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hạt nêm/tiêu",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 200 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Tương cà 2 muỗng canh",
+      "raw_name": "Tương cà",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T17:54:13Z",
+  "page_title": "5 cách làm món ngon với chả cá mới lạ, độc đáo không thể bỏ qua",
+  "variant_index": 3,
+  "variant_count": 5,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/cha-ca-boc-trung-muoi-thumbnail.jpg"
+}

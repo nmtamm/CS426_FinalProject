@@ -1,0 +1,127 @@
+{
+  "source_id": "04417",
+  "name": "Bánh phồng tôm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/cd5944bf466851a9.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-phong-tom-don-gian-thom-ngon-nhu-ngoai-hang-04417",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-phong-tom-don-gian-thom-ngon-nhu-ngoai-hang-04417",
+  "servings_text": "Cho 2",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột năng 300 gr",
+      "raw_name": "Bột năng",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột mì đa dụng 100 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tôm 300 gr",
+      "raw_name": "Tôm",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trứng 4 trái",
+      "raw_name": "Trứng",
+      "quantity": 4,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 20 gr",
+      "raw_name": "Tỏi",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước ấm 500 gr",
+      "raw_name": "Nước ấm",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột nở 5 gr",
+      "raw_name": "Bột nở",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường 40 gr",
+      "raw_name": "Đường",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột ngọt 10 gr",
+      "raw_name": "Bột ngọt",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Muối biển 1 gr",
+      "raw_name": "Muối biển",
+      "quantity": 1,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Hành lá 10 gr",
+      "raw_name": "Hành lá",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Tiêu trắng 15 gr",
+      "raw_name": "Tiêu trắng",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T19:24:47Z",
+  "page_title": "Cách làm bánh phồng tôm đơn giản thơm ngon như ngoài hàng",
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookProduct/1111-1200x676-8.jpg"
+}

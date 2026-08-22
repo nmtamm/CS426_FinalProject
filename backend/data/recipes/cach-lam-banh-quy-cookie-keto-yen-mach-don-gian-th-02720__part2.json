@@ -1,0 +1,81 @@
+{
+  "source_id": "02720",
+  "name": "Bánh cookie yến mạch bằng nồi chiên không dầu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/59193d5eeb742f34.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-quy-cookie-keto-yen-mach-don-gian-th-02720",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-quy-cookie-keto-yen-mach-don-gian-th-02720",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Yến mạch 45 gr",
+      "raw_name": "Yến mạch",
+      "quantity": 45,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bơ lạt 100 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hạnh nhân lát 2 muỗng cà phê",
+      "raw_name": "Hạnh nhân lát",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nho khô 2 muỗng cà phê",
+      "raw_name": "Nho khô",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Mật ong 2 muỗng cà phê",
+      "raw_name": "Mật ong",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Socola chips 2 muỗng cà phê",
+      "raw_name": "Socola chips",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Sữa hạt 2 muỗng canh (tùy loại)",
+      "raw_name": "Sữa hạt",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "tùy loại",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:08:52Z",
+  "page_title": "2 cách làm bánh cookie yến mạch keto giòn ngon thơm lừng cực đơn giản",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookRecipe/Avatar/banh-cookie-yen-mach-bang-noi-chien-khong-dau-thumbnail.jpg"
+}

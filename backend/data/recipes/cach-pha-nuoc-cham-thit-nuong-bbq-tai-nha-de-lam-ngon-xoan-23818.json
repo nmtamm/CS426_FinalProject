@@ -1,0 +1,79 @@
+{
+  "source_id": "23818",
+  "name": "nước chấm thịt nướng BBQ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ce7ad98335d298a4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-nuoc-cham-thit-nuong-bbq-tai-nha-de-lam-ngon-xoan-23818",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-nuoc-cham-thit-nuong-bbq-tai-nha-de-lam-ngon-xoan-23818",
+  "servings_text": "Cho 1 bát lớn nước chấm",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hành khô lớn 1 củ",
+      "raw_name": "Hành khô lớn",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành tây 1/2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi khô 4 tép",
+      "raw_name": "Tỏi khô 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt cay 3 quả (tùy khẩu vị)",
+      "raw_name": "Ớt cay",
+      "quantity": 3,
+      "unit": "quả",
+      "note": "tùy khẩu vị",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Quất 4 quả",
+      "raw_name": "Quất",
+      "quantity": 4,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Chanh 1 quả",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị thông thường 1 ít (dầu ăn/nước mắm/đường nâu/mật ong/dầu hào/dầu mè/tương cà chua/tương ớt/muối trắng/hạt nêm/mì chính/hạt tiêu/bột điều/ ường trắng)",
+      "raw_name": "Gia vị thông thường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "dầu ăn/nước mắm/đường nâu/mật ong/dầu hào/dầu mè/tương cà chua/tương ớt/muối trắng/hạt nêm/mì chính/hạt tiêu/bột điều/ ường trắng",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:25:23Z",
+  "page_title": "Cách pha nước chấm thịt nướng BBQ tại nhà dễ làm ngon xoắn lưỡi",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/dokfwejdsd.jpg"
+}

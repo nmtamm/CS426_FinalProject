@@ -1,0 +1,143 @@
+{
+  "source_id": "15842",
+  "name": "Mì gói xào thịt bò",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7b0d7273db324764.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mi-goi-xao-thit-bo-don-gian-thom-ngon-hap-dan-ai-15842",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mi-goi-xao-thit-bo-don-gian-thom-ngon-hap-dan-ai-15842",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò 350 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 350,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mì gói 4 gói",
+      "raw_name": "Mì gói",
+      "quantity": 4,
+      "unit": "gói",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1/2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cải ngọt 200 gr",
+      "raw_name": "Cải ngọt",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bắp cải 1/2 quả",
+      "raw_name": "Bắp cải",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ngò rí 5 nhánh",
+      "raw_name": "Ngò rí",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tỏi 4 tép (băm nhuyễn)",
+      "raw_name": "Tỏi 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": "băm nhuyễn",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hành tím 1 củ (băm nhuyễn)",
+      "raw_name": "Hành tím",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "băm nhuyễn",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu tỏi phi 2 muỗng canh",
+      "raw_name": "Dầu tỏi phi",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu hào 2 muỗng cà phê",
+      "raw_name": "Dầu hào",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước tương 2 muỗng cà phê",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Tiêu xay/ đường 1 ít",
+      "raw_name": "Tiêu xay/ đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T18:32:28Z",
+  "page_title": "Cách làm mì gói xào thịt bò đơn giản, thơm ngon hấp dẫn ai cũng mê",
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookDish/cach-lam-mi-goi-xao-thit-bo-don-gian-thom-ngon-hap-dan-ai-avt-1200x676.jpg"
+}

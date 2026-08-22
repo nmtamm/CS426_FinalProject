@@ -1,0 +1,145 @@
+{
+  "source_id": "05333",
+  "name": "Chả giò phô mai rau củ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f922394e21db50e5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-cha-gio-pho-mai-tan-chay-beo-thom-hap-dan-don-gian-05333",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-cha-gio-pho-mai-tan-chay-beo-thom-hap-dan-don-gian-05333",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh tráng 10 cái (loại hình vuông)",
+      "raw_name": "Bánh tráng",
+      "quantity": 10,
+      "unit": "cái",
+      "note": "loại hình vuông",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột mì đa dụng 30 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tây 100 gr",
+      "raw_name": "Hành tây",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 50 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bắp cải 50 gr",
+      "raw_name": "Bắp cải",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt chuông 150 gr",
+      "raw_name": "Ớt chuông",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bắp ngọt 50 gr (hạt)",
+      "raw_name": "Bắp ngọt",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "hạt",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Lá thơm 2 muỗng canh (Mixed herb)",
+      "raw_name": "Lá thơm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "Mixed herb",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ớt bột 2 muỗng cà phê",
+      "raw_name": "Ớt bột",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Phô mai cheddar 100 gr",
+      "raw_name": "Phô mai cheddar",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Phô mai mozzarella 100 gr",
+      "raw_name": "Phô mai mozzarella",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Cà phê tiêu 1 muỗng",
+      "raw_name": "Cà phê tiêu",
+      "quantity": 1,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu ăn 20 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Dầu ăn 350 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 350,
+      "unit": "ml",
+      "note": null,
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T19:14:19Z",
+  "page_title": "3 cách làm chả giò phô mai tan chảy béo thơm hấp dẫn đơn giản",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookRecipe/Avatar/cha-gio-pho-mai-rau-cu-thumbnail-1.jpg"
+}

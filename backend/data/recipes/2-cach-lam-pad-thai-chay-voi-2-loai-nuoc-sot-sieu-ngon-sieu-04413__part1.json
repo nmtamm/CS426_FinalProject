@@ -1,0 +1,109 @@
+{
+  "source_id": "04413",
+  "name": "Pad Thái với sốt tương đậu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a9d24b8ca9b719b5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-pad-thai-chay-voi-2-loai-nuoc-sot-sieu-ngon-sieu-04413",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-pad-thai-chay-voi-2-loai-nuoc-sot-sieu-ngon-sieu-04413",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hủ tiếu 400 gr",
+      "raw_name": "Hủ tiếu",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu hũ 300 gr",
+      "raw_name": "Đậu hũ",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Me không hạt 50 gr",
+      "raw_name": "Me không hạt",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hẹ 50 gr",
+      "raw_name": "Hẹ",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nấm hào 200 gr (hoặc nấm bào ngư)",
+      "raw_name": "Nấm hào",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "hoặc nấm bào ngư",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Giá 300 gr",
+      "raw_name": "Giá",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành boa rô 20 gr",
+      "raw_name": "Hành boa rô",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tương đậu nành 3 muỗng canh",
+      "raw_name": "Tương đậu nành",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường thốt nốt 25 gr",
+      "raw_name": "Đường thốt nốt",
+      "quantity": 25,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bột ớt 1 muỗng cà phê",
+      "raw_name": "Bột ớt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đậu phộng rang băm nhỏ 50 gr",
+      "raw_name": "Đậu phộng rang băm nhỏ",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:51:19Z",
+  "page_title": "2 Cách làm pad Thái chay với 2 loại nước sốt siêu ngon siêu hấp dẫn",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/pad-thai-voi-sot-tuong-dau-thumbnail.jpg"
+}

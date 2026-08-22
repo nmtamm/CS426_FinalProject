@@ -1,0 +1,75 @@
+{
+  "source_id": "02661",
+  "name": "Gỏi khế bao tử heo - nộm khế dạ dày lợn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/661c130595a0f46c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-khe-bao-tu-tu-heo-nom-khe-da-day-lo-02661",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-khe-bao-tu-tu-heo-nom-khe-da-day-lo-02661",
+  "servings_text": "Cho 3 - 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bao tử heo 1 cái",
+      "raw_name": "Bao tử heo",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Khế 4 trái",
+      "raw_name": "Khế",
+      "quantity": 4,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tây 1/2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt 2 trái",
+      "raw_name": "Ớt",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị 10 g (nước mắm/muối/hạt nêm/đường/dầu ăn/rượu trắng/giấm)",
+      "raw_name": "Gia vị",
+      "quantity": 10,
+      "unit": "g",
+      "note": "nước mắm/muối/hạt nêm/đường/dầu ăn/rượu trắng/giấm",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T17:55:17Z",
+  "page_title": "Cách làm gỏi khế bao tử heo - nộm khế dạ dày lợn thơm ngon đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/06/02/1260250/cach-lam-goi-khe-bao-tu-tu-heo-nom-khe-da-day-lo-14-760x367.jpg"
+}

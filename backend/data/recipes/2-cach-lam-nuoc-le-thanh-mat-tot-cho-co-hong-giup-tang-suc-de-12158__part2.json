@@ -1,0 +1,61 @@
+{
+  "source_id": "12158",
+  "name": "Nước lê chanh sả",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2de5c11da1cfcde1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-le-thanh-mat-tot-cho-co-hong-giup-tang-suc-de-12158",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-le-thanh-mat-tot-cho-co-hong-giup-tang-suc-de-12158",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lê 1 trái",
+      "raw_name": "Lê",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chanh 2 trái",
+      "raw_name": "Chanh",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sả 4 nhánh",
+      "raw_name": "Sả",
+      "quantity": 4,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 150 gr",
+      "raw_name": "Đường",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:53:07Z",
+  "page_title": "2 cách làm nước lê thanh mát tốt cho cổ họng, giúp tăng sức đề kháng",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/nuoc-le-chanh-sa-thumbnail.jpg"
+}

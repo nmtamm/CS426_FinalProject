@@ -1,0 +1,82 @@
+{
+  "source_id": "06675",
+  "name": "Su hào xào thịt bò",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2f02357ad022172b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-su-hao-xao-bo-don-gian-de-lam-de-an-ai-cung-me-06675",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-su-hao-xao-bo-don-gian-de-lam-de-an-ai-cung-me-06675",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Su hào 1 củ",
+      "raw_name": "Su hào",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt bò 200 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành ngò 1 ít",
+      "raw_name": "Hành ngò",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 4 tép",
+      "raw_name": "Tỏi 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/đường/bột ngọt/hạt nêm/tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/đường/bột ngọt/hạt nêm/tiêu",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:26:07Z",
+  "page_title": "2 cách làm su hào xào bò đơn giản dễ làm dễ ăn ai cũng mê",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "Công thức được chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2022/09/CookRecipe/Avatar/su-hao-xao-thit-bo-cong-thuc-duoc-chia-se-tu-nguoi-dung-thumbnail.jpg"
+}

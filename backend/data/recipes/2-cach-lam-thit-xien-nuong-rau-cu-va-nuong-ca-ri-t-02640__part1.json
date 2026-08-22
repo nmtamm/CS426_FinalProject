@@ -1,0 +1,97 @@
+{
+  "source_id": "02640",
+  "name": "Thịt xiên nướng rau củ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d6bb677b35bdce9e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-thit-xien-nuong-rau-cu-va-nuong-ca-ri-t-02640",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-thit-xien-nuong-rau-cu-va-nuong-ca-ri-t-02640",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò 250 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt heo 250 gr",
+      "raw_name": "Thịt heo",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt chuông 2 quả",
+      "raw_name": "Ớt chuông",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cà rốt 1/2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ngũ vị hương 1/2 muỗng cà phê",
+      "raw_name": "Ngũ vị hương",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu điều 1 muỗng cà phê",
+      "raw_name": "Dầu điều",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ đường/ bột ngọt/ hạt nêm/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ đường/ bột ngọt/ hạt nêm/ tiêu xay",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:29:56Z",
+  "page_title": "3 cách làm thịt xiên nướng thơm ngon bắt vị cho bữa tiệc gia đình cuối tuần",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2022/08/CookRecipe/Avatar/thit-xien-nuong-rau-cu-thumbnail-1.jpg"
+}

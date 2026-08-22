@@ -1,0 +1,41 @@
+{
+  "source_id": "01652",
+  "name": "Nước ép trái nhàu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/53491c8491aa02e2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-trai-nhau-va-xx-luu-y-khi-uong--01652",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-trai-nhau-va-xx-luu-y-khi-uong--01652",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trái nhàu 500 gr",
+      "raw_name": "Trái nhàu",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước lọc 500 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:57:22Z",
+  "page_title": "2 cách làm nước ép trái nhàu ngọt thanh tươi mát giải nhiệt cơ thể",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/nuoc-ep-trai-nhau-thumbnail-1.jpg"
+}

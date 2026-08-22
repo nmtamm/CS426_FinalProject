@@ -1,0 +1,89 @@
+{
+  "source_id": "04399",
+  "name": "Gỏi dưa leo cà rốt giòn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d6949ed187babfcc.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nom-dua-chuot-goi-dua-leo-ca-rot-gion-ngon-don-04399",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nom-dua-chuot-goi-dua-leo-ca-rot-gion-ngon-don-04399",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    },
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa leo 5 quả",
+      "raw_name": "Dưa leo",
+      "quantity": 5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 1 ít (1 khúc nhỏ)",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "1 khúc nhỏ",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 10 gr",
+      "raw_name": "Tỏi",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt 2 trái",
+      "raw_name": "Ớt",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rau quế 1 ít",
+      "raw_name": "Rau quế",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Mè rang 1 ít",
+      "raw_name": "Mè rang",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị 10 gr (hạt nêm/ đường/ muối/ nước mắm...)",
+      "raw_name": "Gia vị",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "hạt nêm/ đường/ muối/ nước mắm...",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T17:58:22Z",
+  "page_title": "3 cách làm nộm dưa chuột - gỏi dưa leo cà rốt giòn ngon, đơn giản",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/goi-dua-leo-ca-rot-gion-thumbnail.jpg"
+}

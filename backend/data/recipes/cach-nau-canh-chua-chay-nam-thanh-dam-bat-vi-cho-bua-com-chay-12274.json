@@ -1,0 +1,115 @@
+{
+  "source_id": "12274",
+  "name": "Canh chua chay nấm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2b82b37cd94c9ade.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-canh-chua-chay-nam-thanh-dam-bat-vi-cho-bua-com-chay-12274",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-canh-chua-chay-nam-thanh-dam-bat-vi-cho-bua-com-chay-12274",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dọc mùng 2 cây (bạc hà)",
+      "raw_name": "Dọc mùng",
+      "quantity": 2,
+      "unit": "cây",
+      "note": "bạc hà",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà chua 3 trái",
+      "raw_name": "Cà chua",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Măng chưa 100 gr",
+      "raw_name": "Măng chưa",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đậu hũ chiên 5 miếng",
+      "raw_name": "Đậu hũ chiên 5 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nấm bào ngư 100 gr",
+      "raw_name": "Nấm bào ngư",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Giá đỗ 80 gr",
+      "raw_name": "Giá đỗ",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Rau ngò om 5 nhánh",
+      "raw_name": "Rau ngò om",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Me chua 1 ít (1 vắt nhỏ)",
+      "raw_name": "Me chua",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "1 vắt nhỏ",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ớt 1 trái",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Hạt nêm chay 2 muỗng cà phê",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ bột ngọt",
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:47:04Z",
+  "page_title": "Cách nấu canh chua chay nấm thanh đạm, bắt vị cho bữa cơm chay",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/thum1200-1200x676-4.jpg"
+}

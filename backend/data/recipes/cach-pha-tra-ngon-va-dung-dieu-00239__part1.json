@@ -1,0 +1,41 @@
+{
+  "source_id": "00239",
+  "name": "Pha trà túi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/37072898aaca4278.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-tra-ngon-va-dung-dieu-00239",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-tra-ngon-va-dung-dieu-00239",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "meo-vao-bep",
+      "name": "Mẹo vào bếp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nước 250 ml",
+      "raw_name": "Nước",
+      "quantity": 250,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trà túi lọc 2 gr (1 túi)",
+      "raw_name": "Trà túi lọc",
+      "quantity": 2,
+      "unit": "gr",
+      "note": "1 túi",
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T20:07:43Z",
+  "page_title": "2 Cách pha trà túi lọc và trà ấm bằng bình đun siêu tốc ngon đúng điệu",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/pha-tra-tui-thumbnail.jpg"
+}

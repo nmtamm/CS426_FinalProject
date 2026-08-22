@@ -1,0 +1,66 @@
+{
+  "source_id": "07154",
+  "name": "Bắp xào bơ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bb2037f2f6781754.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bap-xao-bo-thom-beo-ngon-ngot-cuc-don-gian-07154",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bap-xao-bo-thom-beo-ngon-ngot-cuc-don-gian-07154",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bắp Mỹ 2 trái (ngô ngọt)",
+      "raw_name": "Bắp Mỹ",
+      "quantity": 2,
+      "unit": "trái",
+      "note": "ngô ngọt",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành lá 100 gr",
+      "raw_name": "Hành lá",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bơ thực vật 2 muỗng canh",
+      "raw_name": "Bơ thực vật",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:19:52Z",
+  "page_title": "2 Cách làm bắp xào bơ ngon thơm béo, ngọt bùi cực đơn giản",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "công thức được chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/bap-xao-bo-cong-thuc-duoc-chia-se-tu-nguoi-dung-thumbnail-1.jpg"
+}

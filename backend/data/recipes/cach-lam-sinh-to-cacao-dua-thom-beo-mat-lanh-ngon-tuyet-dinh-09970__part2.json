@@ -1,0 +1,57 @@
+{
+  "source_id": "09970",
+  "name": "Sinh tố ca cao nước cốt dừa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/486ca5f32c73f7fe.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sinh-to-cacao-dua-thom-beo-mat-lanh-ngon-tuyet-dinh-09970",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sinh-to-cacao-dua-thom-beo-mat-lanh-ngon-tuyet-dinh-09970",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    },
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nước cốt dừa 150 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột ca cao nguyên chất 3 gr",
+      "raw_name": "Bột ca cao nguyên chất",
+      "quantity": 3,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đặc 40 ml",
+      "raw_name": "Sữa đặc",
+      "quantity": 40,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đá viên 150 gr",
+      "raw_name": "Đá viên",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:09:47Z",
+  "page_title": "2 Cách làm sinh tố ca cao dừa thơm béo mát lạnh ngon tuyệt đỉnh",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/sinh-to-ca-cao-nuoc-cot-dua-thumbnail.jpg"
+}

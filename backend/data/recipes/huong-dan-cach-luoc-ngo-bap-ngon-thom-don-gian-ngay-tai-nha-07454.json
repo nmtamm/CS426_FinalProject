@@ -1,0 +1,35 @@
+{
+  "source_id": "07454",
+  "name": "Ngô (bắp) luộc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9f59f3b40ddd251e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-cach-luoc-ngo-bap-ngon-thom-don-gian-ngay-tai-nha-07454",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-cach-luoc-ngo-bap-ngon-thom-don-gian-ngay-tai-nha-07454",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ngô ngọt 5 trái (bắp Mỹ)",
+      "raw_name": "Ngô ngọt",
+      "quantity": 5,
+      "unit": "trái",
+      "note": "bắp Mỹ",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối 1/3 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.333,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:22:12Z",
+  "page_title": "Hướng dẫn cách luộc ngô (bắp) ngon, thơm, đơn giản ngay tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookProduct/Huong-dan-cach-luoc-ngo-bap-ngon-thom-don-gian-ngay-tai-nha-1-1200x676.jpg"
+}

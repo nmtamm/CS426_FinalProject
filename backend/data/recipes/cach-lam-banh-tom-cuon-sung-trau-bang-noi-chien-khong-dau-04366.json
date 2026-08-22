@@ -1,0 +1,55 @@
+{
+  "source_id": "04366",
+  "name": "Bánh tôm cuộn sừng trâu bằng nồi chiên không dầu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e1545225381772dc.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-tom-cuon-sung-trau-bang-noi-chien-khong-dau-04366",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-tom-cuon-sung-trau-bang-noi-chien-khong-dau-04366",
+  "servings_text": "Cho 16 cái bánh",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột cresent roll 220 g (1 hộp)",
+      "raw_name": "Bột cresent roll",
+      "quantity": 220,
+      "unit": "g",
+      "note": "1 hộp",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tôm lớn 16 con",
+      "raw_name": "Tôm lớn 16 con",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Măng tây 16 cây",
+      "raw_name": "Măng tây",
+      "quantity": 16,
+      "unit": "cây",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lòng đỏ trứng gà 1 cái",
+      "raw_name": "Lòng đỏ trứng gà",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:38:28Z",
+  "page_title": "Cách làm bánh tôm cuộn sừng trâu bằng nồi chiên không dầu thơm ngon",
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookProduct/1260-1200x676-49.jpg"
+}

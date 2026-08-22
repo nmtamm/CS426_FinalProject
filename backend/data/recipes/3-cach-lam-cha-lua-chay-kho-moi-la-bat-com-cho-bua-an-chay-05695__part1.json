@@ -1,0 +1,129 @@
+{
+  "source_id": "05695",
+  "name": "Chả lụa chay kho nấm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c767c3b718091cbe.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-cha-lua-chay-kho-moi-la-bat-com-cho-bua-an-chay-05695",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-cha-lua-chay-kho-moi-la-bat-com-cho-bua-an-chay-05695",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-kho",
+      "name": "Món kho"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chả lụa chay 500 gr",
+      "raw_name": "Chả lụa chay",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm đông cô khô 20 gr",
+      "raw_name": "Nấm đông cô khô",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành lá 1 ít",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt 1 ít (cắt lát)",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "cắt lát",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Boa rô băm 1 muỗng canh (Tỏi tây)",
+      "raw_name": "Boa rô băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "Tỏi tây",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước tương 2 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước mắm chay 1 muỗng canh",
+      "raw_name": "Nước mắm chay",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu hào chay 1 muỗng canh",
+      "raw_name": "Dầu hào chay",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột ớt 1/2 muỗng cà phê",
+      "raw_name": "Bột ớt",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Ngũ vị hương 1/4 muỗng cà phê",
+      "raw_name": "Ngũ vị hương",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Hạt nêm chay 1/2 muỗng canh",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Tiêu/Đường 1 ít",
+      "raw_name": "Tiêu/Đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T18:42:27Z",
+  "page_title": "3 cách làm chả lụa chay kho nấm, kho tiêu và kho thơm đơn giản dễ làm",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookRecipe/Avatar/cha-lua-chay-kho-nam-thumbnail.jpg"
+}

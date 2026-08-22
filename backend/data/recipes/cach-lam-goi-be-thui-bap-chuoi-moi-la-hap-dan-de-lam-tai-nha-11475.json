@@ -1,0 +1,123 @@
+{
+  "source_id": "11475",
+  "name": "Gỏi bê thui bắp chuối",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/abb25c5aab31d26e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-be-thui-bap-chuoi-moi-la-hap-dan-de-lam-tai-nha-11475",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-be-thui-bap-chuoi-moi-la-hap-dan-de-lam-tai-nha-11475",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hoa chuối 200 gr",
+      "raw_name": "Hoa chuối",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt bê thui 300 gr",
+      "raw_name": "Thịt bê thui",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 150 gr (1/2 củ)",
+      "raw_name": "Cà rốt",
+      "quantity": 150,
+      "unit": "gr",
+      "note": "1/2 củ",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ngò ôm 3 nhánh",
+      "raw_name": "Ngò ôm",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ngò rí 3 nhánh",
+      "raw_name": "Ngò rí",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt hiểm 2 trái",
+      "raw_name": "Ớt hiểm",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi băm 2 muỗng cà phê",
+      "raw_name": "Tỏi băm",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu hào 1/4 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 0.25,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước cốt chanh 3 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước tương 1/4 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 0.25,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Hạt nêm/ Muối/ Đường/ Bột ngọt/ Tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Hạt nêm/ Muối/ Đường/ Bột ngọt/ Tiêu xay",
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T17:51:23Z",
+  "page_title": "Cách làm gỏi bê thui bắp chuối mới lạ hấp dẫn dễ làm tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookProduct/gbt-1200x676.jpg"
+}

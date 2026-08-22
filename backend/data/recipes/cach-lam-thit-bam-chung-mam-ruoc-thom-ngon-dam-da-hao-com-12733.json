@@ -1,0 +1,75 @@
+{
+  "source_id": "12733",
+  "name": "Thịt băm chưng mắm ruốc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/dac64d4b9b1d16bc.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-bam-chung-mam-ruoc-thom-ngon-dam-da-hao-com-12733",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-bam-chung-mam-ruoc-thom-ngon-dam-da-hao-com-12733",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt heo băm 1 kg",
+      "raw_name": "Thịt heo băm",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mỡ heo 400 gr",
+      "raw_name": "Mỡ heo",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mắm ruốc 120 gr",
+      "raw_name": "Mắm ruốc",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Riềng 1 củ",
+      "raw_name": "Riềng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sả 5 nhánh",
+      "raw_name": "Sả",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 11 muỗng canh (khoảng 110gr)",
+      "raw_name": "Đường",
+      "quantity": 11,
+      "unit": "muỗng canh",
+      "note": "khoảng 110gr",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hạt nêm 3 muỗng canh",
+      "raw_name": "Hạt nêm",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:26:46Z",
+  "page_title": "Cách làm thịt băm chưng mắm ruốc thơm ngon đậm đà hao cơm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/1200-1200x676-72.jpg"
+}

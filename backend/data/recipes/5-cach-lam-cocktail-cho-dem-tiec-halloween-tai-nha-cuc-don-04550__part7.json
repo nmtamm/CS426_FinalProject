@@ -1,0 +1,85 @@
+{
+  "source_id": "04550",
+  "name": "Coctail Bloody Mary",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/141e3cdebcac6d28.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/5-cach-lam-cocktail-cho-dem-tiec-halloween-tai-nha-cuc-don-04550",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/5-cach-lam-cocktail-cho-dem-tiec-halloween-tai-nha-cuc-don-04550",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rượu Vodka 60 ml",
+      "raw_name": "Rượu Vodka",
+      "quantity": 60,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước ép cà chua 100 ml",
+      "raw_name": "Nước ép cà chua",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối cần tây 1 muỗng canh",
+      "raw_name": "Muối cần tây",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chanh 1 quả",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sốt Worcestershire 5 ml",
+      "raw_name": "Sốt Worcestershire",
+      "quantity": 5,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sốt ớt đỏ Tabasco 3 ml",
+      "raw_name": "Sốt ớt đỏ Tabasco",
+      "quantity": 3,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối/ tiêu xay 1 ít",
+      "raw_name": "Muối/ tiêu xay",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Cần tây 1 nhánh (trang trí)",
+      "raw_name": "Cần tây",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": "trang trí",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:03:42Z",
+  "page_title": "7 cách làm cocktail cho đêm tiệc Halloween tại nhà cực đơn giản",
+  "variant_index": 7,
+  "variant_count": 7,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/cocktail-bloody-mary-dam-mau-do-ruc-thumbnail.jpg"
+}

@@ -1,0 +1,65 @@
+{
+  "source_id": "04420",
+  "name": "Sinh tố dưa lưới cải xoăn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/24e0605d61733dfa.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sinh-to-cai-xoan-don-gian-giup-dep-da-giam-can-tai-04420",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sinh-to-cai-xoan-don-gian-giup-dep-da-giam-can-tai-04420",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cải xoăn 200 gr",
+      "raw_name": "Cải xoăn",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dưa lưới 1/2 trái",
+      "raw_name": "Dưa lưới",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dưa leo 2 trái",
+      "raw_name": "Dưa leo",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cam 2 trái",
+      "raw_name": "Cam",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Mật ong 1 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:57:44Z",
+  "page_title": "3 cách làm sinh tố cải xoăn đơn giản, giúp đẹp da, giảm cân tại nhà",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/sinh-to-dua-luoi-cai-xoan-thumbnail.jpg"
+}

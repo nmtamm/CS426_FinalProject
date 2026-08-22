@@ -1,0 +1,45 @@
+{
+  "source_id": "02068",
+  "name": "Cơm chiên muối ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/613947ae3f65fa80.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-com-chien-chay-voi-sa-muoi-ot-don-gian-thom-ngon-02068",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-com-chien-chay-voi-sa-muoi-ot-don-gian-thom-ngon-02068",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cơm trắng 2 chén",
+      "raw_name": "Cơm trắng",
+      "quantity": 2,
+      "unit": "chén",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt xiêm xanh 3 trái",
+      "raw_name": "Ớt xiêm xanh",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gia vị 10 gram (hạt nêm/nước tương/muối)",
+      "raw_name": "Gia vị 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": "hạt nêm/nước tương/muối",
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T18:39:42Z",
+  "page_title": "2 cách làm cơm chiên chay với sả và muối ớt đơn giản thơm ngon lạ miệng",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/com-chien-muoi-ot-thumbnail.jpg"
+}

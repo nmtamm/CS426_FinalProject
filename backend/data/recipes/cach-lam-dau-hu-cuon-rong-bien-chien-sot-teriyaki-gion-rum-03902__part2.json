@@ -1,0 +1,81 @@
+{
+  "source_id": "03902",
+  "name": "Đậu hũ cuộn rong biển chiên sốt teriyaki",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/637288b05b856210.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-hu-cuon-rong-bien-chien-sot-teriyaki-gion-rum-03902",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-hu-cuon-rong-bien-chien-sot-teriyaki-gion-rum-03902",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu hũ 200 gr",
+      "raw_name": "Đậu hũ",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lá rong biển 100 gr",
+      "raw_name": "Lá rong biển",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột tempura 100 gr",
+      "raw_name": "Bột tempura",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sốt teriyaki 100 ml",
+      "raw_name": "Sốt teriyaki",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 200 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước 10 ml",
+      "raw_name": "Nước",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 15 gr",
+      "raw_name": "Đường",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:14:23Z",
+  "page_title": "Cách làm đậu hũ cuộn rong biển chiên sốt teriyaki giòn rụm, hấp dẫn",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookRecipe/Avatar/dau-hu-cuon-rong-bien-chien-sot-teriyaki-thumbnail.jpg"
+}

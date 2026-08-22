@@ -1,0 +1,87 @@
+{
+  "source_id": "08039",
+  "name": "Chè đu đủ tiềm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f2f880819aea5bf4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-che-du-du-tiem-cua-nguoi-hoa-vua-thanh-mat-vua-bo-08039",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-che-du-du-tiem-cua-nguoi-hoa-vua-thanh-mat-vua-bo-08039",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-che",
+      "name": "Món chè"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đu đủ 1 quả",
+      "raw_name": "Đu đủ",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu xanh 50 gr",
+      "raw_name": "Đậu xanh",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nấm tuyết 1/2 cây",
+      "raw_name": "Nấm tuyết",
+      "quantity": 0.5,
+      "unit": "cây",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Kỷ tử 15 gr",
+      "raw_name": "Kỷ tử",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Táo tàu đen 4 trái",
+      "raw_name": "Táo tàu đen",
+      "quantity": 4,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Táo tàu đỏ 4 trái",
+      "raw_name": "Táo tàu đỏ",
+      "quantity": 4,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Lá dứa 5 lá",
+      "raw_name": "Lá dứa",
+      "quantity": 5,
+      "unit": "lá",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường phèn 100 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:13:51Z",
+  "page_title": "Cách nấu chè đu đủ tiềm của người Hoa, vừa thanh mát vừa bổ dưỡng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/1200-1200x676-18.jpg"
+}

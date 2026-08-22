@@ -1,0 +1,119 @@
+{
+  "source_id": "03982",
+  "name": "Chả giò cá",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e4c35b9c4fc786d5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-gio-ca-vang-ruom-gion-tan-don-gian-de-lam-tai-03982",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-gio-ca-vang-ruom-gion-tan-don-gian-de-lam-tai-03982",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Phi lê cá 670 gram (cá lóc; cá basa; cá trích;..)",
+      "raw_name": "Phi lê cá 670 gram",
+      "quantity": null,
+      "unit": null,
+      "note": "cá lóc; cá basa; cá trích;..",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt heo 350 gr",
+      "raw_name": "Thịt heo",
+      "quantity": 350,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nấm mèo 20 gram",
+      "raw_name": "Nấm mèo 20 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Thì là 24 gram",
+      "raw_name": "Thì là 24 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tím 110 gram",
+      "raw_name": "Hành tím 110 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Cà rốt 24 gram",
+      "raw_name": "Cà rốt 24 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành lá 24 gram",
+      "raw_name": "Hành lá 24 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hạt nêm 2/3 muỗng canh",
+      "raw_name": "Hạt nêm",
+      "quantity": 0.667,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường 2/3 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 0.667,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bột ngọt 1/2 muỗng cà phê",
+      "raw_name": "Bột ngọt",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Bánh tráng 60 cái (bánh đa nem hoặc bánh rế đều được)",
+      "raw_name": "Bánh tráng",
+      "quantity": 60,
+      "unit": "cái",
+      "note": "bánh đa nem hoặc bánh rế đều được",
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T20:34:57Z",
+  "page_title": "Cách làm chả giò cá vàng rượm giòn tan đơn giản dễ làm tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookProduct/thumbcn-1200x676-17.jpg"
+}

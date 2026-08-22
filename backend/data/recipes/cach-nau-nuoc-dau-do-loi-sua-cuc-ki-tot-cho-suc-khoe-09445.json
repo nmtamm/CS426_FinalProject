@@ -1,0 +1,35 @@
+{
+  "source_id": "09445",
+  "name": "Nước đậu đỏ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/db8d4aecd67047f8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-nuoc-dau-do-loi-sua-cuc-ki-tot-cho-suc-khoe-09445",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-nuoc-dau-do-loi-sua-cuc-ki-tot-cho-suc-khoe-09445",
+  "servings_text": "Cho 1 lít",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hạt đậu đỏ khô 500 gr",
+      "raw_name": "Hạt đậu đỏ khô",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:57:11Z",
+  "page_title": "Cách nấu nước đậu đỏ lợi sữa, cực kì tốt cho sức khỏe",
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookProduct/thum-1-1200x676-8.jpg"
+}

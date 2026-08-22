@@ -1,0 +1,83 @@
+{
+  "source_id": "23596",
+  "name": "Tiết canh ngan",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bcd9388ca349d80a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-danh-tiet-canh-ngan-dong-chac-nhu-thach-sieu-don-gian-23596",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-danh-tiet-canh-ngan-dong-chac-nhu-thach-sieu-don-gian-23596",
+  "servings_text": "Cho 4-6 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ngan 1 con (khoảng 2-3kg)",
+      "raw_name": "Ngan 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 2-3kg",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lòng ngan 1 cái",
+      "raw_name": "Lòng ngan",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành khô 2 củ",
+      "raw_name": "Hành khô",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rau thơm 1 ít (rau mùi/rau ngổ/rau răm/rau mùi tàu)",
+      "raw_name": "Rau thơm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "rau mùi/rau ngổ/rau răm/rau mùi tàu",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lạc rang 50 gr",
+      "raw_name": "Lạc rang",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước sôi để nguội 1/2 bát",
+      "raw_name": "Nước sôi để nguội",
+      "quantity": 0.5,
+      "unit": "bát",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Chanh 1/2 quả",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (nước mắm/mì chính/hạt tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "nước mắm/mì chính/hạt tiêu",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T17:51:01Z",
+  "page_title": "Cách đánh tiết canh ngan đông chắc như thạch siêu đơn giản",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/kkkhsss.jpg"
+}

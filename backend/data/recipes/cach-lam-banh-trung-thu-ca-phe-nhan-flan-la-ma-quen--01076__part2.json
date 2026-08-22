@@ -1,0 +1,89 @@
+{
+  "source_id": "01076",
+  "name": "Bánh Trung Thu rau câu socola nhân bánh flan",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/37067905ce2291f4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-ca-phe-nhan-flan-la-ma-quen--01076",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-ca-phe-nhan-flan-la-ma-quen--01076",
+  "servings_text": "Cho 10 cái",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột rau câu dẻo 10 gr",
+      "raw_name": "Bột rau câu dẻo",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột rau câu giòn 25 gr",
+      "raw_name": "Bột rau câu giòn",
+      "quantity": 25,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ca cao 10 gr",
+      "raw_name": "Ca cao",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bánh flan 10 cái",
+      "raw_name": "Bánh flan",
+      "quantity": 10,
+      "unit": "cái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 250 gr",
+      "raw_name": "Đường",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước lọc 2.5 lít",
+      "raw_name": "Nước lọc 2.5 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước sôi 20 ml",
+      "raw_name": "Nước sôi",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước cốt dừa 100 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:22:04Z",
+  "page_title": "4 cách làm bánh Trung Thu rau câu nhân bánh flan mát lạnh núng nính đẹp mắt",
+  "variant_index": 2,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2022/08/CookRecipe/Avatar/banh-trung-thu-rau-cau-socola-nhan-banh-flan-thumbnail.jpg"
+}

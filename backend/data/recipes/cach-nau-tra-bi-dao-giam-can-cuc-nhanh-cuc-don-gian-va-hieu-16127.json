@@ -1,0 +1,91 @@
+{
+  "source_id": "16127",
+  "name": "Trà bí đao",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a8f94e4f1ed66481.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-tra-bi-dao-giam-can-cuc-nhanh-cuc-don-gian-va-hieu-16127",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-tra-bi-dao-giam-can-cuc-nhanh-cuc-don-gian-va-hieu-16127",
+  "servings_text": "Cho 4 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bí đao 1 quả",
+      "raw_name": "Bí đao",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "La hán quả 1 quả",
+      "raw_name": "La hán quả",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Táo đỏ 100 gr (táo tàu)",
+      "raw_name": "Táo đỏ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "táo tàu",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Long nhãn 50 gr (nhãn nhục)",
+      "raw_name": "Long nhãn",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "nhãn nhục",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lá dứa 50 gr (lá nếp)",
+      "raw_name": "Lá dứa",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "lá nếp",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Mía nướng 1 ít (1 khúc)",
+      "raw_name": "Mía nướng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "1 khúc",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường phèn 150 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 1/3 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 0.333,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước lọc 3.5 lít",
+      "raw_name": "Nước lọc 3.5 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:54:49Z",
+  "page_title": "Cách nấu trà bí đao giảm cân cực nhanh cực đơn giản và hiệu quả",
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookDish/cach-nau-tra-bi-dao-giam-can-cuc-nhanh-cuc-don-gian-va-hieu-avt-1200x676.jpg"
+}

@@ -1,0 +1,107 @@
+{
+  "source_id": "06174",
+  "name": "Lạp xưởng bi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7a30ca1eac563a4e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-lap-xuong-bi-nho-xinh-thom-ngon-don-gian-cho-ngay-06174",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-lap-xuong-bi-nho-xinh-thom-ngon-don-gian-cho-ngay-06174",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt nạc heo 800 gr",
+      "raw_name": "Thịt nạc heo",
+      "quantity": 800,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mỡ heo 200 gr",
+      "raw_name": "Mỡ heo",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ruột heo muối 100 gr (2m)",
+      "raw_name": "Ruột heo muối",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "2m",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 50 gr",
+      "raw_name": "Tỏi",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tím 50 gr",
+      "raw_name": "Hành tím",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rượu ấp xanh 1 ống",
+      "raw_name": "Rượu ấp xanh 1 ống",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Rượu mai quế lộ 3 muỗng canh",
+      "raw_name": "Rượu mai quế lộ",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Rượu trắng 6 muỗng canh",
+      "raw_name": "Rượu trắng",
+      "quantity": 6,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường 150 gr",
+      "raw_name": "Đường",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tiêu đen 1/2 muỗng (hạt)",
+      "raw_name": "Tiêu đen",
+      "quantity": 0.5,
+      "unit": "muỗng",
+      "note": "hạt",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ hạt nêm/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ hạt nêm/ tiêu xay",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T19:38:10Z",
+  "page_title": "Cách làm lạp xưởng bi nhỏ xinh thơm ngon đơn giản cho ngày Tết",
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookProduct/thum-1200x676-16.jpg"
+}

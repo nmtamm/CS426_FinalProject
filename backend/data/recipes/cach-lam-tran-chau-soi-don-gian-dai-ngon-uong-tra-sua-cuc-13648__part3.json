@@ -1,0 +1,53 @@
+{
+  "source_id": "13648",
+  "name": "Trân châu sợi vị trà thái",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c2fd3c0242ac86b5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tran-chau-soi-don-gian-dai-ngon-uong-tra-sua-cuc-13648",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tran-chau-soi-don-gian-dai-ngon-uong-tra-sua-cuc-13648",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột năng 2 muỗng canh",
+      "raw_name": "Bột năng",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trà thái xanh 1 muỗng canh",
+      "raw_name": "Trà thái xanh",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước 600 ml",
+      "raw_name": "Nước",
+      "quantity": 600,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:10:08Z",
+  "page_title": "3 cách làm trân châu sợi bằng bột năng đơn giản dai ngon uống trà sữa",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/tran-chau-soi-vi-tra-thai-thumbnail.jpg"
+}

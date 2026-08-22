@@ -1,0 +1,63 @@
+{
+  "source_id": "10763",
+  "name": "Bánh tráng giấy",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1ae45f9db5c1491a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trang-giay-mong-gion-thom-ngon-don-gian-de-goi-10763",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trang-giay-mong-gion-thom-ngon-don-gian-de-goi-10763",
+  "servings_text": "Cho 10 cái",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột năng 100 gr",
+      "raw_name": "Bột năng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột nổi 2 gr (bột nở khoảng 1/4 muỗng cà phê)",
+      "raw_name": "Bột nổi",
+      "quantity": 2,
+      "unit": "gr",
+      "note": "bột nở khoảng 1/4 muỗng cà phê",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành lá 3 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường/ muối 1 ít",
+      "raw_name": "Đường/ muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:04:37Z",
+  "page_title": "Cách làm bánh tráng giấy mỏng giòn thơm ngon đơn giản để gói xôi",
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookProduct/a1200-1200x676.jpg"
+}

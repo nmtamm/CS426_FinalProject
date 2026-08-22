@@ -1,0 +1,59 @@
+{
+  "source_id": "08824",
+  "name": "Chao khoai môn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a223e93a7ba807a6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-canh-ngo-mon-tom-thit-thanh-mat-la-mieng-doi-vi-cho-08824",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-canh-ngo-mon-tom-thit-thanh-mat-la-mieng-doi-vi-cho-08824",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai môn 300 gram",
+      "raw_name": "Khoai môn 300 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu hũ trắng 2 miếng",
+      "raw_name": "Đậu hũ trắng 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rượu gạo độ 80 25 ml (hoặc rượu nếp)",
+      "raw_name": "Rượu gạo độ 80",
+      "quantity": 25,
+      "unit": "ml",
+      "note": "hoặc rượu nếp",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt bột 2.5 muỗng canh",
+      "raw_name": "Ớt bột",
+      "quantity": 2.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 2 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T18:47:15Z",
+  "page_title": "Cách làm chao khoai môn béo thơm đậm vị an toàn chất lượng cho cả nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookProduct/CachlamCHAOKHOAIMONbeongaythomngonsieudelamThienfamily0-7screenshot(1)-1200x676.jpg"
+}

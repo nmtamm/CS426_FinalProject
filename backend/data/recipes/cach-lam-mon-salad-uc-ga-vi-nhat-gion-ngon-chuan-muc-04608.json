@@ -1,0 +1,131 @@
+{
+  "source_id": "04608",
+  "name": "Salad ức gà vị Nhật",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2ac8c1f5d0370118.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-salad-uc-ga-vi-nhat-gion-ngon-chuan-muc-04608",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-salad-uc-ga-vi-nhat-gion-ngon-chuan-muc-04608",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ức gà 200 gr",
+      "raw_name": "Ức gà",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xà lách lolo xanh 50 gr",
+      "raw_name": "Xà lách lolo xanh",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Xà lách lolo tím 50 gr",
+      "raw_name": "Xà lách lolo tím",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Xà lách frise 50 gr",
+      "raw_name": "Xà lách frise",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tây tím 30 gr",
+      "raw_name": "Hành tây tím",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đậu đỏ 30 gr",
+      "raw_name": "Đậu đỏ",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hạt bắp Mỹ 30 gr",
+      "raw_name": "Hạt bắp Mỹ",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Củ cải đỏ 30 gr",
+      "raw_name": "Củ cải đỏ",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Mè rang 5 gr",
+      "raw_name": "Mè rang",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ô liu 1 muỗng canh",
+      "raw_name": "Dầu ô liu",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị nướng Nhật Yakiniku Barona 40 ml",
+      "raw_name": "Gia vị nướng Nhật Yakiniku Barona",
+      "quantity": 40,
+      "unit": "ml",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước 15 ml",
+      "raw_name": "Nước",
+      "quantity": 15,
+      "unit": "ml",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước cốt chanh vàng 10 ml",
+      "raw_name": "Nước cốt chanh vàng",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Mè rang 1 muỗng cà phê",
+      "raw_name": "Mè rang",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T17:56:41Z",
+  "page_title": "Cách làm món salad ức gà vị Nhật giòn ngon chuẩn mực",
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookProduct/cach-lam-mon-salad-uc-ga-vi-nhat-gion-ngon-chuan-m-7-730x350.jpg"
+}

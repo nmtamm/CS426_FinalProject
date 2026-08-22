@@ -1,0 +1,95 @@
+{
+  "source_id": "00861",
+  "name": "Salad bắp cải",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/877f6ef321d86ced.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/giam-can-sau-tet-voi-mon-salad-bap-cai-gion-ngon-dung-dieu-00861",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/giam-can-sau-tet-voi-mon-salad-bap-cai-gion-ngon-dung-dieu-00861",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bắp cải 300 gr",
+      "raw_name": "Bắp cải",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Táo 1 quả",
+      "raw_name": "Táo",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dưa chuột 1 quả",
+      "raw_name": "Dưa chuột",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Thanh cua 100 gr",
+      "raw_name": "Thanh cua",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đậu phộng rang thơm 1 muỗng canh",
+      "raw_name": "Đậu phộng rang thơm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Mù tạt 1 muỗng cà phê",
+      "raw_name": "Mù tạt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muõn cà phê mật ong 1 g",
+      "raw_name": "Muõn cà phê mật ong",
+      "quantity": 1,
+      "unit": "g",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Mayonnaise 1 muỗng cà phê",
+      "raw_name": "Mayonnaise",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T17:55:47Z",
+  "page_title": "Giảm cân sau Tết với món salad bắp cải giòn ngon đúng điệu",
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookProduct/image-1200x676.jpg"
+}

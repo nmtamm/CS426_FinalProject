@@ -1,0 +1,63 @@
+{
+  "source_id": "07413",
+  "name": "Mùng chua Nghệ An",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/26a5e9ea49f492bd.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-muoi-mung-chua-nghe-an-vang-gion-thom-ngon-don-gian-tai-07413",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-muoi-mung-chua-nghe-an-vang-gion-thom-ngon-don-gian-tai-07413",
+  "servings_text": "Cho 8 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    },
+    {
+      "slug": "meo-vao-bep",
+      "name": "Mẹo vào bếp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dọc mùng 1 kg (mùng)",
+      "raw_name": "Dọc mùng",
+      "quantity": 1,
+      "unit": "kg",
+      "note": "mùng",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước vo gạo 2 lít",
+      "raw_name": "Nước vo gạo 2 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường nâu 1 muỗng canh",
+      "raw_name": "Đường nâu",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1.5 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối hột 1 muỗng canh",
+      "raw_name": "Muối hột",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:31:27Z",
+  "page_title": "Cách muối mùng chua Nghệ An vàng giòn thơm ngon đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookProduct/muoimungchuanghean-1200x676.jpg"
+}

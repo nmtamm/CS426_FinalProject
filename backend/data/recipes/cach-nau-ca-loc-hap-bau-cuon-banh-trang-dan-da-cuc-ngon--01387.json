@@ -1,0 +1,103 @@
+{
+  "source_id": "01387",
+  "name": "Cá lóc hấp bầu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/355e767a0e69b645.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-ca-loc-hap-bau-cuon-banh-trang-dan-da-cuc-ngon--01387",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-ca-loc-hap-bau-cuon-banh-trang-dan-da-cuc-ngon--01387",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cá lóc 1 con (600g)",
+      "raw_name": "Cá lóc 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": "600g",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bầu non 1 trái (300g)",
+      "raw_name": "Bầu non",
+      "quantity": 1,
+      "unit": "trái",
+      "note": "300g",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành khô 10 g",
+      "raw_name": "Hành khô",
+      "quantity": 10,
+      "unit": "g",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 3 củ",
+      "raw_name": "Tỏi",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt 2 trái",
+      "raw_name": "Ớt",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Rau mùi tàu 10 g",
+      "raw_name": "Rau mùi tàu",
+      "quantity": 10,
+      "unit": "g",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đậu phộng 10 g",
+      "raw_name": "Đậu phộng",
+      "quantity": 10,
+      "unit": "g",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hành 10 g",
+      "raw_name": "Hành",
+      "quantity": 10,
+      "unit": "g",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T20:38:52Z",
+  "page_title": "Hướng dẫn nấu cá lóc hấp bầu cuốn bánh tráng dân dã cực ngon",
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookProduct/1200cn-1200x676.jpg"
+}

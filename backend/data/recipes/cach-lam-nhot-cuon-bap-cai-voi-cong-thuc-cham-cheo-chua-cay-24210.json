@@ -1,0 +1,111 @@
+{
+  "source_id": "24210",
+  "name": "nhót cuốn bắp cải",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1680f10a4db40737.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nhot-cuon-bap-cai-voi-cong-thuc-cham-cheo-chua-cay-24210",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nhot-cuon-bap-cai-voi-cong-thuc-cham-cheo-chua-cay-24210",
+  "servings_text": "Cho 2-3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nhót 300 gr (quả xanh non)",
+      "raw_name": "Nhót",
+      "quantity": 300,
+      "unit": "gr",
+      "note": "quả xanh non",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bắp cải 1/2 cái",
+      "raw_name": "Bắp cải",
+      "quantity": 0.5,
+      "unit": "cái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu 1 củ",
+      "raw_name": "Đậu",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng tươi 1 củ",
+      "raw_name": "Gừng tươi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lá tỏi tươi 1 bó",
+      "raw_name": "Lá tỏi tươi 1 bó",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rau mùi 1 bó",
+      "raw_name": "Rau mùi 1 bó",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hạt mắc khén 1 muỗng canh",
+      "raw_name": "Hạt mắc khén",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tỏi 2 tép",
+      "raw_name": "Tỏi 2 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ớt tươi 1 trái",
+      "raw_name": "Ớt tươi",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Đường/ nước mắm/ muối)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Đường/ nước mắm/ muối",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:52:57Z",
+  "page_title": "Cách làm nhót cuốn bắp cải với công thức chẩm chéo chua cay đỉnh cao",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/nh%C3%B3t%20cu%E1%BB%91n%20b%E1%BA%AFp%20c%E1%BA%A3i%201200x676.jpg"
+}

@@ -1,0 +1,69 @@
+{
+  "source_id": "13108",
+  "name": "Soda siro việt quất",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/914825edd549942d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cac-cach-lam-soda-viet-quat-chua-ngot-mat-lanh-khuay-dong-13108",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cac-cach-lam-soda-viet-quat-chua-ngot-mat-lanh-khuay-dong-13108",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Siro việt quất 25 ml",
+      "raw_name": "Siro việt quất",
+      "quantity": 25,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước soda không đường 200 ml",
+      "raw_name": "Nước soda không đường",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chanh 1/2 trái",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lá bạc hà 1 ít",
+      "raw_name": "Lá bạc hà",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước đường 30 ml",
+      "raw_name": "Nước đường",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:05:11Z",
+  "page_title": "3 cách làm soda việt quất - blueberry soda chua ngọt mát lạnh ngày hè",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/soda-siro-viet-quat-thumbnail.jpg"
+}

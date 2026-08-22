@@ -1,0 +1,231 @@
+{
+  "source_id": "05597",
+  "name": "Cơm gà biryani",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/fabac0c86303d3cb.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-com-ga-biryani-chuan-vi-an-do-don-gian-an-la-ghien-05597",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-com-ga-biryani-chuan-vi-an-do-don-gian-an-la-ghien-05597",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt gà đã bỏ da 300 gram",
+      "raw_name": "Thịt gà đã bỏ da 300 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gạo Basmati Ấn Độ 300 gr (loại hạt dài)",
+      "raw_name": "Gạo Basmati Ấn Độ",
+      "quantity": 300,
+      "unit": "gr",
+      "note": "loại hạt dài",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng luộc 4 quả",
+      "raw_name": "Trứng luộc",
+      "quantity": 4,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tây 1 củ (hoặc thay bằng hành tím khoảng 3 - 4 củ)",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "hoặc thay bằng hành tím khoảng 3 - 4 củ",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cà chua 1 quả",
+      "raw_name": "Cà chua",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sữa đông 100 gr (là sữa tươi không đường đã đun nóng và đậy nắp để nguội)",
+      "raw_name": "Sữa đông",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "là sữa tươi không đường đã đun nóng và đậy nắp để nguội",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột gia vị Ấn Độ 1 muỗng (bột Garam masala)",
+      "raw_name": "Bột gia vị Ấn Độ",
+      "quantity": 1,
+      "unit": "muỗng",
+      "note": "bột Garam masala",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột ớt 1 muỗng canh",
+      "raw_name": "Bột ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột rau mùi 1 muỗng canh",
+      "raw_name": "Bột rau mùi",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bột thì là 1 muỗng canh",
+      "raw_name": "Bột thì là",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Bột nghệ 1/2 muỗng canh",
+      "raw_name": "Bột nghệ",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Rau mùi tây 50 gr",
+      "raw_name": "Rau mùi tây",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Tỏi băm 2 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Ớt xanh 2 quả",
+      "raw_name": "Ớt xanh",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Gừng băm 2 muỗng canh",
+      "raw_name": "Gừng băm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Nguyệt quế 1 lá",
+      "raw_name": "Nguyệt quế",
+      "quantity": 1,
+      "unit": "lá",
+      "note": null,
+      "display_order": 17
+    },
+    {
+      "raw_text": "Bạch đậu khấu 4 hạt",
+      "raw_name": "Bạch đậu khấu 4 hạt",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 18
+    },
+    {
+      "raw_text": "Bạc hà 4 lá",
+      "raw_name": "Bạc hà",
+      "quantity": 4,
+      "unit": "lá",
+      "note": null,
+      "display_order": 19
+    },
+    {
+      "raw_text": "Hoa hồi 2 cái",
+      "raw_name": "Hoa hồi",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 20
+    },
+    {
+      "raw_text": "Quế 2 nhánh",
+      "raw_name": "Quế",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 21
+    },
+    {
+      "raw_text": "Đinh hương 3 nhánh (có hoặc không đều được)",
+      "raw_name": "Đinh hương",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": "có hoặc không đều được",
+      "display_order": 22
+    },
+    {
+      "raw_text": "Hạt tiêu đen 1 ít",
+      "raw_name": "Hạt tiêu đen",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 23
+    },
+    {
+      "raw_text": "Muối 3 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 24
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 25
+    },
+    {
+      "raw_text": "Bơ thực vật 4 muỗng canh",
+      "raw_name": "Bơ thực vật",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 26
+    }
+  ],
+  "scraped_at": "2026-08-19T18:12:09Z",
+  "page_title": "Cách nấu cơm gà biryani chuẩn vị Ấn Độ, đơn giản, ăn là ghiền",
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookProduct/1-1200x676-12.jpg"
+}

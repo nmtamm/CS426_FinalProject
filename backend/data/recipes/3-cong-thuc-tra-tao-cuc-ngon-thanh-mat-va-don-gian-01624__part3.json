@@ -1,0 +1,69 @@
+{
+  "source_id": "01624",
+  "name": "Trà táo mật ong",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5b99b15e57d72b69.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cong-thuc-tra-tao-cuc-ngon-thanh-mat-va-don-gian-01624",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cong-thuc-tra-tao-cuc-ngon-thanh-mat-va-don-gian-01624",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Táo 2 quả",
+      "raw_name": "Táo",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước 450 ml",
+      "raw_name": "Nước",
+      "quantity": 450,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mật ong 100 ml",
+      "raw_name": "Mật ong",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trà túi lọc 10 gr (2 túi)",
+      "raw_name": "Trà túi lọc",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "2 túi",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Siro táo 10 ml",
+      "raw_name": "Siro táo",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lá bạc hà 2 gr",
+      "raw_name": "Lá bạc hà",
+      "quantity": 2,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:00:28Z",
+  "page_title": "3 công thức trà táo cực ngon, thanh mát và đơn giản để đãi khách",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/tra-tao-mat-ong-thumbnail.jpg"
+}

@@ -1,0 +1,119 @@
+{
+  "source_id": "22564",
+  "name": "Bánh quai vạc Phan Thiết",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c10907c1bc6a683c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-quai-vac-phan-thiet-nho-xinh-deo-ngon-bang-may-22564",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-quai-vac-phan-thiet-nho-xinh-deo-ngon-bang-may-22564",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột năng 1 gói (400gr)",
+      "raw_name": "Bột năng",
+      "quantity": 1,
+      "unit": "gói",
+      "note": "400gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tôm tươi 450 gr",
+      "raw_name": "Tôm tươi",
+      "quantity": 450,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dầu điều 1 muỗng canh",
+      "raw_name": "Dầu điều",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành lá 1 bó",
+      "raw_name": "Hành lá 1 bó",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột nêm 1 muỗng cà phê",
+      "raw_name": "Bột nêm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường trắng 1 muỗng cà phê",
+      "raw_name": "Đường trắng",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tiêu trắng 1 muỗng cà phê (hoặc 1 muỗng cà phê ớt bột Hàn Quốc để tạo màu)",
+      "raw_name": "Tiêu trắng",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "hoặc 1 muỗng cà phê ớt bột Hàn Quốc để tạo màu",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước mắm 1 chén",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đường 3 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Chanh 1 trái",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:58:45Z",
+  "page_title": "Cách làm bánh quai vạc Phan Thiết nhỏ xinh dẻo ngon bằng máy đánh trứng",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/banh-quai-vac-phan-thiet.jpg"
+}

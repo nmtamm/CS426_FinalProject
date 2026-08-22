@@ -1,0 +1,29 @@
+{
+  "source_id": "05846",
+  "name": "Sốt caramel sữa đặc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bad768d1361b99f4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sot-caramel-khong-bi-cung-de-trang-tri-cho-mon-05846",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sot-caramel-khong-bi-cung-de-trang-tri-cho-mon-05846",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sữa đặc 1 hộp",
+      "raw_name": "Sữa đặc",
+      "quantity": 1,
+      "unit": "hộp",
+      "note": null,
+      "display_order": 1
+    }
+  ],
+  "scraped_at": "2026-08-19T20:16:34Z",
+  "page_title": "2 cách làm sốt caramel (caramel sauce) đơn giản cho món tráng miệng",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookRecipe/Avatar/sot-caramel-sua-dac-thumbnail.jpg"
+}

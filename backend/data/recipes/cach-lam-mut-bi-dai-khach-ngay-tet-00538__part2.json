@@ -1,0 +1,73 @@
+{
+  "source_id": "00538",
+  "name": "Cách làm mứt bí đao không cần phèn chua",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5d17f1c683e17063.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-bi-dai-khach-ngay-tet-00538",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-bi-dai-khach-ngay-tet-00538",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bí đao già 500 gr",
+      "raw_name": "Bí đao già",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường cắt trắng 300 gr",
+      "raw_name": "Đường cắt trắng",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước vo gạo 1.5 lít",
+      "raw_name": "Nước vo gạo 1.5 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chanh 1/2 quả",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Vani không màu 1 ống",
+      "raw_name": "Vani không màu 1 ống",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:16:14Z",
+  "page_title": "2 Cách làm mứt bí cực đơn giản mà thơm ngon đãi khách ngày Tết",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookRecipe/Avatar/cach-lam-mut-bi-dao-khong-can-phen-chua-thumbnail.jpg"
+}

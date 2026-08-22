@@ -1,0 +1,73 @@
+{
+  "source_id": "04341",
+  "name": "Cua đồng rang muối ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d4295ee9cbffccad.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-cua-dong-rang-muoi-ot-va-rang-la-chanh-gion-tan-04341",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-cua-dong-rang-muoi-ot-va-rang-la-chanh-gion-tan-04341",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cua đồng 1 kg",
+      "raw_name": "Cua đồng",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối hột 1 thìa canh",
+      "raw_name": "Muối hột",
+      "quantity": 1,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt sừng băm nhỏ 10 gr",
+      "raw_name": "Ớt sừng băm nhỏ",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi băm 10 gr",
+      "raw_name": "Tỏi băm",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sả băm 10 gr",
+      "raw_name": "Sả băm",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:24:53Z",
+  "page_title": "2 cách làm cua đồng rang muối ớt và rang lá chanh giòn tan thơm lừng",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/cua-dong-rang-muoi-ot-thumbnail-1.jpg"
+}

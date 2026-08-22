@@ -1,0 +1,51 @@
+{
+  "source_id": "24235",
+  "name": "Gà rang nghệ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3ca2c6c847c5109a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-rang-nghe-vang-uom-dam-da-cuc-ky-dua-com-cho-ca-24235",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-rang-nghe-vang-uom-dam-da-cuc-ky-dua-com-cho-ca-24235",
+  "servings_text": "Cho 2 - 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt gà 500 gr",
+      "raw_name": "Thịt gà",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nghệ tươi 3 củ",
+      "raw_name": "Nghệ tươi",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (nước mắm/ dầu hào/ tiêu xay/ dầu ăn)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "nước mắm/ dầu hào/ tiêu xay/ dầu ăn",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tím/ ớt sừng 1 ít",
+      "raw_name": "Hành tím/ ớt sừng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T18:03:48Z",
+  "page_title": "Cách làm gà rang nghệ vàng ươm, đậm đà cực kỳ đưa cơm cho cả gia đình",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t03%201200676%20-%202026-03-23T114627.715.jpg"
+}

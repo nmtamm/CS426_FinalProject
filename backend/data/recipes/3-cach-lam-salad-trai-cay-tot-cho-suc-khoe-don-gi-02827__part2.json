@@ -1,0 +1,93 @@
+{
+  "source_id": "02827",
+  "name": "Salad hoa quả với sữa chua",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/549e45495f391182.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-salad-trai-cay-tot-cho-suc-khoe-don-gi-02827",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-salad-trai-cay-tot-cho-suc-khoe-don-gi-02827",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Xoài thái da xanh 1/2 trái",
+      "raw_name": "Xoài thái da xanh",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thanh long 1 trái",
+      "raw_name": "Thanh long",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dưa hấu 1/2 trái",
+      "raw_name": "Dưa hấu",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nho 500 gr",
+      "raw_name": "Nho",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Xoài chín 1/2 trái",
+      "raw_name": "Xoài chín",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dứa 1/2 trái (Có thể chọn loại hoa quả tùy thích)",
+      "raw_name": "Dứa",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": "Có thể chọn loại hoa quả tùy thích",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Sốt mayonnaise 50 gr",
+      "raw_name": "Sốt mayonnaise",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Sữa chua có đường 1 hộp",
+      "raw_name": "Sữa chua có đường",
+      "quantity": 1,
+      "unit": "hộp",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Lá rau húng 10 gr",
+      "raw_name": "Lá rau húng",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:01:08Z",
+  "page_title": "4 cách làm salad trái cây tốt cho sức khỏe, đơn giản dễ làm",
+  "variant_index": 2,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/salad-hoa-qua-voi-sua-chua-thumbnail.jpg"
+}

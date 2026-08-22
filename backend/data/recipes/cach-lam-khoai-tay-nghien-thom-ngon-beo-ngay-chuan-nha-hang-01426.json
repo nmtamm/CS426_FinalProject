@@ -1,0 +1,51 @@
+{
+  "source_id": "01426",
+  "name": "Khoai tây nghiền",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0f5038f9aaccfc89.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-khoai-tay-nghien-thom-ngon-beo-ngay-chuan-nha-hang-01426",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-khoai-tay-nghien-thom-ngon-beo-ngay-chuan-nha-hang-01426",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai tây 5 củ",
+      "raw_name": "Khoai tây",
+      "quantity": 5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa 230 ml (tùy bạn muốn nghiền khoai tây mịn đến mức nào)",
+      "raw_name": "Sữa",
+      "quantity": 230,
+      "unit": "ml",
+      "note": "tùy bạn muốn nghiền khoai tây mịn đến mức nào",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bơ 3 muỗng canh",
+      "raw_name": "Bơ",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối và tiêu 1 muỗng cà phê",
+      "raw_name": "Muối và tiêu",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:23:46Z",
+  "page_title": "Cách làm khoai tây nghiền thơm ngon béo ngậy chuẩn nhà hàng",
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookProduct/easy-microwave-mashed-potatoes-3059678hero-01-520a91abceb44719ae5a24a179af8645-1200x676.jpg"
+}

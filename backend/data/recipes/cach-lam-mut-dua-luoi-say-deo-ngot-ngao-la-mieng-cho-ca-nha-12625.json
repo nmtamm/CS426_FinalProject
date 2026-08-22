@@ -1,0 +1,35 @@
+{
+  "source_id": "12625",
+  "name": "Mứt dưa lưới",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2a5b6c05714434c1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-dua-luoi-say-deo-ngot-ngao-la-mieng-cho-ca-nha-12625",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-dua-luoi-say-deo-ngot-ngao-la-mieng-cho-ca-nha-12625",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa lưới 800 gr",
+      "raw_name": "Dưa lưới",
+      "quantity": 800,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối 1 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:42:04Z",
+  "page_title": "Cách làm mứt dưa lưới sấy dẻo ngọt ngào lạ miệng cho cả nhà dịp Trung Thu",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/Duanmoi-1200x676-2.jpg"
+}

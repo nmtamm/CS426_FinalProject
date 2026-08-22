@@ -1,0 +1,51 @@
+{
+  "source_id": "17882",
+  "name": "Đá xay sữa bò đậu đỏ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/078aedc43be18679.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-da-xay-sua-bo-dau-do-mat-lanh-ngot-thom-cuc-don-gian-17882",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-da-xay-sua-bo-dau-do-mat-lanh-ngot-thom-cuc-don-gian-17882",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu đỏ 1 chén",
+      "raw_name": "Đậu đỏ",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa bò tươi 1 hộp (180ml)",
+      "raw_name": "Sữa bò tươi",
+      "quantity": 1,
+      "unit": "hộp",
+      "note": "180ml",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường vàng 2 muỗng canh",
+      "raw_name": "Đường vàng",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:03:46Z",
+  "page_title": "Cách làm đá xay sữa bò đậu đỏ mát lạnh ngọt thơm cực đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/2022/07/CookDish/cach-lam-da-xay-sua-bo-dau-do-mat-lanh-ngot-thom-cuc-don-gian-avt-1200x676-1.jpg"
+}

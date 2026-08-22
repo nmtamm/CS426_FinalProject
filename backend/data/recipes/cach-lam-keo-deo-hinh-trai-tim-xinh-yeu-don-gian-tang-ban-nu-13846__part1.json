@@ -1,0 +1,49 @@
+{
+  "source_id": "13846",
+  "name": "Kẹo dẻo hình trái tim",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b4a0cf9776eb7556.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-keo-deo-hinh-trai-tim-xinh-yeu-don-gian-tang-ban-nu-13846",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-keo-deo-hinh-trai-tim-xinh-yeu-don-gian-tang-ban-nu-13846",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa hấu 200 gr",
+      "raw_name": "Dưa hấu",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gelatin 3 lá",
+      "raw_name": "Gelatin",
+      "quantity": 3,
+      "unit": "lá",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 120 gr",
+      "raw_name": "Đường",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T18:55:51Z",
+  "page_title": "2 cách làm kẹo dẻo hình trái tim xinh yêu đơn giản tặng phái nữ ngày 20/10",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/keo-deo-hinh-trai-tim-thumbnail.jpg"
+}

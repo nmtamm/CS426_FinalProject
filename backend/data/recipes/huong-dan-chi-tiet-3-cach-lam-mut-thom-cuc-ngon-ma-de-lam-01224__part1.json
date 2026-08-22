@@ -1,0 +1,49 @@
+{
+  "source_id": "01224",
+  "name": "Mứt thơm nguyên miếng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/55278d06a958d25c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-chi-tiet-3-cach-lam-mut-thom-cuc-ngon-ma-de-lam-01224",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-chi-tiet-3-cach-lam-mut-thom-cuc-ngon-ma-de-lam-01224",
+  "servings_text": "Cho 300gr mứt thành phẩm",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thơm vừa chín tới 1 quả",
+      "raw_name": "Thơm vừa chín tới",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 150 gr",
+      "raw_name": "Đường",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Phèn chua 5 gr",
+      "raw_name": "Phèn chua",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:16:33Z",
+  "page_title": "Hướng dẫn chi tiết 3 cách làm mứt thơm cực ngon mà dễ làm",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/mut-thom-nguyen-mieng-thumbnail.jpg"
+}

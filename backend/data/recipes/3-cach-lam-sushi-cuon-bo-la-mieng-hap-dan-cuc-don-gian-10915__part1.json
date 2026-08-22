@@ -1,0 +1,93 @@
+{
+  "source_id": "10915",
+  "name": "Sushi bơ dưa leo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4a5a0fac0a997db0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sushi-cuon-bo-la-mieng-hap-dan-cuc-don-gian-10915",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sushi-cuon-bo-la-mieng-hap-dan-cuc-don-gian-10915",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rong biển khô 3 miếng",
+      "raw_name": "Rong biển khô 3 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cơm trắng 1 chén",
+      "raw_name": "Cơm trắng",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bơ 1.5 trái",
+      "raw_name": "Bơ",
+      "quantity": 1.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dưa leo 2 trái",
+      "raw_name": "Dưa leo",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Mè rang 1 ít",
+      "raw_name": "Mè rang",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sốt mayonnaise 3 muỗng canh",
+      "raw_name": "Sốt mayonnaise",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột ớt Hàn Quốc 1 muỗng cà phê",
+      "raw_name": "Bột ớt Hàn Quốc",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T20:34:32Z",
+  "page_title": "3 cách làm sushi cuộn bơ lạ miệng, hấp dẫn cực đơn giản",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookRecipe/Avatar/sushi-bo-dua-leo-thumbnail.jpg"
+}

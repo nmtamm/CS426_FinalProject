@@ -1,0 +1,81 @@
+{
+  "source_id": "00901",
+  "name": "Trà sữa sương sáo bằng bột béo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e5495334458373f4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-sua-o-long-suong-sao-giai-nhiet-mua-he--00901",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-sua-o-long-suong-sao-giai-nhiet-mua-he--00901",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột sương sáo đen 50 gr",
+      "raw_name": "Bột sương sáo đen",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột béo 30 gr",
+      "raw_name": "Bột béo",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trà túi lọc 2 gói",
+      "raw_name": "Trà túi lọc",
+      "quantity": 2,
+      "unit": "gói",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước lọc 200 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước sôi 150 ml",
+      "raw_name": "Nước sôi",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 25 gr",
+      "raw_name": "Đường",
+      "quantity": 25,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:54:44Z",
+  "page_title": "2 cách làm trà sữa sương sáo thơm ngon giải nhiệt mùa hè cực đã",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/tra-sua-suong-sao-bang-bot-beo-thumbnail-1.jpg"
+}

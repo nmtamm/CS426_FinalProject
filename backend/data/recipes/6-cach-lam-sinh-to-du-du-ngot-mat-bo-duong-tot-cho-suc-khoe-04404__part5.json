@@ -1,0 +1,65 @@
+{
+  "source_id": "04404",
+  "name": "Sinh tố táo đu đủ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f2880c70eee7304e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/6-cach-lam-sinh-to-du-du-ngot-mat-bo-duong-tot-cho-suc-khoe-04404",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/6-cach-lam-sinh-to-du-du-ngot-mat-bo-duong-tot-cho-suc-khoe-04404",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đu đủ 4 chén",
+      "raw_name": "Đu đủ",
+      "quantity": 4,
+      "unit": "chén",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Táo 2 chén",
+      "raw_name": "Táo",
+      "quantity": 2,
+      "unit": "chén",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 2 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đá viên 2 chén",
+      "raw_name": "Đá viên",
+      "quantity": 2,
+      "unit": "chén",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước 2 chén",
+      "raw_name": "Nước",
+      "quantity": 2,
+      "unit": "chén",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:57:32Z",
+  "page_title": "7 cách làm sinh tố đu đủ ngọt mát, bổ dưỡng, tốt cho sức khỏe",
+  "variant_index": 5,
+  "variant_count": 7,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/sinh-to-tao-du-du-thumbnail.jpg"
+}

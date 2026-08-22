@@ -1,0 +1,93 @@
+{
+  "source_id": "08897",
+  "name": "Trà mận",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6b9df797307ecefa.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-man-thanh-mat-dap-tan-con-khat-ngay-he-08897",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-man-thanh-mat-dap-tan-con-khat-ngay-he-08897",
+  "servings_text": "Cho 4 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mận hậu 500 gr (mận Bắc)",
+      "raw_name": "Mận hậu",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "mận Bắc",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hồng trà 100 gr (trà đen)",
+      "raw_name": "Hồng trà",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "trà đen",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Siro việt quất 70 ml",
+      "raw_name": "Siro việt quất",
+      "quantity": 70,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Siro kiwi 60 ml",
+      "raw_name": "Siro kiwi",
+      "quantity": 60,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột năng 230 gr",
+      "raw_name": "Bột năng",
+      "quantity": 230,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 250 gr",
+      "raw_name": "Đường",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Chanh 2 trái",
+      "raw_name": "Chanh",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước 2.3 lít",
+      "raw_name": "Nước 2.3 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:56:07Z",
+  "page_title": "2 cách làm trà mận Hà Nội (mận Bắc) thanh mát đập tan cơn khát ngày hè",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookRecipe/Avatar/tra-man-thumbnail.jpg"
+}

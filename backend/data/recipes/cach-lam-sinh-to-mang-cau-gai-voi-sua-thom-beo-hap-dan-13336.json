@@ -1,0 +1,71 @@
+{
+  "source_id": "13336",
+  "name": "Sinh tố mãng cầu gai",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7344da58f900bf25.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sinh-to-mang-cau-gai-voi-sua-thom-beo-hap-dan-13336",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sinh-to-mang-cau-gai-voi-sua-thom-beo-hap-dan-13336",
+  "servings_text": "Cho 2 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mãng cầu gai 500 gr (mãng cầu xiêm)",
+      "raw_name": "Mãng cầu gai",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "mãng cầu xiêm",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Phô mai con bò cười 2 miếng",
+      "raw_name": "Phô mai con bò cười 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa tươi có đường 1 gói (220ml)",
+      "raw_name": "Sữa tươi có đường",
+      "quantity": 1,
+      "unit": "gói",
+      "note": "220ml",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa đặc 3 muỗng canh",
+      "raw_name": "Sữa đặc",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 6 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 6,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:54:22Z",
+  "page_title": "Cách làm sinh tố mãng cầu gai với sữa thơm béo hấp dẫn",
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookProduct/Untitled-1-1200x676-7.jpg"
+}

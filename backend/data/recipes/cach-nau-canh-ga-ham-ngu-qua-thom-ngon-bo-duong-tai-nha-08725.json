@@ -1,0 +1,87 @@
+{
+  "source_id": "08725",
+  "name": "Canh gà hầm ngũ quả",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c994f2ade07be607.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-canh-ga-ham-ngu-qua-thom-ngon-bo-duong-tai-nha-08725",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-canh-ga-ham-ngu-qua-thom-ngon-bo-duong-tai-nha-08725",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-canh",
+      "name": "Món canh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà 1/2 con",
+      "raw_name": "Gà 1/2 con",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hạt sen 50 gr",
+      "raw_name": "Hạt sen",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Kỷ tử 15 gr",
+      "raw_name": "Kỷ tử",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Táo tàu 50 gr",
+      "raw_name": "Táo tàu",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nhãn nhục 20 gr",
+      "raw_name": "Nhãn nhục",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Giấm 1 ít",
+      "raw_name": "Giấm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:16:27Z",
+  "page_title": "Cách nấu canh gà hầm ngũ quả thơm ngon, bổ dưỡng tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/Ga-Ham-Ngu-Qua-[-Tot-Cho-Phu-Nu---Tre-Em---Nguoi-Gia-]-Boi-Bo-Co-The--Herbal-Chicken-Soup-Recipe-10-0-screenshot-(1)-1200x676.jpg"
+}

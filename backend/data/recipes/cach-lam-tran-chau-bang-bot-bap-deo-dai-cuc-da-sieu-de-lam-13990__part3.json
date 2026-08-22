@@ -1,0 +1,37 @@
+{
+  "source_id": "13990",
+  "name": "Trân châu dâu bằng bột bắp",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/efed2861097bd5aa.png",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tran-chau-bang-bot-bap-deo-dai-cuc-da-sieu-de-lam-13990",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tran-chau-bang-bot-bap-deo-dai-cuc-da-sieu-de-lam-13990",
+  "servings_text": "Cho 1 - 2 người",
+  "topics": [
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột bắp 4 muỗng canh",
+      "raw_name": "Bột bắp",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Siro dâu 2 muỗng canh",
+      "raw_name": "Siro dâu",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T20:11:05Z",
+  "page_title": "4 cách làm trân châu bằng bột bắp dẻo dai cực đã siêu dễ làm",
+  "variant_index": 3,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/tran-chau-duong-den-bang-bot-bap-thumbnail.png"
+}

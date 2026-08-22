@@ -1,0 +1,94 @@
+{
+  "source_id": "17157",
+  "name": "Sốt phô mai trứng muối",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1cec9da956c0199f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sot-pho-mai-trung-muoi-thom-ngon-beo-ngay-cuc-de-lam-17157",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sot-pho-mai-trung-muoi-thom-ngon-beo-ngay-cuc-de-lam-17157",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lòng đỏ trứng muối 5 cái",
+      "raw_name": "Lòng đỏ trứng muối",
+      "quantity": 5,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đặc 3 muỗng canh",
+      "raw_name": "Sữa đặc",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước cốt dừa 1/2 chén",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bơ 15 gr",
+      "raw_name": "Bơ",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Phô mai con bò cười 2 cái",
+      "raw_name": "Phô mai con bò cười",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Phô mai mozzarella 2 cái",
+      "raw_name": "Phô mai mozzarella",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị 1 ít (đường;hạt nêm)",
+      "raw_name": "Gia vị",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường;hạt nêm",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ớt bột 1 muỗng canh",
+      "raw_name": "Ớt bột",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:57:07Z",
+  "page_title": "2 cách làm sốt phô mai trứng muối thơm ngon béo ngậy cực dễ làm tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "công thức từ tiktok Vào bếp cùng Điện máy XANH",
+  "original_image_url": "https://cdn.tgdd.vn/2023/05/CookRecipe/Avatar/sot-pho-mai-trung-muoi-cong-thuc-tu-tiktok-vao-bep-cung-dien-may-xanh-thumbnail-1.jpg"
+}

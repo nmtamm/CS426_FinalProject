@@ -1,0 +1,131 @@
+{
+  "source_id": "05219",
+  "name": "Sủi cảo chay nhân rau củ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/482aebc4dfa99f9e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sui-cao-chay-nhan-rau-cu-thom-ngon-de-lam-05219",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sui-cao-chay-nhan-rau-cu-thom-ngon-de-lam-05219",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Su su 1 củ",
+      "raw_name": "Su su",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Củ cải trắng 1 củ",
+      "raw_name": "Củ cải trắng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sắn 1 củ (củ đậu)",
+      "raw_name": "Sắn",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "củ đậu",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cải muối 2 củ",
+      "raw_name": "Cải muối",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ngò rí 20 gr",
+      "raw_name": "Ngò rí",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Khoai môn 1 củ",
+      "raw_name": "Khoai môn",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đậu xanh cà 100 gr (khô)",
+      "raw_name": "Đậu xanh cà",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "khô",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nấm đông cô 30 gr",
+      "raw_name": "Nấm đông cô",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hành tím 5 gr",
+      "raw_name": "Hành tím",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Hạt nêm chay 2 muỗng canh",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu mè 2 muỗng canh",
+      "raw_name": "Dầu mè",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Muối 1 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Đường 2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T18:51:06Z",
+  "page_title": "Cách làm sủi cảo chay nhân rau củ thơm ngon dễ làm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookProduct/suicaochaynhanraucu-1200x676.jpg"
+}

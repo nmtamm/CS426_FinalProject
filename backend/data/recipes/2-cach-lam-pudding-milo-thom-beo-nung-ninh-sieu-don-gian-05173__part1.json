@@ -1,0 +1,49 @@
+{
+  "source_id": "05173",
+  "name": "Pudding Milo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/13328c1f2545f018.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-pudding-milo-thom-beo-nung-ninh-sieu-don-gian-05173",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-pudding-milo-thom-beo-nung-ninh-sieu-don-gian-05173",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sữa milo pha sẵn 4 hộp (loại nhỏ)",
+      "raw_name": "Sữa milo pha sẵn",
+      "quantity": 4,
+      "unit": "hộp",
+      "note": "loại nhỏ",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột milo 20 gr",
+      "raw_name": "Bột milo",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột gelatin 8 gr",
+      "raw_name": "Bột gelatin",
+      "quantity": 8,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T20:19:33Z",
+  "page_title": "2 cách làm pudding milo thơm béo núng nính siêu đơn giản",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookRecipe/Avatar/pudding-milo-thumbnail.jpg"
+}

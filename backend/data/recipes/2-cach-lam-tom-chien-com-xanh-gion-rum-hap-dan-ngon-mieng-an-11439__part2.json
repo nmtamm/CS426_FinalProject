@@ -1,0 +1,81 @@
+{
+  "source_id": "11439",
+  "name": "Tôm chiên cốm bằng bột chiên giòn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2da9999f6cebb96c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tom-chien-com-xanh-gion-rum-hap-dan-ngon-mieng-an-11439",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tom-chien-com-xanh-gion-rum-hap-dan-ngon-mieng-an-11439",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tôm 500 gr",
+      "raw_name": "Tôm",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cốm dẹp 200 gr",
+      "raw_name": "Cốm dẹp",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột chiên giòn 150 gr",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng cà phê",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 30 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (tiêu/ đường/ hạt nêm/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "tiêu/ đường/ hạt nêm/ bột ngọt",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:56:29Z",
+  "page_title": "2 cách làm tôm chiên cốm xanh giòn rụm hấp dẫn ngon miệng ăn là ghiền",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/tom-chien-com-bang-bot-chien-gion-thumbnail.jpg"
+}

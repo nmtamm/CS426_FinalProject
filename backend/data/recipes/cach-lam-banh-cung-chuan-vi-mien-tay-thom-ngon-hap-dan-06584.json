@@ -1,0 +1,79 @@
+{
+  "source_id": "06584",
+  "name": "Bánh cúng chuẩn vị miền tây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a1b2e9e8bda32ba8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-cung-chuan-vi-mien-tay-thom-ngon-hap-dan-06584",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-cung-chuan-vi-mien-tay-thom-ngon-hap-dan-06584",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột gạo 200 gr",
+      "raw_name": "Bột gạo",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột sắn 2 muỗng canh",
+      "raw_name": "Bột sắn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước cốt dừa 500 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 3 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lá chuối 1 ít",
+      "raw_name": "Lá chuối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dây lạc/ dây chuối 1 ít",
+      "raw_name": "Dây lạc/ dây chuối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:22:43Z",
+  "page_title": "Cách làm bánh cúng chuẩn vị miền Tây thơm ngon, hấp dẫn",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/1-15441144548031376365401-1200x676.jpg"
+}

@@ -1,0 +1,163 @@
+{
+  "source_id": "09717",
+  "name": "Cà ri gà cay kiểu Malaysia",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f2dd6b7146045a21.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-ca-ri-ga-cay-kieu-malay-thom-ngon-cuc-la-mieng-an-la-09717",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-ca-ri-ga-cay-kieu-malay-thom-ngon-cuc-la-mieng-an-la-09717",
+  "servings_text": "Cho 4 người ăn",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà 1/2 con",
+      "raw_name": "Gà 1/2 con",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành tím 5 củ",
+      "raw_name": "Hành tím",
+      "quantity": 5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng 25 gr",
+      "raw_name": "Gừng",
+      "quantity": 25,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Riềng 25 gr",
+      "raw_name": "Riềng",
+      "quantity": 25,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nghệ 2 nhánh (nhỏ)",
+      "raw_name": "Nghệ",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": "nhỏ",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Sả 3 cây",
+      "raw_name": "Sả",
+      "quantity": 3,
+      "unit": "cây",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt khô 15 trái",
+      "raw_name": "Ớt khô",
+      "quantity": 15,
+      "unit": "trái",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tỏi 4 tép",
+      "raw_name": "Tỏi 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hoa hồi 2 cái",
+      "raw_name": "Hoa hồi",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Quế 1 miếng",
+      "raw_name": "Quế 1 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Lá nghệ tươi 1 lá (hoặc lá gừng)",
+      "raw_name": "Lá nghệ tươi",
+      "quantity": 1,
+      "unit": "lá",
+      "note": "hoặc lá gừng",
+      "display_order": 12
+    },
+    {
+      "raw_text": "Me hạt 1 muỗng canh (me nắm)",
+      "raw_name": "Me hạt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "me nắm",
+      "display_order": 13
+    },
+    {
+      "raw_text": "Nước cốt dừa 200 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Nước màu dừa 2 muỗng canh (hoặc nước màu đường)",
+      "raw_name": "Nước màu dừa",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "hoặc nước màu đường",
+      "display_order": 15
+    },
+    {
+      "raw_text": "Dầu ăn 120 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 120,
+      "unit": "ml",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Đường thốt nốt 30 gr",
+      "raw_name": "Đường thốt nốt",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 17
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 18
+    }
+  ],
+  "scraped_at": "2026-08-19T18:15:56Z",
+  "page_title": "Cách nấu cà ri gà cay kiểu Malaysia thơm ngon, cực lạ miệng ăn là nghiền",
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookProduct/Malaysia仁当鸡，令人难以置信的干咖喱风味Chicken-Rendang---A-Dry-Curry-Dish-With-Incredible-Flavour--Rendang-Ayam-0-11-screenshot-1200x676-1200x676.jpg"
+}

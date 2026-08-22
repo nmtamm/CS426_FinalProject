@@ -1,0 +1,93 @@
+{
+  "source_id": "04064",
+  "name": "Kim chi ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3fcff585abae026a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-kim-chi-ot-va-kim-chi-hanh-la-cay-nong-moi-la-04064",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-kim-chi-ot-va-kim-chi-hanh-la-cay-nong-moi-la-04064",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ớt ngọt màu xanh 300 gr",
+      "raw_name": "Ớt ngọt màu xanh",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt ngọt màu đỏ 300 gr",
+      "raw_name": "Ớt ngọt màu đỏ",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt hiểm cay 2 trái",
+      "raw_name": "Ớt hiểm cay",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng 100 gr",
+      "raw_name": "Gừng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt bột Hàn Quốc 20 gr",
+      "raw_name": "Ớt bột Hàn Quốc",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt bột cay 10 gr",
+      "raw_name": "Ớt bột cay",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước mắm chay 50 ml",
+      "raw_name": "Nước mắm chay",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường 100 gr",
+      "raw_name": "Đường",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hạt nêm 20 gr",
+      "raw_name": "Hạt nêm",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:02:57Z",
+  "page_title": "2 cách làm kim chi ớt và kim chi hành lá cay nồng mới lạ chuẩn vị Hàn",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/kim-chi-ot-thumbnail.jpg"
+}

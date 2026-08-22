@@ -1,0 +1,83 @@
+{
+  "source_id": "14985",
+  "name": "Panna cotta kiwi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2c6e63dbcc1ed6a8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-panna-cotta-kiwi-nung-ninh-mem-min-cuc-de-lam-14985",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-panna-cotta-kiwi-nung-ninh-mem-min-cuc-de-lam-14985",
+  "servings_text": "Cho 6 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Kiwi 5 trái",
+      "raw_name": "Kiwi",
+      "quantity": 5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Kem sữa tươi 250 ml (whipping cream)",
+      "raw_name": "Kem sữa tươi",
+      "quantity": 250,
+      "unit": "ml",
+      "note": "whipping cream",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa chua 150 gr",
+      "raw_name": "Sữa chua",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường cát 50 gr",
+      "raw_name": "Đường cát",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gelatine 3 lá",
+      "raw_name": "Gelatine",
+      "quantity": 3,
+      "unit": "lá",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Mật ong 1 muỗng cà phê",
+      "raw_name": "Mật ong",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Vỏ chanh 1 ít",
+      "raw_name": "Vỏ chanh",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gừng 1 ít",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:21:36Z",
+  "page_title": "Cách làm panna cotta kiwi núng nính mềm mịn cực dễ làm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookDish/cach-lam-panna-cotta-kiwi-nung-ninh-mem-min-cuc-de-lam-avt-1200x676.jpg"
+}

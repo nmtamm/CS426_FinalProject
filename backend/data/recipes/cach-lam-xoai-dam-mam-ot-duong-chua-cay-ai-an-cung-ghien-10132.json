@@ -1,0 +1,59 @@
+{
+  "source_id": "10132",
+  "name": "Xoài dầm mắm ớt đường",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0d7663649c9b880f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-xoai-dam-mam-ot-duong-chua-cay-ai-an-cung-ghien-10132",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-xoai-dam-mam-ot-duong-chua-cay-ai-an-cung-ghien-10132",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Xoài xanh 0.5 kg",
+      "raw_name": "Xoài xanh",
+      "quantity": 0.5,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt 7 trái (thái nhỏ)",
+      "raw_name": "Ớt",
+      "quantity": 7,
+      "unit": "trái",
+      "note": "thái nhỏ",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt bột 1 muỗng canh",
+      "raw_name": "Ớt bột",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước mắm 200 ml",
+      "raw_name": "Nước mắm",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối/ đường 1 ít",
+      "raw_name": "Muối/ đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:20:48Z",
+  "page_title": "Cách làm xoài dầm mắm ớt đường chua cay ai ăn cũng ghiền",
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookProduct/t1-1200x676-14.jpg"
+}

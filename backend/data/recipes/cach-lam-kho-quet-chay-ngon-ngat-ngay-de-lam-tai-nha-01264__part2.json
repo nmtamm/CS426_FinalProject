@@ -1,0 +1,77 @@
+{
+  "source_id": "01264",
+  "name": "Kho quẹt chay bằng sườn chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bc2af4181b1e0d0a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kho-quet-chay-ngon-ngat-ngay-de-lam-tai-nha-01264",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kho-quet-chay-ngon-ngat-ngay-de-lam-tai-nha-01264",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sườn non chay 2 miếng",
+      "raw_name": "Sườn non chay 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt 1 quả",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tím/ tỏi băm nhỏ 1 ít",
+      "raw_name": "Hành tím/ tỏi băm nhỏ",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước mắm chay 5 muỗng canh",
+      "raw_name": "Nước mắm chay",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu hào chay 2 muỗng cà phê",
+      "raw_name": "Dầu hào chay",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (hạt nêm/ bột ngọt/ tiêu xay/ đường)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hạt nêm/ bột ngọt/ tiêu xay/ đường",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 5 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:44:17Z",
+  "page_title": "3 cách làm kho quẹt chay vị đậm đà, ngon ngất ngây đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookRecipe/Avatar/kho-quet-chay-cong-thuc-duoc-chia-se-tu-nguoi-dung-thumbnail-1.jpg"
+}

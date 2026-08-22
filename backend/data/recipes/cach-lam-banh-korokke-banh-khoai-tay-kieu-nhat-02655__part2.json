@@ -1,0 +1,97 @@
+{
+  "source_id": "02655",
+  "name": "Bánh Korokke cua kem",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/72074e099a9be05a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-korokke-banh-khoai-tay-kieu-nhat-02655",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-korokke-banh-khoai-tay-kieu-nhat-02655",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt cua 60 gr",
+      "raw_name": "Thịt cua",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bơ 20 gr",
+      "raw_name": "Bơ",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tây 60 gr",
+      "raw_name": "Hành tây",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nấm mỡ 40 gr",
+      "raw_name": "Nấm mỡ",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột bánh mì 25 gr",
+      "raw_name": "Bột bánh mì",
+      "quantity": 25,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột chiên xù 100 gr",
+      "raw_name": "Bột chiên xù",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Sữa 150 ml",
+      "raw_name": "Sữa",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 1.5 gr",
+      "raw_name": "Muối",
+      "quantity": 1.5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Trứng gà 1/2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:26:47Z",
+  "page_title": "2 cách làm bánh Korokke kiểu Nhật giòn rụm, hấp dẫn, đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookRecipe/Avatar/banh-korokke-cua-kem-thumbnail-1.jpg"
+}

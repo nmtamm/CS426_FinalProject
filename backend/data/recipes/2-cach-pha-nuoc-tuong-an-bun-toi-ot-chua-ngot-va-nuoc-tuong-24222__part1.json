@@ -1,0 +1,73 @@
+{
+  "source_id": "24222",
+  "name": "Nước tương tỏi ớt ăn bún",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/decc03ce07c37d0f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-pha-nuoc-tuong-an-bun-toi-ot-chua-ngot-va-nuoc-tuong-24222",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-pha-nuoc-tuong-an-bun-toi-ot-chua-ngot-va-nuoc-tuong-24222",
+  "servings_text": "Cho 6 - 8 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nước tương 200 ml",
+      "raw_name": "Nước tương",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường trắng 100 gr",
+      "raw_name": "Đường trắng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Giấm ăn 1/3 chén",
+      "raw_name": "Giấm ăn",
+      "quantity": 0.333,
+      "unit": "chén",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước lọc 1/2 chén",
+      "raw_name": "Nước lọc",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 5 tép",
+      "raw_name": "Tỏi 5 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt 3 trái (gồm ớt sừng không cay và ớt cay)",
+      "raw_name": "Ớt",
+      "quantity": 3,
+      "unit": "trái",
+      "note": "gồm ớt sừng không cay và ớt cay",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:34:23Z",
+  "page_title": "2 cách pha nước tương ăn bún tỏi ớt chua ngọt và nước tương tiêu cực ngon",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2026/03/CookRecipe/Avatar/nuoc-tuong-toi-ot-an-bun-thumbnail.jpg"
+}

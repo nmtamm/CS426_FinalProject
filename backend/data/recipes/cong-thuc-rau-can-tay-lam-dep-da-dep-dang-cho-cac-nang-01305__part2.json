@@ -1,0 +1,49 @@
+{
+  "source_id": "01305",
+  "name": "Nước ép cần tây táo mật ong",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c50a5a9d16d66d05.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cong-thuc-rau-can-tay-lam-dep-da-dep-dang-cho-cac-nang-01305",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cong-thuc-rau-can-tay-lam-dep-da-dep-dang-cho-cac-nang-01305",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rau cần tây 150 gr",
+      "raw_name": "Rau cần tây",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Táo 1 quả",
+      "raw_name": "Táo",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mật ong 3 ml",
+      "raw_name": "Mật ong",
+      "quantity": 3,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T20:01:50Z",
+  "page_title": "5 Cách làm nước ép rau cần tây làm đẹp da, đẹp dáng cho các nàng",
+  "variant_index": 2,
+  "variant_count": 5,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/nuoc-ep-can-tay-tao-mat-ong-thumbnail.jpg"
+}

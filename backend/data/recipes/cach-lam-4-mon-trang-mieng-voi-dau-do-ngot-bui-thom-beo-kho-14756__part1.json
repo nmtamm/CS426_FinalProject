@@ -1,0 +1,85 @@
+{
+  "source_id": "14756",
+  "name": "Matcha red bean crepe",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3afdcdf31f853a43.jpeg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-4-mon-trang-mieng-voi-dau-do-ngot-bui-thom-beo-kho-14756",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-4-mon-trang-mieng-voi-dau-do-ngot-bui-thom-beo-kho-14756",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu đỏ 120 gr (nấu mềm)",
+      "raw_name": "Đậu đỏ",
+      "quantity": 120,
+      "unit": "gr",
+      "note": "nấu mềm",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột mì 120 gr",
+      "raw_name": "Bột mì",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột matcha 15 gr",
+      "raw_name": "Bột matcha",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Whipping cream 400 ml",
+      "raw_name": "Whipping cream",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sữa tươi 400 ml",
+      "raw_name": "Sữa tươi",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 60 gr",
+      "raw_name": "Đường",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bơ đun chảy 30 gr",
+      "raw_name": "Bơ đun chảy",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Trứng 4 quả",
+      "raw_name": "Trứng",
+      "quantity": 4,
+      "unit": "quả",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:19:51Z",
+  "page_title": "Cách làm 4 món tráng miệng với đậu đỏ ngọt bùi thơm béo khó cưỡng",
+  "variant_index": 1,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/matcha-red-bean-crepe-thumbnail.jpeg"
+}

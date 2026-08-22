@@ -1,0 +1,69 @@
+{
+  "source_id": "15653",
+  "name": "Salad bí đỏ nghiền",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/eeb57b38fbeda7b3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-salad-bi-do-don-gian-thom-ngon-bo-duong-cho-gia-15653",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-salad-bi-do-don-gian-thom-ngon-bo-duong-cho-gia-15653",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bí đỏ 1 trái",
+      "raw_name": "Bí đỏ",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Táo 1 trái",
+      "raw_name": "Táo",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hạt khô 20 gr (tùy ý)",
+      "raw_name": "Hạt khô",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "tùy ý",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mứt 20 gr (tùy ý)",
+      "raw_name": "Mứt",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "tùy ý",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Mật ong 1 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sữa chua không đường 2 muỗng canh",
+      "raw_name": "Sữa chua không đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T17:56:32Z",
+  "page_title": "3 cách làm salad bí đỏ đơn giản thơm ngon bổ dưỡng cho gia đình",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookRecipe/Avatar/salad-bi-do-nghien-thumbnail.jpg"
+}

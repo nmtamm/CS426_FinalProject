@@ -1,0 +1,101 @@
+{
+  "source_id": "03820",
+  "name": "Gỏi bưởi khô cá lóc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/49409fffab38408f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-buoi-tom-muc-kho-va-goi-buoi-kho-bo-chua-ngot-03820",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-buoi-tom-muc-kho-va-goi-buoi-kho-bo-chua-ngot-03820",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bưởi 1 trái (khoảng 500gr)",
+      "raw_name": "Bưởi",
+      "quantity": 1,
+      "unit": "trái",
+      "note": "khoảng 500gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cá lóc 1 con (300gr)",
+      "raw_name": "Cá lóc 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": "300gr",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dưa leo 1 trái",
+      "raw_name": "Dưa leo",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 1/2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đậu phộng rang 2 muỗng canh",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Chanh 2 trái",
+      "raw_name": "Chanh",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt 3 trái (2 trái ớt hiểm 1 trái ớt sừng)",
+      "raw_name": "Ớt",
+      "quantity": 3,
+      "unit": "trái",
+      "note": "2 trái ớt hiểm 1 trái ớt sừng",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tỏi 2 tép",
+      "raw_name": "Tỏi 2 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước mắm 3 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đường 3 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:00:35Z",
+  "page_title": "3 cách làm gỏi bưởi mực khô, khô bò, khô cá lóc thơm ngon cho Tết Trung Thu",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/goi-buoi-kho-bo-thumbnail.jpg"
+}

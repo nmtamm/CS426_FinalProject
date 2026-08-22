@@ -1,0 +1,163 @@
+{
+  "source_id": "19335",
+  "name": "Nấm hương nhồi đậu hũ sốt cà",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e119cc9ec0d6e524.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-hu-nhoi-nam-sot-ca-chua-thom-ngon-kho-cuong-vao-19335",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-hu-nhoi-nam-sot-ca-chua-thom-ngon-kho-cuong-vao-19335",
+  "servings_text": "Cho 3 người ăn",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nấm hương 10 cây",
+      "raw_name": "Nấm hương",
+      "quantity": 10,
+      "unit": "cây",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu hũ ta 1 hộp",
+      "raw_name": "Đậu hũ ta",
+      "quantity": 1,
+      "unit": "hộp",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt băm 1/2 củ",
+      "raw_name": "Cà rốt băm",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nấm tai mèo 2 miếng",
+      "raw_name": "Nấm tai mèo 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chả chay băm 50 gram",
+      "raw_name": "Chả chay băm 50 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hạt nêm chay 1 muỗng canh",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tiêu 1/2 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột năng 1 muỗng canh",
+      "raw_name": "Bột năng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Cà chua băm nhuyễn 3 trái (nước sốt)",
+      "raw_name": "Cà chua băm nhuyễn",
+      "quantity": 3,
+      "unit": "trái",
+      "note": "nước sốt",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh (nước sốt)",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "nước sốt",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Hành Boaro 1 muỗng canh (nước sốt)",
+      "raw_name": "Hành Boaro",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "nước sốt",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước 1/2 chén (nước sốt)",
+      "raw_name": "Nước",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": "nước sốt",
+      "display_order": 12
+    },
+    {
+      "raw_text": "Hạt nêm 1 muỗng canh (nước sốt)",
+      "raw_name": "Hạt nêm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "nước sốt",
+      "display_order": 13
+    },
+    {
+      "raw_text": "Đường 2 muỗng canh (nước sốt)",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "nước sốt",
+      "display_order": 14
+    },
+    {
+      "raw_text": "Tương cà 1 muỗng canh (nước sốt)",
+      "raw_name": "Tương cà",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "nước sốt",
+      "display_order": 15
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng cà phê (nước sốt)",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "nước sốt",
+      "display_order": 16
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng cà phê (nước sốt)",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "nước sốt",
+      "display_order": 17
+    },
+    {
+      "raw_text": "Dầu mè 1 muỗng canh (nước sốt)",
+      "raw_name": "Dầu mè",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "nước sốt",
+      "display_order": 18
+    }
+  ],
+  "scraped_at": "2026-08-19T18:46:45Z",
+  "page_title": "Cách làm nấm hương nhồi đậu hũ sốt cà thơm ngon khó cưỡng vào ngày rằm",
+  "original_image_url": "https://cdn.tgdd.vn/2023/05/CookDish/cach-lam-dau-hu-nhoi-nam-sot-ca-chua-thom-ngon-kho-cuong-vao-avt-1200x676.jpg"
+}

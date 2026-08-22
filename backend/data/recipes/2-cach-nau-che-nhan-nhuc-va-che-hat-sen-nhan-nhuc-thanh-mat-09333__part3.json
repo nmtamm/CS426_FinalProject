@@ -1,0 +1,65 @@
+{
+  "source_id": "09333",
+  "name": "Chè nhãn nhục hạt sen táo đỏ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/35e61ed4e8329d0d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-che-nhan-nhuc-va-che-hat-sen-nhan-nhuc-thanh-mat-09333",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-che-nhan-nhuc-va-che-hat-sen-nhan-nhuc-thanh-mat-09333",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-che",
+      "name": "Món chè"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hạt sen 300 gr",
+      "raw_name": "Hạt sen",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Táo đỏ 100 gr",
+      "raw_name": "Táo đỏ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Táo tàu 100 gr",
+      "raw_name": "Táo tàu",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nhãn nhục 200 gr",
+      "raw_name": "Nhãn nhục",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường phèn 300 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:14:00Z",
+  "page_title": "3 cách nấu chè nhãn nhục ngon thanh mát tốt cho cơ thể",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/che-nhan-nhuc-hat-sen-tao-do-thumbnail.jpg"
+}

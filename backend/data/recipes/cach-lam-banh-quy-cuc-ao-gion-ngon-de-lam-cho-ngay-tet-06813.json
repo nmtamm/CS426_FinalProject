@@ -1,0 +1,71 @@
+{
+  "source_id": "06813",
+  "name": "Bánh quy cúc áo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ea27f79f17785d40.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-quy-cuc-ao-gion-ngon-de-lam-cho-ngay-tet-06813",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-quy-cuc-ao-gion-ngon-de-lam-cho-ngay-tet-06813",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì đa dụng 200 gr (bột mì số 11)",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "bột mì số 11",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bơ lạt 125 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 125,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường bột 80 gr",
+      "raw_name": "Đường bột",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trứng gà 1 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tinh chất vani 1 ít",
+      "raw_name": "Tinh chất vani",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 2 gr",
+      "raw_name": "Muối",
+      "quantity": 2,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:37:24Z",
+  "page_title": "Cách làm bánh quy cúc áo giòn ngon dễ làm cho ngày Tết",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/1200-1200x676-60.jpg"
+}

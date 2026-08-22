@@ -1,0 +1,91 @@
+{
+  "source_id": "15235",
+  "name": "Gỏi gà rau răm hành tây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/18f5d0aaa0439dc3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-ga-rau-ram-hanh-tay-gion-ngon-thom-lung-cuc-don-15235",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-ga-rau-ram-hanh-tay-gion-ngon-thom-lung-cuc-don-15235",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà 800 gr (1/2 con)",
+      "raw_name": "Gà",
+      "quantity": 800,
+      "unit": "gr",
+      "note": "1/2 con",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rau răm 5 nhánh",
+      "raw_name": "Rau răm",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sả 1 cây (cắt khúc)",
+      "raw_name": "Sả",
+      "quantity": 1,
+      "unit": "cây",
+      "note": "cắt khúc",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gừng 1 nhánh (nhánh nhỏ)",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": "nhánh nhỏ",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt 2 trái",
+      "raw_name": "Ớt",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu ăn 1/2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ bột ngọt/ đường/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ bột ngọt/ đường/ tiêu xay",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T17:52:41Z",
+  "page_title": "Cách làm gỏi gà rau răm hành tây giòn ngon thơm lừng cực đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookDish/cach-lam-goi-ga-rau-ram-hanh-tay-gion-ngon-thom-lung-cuc-don-avt-1200x676.jpg"
+}

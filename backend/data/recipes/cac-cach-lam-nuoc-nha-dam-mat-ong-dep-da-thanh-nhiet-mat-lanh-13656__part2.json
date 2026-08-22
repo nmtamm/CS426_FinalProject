@@ -1,0 +1,45 @@
+{
+  "source_id": "13656",
+  "name": "Nước nha đam mật ong nấu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/eb48aad3cf95bfc2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cac-cach-lam-nuoc-nha-dam-mat-ong-dep-da-thanh-nhiet-mat-lanh-13656",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cac-cach-lam-nuoc-nha-dam-mat-ong-dep-da-thanh-nhiet-mat-lanh-13656",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nha đam 300 gr (4 nhánh)",
+      "raw_name": "Nha đam",
+      "quantity": 300,
+      "unit": "gr",
+      "note": "4 nhánh",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mật ong 100 ml",
+      "raw_name": "Mật ong",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá dứa 20 gr (5 lá)",
+      "raw_name": "Lá dứa",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "5 lá",
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:54:52Z",
+  "page_title": "2 cách làm nước nha đam mật ong đẹp da thanh nhiệt mát lạnh",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/nuoc-nha-dam-mat-ong-nau-thumbnail.jpg"
+}

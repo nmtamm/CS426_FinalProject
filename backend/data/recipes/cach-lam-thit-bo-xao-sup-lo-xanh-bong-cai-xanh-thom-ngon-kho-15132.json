@@ -1,0 +1,71 @@
+{
+  "source_id": "15132",
+  "name": "Thịt bò xào súp lơ xanh - bông cải xanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/44cc771da5984bf8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-bo-xao-sup-lo-xanh-bong-cai-xanh-thom-ngon-kho-15132",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-bo-xao-sup-lo-xanh-bong-cai-xanh-thom-ngon-kho-15132",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò 400 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Súp lơ xanh 1 cái (bông cải xanh)",
+      "raw_name": "Súp lơ xanh",
+      "quantity": 1,
+      "unit": "cái",
+      "note": "bông cải xanh",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 6 tép",
+      "raw_name": "Tỏi 6 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ hạt nêm/ bột ngọt/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ hạt nêm/ bột ngọt/ tiêu xay",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:32:37Z",
+  "page_title": "Cách làm thịt bò xào súp lơ xanh - bông cải xanh thơm ngon tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookDish/cach-lam-thit-bo-xao-sup-lo-xanh-bong-cai-xanh-thom-ngon-kho-avt-1200x676.jpg"
+}

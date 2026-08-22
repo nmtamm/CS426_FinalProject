@@ -1,0 +1,61 @@
+{
+  "source_id": "01593",
+  "name": "Gỏi lưỡi heo thập cẩm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/50eb528e3fadf61b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-luoi-heo-chua-ngot-gion-thom--01593",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-luoi-heo-chua-ngot-gion-thom--01593",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lưỡi heo 1 cái (tầm 400g)",
+      "raw_name": "Lưỡi heo",
+      "quantity": 1,
+      "unit": "cái",
+      "note": "tầm 400g",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đu đủ xanh 1/2 quả",
+      "raw_name": "Đu đủ xanh",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1/2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cải trắng nhỏ 1 củ",
+      "raw_name": "Cải trắng nhỏ",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tây 1/2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T18:00:23Z",
+  "page_title": "2 cách làm gỏi lưỡi heo chua ngọt giòn thơm ăn hoài không ngán",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/goi-luoi-heo-thap-cam-thumbnail.jpg"
+}

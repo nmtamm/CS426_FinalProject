@@ -1,0 +1,59 @@
+{
+  "source_id": "12116",
+  "name": "Khô cá sặc chiên sả ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/14af6238890c283a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kho-ca-sac-chien-sa-ot-don-gian-bat-com-cho-bua-an-12116",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kho-ca-sac-chien-sa-ot-don-gian-bat-com-cho-bua-an-12116",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khô cá sặc 4 con (500gr)",
+      "raw_name": "Khô cá sặc 4 con",
+      "quantity": null,
+      "unit": null,
+      "note": "500gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sả 2 cây",
+      "raw_name": "Sả",
+      "quantity": 2,
+      "unit": "cây",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt 2 trái",
+      "raw_name": "Ớt",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 100 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ bột ngọt/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ bột ngọt/ tiêu xay",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:30:57Z",
+  "page_title": "Cách làm khô cá sặc chiên sả ớt đơn giản bắt cơm cho bữa ăn gia đình",
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookProduct/Khocasacchiensaot-1200x676.jpg"
+}

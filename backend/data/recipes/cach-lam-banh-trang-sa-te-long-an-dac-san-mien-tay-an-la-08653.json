@@ -1,0 +1,67 @@
+{
+  "source_id": "08653",
+  "name": "Bánh tráng sa tế Long An",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0a5ac6c4a02eb89c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trang-sa-te-long-an-dac-san-mien-tay-an-la-08653",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trang-sa-te-long-an-dac-san-mien-tay-an-la-08653",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh tráng 9 miếng",
+      "raw_name": "Bánh tráng 9 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tép sấy 2 muỗng canh",
+      "raw_name": "Tép sấy",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tóp mỡ 1 muỗng canh",
+      "raw_name": "Tóp mỡ",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành phi 1 muỗng canh",
+      "raw_name": "Hành phi",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt sa tế 2 muỗng canh",
+      "raw_name": "Ớt sa tế",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối tôm 1 muỗng canh",
+      "raw_name": "Muối tôm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:01:13Z",
+  "page_title": "Cách làm bánh tráng sa tế Long An, đặc sản miền Tây ăn là ghiền",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/thumb-1200x676-45.jpg"
+}

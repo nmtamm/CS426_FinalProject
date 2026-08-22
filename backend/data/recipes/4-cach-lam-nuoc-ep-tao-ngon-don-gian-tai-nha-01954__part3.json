@@ -1,0 +1,41 @@
+{
+  "source_id": "01954",
+  "name": "Nước ép táo dâu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0c755195c7937693.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-nuoc-ep-tao-ngon-don-gian-tai-nha-01954",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-nuoc-ep-tao-ngon-don-gian-tai-nha-01954",
+  "servings_text": "Cho 2 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Táo 2 trái",
+      "raw_name": "Táo",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dâu 5 trái",
+      "raw_name": "Dâu",
+      "quantity": 5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:56:20Z",
+  "page_title": "10 cách làm nước ép táo bằng máy ép trái cây tươi ngon bổ dưỡng tại nhà",
+  "variant_index": 3,
+  "variant_count": 10,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/nuoc-ep-tao-can-tay-thumbnail.jpg"
+}

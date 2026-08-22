@@ -1,0 +1,97 @@
+{
+  "source_id": "07815",
+  "name": "Sandwich cuộn chà bông",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9bd26bfc7f0e2431.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sandwich-cuon-thom-ngon-don-gian-cho-bua-sang-dinh-07815",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sandwich-cuon-thom-ngon-don-gian-cho-bua-sang-dinh-07815",
+  "servings_text": "Cho 10 cái",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh mì sandwich 10 lát",
+      "raw_name": "Bánh mì sandwich 10 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chà bông 1 ít",
+      "raw_name": "Chà bông",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sốt Mayonnaise 1 ít",
+      "raw_name": "Sốt Mayonnaise",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cà rốt 1/3 củ (băm nhuyễn)",
+      "raw_name": "Cà rốt",
+      "quantity": 0.333,
+      "unit": "củ",
+      "note": "băm nhuyễn",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành lá 1 nhánh (thái nhỏ)",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": "thái nhỏ",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Mè đen 1 muỗng cà phê",
+      "raw_name": "Mè đen",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Phô mai 1 ít (bào sợi)",
+      "raw_name": "Phô mai",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "bào sợi",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:14:38Z",
+  "page_title": "2 cách làm sandwich cuộn thơm ngon đơn giản cho bữa sáng dinh dưỡng",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookRecipe/Avatar/sandwich-cuon-cha-bong-thumbnail.jpg"
+}

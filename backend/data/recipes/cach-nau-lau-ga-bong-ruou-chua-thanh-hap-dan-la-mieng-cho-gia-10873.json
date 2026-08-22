@@ -1,0 +1,87 @@
+{
+  "source_id": "10873",
+  "name": "Lẩu gà bỗng rượu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8a792df8399d90e1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-lau-ga-bong-ruou-chua-thanh-hap-dan-la-mieng-cho-gia-10873",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-lau-ga-bong-ruou-chua-thanh-hap-dan-la-mieng-cho-gia-10873",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-lau",
+      "name": "Món lẩu"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt gà 500 gr",
+      "raw_name": "Thịt gà",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bỗng rượu 1/2 chén (chén cơm)",
+      "raw_name": "Bỗng rượu",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": "chén cơm",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành lá 3 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ngò gai 3 nhánh (mùi tàu)",
+      "raw_name": "Ngò gai",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": "mùi tàu",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt tươi 3 quả",
+      "raw_name": "Ớt tươi",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bún tươi 1 kg (ăn kèm)",
+      "raw_name": "Bún tươi",
+      "quantity": 1,
+      "unit": "kg",
+      "note": "ăn kèm",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ hạt nêm/ bột ngọt/ tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ hạt nêm/ bột ngọt/ tiêu",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:05:24Z",
+  "page_title": "Cách nấu lẩu gà bỗng rượu chua thanh hấp dẫn lạ miệng cho gia đình",
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookProduct/1-1200x676-30.jpg"
+}

@@ -1,0 +1,63 @@
+{
+  "source_id": "01658",
+  "name": "Sấu ngâm đường",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/97503ec140c8019c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sau-ngam-duong-ngon-gion-de-lau-khong-noi-vang-01658",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sau-ngam-duong-ngon-gion-de-lau-khong-noi-vang-01658",
+  "servings_text": "Cho 1 hũ",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sấu non 1 kg",
+      "raw_name": "Sấu non",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường vàng 1.5 kg",
+      "raw_name": "Đường vàng",
+      "quantity": 1.5,
+      "unit": "kg",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gừng 3 nhánh",
+      "raw_name": "Gừng",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Vôi 1 muỗng canh",
+      "raw_name": "Vôi",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:59:19Z",
+  "page_title": "2 cách làm sấu ngâm đường từ sấu tươi và đông lạnh ngon giòn, không bị váng",
+  "original_image_url": "https://cdn.tgdd.vn/2022/07/CookDish/cach-lam-sau-ngam-duong-ngon-gion-de-lau-khong-noi-vang-avt-1200x676.jpg"
+}

@@ -1,0 +1,109 @@
+{
+  "source_id": "05611",
+  "name": "Gỏi tàu hũ ky nấm đùi gà",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6f580d447651df9d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-tau-hu-ky-rau-cang-cua-va-nam-dui-ga-thanh-mat-05611",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-tau-hu-ky-rau-cang-cua-va-nam-dui-ga-thanh-mat-05611",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nấm đùi gà 200 gr",
+      "raw_name": "Nấm đùi gà",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tàu hũ ky 100 gr",
+      "raw_name": "Tàu hũ ky",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 50 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dưa leo 100 gr",
+      "raw_name": "Dưa leo",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tây 50 gr",
+      "raw_name": "Hành tây",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt sừng 1 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Rau răm 10 gr",
+      "raw_name": "Rau răm",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước cốt chanh 50 ml",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường/ muối 1 ít",
+      "raw_name": "Đường/ muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước mắm chay 1 thìa canh",
+      "raw_name": "Nước mắm chay",
+      "quantity": 1,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đầu phộng rang 50 gr",
+      "raw_name": "Đầu phộng rang",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T17:58:13Z",
+  "page_title": "2 cách làm gỏi tàu hũ ky rau càng cua và nấm đùi gà thanh mát thơm ngon",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookRecipe/Avatar/goi-tau-hu-ky-nam-dui-ga-thumbnail.jpg"
+}

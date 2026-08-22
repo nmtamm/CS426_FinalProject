@@ -1,0 +1,145 @@
+{
+  "source_id": "06701",
+  "name": "Cà ri  gà sốt masala",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c4bfbe5034f661c5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-mon-ca-ri-ga-an-do-sot-xoai-va-sot-bo-hap-dan-moi-06701",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-mon-ca-ri-ga-an-do-sot-xoai-va-sot-bo-hap-dan-moi-06701",
+  "servings_text": "Cho 4 người ăn",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-kho",
+      "name": "Món kho"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt gà phi lê 1 kg",
+      "raw_name": "Thịt gà phi lê",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành tím 500 gr (4 củ)",
+      "raw_name": "Hành tím",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "4 củ",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gừng 1 nhánh (nhánh to)",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": "nhánh to",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà chua 1 kg",
+      "raw_name": "Cà chua",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 2 củ",
+      "raw_name": "Tỏi",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bơ lạt 80 gr (2 viên)",
+      "raw_name": "Bơ lạt",
+      "quantity": 80,
+      "unit": "gr",
+      "note": "2 viên",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Sữa chua không đường 4 muỗng canh",
+      "raw_name": "Sữa chua không đường",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột garam masala 3 muỗng canh",
+      "raw_name": "Bột garam masala",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột ớt paprika 2 muỗng canh",
+      "raw_name": "Bột ớt paprika",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hạt cumin 2 muỗng canh",
+      "raw_name": "Hạt cumin",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Hạt cardamon 2 muỗng canh",
+      "raw_name": "Hạt cardamon",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Cooking cream 500 ml",
+      "raw_name": "Cooking cream",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Giấm 2 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Muối/ đường 1 ít",
+      "raw_name": "Muối/ đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T18:14:56Z",
+  "page_title": "3 cách nấu cà ri gà Ấn Độ sốt xoài, sốt bơ và sốt masala hấp dẫn mới lạ",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookRecipe/Avatar/ca-ri-ga-sot-masala-thumbnail.jpg"
+}

@@ -1,0 +1,157 @@
+{
+  "source_id": "00748",
+  "name": "Mì trộn trứng non lòng đào",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c59171f67c5cc305.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mi-tron-trung-long-dao-00748",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mi-tron-trung-long-dao-00748",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mì Hàn Quốc 2 gói (hoặc 3 gói mì ăn liền)",
+      "raw_name": "Mì Hàn Quốc",
+      "quantity": 2,
+      "unit": "gói",
+      "note": "hoặc 3 gói mì ăn liền",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng non 300 gr",
+      "raw_name": "Trứng non",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tôm 300 gr",
+      "raw_name": "Tôm",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bò viên 100 gr",
+      "raw_name": "Bò viên",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tôm khô 10 gr",
+      "raw_name": "Tôm khô",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Kim chi 100 gr",
+      "raw_name": "Kim chi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bắp cải 300 gr",
+      "raw_name": "Bắp cải",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành tây 100 gr",
+      "raw_name": "Hành tây",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tắc 1 trái",
+      "raw_name": "Tắc",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hành lá 1 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Ớt bột 1/2 muỗng cà phê",
+      "raw_name": "Ớt bột",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Sa tế 2 muỗng canh",
+      "raw_name": "Sa tế",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng cà phê",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Tương ớt xí muội 1 muỗng cà phê",
+      "raw_name": "Tương ớt xí muội",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Nước tương 2 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Giấm 1 ít",
+      "raw_name": "Giấm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Đường/tiêu xay 1 ít",
+      "raw_name": "Đường/tiêu xay",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 17
+    }
+  ],
+  "scraped_at": "2026-08-19T20:37:27Z",
+  "page_title": "4 cách làm mì trộn trứng lòng đào béo bùi hấp dẫn ngon như ngoài hàng",
+  "variant_index": 2,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/mi-tron-trung-non-long-dao-thumbnail-1.jpg"
+}

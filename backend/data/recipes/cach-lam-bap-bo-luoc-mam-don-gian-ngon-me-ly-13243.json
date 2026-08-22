@@ -1,0 +1,59 @@
+{
+  "source_id": "13243",
+  "name": "Bắp bò luộc mắm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8da297fa8ddfb136.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bap-bo-luoc-mam-don-gian-ngon-me-ly-13243",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bap-bo-luoc-mam-don-gian-ngon-me-ly-13243",
+  "servings_text": "Cho 3 người ăn",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bắp bò 600 gr (có thể diềm thăn bò)",
+      "raw_name": "Thịt bắp bò",
+      "quantity": 600,
+      "unit": "gr",
+      "note": "có thể diềm thăn bò",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước mắm 3 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hạt nêm 2 muỗng canh",
+      "raw_name": "Hạt nêm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sả 2 cây",
+      "raw_name": "Sả",
+      "quantity": 2,
+      "unit": "cây",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T18:21:53Z",
+  "page_title": "Cách làm bắp bò luộc mắm đơn giản, ngon mê ly",
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/bap-bo-luoc-mam-thumbnail-1.jpg"
+}

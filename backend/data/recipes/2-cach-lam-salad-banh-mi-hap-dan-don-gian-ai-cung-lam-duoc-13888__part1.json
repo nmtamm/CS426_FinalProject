@@ -1,0 +1,125 @@
+{
+  "source_id": "13888",
+  "name": "Salad bánh mì đen tôm cà chua",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1c2439e28edd4904.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-salad-banh-mi-hap-dan-don-gian-ai-cung-lam-duoc-13888",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-salad-banh-mi-hap-dan-don-gian-ai-cung-lam-duoc-13888",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh mì đen 1 lát",
+      "raw_name": "Bánh mì đen 1 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rau xà lách 100 gr",
+      "raw_name": "Rau xà lách",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tôm 700 gr",
+      "raw_name": "Tôm",
+      "quantity": 700,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bắp cải 300 gr",
+      "raw_name": "Bắp cải",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cà chua bi 100 gr",
+      "raw_name": "Cà chua bi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Cà rốt 1/2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dưa leo 1 trái",
+      "raw_name": "Dưa leo",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hạt bắp 100 gr",
+      "raw_name": "Hạt bắp",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ớt bột 1/2 muỗng cà phê",
+      "raw_name": "Ớt bột",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Sốt mè rang 2 muỗng cà phê",
+      "raw_name": "Sốt mè rang",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu oliu 2 muỗng cà phê",
+      "raw_name": "Dầu oliu",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Tiêu trắng 1 muỗng cà phê",
+      "raw_name": "Tiêu trắng",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Muôi/ tiêu xay 1 ít",
+      "raw_name": "Muôi/ tiêu xay",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T17:52:23Z",
+  "page_title": "2 cách làm salad bánh mì hấp dẫn đơn giản ai cũng làm được",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/salad-banh-mi-den-tom-ca-chua-thumbnail.jpg"
+}

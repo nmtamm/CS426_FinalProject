@@ -1,0 +1,59 @@
+{
+  "source_id": "16232",
+  "name": "Trà chanh mật ong",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0de625e39611c3f2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-chanh-mat-ong-thom-ngon-ha-nhiet-cuc-tot-cho-suc-16232",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-chanh-mat-ong-thom-ngon-ha-nhiet-cuc-tot-cho-suc-16232",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà túi lọc 1 gói",
+      "raw_name": "Trà túi lọc",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chanh 2 quả",
+      "raw_name": "Chanh",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mật ong 2 muỗng cà phê",
+      "raw_name": "Mật ong",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 100 gr",
+      "raw_name": "Đường",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:49:40Z",
+  "page_title": "Cách làm trà chanh mật ong thơm ngon hạ nhiệt, cực tốt cho sức khỏe",
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookDish/cach-lam-tra-chanh-mat-ong-thom-ngon-ha-nhiet-cuc-tot-cho-suc-avt-1200x676.jpg"
+}

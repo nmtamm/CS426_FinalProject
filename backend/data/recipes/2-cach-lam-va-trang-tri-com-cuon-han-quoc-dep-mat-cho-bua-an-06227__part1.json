@@ -1,0 +1,69 @@
+{
+  "source_id": "06227",
+  "name": "Cơm cuộn hình ốc sên",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b70408c470a8d13b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-va-trang-tri-com-cuon-han-quoc-dep-mat-cho-bua-an-06227",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-va-trang-tri-com-cuon-han-quoc-dep-mat-cho-bua-an-06227",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Phô mai Cheddar 2 miếng",
+      "raw_name": "Phô mai Cheddar 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lá rong biển 3 miếng",
+      "raw_name": "Lá rong biển 3 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dăm bông vuông 200 gr",
+      "raw_name": "Dăm bông vuông",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cơm 50 gr",
+      "raw_name": "Cơm",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu mè 1 ít",
+      "raw_name": "Dầu mè",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:22:42Z",
+  "page_title": "3 cách làm và trang trí cơm cuộn Hàn Quốc đẹp mắt cho bữa ăn thêm hấp dẫn",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookRecipe/Avatar/com-cuon-hinh-oc-sen-thumbnail.jpg"
+}

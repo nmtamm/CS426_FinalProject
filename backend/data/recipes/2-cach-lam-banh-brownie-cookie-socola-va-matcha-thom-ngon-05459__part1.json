@@ -1,0 +1,82 @@
+{
+  "source_id": "05459",
+  "name": "Brownie cookie socola",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/78246f4f673627f5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-brownie-cookie-socola-va-matcha-thom-ngon-05459",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-brownie-cookie-socola-va-matcha-thom-ngon-05459",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Socola đen 100 gr (55% trở lên)",
+      "raw_name": "Socola đen",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "55% trở lên",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bơ lạt 40 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng 1 quả",
+      "raw_name": "Trứng",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường nâu 60 gr (hoặc đường trắng)",
+      "raw_name": "Đường nâu",
+      "quantity": 60,
+      "unit": "gr",
+      "note": "hoặc đường trắng",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột mì đa dụng 40 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột cacao 5 gr",
+      "raw_name": "Bột cacao",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột nở 1 gr (baking powder)",
+      "raw_name": "Bột nở",
+      "quantity": 1,
+      "unit": "gr",
+      "note": "baking powder",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:23:30Z",
+  "page_title": "2 Cách làm bánh brownie cookie socola và matcha thơm ngon giòn rụm",
+  "variant_index": 1,
+  "variant_count": 2,
+  "note": null,
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookRecipe/Avatar/brownie-cookie-socola-thumbnail.jpg"
+}

@@ -1,0 +1,97 @@
+{
+  "source_id": "05313",
+  "name": "Gà chiên lắc phô mai",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ba011a90478a07be.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-ga-chien-sot-pho-mai-cay-va-lac-pho-mai-hap-dan-05313",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-ga-chien-sot-pho-mai-cay-va-lac-pho-mai-hap-dan-05313",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ức gà 500 gr",
+      "raw_name": "Ức gà",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột custard 10 gr",
+      "raw_name": "Bột custard",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột phô mai 20 gr",
+      "raw_name": "Bột phô mai",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột tẩm khô chiên giòn 1 gói",
+      "raw_name": "Bột tẩm khô chiên giòn",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột mì 100 gr",
+      "raw_name": "Bột mì",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tiêu 1/3 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 0.333,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gừng đập dập 10 gr",
+      "raw_name": "Gừng đập dập",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu ăn 100 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:19:16Z",
+  "page_title": "2 cách làm gà chiên sốt phô mai cay và lắc phô mai hấp dẫn, ngon khó cưỡng",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookRecipe/Avatar/ga-chien-lac-pho-mai-thumbnail-1.jpg"
+}

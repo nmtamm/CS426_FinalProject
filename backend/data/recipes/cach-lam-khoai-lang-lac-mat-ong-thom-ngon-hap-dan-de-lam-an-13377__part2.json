@@ -1,0 +1,46 @@
+{
+  "source_id": "13377",
+  "name": "Khoai lang lắc mật ong",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0f706102df6c443a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-khoai-lang-lac-mat-ong-thom-ngon-hap-dan-de-lam-an-13377",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-khoai-lang-lac-mat-ong-thom-ngon-hap-dan-de-lam-an-13377",
+  "servings_text": "Cho 1 - 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai lang mật 1 củ (300-500gr)",
+      "raw_name": "Khoai lang mật",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "300-500gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mật ong 1 ít",
+      "raw_name": "Mật ong",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:07:13Z",
+  "page_title": "Cách làm khoai lang lắc mật ong thơm ngon hấp dẫn dễ làm ăn vặt tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "Công thức được chia sẻ từ Tiktok Vào bếp cùng Điện máy XANH",
+  "original_image_url": "https://cdn.tgdd.vn/2023/11/CookRecipe/Avatar/khoai-lang-lac-mat-ong-cong-thuc-duoc-chia-se-tu-tiktok-vao-bep-cung-dien-may-xanh-thumbnail-3.jpg"
+}

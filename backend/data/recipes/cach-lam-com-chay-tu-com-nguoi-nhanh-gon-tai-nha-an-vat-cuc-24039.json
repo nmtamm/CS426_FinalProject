@@ -1,0 +1,95 @@
+{
+  "source_id": "24039",
+  "name": "cơm cháy từ cơm nguội",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/90a364c804deda9b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-com-chay-tu-com-nguoi-nhanh-gon-tai-nha-an-vat-cuc-24039",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-com-chay-tu-com-nguoi-nhanh-gon-tai-nha-an-vat-cuc-24039",
+  "servings_text": "Cho 200gr cơm nguội khô",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cơm khô 200 gr",
+      "raw_name": "Cơm khô",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tép hành 5 lá",
+      "raw_name": "Tép hành",
+      "quantity": 5,
+      "unit": "lá",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chà bông heo 1 ít",
+      "raw_name": "Chà bông heo",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hạt nêm 1/4 muỗng canh",
+      "raw_name": "Hạt nêm",
+      "quantity": 0.25,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước mắm 1/2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tương ớt 1/2 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước 1 muỗng canh",
+      "raw_name": "Nước",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu ăn 1/2 chén",
+      "raw_name": "Dầu ăn",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:53:22Z",
+  "page_title": "Cách làm cơm cháy từ cơm nguội nhanh gọn tại nhà ăn vặt cực cuốn",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/jefgae.jpg"
+}

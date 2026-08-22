@@ -1,0 +1,121 @@
+{
+  "source_id": "01679",
+  "name": "Salad khoai tây Hy Lạp",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/63e325c95c33cfb1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/4-mon-an-eatclean-nhanh-chong-don-gian-thom-ngon-01679",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/4-mon-an-eatclean-nhanh-chong-don-gian-thom-ngon-01679",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    },
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai tây 1 kg (hoặc khoai lang)",
+      "raw_name": "Khoai tây",
+      "quantity": 1,
+      "unit": "kg",
+      "note": "hoặc khoai lang",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối 3/4 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.75,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dầu oliu nguyên chất 1/4 chén",
+      "raw_name": "Dầu oliu nguyên chất",
+      "quantity": 0.25,
+      "unit": "chén",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Giấm trắng 3 muỗng canh",
+      "raw_name": "Giấm trắng",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tím băm nhỏ 1/4 chén",
+      "raw_name": "Hành tím băm nhỏ",
+      "quantity": 0.25,
+      "unit": "chén",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Mù tạt Dijon 1 muỗng canh",
+      "raw_name": "Mù tạt Dijon",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tiêu xay 1/2 muỗng cà phê",
+      "raw_name": "Tiêu xay",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Cà chua bi 175 g",
+      "raw_name": "Cà chua bi",
+      "quantity": 175,
+      "unit": "g",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Phô mai Feta 1/3 chén",
+      "raw_name": "Phô mai Feta",
+      "quantity": 0.333,
+      "unit": "chén",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Ô liu kalamata xắt nhỏ 1/4 quả",
+      "raw_name": "Ô liu kalamata xắt nhỏ",
+      "quantity": 0.25,
+      "unit": "quả",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Lá kinh giới cay tươi 2 muỗng canh",
+      "raw_name": "Lá kinh giới cay tươi",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Kinh giới khô 2 muỗng cà phê",
+      "raw_name": "Kinh giới khô",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:03:18Z",
+  "page_title": "4 món ăn Eatclean nhanh chóng, đơn giản, thơm ngon cho dân văn phòng",
+  "variant_index": 1,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/salad-khoai-tay-hy-lap-thumbnail.jpg"
+}

@@ -1,0 +1,71 @@
+{
+  "source_id": "22511",
+  "name": "Chân gà chiên bơ tỏi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/98db4161ac9b4e46.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chan-ga-chien-bo-toi-dam-vi-thom-ngon-voi-chao-chong-22511",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chan-ga-chien-bo-toi-dam-vi-thom-ngon-voi-chao-chong-22511",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chân gà 500 gr",
+      "raw_name": "Chân gà",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột tẩm khô chiên giòn Aji-Quick 1 gói (loại 42gr)",
+      "raw_name": "Bột tẩm khô chiên giòn Aji-Quick",
+      "quantity": 1,
+      "unit": "gói",
+      "note": "loại 42gr",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt sừng 2 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bơ 1 muỗng canh",
+      "raw_name": "Bơ",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị pha nước sốt 1 ít (nước mắm/ tương ớt/ đường/ bột ngọt)",
+      "raw_name": "Gia vị pha nước sốt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "nước mắm/ tương ớt/ đường/ bột ngọt",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:07:03Z",
+  "page_title": "Cách làm chân gà chiên bơ tỏi đậm vị thơm ngon với chảo chống dính tại nhà",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/312025%20%28800%20x%20800%20px%29%20%281200%20x%20676%20px%29%20%281%29.jpg"
+}

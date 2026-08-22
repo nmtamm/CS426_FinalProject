@@ -1,0 +1,61 @@
+{
+  "source_id": "11526",
+  "name": "Nước ép cóc thơm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/214c441848ee7a96.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-coc-thom-chua-ngot-giai-nhiet-cuc-da-11526",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-coc-thom-chua-ngot-giai-nhiet-cuc-da-11526",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cóc non 200 gr",
+      "raw_name": "Cóc non",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thơm 1/4 trái",
+      "raw_name": "Thơm",
+      "quantity": 0.25,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước đường 30 ml",
+      "raw_name": "Nước đường",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đá viên 250 gr",
+      "raw_name": "Đá viên",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:12:39Z",
+  "page_title": "2 cách làm nước ép cóc ổi và cóc thơm chua ngọt giải khát ngày nắng nóng",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/nuoc-ep-coc-thom-thumbnail-1.jpg"
+}

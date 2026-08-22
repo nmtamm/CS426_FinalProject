@@ -1,0 +1,97 @@
+{
+  "source_id": "05061",
+  "name": "Đậu rồng xào thịt bò",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/010b79eb3f5e0b58.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-dau-rong-xao-toi-nam-va-thit-bo-thom-ngon-don-gian-05061",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-dau-rong-xao-toi-nam-va-thit-bo-thom-ngon-don-gian-05061",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò 300 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu rồng 300 gr",
+      "raw_name": "Đậu rồng",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá 50 gr",
+      "raw_name": "Hành lá",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột bắp 1/2 muỗng canh",
+      "raw_name": "Bột bắp",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị 1 ít (tiêu/đường/hạt nêm)",
+      "raw_name": "Gia vị",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "tiêu/đường/hạt nêm",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước tương 1 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu hào 1/3 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 0.333,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:29:16Z",
+  "page_title": "3 Cách làm đậu rồng xào tỏi, nấm và thịt bò thơm ngon, đơn giản",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookRecipe/Avatar/dau-rong-xao-thit-bo-thumbnail.jpg"
+}

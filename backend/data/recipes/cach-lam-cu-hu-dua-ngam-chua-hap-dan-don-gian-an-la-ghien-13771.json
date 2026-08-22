@@ -1,0 +1,51 @@
+{
+  "source_id": "13771",
+  "name": "Củ hủ dừa ngâm chua",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e14a3a9379f6988f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cu-hu-dua-ngam-chua-hap-dan-don-gian-an-la-ghien-13771",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cu-hu-dua-ngam-chua-hap-dan-don-gian-an-la-ghien-13771",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Củ hủ dừa 1 kg",
+      "raw_name": "Củ hủ dừa",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Giấm 400 ml",
+      "raw_name": "Giấm",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 200 gr",
+      "raw_name": "Đường",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:28:11Z",
+  "page_title": "Cách làm củ hủ dừa ngâm chua hấp dẫn đơn giản ăn là ghiền",
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookDish/cach-lam-sinh-to-yen-mach-giam-can-thom-ngon-don-gian-tai-nha-avt-1200x676-1.jpg"
+}

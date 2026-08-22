@@ -1,0 +1,37 @@
+{
+  "source_id": "14393",
+  "name": "Pudding khoai môn từ bột pudding khoai môn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/203c0975260c3cf2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thach-pudding-khoai-mon-thom-beo-uong-tra-sua-ngon-14393",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thach-pudding-khoai-mon-thom-beo-uong-tra-sua-ngon-14393",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột pudding khoai môn 100 gr",
+      "raw_name": "Bột pudding khoai môn",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 100 gr",
+      "raw_name": "Đường",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T20:11:14Z",
+  "page_title": "2 cách làm thạch pudding khoai môn thơm béo uống trà sữa ngon hết sẩy",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/pudding-khoai-mon-tu-bot-pudding-khoai-mon-thumbnail.jpg"
+}

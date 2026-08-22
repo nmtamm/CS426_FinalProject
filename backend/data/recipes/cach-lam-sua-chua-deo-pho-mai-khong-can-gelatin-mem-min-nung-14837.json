@@ -1,0 +1,59 @@
+{
+  "source_id": "14837",
+  "name": "Sữa chua dẻo phô mai",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/41527e2b7d342adc.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-chua-deo-pho-mai-khong-can-gelatin-mem-min-nung-14837",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-chua-deo-pho-mai-khong-can-gelatin-mem-min-nung-14837",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sữa tươi có đường 250 ml",
+      "raw_name": "Sữa tươi có đường",
+      "quantity": 250,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa chua không đường 100 gr",
+      "raw_name": "Sữa chua không đường",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đặc 130 gr",
+      "raw_name": "Sữa đặc",
+      "quantity": 130,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Phô mai mềm 30 gr (2 miếng phô mai con bò cười)",
+      "raw_name": "Phô mai mềm",
+      "quantity": 30,
+      "unit": "gr",
+      "note": "2 miếng phô mai con bò cười",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột rau câu dẻo 1/2 muỗng cà phê",
+      "raw_name": "Bột rau câu dẻo",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:21:09Z",
+  "page_title": "Cách làm sữa chua dẻo phô mai không cần gelatin mềm mịn núng nính cực ngon",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookDish/5-cach-nau-sua-dau-ga-thom-ngon-beo-ngay-bo-duong-don-gian-avt-1200x676.jpg"
+}

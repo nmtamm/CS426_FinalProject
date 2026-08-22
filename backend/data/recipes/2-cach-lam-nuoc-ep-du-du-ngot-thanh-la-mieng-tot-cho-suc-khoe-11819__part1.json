@@ -1,0 +1,29 @@
+{
+  "source_id": "11819",
+  "name": "Nước ép đu đủ xanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0cebf26d7076e3a6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-ep-du-du-ngot-thanh-la-mieng-tot-cho-suc-khoe-11819",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-ep-du-du-ngot-thanh-la-mieng-tot-cho-suc-khoe-11819",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đu đủ xanh 400 gr",
+      "raw_name": "Đu đủ xanh",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    }
+  ],
+  "scraped_at": "2026-08-19T20:12:47Z",
+  "page_title": "2 cách làm nước ép đu đủ ngọt thanh lạ miệng tốt cho sức khỏe",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/nuoc-ep-du-du-xanh-thumbnail-1.jpg"
+}

@@ -1,0 +1,119 @@
+{
+  "source_id": "06560",
+  "name": "Bánh khoai môn Triều Châu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b9782f465d44aa3c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-khoai-mon-trieu-chau-mem-dai-don-gian-cho-ngay-06560",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-khoai-mon-trieu-chau-mem-dai-don-gian-cho-ngay-06560",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt heo băm 100 gr",
+      "raw_name": "Thịt heo băm",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Khoai môn 1/2 củ (khoảng 300 gr)",
+      "raw_name": "Khoai môn",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": "khoảng 300 gr",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi băm 2 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt băm 1 muỗng canh",
+      "raw_name": "Ớt băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột há cảo 250 gr",
+      "raw_name": "Bột há cảo",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột nếp 100 gr",
+      "raw_name": "Bột nếp",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu hào 1/2 muỗng cà phê",
+      "raw_name": "Dầu hào",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu mè 2.5 muỗng cà phê",
+      "raw_name": "Dầu mè",
+      "quantity": 2.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Giấm 1 muỗng canh (có thể thay bằng nước cốt chanh)",
+      "raw_name": "Giấm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "có thể thay bằng nước cốt chanh",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ đường/ hạt nêm/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ đường/ hạt nêm/ bột ngọt",
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T19:22:39Z",
+  "page_title": "Cách làm bánh khoai môn Triều Châu mềm dai đơn giản cho ngày chán cơm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/Thumb-1200x676-7.jpg"
+}

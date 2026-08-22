@@ -1,0 +1,59 @@
+{
+  "source_id": "13926",
+  "name": "Soda chanh muối",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/eadd125f1ec6af05.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-soda-chanh-muoi-giai-nhiet-mua-he-don-gian-tai-nha-13926",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-soda-chanh-muoi-giai-nhiet-mua-he-don-gian-tai-nha-13926",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Soda chanh 150 ml",
+      "raw_name": "Soda chanh",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chanh muối 1 quả",
+      "raw_name": "Chanh muối",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chanh 1/2 quả",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đá 1 ít",
+      "raw_name": "Đá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:04:52Z",
+  "page_title": "Cách pha soda chanh muối giải nhiệt mùa hè đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-pha-soda-chanh-muoi-giai-nhiet-mua-he-don-gian-tai-nha-avt-1200x676.jpg"
+}

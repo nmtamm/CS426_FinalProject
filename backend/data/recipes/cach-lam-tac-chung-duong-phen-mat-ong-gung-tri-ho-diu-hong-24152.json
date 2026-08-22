@@ -1,0 +1,59 @@
+{
+  "source_id": "24152",
+  "name": "tắc chưng đường phèn mật ong gừng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5d74ff8e343ba8d0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tac-chung-duong-phen-mat-ong-gung-tri-ho-diu-hong-24152",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tac-chung-duong-phen-mat-ong-gung-tri-ho-diu-hong-24152",
+  "servings_text": "Cho 400 gr tắc",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tắc 400 gr (quất)",
+      "raw_name": "Tắc",
+      "quantity": 400,
+      "unit": "gr",
+      "note": "quất",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gừng 50 gr",
+      "raw_name": "Gừng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường phèn 150 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mật ong 100 ml",
+      "raw_name": "Mật ong",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối hạt/ muối tinh)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối hạt/ muối tinh",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:46:44Z",
+  "page_title": "Cách làm tắc chưng đường phèn mật ong gừng trị ho, dịu họng tức thì",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/t%E1%BA%AFc%20ch%C6%B0ng%20%C4%91%C6%B0%E1%BB%9Dng%20ph%C3%A8n%20m%E1%BA%ADt%20ong%20g%E1%BB%ABng%201200x676.jpg"
+}

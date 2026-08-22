@@ -1,0 +1,59 @@
+{
+  "source_id": "24365",
+  "name": "trà sữa matcha trân châu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/df7b60e3704f43d0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-sua-matcha-tran-chau-duong-den-thom-ngon-chuan-24365",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-sua-matcha-tran-chau-duong-den-thom-ngon-chuan-24365",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột matcha 2 gr",
+      "raw_name": "Bột matcha",
+      "quantity": 2,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hỗn hợp sữa béo 180 ml (hoặc sữa tươi không đường)",
+      "raw_name": "Hỗn hợp sữa béo",
+      "quantity": 180,
+      "unit": "ml",
+      "note": "hoặc sữa tươi không đường",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sốt đường đen 15 ml",
+      "raw_name": "Sốt đường đen",
+      "quantity": 15,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trân châu đen 1 ít",
+      "raw_name": "Trân châu đen",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:09:52Z",
+  "page_title": "Cách làm trà sữa matcha trân châu đường đen thơm ngon chuẩn vị quán",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/tr%C3%A0%20s%E1%BB%AFa%20matcha%20tr%C3%A2n%20ch%C3%A2u%201200x676.jpg"
+}

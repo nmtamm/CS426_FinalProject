@@ -1,0 +1,81 @@
+{
+  "source_id": "10067",
+  "name": "Canh bí đao đậu phộng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/65f08bf72d116f5c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/4-cach-nau-canh-bi-dao-chay-thanh-dam-thom-ngon-don-gian-cho-10067",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/4-cach-nau-canh-bi-dao-chay-thanh-dam-thom-ngon-don-gian-cho-10067",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-canh",
+      "name": "Món canh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bí đao 1 trái (500gr)",
+      "raw_name": "Bí đao",
+      "quantity": 1,
+      "unit": "trái",
+      "note": "500gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu phộng tươi 300 gr (lạc)",
+      "raw_name": "Đậu phộng tươi",
+      "quantity": 300,
+      "unit": "gr",
+      "note": "lạc",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tím 2 củ",
+      "raw_name": "Hành tím",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá 3 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột canh 1 muỗng cà phê",
+      "raw_name": "Bột canh",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hạt nêm 1 muỗng cà phê",
+      "raw_name": "Hạt nêm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:49:54Z",
+  "page_title": "4 cách nấu canh bí đao chay thanh đạm thơm ngon đơn giản cho gia đình",
+  "variant_index": 4,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/canh-bi-dao-dau-phong-thumbnail-1.jpg"
+}

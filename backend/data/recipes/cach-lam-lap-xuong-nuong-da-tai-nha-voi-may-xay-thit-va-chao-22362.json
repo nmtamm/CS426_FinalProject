@@ -1,0 +1,163 @@
+{
+  "source_id": "22362",
+  "name": "Lạp xưởng nướng đá",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ac3253927cc759fb.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-lap-xuong-nuong-da-tai-nha-voi-may-xay-thit-va-chao-22362",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-lap-xuong-nuong-da-tai-nha-voi-may-xay-thit-va-chao-22362",
+  "servings_text": "Cho 6 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt đùi heo 1 kg",
+      "raw_name": "Thịt đùi heo",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt heo 1 kg",
+      "raw_name": "Thịt heo",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột đạm đậu nành 30 gr",
+      "raw_name": "Bột đạm đậu nành",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 20 gr",
+      "raw_name": "Đường",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột gừng 4 gr",
+      "raw_name": "Bột gừng",
+      "quantity": 4,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột ngọt 16 gr",
+      "raw_name": "Bột ngọt",
+      "quantity": 16,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột gạo men đỏ 5 gr",
+      "raw_name": "Bột gạo men đỏ",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tiêu đen xay 8 gr",
+      "raw_name": "Tiêu đen xay",
+      "quantity": 8,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột thì là 4 gr",
+      "raw_name": "Bột thì là",
+      "quantity": 4,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bột ngũ vị hương 2 gr",
+      "raw_name": "Bột ngũ vị hương",
+      "quantity": 2,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu hào 20 gr",
+      "raw_name": "Dầu hào",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước tương 10 gr",
+      "raw_name": "Nước tương",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Vỏ xúc xích collagen 1 ít",
+      "raw_name": "Vỏ xúc xích collagen",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Bột ớt cay tê Trung Quốc 1 ít",
+      "raw_name": "Bột ớt cay tê Trung Quốc",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Đá núi lửa 1 ít",
+      "raw_name": "Đá núi lửa",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Đá nướng lạp xưởng 1 ít",
+      "raw_name": "Đá nướng lạp xưởng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 17
+    },
+    {
+      "raw_text": "Gừng/ rượu trắng/ hạt tiêu đen 1 ít",
+      "raw_name": "Gừng/ rượu trắng/ hạt tiêu đen",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 18
+    }
+  ],
+  "scraped_at": "2026-08-19T18:59:30Z",
+  "page_title": "Cách làm lạp xưởng nướng đá tại nhà với máy xay thịt và chảo chống dính",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Thi%E1%BA%BFt%20k%E1%BA%BF%20ch%C6%B0a%20c%C3%B3%20t%C3%AAn%20-%202024-12-10T154339.027.jpg"
+}

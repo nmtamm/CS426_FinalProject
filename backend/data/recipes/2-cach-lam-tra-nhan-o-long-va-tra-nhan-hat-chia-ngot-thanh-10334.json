@@ -1,0 +1,51 @@
+{
+  "source_id": "10334",
+  "name": "Trà nhãn hạt chia",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bc87900880e7949f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-nhan-o-long-va-tra-nhan-hat-chia-ngot-thanh-10334",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-nhan-o-long-va-tra-nhan-hat-chia-ngot-thanh-10334",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hồng trà túi lọc 2 gói",
+      "raw_name": "Hồng trà túi lọc",
+      "quantity": 2,
+      "unit": "gói",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nhãn 20 quả",
+      "raw_name": "Nhãn",
+      "quantity": 20,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hạt chia 1 muỗng cà phê",
+      "raw_name": "Hạt chia",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường thốt nốt 3 cái (viên)",
+      "raw_name": "Đường thốt nốt",
+      "quantity": 3,
+      "unit": "cái",
+      "note": "viên",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:53:53Z",
+  "page_title": "Cách làm trà nhãn hạt chia ngọt thanh, mát lạnh giải nhiệt mùa hè",
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookProduct/tra-nhan-hat-chia-thumbnail-1-1200x676.jpg"
+}

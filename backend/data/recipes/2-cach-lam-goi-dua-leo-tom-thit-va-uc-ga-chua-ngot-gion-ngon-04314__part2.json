@@ -1,0 +1,141 @@
+{
+  "source_id": "04314",
+  "name": "Gỏi dưa leo ức gà",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/460e92aedb5ff057.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-dua-leo-tom-thit-va-uc-ga-chua-ngot-gion-ngon-04314",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-dua-leo-tom-thit-va-uc-ga-chua-ngot-gion-ngon-04314",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa leo 200 gr",
+      "raw_name": "Dưa leo",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà chua 2 quả",
+      "raw_name": "Cà chua",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Củ cải trắng 50 gr",
+      "raw_name": "Củ cải trắng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ức gà 100 gr",
+      "raw_name": "Ức gà",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Húng lủi 50 gr",
+      "raw_name": "Húng lủi",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước cốt chanh 3 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Vỏ chanh mài 1 muỗng cà phê",
+      "raw_name": "Vỏ chanh mài",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt sừng băm 1 muỗng canh",
+      "raw_name": "Ớt sừng băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đậu phộng 10 gr",
+      "raw_name": "Đậu phộng",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Mè rang 10 gr",
+      "raw_name": "Mè rang",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Muối 11 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 11,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Đường 2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Bột tẩm khô chiên giòn 1 gói",
+      "raw_name": "Bột tẩm khô chiên giòn",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Nước tương 1 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T18:02:54Z",
+  "page_title": "2 cách làm gỏi dưa leo tôm thịt và ức gà chua ngọt giòn ngon đơn giản",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/goi-dua-leo-uc-ga-thumbnail.jpg"
+}

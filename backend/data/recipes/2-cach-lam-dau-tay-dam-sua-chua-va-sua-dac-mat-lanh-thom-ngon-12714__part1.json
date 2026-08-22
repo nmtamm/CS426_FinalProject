@@ -1,0 +1,53 @@
+{
+  "source_id": "12714",
+  "name": "Dâu tây dầm sữa chua",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/854ee69e5ccff22f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-dau-tay-dam-sua-chua-va-sua-dac-mat-lanh-thom-ngon-12714",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-dau-tay-dam-sua-chua-va-sua-dac-mat-lanh-thom-ngon-12714",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dâu tây 300 gr",
+      "raw_name": "Dâu tây",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa chua 400 gr",
+      "raw_name": "Sữa chua",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối hạt 1 ít",
+      "raw_name": "Muối hạt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:14:29Z",
+  "page_title": "2 cách làm dâu tây dầm sữa chua và sữa đặc mát lạnh, thơm ngon",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/dau-tay-dam-sua-chua-thumbnail-2.jpg"
+}

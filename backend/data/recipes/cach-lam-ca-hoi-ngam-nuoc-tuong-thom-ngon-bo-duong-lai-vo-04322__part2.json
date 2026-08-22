@@ -1,0 +1,122 @@
+{
+  "source_id": "04322",
+  "name": "Cá hồi ngâm tương",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9f3e72ef10c6d855.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-hoi-ngam-nuoc-tuong-thom-ngon-bo-duong-lai-vo-04322",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-hoi-ngam-nuoc-tuong-thom-ngon-bo-duong-lai-vo-04322",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "meo-vao-bep",
+      "name": "Mẹo vào bếp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Phi lê cá hồi sống 300 gr",
+      "raw_name": "Phi lê cá hồi sống",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước tương Maggi đậm đặc 150 ml",
+      "raw_name": "Nước tương Maggi đậm đặc",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gừng 1 nhánh",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Chanh 1 trái",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tiêu sọ 10 gr",
+      "raw_name": "Tiêu sọ",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tỏi 2 củ",
+      "raw_name": "Tỏi",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hành tím 5 củ",
+      "raw_name": "Hành tím",
+      "quantity": 5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Ớt xiêm xanh đỏ 6 trái",
+      "raw_name": "Ớt xiêm xanh đỏ",
+      "quantity": 6,
+      "unit": "trái",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Ớt sừng loại không cay 5 trái",
+      "raw_name": "Ớt sừng loại không cay",
+      "quantity": 5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước lọc 70 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 70,
+      "unit": "ml",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T19:17:38Z",
+  "page_title": "2 cách làm cá hồi ngâm tương thơm ngon, bổ dưỡng, đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "Công thức được chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/ca-hoi-ngam-tuong-voi-ruou-trang-va-ot-thumbnail.jpg"
+}

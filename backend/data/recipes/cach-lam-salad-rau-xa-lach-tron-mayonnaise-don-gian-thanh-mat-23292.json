@@ -1,0 +1,83 @@
+{
+  "source_id": "23292",
+  "name": "Salad rau xà lách trộn mayonnaise",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2beee8dd79642167.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-salad-rau-xa-lach-tron-mayonnaise-don-gian-thanh-mat-23292",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-salad-rau-xa-lach-tron-mayonnaise-don-gian-thanh-mat-23292",
+  "servings_text": "Cho 2 - 3 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rau xà lách xoăn 200 gr",
+      "raw_name": "Rau xà lách xoăn",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà chua 150 gr",
+      "raw_name": "Cà chua",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dưa chuột 150 gr",
+      "raw_name": "Dưa chuột",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sốt mayonnaise 100 gr",
+      "raw_name": "Sốt mayonnaise",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ô liu 50 gr (hoặc dầu hướng dương)",
+      "raw_name": "Dầu ô liu",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "hoặc dầu hướng dương",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dấm gạo 50 gr (hoặc dấm nho Pháp)",
+      "raw_name": "Dấm gạo",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "hoặc dấm nho Pháp",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối tinh 5 gr",
+      "raw_name": "Muối tinh",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Trứng gà 2 quả (tùy chọn)",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": "tùy chọn",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T17:52:02Z",
+  "page_title": "Cách làm salad rau xà lách trộn mayonnaise đơn giản, thanh mát siêu nhanh",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20m%C3%B3n%20an%20t9%20%281200%20x%20676%20px%29%20%286%29.jpg"
+}

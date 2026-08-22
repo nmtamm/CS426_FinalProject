@@ -1,0 +1,75 @@
+{
+  "source_id": "11295",
+  "name": "Cơm nắm rong biển rau củ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/79c00853d5400c54.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-com-nam-rong-bien-rau-cu-hinh-tam-giac-don-gian-11295",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-com-nam-rong-bien-rau-cu-hinh-tam-giac-don-gian-11295",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gạo dẻo 2 chén (chén ăn cơm)",
+      "raw_name": "Gạo dẻo",
+      "quantity": 2,
+      "unit": "chén",
+      "note": "chén ăn cơm",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu que 200 gr",
+      "raw_name": "Đậu que",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rong biển rắc cơm 1 gói (50gr)",
+      "raw_name": "Rong biển rắc cơm",
+      "quantity": 1,
+      "unit": "gói",
+      "note": "50gr",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rong biển cuộn cơm 1 miếng",
+      "raw_name": "Rong biển cuộn cơm 1 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu mè 1 ít",
+      "raw_name": "Dầu mè",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:56:11Z",
+  "page_title": "Cách làm cơm nắm rong biển rau củ hình tam giác đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookProduct/1260-1200x676.jpg"
+}

@@ -1,0 +1,47 @@
+{
+  "source_id": "14038",
+  "name": "Hạt trân châu từ bột năng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6c73a0daf5c6c20c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-hat-tran-chau-tu-bot-nang-cuc-don-gian-tai-nha-ban-14038",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-hat-tran-chau-tu-bot-nang-cuc-don-gian-tai-nha-ban-14038",
+  "servings_text": "Cho 1 chén trân châu thành phẩm (chén ăn cơm)",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột năng 3 muỗng canh",
+      "raw_name": "Bột năng",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột trà xanh 1.5 muỗng canh (bạn có thể dùng thêm bột milo hoặc các bột tạo màu khác tùy thích)",
+      "raw_name": "Bột trà xanh",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": "bạn có thể dùng thêm bột milo hoặc các bột tạo màu khác tùy thích",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T18:56:48Z",
+  "page_title": "Cách làm hạt trân châu từ bột năng cực đơn giản tại nhà bạn nên thử ngay",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-hat-tran-chau-tu-bot-nang-cuc-don-gian-tai-nha-avt-1200x676.jpg"
+}

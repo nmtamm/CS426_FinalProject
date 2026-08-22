@@ -1,0 +1,69 @@
+{
+  "source_id": "01534",
+  "name": "Cách làm gỏi vịt hoa chuối",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/eb0539e5c8c4a2c4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-vit-cuc-ngon-voi-bap-cai-hoa-chuoi--01534",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-vit-cuc-ngon-voi-bap-cai-hoa-chuoi--01534",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Vịt nguyên con 1.5 kg",
+      "raw_name": "Vịt nguyên con",
+      "quantity": 1.5,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hoa chuối 1 cái (bắp chuối)",
+      "raw_name": "Hoa chuối",
+      "quantity": 1,
+      "unit": "cái",
+      "note": "bắp chuối",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu phộng rang chín 50 gam",
+      "raw_name": "Đậu phộng rang chín 50 gam",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (nước mắm/đường/bột nêm/bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "nước mắm/đường/bột nêm/bột ngọt",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T17:58:36Z",
+  "page_title": "2 cách làm gỏi vịt cực ngon với bắp cải, hoa chuối",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/cach-lam-goi-vit-hoa-chuoi-thumbnail.jpg"
+}

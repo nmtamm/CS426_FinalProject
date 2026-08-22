@@ -1,0 +1,149 @@
+{
+  "source_id": "02245",
+  "name": "Hủ tiếu gà nấm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6819f4192307dd22.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-hu-tieu-ga-thom-ngon-don-gian-day-du-dinh-duong-02245",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-hu-tieu-ga-thom-ngon-don-gian-day-du-dinh-duong-02245",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hủ tiếu khô 1 kg",
+      "raw_name": "Hủ tiếu khô",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gà 1 con (khoảng 1.2kg)",
+      "raw_name": "Gà 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 1.2kg",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Khô mực 5 con",
+      "raw_name": "Khô mực 5 con",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Xương gà 2 kg",
+      "raw_name": "Xương gà",
+      "quantity": 2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Da heo 400 gr",
+      "raw_name": "Da heo",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Mỡ heo 400 gr",
+      "raw_name": "Mỡ heo",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nấm rơm 400 gr",
+      "raw_name": "Nấm rơm",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Củ cải trắng 1 củ",
+      "raw_name": "Củ cải trắng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Giá đỗ 200 gr",
+      "raw_name": "Giá đỗ",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hẹ 200 gr",
+      "raw_name": "Hẹ",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Hành lá 5 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Ngò rí 5 nhánh",
+      "raw_name": "Ngò rí",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước mắm 3 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Đường phèn 3 muỗng canh",
+      "raw_name": "Đường phèn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Tiêu 1 muỗng cà phê (nguyên hạt)",
+      "raw_name": "Tiêu",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "nguyên hạt",
+      "display_order": 15
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/muối/hạt nêm/bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/muối/hạt nêm/bột ngọt",
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T18:08:05Z",
+  "page_title": "2 cách nấu hủ tiếu gà thơm ngon đơn giản dễ làm cho bữa sáng gia đình",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/hu-tieu-ga-nam-thumbnail-2.jpg"
+}

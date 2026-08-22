@@ -1,0 +1,69 @@
+{
+  "source_id": "04473",
+  "name": "Bí đỏ hấp chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7c1ff0f7a8666bc0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-bi-do-hap-va-bi-do-ham-chay-thom-ngon-dinh-duong-04473",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-bi-do-hap-va-bi-do-ham-chay-thom-ngon-dinh-duong-04473",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bí hồ lô nguyên quả 1 quả",
+      "raw_name": "Bí hồ lô nguyên quả",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 50 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bí đỏ 50 gr",
+      "raw_name": "Bí đỏ",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nấm đông cô 1 cái",
+      "raw_name": "Nấm đông cô",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tàu hũ ky tươi 1/6 lá",
+      "raw_name": "Tàu hũ ky tươi",
+      "quantity": 0.167,
+      "unit": "lá",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tàu hũ ky chiên 1/8 lá",
+      "raw_name": "Tàu hũ ky chiên",
+      "quantity": 0.125,
+      "unit": "lá",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:46:01Z",
+  "page_title": "2 cách làm bí đỏ hấp và bí đỏ hầm chay thơm ngon dinh dưỡng",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/bi-do-hap-chay-thumbnail-1.jpg"
+}

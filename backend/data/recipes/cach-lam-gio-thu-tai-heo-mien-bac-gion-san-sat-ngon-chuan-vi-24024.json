@@ -1,0 +1,67 @@
+{
+  "source_id": "24024",
+  "name": "Giò thủ tai heo miền Bắc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3b4f62591e4cf02e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-gio-thu-tai-heo-mien-bac-gion-san-sat-ngon-chuan-vi-24024",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-gio-thu-tai-heo-mien-bac-gion-san-sat-ngon-chuan-vi-24024",
+  "servings_text": "Cho gia đình 4 - 6 người ăn (tương đương khoảng 1.2kg giò)",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Má lợn 1/2 cái (khoảng 600 gr)",
+      "raw_name": "Má lợn",
+      "quantity": 0.5,
+      "unit": "cái",
+      "note": "khoảng 600 gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt chân giò 700 gr",
+      "raw_name": "Thịt chân giò",
+      "quantity": 700,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tai lợn 1 cái (khoảng 250 gr)",
+      "raw_name": "Tai lợn",
+      "quantity": 1,
+      "unit": "cái",
+      "note": "khoảng 250 gr",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mộc nhĩ khô 40 gr",
+      "raw_name": "Mộc nhĩ khô",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nấm hương khô 40 gr",
+      "raw_name": "Nấm hương khô",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (nước mắm/ hạt tiêu/ hạt nêm/ bột canh/ mì chính/ dầu ăn/ hành tím/ gừng/ muối hạt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "nước mắm/ hạt tiêu/ hạt nêm/ bột canh/ mì chính/ dầu ăn/ hành tím/ gừng/ muối hạt",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:32:13Z",
+  "page_title": "Cách làm giò thủ tai heo miền Bắc giòn sần sật, ngon chuẩn vị để đón Tết",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t01%201200676%20%2862%29.jpg"
+}

@@ -1,0 +1,139 @@
+{
+  "source_id": "22702",
+  "name": "Cá cơm rim lạc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/08c1f66489f4f5cd.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-com-rim-lac-hao-com-sieu-don-gian-bang-chao-chong-22702",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-com-rim-lac-hao-com-sieu-don-gian-bang-chao-chong-22702",
+  "servings_text": "Cho 1 phần",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hạt nêm 1 muỗng",
+      "raw_name": "Hạt nêm",
+      "quantity": 1,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tương ớt 2 muỗng",
+      "raw_name": "Tương ớt",
+      "quantity": 2,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước lọc 50 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tiêu xay 1 ít",
+      "raw_name": "Tiêu xay",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Mè rang 1 ít (tuỳ chọn)",
+      "raw_name": "Mè rang",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "tuỳ chọn",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Cá cơm khô 400 gr",
+      "raw_name": "Cá cơm khô",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đậu phộng 30 gr (đậu phộng rang sẵn)",
+      "raw_name": "Đậu phộng",
+      "quantity": 30,
+      "unit": "gr",
+      "note": "đậu phộng rang sẵn",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột chiên giòn 30 gr",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tỏi băm 2 muỗng",
+      "raw_name": "Tỏi băm",
+      "quantity": 2,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Ớt sừng 1 muỗng",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Chanh 2 lá",
+      "raw_name": "Chanh",
+      "quantity": 2,
+      "unit": "lá",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước mắm 50 ml",
+      "raw_name": "Nước mắm",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Mạch nha 1 muỗng",
+      "raw_name": "Mạch nha",
+      "quantity": 1,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Đường 1 muỗng",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T20:27:25Z",
+  "page_title": "Cách làm cá cơm rim lạc hao cơm siêu đơn giản bằng chảo chống dính",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/7665injmb.jpg"
+}

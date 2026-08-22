@@ -1,0 +1,127 @@
+{
+  "source_id": "24281",
+  "name": "Bê hấp tía tô",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f18645b20fa1d09f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-be-hap-tia-to-thom-ngon-thit-mem-ngot-khong-bi-hoi-24281",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-be-hap-tia-to-thom-ngon-thit-mem-ngot-khong-bi-hoi-24281",
+  "servings_text": "Cho 4 - 5 người ăn",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bê 1 kg (bì nguyên tảng)",
+      "raw_name": "Thịt bê",
+      "quantity": 1,
+      "unit": "kg",
+      "note": "bì nguyên tảng",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sả 1 bó",
+      "raw_name": "Sả 1 bó",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gừng 50 gr",
+      "raw_name": "Gừng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Củ riềng/ lá tía tô 1 ít",
+      "raw_name": "Củ riềng/ lá tía tô",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt cay 1 quả",
+      "raw_name": "Ớt cay",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt sừng 1 quả",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Rượu gừng 1 muỗng canh (hoặc rượu trắng)",
+      "raw_name": "Rượu gừng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "hoặc rượu trắng",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Mè rang 1 ít (nếu có)",
+      "raw_name": "Mè rang",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "nếu có",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối hạt/ hạt nêm/ đường/ tiêu xay/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối hạt/ hạt nêm/ đường/ tiêu xay/ bột ngọt",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Tương bần 2 muỗng canh (pha nước chấm)",
+      "raw_name": "Tương bần",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "pha nước chấm",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Đậu phộng rang giã nhỏ 1 ít",
+      "raw_name": "Đậu phộng rang giã nhỏ",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Rau ăn kèm 1 ít (Chuối xanh/ khế chua/ dứa/ dưa chuột/ rau thơm/ bún tươi/ bánh tráng)",
+      "raw_name": "Rau ăn kèm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Chuối xanh/ khế chua/ dứa/ dưa chuột/ rau thơm/ bún tươi/ bánh tráng",
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T18:20:14Z",
+  "page_title": "Cách làm bê hấp tía tô thơm ngon, thịt mềm ngọt không bị hôi cực đơn giản",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t03%201200676%20-%202026-04-02T143146.547.jpg"
+}

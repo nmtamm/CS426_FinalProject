@@ -1,0 +1,137 @@
+{
+  "source_id": "06874",
+  "name": "Bánh chưng gạo nếp lứt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/aae2cb95d6fc3001.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-chung-gao-nep-lut-cho-ngay-tet-tron-vi-06874",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-chung-gao-nep-lut-cho-ngay-tet-tron-vi-06874",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nếp lứt 500 gr",
+      "raw_name": "Nếp lứt",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gạo lứt 500 gr",
+      "raw_name": "Gạo lứt",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu xanh 500 gr (cà vỏ)",
+      "raw_name": "Đậu xanh",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "cà vỏ",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nấm đông cô khô 100 gr",
+      "raw_name": "Nấm đông cô khô",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nấm tuyết 100 gr",
+      "raw_name": "Nấm tuyết",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hạt sen 100 gr",
+      "raw_name": "Hạt sen",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hạt dẻ 100 gr",
+      "raw_name": "Hạt dẻ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gừng 15 gr",
+      "raw_name": "Gừng",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hành boa rô 15 gr",
+      "raw_name": "Hành boa rô",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Ngũ vị hương 1/2 muỗng cà phê",
+      "raw_name": "Ngũ vị hương",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Xì dầu 2 muỗng canh",
+      "raw_name": "Xì dầu",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu hào 2 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Muối/đường 1 ít",
+      "raw_name": "Muối/đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T19:38:34Z",
+  "page_title": "2 Cách làm bánh chưng gạo nếp lứt thơm lừng ít calo không lo sợ béo",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookRecipe/Avatar/banh-chung-gao-nep-lut-thumbnail.jpg"
+}

@@ -1,0 +1,57 @@
+{
+  "source_id": "06169",
+  "name": "Chân gà hầm đậu đen",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/721b5c5c03b54965.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chan-ga-ham-dau-den-bo-duong-thanh-mat-cho-gia-dinh-06169",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chan-ga-ham-dau-den-bo-duong-thanh-mat-cho-gia-dinh-06169",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-canh",
+      "name": "Món canh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chân gà 6 cái",
+      "raw_name": "Chân gà",
+      "quantity": 6,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu đen 500 gr",
+      "raw_name": "Đậu đen",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chanh 1/2 quả",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T18:12:35Z",
+  "page_title": "2 cách làm chân gà hầm đậu đen bổ dưỡng thanh mát ngon dễ cho gia đình",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookRecipe/Avatar/chan-ga-ham-dau-den-thumbnail.jpg"
+}

@@ -1,0 +1,119 @@
+{
+  "source_id": "08499",
+  "name": "Nem cuốn vịt (chả giò vịt)",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/516d1135a19b4552.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nem-cuon-vit-cha-gio-vit-thom-ngon-la-mieng-tai-nha-08499",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nem-cuon-vit-cha-gio-vit-thom-ngon-la-mieng-tai-nha-08499",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ức vịt 2 miếng (700 gr)",
+      "raw_name": "Ức vịt 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": "700 gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng gà 1 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bánh tráng chả giò 1 gói",
+      "raw_name": "Bánh tráng chả giò",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá 3 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước tương 1 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hắc xì dầu 1 muỗng canh",
+      "raw_name": "Hắc xì dầu",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tương đen 2 muỗng canh",
+      "raw_name": "Tương đen",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tương hột ớt 1 muỗng canh",
+      "raw_name": "Tương hột ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tương ớt chua ngọt 1 muỗng canh",
+      "raw_name": "Tương ớt chua ngọt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu mè 1 muỗng cà phê",
+      "raw_name": "Dầu mè",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu ăn 100 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T20:35:42Z",
+  "page_title": "Cách làm nem cuốn vịt (chả giò vịt) thơm ngon, lạ miệng tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/giò-800x450.jpg"
+}

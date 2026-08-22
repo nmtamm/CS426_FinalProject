@@ -1,0 +1,107 @@
+{
+  "source_id": "23034",
+  "name": "Miến gà măng khô",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1532ec7e4c27ce1a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-mien-ga-mang-kho-thom-ngon-bang-noi-com-dien-tu-23034",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-mien-ga-mang-kho-thom-ngon-bang-noi-com-dien-tu-23034",
+  "servings_text": "Cho 1 con gà 1.4kg",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà thả vườn 1.4 kg",
+      "raw_name": "Gà thả vườn",
+      "quantity": 1.4,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xương gà 800 gr (khoảng 2 bộ xương)",
+      "raw_name": "Xương gà",
+      "quantity": 800,
+      "unit": "gr",
+      "note": "khoảng 2 bộ xương",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Măng khô 300 gr",
+      "raw_name": "Măng khô",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Miến 400 gr",
+      "raw_name": "Miến",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gừng 40 gr",
+      "raw_name": "Gừng",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tím 70 gr (khoảng 3 củ lớn)",
+      "raw_name": "Hành tím",
+      "quantity": 70,
+      "unit": "gr",
+      "note": "khoảng 3 củ lớn",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tây 350 gr (khoảng 2 củ lớn)",
+      "raw_name": "Hành tây",
+      "quantity": 350,
+      "unit": "gr",
+      "note": "khoảng 2 củ lớn",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành lá 20 gr",
+      "raw_name": "Hành lá",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rau răm 20 gr",
+      "raw_name": "Rau răm",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Rau ăn kèm 1 ít (bắp cải bào/giá sống)",
+      "raw_name": "Rau ăn kèm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "bắp cải bào/giá sống",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị 1 ít (nước mắm/muối/đường phèn/hạt nêm/tiêu xay)",
+      "raw_name": "Gia vị",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "nước mắm/muối/đường phèn/hạt nêm/tiêu xay",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:06:29Z",
+  "page_title": "Cách nấu miến gà măng khô thơm ngon bằng nồi cơm điện tử",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/mien-ga-mang-kho.jpg"
+}

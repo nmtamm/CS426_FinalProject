@@ -1,0 +1,67 @@
+{
+  "source_id": "15154",
+  "name": "Đậu phộng rang bơ tỏi ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b0ca1a12470b57f2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-phong-rang-bo-toi-ot-thom-ngon-vua-mieng-cuc-don-15154",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-phong-rang-bo-toi-ot-thom-ngon-vua-mieng-cuc-don-15154",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu phộng 300 gr (lạc)",
+      "raw_name": "Đậu phộng",
+      "quantity": 300,
+      "unit": "gr",
+      "note": "lạc",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bơ thực vật 2 muỗng cà phê",
+      "raw_name": "Bơ thực vật",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi băm 3 muỗng cà phê",
+      "raw_name": "Tỏi băm",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt băm 2 muỗng cà phê",
+      "raw_name": "Ớt băm",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ đường/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ đường/ bột ngọt",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:55:54Z",
+  "page_title": "Cách làm đậu phộng rang bơ tỏi ớt thơm ngon vừa miệng cực đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookDish/cach-lam-dau-phong-rang-bo-toi-ot-thom-ngon-vua-mieng-cuc-don-avt-1200x676.jpg"
+}

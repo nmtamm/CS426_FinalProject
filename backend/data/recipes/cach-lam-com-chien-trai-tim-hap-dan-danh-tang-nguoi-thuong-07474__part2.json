@@ -1,0 +1,114 @@
+{
+  "source_id": "07474",
+  "name": "Cơm chiên uyên ương",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/970932369d7c4625.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-com-chien-trai-tim-hap-dan-danh-tang-nguoi-thuong-07474",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-com-chien-trai-tim-hap-dan-danh-tang-nguoi-thuong-07474",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cơm trắng 1 bát (bát lớn)",
+      "raw_name": "Cơm trắng",
+      "quantity": 1,
+      "unit": "bát",
+      "note": "bát lớn",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tôm tươi 100 gr (khoảng 2 con tôm to)",
+      "raw_name": "Tôm tươi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "khoảng 2 con tôm to",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lạp xưởng 2 cây",
+      "raw_name": "Lạp xưởng",
+      "quantity": 2,
+      "unit": "cây",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cà rốt 1/2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đậu cô ve 100 gr",
+      "raw_name": "Đậu cô ve",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành lá 1 ít",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tỏi 4 tép (thái nhỏ)",
+      "raw_name": "Tỏi 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": "thái nhỏ",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu ăn 2.5 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bột canh 1/2 muỗng cà phê",
+      "raw_name": "Bột canh",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (hạt nêm/ bột ngọt/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hạt nêm/ bột ngọt/ tiêu xay",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T19:36:54Z",
+  "page_title": "2 Cách làm cơm chiên trái tim hấp dẫn dành tặng người thương cho ngày 8/3",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "Công thức được chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2022/03/CookRecipe/Avatar/com-chien-uyen-uong-cong-thuc-duoc-chia-se-tu-nguoi-dung-thumbnail.jpg"
+}

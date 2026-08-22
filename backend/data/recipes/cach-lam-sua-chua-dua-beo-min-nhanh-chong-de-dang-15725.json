@@ -1,0 +1,35 @@
+{
+  "source_id": "15725",
+  "name": "Sữa chua dừa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d0e106967f8adadc.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-chua-dua-beo-min-nhanh-chong-de-dang-15725",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-chua-dua-beo-min-nhanh-chong-de-dang-15725",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nước cốt dừa 400 gr",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Men làm sữa chua 2 gr (1 viên nang probiotic)",
+      "raw_name": "Men làm sữa chua",
+      "quantity": 2,
+      "unit": "gr",
+      "note": "1 viên nang probiotic",
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T20:15:27Z",
+  "page_title": "Cách làm sữa chua dừa béo mịn nhanh chóng dễ dàng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookDish/cach-lam-sua-chua-dua-beo-min-nhanh-chong-de-dang-avt-1200x676.jpg"
+}

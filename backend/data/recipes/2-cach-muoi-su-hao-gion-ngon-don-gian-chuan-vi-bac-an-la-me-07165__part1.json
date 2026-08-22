@@ -1,0 +1,77 @@
+{
+  "source_id": "07165",
+  "name": "Muối su hào",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b0381e6ed25d34d1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-muoi-su-hao-gion-ngon-don-gian-chuan-vi-bac-an-la-me-07165",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-muoi-su-hao-gion-ngon-don-gian-chuan-vi-bac-an-la-me-07165",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Su hào 1 kg",
+      "raw_name": "Su hào",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hoa cà rốt 1 ít",
+      "raw_name": "Hoa cà rốt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gừng 1 củ (củ nhỏ bằng ngón tay cái)",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "củ nhỏ bằng ngón tay cái",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 5 tép",
+      "raw_name": "Tỏi 5 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt 3/4 trái",
+      "raw_name": "Ớt",
+      "quantity": 0.75,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 1.5 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:38:40Z",
+  "page_title": "2 Cách muối su hào giòn ngon, đơn giản, chuẩn vị Bắc ăn là mê",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookRecipe/Avatar/muoi-su-hao-thumbnail.jpg"
+}

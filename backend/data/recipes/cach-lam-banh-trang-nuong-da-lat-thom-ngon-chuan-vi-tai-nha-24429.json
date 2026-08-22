@@ -1,0 +1,99 @@
+{
+  "source_id": "24429",
+  "name": "Bánh tráng nướng đà lạt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1b70417b2bea2ac6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trang-nuong-da-lat-thom-ngon-chuan-vi-tai-nha-24429",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trang-nuong-da-lat-thom-ngon-chuan-vi-tai-nha-24429",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh tráng Đà Lạt chuyên dụng 1 ít (loại trắng hoặc vàng có mè)",
+      "raw_name": "Bánh tráng Đà Lạt chuyên dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "loại trắng hoặc vàng có mè",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt heo băm 500 gr (chọn loại có cả nạc và mỡ)",
+      "raw_name": "Thịt heo băm",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "chọn loại có cả nạc và mỡ",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bắp Mỹ 2 trái",
+      "raw_name": "Bắp Mỹ",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá 100 gr",
+      "raw_name": "Hành lá",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Trứng gà 5 quả (hoặc trứng cút)",
+      "raw_name": "Trứng gà",
+      "quantity": 5,
+      "unit": "quả",
+      "note": "hoặc trứng cút",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tép khô 50 gr (con ruốc)",
+      "raw_name": "Tép khô",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "con ruốc",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bơ lạt 1 ít",
+      "raw_name": "Bơ lạt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Sốt Mayonnaise 1 ít",
+      "raw_name": "Sốt Mayonnaise",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tương ớt 1 ít",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ hạt nêm/ dầu ăn)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ hạt nêm/ dầu ăn",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:52:33Z",
+  "page_title": "Cách làm bánh tráng nướng Đà Lạt thơm ngon, chuẩn vị tại nhà cực đơn giản",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/b%C3%A1nh%20tr%C3%A1ng%20n%C6%B0%E1%BB%9Bng%20%C4%91%C3%A0%20l%E1%BA%A1t%201200x676%201.jpg"
+}

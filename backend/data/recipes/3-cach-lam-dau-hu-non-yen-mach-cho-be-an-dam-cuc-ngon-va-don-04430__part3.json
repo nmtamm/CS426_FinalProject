@@ -1,0 +1,61 @@
+{
+  "source_id": "04430",
+  "name": "Cách làm đậu hũ non yến mạch hoa đậu biếc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/dff1fbf788de7808.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-dau-hu-non-yen-mach-cho-be-an-dam-cuc-ngon-va-don-04430",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-dau-hu-non-yen-mach-cho-be-an-dam-cuc-ngon-va-don-04430",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Yến mạch 60 gr",
+      "raw_name": "Yến mạch",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hoa đậu biếc 20 gr (6 bông)",
+      "raw_name": "Hoa đậu biếc",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "6 bông",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước lọc 150 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu Ô-liu 1 muỗng cà phê",
+      "raw_name": "Dầu Ô-liu",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Kiwi 1 quả",
+      "raw_name": "Kiwi",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:24:27Z",
+  "page_title": "3 cách làm đậu hũ non yến mạch cho bé ăn dặm cực ngon, đơn giản",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/cach-lam-dau-hu-non-yen-mach-hoa-dau-biec-thumbnail.jpg"
+}

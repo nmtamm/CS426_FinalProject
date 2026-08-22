@@ -1,0 +1,57 @@
+{
+  "source_id": "02041",
+  "name": "Nước ép dưa hấu táo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7179b8474d58217d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nuoc-ep-dua-hau-vua-ngon-lai-mat-don-gian-02041",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nuoc-ep-dua-hau-vua-ngon-lai-mat-don-gian-02041",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa hấu 300 gr",
+      "raw_name": "Dưa hấu",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Táo 2 quả",
+      "raw_name": "Táo",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 2 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:00:18Z",
+  "page_title": "15 Cách làm nước ép dưa hấu bằng máy xay sinh tố thanh mát ngày nóng",
+  "variant_index": 7,
+  "variant_count": 15,
+  "original_image_url": "https://cdn.tgdd.vn/2022/03/CookRecipe/Avatar/nuoc-ep-dua-hau-tao-thumbnail.jpg"
+}

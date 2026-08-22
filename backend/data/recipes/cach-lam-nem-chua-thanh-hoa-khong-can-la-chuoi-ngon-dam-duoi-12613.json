@@ -1,0 +1,91 @@
+{
+  "source_id": "12613",
+  "name": "Nem chua Thanh Hóa không cần lá chuối",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ca0a26b2462c938c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nem-chua-thanh-hoa-khong-can-la-chuoi-ngon-dam-duoi-12613",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nem-chua-thanh-hoa-khong-can-la-chuoi-ngon-dam-duoi-12613",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt nạc mông 2 kg",
+      "raw_name": "Thịt nạc mông",
+      "quantity": 2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Da heo 1 kg",
+      "raw_name": "Da heo",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá ổi 1 ít (hoặc lá đinh lăng/ lá rau răm/ lá sung)",
+      "raw_name": "Lá ổi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hoặc lá đinh lăng/ lá rau răm/ lá sung",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 3 củ",
+      "raw_name": "Tỏi",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt 10 trái",
+      "raw_name": "Ớt",
+      "quantity": 10,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rượu trắng 5 muỗng cà phê",
+      "raw_name": "Rượu trắng",
+      "quantity": 5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị làm nem chua Thái 140 gr (khoảng 2 gói)",
+      "raw_name": "Gia vị làm nem chua Thái",
+      "quantity": 140,
+      "unit": "gr",
+      "note": "khoảng 2 gói",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tiêu hạt 4 muỗng canh",
+      "raw_name": "Tiêu hạt",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường 50 gr",
+      "raw_name": "Đường",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:01:07Z",
+  "page_title": "Cách làm nem chua Thanh Hóa không cần lá chuối ngon đắm đuối",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/nemthum-1200x676.jpg"
+}

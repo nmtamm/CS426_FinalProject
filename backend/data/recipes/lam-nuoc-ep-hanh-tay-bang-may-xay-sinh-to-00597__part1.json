@@ -1,0 +1,33 @@
+{
+  "source_id": "00597",
+  "name": "Nước ép hành tây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3acf02157e2f227b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/lam-nuoc-ep-hanh-tay-bang-may-xay-sinh-to-00597",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/lam-nuoc-ep-hanh-tay-bang-may-xay-sinh-to-00597",
+  "servings_text": "Cho 3 - 4 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hành tây 4 củ",
+      "raw_name": "Hành tây",
+      "quantity": 4,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    }
+  ],
+  "scraped_at": "2026-08-19T19:57:56Z",
+  "page_title": "3 cách làm nước ép hành tây bằng máy xay sinh tố dễ uống, thanh lọc cơ thể",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/Khongtieude(25).jpg"
+}

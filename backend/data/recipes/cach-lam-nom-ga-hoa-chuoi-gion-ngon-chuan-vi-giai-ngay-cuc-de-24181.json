@@ -1,0 +1,111 @@
+{
+  "source_id": "24181",
+  "name": "Nộm gà hoa chuối",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/50de23e8830435c5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nom-ga-hoa-chuoi-gion-ngon-chuan-vi-giai-ngay-cuc-de-24181",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nom-ga-hoa-chuoi-gion-ngon-chuan-vi-giai-ngay-cuc-de-24181",
+  "servings_text": "Cho 3 - 4 người ăn",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    },
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt gà 500 gr",
+      "raw_name": "Thịt gà",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hoa chuối 1 cái (khoảng 400gr)",
+      "raw_name": "Hoa chuối",
+      "quantity": 1,
+      "unit": "cái",
+      "note": "khoảng 400gr",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lạc rang 2 muỗng canh (đậu phộng)",
+      "raw_name": "Lạc rang",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "đậu phộng",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chanh 2 quả",
+      "raw_name": "Chanh",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt 2 quả",
+      "raw_name": "Ớt",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi phi 1 muỗng canh (tùy chọn)",
+      "raw_name": "Tỏi phi",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "tùy chọn",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Rau thơm 1 ít (rau mùi/ rau húng/ kinh giới)",
+      "raw_name": "Rau thơm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "rau mùi/ rau húng/ kinh giới",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước lọc 3 muỗng canh",
+      "raw_name": "Nước lọc",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tương ớt 1 thìa canh",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Lá chanh thái sợi 1 ít",
+      "raw_name": "Lá chanh thái sợi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (nước mắm/ đường/ muối/ mì chính/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "nước mắm/ đường/ muối/ mì chính/ tiêu xay",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T17:50:27Z",
+  "page_title": "Cách làm nộm gà hoa chuối giòn ngon chuẩn vị giải ngấy cực dễ tại nhà",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t03%201200676%20%2832%29.jpg"
+}

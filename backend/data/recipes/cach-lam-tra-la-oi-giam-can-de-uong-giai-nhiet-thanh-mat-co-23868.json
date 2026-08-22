@@ -1,0 +1,51 @@
+{
+  "source_id": "23868",
+  "name": "Trà lá ổi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5f34b051145b2eab.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-la-oi-giam-can-de-uong-giai-nhiet-thanh-mat-co-23868",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-la-oi-giam-can-de-uong-giai-nhiet-thanh-mat-co-23868",
+  "servings_text": "Cho 1 - 2 người dùng",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lá ổi 15 lá (lá bánh tẻ không già không non)",
+      "raw_name": "Lá ổi",
+      "quantity": 15,
+      "unit": "lá",
+      "note": "lá bánh tẻ không già không non",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Túi trà atiso 2 gói (hoặc trà túi lọc bất kỳ)",
+      "raw_name": "Túi trà atiso",
+      "quantity": 2,
+      "unit": "gói",
+      "note": "hoặc trà túi lọc bất kỳ",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mật ong 1 muỗng canh (tùy chọn)",
+      "raw_name": "Mật ong",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "tùy chọn",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước lọc 800 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 800,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:47:09Z",
+  "page_title": "Cách làm trà lá ổi giảm cân dễ uống, giải nhiệt, thanh mát cơ thể tại nhà",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20m%C3%B3n%20an%20t1%20%281200%20x%20676%20px%29%20%2835%29.jpg"
+}

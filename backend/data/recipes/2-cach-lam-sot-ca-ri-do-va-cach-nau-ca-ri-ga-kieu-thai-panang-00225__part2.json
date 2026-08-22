@@ -1,0 +1,97 @@
+{
+  "source_id": "00225",
+  "name": "Cà ri đỏ thịt gà kiểu Thái - Panang",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/39e7485386fd3589.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sot-ca-ri-do-va-cach-nau-ca-ri-ga-kieu-thai-panang-00225",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sot-ca-ri-do-va-cach-nau-ca-ri-ga-kieu-thai-panang-00225",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-kho",
+      "name": "Món kho"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cà ri thái 6 muỗng canh (có thể tự làm từ công thức trên)",
+      "raw_name": "Cà ri thái",
+      "quantity": 6,
+      "unit": "muỗng canh",
+      "note": "có thể tự làm từ công thức trên",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt gà 400 g",
+      "raw_name": "Thịt gà",
+      "quantity": 400,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước cốt dừa 400 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bí ngô 150 g",
+      "raw_name": "Bí ngô",
+      "quantity": 150,
+      "unit": "g",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đậu que 120 g",
+      "raw_name": "Đậu que",
+      "quantity": 120,
+      "unit": "g",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Húng quế 1 nhánh",
+      "raw_name": "Húng quế",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Lá chanh 5 g (3 lá)",
+      "raw_name": "Lá chanh",
+      "quantity": 5,
+      "unit": "g",
+      "note": "3 lá",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị 10 g (đường/nước mắm)",
+      "raw_name": "Gia vị",
+      "quantity": 10,
+      "unit": "g",
+      "note": "đường/nước mắm",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gừng 3 lát",
+      "raw_name": "Gừng 3 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:14:38Z",
+  "page_title": "Cách làm sốt cà ri đỏ và cách nấu cà ri gà kiểu Thái - Panang tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/06/CookRecipe/Avatar/ca-ri-do-thit-ga-kieu-thai-panang-thumbnail.jpg"
+}

@@ -1,0 +1,67 @@
+{
+  "source_id": "09453",
+  "name": "Nước trái cây sơ ri",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/96ae0aa840aaae03.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-trai-cay-so-ri-thuc-uong-giai-khat-mua-nang-09453",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-trai-cay-so-ri-thuc-uong-giai-khat-mua-nang-09453",
+  "servings_text": "Cho 6 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sơ ri 400 gr",
+      "raw_name": "Sơ ri",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dứa 1/2 quả",
+      "raw_name": "Dứa",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mít 200 gr",
+      "raw_name": "Mít",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lá dứa 2 lá",
+      "raw_name": "Lá dứa",
+      "quantity": 2,
+      "unit": "lá",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường phèn 150 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:02:52Z",
+  "page_title": "Cách làm nước trái cây sơ ri thức uống giải khát mùa nắng nóng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookProduct/1200-1200x676-79.jpg"
+}

@@ -1,0 +1,111 @@
+{
+  "source_id": "06941",
+  "name": "Lòng bò xào dứa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b5a49761a801ad65.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-long-bo-xao-dua-don-gian-hap-han-dua-com-06941",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-long-bo-xao-dua-don-gian-hap-han-dua-com-06941",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lòng bò 500 gr",
+      "raw_name": "Lòng bò",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dứa 1/4 trái",
+      "raw_name": "Dứa",
+      "quantity": 0.25,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà chua 1 trái",
+      "raw_name": "Cà chua",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành lá 2 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gừng đập dập 20 gr",
+      "raw_name": "Gừng đập dập",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi cắt nhỏ 3 tép",
+      "raw_name": "Tỏi cắt nhỏ 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Rượu trắng 50 ml",
+      "raw_name": "Rượu trắng",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ bột ngọt/ hạt nêm/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ bột ngọt/ hạt nêm/ tiêu xay",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:28:16Z",
+  "page_title": "Cách làm lòng bò xào dứa đơn giản, hấp hẫn, đưa cơm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/longbothum-1200x676.jpg"
+}

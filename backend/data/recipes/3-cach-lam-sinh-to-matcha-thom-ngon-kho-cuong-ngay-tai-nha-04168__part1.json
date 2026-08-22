@@ -1,0 +1,73 @@
+{
+  "source_id": "04168",
+  "name": "Sinh tố matcha bơ kiwi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9be7dba0600cb44d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sinh-to-matcha-thom-ngon-kho-cuong-ngay-tai-nha-04168",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sinh-to-matcha-thom-ngon-kho-cuong-ngay-tai-nha-04168",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột matcha 2 muỗng cà phê",
+      "raw_name": "Bột matcha",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Kiwi 2 trái",
+      "raw_name": "Kiwi",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cải xoăn 2 chén",
+      "raw_name": "Cải xoăn",
+      "quantity": 2,
+      "unit": "chén",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bơ 1/2 trái",
+      "raw_name": "Bơ",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hạt điều 1/3 chén",
+      "raw_name": "Hạt điều",
+      "quantity": 0.333,
+      "unit": "chén",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước 3 chén",
+      "raw_name": "Nước",
+      "quantity": 3,
+      "unit": "chén",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:02:21Z",
+  "page_title": "3 cách làm sinh tố matcha thơm ngon khó cưỡng ngay tại nhà",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/sinh-to-matcha-kiwi-thumbnail-1.jpg"
+}

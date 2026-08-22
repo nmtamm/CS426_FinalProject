@@ -1,0 +1,57 @@
+{
+  "source_id": "09289",
+  "name": "Chè đậu phộng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/df342092656b67b6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-che-dau-phong-bui-beo-thom-ngon-cuc-de-lam-09289",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-che-dau-phong-bui-beo-thom-ngon-cuc-de-lam-09289",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-che",
+      "name": "Món chè"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu phộng 250 gr",
+      "raw_name": "Đậu phộng",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lá dứa 5 lá",
+      "raw_name": "Lá dứa",
+      "quantity": 5,
+      "unit": "lá",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường phèn 30 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:19:16Z",
+  "page_title": "2 Cách nấu chè đậu phộng bùi béo, thơm ngon cực dễ làm",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/che-dau-phong-thumbnail.jpg"
+}

@@ -1,0 +1,75 @@
+{
+  "source_id": "07464",
+  "name": "Cách luộc bắp bò",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/aa381dea7ee7b32b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-luoc-bap-bo-ngon-va-mem-chi-voi-4-buoc-ai-cung-lam-duoc-07464",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-luoc-bap-bo-ngon-va-mem-chi-voi-4-buoc-ai-cung-lam-duoc-07464",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bắp bò 700 gr",
+      "raw_name": "Bắp bò",
+      "quantity": 700,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hoa hồi 6 cái",
+      "raw_name": "Hoa hồi",
+      "quantity": 6,
+      "unit": "cái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gừng 10 miếng (thái lát)",
+      "raw_name": "Gừng 10 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": "thái lát",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá 1/2 chén (thái khúc)",
+      "raw_name": "Hành lá",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": "thái khúc",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Xì dầu 2 muỗng canh",
+      "raw_name": "Xì dầu",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:31:28Z",
+  "page_title": "Cách luộc bắp bò ngon và mềm chỉ với 4 bước ai cũng làm được",
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookProduct/Screenshotter--YouTube-Bquytlucbpbginstchctht-0’58”-852x480.jpg"
+}

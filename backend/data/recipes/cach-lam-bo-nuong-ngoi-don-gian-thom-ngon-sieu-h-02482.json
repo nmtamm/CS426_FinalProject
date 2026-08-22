@@ -1,0 +1,175 @@
+{
+  "source_id": "02482",
+  "name": "Bò nướng ngói",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/612bc4c1ef0cacd4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bo-nuong-ngoi-don-gian-thom-ngon-sieu-h-02482",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bo-nuong-ngoi-don-gian-thom-ngon-sieu-h-02482",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bắp bò 500 g",
+      "raw_name": "Bắp bò",
+      "quantity": 500,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bún tươi 500 g",
+      "raw_name": "Bún tươi",
+      "quantity": 500,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sả 2 cây",
+      "raw_name": "Sả",
+      "quantity": 2,
+      "unit": "cây",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chuối chát 2 trái",
+      "raw_name": "Chuối chát",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dưa leo 2 trái",
+      "raw_name": "Dưa leo",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Khế 2 trái",
+      "raw_name": "Khế",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Xà lách 300 g",
+      "raw_name": "Xà lách",
+      "quantity": 300,
+      "unit": "g",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tỏi băm 2 muỗng cà phê",
+      "raw_name": "Tỏi băm",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Mắm nêm 2 muỗng canh",
+      "raw_name": "Mắm nêm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Ớt băm 1 muỗng cà phê",
+      "raw_name": "Ớt băm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Cái Bánh trán 10 g",
+      "raw_name": "Cái Bánh trán",
+      "quantity": 10,
+      "unit": "g",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Cà tím 2 quả",
+      "raw_name": "Cà tím",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Đậu bắp 100 g",
+      "raw_name": "Đậu bắp",
+      "quantity": 100,
+      "unit": "g",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Dầu ăn 20 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Đường trắng 1/2 muỗng cà phê",
+      "raw_name": "Đường trắng",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Hạt nêm 1/2 muỗng cà phê",
+      "raw_name": "Hạt nêm",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 17
+    },
+    {
+      "raw_text": "Nước mắm 10 ml",
+      "raw_name": "Nước mắm",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 18
+    },
+    {
+      "raw_text": "Sa tế 5 g",
+      "raw_name": "Sa tế",
+      "quantity": 5,
+      "unit": "g",
+      "note": null,
+      "display_order": 19
+    }
+  ],
+  "scraped_at": "2026-08-19T18:31:56Z",
+  "page_title": "Cách làm bò nướng ngói đơn giản, thơm ngon, siêu hấp dẫn",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/05/21/1257277/cach-lam-bo-nuong-ngoi-don-gian-thom-ngon-sieu-h-5-760x367.jpg"
+}

@@ -1,0 +1,49 @@
+{
+  "source_id": "02118",
+  "name": "Nước ép lựu chanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/038ec8bef2d73167.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nuoc-ep-voi-luu-chanh-dua-hau-va-tao-c-02118",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nuoc-ep-voi-luu-chanh-dua-hau-va-tao-c-02118",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lựu 1 trái",
+      "raw_name": "Lựu",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chanh vàng 1 trái",
+      "raw_name": "Chanh vàng",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường trắng 1/2 muỗng canh",
+      "raw_name": "Đường trắng",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:58:04Z",
+  "page_title": "3 cách làm nước ép lựu với chanh, dưa hấu và táo cực ngon, cực đơn giản",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/nuoc-ep-luu-chanh-thumbnail.jpg"
+}

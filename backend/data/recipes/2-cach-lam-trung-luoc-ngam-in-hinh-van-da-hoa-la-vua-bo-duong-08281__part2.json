@@ -1,0 +1,57 @@
+{
+  "source_id": "08281",
+  "name": "Trứng in hình hoa lá",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/fda409840d3d68d2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-trung-luoc-ngam-in-hinh-van-da-hoa-la-vua-bo-duong-08281",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-trung-luoc-ngam-in-hinh-van-da-hoa-la-vua-bo-duong-08281",
+  "servings_text": "Cho 10 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trứng gà 11 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 11,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước tương 200 ml",
+      "raw_name": "Nước tương",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rau mùi 1 ít (ngò rí)",
+      "raw_name": "Rau mùi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "ngò rí",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:08:07Z",
+  "page_title": "2 Cách làm trứng luộc ngâm in hình vân đá, hoa lá vừa bổ dưỡng lại đẹp mắt",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/trung-in-hinh-hoa-la-thumbnail.jpg"
+}

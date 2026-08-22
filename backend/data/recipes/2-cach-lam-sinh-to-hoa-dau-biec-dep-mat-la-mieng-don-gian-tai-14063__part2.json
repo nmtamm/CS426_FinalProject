@@ -1,0 +1,53 @@
+{
+  "source_id": "14063",
+  "name": "Sinh tố hoa đậu biếc chuối việt quất",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/93b7097dd3e41d65.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sinh-to-hoa-dau-biec-dep-mat-la-mieng-don-gian-tai-14063",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sinh-to-hoa-dau-biec-dep-mat-la-mieng-don-gian-tai-14063",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hoa đậu biếc 10 cái",
+      "raw_name": "Hoa đậu biếc",
+      "quantity": 10,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chuối 2 quả",
+      "raw_name": "Chuối",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Việt quất khô 1/3 chén (chén ăn cơm)",
+      "raw_name": "Việt quất khô",
+      "quantity": 0.333,
+      "unit": "chén",
+      "note": "chén ăn cơm",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Topping ăn kèm 1 ít (trái cây/ hạt dinh dưỡng)",
+      "raw_name": "Topping ăn kèm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "trái cây/ hạt dinh dưỡng",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:09:46Z",
+  "page_title": "2 cách làm sinh tố hoa đậu biếc đẹp mắt, lạ miệng đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/sinh-to-hoa-dau-biec-chuoi-viet-quat-thumbnail-1.jpg"
+}

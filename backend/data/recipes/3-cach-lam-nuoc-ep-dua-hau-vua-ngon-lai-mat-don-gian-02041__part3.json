@@ -1,0 +1,57 @@
+{
+  "source_id": "02041",
+  "name": "Nước ép dưa hấu chanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/80460fb3e5c5f413.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nuoc-ep-dua-hau-vua-ngon-lai-mat-don-gian-02041",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nuoc-ep-dua-hau-vua-ngon-lai-mat-don-gian-02041",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa hấu 1/2 trái",
+      "raw_name": "Dưa hấu",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chanh 1 trái",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đá viên 1 chén",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Siro đường 1 muỗng canh",
+      "raw_name": "Siro đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:00:18Z",
+  "page_title": "15 Cách làm nước ép dưa hấu bằng máy xay sinh tố thanh mát ngày nóng",
+  "variant_index": 3,
+  "variant_count": 15,
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookRecipe/Avatar/nuoc-ep-dua-hau-chanh-thumbnail.jpg"
+}

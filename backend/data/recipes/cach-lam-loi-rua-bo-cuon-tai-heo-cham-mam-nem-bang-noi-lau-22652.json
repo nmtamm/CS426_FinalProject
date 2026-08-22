@@ -1,0 +1,91 @@
+{
+  "source_id": "22652",
+  "name": "Lõi rùa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/22ae8073fb3c6f91.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-loi-rua-bo-cuon-tai-heo-cham-mam-nem-bang-noi-lau-22652",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-loi-rua-bo-cuon-tai-heo-cham-mam-nem-bang-noi-lau-22652",
+  "servings_text": "Cho 1 cái",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lõi rùa 1 cái",
+      "raw_name": "Lõi rùa",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tai heo 1 cái",
+      "raw_name": "Tai heo",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá nghệ 1 ít",
+      "raw_name": "Lá nghệ",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng 1 ít",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Mắm nêm 1 chén",
+      "raw_name": "Mắm nêm",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Chanh 1 trái",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi băm 1 ít",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt băm 1 ít",
+      "raw_name": "Ớt băm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường 1 ít",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:22:53Z",
+  "page_title": "Cách làm lõi rùa bò cuốn tai heo chấm mắm nêm bằng nồi lẩu inox",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/loi-rua-thumb.jpg"
+}

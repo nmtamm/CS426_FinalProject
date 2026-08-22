@@ -1,0 +1,75 @@
+{
+  "source_id": "22826",
+  "name": "Trứng nướng Thái Lan",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a13531bb2f5529ef.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-trung-nuong-thai-lan-thom-beo-bang-noi-hap-va-bep-22826",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-trung-nuong-thai-lan-thom-beo-bang-noi-hap-va-bep-22826",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trứng gà 20 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 20,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Vỏ bọc collagen 1 cây",
+      "raw_name": "Vỏ bọc collagen",
+      "quantity": 1,
+      "unit": "cây",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gia vị 1 ít (nước mắm/mật ong/hạt nêm/tiêu xay/muối)",
+      "raw_name": "Gia vị",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "nước mắm/mật ong/hạt nêm/tiêu xay/muối",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tắc 2 trái",
+      "raw_name": "Tắc",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt xay 1 ít",
+      "raw_name": "Ớt xay",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rau răm 1 ít",
+      "raw_name": "Rau răm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dưa chuột 1 ít",
+      "raw_name": "Dưa chuột",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:57:56Z",
+  "page_title": "Cách làm trứng nướng Thái Lan thơm béo bằng nồi hấp và bếp nướng điện",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/dlsa%CC%88a%CC%88a%CC%88a%CC%88.jpg"
+}

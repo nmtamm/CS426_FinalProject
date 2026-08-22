@@ -1,0 +1,77 @@
+{
+  "source_id": "14612",
+  "name": "Cacao kem trứng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b323824db330221e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-cacao-trung-beo-ngay-hap-dan-nhu-ngoai-hang-14612",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-cacao-trung-beo-ngay-hap-dan-nhu-ngoai-hang-14612",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột cacao nguyên chất 10 gr",
+      "raw_name": "Bột cacao nguyên chất",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa đặc 20 ml",
+      "raw_name": "Sữa đặc",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng 2 quả (Chỉ lấy lòng đỏ)",
+      "raw_name": "Trứng",
+      "quantity": 2,
+      "unit": "quả",
+      "note": "Chỉ lấy lòng đỏ",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Kem béo 15 ml",
+      "raw_name": "Kem béo",
+      "quantity": 15,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột cake cream 50 gr",
+      "raw_name": "Bột cake cream",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Whipping cream 200 ml",
+      "raw_name": "Whipping cream",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Sữa tươi 200 ml (100ml dùng làm kem trứng và 100ml dùng để pha bột cacao)",
+      "raw_name": "Sữa tươi",
+      "quantity": 200,
+      "unit": "ml",
+      "note": "100ml dùng làm kem trứng và 100ml dùng để pha bột cacao",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:53:28Z",
+  "page_title": "2 cách làm cacao trứng béo ngậy hấp dẫn như ngoài hàng",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/cacao-kem-trung-thumbnail.jpg"
+}

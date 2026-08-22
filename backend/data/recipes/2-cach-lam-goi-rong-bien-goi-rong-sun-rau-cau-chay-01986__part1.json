@@ -1,0 +1,145 @@
+{
+  "source_id": "01986",
+  "name": "Gỏi rong biển chay ngũ sắc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0e647b75900fe004.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-rong-bien-goi-rong-sun-rau-cau-chay-01986",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-rong-bien-goi-rong-sun-rau-cau-chay-01986",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    },
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa leo 1 quả",
+      "raw_name": "Dưa leo",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rong sụn 100 gr",
+      "raw_name": "Rong sụn",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1 củ (nhỏ)",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "nhỏ",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nấm bào ngư xám 100 gr",
+      "raw_name": "Nấm bào ngư xám",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nấm đùi gà 1 cây",
+      "raw_name": "Nấm đùi gà",
+      "quantity": 1,
+      "unit": "cây",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt chuông vàng 1 quả",
+      "raw_name": "Ớt chuông vàng",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt sừng không cay 2 quả",
+      "raw_name": "Ớt sừng không cay",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tắc 6 quả",
+      "raw_name": "Tắc",
+      "quantity": 6,
+      "unit": "quả",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đậu phộng rang 1 ít",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Rau húng lủi 1 ít",
+      "raw_name": "Rau húng lủi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Tương ớt 2 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước mắm chay 4 muỗng canh",
+      "raw_name": "Nước mắm chay",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Đường 5 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng cà phê",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T17:58:52Z",
+  "page_title": "2 cách làm gỏi rong biển chay thanh đạm đổi vị cho bữa chay thêm ngon miệng",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/goi-rong-bien-chay-ngu-sac-thumbnail.jpg"
+}

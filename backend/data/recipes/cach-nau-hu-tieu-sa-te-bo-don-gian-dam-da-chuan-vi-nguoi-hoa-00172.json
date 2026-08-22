@@ -1,0 +1,115 @@
+{
+  "source_id": "00172",
+  "name": "Hủ tiếu sa tế bò",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6b2a0b0eea203c4b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-hu-tieu-sa-te-bo-don-gian-dam-da-chuan-vi-nguoi-hoa-00172",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-hu-tieu-sa-te-bo-don-gian-dam-da-chuan-vi-nguoi-hoa-00172",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt nạm bò 150 g",
+      "raw_name": "Thịt nạm bò",
+      "quantity": 150,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt phi lê bò 400 g",
+      "raw_name": "Thịt phi lê bò",
+      "quantity": 400,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hủ tiếu khô 300 g",
+      "raw_name": "Hủ tiếu khô",
+      "quantity": 300,
+      "unit": "g",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt sa tế 80 g",
+      "raw_name": "Ớt sa tế",
+      "quantity": 80,
+      "unit": "g",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bơ đậu phộng 80 g",
+      "raw_name": "Bơ đậu phộng",
+      "quantity": 80,
+      "unit": "g",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sốt sa tế 150 g",
+      "raw_name": "Sốt sa tế",
+      "quantity": 150,
+      "unit": "g",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Xương bò 1 kg",
+      "raw_name": "Xương bò",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gừng 10 g",
+      "raw_name": "Gừng",
+      "quantity": 10,
+      "unit": "g",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Mỡ heo 20 g",
+      "raw_name": "Mỡ heo",
+      "quantity": 20,
+      "unit": "g",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Các loại rau ăn kèm 1 ít (Rau quế/ húng thơm/ dưa leo/ khế/ chuối chát/ cà chua/...tùy khẩu vị)",
+      "raw_name": "Các loại rau ăn kèm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Rau quế/ húng thơm/ dưa leo/ khế/ chuối chát/ cà chua/...tùy khẩu vị",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ đường phèn/ hạt nêm/ tỏi/...)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ đường phèn/ hạt nêm/ tỏi/...",
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:30:11Z",
+  "page_title": "Cách nấu hủ tiếu sa tế bò đơn giản, thơm ngon đậm đà, chuẩn vị người Hoa",
+  "original_image_url": "https://cdn.tgdd.vn/2020/06/CookProduct/thum1200-1200x676-24.jpg"
+}

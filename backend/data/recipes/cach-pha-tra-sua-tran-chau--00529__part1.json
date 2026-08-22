@@ -1,0 +1,73 @@
+{
+  "source_id": "00529",
+  "name": "Trà sữa trân châu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/003a2aba59ad2b47.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-tra-sua-tran-chau--00529",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-tra-sua-tran-chau--00529",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà túi lọc Lipton 1 gói",
+      "raw_name": "Trà túi lọc Lipton",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột năng 110 gr",
+      "raw_name": "Bột năng",
+      "quantity": 110,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột cacao 10 gr (khoảng 2 muỗng canh)",
+      "raw_name": "Bột cacao",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "khoảng 2 muỗng canh",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa đặc 5 muỗng canh",
+      "raw_name": "Sữa đặc",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 1 ít",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước đá đông lạnh 1 ít",
+      "raw_name": "Nước đá đông lạnh",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:55:59Z",
+  "page_title": "2 cách làm trà sữa trân châu tại nhà cực đơn giản mà ai cũng biết",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://img.youtube.com/vi/NUYotndniAc/maxresdefault.jpg"
+}

@@ -1,0 +1,71 @@
+{
+  "source_id": "07191",
+  "name": "Bánh tét chuối mini",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/59d3a90e89a1a00c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-tet-chuoi-mini-nhanh-chong-chay-man-deu-dung-07191",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-tet-chuoi-mini-nhanh-chong-chay-man-deu-dung-07191",
+  "servings_text": "Cho 12 phần ăn",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nếp 600 gr",
+      "raw_name": "Nếp",
+      "quantity": 600,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu đen 160 gr",
+      "raw_name": "Đậu đen",
+      "quantity": 160,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu xanh cà vỏ 100 gr",
+      "raw_name": "Đậu xanh cà vỏ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chuối 4 trái",
+      "raw_name": "Chuối",
+      "quantity": 4,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cốt dừa 400 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường/muối 1 ít",
+      "raw_name": "Đường/muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:42:55Z",
+  "page_title": "Cách là̀m bánh tét chuối mini nhanh chóng, chay mặn đều dùng được",
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookProduct/banh-tet-1200x676-1.jpg"
+}

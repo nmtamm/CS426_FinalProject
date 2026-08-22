@@ -1,0 +1,97 @@
+{
+  "source_id": "07765",
+  "name": "Sò lụa xào sa tế",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/911ee0e8510e4536.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-so-lua-xao-thom-ngon-hap-dan-don-gian-tai-nha-07765",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-so-lua-xao-thom-ngon-hap-dan-don-gian-tai-nha-07765",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sò lụa 1 kg",
+      "raw_name": "Sò lụa",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tỏi 2 củ",
+      "raw_name": "Tỏi",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt 6 quả",
+      "raw_name": "Ớt",
+      "quantity": 6,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 4 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lá quế 10 gr",
+      "raw_name": "Lá quế",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 100 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt sa tế 2 muỗng canh",
+      "raw_name": "Ớt sa tế",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường 2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột ngọt 1 muỗng canh",
+      "raw_name": "Bột ngọt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:22:08Z",
+  "page_title": "4 cách làm sò lụa xào thơm ngon hấp dẫn đơn giản tại nhà",
+  "variant_index": 4,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookRecipe/Avatar/so-lua-xao-sa-te-thumbnail.jpg"
+}

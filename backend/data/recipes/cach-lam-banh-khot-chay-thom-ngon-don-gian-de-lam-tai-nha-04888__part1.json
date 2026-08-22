@@ -1,0 +1,85 @@
+{
+  "source_id": "04888",
+  "name": "Bánh khọt chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7c0e4d040b66e5d9.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-khot-chay-thom-ngon-don-gian-de-lam-tai-nha-04888",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-khot-chay-thom-ngon-don-gian-de-lam-tai-nha-04888",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột bánh xèo 250 gr",
+      "raw_name": "Bột bánh xèo",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu xanh cà vỏ 20 gr",
+      "raw_name": "Đậu xanh cà vỏ",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nấm đùi gà 20 gr",
+      "raw_name": "Nấm đùi gà",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 1/2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt chuông 1/2 quả",
+      "raw_name": "Ớt chuông",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành lá 1 ít",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước cốt dừa 250 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 250,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bia 250 ml",
+      "raw_name": "Bia",
+      "quantity": 250,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:46:42Z",
+  "page_title": "2 cách làm bánh khọt chay thơm ngon đơn giản dễ làm tại nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2022/10/CookRecipe/Avatar/image.psd--9-.jpg"
+}

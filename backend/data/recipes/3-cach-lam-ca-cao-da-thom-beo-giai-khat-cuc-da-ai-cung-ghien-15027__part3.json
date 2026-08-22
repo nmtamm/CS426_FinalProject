@@ -1,0 +1,53 @@
+{
+  "source_id": "15027",
+  "name": "Ca cao sữa đá tan chảy",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c5ba72d53307237c.png",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-ca-cao-da-thom-beo-giai-khat-cuc-da-ai-cung-ghien-15027",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-ca-cao-da-thom-beo-giai-khat-cuc-da-ai-cung-ghien-15027",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột ca cao 15 gr",
+      "raw_name": "Bột ca cao",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa đặc 60 ml",
+      "raw_name": "Sữa đặc",
+      "quantity": 60,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Kem lỏng 310 ml",
+      "raw_name": "Kem lỏng",
+      "quantity": 310,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:58:59Z",
+  "page_title": "3 cách làm ca cao đá thơm béo giải khát cực đã ai cũng ghiền",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/ca-cao-sua-da-tan-chay-thumbnail.png"
+}

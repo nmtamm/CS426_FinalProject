@@ -1,0 +1,129 @@
+{
+  "source_id": "04257",
+  "name": "Cải thảo cuộn tôm cá",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/65f786eb94ce6521.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-cai-thao-cuon-tom-ca-va-cuon-nam-hap-dan-thom-ngon-04257",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-cai-thao-cuon-tom-ca-va-cuon-nam-hap-dan-thom-ngon-04257",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tôm tươi bóc vỏ 100 gr",
+      "raw_name": "Tôm tươi bóc vỏ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cá thác lác nạo 100 gr",
+      "raw_name": "Cá thác lác nạo",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cải thảo 1 cây",
+      "raw_name": "Cải thảo",
+      "quantity": 1,
+      "unit": "cây",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đậu que Nhật 6 trái",
+      "raw_name": "Đậu que Nhật",
+      "quantity": 6,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tai nấm mèo 2 cái",
+      "raw_name": "Tai nấm mèo",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt sừng băm 10 gr",
+      "raw_name": "Ớt sừng băm",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành phi 10 gr",
+      "raw_name": "Hành phi",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành ngò 10 gr",
+      "raw_name": "Hành ngò",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tỏi băm 10 gr",
+      "raw_name": "Tỏi băm",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Hành tím băm 10 gr",
+      "raw_name": "Hành tím băm",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Bột năng 5 gr",
+      "raw_name": "Bột năng",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Gia vị 10 gr (hạt nêm/ nước tương/ dầu mè/ đường/ tương cà/ tương ớt)",
+      "raw_name": "Gia vị",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "hạt nêm/ nước tương/ dầu mè/ đường/ tương cà/ tương ớt",
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T20:35:00Z",
+  "page_title": "2 Cách nấu cải thảo cuộn tôm cá và cuộn nấm hấp dẫn thơm ngon dễ làm",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/kk.jpg"
+}

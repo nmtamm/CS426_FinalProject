@@ -1,0 +1,83 @@
+{
+  "source_id": "22632",
+  "name": "Sụn gà cháy tỏi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2e06a9767cbdd69c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sun-ga-chay-toi-nham-nhi-tai-nha-voi-noi-chien-va-22632",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sun-ga-chay-toi-nham-nhi-tai-nha-voi-noi-chien-va-22632",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sụn ức gà 500 gr",
+      "raw_name": "Sụn ức gà",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lòng đỏ trứng 1 cái",
+      "raw_name": "Lòng đỏ trứng",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột năng 2 thìa canh",
+      "raw_name": "Bột năng",
+      "quantity": 2,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 1.5 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tương ớt 1 thìa canh",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bơ thực vật 1 thìa canh",
+      "raw_name": "Bơ thực vật",
+      "quantity": 1,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (nước mắm/ đường/ hạt nêm/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "nước mắm/ đường/ hạt nêm/ tiêu xay",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:06:51Z",
+  "page_title": "Cách làm sụn gà cháy tỏi nhâm nhi tại nhà với nồi chiên và chảo chống dính",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/17022025%20%2863%29.jpg"
+}

@@ -1,0 +1,89 @@
+{
+  "source_id": "03720",
+  "name": "Sốt Teriyaki Nhật Bản",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/03eb91f22a8de5df.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bo-bit-tet-sot-teriyaki-mem-ngon-tham-vi-cuc-03720",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bo-bit-tet-sot-teriyaki-mem-ngon-tham-vi-cuc-03720",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột bắp 15 g",
+      "raw_name": "Bột bắp",
+      "quantity": 15,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gừng băm 7.5 gr",
+      "raw_name": "Gừng băm",
+      "quantity": 7.5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi băm 5 g",
+      "raw_name": "Tỏi băm",
+      "quantity": 5,
+      "unit": "g",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rượu Mirin 45 ml",
+      "raw_name": "Rượu Mirin",
+      "quantity": 45,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước tương 120 ml",
+      "raw_name": "Nước tương",
+      "quantity": 120,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Mật ong 15 ml",
+      "raw_name": "Mật ong",
+      "quantity": 15,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường nâu 110 gr",
+      "raw_name": "Đường nâu",
+      "quantity": 110,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu mè 15 ml",
+      "raw_name": "Dầu mè",
+      "quantity": 15,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:26:50Z",
+  "page_title": "Cách làm bò bít tết sốt teriyaki mềm ngon thấm vị cực hấp dẫn như nhà hàng",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/06/CookRecipe/Avatar/sot-teriyaki-nhat-ban-thumbnail.jpg"
+}

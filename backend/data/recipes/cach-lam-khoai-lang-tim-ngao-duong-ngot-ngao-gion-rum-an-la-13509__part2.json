@@ -1,0 +1,54 @@
+{
+  "source_id": "13509",
+  "name": "Khoai lang tím ngào bơ đường",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/626dd471250e153d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-khoai-lang-tim-ngao-duong-ngot-ngao-gion-rum-an-la-13509",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-khoai-lang-tim-ngao-duong-ngot-ngao-gion-rum-an-la-13509",
+  "servings_text": "Cho 1 - 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai lang tím 500 gr",
+      "raw_name": "Khoai lang tím",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 150 g",
+      "raw_name": "Đường",
+      "quantity": 150,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bơ 1 ít",
+      "raw_name": "Bơ",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:10:21Z",
+  "page_title": "Cách làm khoai lang tím ngào đường ngọt ngào giòn rụm ăn là ghiền",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "Công thức được chia sẻ từ Tiktok Vào bếp cùng Điện máy XANH",
+  "original_image_url": "https://cdn.tgdd.vn/2023/07/CookRecipe/Avatar/thumb--20-.jpg"
+}

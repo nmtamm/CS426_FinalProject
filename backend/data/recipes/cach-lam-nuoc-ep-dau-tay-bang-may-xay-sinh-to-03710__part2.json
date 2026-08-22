@@ -1,0 +1,57 @@
+{
+  "source_id": "03710",
+  "name": "Nước ép dâu tây cam",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/364f2f9b697843be.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-dau-tay-bang-may-xay-sinh-to-03710",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-dau-tay-bang-may-xay-sinh-to-03710",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dâu tây 5 quả",
+      "raw_name": "Dâu tây",
+      "quantity": 5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cam vàng 1 quả",
+      "raw_name": "Cam vàng",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường/ muối 1 ít",
+      "raw_name": "Đường/ muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:54:38Z",
+  "page_title": "4 cách làm nước ép dâu tây bằng máy xay sinh tố chua ngọt đẹp da",
+  "variant_index": 2,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/nuoc-ep-dau-tay-cam-thumbnail.jpg"
+}

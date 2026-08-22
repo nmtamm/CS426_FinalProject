@@ -1,0 +1,61 @@
+{
+  "source_id": "12924",
+  "name": "Sinh tố nha đam dứa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/94b2a870571138c1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sinh-to-nha-dam-mat-lanh-de-uong-giai-nhiet-co-the-12924",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sinh-to-nha-dam-mat-lanh-de-uong-giai-nhiet-co-the-12924",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nha đam 1 nhánh",
+      "raw_name": "Nha đam",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thơm 1/4 quả",
+      "raw_name": "Thơm",
+      "quantity": 0.25,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dưa leo 1/4 quả",
+      "raw_name": "Dưa leo",
+      "quantity": 0.25,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Yến mạch 2 muỗng canh",
+      "raw_name": "Yến mạch",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hạt chia 1 muỗng cà phê",
+      "raw_name": "Hạt chia",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:09:17Z",
+  "page_title": "3 cách làm sinh tố nha đam (lô hội) mát lạnh giải nhiệt cơ thể cực hiệu quả",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/sinh-to-nha-dam-dua-thumbnail.jpg"
+}

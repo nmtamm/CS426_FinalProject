@@ -1,0 +1,43 @@
+{
+  "source_id": "09369",
+  "name": "Sữa dâu tây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b63e7900775d15fb.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-dau-tay-thom-ngon-chuan-vi-han-quoc-tai-nha-09369",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-dau-tay-thom-ngon-chuan-vi-han-quoc-tai-nha-09369",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dâu tây 14 trái",
+      "raw_name": "Dâu tây",
+      "quantity": 14,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 6 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 6,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa tươi 400 ml (không đường)",
+      "raw_name": "Sữa tươi",
+      "quantity": 400,
+      "unit": "ml",
+      "note": "không đường",
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T20:05:58Z",
+  "page_title": "Cách làm sữa dâu tây thơm ngon, chuẩn vị Hàn Quốc tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookProduct/2-1200x676-9.jpg"
+}

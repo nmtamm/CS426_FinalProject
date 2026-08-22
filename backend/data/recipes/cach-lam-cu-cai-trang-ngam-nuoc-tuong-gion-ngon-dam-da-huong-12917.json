@@ -1,0 +1,75 @@
+{
+  "source_id": "12917",
+  "name": "Củ cải trắng ngâm nước tương",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9033eecbfa5c716c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cu-cai-trang-ngam-nuoc-tuong-gion-ngon-dam-da-huong-12917",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cu-cai-trang-ngam-nuoc-tuong-gion-ngon-dam-da-huong-12917",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Củ cải trắng 1 kg",
+      "raw_name": "Củ cải trắng",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt 2 trái",
+      "raw_name": "Ớt",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước tương 1 chén",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối hột 1 chén",
+      "raw_name": "Muối hột",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 1 chén",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước lọc 1 chén",
+      "raw_name": "Nước lọc",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:26:05Z",
+  "page_title": "Cách làm củ cải trắng ngâm nước tương giòn ngon đậm đà hương vị",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/1200(12)-1200x676-1.jpg"
+}

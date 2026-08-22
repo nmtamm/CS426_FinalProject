@@ -1,0 +1,111 @@
+{
+  "source_id": "04732",
+  "name": "Làm bò khô miếng bằng nồi chiên không dầu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/19e6faae5486c80a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bo-kho-mieng-bang-noi-chien-khong-dau-chuan-thom-04732",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bo-kho-mieng-bang-noi-chien-khong-dau-chuan-thom-04732",
+  "servings_text": "Cho 6 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    },
+    {
+      "slug": "meo-vao-bep",
+      "name": "Mẹo vào bếp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò tươi 500 gr (thịt thăn không có mỡ)",
+      "raw_name": "Thịt bò tươi",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "thịt thăn không có mỡ",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sả 4 cây",
+      "raw_name": "Sả",
+      "quantity": 4,
+      "unit": "cây",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 3 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu hào 4 muỗng cà phê",
+      "raw_name": "Dầu hào",
+      "quantity": 4,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột ngũ vị hương 10 gr",
+      "raw_name": "Bột ngũ vị hương",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột nghệ 2 muỗng canh",
+      "raw_name": "Bột nghệ",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Ớt sừng 2 quả",
+      "raw_name": "Ớt sừng",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Bột ớt 1 muỗng canh",
+      "raw_name": "Bột ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T20:31:17Z",
+  "page_title": "Cách làm bò khô miếng bằng nồi chiên không dầu chuẩn thơm ngon đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookProduct/1260-1200x676-19.jpg"
+}

@@ -1,0 +1,51 @@
+{
+  "source_id": "08473",
+  "name": "Cocktail Manhattan",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/96a7e5da0469f6dd.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-che-cocktail-manhattan-co-dien-say-dam-ngot-ngao-va-08473",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-che-cocktail-manhattan-co-dien-say-dam-ngot-ngao-va-08473",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rượu Rye Whiskey Mỹ 60 ml",
+      "raw_name": "Rượu Rye Whiskey Mỹ",
+      "quantity": 60,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rượu Sweet Vermouth 30 ml",
+      "raw_name": "Rượu Sweet Vermouth",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rượu Angostura Bitters 1 ít (3 giọt)",
+      "raw_name": "Rượu Angostura Bitters",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "3 giọt",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Vỏ cam 1 ít (hoặc quả cherry)",
+      "raw_name": "Vỏ cam",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hoặc quả cherry",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:06:30Z",
+  "page_title": "Cách pha chế Cocktail Manhattan cổ điển say đắm ngọt ngào và quyến rũ",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/ManhattanCocktailRecipe0-0screenshot-1200x675.jpg"
+}

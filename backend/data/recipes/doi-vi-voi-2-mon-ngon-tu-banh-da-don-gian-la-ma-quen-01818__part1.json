@@ -1,0 +1,133 @@
+{
+  "source_id": "01818",
+  "name": "Bánh đa trộn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c516fbcfa3b8dd21.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/doi-vi-voi-2-mon-ngon-tu-banh-da-don-gian-la-ma-quen-01818",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/doi-vi-voi-2-mon-ngon-tu-banh-da-don-gian-la-ma-quen-01818",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh đa 100 gr",
+      "raw_name": "Bánh đa",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng cút 10 quả",
+      "raw_name": "Trứng cút",
+      "quantity": 10,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Xoài xanh 1 trái",
+      "raw_name": "Xoài xanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chả quế 100 gr",
+      "raw_name": "Chả quế",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Khô gà 50 gr",
+      "raw_name": "Khô gà",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tép khô 50 gr",
+      "raw_name": "Tép khô",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Rau răm 30 gr",
+      "raw_name": "Rau răm",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt sa tế 30 gr",
+      "raw_name": "Ớt sa tế",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đậu phộng rang thơm 30 gr",
+      "raw_name": "Đậu phộng rang thơm",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hành phi 30 gr",
+      "raw_name": "Hành phi",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Ớt khô 10 gr",
+      "raw_name": "Ớt khô",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Ớt băm 5 gr",
+      "raw_name": "Ớt băm",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Me vắt 200 gr",
+      "raw_name": "Me vắt",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Gia vị 20 gr (đường/ nước mắm/ tương ớt...)",
+      "raw_name": "Gia vị",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "đường/ nước mắm/ tương ớt...",
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T17:59:24Z",
+  "page_title": "Cách làm bánh đa trộn và salad bánh đa đơn giản, ngon lạ mà thân quen",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/banh-da-tron-thumbnail.jpg"
+}

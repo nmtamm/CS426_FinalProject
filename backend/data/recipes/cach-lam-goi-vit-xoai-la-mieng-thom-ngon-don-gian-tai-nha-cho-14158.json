@@ -1,0 +1,155 @@
+{
+  "source_id": "14158",
+  "name": "Gỏi vịt xoài",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6ff7d3b46f8efe9f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-vit-xoai-la-mieng-thom-ngon-don-gian-tai-nha-cho-14158",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-vit-xoai-la-mieng-thom-ngon-don-gian-tai-nha-cho-14158",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Vịt 2 kg (1 con)",
+      "raw_name": "Vịt",
+      "quantity": 2,
+      "unit": "kg",
+      "note": "1 con",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xoài xanh 1 trái (200 - 500gr)",
+      "raw_name": "Xoài xanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": "200 - 500gr",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tây 200 gr",
+      "raw_name": "Hành tây",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rau om 100 gr",
+      "raw_name": "Rau om",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ngò gai 100 gr (mùi tàu)",
+      "raw_name": "Ngò gai",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "mùi tàu",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ngò rí 100 gr (mùi ta)",
+      "raw_name": "Ngò rí",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "mùi ta",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Chanh 3 trái",
+      "raw_name": "Chanh",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Chanh 8 lá",
+      "raw_name": "Chanh",
+      "quantity": 8,
+      "unit": "lá",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gừng 2 nhánh",
+      "raw_name": "Gừng",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hành tím 2 củ",
+      "raw_name": "Hành tím",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Ớt 3 trái",
+      "raw_name": "Ớt",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Riềng 1 nhánh",
+      "raw_name": "Riềng",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Mè rang 1 muỗng canh",
+      "raw_name": "Mè rang",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Đậu phộng rang đãi vỏ 1 muỗng canh",
+      "raw_name": "Đậu phộng rang đãi vỏ",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Bột nêm hảo hảo 1 muỗng cà phê (nếu có)",
+      "raw_name": "Bột nêm hảo hảo",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "nếu có",
+      "display_order": 15
+    },
+    {
+      "raw_text": "Nước mắm 3 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (hạt nêm/ bột ngọt/ đường)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hạt nêm/ bột ngọt/ đường",
+      "display_order": 17
+    }
+  ],
+  "scraped_at": "2026-08-19T17:57:48Z",
+  "page_title": "Cách làm gỏi vịt xoài lạ miệng thơm ngon đơn giản tại nhà cho gia đình",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-goi-vit-xoai-la-mieng-thom-ngon-don-gian-tai-nha-cho-avt-1200x676-1.jpg"
+}

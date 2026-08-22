@@ -1,0 +1,41 @@
+{
+  "source_id": "01199",
+  "name": "Sữa óc chó mè đen",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a13ebdfd895538c3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/5-cach-lam-sua-me-den-sach-du-chat-de-lam-tai-nha-01199",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/5-cach-lam-sua-me-den-sach-du-chat-de-lam-tai-nha-01199",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hạt óc chó 70 gr",
+      "raw_name": "Hạt óc chó",
+      "quantity": 70,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mè đen 30 g",
+      "raw_name": "Mè đen",
+      "quantity": 30,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:57:28Z",
+  "page_title": "5 cách làm sữa mè đen sạch, đủ chất, dễ làm tại nhà",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/sua-oc-cho-me-den-thumbnail.jpg"
+}

@@ -1,0 +1,115 @@
+{
+  "source_id": "02059",
+  "name": "Cà ri Nhật",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3640b19ef2ffe6a5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-ca-ri-nhat-thom-ngon-de-lam-02059",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-ca-ri-nhat-thom-ngon-de-lam-02059",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Má đùi gà 1 kg",
+      "raw_name": "Má đùi gà",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Khoai tây 1 củ",
+      "raw_name": "Khoai tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tây 1/2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Táo 1 quả",
+      "raw_name": "Táo",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước 1 lít",
+      "raw_name": "Nước 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bơ lạt 60 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột mì 60 gr",
+      "raw_name": "Bột mì",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột cà ri 3 muỗng cà phê",
+      "raw_name": "Bột cà ri",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Sốt Worcestershire 30 ml",
+      "raw_name": "Sốt Worcestershire",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước tương 30 ml",
+      "raw_name": "Nước tương",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Tương cà 30 gr",
+      "raw_name": "Tương cà",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:19:49Z",
+  "page_title": "Cách làm món cà ri Nhật thơm ngon, dễ làm cho bữa cơm thêm ngon miệng",
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookProduct/cfb49cf330d865ba50a58f39f2f8548e-1200x676.jpg"
+}

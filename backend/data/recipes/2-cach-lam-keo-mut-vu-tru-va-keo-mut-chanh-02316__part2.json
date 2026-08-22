@@ -1,0 +1,69 @@
+{
+  "source_id": "02316",
+  "name": "Kẹo mút chanh gừng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a0e276d091cd9a52.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-keo-mut-vu-tru-va-keo-mut-chanh-02316",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-keo-mut-vu-tru-va-keo-mut-chanh-02316",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nước sôi 20 ml",
+      "raw_name": "Nước sôi",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước cốt chanh 20 ml",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường cát 190 gr",
+      "raw_name": "Đường cát",
+      "quantity": 190,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Siro bắp 150 gr",
+      "raw_name": "Siro bắp",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chanh vàng 1 quả",
+      "raw_name": "Chanh vàng",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:01:17Z",
+  "page_title": "2 Cách làm kẹo mút vũ trụ và kẹo mút chanh thơm ngon đơn giản cho trẻ",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/keo-mut-chanh-gung-thumbnail.jpg"
+}

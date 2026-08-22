@@ -1,0 +1,83 @@
+{
+  "source_id": "23143",
+  "name": "Cơm đảo gà rang",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5f86914812f60989.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-com-dao-ga-rang-chuan-vi-dam-da-bang-chao-chong-dinh-23143",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-com-dao-ga-rang-chuan-vi-dam-da-bang-chao-chong-dinh-23143",
+  "servings_text": "Cho 2-3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà chặt nhỏ 1 con (khoảng 1 - 1.2 kg)",
+      "raw_name": "Gà chặt nhỏ 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 1 - 1.2 kg",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cơm nguội 1 ít",
+      "raw_name": "Cơm nguội",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tím 2 củ",
+      "raw_name": "Hành tím",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gừng 1 nhánh",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lá chanh 1 ít",
+      "raw_name": "Lá chanh",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối hột/bột nêm/dầu hào/tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối hột/bột nêm/dầu hào/tiêu xay",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột nghệ 1 ít",
+      "raw_name": "Bột nghệ",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:06:22Z",
+  "page_title": "Cách làm cơm đảo gà rang chuẩn vị đậm đà bằng chảo chống dính",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/com-dao-ga-rangggkk.jpg"
+}

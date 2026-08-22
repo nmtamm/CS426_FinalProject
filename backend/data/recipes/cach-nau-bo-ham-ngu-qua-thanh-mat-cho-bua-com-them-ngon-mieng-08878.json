@@ -1,0 +1,215 @@
+{
+  "source_id": "08878",
+  "name": "Bắp bò hầm ngũ quả",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3fc200b8f56ff11c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-bo-ham-ngu-qua-thanh-mat-cho-bua-com-them-ngon-mieng-08878",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-bo-ham-ngu-qua-thanh-mat-cho-bua-com-them-ngon-mieng-08878",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-canh",
+      "name": "Món canh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bắp bò 1 kg",
+      "raw_name": "Bắp bò",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Khoai tây 300 gr",
+      "raw_name": "Khoai tây",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Củ cải trắng 300 gr",
+      "raw_name": "Củ cải trắng",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Củ cải đỏ 300 gr",
+      "raw_name": "Củ cải đỏ",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Củ sen 300 gr",
+      "raw_name": "Củ sen",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hạt sen 200 gr",
+      "raw_name": "Hạt sen",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Táo đỏ 10 gr",
+      "raw_name": "Táo đỏ",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hoài sơn 5 gr",
+      "raw_name": "Hoài sơn",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Thục địa 5 gr",
+      "raw_name": "Thục địa",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đảng sâm 5 gr",
+      "raw_name": "Đảng sâm",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đỗ trọng 5 gr",
+      "raw_name": "Đỗ trọng",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Kỷ tử 10 gr",
+      "raw_name": "Kỷ tử",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Ớt sừng 2 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Sả 3 cây",
+      "raw_name": "Sả",
+      "quantity": 3,
+      "unit": "cây",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Hành tím băm 3 muỗng canh",
+      "raw_name": "Hành tím băm",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Gừng 1/2 củ",
+      "raw_name": "Gừng",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Tỏi băm 3 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 17
+    },
+    {
+      "raw_text": "Rượu trắng 1 muỗng canh",
+      "raw_name": "Rượu trắng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 18
+    },
+    {
+      "raw_text": "Rượu gừng 1 muỗng canh",
+      "raw_name": "Rượu gừng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 19
+    },
+    {
+      "raw_text": "Đường phèn 10 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 20
+    },
+    {
+      "raw_text": "Nước tương 2 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 21
+    },
+    {
+      "raw_text": "Dầu mè 1 muỗng canh",
+      "raw_name": "Dầu mè",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 22
+    },
+    {
+      "raw_text": "Dầu ăn 4 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 23
+    },
+    {
+      "raw_text": "Muối/ Bột ngọt 1 ít",
+      "raw_name": "Muối/ Bột ngọt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 24
+    }
+  ],
+  "scraped_at": "2026-08-19T18:25:20Z",
+  "page_title": "Cách nấu bắp bò hầm ngũ quả thanh mát cho bữa cơm thêm ngon miệng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookProduct/bapbohamnguqua-1200x676.jpg"
+}

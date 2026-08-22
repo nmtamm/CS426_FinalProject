@@ -1,0 +1,65 @@
+{
+  "source_id": "11650",
+  "name": "Thịt bò xào khoai tây chiên",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2ab0d4d95b9fb7e6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-bo-xao-khoai-tay-don-gian-ma-ngon-ngat-ngay-11650",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-bo-xao-khoai-tay-don-gian-ma-ngon-ngat-ngay-11650",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò 300 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Khoai tây 3 củ",
+      "raw_name": "Khoai tây",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 40 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 40,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (hạt nêm/ bột ngọt/ đường)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hạt nêm/ bột ngọt/ đường",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T18:32:49Z",
+  "page_title": "2 Cách làm thịt bò xào khoai tây đơn giản mà ngon ngất ngây",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/thit-bo-xao-khoai-tay-chien-thumbnail-1.jpg"
+}

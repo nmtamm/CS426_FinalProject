@@ -1,0 +1,71 @@
+{
+  "source_id": "07980",
+  "name": "Sò điệp nướng mỡ hành bằng nồi chiên không dầu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/fd43c66f1d9d73e6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-so-diep-nuong-mo-hanh-bang-noi-chien-khong-dau-thom-07980",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-so-diep-nuong-mo-hanh-bang-noi-chien-khong-dau-thom-07980",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sò điệp 1 kg",
+      "raw_name": "Sò điệp",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành lá 3 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu phộng 30 gr",
+      "raw_name": "Đậu phộng",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt sừng 2 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/muối/bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/muối/bột ngọt",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:07:04Z",
+  "page_title": "Cách làm sò điệp nướng mỡ hành bằng nồi chiên không dầu thơm lừng béo ngon",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/thumbcmscn-1200x676-5.jpg"
+}

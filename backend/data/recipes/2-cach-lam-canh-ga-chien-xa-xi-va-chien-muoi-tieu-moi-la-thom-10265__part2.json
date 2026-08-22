@@ -1,0 +1,113 @@
+{
+  "source_id": "10265",
+  "name": "Cánh gà chiên muối tiêu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/984a22d9038e9406.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-canh-ga-chien-xa-xi-va-chien-muoi-tieu-moi-la-thom-10265",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-canh-ga-chien-xa-xi-va-chien-muoi-tieu-moi-la-thom-10265",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cánh gà tỏi 6 cái",
+      "raw_name": "Cánh gà tỏi",
+      "quantity": 6,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột khoai tây 80 gr",
+      "raw_name": "Bột khoai tây",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt chuông xanh đỏ 100 gr",
+      "raw_name": "Ớt chuông xanh đỏ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bơ lạt 50 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối tiêu 1 muỗng cà phê",
+      "raw_name": "Muối tiêu",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ngũ vị hương 1/2 muỗng cà phê",
+      "raw_name": "Ngũ vị hương",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tiêu 1/2 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Rượu trắng 10 ml",
+      "raw_name": "Rượu trắng",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu ăn 100 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:07:48Z",
+  "page_title": "2 cách làm cánh gà chiên xá xị và chiên muối tiêu mới lạ thơm ngon",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/canh-ga-chien-muoi-tieu-thumbnail-1.jpg"
+}

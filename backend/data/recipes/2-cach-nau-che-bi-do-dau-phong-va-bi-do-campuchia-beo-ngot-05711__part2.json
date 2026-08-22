@@ -1,0 +1,81 @@
+{
+  "source_id": "05711",
+  "name": "Chè bí đỏ Campuchia",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c066736671ceac8f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-che-bi-do-dau-phong-va-bi-do-campuchia-beo-ngot-05711",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-che-bi-do-dau-phong-va-bi-do-campuchia-beo-ngot-05711",
+  "servings_text": "Cho 4 - 5 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-che",
+      "name": "Món chè"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bí đỏ 1 trái",
+      "raw_name": "Bí đỏ",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường thốt nốt 250 gr",
+      "raw_name": "Đường thốt nốt",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước cốt dừa 200 gr",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa tươi không đường 100 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Trứng gà 4 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 4,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lá dứa 1 ít (2 - 3 nhánh)",
+      "raw_name": "Lá dứa",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "2 - 3 nhánh",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:18:15Z",
+  "page_title": "2 Cách nấu chè bí đỏ đậu phộng và bí đỏ Campuchia béo ngọt, đơn giản",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookRecipe/Avatar/che-bi-do-campuchia-thumbnail.jpg"
+}

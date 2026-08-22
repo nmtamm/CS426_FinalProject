@@ -1,0 +1,67 @@
+{
+  "source_id": "23589",
+  "name": "Đồ chua ăn cơm tấm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/53f0334a6a0ff709.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-do-chua-an-com-tam-bun-thit-nuong-gion-ngon-don-gian-23589",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-do-chua-an-com-tam-bun-thit-nuong-gion-ngon-don-gian-23589",
+  "servings_text": "Cho Khoảng 1kg thành phẩm",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Củ cải trắng 500 gr",
+      "raw_name": "Củ cải trắng",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Củ cà rốt 500 gr",
+      "raw_name": "Củ cà rốt",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Giấm gạo 150 gr",
+      "raw_name": "Giấm gạo",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường cát trắng 150 gr",
+      "raw_name": "Đường cát trắng",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước lọc 600 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 600,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:25:49Z",
+  "page_title": "Cách làm đồ chua ăn cơm tấm, bún thịt nướng giòn ngon đơn giản, để được lâu",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20thumb%20m%C3%B3n%20an%20t11%20%288%29.jpg"
+}

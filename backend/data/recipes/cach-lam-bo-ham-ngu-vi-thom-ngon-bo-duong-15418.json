@@ -1,0 +1,115 @@
+{
+  "source_id": "15418",
+  "name": "Bò hầm ngũ vị",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ff6f90361f443328.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bo-ham-ngu-vi-thom-ngon-bo-duong-15418",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bo-ham-ngu-vi-thom-ngon-bo-duong-15418",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò 500 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Coca cola 330 ml (1 lon)",
+      "raw_name": "Coca cola",
+      "quantity": 330,
+      "unit": "ml",
+      "note": "1 lon",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành khô 4 củ (hành tím)",
+      "raw_name": "Hành khô",
+      "quantity": 4,
+      "unit": "củ",
+      "note": "hành tím",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 2 tép",
+      "raw_name": "Tỏi 2 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gừng 1 nhánh",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lá nguyệt quế 5 lá",
+      "raw_name": "Lá nguyệt quế",
+      "quantity": 5,
+      "unit": "lá",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hoa hồi 2 cái",
+      "raw_name": "Hoa hồi",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước tương 2 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước màu 1 muỗng canh (nước hàng)",
+      "raw_name": "Nước màu",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "nước hàng",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Rượu trắng 1 muỗng canh",
+      "raw_name": "Rượu trắng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:29:40Z",
+  "page_title": "Cách làm bò hầm ngũ vị thơm ngon bổ dưỡng cho cả nhà cùng thưởng thức",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookDish/cach-lam-bo-ham-ngu-vi-thom-ngon-bo-duong-avt-1200x676-3.jpg"
+}

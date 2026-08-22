@@ -1,0 +1,107 @@
+{
+  "source_id": "22893",
+  "name": "Cá tai tượng chiên xù cuốn bánh tráng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6ba068a5afe8f3b2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-tai-tuong-chien-xu-cuon-banh-trang-cham-mam-nem-22893",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-tai-tuong-chien-xu-cuon-banh-trang-cham-mam-nem-22893",
+  "servings_text": "Cho 6 - 8 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cá tai tượng 2 con (khoảng 1.2 - 1.5kg/con)",
+      "raw_name": "Cá tai tượng 2 con",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 1.2 - 1.5kg/con",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dầu ăn 1 lít (hoặc nhiều hơn)",
+      "raw_name": "Dầu ăn 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": "hoặc nhiều hơn",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bún tươi 1 kg",
+      "raw_name": "Bún tươi",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chuối chát 5 quả (chuối xanh)",
+      "raw_name": "Chuối chát",
+      "quantity": 5,
+      "unit": "quả",
+      "note": "chuối xanh",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Khế chua 5 quả",
+      "raw_name": "Khế chua",
+      "quantity": 5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rau ăn kèm 1 ít (xà lách/ rau thơm/ lá cách/...)",
+      "raw_name": "Rau ăn kèm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "xà lách/ rau thơm/ lá cách/...",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Khóm 1 trái",
+      "raw_name": "Khóm",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tỏi/ ớt 1 ít",
+      "raw_name": "Tỏi/ ớt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Mắm nêm 200 gr",
+      "raw_name": "Mắm nêm",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Chanh tươi/ muối/ tắt / cơm mẻ 1 ít",
+      "raw_name": "Chanh tươi/ muối/ tắt / cơm mẻ",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Bánh tráng cuốn 1 ít",
+      "raw_name": "Bánh tráng cuốn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T20:33:39Z",
+  "page_title": "Cách làm cá tai tượng chiên xù cuốn bánh tráng chấm mắm nêm bằng chảo nhôm",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20thumb%20t6%20%2813%29.jpg"
+}

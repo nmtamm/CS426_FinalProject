@@ -1,0 +1,109 @@
+{
+  "source_id": "11919",
+  "name": "Pasta salad phô mai xúc xích",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/de21484b62652326.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-salad-pasta-don-gian-la-mieng-doi-vi-cho-bua-an-11919",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-salad-pasta-don-gian-la-mieng-doi-vi-cho-bua-an-11919",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Pasta 450 gr",
+      "raw_name": "Pasta",
+      "quantity": 450,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xúc xích/Pepperoni 128 gr",
+      "raw_name": "Xúc xích/Pepperoni",
+      "quantity": 128,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Phô mai mini mozzarela ball 100 gr",
+      "raw_name": "Phô mai mini mozzarela ball",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt cay 64 gr",
+      "raw_name": "Ớt cay",
+      "quantity": 64,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu olive 120 ml",
+      "raw_name": "Dầu olive",
+      "quantity": 120,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rượu giấm đỏ 60 ml (có thể thay thế bằng giấm trắng hoặc giấm táo)",
+      "raw_name": "Rượu giấm đỏ",
+      "quantity": 60,
+      "unit": "ml",
+      "note": "có thể thay thế bằng giấm trắng hoặc giấm táo",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Sốt salad Italian 2 muỗng canh",
+      "raw_name": "Sốt salad Italian",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột ớt 1/6 muỗng cà phê",
+      "raw_name": "Bột ớt",
+      "quantity": 0.167,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bột tỏi 1/2 muỗng canh",
+      "raw_name": "Bột tỏi",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T17:57:42Z",
+  "page_title": "3 cách làm salad pasta đơn giản lạ miệng đổi vị cho bữa ăn gia đình",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/pasta-salad-pho-mai-xuc-xich-thumbnail.jpg"
+}

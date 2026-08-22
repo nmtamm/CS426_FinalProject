@@ -1,0 +1,75 @@
+{
+  "source_id": "09690",
+  "name": "Gỏi dưa leo khô cá lóc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/11ad6422bdc6c5fa.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-dua-leo-kho-ca-loc-thom-ngon-hap-dan-giai-ngay-09690",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-dua-leo-kho-ca-loc-thom-ngon-hap-dan-giai-ngay-09690",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khô cá lóc 150 gr",
+      "raw_name": "Khô cá lóc",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dưa leo 5 trái",
+      "raw_name": "Dưa leo",
+      "quantity": 5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt tươi 1 trái",
+      "raw_name": "Ớt tươi",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chanh 1 trái",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rau răm 50 gr",
+      "raw_name": "Rau răm",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường/ muối 1 ít",
+      "raw_name": "Đường/ muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T17:54:55Z",
+  "page_title": "Cách làm gỏi dưa leo khô cá lóc thơm ngon hấp dẫn giải ngấy cho bữa cơm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookProduct/goidualeokhocaloc-1200x676.jpg"
+}

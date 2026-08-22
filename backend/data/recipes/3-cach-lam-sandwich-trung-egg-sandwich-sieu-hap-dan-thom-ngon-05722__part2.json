@@ -1,0 +1,61 @@
+{
+  "source_id": "05722",
+  "name": "Sandwich trứng kiểu Pháp",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/14502c86bf1474c0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sandwich-trung-egg-sandwich-sieu-hap-dan-thom-ngon-05722",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sandwich-trung-egg-sandwich-sieu-hap-dan-thom-ngon-05722",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh mì sandwich 2 lát",
+      "raw_name": "Bánh mì sandwich 2 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bơ lạt 15 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng gà 3 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Miếng phô mai 2 lát (tùy ý chọn loại)",
+      "raw_name": "Miếng phô mai 2 lát",
+      "quantity": null,
+      "unit": null,
+      "note": "tùy ý chọn loại",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối/ tiêu 1 ít",
+      "raw_name": "Muối/ tiêu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:06:39Z",
+  "page_title": "5 cách làm bánh mì sandwich kẹp trứng thơm ngon cho bữa sáng nhanh chóng",
+  "variant_index": 2,
+  "variant_count": 5,
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookRecipe/Avatar/sandwich-trung-kieu-phap-thumbnail-1.jpg"
+}

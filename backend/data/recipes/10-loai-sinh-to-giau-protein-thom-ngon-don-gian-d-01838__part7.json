@@ -1,0 +1,58 @@
+{
+  "source_id": "01838",
+  "name": "Sinh tố protein cà phê mocha (Mocha coffee protein smoothie)",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/77c5d9cf9e5c34df.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/10-loai-sinh-to-giau-protein-thom-ngon-don-gian-d-01838",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/10-loai-sinh-to-giau-protein-thom-ngon-don-gian-d-01838",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột protein hương socola 1 muỗng",
+      "raw_name": "Bột protein hương socola",
+      "quantity": 1,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa hạnh nhân không đường 200 ml (sữa tươi không đường)",
+      "raw_name": "Sữa hạnh nhân không đường",
+      "quantity": 200,
+      "unit": "ml",
+      "note": "sữa tươi không đường",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà phê pha sẵn 120 ml (pha phin/pha máy/hòa tan)",
+      "raw_name": "Cà phê pha sẵn",
+      "quantity": 120,
+      "unit": "ml",
+      "note": "pha phin/pha máy/hòa tan",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Syrup socola không đường 1 muỗng canh",
+      "raw_name": "Syrup socola không đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:02:53Z",
+  "page_title": "10 loại sinh tố giàu Protein thơm ngon, đơn giản dành người tập Gym",
+  "variant_index": 7,
+  "variant_count": 10,
+  "note": null,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/sinh-to-protein-ca-phe-mocha-mocha-coffee-protein-smoothie-thumbnail.jpg"
+}

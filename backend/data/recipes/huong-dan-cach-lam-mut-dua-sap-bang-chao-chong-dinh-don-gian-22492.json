@@ -1,0 +1,55 @@
+{
+  "source_id": "22492",
+  "name": "Mứt dừa sáp",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5bbdb269ce568361.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-cach-lam-mut-dua-sap-bang-chao-chong-dinh-don-gian-22492",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-cach-lam-mut-dua-sap-bang-chao-chong-dinh-don-gian-22492",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dừa sáp 1 trái",
+      "raw_name": "Dừa sáp",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường cát 1 kg",
+      "raw_name": "Đường cát",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đặc 1 ít",
+      "raw_name": "Sữa đặc",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chanh 1 trái",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T18:59:00Z",
+  "page_title": "Hướng dẫn cách làm mứt dừa sáp bằng chảo chống dính đơn giản",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/mut-dua-sap-4444.jpg"
+}

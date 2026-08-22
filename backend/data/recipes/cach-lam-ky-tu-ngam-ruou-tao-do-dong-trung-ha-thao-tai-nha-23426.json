@@ -1,0 +1,51 @@
+{
+  "source_id": "23426",
+  "name": "Kỷ tử ngâm rượu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/fcedf1addffbb71e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ky-tu-ngam-ruou-tao-do-dong-trung-ha-thao-tai-nha-23426",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ky-tu-ngam-ruou-tao-do-dong-trung-ha-thao-tai-nha-23426",
+  "servings_text": "Cho 2 lít thành phẩm",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Táo đỏ 200 gr",
+      "raw_name": "Táo đỏ",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đông trùng hạ thảo 100 gr",
+      "raw_name": "Đông trùng hạ thảo",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Kỷ tử 200 gr",
+      "raw_name": "Kỷ tử",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rượu trắng ngon 2 lít",
+      "raw_name": "Rượu trắng ngon 2 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:48:15Z",
+  "page_title": "Cách làm kỷ tử ngâm rượu táo đỏ đông trùng hạ thảo tại nhà",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/cach-lam-ky-tu-ngam-ruou-tao-do-dong-trung-ha-thao-tai-nha.jpg"
+}

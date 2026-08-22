@@ -1,0 +1,59 @@
+{
+  "source_id": "12866",
+  "name": "Chuối xanh ngào đường",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/64aabf4effd00866.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chuoi-xanh-ngao-duong-gion-rum-don-gian-nham-nhi-cuc-12866",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chuoi-xanh-ngao-duong-gion-rum-don-gian-nham-nhi-cuc-12866",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chuối xanh 3 trái",
+      "raw_name": "Chuối xanh",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chanh 1/2 quả",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 200 gr",
+      "raw_name": "Đường",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối hạt 1 muỗng canh",
+      "raw_name": "Muối hạt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 400 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:04:22Z",
+  "page_title": "Cách làm chuối xanh ngào đường giòn rụm đơn giản, nhâm nhi cực đã",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/c-1200x676.jpg"
+}

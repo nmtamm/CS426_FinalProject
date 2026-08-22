@@ -1,0 +1,47 @@
+{
+  "source_id": "00694",
+  "name": "Mứt cà chua bi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/dc088d0f3204eabd.png",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-ca-chua-bi-ngon-me-ly-an-khong-he-ngan-00694",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-ca-chua-bi-ngon-me-ly-an-khong-he-ngan-00694",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cà chua bi 1 kg",
+      "raw_name": "Cà chua bi",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường cát trắng 400 gr",
+      "raw_name": "Đường cát trắng",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Vôi làm mứt 30 gr (có thể mua ở chợ)",
+      "raw_name": "Vôi làm mứt",
+      "quantity": 30,
+      "unit": "gr",
+      "note": "có thể mua ở chợ",
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:29:24Z",
+  "page_title": "Cách làm mứt cà chua bi ngon mê ly, ăn không hề ngán",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2016/12/23/929344/cach-lam-mut-ca-chua-bi-ngon-me-ly-cho-ngay-tet-760x367.png"
+}

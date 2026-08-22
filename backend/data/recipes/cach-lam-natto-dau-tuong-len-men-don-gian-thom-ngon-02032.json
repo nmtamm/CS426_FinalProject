@@ -1,0 +1,35 @@
+{
+  "source_id": "02032",
+  "name": "Natto - đậu tương lên men",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e0f352485f7a7a8a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-natto-dau-tuong-len-men-don-gian-thom-ngon-02032",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-natto-dau-tuong-len-men-don-gian-thom-ngon-02032",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hạt đậu tương 500 gr",
+      "raw_name": "Hạt đậu tương",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Natto thành phẩm làm men giống 15 gr (mua natto thành phẩm tại các cửa hàng bán thực phẩm Nhật)",
+      "raw_name": "Natto thành phẩm làm men giống",
+      "quantity": 15,
+      "unit": "gr",
+      "note": "mua natto thành phẩm tại các cửa hàng bán thực phẩm Nhật",
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T18:47:13Z",
+  "page_title": "Cách làm Natto - đậu tương lên men đơn giản, thơm ngon ngay tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/04/14/1248970/cach-lam-dau-tuong-len-men-don-gian-thom-ngon-tai-8-760x367.jpg"
+}

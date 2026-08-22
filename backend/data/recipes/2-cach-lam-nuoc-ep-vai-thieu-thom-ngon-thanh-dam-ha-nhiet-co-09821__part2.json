@@ -1,0 +1,65 @@
+{
+  "source_id": "09821",
+  "name": "Nước ép vải dưa hấu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4b51fb4dbcc8ab81.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-ep-vai-thieu-thom-ngon-thanh-dam-ha-nhiet-co-09821",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-ep-vai-thieu-thom-ngon-thanh-dam-ha-nhiet-co-09821",
+  "servings_text": "Cho 1 - 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa hấu 1/2 trái (trái vừa)",
+      "raw_name": "Dưa hấu",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": "trái vừa",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Vải 5 trái",
+      "raw_name": "Vải",
+      "quantity": 5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước ép vải 1/2 chén (chén ăn cơm)",
+      "raw_name": "Nước ép vải",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": "chén ăn cơm",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bạc hà 2 lá",
+      "raw_name": "Bạc hà",
+      "quantity": 2,
+      "unit": "lá",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đá viên đông lạnh 1 ít",
+      "raw_name": "Đá viên đông lạnh",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:01:41Z",
+  "page_title": "3 cách làm nước ép vải thiều thơm ngon thanh đạm, hạ nhiệt cơ thể",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/nuoc-ep-vai-dua-hau-thumbnail.jpg"
+}

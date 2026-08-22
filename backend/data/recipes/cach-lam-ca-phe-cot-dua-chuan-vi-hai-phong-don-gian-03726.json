@@ -1,0 +1,99 @@
+{
+  "source_id": "03726",
+  "name": "Cà phê cốt dừa Hải Phòng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/cb125dafffab504d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-phe-cot-dua-chuan-vi-hai-phong-don-gian-03726",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-phe-cot-dua-chuan-vi-hai-phong-don-gian-03726",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nước cà phê 200 ml",
+      "raw_name": "Nước cà phê",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước cốt dừa 200 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột năng 15 gram",
+      "raw_name": "Bột năng 15 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa đặc 100 ml",
+      "raw_name": "Sữa đặc",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Trân châu 100 gram",
+      "raw_name": "Trân châu 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột sương sáo đen 50 gram (1 gói)",
+      "raw_name": "Bột sương sáo đen 50 gram",
+      "quantity": null,
+      "unit": null,
+      "note": "1 gói",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 100 gram",
+      "raw_name": "Đường 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 2 gram",
+      "raw_name": "Muối 2 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Cơm dừa bào sợi 30 gram",
+      "raw_name": "Cơm dừa bào sợi 30 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Cơm dừa sấy khô 10 gram",
+      "raw_name": "Cơm dừa sấy khô 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T20:00:48Z",
+  "page_title": "Cách làm cà phê cốt dừa chuẩn vị Hải Phòng đơn giản dễ làm tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookProduct/17-1200x676-3.jpg"
+}

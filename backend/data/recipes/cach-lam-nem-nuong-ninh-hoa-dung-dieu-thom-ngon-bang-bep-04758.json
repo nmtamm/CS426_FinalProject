@@ -1,0 +1,151 @@
+{
+  "source_id": "04758",
+  "name": "Nem nướng Ninh Hòa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c8aa3a625a040a7c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nem-nuong-ninh-hoa-dung-dieu-thom-ngon-bang-bep-04758",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nem-nuong-ninh-hoa-dung-dieu-thom-ngon-bang-bep-04758",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt heo xay 550 gr",
+      "raw_name": "Thịt heo xay",
+      "quantity": 550,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Giò sống 200 gr",
+      "raw_name": "Giò sống",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mỡ heo 50 gr",
+      "raw_name": "Mỡ heo",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Pate gan heo 100 gr",
+      "raw_name": "Pate gan heo",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bánh tráng 200 gr (loại bánh tráng tròn)",
+      "raw_name": "Bánh tráng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "loại bánh tráng tròn",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột nở 1/8 muỗng cà phê",
+      "raw_name": "Bột nở",
+      "quantity": 0.125,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi băm 3 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu ăn 210 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 210,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu màu điều 2 muỗng canh",
+      "raw_name": "Dầu màu điều",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tỏi băm 2 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Bơ đậu phộng 3 muỗng canh",
+      "raw_name": "Bơ đậu phộng",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Bột nếp 50 gr",
+      "raw_name": "Bột nếp",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/đường/hạt nêm/bột ngọt/tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/đường/hạt nêm/bột ngọt/tiêu",
+      "display_order": 14
+    },
+    {
+      "raw_text": "Bún ăn kèm 200 gr",
+      "raw_name": "Bún ăn kèm",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Rau ăn kèm tùy sở thích 1 ít (xà lách/tía tô/chuối chát/dưa leo...)",
+      "raw_name": "Rau ăn kèm tùy sở thích",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "xà lách/tía tô/chuối chát/dưa leo...",
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T19:00:32Z",
+  "page_title": "Cách làm nem nướng Ninh Hòa đúng điệu thơm ngon bằng bếp nướng điện",
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookProduct/CachlamnemnuongNinhHoadungdieuthomngonbangbepnuongdien-1200x676.jpg"
+}

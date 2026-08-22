@@ -1,0 +1,97 @@
+{
+  "source_id": "04325",
+  "name": "Cá cơm rang đậu phộng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a738c85f9e57f3fb.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-ca-com-rang-dau-phong-va-rang-chua-ngot-gion-beo-04325",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-ca-com-rang-dau-phong-va-rang-chua-ngot-gion-beo-04325",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu phộng rang bóc vỏ 100 gr",
+      "raw_name": "Đậu phộng rang bóc vỏ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cá cơm sữa 100 gr",
+      "raw_name": "Cá cơm sữa",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước tương 1 muỗng cà phê",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 1 tép",
+      "raw_name": "Tỏi 1 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước lọc 1 muỗng cà phê",
+      "raw_name": "Nước lọc",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường nâu 1 muỗng canh",
+      "raw_name": "Đường nâu",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Si rô gạo Hàn Quốc 1 muỗng cà phê",
+      "raw_name": "Si rô gạo Hàn Quốc",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu mè 1 muỗng cà phê",
+      "raw_name": "Dầu mè",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Mè rang 1 muỗng cà phê",
+      "raw_name": "Mè rang",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:24:54Z",
+  "page_title": "2 cách làm cá cơm rang đậu phộng và rang chua ngọt giòn béo thơm ngon",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/ca-com-rang-dau-phong-thumbnail.jpg"
+}

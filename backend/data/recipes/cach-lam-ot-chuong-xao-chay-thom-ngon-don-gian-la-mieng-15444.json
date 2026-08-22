@@ -1,0 +1,51 @@
+{
+  "source_id": "15444",
+  "name": "Ớt chuông xào chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ee9549fb543ce6b8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ot-chuong-xao-chay-thom-ngon-don-gian-la-mieng-15444",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ot-chuong-xao-chay-thom-ngon-don-gian-la-mieng-15444",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ớt chuông 2 quả",
+      "raw_name": "Ớt chuông",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành boa rô 1 cây",
+      "raw_name": "Hành boa rô",
+      "quantity": 1,
+      "unit": "cây",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước tương 2 muỗng cà phê (xì dầu)",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": "xì dầu",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T18:38:40Z",
+  "page_title": "Cách làm ớt chuông xào chay thơm ngon đơn giản lạ miệng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookDish/cach-lam-ot-chuong-xao-chay-thom-ngon-don-gian-la-mieng-avt-1200x676.jpg"
+}

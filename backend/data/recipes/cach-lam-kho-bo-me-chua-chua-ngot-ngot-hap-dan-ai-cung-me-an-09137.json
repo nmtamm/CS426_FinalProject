@@ -1,0 +1,147 @@
+{
+  "source_id": "09137",
+  "name": "Khô bò me",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/fa3f4edc70d4d8c2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kho-bo-me-chua-chua-ngot-ngot-hap-dan-ai-cung-me-an-09137",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kho-bo-me-chua-chua-ngot-ngot-hap-dan-ai-cung-me-an-09137",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò 1 kg",
+      "raw_name": "Thịt bò",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Me chua 220 gr",
+      "raw_name": "Me chua",
+      "quantity": 220,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 100 gr (khoảng 4 củ)",
+      "raw_name": "Tỏi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "khoảng 4 củ",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 ít",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột nghệ 2 muỗng cà phê",
+      "raw_name": "Bột nghệ",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt bột xay mịn 1 muỗng cà phê",
+      "raw_name": "Ớt bột xay mịn",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt khô xay nhỏ 1 muỗng cà phê",
+      "raw_name": "Ớt khô xay nhỏ",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột ngũ vị hương 1/2 muỗng cà phê",
+      "raw_name": "Bột ngũ vị hương",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị nấu bò kho 1/2 muỗng cà phê",
+      "raw_name": "Gia vị nấu bò kho",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bột cà ri 1/2 muỗng cà phê",
+      "raw_name": "Bột cà ri",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Sả 2 cây (đập dập)",
+      "raw_name": "Sả",
+      "quantity": 2,
+      "unit": "cây",
+      "note": "đập dập",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Hạt điều màu 2 muỗng canh",
+      "raw_name": "Hạt điều màu",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Sả 2 cây (đập dập)",
+      "raw_name": "Sả",
+      "quantity": 2,
+      "unit": "cây",
+      "note": "đập dập",
+      "display_order": 13
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/bột ngọt/hạt nêm/đường)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/bột ngọt/hạt nêm/đường",
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T19:06:43Z",
+  "page_title": "Cách làm khô bò me chua chua ngọt ngọt hấp dẫn ai cũng mê ăn là ghiền",
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookProduct/thumbcmscn-1200x676-9.jpg"
+}

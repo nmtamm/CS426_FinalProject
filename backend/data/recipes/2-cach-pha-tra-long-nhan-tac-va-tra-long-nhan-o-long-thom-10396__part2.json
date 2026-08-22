@@ -1,0 +1,37 @@
+{
+  "source_id": "10396",
+  "name": "Trà long nhãn Ô Long",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e01c10255ce80e68.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-pha-tra-long-nhan-tac-va-tra-long-nhan-o-long-thom-10396",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-pha-tra-long-nhan-tac-va-tra-long-nhan-o-long-thom-10396",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà trà ô long túi lọc 3 gói",
+      "raw_name": "Trà trà ô long túi lọc",
+      "quantity": 3,
+      "unit": "gói",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nhãn 6 quả",
+      "raw_name": "Nhãn",
+      "quantity": 6,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:58:10Z",
+  "page_title": "2 Cách pha trà long nhãn tắc và trà long nhãn Ô Long giải nhiệt mùa hè",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/tra-long-nhan-o-long-thumbnail.jpg"
+}

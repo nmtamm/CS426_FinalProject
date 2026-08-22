@@ -1,0 +1,101 @@
+{
+  "source_id": "11861",
+  "name": "Cổ gà chiên ngũ vị bằng chảo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/239ca8fd4e7bf483.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-co-ga-chien-ngu-vi-thom-lung-ngon-mieng-dam-da-de-11861",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-co-ga-chien-ngu-vi-thom-lung-ngon-mieng-dam-da-de-11861",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cổ gà 500 gr",
+      "raw_name": "Cổ gà",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột năng 50 gr",
+      "raw_name": "Bột năng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bơ thực vật 1 muỗng canh",
+      "raw_name": "Bơ thực vật",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi băm 1/2 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt băm 1/2 muỗng canh",
+      "raw_name": "Ớt băm",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ngũ vị hương 1 muỗng cà phê",
+      "raw_name": "Ngũ vị hương",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Rượu trắng 1 muỗng cà phê",
+      "raw_name": "Rượu trắng",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Giấm 1 ít",
+      "raw_name": "Giấm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu ăn 150 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Muối/ bột ngọt 1 ít",
+      "raw_name": "Muối/ bột ngọt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:18:34Z",
+  "page_title": "2 cách làm cổ gà chiên ngũ vị thơm lừng ngon miệng đậm đà dễ làm",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/co-ga-chien-ngu-vi-bang-chao-thumbnail.jpg"
+}

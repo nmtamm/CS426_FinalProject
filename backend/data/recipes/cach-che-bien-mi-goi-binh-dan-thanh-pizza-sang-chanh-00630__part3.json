@@ -1,0 +1,54 @@
+{
+  "source_id": "00630",
+  "name": "Pizza đậu hũ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/cd8bca48861261f2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-che-bien-mi-goi-binh-dan-thanh-pizza-sang-chanh-00630",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-che-bien-mi-goi-binh-dan-thanh-pizza-sang-chanh-00630",
+  "servings_text": "Cho 1 - 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu hũ 2 miếng",
+      "raw_name": "Đậu hũ 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sốt cà chua 1 ít",
+      "raw_name": "Sốt cà chua",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nguyên liệu 1 ít (đậu ve/cà rốt/bắp/xúc xích/thanh cua/tôm)",
+      "raw_name": "Nguyên liệu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đậu ve/cà rốt/bắp/xúc xích/thanh cua/tôm",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:08:01Z",
+  "page_title": "Cách làm pizza mì gói và đậu hũ đơn giản ngon miệng dễ làm tại nhà",
+  "variant_index": 3,
+  "variant_count": 3,
+  "note": "Công thức được chia sẻ từ Tiktok Vào bếp cùng Điện máy XANH",
+  "original_image_url": "https://cdn.tgdd.vn/2023/10/CookRecipe/Avatar/pizza-dau-hu-cong-thuc-duoc-chia-se-tu-tiktok-vao-bep-cung-dien-may-xanh-thumbnail-1.jpg"
+}

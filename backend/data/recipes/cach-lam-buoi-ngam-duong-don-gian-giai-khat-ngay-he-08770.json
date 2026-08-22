@@ -1,0 +1,51 @@
+{
+  "source_id": "08770",
+  "name": "Bưởi ngâm đường",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b9a24e2532d47c5a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-buoi-ngam-duong-don-gian-giai-khat-ngay-he-08770",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-buoi-ngam-duong-don-gian-giai-khat-ngay-he-08770",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bưởi nhỏ 1 trái (khoảng 500gr)",
+      "raw_name": "Bưởi nhỏ",
+      "quantity": 1,
+      "unit": "trái",
+      "note": "khoảng 500gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 300 gr",
+      "raw_name": "Đường",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mật ong 200 gr",
+      "raw_name": "Mật ong",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Baking soda 2 muỗng canh (muối nở)",
+      "raw_name": "Baking soda",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "muối nở",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:59:11Z",
+  "page_title": "Cách làm bưởi ngâm đường đơn giản, giải khát ngày hè",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/thumb-1200x676-53.jpg"
+}

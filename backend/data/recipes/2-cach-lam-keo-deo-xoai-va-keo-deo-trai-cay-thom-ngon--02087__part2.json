@@ -1,0 +1,101 @@
+{
+  "source_id": "02087",
+  "name": "Kẹo dẻo trái cây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7c255f0435db0840.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-keo-deo-xoai-va-keo-deo-trai-cay-thom-ngon--02087",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-keo-deo-xoai-va-keo-deo-trai-cay-thom-ngon--02087",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cam 2 trái",
+      "raw_name": "Cam",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dưa hấu 100 gram",
+      "raw_name": "Dưa hấu 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Thanh long ruột đỏ 1 trái",
+      "raw_name": "Thanh long ruột đỏ",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột trà xanh 7 gram",
+      "raw_name": "Bột trà xanh 7 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột cacao nguyên chất 10 gram (có thể thay bằng bột milo)",
+      "raw_name": "Bột cacao nguyên chất 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": "có thể thay bằng bột milo",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột cà phê sữa 16 gram",
+      "raw_name": "Bột cà phê sữa 16 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hoa đậu biếc 5 cái",
+      "raw_name": "Hoa đậu biếc",
+      "quantity": 5,
+      "unit": "cái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gelatin 175 gram",
+      "raw_name": "Gelatin 175 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường cát 100 gram",
+      "raw_name": "Đường cát 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bột bắp 100 gram (hoặc bột năng)",
+      "raw_name": "Bột bắp 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": "hoặc bột năng",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T19:13:53Z",
+  "page_title": "2 Cách làm kẹo dẻo xoài và kẹo trái cây sữa thơm ngon, dẻo mềm dễ làm",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookRecipe/Avatar/Cach-lam-Keo-deo---nhieu-mau-sac--20-11-screenshot.jpg"
+}

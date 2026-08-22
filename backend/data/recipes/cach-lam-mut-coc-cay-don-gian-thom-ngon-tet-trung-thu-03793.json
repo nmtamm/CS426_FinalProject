@@ -1,0 +1,51 @@
+{
+  "source_id": "03793",
+  "name": "Mứt cóc cay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/87d460739d7f7a3c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-coc-cay-don-gian-thom-ngon-tet-trung-thu-03793",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-coc-cay-don-gian-thom-ngon-tet-trung-thu-03793",
+  "servings_text": "Cho 3 - 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cóc non 2 kg",
+      "raw_name": "Cóc non",
+      "quantity": 2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 1.5 kg",
+      "raw_name": "Đường",
+      "quantity": 1.5,
+      "unit": "kg",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt xay 1 muỗng cà phê",
+      "raw_name": "Ớt xay",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T18:56:27Z",
+  "page_title": "Cách làm mứt cóc cay đơn giản thơm ngon cho ngày tết Trung thu",
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookProduct/Webp.net-resizeimage(19)-1200x676.jpg"
+}

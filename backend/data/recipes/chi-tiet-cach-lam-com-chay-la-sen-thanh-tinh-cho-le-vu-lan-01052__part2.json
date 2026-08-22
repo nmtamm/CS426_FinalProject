@@ -1,0 +1,118 @@
+{
+  "source_id": "01052",
+  "name": "Cơm chay lá sen",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d637f200fd6a2399.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/chi-tiet-cach-lam-com-chay-la-sen-thanh-tinh-cho-le-vu-lan-01052",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/chi-tiet-cach-lam-com-chay-la-sen-thanh-tinh-cho-le-vu-lan-01052",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cơm 1 chén (để nguội)",
+      "raw_name": "Cơm",
+      "quantity": 1,
+      "unit": "chén",
+      "note": "để nguội",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hạt sen khô 20 gr",
+      "raw_name": "Hạt sen khô",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nấm hương 20 gr",
+      "raw_name": "Nấm hương",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bắp ngô 1 quả",
+      "raw_name": "Bắp ngô",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đậu Hà Lan 1 ít (hoặc đậu que)",
+      "raw_name": "Đậu Hà Lan",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hoặc đậu que",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Lá sen lớn 1 lá (không bị rách)",
+      "raw_name": "Lá sen lớn",
+      "quantity": 1,
+      "unit": "lá",
+      "note": "không bị rách",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Cánh hoa sen 10 cái (trang trí)",
+      "raw_name": "Cánh hoa sen",
+      "quantity": 10,
+      "unit": "cái",
+      "note": "trang trí",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hành khô 1 muỗng canh (băm nhuyễn)",
+      "raw_name": "Hành khô",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "băm nhuyễn",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Xì dầu 3 muỗng canh",
+      "raw_name": "Xì dầu",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Muối/ bột ngọt 1 ít",
+      "raw_name": "Muối/ bột ngọt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:49:28Z",
+  "page_title": "2 cách làm cơm chay lá sen thanh tịnh cho lễ Vu Lan",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "Công thức được chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2022/07/CookRecipe/Avatar/com-chay-la-sen-cong-thuc-duoc-chia-se-tu-nguoi-dung-thumbnail-2.jpg"
+}

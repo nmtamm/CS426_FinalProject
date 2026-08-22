@@ -1,0 +1,49 @@
+{
+  "source_id": "00218",
+  "name": "Nước ép diếp cá dưa lê dưa leo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ff41f4a5e62bf24b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-nuoc-rau-diep-ca-thom-ngon-thanh-mat-giai-nhiet-co-00218",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-nuoc-rau-diep-ca-thom-ngon-thanh-mat-giai-nhiet-co-00218",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rau diếp cá 200 gr",
+      "raw_name": "Rau diếp cá",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dưa leo 2 trái",
+      "raw_name": "Dưa leo",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dưa lê 1 quả",
+      "raw_name": "Dưa lê",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:56:23Z",
+  "page_title": "4 cách làm nước ép rau diếp cá thơm ngon thanh mát giải nhiệt mùa nóng",
+  "variant_index": 4,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/nuoc-ep-rau-diep-ca-dua-le-sieu-mat-bo-duong-thumbnail.jpg"
+}

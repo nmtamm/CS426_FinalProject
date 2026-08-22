@@ -1,0 +1,139 @@
+{
+  "source_id": "12450",
+  "name": "Bò lá lốt bằng nồi chiên không dầu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a6a00df5befbfe44.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bo-la-lot-bang-noi-chien-khong-dau-nhanh-chong-tien-12450",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bo-la-lot-bang-noi-chien-khong-dau-nhanh-chong-tien-12450",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò 300 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt heo 50 gr",
+      "raw_name": "Thịt heo",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá lốt 100 gr (10 - 20 lá)",
+      "raw_name": "Lá lốt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "10 - 20 lá",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mỡ heo 50 gr",
+      "raw_name": "Mỡ heo",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bơ 30 gr (bơ mặn hoặc lạt đều được)",
+      "raw_name": "Bơ",
+      "quantity": 30,
+      "unit": "gr",
+      "note": "bơ mặn hoặc lạt đều được",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 2 củ",
+      "raw_name": "Tỏi",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Sả 2 cây",
+      "raw_name": "Sả",
+      "quantity": 2,
+      "unit": "cây",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu điều 2 muỗng cà phê (30gr)",
+      "raw_name": "Dầu điều",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": "30gr",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước tương 1 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Mật ong 1 ít",
+      "raw_name": "Mật ong",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu mè 1 ít",
+      "raw_name": "Dầu mè",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Mè đã rang 1 ít",
+      "raw_name": "Mè đã rang",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Ớt bột 1 ít",
+      "raw_name": "Ớt bột",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T18:31:14Z",
+  "page_title": "Cách làm bò lá lốt bằng nồi chiên không dầu nhanh chóng tiện lợi thom ngon",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/3-1200x676.jpg"
+}

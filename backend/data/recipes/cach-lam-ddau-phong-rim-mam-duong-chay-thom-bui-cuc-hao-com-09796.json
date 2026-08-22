@@ -1,0 +1,83 @@
+{
+  "source_id": "09796",
+  "name": "Đậu phộng rim mắm đường chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1464ba0c6f1f37b5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ddau-phong-rim-mam-duong-chay-thom-bui-cuc-hao-com-09796",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ddau-phong-rim-mam-duong-chay-thom-bui-cuc-hao-com-09796",
+  "servings_text": "Cho 1 hũ",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu phộng 150 gr",
+      "raw_name": "Đậu phộng",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối 100 gr",
+      "raw_name": "Muối",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đầu hành boa rô 1 nhánh (băm nhỏ)",
+      "raw_name": "Đầu hành boa rô",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": "băm nhỏ",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt sừng 1 quả (băm nhỏ)",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "băm nhỏ",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt bột 1 muỗng cà phê",
+      "raw_name": "Ớt bột",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước mắm chay 3 muỗng canh",
+      "raw_name": "Nước mắm chay",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường 2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:49:51Z",
+  "page_title": "Cách làm đậu phộng rim mắm đường chay, thơm bùi cực hao cơm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookProduct/thumb1-1200x676-5.jpg"
+}

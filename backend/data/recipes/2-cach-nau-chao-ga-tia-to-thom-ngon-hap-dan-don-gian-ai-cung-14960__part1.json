@@ -1,0 +1,129 @@
+{
+  "source_id": "14960",
+  "name": "Cháo gà tía tô",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/cb3de77d55a05ce4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-chao-ga-tia-to-thom-ngon-hap-dan-don-gian-ai-cung-14960",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-chao-ga-tia-to-thom-ngon-hap-dan-don-gian-ai-cung-14960",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-chao",
+      "name": "Món cháo"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà 1 con (khoảng 1.9kg)",
+      "raw_name": "Gà 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 1.9kg",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu xanh hạt 100 gr",
+      "raw_name": "Đậu xanh hạt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gạo tẻ 250 gr",
+      "raw_name": "Gạo tẻ",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lá tía tô 150 gr",
+      "raw_name": "Lá tía tô",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lá quế 100 gr",
+      "raw_name": "Lá quế",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành lá 4 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 4,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt 4 trái",
+      "raw_name": "Ớt",
+      "quantity": 4,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Chanh 2 trái",
+      "raw_name": "Chanh",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gừng 1 nhánh",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hành tím 15 củ",
+      "raw_name": "Hành tím",
+      "quantity": 15,
+      "unit": "củ",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng cà phê",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ đường/ hạt nêm/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ đường/ hạt nêm/ tiêu xay",
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T18:08:06Z",
+  "page_title": "2 cách nấu cháo gà tía tô thơm ngon hấp dẫn đơn giản ai cũng thích",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/chao-ga-tia-to-thumbnail.jpg"
+}

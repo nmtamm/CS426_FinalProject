@@ -1,0 +1,51 @@
+{
+  "source_id": "07882",
+  "name": "Mắm ba khía",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c99ef18bce103745.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mam-ba-khia-thom-ngon-dam-da-chuan-vi-mien-tay-07882",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mam-ba-khia-thom-ngon-dam-da-chuan-vi-mien-tay-07882",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ba khía 3 kg",
+      "raw_name": "Ba khía",
+      "quantity": 3,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Phèn chua 2 muỗng cà phê",
+      "raw_name": "Phèn chua",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối hạt 0.5 kg",
+      "raw_name": "Muối hạt",
+      "quantity": 0.5,
+      "unit": "kg",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước mặn 2 lít (nước biển)",
+      "raw_name": "Nước mặn 2 lít",
+      "quantity": null,
+      "unit": null,
+      "note": "nước biển",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:07:00Z",
+  "page_title": "Cách làm mắm ba khía thơm ngon đậm đà chuẩn vị miền Tây",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/QuytrinhlammambakhiatuAdenZ-HocNauAn0-0screenshot-1200x676.jpg"
+}

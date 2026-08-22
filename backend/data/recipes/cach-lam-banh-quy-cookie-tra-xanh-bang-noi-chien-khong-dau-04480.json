@@ -1,0 +1,87 @@
+{
+  "source_id": "04480",
+  "name": "Bánh quy chanh keto",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5ba4162a10a0b6a4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-quy-cookie-tra-xanh-bang-noi-chien-khong-dau-04480",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-quy-cookie-tra-xanh-bang-noi-chien-khong-dau-04480",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bơ mặn 70 gr",
+      "raw_name": "Bơ mặn",
+      "quantity": 70,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 4 muỗng cà phê (đường ăn kiêng)",
+      "raw_name": "Đường",
+      "quantity": 4,
+      "unit": "muỗng cà phê",
+      "note": "đường ăn kiêng",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng 1 quả",
+      "raw_name": "Trứng",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột hạnh nhân 120 gr",
+      "raw_name": "Bột hạnh nhân",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột dừa 60 gr",
+      "raw_name": "Bột dừa",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột nở 1 muỗng cà phê (baking soda)",
+      "raw_name": "Bột nở",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "baking soda",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước cốt chanh 2 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Vỏ chanh 1 muỗng cà phê (bào nhuyễn)",
+      "raw_name": "Vỏ chanh",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "bào nhuyễn",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:23:25Z",
+  "page_title": "Cách làm bánh quy chanh keto thơm ngon giòn rụm đơn giản dễ làm",
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookProduct/Untitled-1-1200x676-24.jpg"
+}

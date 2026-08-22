@@ -1,0 +1,53 @@
+{
+  "source_id": "01888",
+  "name": "Detox dưa chuột chanh bạc hà",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2500c3f7be167bc5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/7-cach-lam-nuoc-detox-nhanh-bo-re-don-gian-01888",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/7-cach-lam-nuoc-detox-nhanh-bo-re-don-gian-01888",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chanh 2 quả",
+      "raw_name": "Chanh",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dưa leo 1 quả",
+      "raw_name": "Dưa leo",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá bạc hà 40 gr",
+      "raw_name": "Lá bạc hà",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước ấm 2 l",
+      "raw_name": "Nước ấm",
+      "quantity": 2,
+      "unit": "l",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:07:53Z",
+  "page_title": "7 Cách làm nước detox nhanh, bổ, rẻ, đơn giản",
+  "variant_index": 7,
+  "variant_count": 7,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/detox-dua-chuot-chanh-bac-ha-thumbnail.jpg"
+}

@@ -1,0 +1,77 @@
+{
+  "source_id": "01275",
+  "name": "Lục trà xoài kem cheese",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/aaaee603fdf641f7.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-pha-tra-xoai-bang-tra-olong-va-tra-lipton-don-gian-01275",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-pha-tra-xoai-bang-tra-olong-va-tra-lipton-don-gian-01275",
+  "servings_text": "Cho 2 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà xanh 12 gr",
+      "raw_name": "Trà xanh",
+      "quantity": 12,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xoài 1 quả",
+      "raw_name": "Xoài",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cream cheese 226 gr",
+      "raw_name": "Cream cheese",
+      "quantity": 226,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa tươi 100 ml",
+      "raw_name": "Sữa tươi",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Siro xoài 120 ml",
+      "raw_name": "Siro xoài",
+      "quantity": 120,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 124 gr",
+      "raw_name": "Đường",
+      "quantity": 124,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối 2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:58:44Z",
+  "page_title": "5 cách làm trà xoài thơm ngon sảng khoái đơn giản tại nhà",
+  "variant_index": 4,
+  "variant_count": 5,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/luc-tra-xoai-kem-cheese-thumbnail.jpg"
+}

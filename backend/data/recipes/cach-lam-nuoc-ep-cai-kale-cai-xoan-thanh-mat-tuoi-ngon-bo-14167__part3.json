@@ -1,0 +1,37 @@
+{
+  "source_id": "14167",
+  "name": "Nước ép cải kale táo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4babf0500c9922d0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-cai-kale-cai-xoan-thanh-mat-tuoi-ngon-bo-14167",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-cai-kale-cai-xoan-thanh-mat-tuoi-ngon-bo-14167",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cải kale 3 lá",
+      "raw_name": "Cải kale",
+      "quantity": 3,
+      "unit": "lá",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Táo 1 quả",
+      "raw_name": "Táo",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T20:12:20Z",
+  "page_title": "3 cách làm nước ép cải kale (cải xoăn) thanh mát tươi ngon bổ dưỡng",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/nuoc-ep-cai-kale-tao-thumbnail.jpg"
+}

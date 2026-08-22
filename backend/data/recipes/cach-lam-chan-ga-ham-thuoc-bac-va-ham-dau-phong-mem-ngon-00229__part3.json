@@ -1,0 +1,69 @@
+{
+  "source_id": "00229",
+  "name": "Chân gà hầm đậu phộng dưa leo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0da5136b295d13bc.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chan-ga-ham-thuoc-bac-va-ham-dau-phong-mem-ngon-00229",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chan-ga-ham-thuoc-bac-va-ham-dau-phong-mem-ngon-00229",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chân gà 1 kg",
+      "raw_name": "Chân gà",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dưa leo 500 gr",
+      "raw_name": "Dưa leo",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu phộng khô 300 gr",
+      "raw_name": "Đậu phộng khô",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tím 3 củ",
+      "raw_name": "Hành tím",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ngò rí 1 ít",
+      "raw_name": "Ngò rí",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ hạt nêm/ tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ hạt nêm/ tiêu",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:13:59Z",
+  "page_title": "3 cách làm chân gà hầm thuốc bắc và hầm đậu phộng mềm ngon đơn giản",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2022/02/CookRecipe/Avatar/chan-ga-ham-dau-phong-dua-leo-thumbnail.jpg"
+}

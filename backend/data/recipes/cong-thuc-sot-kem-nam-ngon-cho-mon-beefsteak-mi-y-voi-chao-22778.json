@@ -1,0 +1,103 @@
+{
+  "source_id": "22778",
+  "name": "Sốt kem nấm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/19a0cb00b974d61f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cong-thuc-sot-kem-nam-ngon-cho-mon-beefsteak-mi-y-voi-chao-22778",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cong-thuc-sot-kem-nam-ngon-cho-mon-beefsteak-mi-y-voi-chao-22778",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nấm mỡ 200 gr",
+      "raw_name": "Nấm mỡ",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tỏi 7 tép",
+      "raw_name": "Tỏi 7 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tây cỡ vừa 1 củ",
+      "raw_name": "Hành tây cỡ vừa",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bơ nhạt 1 thìa canh",
+      "raw_name": "Bơ nhạt",
+      "quantity": 1,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước dùng 240 ml (nước hầm gà/ nước hầm xương/ nước hầm rau củ)",
+      "raw_name": "Nước dùng",
+      "quantity": 240,
+      "unit": "ml",
+      "note": "nước hầm gà/ nước hầm xương/ nước hầm rau củ",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Kem béo 80 ml (heavy cream)",
+      "raw_name": "Kem béo",
+      "quantity": 80,
+      "unit": "ml",
+      "note": "heavy cream",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Phô mai Parmesan bào 30 gr",
+      "raw_name": "Phô mai Parmesan bào",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Lá oregano khô 1 thìa canh (có thể thay bằng hương thảo khô)",
+      "raw_name": "Lá oregano khô",
+      "quantity": 1,
+      "unit": "thìa canh",
+      "note": "có thể thay bằng hương thảo khô",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rau mùi tây 1 ít (parsley)",
+      "raw_name": "Rau mùi tây",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "parsley",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Muối/ Tiêu xay/ Dầu ăn 1 ít (dầu olive)",
+      "raw_name": "Muối/ Tiêu xay/ Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "dầu olive",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:22:46Z",
+  "page_title": "Công thức sốt kem nấm ngon cho món beefsteak, mì Ý với chảo inox",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/05052025%20%2869%29.jpg"
+}

@@ -1,0 +1,107 @@
+{
+  "source_id": "03813",
+  "name": "Mì củ sen chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f9cb53bf804b4909.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mi-cu-sen-thanh-dam-thom-ngon-de-lam-cho-mua-he-03813",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mi-cu-sen-thanh-dam-thom-ngon-de-lam-cho-mua-he-03813",
+  "servings_text": "Cho 2 - 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Củ sen 200 gr",
+      "raw_name": "Củ sen",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 100 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nấm đông cô hoặc nấm hương tươi 50 gr",
+      "raw_name": "Nấm đông cô hoặc nấm hương tươi",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rong phổ tai kombu 5 gr",
+      "raw_name": "Rong phổ tai kombu",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành khô 20 gr",
+      "raw_name": "Hành khô",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gừng 10 gr",
+      "raw_name": "Gừng",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước tương 2 thìa canh",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường mía thô 1 thìa canh",
+      "raw_name": "Đường mía thô",
+      "quantity": 1,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tương miso 2 thìa canh (tuỳ ý thích)",
+      "raw_name": "Tương miso",
+      "quantity": 2,
+      "unit": "thìa canh",
+      "note": "tuỳ ý thích",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Mì gạo 200 gr",
+      "raw_name": "Mì gạo",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Muối 1/4 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:44:43Z",
+  "page_title": "Cách làm mì củ sen chay thanh đạm thơm ngon dễ làm cho mùa hè",
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookProduct/1200-1200x676-7.jpg"
+}

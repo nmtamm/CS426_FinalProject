@@ -1,0 +1,67 @@
+{
+  "source_id": "01294",
+  "name": "Milo đá bào",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bf43b63975f2d52c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/video-cach-lam-milo-da-bao-dang-hot-hon-hot-01294",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/video-cach-lam-milo-da-bao-dang-hot-hon-hot-01294",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sữa milo 500 ml",
+      "raw_name": "Sữa milo",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột milo 200 gr",
+      "raw_name": "Bột milo",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột bắp 25 gr",
+      "raw_name": "Bột bắp",
+      "quantity": 25,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Socola chip 150 gr (65%)",
+      "raw_name": "Socola chip",
+      "quantity": 150,
+      "unit": "gr",
+      "note": "65%",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sữa đặc có đường 75 gr",
+      "raw_name": "Sữa đặc có đường",
+      "quantity": 75,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đá bào 100 gr",
+      "raw_name": "Đá bào",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:29:53Z",
+  "page_title": "Cách làm Milo đá bào đang \"hót hòn họt\" trên mạng xã hội",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2019/05/15/1167023/760-760x367.jpg"
+}

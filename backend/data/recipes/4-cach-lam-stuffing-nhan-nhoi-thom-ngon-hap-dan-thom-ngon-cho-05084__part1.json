@@ -1,0 +1,121 @@
+{
+  "source_id": "05084",
+  "name": "Stuffing bánh mì ngô - Cornbread",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/115206a9ca4069b8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-stuffing-nhan-nhoi-thom-ngon-hap-dan-thom-ngon-cho-05084",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-stuffing-nhan-nhoi-thom-ngon-hap-dan-thom-ngon-cho-05084",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bơ 113 gr",
+      "raw_name": "Bơ",
+      "quantity": 113,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cần tây 6 lá (cắt khúc nhỏ)",
+      "raw_name": "Cần tây",
+      "quantity": 6,
+      "unit": "lá",
+      "note": "cắt khúc nhỏ",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Thịt xông khói 454 gr (Bacon cắt miếng vừa ăn)",
+      "raw_name": "Thịt xông khói",
+      "quantity": 454,
+      "unit": "gr",
+      "note": "Bacon cắt miếng vừa ăn",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tây 2 củ (cắt hạt lựu)",
+      "raw_name": "Hành tây",
+      "quantity": 2,
+      "unit": "củ",
+      "note": "cắt hạt lựu",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 4 tép (băm nhỏ)",
+      "raw_name": "Tỏi 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": "băm nhỏ",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lá rosemary khô 2 muỗng canh (Lá hương thảo)",
+      "raw_name": "Lá rosemary khô",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "Lá hương thảo",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Lá thyme khô 2 muỗng canh (Lá cỏ xạ hương)",
+      "raw_name": "Lá thyme khô",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "Lá cỏ xạ hương",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bánh mì ngô 2 cái (cắt khối vuông)",
+      "raw_name": "Bánh mì ngô",
+      "quantity": 2,
+      "unit": "cái",
+      "note": "cắt khối vuông",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Trứng gà 3 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước hầm gà tây 710 ml",
+      "raw_name": "Nước hầm gà tây",
+      "quantity": 710,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Tiêu 1/2 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T19:43:49Z",
+  "page_title": "4 Cách làm stuffing - nhân nhồi thơm ngon hấp dẫn cho Lễ Tạ Ơn",
+  "variant_index": 1,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookRecipe/Avatar/stuffing-banh-mi-ngo-cornbread-thumbnail.jpg"
+}

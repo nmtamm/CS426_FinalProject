@@ -1,0 +1,67 @@
+{
+  "source_id": "01650",
+  "name": "Gỏi xoài khô cá lóc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ae8c4fc0d02a1d29.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-xoai-kho-ca-loc-chua-cay-cuc-ngon-chuan-nam-bo-01650",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-xoai-kho-ca-loc-chua-cay-cuc-ngon-chuan-nam-bo-01650",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Xoài xanh 1 trái",
+      "raw_name": "Xoài xanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Khô cá lóc 300 g",
+      "raw_name": "Khô cá lóc",
+      "quantity": 300,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rau răm 50 g",
+      "raw_name": "Rau răm",
+      "quantity": 50,
+      "unit": "g",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt 3 trái",
+      "raw_name": "Ớt",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 1 củ (3 tép)",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "3 tép",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Me chín 50 g",
+      "raw_name": "Me chín",
+      "quantity": 50,
+      "unit": "g",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:03:20Z",
+  "page_title": "Cách làm gỏi xoài khô cá lóc chua cay cực ngon chuẩn Nam Bộ",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/02/09/1235251/cach-lam-goi-xoai-kho-ca-loc-chua-cay-cuc-ngon-chuan-nam-bo-4-760x367.jpg"
+}

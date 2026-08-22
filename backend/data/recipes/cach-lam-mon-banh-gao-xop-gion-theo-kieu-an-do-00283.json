@@ -1,0 +1,55 @@
+{
+  "source_id": "00283",
+  "name": "Bánh gạo xốp Ấn Độ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/fde25d6c4bfab302.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-banh-gao-xop-gion-theo-kieu-an-do-00283",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-banh-gao-xop-gion-theo-kieu-an-do-00283",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gạo 1 chén",
+      "raw_name": "Gạo",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tiêu đen 2 gr",
+      "raw_name": "Tiêu đen",
+      "quantity": 2,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối 2 gr",
+      "raw_name": "Muối",
+      "quantity": 2,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột thì là 2 gr",
+      "raw_name": "Bột thì là",
+      "quantity": 2,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:31:43Z",
+  "page_title": "Cách làm món bánh gạo xốp giòn theo kiểu Ấn Độ",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2014/06/09/549010/Cach-lam-banh-gao-xop-gion-theo-kieu-An-Do-600x400.jpg"
+}

@@ -1,0 +1,131 @@
+{
+  "source_id": "05495",
+  "name": "Trifle",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1545270ccbdfbffb.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-trifle-cho-giang-sinh-dep-mat-hap-dan-05495",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-trifle-cho-giang-sinh-dep-mat-hap-dan-05495",
+  "servings_text": "Cho 8 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh bông lan 1 cái (khoảng 450gr)",
+      "raw_name": "Bánh bông lan",
+      "quantity": 1,
+      "unit": "cái",
+      "note": "khoảng 450gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước cam 85 ml (hoặc nước trái cây tùy thích)",
+      "raw_name": "Nước cam",
+      "quantity": 85,
+      "unit": "ml",
+      "note": "hoặc nước trái cây tùy thích",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột rau câu Jelly 85 gr",
+      "raw_name": "Bột rau câu Jelly",
+      "quantity": 85,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước nam việt quất 1.25 lít",
+      "raw_name": "Nước nam việt quất 1.25 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường cát 3 muỗng canh (khoảng 55gr)",
+      "raw_name": "Đường cát",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": "khoảng 55gr",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Whipping cream 600 ml (kem sữa tươi)",
+      "raw_name": "Whipping cream",
+      "quantity": 600,
+      "unit": "ml",
+      "note": "kem sữa tươi",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường bột 8 muỗng canh (khoảng 110gr)",
+      "raw_name": "Đường bột",
+      "quantity": 8,
+      "unit": "muỗng canh",
+      "note": "khoảng 110gr",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tinh chất vani 2.5 muỗng cà phê",
+      "raw_name": "Tinh chất vani",
+      "quantity": 2.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Sữa tươi không đường 750 ml (nguyên kem hoặc ít béo)",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 750,
+      "unit": "ml",
+      "note": "nguyên kem hoặc ít béo",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dây tây 500 gr",
+      "raw_name": "Dây tây",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Lòng đỏ trứng 4 cái",
+      "raw_name": "Lòng đỏ trứng",
+      "quantity": 4,
+      "unit": "cái",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Việt quất 300 gr",
+      "raw_name": "Việt quất",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Mâm xôi 300 gr",
+      "raw_name": "Mâm xôi",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Bột bắp 80 gr",
+      "raw_name": "Bột bắp",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T19:43:43Z",
+  "page_title": "Cách làm trifle - món tráng miệng cho Giáng Sinh đẹp mắt, hấp dẫn",
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookProduct/thum-1200x676-9.jpg"
+}

@@ -1,0 +1,39 @@
+{
+  "source_id": "15256",
+  "name": "Nước ép cần tây cà rốt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3b33c4441a6208e4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-can-tay-ca-rot-don-gian-de-uong-giup-giam-15256",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-can-tay-ca-rot-don-gian-de-uong-giup-giam-15256",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rau cần tây 3 nhánh",
+      "raw_name": "Rau cần tây",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 1/2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:47:49Z",
+  "page_title": "Cách làm nước ép cần tây cà rốt đơn giản dễ uống giúp giảm cân",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookDish/cach-lam-nuoc-ep-can-tay-ca-rot-don-gian-de-uong-giup-giam-avt-1200x676.jpg"
+}

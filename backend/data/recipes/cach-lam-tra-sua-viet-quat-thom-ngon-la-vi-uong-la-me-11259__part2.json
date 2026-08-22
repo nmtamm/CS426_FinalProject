@@ -1,0 +1,85 @@
+{
+  "source_id": "11259",
+  "name": "Trà sữa việt quất",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a0262b805c6556eb.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-sua-viet-quat-thom-ngon-la-vi-uong-la-me-11259",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-sua-viet-quat-thom-ngon-la-vi-uong-la-me-11259",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà ô long 10 gr",
+      "raw_name": "Trà ô long",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột kem béo 30 gr",
+      "raw_name": "Bột kem béo",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mứt việt quất 25 ml",
+      "raw_name": "Mứt việt quất",
+      "quantity": 25,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Việt quất 2 quả (trang trí)",
+      "raw_name": "Việt quất",
+      "quantity": 2,
+      "unit": "quả",
+      "note": "trang trí",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Siro đường 10 ml",
+      "raw_name": "Siro đường",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Trân châu trắng 5 muỗng cà phê",
+      "raw_name": "Trân châu trắng",
+      "quantity": 5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước nóng 300 ml",
+      "raw_name": "Nước nóng",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:10:40Z",
+  "page_title": "Cách làm trà sữa việt quất thơm ngon lạ vị uống là mê",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookRecipe/Avatar/tra-sua-viet-quat-thumbnail-1.jpg"
+}

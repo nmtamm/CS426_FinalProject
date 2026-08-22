@@ -1,0 +1,49 @@
+{
+  "source_id": "02896",
+  "name": "Thịt xông khói cuộn hành tây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3f5d0af299f549c7.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-thit-xong-khoi-cuon-dau-hu-va-hanh-tay-chien-gion-02896",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-thit-xong-khoi-cuon-dau-hu-va-hanh-tay-chien-gion-02896",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt xông khói 100 g",
+      "raw_name": "Thịt xông khói",
+      "quantity": 100,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột mì 100 g",
+      "raw_name": "Bột mì",
+      "quantity": 100,
+      "unit": "g",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T20:38:40Z",
+  "page_title": "2 cách làm thịt xông khói cuộn đậu hũ và hành tây chiên giòn cực ngon",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/thit-xong-khoi-cuon-hanh-tay-chien-gion-thumbnail.jpg"
+}

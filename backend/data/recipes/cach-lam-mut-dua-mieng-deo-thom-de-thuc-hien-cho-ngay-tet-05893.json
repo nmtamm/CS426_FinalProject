@@ -1,0 +1,79 @@
+{
+  "source_id": "05893",
+  "name": "Mứt dừa miếng dẻo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/39ddd23cb4404883.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-dua-mieng-deo-thom-de-thuc-hien-cho-ngay-tet-05893",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-dua-mieng-deo-thom-de-thuc-hien-cho-ngay-tet-05893",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cùi dừa non 1.5 kg",
+      "raw_name": "Cùi dừa non",
+      "quantity": 1.5,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 765 gr",
+      "raw_name": "Đường",
+      "quantity": 765,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột trà xanh 1 muỗng canh",
+      "raw_name": "Bột trà xanh",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa đặc 2 muỗng canh",
+      "raw_name": "Sữa đặc",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 1 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Chanh 1/2 trái",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước cốt canh dây 50 ml",
+      "raw_name": "Nước cốt canh dây",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:16:51Z",
+  "page_title": "Cách làm mứt dừa miếng dẻo thơm, dễ thực hiện cho ngày Tết",
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookProduct/CachLamMutDuaMieng3MauDepMatDaiKhachTetNay-CookyTV1-46screenshot1200-1200x676.jpg"
+}

@@ -1,0 +1,63 @@
+{
+  "source_id": "00534",
+  "name": "Chả lụa heo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/fcde75521aa2c909.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-gio-lua-cho-ngay-tet-00534",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-gio-lua-cho-ngay-tet-00534",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt đùi heo 1 kg",
+      "raw_name": "Thịt đùi heo",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mỡ heo 300 gr (phần gáy hoặc tùy ý)",
+      "raw_name": "Mỡ heo",
+      "quantity": 300,
+      "unit": "gr",
+      "note": "phần gáy hoặc tùy ý",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hạt nêm 1 muỗng canh",
+      "raw_name": "Hạt nêm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước mắm 4 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lá chuối 2 lá",
+      "raw_name": "Lá chuối",
+      "quantity": 2,
+      "unit": "lá",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:16:08Z",
+  "page_title": "Cách làm chả lụa (giò lụa) thịt heo đơn giản cho mâm Tết thêm ấm cúng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/chalua1200-1200x676.jpg"
+}

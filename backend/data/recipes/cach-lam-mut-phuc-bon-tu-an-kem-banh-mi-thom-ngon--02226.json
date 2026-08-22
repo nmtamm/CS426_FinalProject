@@ -1,0 +1,51 @@
+{
+  "source_id": "02226",
+  "name": "Mứt phúc bồn tử",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/66fbe5c24e310dcd.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-phuc-bon-tu-an-kem-banh-mi-thom-ngon--02226",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-phuc-bon-tu-an-kem-banh-mi-thom-ngon--02226",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Phúc bồn tử 375 g",
+      "raw_name": "Phúc bồn tử",
+      "quantity": 375,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường trắng 340 g",
+      "raw_name": "Đường trắng",
+      "quantity": 340,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột Gelatin 1 muỗng cà phê",
+      "raw_name": "Bột Gelatin",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 muỗng cà phê",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:44:36Z",
+  "page_title": "Cách làm mứt phúc bồn tử ăn kèm bánh mì thơm ngon, đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/04/27/1252246/cach-lam-mut-phuc-bon-tu-an-kem-banh-mi-thom-ngon--18-760x367.jpg"
+}

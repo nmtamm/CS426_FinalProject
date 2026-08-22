@@ -1,0 +1,75 @@
+{
+  "source_id": "17613",
+  "name": "Trà vải hạt chia",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1b0763e4bc94670d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-vai-hat-chia-thom-ngon-de-lam-giai-nhiet-mua-he-17613",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-vai-hat-chia-thom-ngon-de-lam-giai-nhiet-mua-he-17613",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trái vải tươi 5 trái",
+      "raw_name": "Trái vải tươi",
+      "quantity": 5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trà Lipton 1 gói",
+      "raw_name": "Trà Lipton",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hạt chia 1/2 muỗng canh",
+      "raw_name": "Hạt chia",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước cốt chanh 1/2 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Syrup đường 1 muỗng canh",
+      "raw_name": "Syrup đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường cát 3 muỗng canh",
+      "raw_name": "Đường cát",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:03:47Z",
+  "page_title": "Cách làm trà vải hạt chia thơm ngon dễ làm giải nhiệt mùa hè",
+  "original_image_url": "https://cdn.tgdd.vn/2022/06/CookDish/cach-lam-tra-vai-hat-chia-thom-ngon-de-lam-giai-nhiet-mua-he-avt-1200x676.jpg"
+}

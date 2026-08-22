@@ -1,0 +1,27 @@
+{
+  "source_id": "07572",
+  "name": "Khoai lang luộc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9478596dcb39d7cd.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/bo-tui-cach-luoc-khoai-lang-ngon-khong-bi-nut-vua-ngot-vua-07572",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/bo-tui-cach-luoc-khoai-lang-ngon-khong-bi-nut-vua-ngot-vua-07572",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai lang Nhật 1 kg (hoặc khoai lang tím)",
+      "raw_name": "Khoai lang Nhật",
+      "quantity": 1,
+      "unit": "kg",
+      "note": "hoặc khoai lang tím",
+      "display_order": 1
+    }
+  ],
+  "scraped_at": "2026-08-19T19:20:10Z",
+  "page_title": "Bỏ túi cách luộc khoai lang ngon, không bị nứt vừa ngọt vừa bùi",
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookProduct/5-1200x676-1.jpg"
+}

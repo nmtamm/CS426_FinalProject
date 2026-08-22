@@ -1,0 +1,85 @@
+{
+  "source_id": "19020",
+  "name": "Tàu hũ ky cuộn nấm đùi gà và đậu hũ chiên",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9cd576459d309b67.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tau-hu-ky-cuon-nam-don-gian-dep-mat-de-lam-tai-nha-19020",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tau-hu-ky-cuon-nam-don-gian-dep-mat-de-lam-tai-nha-19020",
+  "servings_text": "Cho 3 người ăn",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tàu hũ ky lá khô 250 gram",
+      "raw_name": "Tàu hũ ky lá khô 250 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm đùi gà 200 gram",
+      "raw_name": "Nấm đùi gà 200 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu chiên 2 miếng",
+      "raw_name": "Đậu chiên 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành Boaro phi 1 muỗng canh",
+      "raw_name": "Hành Boaro phi",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rượu mai quế lộ 1 muỗng canh",
+      "raw_name": "Rượu mai quế lộ",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Mật mía 1 muỗng canh",
+      "raw_name": "Mật mía",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu điều 1 ít",
+      "raw_name": "Dầu điều",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị 1 ít (nước tương/ hạt nêm chay/ tiêu xay/ dầu hào chay/ xốt ướp xá xíu)",
+      "raw_name": "Gia vị",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "nước tương/ hạt nêm chay/ tiêu xay/ dầu hào chay/ xốt ướp xá xíu",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:47:33Z",
+  "page_title": "2 cách làm tàu hũ ky cuộn nấm đùi gà đơn giản, đẹp mắt dễ làm tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2023/09/CookRecipe/Avatar/tau-hu-ky-cuon-nam-dui-ga-va-dau-hu-chien-thumbnail.jpg"
+}

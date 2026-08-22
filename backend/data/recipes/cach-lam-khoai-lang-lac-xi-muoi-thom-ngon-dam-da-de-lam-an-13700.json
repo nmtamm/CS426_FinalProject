@@ -1,0 +1,59 @@
+{
+  "source_id": "13700",
+  "name": "Khoai lang lắc xí muội",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/808242bc3321ceb1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-khoai-lang-lac-xi-muoi-thom-ngon-dam-da-de-lam-an-13700",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-khoai-lang-lac-xi-muoi-thom-ngon-dam-da-de-lam-an-13700",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai lang 300 gr",
+      "raw_name": "Khoai lang",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột mì đa dụng 3 muỗng canh",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối xí muội 3 muỗng canh",
+      "raw_name": "Muối xí muội",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 200 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:00:05Z",
+  "page_title": "Cách làm khoai lang lắc xí muội thơm ngon đậm đà dễ làm ăn vặt tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookDish/cach-lam-khoai-lang-lac-xi-muoi-thom-ngon-dam-da-de-lam-an-avt-1200x676.jpg"
+}

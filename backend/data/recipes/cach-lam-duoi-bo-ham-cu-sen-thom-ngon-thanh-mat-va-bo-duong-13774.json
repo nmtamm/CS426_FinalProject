@@ -1,0 +1,75 @@
+{
+  "source_id": "13774",
+  "name": "Đuôi bò hầm củ sen",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6b06168a6b592b9b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-duoi-bo-ham-cu-sen-thom-ngon-thanh-mat-va-bo-duong-13774",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-duoi-bo-ham-cu-sen-thom-ngon-thanh-mat-va-bo-duong-13774",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đuôi bò 1 cái (khoảng 1 kg)",
+      "raw_name": "Đuôi bò",
+      "quantity": 1,
+      "unit": "cái",
+      "note": "khoảng 1 kg",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bắp 3 trái",
+      "raw_name": "Bắp",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Củ sen 3 củ",
+      "raw_name": "Củ sen",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hạt kỷ tử 50 gr",
+      "raw_name": "Hạt kỷ tử",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường phèn 10 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (bột ngọt/ muối/ đường)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "bột ngọt/ muối/ đường",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:22:37Z",
+  "page_title": "Cách làm đuôi bò hầm củ sen thơm ngon, thanh mát và bổ dưỡng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookDish/cach-lam-duoi-bo-ham-cu-sen-thom-ngon-thanh-mat-va-bo-duong-avt-1200x676.jpg"
+}

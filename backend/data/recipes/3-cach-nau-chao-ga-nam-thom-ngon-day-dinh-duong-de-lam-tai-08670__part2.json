@@ -1,0 +1,97 @@
+{
+  "source_id": "08670",
+  "name": "Cháo gà nấm hương",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/38b9cbc41c6c73d3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-nau-chao-ga-nam-thom-ngon-day-dinh-duong-de-lam-tai-08670",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-nau-chao-ga-nam-thom-ngon-day-dinh-duong-de-lam-tai-08670",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-chao",
+      "name": "Món cháo"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ức gà 800 gr",
+      "raw_name": "Ức gà",
+      "quantity": 800,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nấm hương khô 100 gr",
+      "raw_name": "Nấm hương khô",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tím 2 củ",
+      "raw_name": "Hành tím",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gừng 1 nhánh (nhánh nhỏ)",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": "nhánh nhỏ",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành lá 2 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gừng 1 củ (cắt lát)",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "cắt lát",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối hạt 1 muỗng canh",
+      "raw_name": "Muối hạt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối/ hạt nêm 1 ít",
+      "raw_name": "Muối/ hạt nêm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:05:02Z",
+  "page_title": "2 cách nấu cháo gà nấm thơm ngon đầy dinh dưỡng dễ làm tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/chao-ga-nam-huong-thumbnail.jpg"
+}

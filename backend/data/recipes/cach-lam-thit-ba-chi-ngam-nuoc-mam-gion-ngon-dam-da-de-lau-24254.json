@@ -1,0 +1,83 @@
+{
+  "source_id": "24254",
+  "name": "thịt ba chỉ ngâm nước mắm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/19243f4745b3b35d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-ba-chi-ngam-nuoc-mam-gion-ngon-dam-da-de-lau-24254",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-ba-chi-ngam-nuoc-mam-gion-ngon-dam-da-de-lau-24254",
+  "servings_text": "Cho 1 kg thịt ba chỉ",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt ba chỉ 1 kg (thịt ba rọi)",
+      "raw_name": "Thịt ba chỉ",
+      "quantity": 1,
+      "unit": "kg",
+      "note": "thịt ba rọi",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tỏi 50 gr",
+      "raw_name": "Tỏi",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tiêu hạt 1 muỗng canh",
+      "raw_name": "Tiêu hạt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng 50 gr",
+      "raw_name": "Gừng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sả 50 gr",
+      "raw_name": "Sả",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường vàng 1 kg",
+      "raw_name": "Đường vàng",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước mắm ngon 1 lít",
+      "raw_name": "Nước mắm ngon 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước đá 1 ít",
+      "raw_name": "Nước đá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:24:56Z",
+  "page_title": "Cách làm thịt ba chỉ ngâm nước mắm giòn ngon, đậm đà để lâu không hư",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/c%C3%A1ch%20l%C3%A0m%20th%E1%BB%8Bt%20ba%20ch%E1%BB%89%20ng%C3%A2m%20n%C6%B0%E1%BB%9Bc%20m%E1%BA%AFm%201200x676.jpg"
+}

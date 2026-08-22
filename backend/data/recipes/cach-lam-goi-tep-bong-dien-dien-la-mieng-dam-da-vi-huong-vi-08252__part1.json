@@ -1,0 +1,101 @@
+{
+  "source_id": "08252",
+  "name": "Gỏi tép đồng bông điên điển",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/758036ec46db580d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-tep-bong-dien-dien-la-mieng-dam-da-vi-huong-vi-08252",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-tep-bong-dien-dien-la-mieng-dam-da-vi-huong-vi-08252",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tép 200 gr",
+      "raw_name": "Tép",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bông điên điển 500 gr",
+      "raw_name": "Bông điên điển",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Giá 200 gr",
+      "raw_name": "Giá",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ngò gai 3 nhánh",
+      "raw_name": "Ngò gai",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rau ngổ 3 nhánh",
+      "raw_name": "Rau ngổ",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tắc 10 quả",
+      "raw_name": "Tắc",
+      "quantity": 10,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt 1 quả",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tỏi 5 tép",
+      "raw_name": "Tỏi 5 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước mắm 5 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ đường/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ đường/ bột ngọt",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T17:59:26Z",
+  "page_title": "2 cách làm gỏi tép bông điên điển lạ miệng, đậm đà hương vị miền Tây",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/goi-tep-bong-dien-dien-thumbnail.jpg"
+}

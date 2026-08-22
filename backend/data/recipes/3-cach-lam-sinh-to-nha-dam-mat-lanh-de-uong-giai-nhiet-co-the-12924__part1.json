@@ -1,0 +1,61 @@
+{
+  "source_id": "12924",
+  "name": "Sinh tố nha đam",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b708956c2db19d25.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sinh-to-nha-dam-mat-lanh-de-uong-giai-nhiet-co-the-12924",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sinh-to-nha-dam-mat-lanh-de-uong-giai-nhiet-co-the-12924",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nha đam 1 nhánh",
+      "raw_name": "Nha đam",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mật ong 3 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chanh 1/4 quả",
+      "raw_name": "Chanh",
+      "quantity": 0.25,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng nhỏ 1 củ",
+      "raw_name": "Gừng nhỏ",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:09:17Z",
+  "page_title": "3 cách làm sinh tố nha đam (lô hội) mát lạnh giải nhiệt cơ thể cực hiệu quả",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/sinh-to-nha-dam-thumbnail.jpg"
+}

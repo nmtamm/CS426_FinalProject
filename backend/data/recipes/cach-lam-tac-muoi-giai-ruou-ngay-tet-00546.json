@@ -1,0 +1,43 @@
+{
+  "source_id": "00546",
+  "name": "Tắc muối",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/eac6fe71e503adb7.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tac-muoi-giai-ruou-ngay-tet-00546",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tac-muoi-giai-ruou-ngay-tet-00546",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tắc 300 gr (quất)",
+      "raw_name": "Tắc",
+      "quantity": 300,
+      "unit": "gr",
+      "note": "quất",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối hột 100 gr",
+      "raw_name": "Muối hột",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cam thảo 100 gr",
+      "raw_name": "Cam thảo",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:45:46Z",
+  "page_title": "Cách làm tắc muối chua ngọt nguyên trái không bị đắng trị ho cực tốt",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2016/01/06/767731/cach-lam-tac-muoi-giai-ruou-ngay-tet-4-760x367.jpg"
+}

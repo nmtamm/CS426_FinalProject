@@ -1,0 +1,33 @@
+{
+  "source_id": "01312",
+  "name": "Sầu riêng nướng bằng lò nướng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bfa659907ea00e0c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-cach-lam-sau-rieng-nuong-thom-nuc-mui-01312",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-cach-lam-sau-rieng-nuong-thom-nuc-mui-01312",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sầu riêng 1 trái",
+      "raw_name": "Sầu riêng",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    }
+  ],
+  "scraped_at": "2026-08-19T19:03:16Z",
+  "page_title": "Hướng dẫn cách làm sầu riêng nướng thơm nức mũi",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/sau-rieng-nuong-bang-lo-nuong-thumbnail.jpg"
+}

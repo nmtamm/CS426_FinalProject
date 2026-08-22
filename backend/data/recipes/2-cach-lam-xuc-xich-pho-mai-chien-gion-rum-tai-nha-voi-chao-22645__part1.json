@@ -1,0 +1,133 @@
+{
+  "source_id": "22645",
+  "name": "Xúc xích phô mai chiên",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ce10548ad8dfb022.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-xuc-xich-pho-mai-chien-gion-rum-tai-nha-voi-chao-22645",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-xuc-xich-pho-mai-chien-gion-rum-tai-nha-voi-chao-22645",
+  "servings_text": "Cho 6 cây",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì 150 gr",
+      "raw_name": "Bột mì",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột gạo 50 gr",
+      "raw_name": "Bột gạo",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 30 gr",
+      "raw_name": "Đường",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 4 gr",
+      "raw_name": "Muối",
+      "quantity": 4,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Men khô 4 gr",
+      "raw_name": "Men khô",
+      "quantity": 4,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Trứng 1 quả",
+      "raw_name": "Trứng",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Xúc xích 3 cây (loại 12cm)",
+      "raw_name": "Xúc xích",
+      "quantity": 3,
+      "unit": "cây",
+      "note": "loại 12cm",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Phô mai Mozzarella 1 ít",
+      "raw_name": "Phô mai Mozzarella",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột chiên xù 1 ít",
+      "raw_name": "Bột chiên xù",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Mì tôm/ mì ramen 1/2 gói",
+      "raw_name": "Mì tôm/ mì ramen",
+      "quantity": 0.5,
+      "unit": "gói",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Khoai tây 1 củ",
+      "raw_name": "Khoai tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Bột bắp 1 muỗng canh",
+      "raw_name": "Bột bắp",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước sốt ăn kèm 1 ít (tương ớt/ tương cà/ tương mù tạt vàng)",
+      "raw_name": "Nước sốt ăn kèm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "tương ớt/ tương cà/ tương mù tạt vàng",
+      "display_order": 13
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T18:58:36Z",
+  "page_title": "2 cách làm xúc xích phô mai chiên giòn rụm tại nhà với chảo chiên ngập dầu",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2025/03/CookRecipe/Avatar/xuc-xich-pho-mai-chien-thumbnail.jpg"
+}

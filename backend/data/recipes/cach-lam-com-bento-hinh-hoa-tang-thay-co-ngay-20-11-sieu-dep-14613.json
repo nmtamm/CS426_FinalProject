@@ -1,0 +1,83 @@
+{
+  "source_id": "14613",
+  "name": "Cơm bento hình hoa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bfc68a19be0c3f45.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-com-bento-hinh-hoa-tang-thay-co-ngay-20-11-sieu-dep-14613",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-com-bento-hinh-hoa-tang-thay-co-ngay-20-11-sieu-dep-14613",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cơm nóng 1 chén (loại chén ăn cơm)",
+      "raw_name": "Cơm nóng",
+      "quantity": 1,
+      "unit": "chén",
+      "note": "loại chén ăn cơm",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rong biển 1 lá",
+      "raw_name": "Rong biển",
+      "quantity": 1,
+      "unit": "lá",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng gà 1 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Jambon 200 gr",
+      "raw_name": "Jambon",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đậu Hà Lan 200 gr",
+      "raw_name": "Đậu Hà Lan",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Xúc xích 1 cây",
+      "raw_name": "Xúc xích",
+      "quantity": 1,
+      "unit": "cây",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hạt bắp 1 ít",
+      "raw_name": "Hạt bắp",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Xà lách 1 cây",
+      "raw_name": "Xà lách",
+      "quantity": 1,
+      "unit": "cây",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:32:57Z",
+  "page_title": "Cách làm cơm bento hình hoa tặng thầy cô ngày 20/11 siêu đẹp mắt",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-com-bento-hinh-hoa-tang-thay-co-ngay-20-11-sieu-dep-avt-1200x676.jpg"
+}

@@ -1,0 +1,69 @@
+{
+  "source_id": "13325",
+  "name": "Sữa cam rim",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/30ab481d17b5ad80.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cac-cach-lam-sua-cam-chua-ngot-tuoi-mat-thom-ngon-tai-nha-13325",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cac-cach-lam-sua-cam-chua-ngot-tuoi-mat-thom-ngon-tai-nha-13325",
+  "servings_text": "Cho 5 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cam 2 trái",
+      "raw_name": "Cam",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 80 gr",
+      "raw_name": "Đường",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa tươi 225 ml",
+      "raw_name": "Sữa tươi",
+      "quantity": 225,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mứt cam 30 gr",
+      "raw_name": "Mứt cam",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột bắp 2 muỗng cà phê",
+      "raw_name": "Bột bắp",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước lọc 1 muỗng canh",
+      "raw_name": "Nước lọc",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:05:06Z",
+  "page_title": "2 cách làm sữa cam chua ngọt tươi mát thơm ngon tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/sua-cam-rim-thumbnail-1.jpg"
+}

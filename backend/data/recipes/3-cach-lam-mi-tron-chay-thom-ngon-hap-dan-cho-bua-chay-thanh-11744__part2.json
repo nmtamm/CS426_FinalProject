@@ -1,0 +1,125 @@
+{
+  "source_id": "11744",
+  "name": "Mì trộn chay với nấm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e9bd83333a5f0cef.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-mi-tron-chay-thom-ngon-hap-dan-cho-bua-chay-thanh-11744",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-mi-tron-chay-thom-ngon-hap-dan-cho-bua-chay-thanh-11744",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nấm đùi gà mini 20 gr",
+      "raw_name": "Nấm đùi gà mini",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm đông cô khô 3 cái",
+      "raw_name": "Nấm đông cô khô",
+      "quantity": 3,
+      "unit": "cái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt chuông 1/2 trái",
+      "raw_name": "Ớt chuông",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 1/2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bắp hạt 10 gr",
+      "raw_name": "Bắp hạt",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Cải thìa 10 gr",
+      "raw_name": "Cải thìa",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành lá 1 ít",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Mì 1 gói",
+      "raw_name": "Mì",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột bắp 1 muỗng cà phê",
+      "raw_name": "Bột bắp",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bột nêm rau củ 1 muỗng cà phê",
+      "raw_name": "Bột nêm rau củ",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đường phèn 1/4 muỗng cà phê",
+      "raw_name": "Đường phèn",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước tương 2 muỗng cà phê",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T18:36:04Z",
+  "page_title": "3 cách làm mì trộn chay thơm ngon hấp dẫn cho bữa chay thanh đạm",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2022/09/CookRecipe/Avatar/image.psd--3-.jpg"
+}

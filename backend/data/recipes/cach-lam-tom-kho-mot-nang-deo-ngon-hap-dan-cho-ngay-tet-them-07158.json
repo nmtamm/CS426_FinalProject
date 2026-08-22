@@ -1,0 +1,51 @@
+{
+  "source_id": "07158",
+  "name": "Tôm khô một nắng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/00d111caecfc82bc.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tom-kho-mot-nang-deo-ngon-hap-dan-cho-ngay-tet-them-07158",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tom-kho-mot-nang-deo-ngon-hap-dan-cho-ngay-tet-them-07158",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tôm đất 1 kg",
+      "raw_name": "Tôm đất",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rượu vodka 4 muỗng canh",
+      "raw_name": "Rượu vodka",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Giấm 1/2 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối hạt 1 ít",
+      "raw_name": "Muối hạt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:06:01Z",
+  "page_title": "Cách làm tôm khô một nắng dẻo ngon hấp dẫn cho ngày Tết thêm thú vị",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/tomthum-1200x676.jpg"
+}

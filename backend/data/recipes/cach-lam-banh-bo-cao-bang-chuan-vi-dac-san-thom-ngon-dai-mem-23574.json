@@ -1,0 +1,87 @@
+{
+  "source_id": "23574",
+  "name": "Bánh bò Cao Bằng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/87a0044b4ff8850f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-bo-cao-bang-chuan-vi-dac-san-thom-ngon-dai-mem-23574",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-bo-cao-bang-chuan-vi-dac-san-thom-ngon-dai-mem-23574",
+  "servings_text": "Cho 4 - 6 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì 200 gr",
+      "raw_name": "Bột mì",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột năng 200 gr",
+      "raw_name": "Bột năng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Men ngọt 4 gr",
+      "raw_name": "Men ngọt",
+      "quantity": 4,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột nổi 4 gr",
+      "raw_name": "Bột nổi",
+      "quantity": 4,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường mật mía 80 gr (hoặc đường đen)",
+      "raw_name": "Đường mật mía",
+      "quantity": 80,
+      "unit": "gr",
+      "note": "hoặc đường đen",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước 400 ml",
+      "raw_name": "Nước",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bơ 1 ít",
+      "raw_name": "Bơ",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:54:40Z",
+  "page_title": "Cách làm bánh bò Cao Bằng chuẩn vị đặc sản thơm ngon dai mềm",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/unnamed.jpg"
+}

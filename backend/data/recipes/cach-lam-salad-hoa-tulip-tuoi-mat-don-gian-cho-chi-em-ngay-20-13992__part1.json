@@ -1,0 +1,65 @@
+{
+  "source_id": "13992",
+  "name": "Salad hoa tulip với cá ngừ hộp",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f37fcad055cfc127.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-salad-hoa-tulip-tuoi-mat-don-gian-cho-chi-em-ngay-20-13992",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-salad-hoa-tulip-tuoi-mat-don-gian-cho-chi-em-ngay-20-13992",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cà chua bi 200 gr",
+      "raw_name": "Cà chua bi",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cá ngừ 1 hộp",
+      "raw_name": "Cá ngừ",
+      "quantity": 1,
+      "unit": "hộp",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hẹ 2 nhánh",
+      "raw_name": "Hẹ",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mayonnaise 1 muỗng canh",
+      "raw_name": "Mayonnaise",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tiêu/ muối 1 ít",
+      "raw_name": "Tiêu/ muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T17:51:52Z",
+  "page_title": "Cách làm salad hoa tulip tươi mát đơn giản cho chị em ngày 20/10",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/salad-hoa-tulip-voi-ca-ngu-hop-thumbnail.jpg"
+}

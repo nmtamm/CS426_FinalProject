@@ -1,0 +1,87 @@
+{
+  "source_id": "01274",
+  "name": "Trà sữa nướng trân châu hoàng kim",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b579ab38f604f920.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-sua-nuong-tran-chau-hoang-kim-ngot-thom-de-lam-01274",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-sua-nuong-tran-chau-hoang-kim-ngot-thom-de-lam-01274",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đường nâu 160 gr",
+      "raw_name": "Đường nâu",
+      "quantity": 160,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột năng 100 gr",
+      "raw_name": "Bột năng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mật ong 3 muỗng cà phê",
+      "raw_name": "Mật ong",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường trắng 2 muỗng canh",
+      "raw_name": "Đường trắng",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước lọc 2 muỗng canh",
+      "raw_name": "Nước lọc",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sữa tươi không đường 500 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Sữa đặc 6 muỗng canh",
+      "raw_name": "Sữa đặc",
+      "quantity": 6,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Trà túi lọc 3 gói",
+      "raw_name": "Trà túi lọc",
+      "quantity": 3,
+      "unit": "gói",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:02:49Z",
+  "page_title": "Cách làm trà sữa nướng trân châu hoàng kim ngọt thơm dễ làm tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2019/03/22/1156187/video-cach-lam-tra-sua-nuong-tran-chau-hoang-kim-ngot-thom-de-lam-tai-nha11-760x367.jpg"
+}

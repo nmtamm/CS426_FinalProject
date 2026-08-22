@@ -1,0 +1,57 @@
+{
+  "source_id": "14788",
+  "name": "Nước ép ổi không đá",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c65c034bcf232f35.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-oi-dua-thom-ngon-ngot-mat-bang-may-ep-ngay-14788",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-oi-dua-thom-ngon-ngot-mat-bang-may-ep-ngay-14788",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dứa 1 quả (thơm)",
+      "raw_name": "Dứa",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "thơm",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ổi 1 quả",
+      "raw_name": "Ổi",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:50:41Z",
+  "page_title": "2 Cách làm nước ép ổi dứa thơm ngon, ngọt mát bằng máy ép ngay tại nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/nuoc-ep-oi-khong-da-thumbnail.jpg"
+}

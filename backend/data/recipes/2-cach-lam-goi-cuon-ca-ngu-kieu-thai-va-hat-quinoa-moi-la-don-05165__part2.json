@@ -1,0 +1,141 @@
+{
+  "source_id": "05165",
+  "name": "Gỏi cuốn cá ngừ hạt quinoa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4abe8d135f6694f0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-cuon-ca-ngu-kieu-thai-va-hat-quinoa-moi-la-don-05165",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-cuon-ca-ngu-kieu-thai-va-hat-quinoa-moi-la-don-05165",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cá ngừ phi lê 150 gr",
+      "raw_name": "Cá ngừ phi lê",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dầu mè 1 muỗng canh",
+      "raw_name": "Dầu mè",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Quinoa nấu chín 40 gr",
+      "raw_name": "Quinoa nấu chín",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành lá cắt nhỏ 10 gr",
+      "raw_name": "Hành lá cắt nhỏ",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt bột 1 muỗng cà phê",
+      "raw_name": "Ớt bột",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bánh tráng 5 gr",
+      "raw_name": "Bánh tráng",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rượu Mirin 2 muỗng canh",
+      "raw_name": "Rượu Mirin",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Bột chiên xù panko 2 muỗng canh",
+      "raw_name": "Bột chiên xù panko",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Rong biển giòn 50 gr",
+      "raw_name": "Rong biển giòn",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Lá bạc hà tươi 50 gr",
+      "raw_name": "Lá bạc hà tươi",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Nước cốt chanh 4 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Gia vị 1 ít (Đường/muối)",
+      "raw_name": "Gia vị",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Đường/muối",
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T20:35:28Z",
+  "page_title": "2 cách làm gỏi cuốn cá ngừ mới lạ đơn giản thơm ngon khó cưỡng",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookRecipe/Avatar/cach-lam-goi-cuon-ca-ngu-hat-quinoa-thumbnail-2.jpg"
+}

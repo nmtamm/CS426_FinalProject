@@ -1,0 +1,59 @@
+{
+  "source_id": "08996",
+  "name": "Cocktail Sex On The Beach",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b1a80888277d1a8e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cong-thuc-cocktail-sex-on-the-beach-goi-cam-tren-bai-bien-08996",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cong-thuc-cocktail-sex-on-the-beach-goi-cam-tren-bai-bien-08996",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rượu Vodka 44 ml",
+      "raw_name": "Rượu Vodka",
+      "quantity": 44,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rượu Peach Schnapps 15 ml",
+      "raw_name": "Rượu Peach Schnapps",
+      "quantity": 15,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước ép cam 44 ml",
+      "raw_name": "Nước ép cam",
+      "quantity": 44,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước ép việt quất 44 ml",
+      "raw_name": "Nước ép việt quất",
+      "quantity": 44,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Việt quất ngâm 2 trái",
+      "raw_name": "Việt quất ngâm",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:06:05Z",
+  "page_title": "Công thức Cocktail Sex On The Beach gợi cảm trên bãi biển dành cho quý cô",
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookProduct/CocktailSexOnTheBeach-1200x676-1.jpg"
+}

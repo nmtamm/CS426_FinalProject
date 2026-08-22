@@ -1,0 +1,59 @@
+{
+  "source_id": "23996",
+  "name": "muối dưa hành miền bắc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b9e43d5f1abd2119.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-muoi-dua-hanh-mien-bac-gion-trang-thom-ngon-chuan-vi-tet-23996",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-muoi-dua-hanh-mien-bac-gion-trang-thom-ngon-chuan-vi-tet-23996",
+  "servings_text": "Cho 1 kg hành củ",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hành củ 1 kg",
+      "raw_name": "Hành củ",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối tinh 40 gr (hoặc muối hạt)",
+      "raw_name": "Muối tinh",
+      "quantity": 40,
+      "unit": "gr",
+      "note": "hoặc muối hạt",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 10 gr",
+      "raw_name": "Đường",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước vo gạo 1 ít (hoặc nước tro bếp)",
+      "raw_name": "Nước vo gạo",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hoặc nước tro bếp",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước lọc 1 lít",
+      "raw_name": "Nước lọc 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:32:16Z",
+  "page_title": "Cách muối dưa hành miền bắc giòn trắng, thơm ngon chuẩn vị tết",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/mu%E1%BB%91i%20d%C6%B0a%20h%C3%A0nh%20mi%E1%BB%81n%20b%E1%BA%AFc%201200x676.jpg"
+}

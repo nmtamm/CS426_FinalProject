@@ -1,0 +1,97 @@
+{
+  "source_id": "00036",
+  "name": "Sốt BBQ thuần chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e8b43eb0b947c9e6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-4-loai-nuoc-sot-thuan-chay-thom-ngon-don-gian-00036",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-4-loai-nuoc-sot-thuan-chay-thom-ngon-don-gian-00036",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "meo-vao-bep",
+      "name": "Mẹo vào bếp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sốt cà chua cô đặc 350 g",
+      "raw_name": "Sốt cà chua cô đặc",
+      "quantity": 350,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước lọc 60 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 60,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dấm táo 4 muỗng canh",
+      "raw_name": "Dấm táo",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 4 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Mù tạt nâu 3 muỗng canh",
+      "raw_name": "Mù tạt nâu",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột tỏi 1 muỗng cà phê",
+      "raw_name": "Bột tỏi",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột hành 1 muỗng cà phê",
+      "raw_name": "Bột hành",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tiêu 1 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:52:06Z",
+  "page_title": "Cách làm 4 loại nước sốt thuần chay thơm ngon đơn giản tốt cho sức khỏe",
+  "variant_index": 4,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2020/06/CookRecipe/Avatar/sot-bbq-thuan-chay-thumbnail-1.jpg"
+}

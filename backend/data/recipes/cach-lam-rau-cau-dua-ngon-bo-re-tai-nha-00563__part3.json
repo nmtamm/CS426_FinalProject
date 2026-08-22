@@ -1,0 +1,50 @@
+{
+  "source_id": "00563",
+  "name": "Râu câu dừa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/28b8952749c979fb.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-rau-cau-dua-ngon-bo-re-tai-nha-00563",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-rau-cau-dua-ngon-bo-re-tai-nha-00563",
+  "servings_text": "Cho 1 - 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột rau câu 30 g",
+      "raw_name": "Bột rau câu",
+      "quantity": 30,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 250 g",
+      "raw_name": "Đường",
+      "quantity": 250,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước cốt dừa 250 g",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 250,
+      "unit": "g",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:13:22Z",
+  "page_title": "2 cách làm rau câu dừa và rau câu dừa sữa tươi giòn ngon đơn giản tại nhà",
+  "variant_index": 3,
+  "variant_count": 3,
+  "note": "Công thức được chia sẻ từ Tiktok Vào bếp cùng Điện máy XANH",
+  "original_image_url": "https://cdn.tgdd.vn/2024/01/CookRecipe/Avatar/rau-cau-dua-cong-thuc-duoc-chia-se-tu-tiktok-vao-bep-cung-dien-may-xanh-thumbnail.jpg"
+}

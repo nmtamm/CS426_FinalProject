@@ -1,0 +1,115 @@
+{
+  "source_id": "17515",
+  "name": "Sốt ướp Địa Trung Hải",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/aa34dae175e1d6ee.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sot-uop-dia-trung-hai-cho-mon-ga-nuong-cay-nong-bung-17515",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sot-uop-dia-trung-hai-cho-mon-ga-nuong-cay-nong-bung-17515",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà 1 con",
+      "raw_name": "Gà 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối hột 1 muỗng canh",
+      "raw_name": "Muối hột",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột ớt Pirrika 1 muỗng cà phê (hoặc bột ớt thường)",
+      "raw_name": "Bột ớt Pirrika",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "hoặc bột ớt thường",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột ớt chỉ thiên 1 muỗng cà phê",
+      "raw_name": "Bột ớt chỉ thiên",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cỏ xạ hương 3 nhánh",
+      "raw_name": "Cỏ xạ hương",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lá hương thảo 3 nhánh",
+      "raw_name": "Lá hương thảo",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Lá oregano khô 1 muỗng cà phê",
+      "raw_name": "Lá oregano khô",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tiêu xay 1 muỗng canh",
+      "raw_name": "Tiêu xay",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Mật ong 2 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu ô liu 3 muỗng canh",
+      "raw_name": "Dầu ô liu",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Vỏ chanh bào 1 muỗng canh",
+      "raw_name": "Vỏ chanh bào",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:17:32Z",
+  "page_title": "Cách làm sốt ướp Địa Trung Hải cho món gà nướng cay nồng bùng vị giác",
+  "original_image_url": "https://cdn.tgdd.vn/2022/06/CookDish/cach-lam-sot-uop-dia-trung-hai-cho-mon-ga-nuong-cay-nong-bung-avt-1200x676.jpg"
+}

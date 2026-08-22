@@ -1,0 +1,65 @@
+{
+  "source_id": "01798",
+  "name": "Sake chiên bằng bột chiên giòn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/fe672f3528be14eb.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sa-ke-chien-thom-ngon-gion-rum-ai-an-cung-ghien-01798",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sa-ke-chien-thom-ngon-gion-rum-ai-an-cung-ghien-01798",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sake 1 trái (khoảng 500gr)",
+      "raw_name": "Sake",
+      "quantity": 1,
+      "unit": "trái",
+      "note": "khoảng 500gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột chiên giòn 150 gr (1 gói)",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 150,
+      "unit": "gr",
+      "note": "1 gói",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 5 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 400 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:10:29Z",
+  "page_title": "3 cách làm sake chiên giòn thơm ngon giòn rụm, ai ăn cũng ghiền",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/sake-chien-bang-bot-chien-gion-thumbnail.jpg"
+}

@@ -1,0 +1,75 @@
+{
+  "source_id": "23373",
+  "name": "Tiết canh gà",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e04e5d9130e5caac.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tiet-canh-ga-dan-da-ma-hap-dan-cuc-ben-moi-bang-bo-23373",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tiet-canh-ga-dan-da-ma-hap-dan-cuc-ben-moi-bang-bo-23373",
+  "servings_text": "Cho 1 con gà trống (2-3kg)",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà 1 con (gà trống khoảng 2-3kg)",
+      "raw_name": "Gà 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": "gà trống khoảng 2-3kg",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh (Thành Hương)",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "Thành Hương",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá chanh tươi 1 ít",
+      "raw_name": "Lá chanh tươi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sả tươi 1 ít",
+      "raw_name": "Sả tươi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Mì chính 1 ít (bột ngọt)",
+      "raw_name": "Mì chính",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "bột ngọt",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt tươi 1 ít",
+      "raw_name": "Ớt tươi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước lọc 4 muỗng canh",
+      "raw_name": "Nước lọc",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:05:23Z",
+  "page_title": "Cách làm tiết canh gà dân dã mà hấp dẫn cực bén mồi bằng bộ dao cao cấp",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/cach-lam-tiet-canh-ga-dan-da-ma-hap-dan-cuc-ben-moi-bang-bo.jpg"
+}

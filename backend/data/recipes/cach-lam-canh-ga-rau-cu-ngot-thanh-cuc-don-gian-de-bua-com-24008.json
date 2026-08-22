@@ -1,0 +1,107 @@
+{
+  "source_id": "24008",
+  "name": "Canh gà rau củ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/60d5b3a5a24179dc.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-canh-ga-rau-cu-ngot-thanh-cuc-don-gian-de-bua-com-24008",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-canh-ga-rau-cu-ngot-thanh-cuc-don-gian-de-bua-com-24008",
+  "servings_text": "Cho 3 - 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà ta 1/2 con (600gr)",
+      "raw_name": "Gà ta 1/2 con",
+      "quantity": null,
+      "unit": null,
+      "note": "600gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 1 củ (200gr)",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "200gr",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bắp Mỹ 1 trái (300gr)",
+      "raw_name": "Bắp Mỹ",
+      "quantity": 1,
+      "unit": "trái",
+      "note": "300gr",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nấm hải sản 150 gr",
+      "raw_name": "Nấm hải sản",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành lá 15 gr",
+      "raw_name": "Hành lá",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ngò rí 15 gr",
+      "raw_name": "Ngò rí",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hạt sen khô 30 gr (hoặc 100gr hạt sen tươi)",
+      "raw_name": "Hạt sen khô",
+      "quantity": 30,
+      "unit": "gr",
+      "note": "hoặc 100gr hạt sen tươi",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Táo đỏ 30 gr",
+      "raw_name": "Táo đỏ",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hành tím 3 củ",
+      "raw_name": "Hành tím",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tỏi 3 tép",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ bột ngọt/ hạt nêm/ tiêu xay/ nước mắm/ muối/ dầu ăn)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ bột ngọt/ hạt nêm/ tiêu xay/ nước mắm/ muối/ dầu ăn",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:04:02Z",
+  "page_title": "Cách làm canh gà rau củ ngọt thanh cực đơn giản để bữa cơm nhà thêm ngon",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t01%201200676%20%2854%29.jpg"
+}

@@ -1,0 +1,115 @@
+{
+  "source_id": "24343",
+  "name": "Thịt lợn tái chanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e1af4193127d8331.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-lon-tai-chanh-thom-ngon-chuan-vi-truyen-thong-24343",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-lon-tai-chanh-thom-ngon-chuan-vi-truyen-thong-24343",
+  "servings_text": "Cho 2 - 3 người ăn",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt thăn lợn 300 gr",
+      "raw_name": "Thịt thăn lợn",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chanh 2 quả (hoặc 3 - 4 quả nếu chanh ít nước)",
+      "raw_name": "Chanh",
+      "quantity": 2,
+      "unit": "quả",
+      "note": "hoặc 3 - 4 quả nếu chanh ít nước",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Thính bột gạo 1 ít",
+      "raw_name": "Thính bột gạo",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bánh đa 1 cái (giã nhỏ)",
+      "raw_name": "Bánh đa",
+      "quantity": 1,
+      "unit": "cái",
+      "note": "giã nhỏ",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tím 3 củ",
+      "raw_name": "Hành tím",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi 5 tép",
+      "raw_name": "Tỏi 5 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt tươi 3 quả",
+      "raw_name": "Ớt tươi",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Sả băm 2 nhánh",
+      "raw_name": "Sả băm",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Rau ăn kèm 1 ít (mùi ta/ húng lủi/ húng chó/ lá sung)",
+      "raw_name": "Rau ăn kèm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "mùi ta/ húng lủi/ húng chó/ lá sung",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Giấm 1 ít",
+      "raw_name": "Giấm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (nước mắm/ muối/ mì chính/ hạt tiêu/ hạt nêm/ dầu ăn)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "nước mắm/ muối/ mì chính/ hạt tiêu/ hạt nêm/ dầu ăn",
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T17:50:12Z",
+  "page_title": "Cách làm thịt lợn tái chanh thơm ngon chuẩn vị truyền thống cực đơn giản",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t04%201200676%20%2846%29.jpg"
+}

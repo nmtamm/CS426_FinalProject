@@ -1,0 +1,69 @@
+{
+  "source_id": "12431",
+  "name": "Chả giò thịt gà với khoai tây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ccece0a9845d09dc.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-gio-nhan-thit-ga-voi-nam-vang-gion-rom-rop-an-la-12431",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-gio-nhan-thit-ga-voi-nam-vang-gion-rom-rop-an-la-12431",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt ức gà 300 gr (hoặc phần thịt khác của gà)",
+      "raw_name": "Thịt ức gà",
+      "quantity": 300,
+      "unit": "gr",
+      "note": "hoặc phần thịt khác của gà",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Khoai tây 3 củ",
+      "raw_name": "Khoai tây",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bánh tráng bò bía 2 gói",
+      "raw_name": "Bánh tráng bò bía",
+      "quantity": 2,
+      "unit": "gói",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 100 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ bột ngọt/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ bột ngọt/ tiêu xay",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:36:39Z",
+  "page_title": "2 Cách làm chả giò nhân thịt gà với nấm và khoai tây vàng giòn rôm rốp",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookRecipe/Avatar/cha-gio-thit-ga-voi-khoai-tay-thumbnail.jpg"
+}

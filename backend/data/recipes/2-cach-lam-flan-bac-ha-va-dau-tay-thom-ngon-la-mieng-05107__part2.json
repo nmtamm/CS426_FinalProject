@@ -1,0 +1,89 @@
+{
+  "source_id": "05107",
+  "name": "Bánh flan dâu tằm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/85b16096a7e94e3a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-flan-bac-ha-va-dau-tay-thom-ngon-la-mieng-05107",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-flan-bac-ha-va-dau-tay-thom-ngon-la-mieng-05107",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dâu tằm 200 gr",
+      "raw_name": "Dâu tằm",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa tươi không đường 600 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 600,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng gà 6 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 6,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lòng đỏ trứng gà 4 cái",
+      "raw_name": "Lòng đỏ trứng gà",
+      "quantity": 4,
+      "unit": "cái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 250 gr",
+      "raw_name": "Đường",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Kem sữa tươi 300 ml",
+      "raw_name": "Kem sữa tươi",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước 20 ml",
+      "raw_name": "Nước",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Chanh 1/2 quả",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:23:33Z",
+  "page_title": "2 cách làm bánh flan dâu tây và dâu tằm thơm ngon mềm mịn không bị rỗ",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookRecipe/Avatar/banh-flan-dau-tam-thumbnail-1.jpg"
+}

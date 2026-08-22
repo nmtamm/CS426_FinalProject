@@ -1,0 +1,65 @@
+{
+  "source_id": "12830",
+  "name": "Chè mít đát thơm (dứa)",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0032fca2d8fa60e7.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-nau-che-mit-dat-voi-hat-e-dau-xanh-thom-dua-tuoi-mat-12830",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-nau-che-mit-dat-voi-hat-e-dau-xanh-thom-dua-tuoi-mat-12830",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-che",
+      "name": "Món chè"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt mít 600 gr",
+      "raw_name": "Thịt mít",
+      "quantity": 600,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hạt đác 1 kg",
+      "raw_name": "Hạt đác",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Thơm 200 gr (dứa)",
+      "raw_name": "Thơm",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "dứa",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lá dứa 5 nhánh",
+      "raw_name": "Lá dứa",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường phèn 500 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:16:27Z",
+  "page_title": "3 cách nấu chè mít đát với hạt é, đậu xanh, thơm (dứa) tươi mát ngon tuyệt",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/che-mit-dat-thom-dua-thumbnail-1.jpg"
+}

@@ -1,0 +1,65 @@
+{
+  "source_id": "00036",
+  "name": "Sốt phô mai thuần chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/69c9c94d28ad2c90.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-4-loai-nuoc-sot-thuan-chay-thom-ngon-don-gian-00036",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-4-loai-nuoc-sot-thuan-chay-thom-ngon-don-gian-00036",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "meo-vao-bep",
+      "name": "Mẹo vào bếp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu hũ non 200 g (loại không quá mềm)",
+      "raw_name": "Đậu hũ non",
+      "quantity": 200,
+      "unit": "g",
+      "note": "loại không quá mềm",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Men dinh dưỡng 3 thìa canh",
+      "raw_name": "Men dinh dưỡng",
+      "quantity": 3,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 thìa canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước tương 1 thìa canh (tamari)",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "thìa canh",
+      "note": "tamari",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước lọc 2 thìa canh",
+      "raw_name": "Nước lọc",
+      "quantity": 2,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T18:52:06Z",
+  "page_title": "Cách làm 4 loại nước sốt thuần chay thơm ngon đơn giản tốt cho sức khỏe",
+  "variant_index": 3,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2020/06/CookRecipe/Avatar/sot-pho-mai-thuan-chay-thumbnail-1.jpg"
+}

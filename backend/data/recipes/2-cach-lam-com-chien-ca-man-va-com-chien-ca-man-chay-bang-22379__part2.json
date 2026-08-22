@@ -1,0 +1,81 @@
+{
+  "source_id": "22379",
+  "name": "Cơm chiên cá mặn chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c353ea054b332da9.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-com-chien-ca-man-va-com-chien-ca-man-chay-bang-22379",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-com-chien-ca-man-va-com-chien-ca-man-chay-bang-22379",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sườn non chay 3 miếng",
+      "raw_name": "Sườn non chay 3 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước chao 1.5 muỗng canh",
+      "raw_name": "Nước chao",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Thịt chao 1 muỗng canh",
+      "raw_name": "Thịt chao",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rong biển 1 miếng (loại rong biển cuộn cơm)",
+      "raw_name": "Rong biển 1 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": "loại rong biển cuộn cơm",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cơm chín 3 chén",
+      "raw_name": "Cơm chín",
+      "quantity": 3,
+      "unit": "chén",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu màu điều 2 muỗng canh",
+      "raw_name": "Dầu màu điều",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tỏi 1 ít (xay nhuyễn)",
+      "raw_name": "Hành tỏi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "xay nhuyễn",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:37:06Z",
+  "page_title": "2 cách làm cơm chiên cá mặn và cơm chiên cá mặn chay bằng chảo",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2024/12/CookRecipe/Avatar/com-chien-ca-man-thumbnail-2.jpg"
+}

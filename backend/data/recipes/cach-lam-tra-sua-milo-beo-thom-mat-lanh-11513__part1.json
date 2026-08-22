@@ -1,0 +1,65 @@
+{
+  "source_id": "11513",
+  "name": "Trà sữa milo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3aa29023a5ed58a3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-sua-milo-beo-thom-mat-lanh-11513",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-sua-milo-beo-thom-mat-lanh-11513",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà túi lọc 2 gói",
+      "raw_name": "Trà túi lọc",
+      "quantity": 2,
+      "unit": "gói",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột milo 5 muỗng canh",
+      "raw_name": "Bột milo",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đặc 3 muỗng canh",
+      "raw_name": "Sữa đặc",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước nóng 150 ml",
+      "raw_name": "Nước nóng",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đá viên đông lạnh 1 ít",
+      "raw_name": "Đá viên đông lạnh",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:48:23Z",
+  "page_title": "3 cách làm trà sữa milo béo thơm, mát lạnh ngon khó cưỡng",
+  "variant_index": 1,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/tra-sua-milo-thumbnail.jpg"
+}

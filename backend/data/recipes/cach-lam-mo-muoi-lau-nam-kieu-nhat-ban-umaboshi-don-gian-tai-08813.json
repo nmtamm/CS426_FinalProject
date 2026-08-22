@@ -1,0 +1,51 @@
+{
+  "source_id": "08813",
+  "name": "Mơ muối lâu năm kiểu Nhật Bản - Umaboshi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d646b533a78bcf23.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mo-muoi-lau-nam-kieu-nhat-ban-umaboshi-don-gian-tai-08813",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mo-muoi-lau-nam-kieu-nhat-ban-umaboshi-don-gian-tai-08813",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mơ tươi 1 kg",
+      "raw_name": "Mơ tươi",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối hồng 120 gr",
+      "raw_name": "Muối hồng",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá tía tô 100 gr",
+      "raw_name": "Lá tía tô",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối hạt 1 ít",
+      "raw_name": "Muối hạt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:21:00Z",
+  "page_title": "Cách làm mơ muối lâu năm kiểu Nhật Bản - Umaboshi đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookProduct/HowToMakeUmeboshiJapanesePickledPlumSaltedandShiso20-13screenshot-1200x676.jpg"
+}

@@ -1,0 +1,67 @@
+{
+  "source_id": "23730",
+  "name": "Nước sốt bò trộn bánh tráng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/69a141e4ca781517.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-sot-bo-tron-banh-trang-de-duoc-lau-an-la-ghien-23730",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-sot-bo-tron-banh-trang-de-duoc-lau-an-la-ghien-23730",
+  "servings_text": "Cho Khoảng 500 ml nước sốt bò (cho nhiều lần trộn)",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nước sốt bò 120 gr (hũ ướp sốt bò)",
+      "raw_name": "Nước sốt bò",
+      "quantity": 120,
+      "unit": "gr",
+      "note": "hũ ướp sốt bò",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối Tây Ninh 5 gr",
+      "raw_name": "Muối Tây Ninh",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dầu hào 15 gr",
+      "raw_name": "Dầu hào",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tương ớt 2 gr",
+      "raw_name": "Tương ớt",
+      "quantity": 2,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột ngọt 2 gr",
+      "raw_name": "Bột ngọt",
+      "quantity": 2,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước lọc 500 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:25:29Z",
+  "page_title": "Cách làm nước sốt bò trộn bánh tráng để được lâu ăn là ghiền",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/iwehwe.jpg"
+}

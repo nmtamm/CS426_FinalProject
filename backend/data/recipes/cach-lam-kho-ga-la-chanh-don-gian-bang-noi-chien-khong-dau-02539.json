@@ -1,0 +1,147 @@
+{
+  "source_id": "02539",
+  "name": "Khô gà lá chanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0c7ff25683f911cf.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kho-ga-la-chanh-don-gian-bang-noi-chien-khong-dau-02539",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kho-ga-la-chanh-don-gian-bang-noi-chien-khong-dau-02539",
+  "servings_text": "Cho 500gr khô gà lá chanh",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt ức gà 500 gr",
+      "raw_name": "Thịt ức gà",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tỏi 100 gr",
+      "raw_name": "Tỏi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tím 100 gr",
+      "raw_name": "Hành tím",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sả 5 nhánh",
+      "raw_name": "Sả",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gừng 1 củ (100gr)",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "100gr",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt sừng 4 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 4,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Lá chanh 100 gr",
+      "raw_name": "Lá chanh",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ớt bột Hàn Quốc 2 muỗng canh",
+      "raw_name": "Ớt bột Hàn Quốc",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bột ngũ vị hương 1 muỗng cà phê",
+      "raw_name": "Bột ngũ vị hương",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Bột cà ri 1 muỗng cà phê",
+      "raw_name": "Bột cà ri",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu hào 2 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Màu điều 1 ít",
+      "raw_name": "Màu điều",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Nước mắm 4 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Muối/ tiêu xay 1 ít",
+      "raw_name": "Muối/ tiêu xay",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T19:07:34Z",
+  "page_title": "Cách làm khô gà lá chanh bằng nồi chiên không dầu để nhâm nhi ngày Tết",
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookDish/cach-lam-kho-ga-la-chanh-bang-noi-chien-khong-dau-de-nham-nhi-avt-1200x676.jpg"
+}

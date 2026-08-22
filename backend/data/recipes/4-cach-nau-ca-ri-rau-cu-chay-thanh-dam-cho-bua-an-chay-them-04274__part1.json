@@ -1,0 +1,133 @@
+{
+  "source_id": "04274",
+  "name": "Cà ri bí đỏ chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/343c7fd5c437f848.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/4-cach-nau-ca-ri-rau-cu-chay-thanh-dam-cho-bua-an-chay-them-04274",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/4-cach-nau-ca-ri-rau-cu-chay-thanh-dam-cho-bua-an-chay-them-04274",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bí đỏ 300 gr",
+      "raw_name": "Bí đỏ",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bắp non 200 gr",
+      "raw_name": "Bắp non",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu hũ chiên 300 gr",
+      "raw_name": "Đậu hũ chiên",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nấm mèo khô 15 gr",
+      "raw_name": "Nấm mèo khô",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sả băm 30 gr",
+      "raw_name": "Sả băm",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước cốt dừa 200 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước dừa tươi 250 ml",
+      "raw_name": "Nước dừa tươi",
+      "quantity": 250,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước 250 ml",
+      "raw_name": "Nước",
+      "quantity": 250,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột cà ri 1/2 muỗng cà phê",
+      "raw_name": "Bột cà ri",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Ớt bột 1 muỗng cà phê",
+      "raw_name": "Ớt bột",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Hành boa rô 2 nhánh",
+      "raw_name": "Hành boa rô",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Sả 2 cây",
+      "raw_name": "Sả",
+      "quantity": 2,
+      "unit": "cây",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Lá húng quế 1 ít",
+      "raw_name": "Lá húng quế",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Gia vị 10 gr (muối/đường/hạt nêm chay/dầu ăn)",
+      "raw_name": "Gia vị",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "muối/đường/hạt nêm chay/dầu ăn",
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T18:42:09Z",
+  "page_title": "4 cách nấu cà ri rau củ chay thanh đạm cho bữa ăn chay thêm hấp dẫn",
+  "variant_index": 1,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/ca-ri-bi-do-chay-thumbnail-1.jpg"
+}

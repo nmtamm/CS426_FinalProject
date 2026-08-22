@@ -1,0 +1,83 @@
+{
+  "source_id": "04656",
+  "name": "Bánh tráng gương ma quái",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3cd1bf26cd36c6dd.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trang-guong-ma-quai-cho-ngay-halloween-04656",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trang-guong-ma-quai-cho-ngay-halloween-04656",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh bông lan 2 miếng",
+      "raw_name": "Bánh bông lan 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gelatin 5 muỗng cà phê",
+      "raw_name": "Gelatin",
+      "quantity": 5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Kem bơ phết bánh bông lan 400 gr",
+      "raw_name": "Kem bơ phết bánh bông lan",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Socola chip trắng 250 gr",
+      "raw_name": "Socola chip trắng",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường trắng 190 gr",
+      "raw_name": "Đường trắng",
+      "quantity": 190,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sữa đặc có đường 85 ml",
+      "raw_name": "Sữa đặc có đường",
+      "quantity": 85,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Màu thực phẩm trắng 5 ml",
+      "raw_name": "Màu thực phẩm trắng",
+      "quantity": 5,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Màu thực phẩm tím 5 ml",
+      "raw_name": "Màu thực phẩm tím",
+      "quantity": 5,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:40:42Z",
+  "page_title": "Cách làm bánh tráng gương ma quái cho ngày Halloween",
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookProduct/Webp.net-resizeimage(23)-1200x676.jpg"
+}

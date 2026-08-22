@@ -1,0 +1,118 @@
+{
+  "source_id": "12374",
+  "name": "Đậu hũ chiên sốt xì dầu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ccf0d0fb4997edce.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-phu-chien-sot-xi-dau-thom-ngon-thanh-dam-cho-bua-12374",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-phu-chien-sot-xi-dau-thom-ngon-thanh-dam-cho-bua-12374",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu hũ 1 miếng",
+      "raw_name": "Đậu hũ 1 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành lá 2 cây",
+      "raw_name": "Hành lá",
+      "quantity": 2,
+      "unit": "cây",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tím 1 củ",
+      "raw_name": "Hành tím",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 4 tép",
+      "raw_name": "Tỏi 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gừng 1/2 củ",
+      "raw_name": "Gừng",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt 1 quả",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột năng 1 muỗng cà phê",
+      "raw_name": "Bột năng",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Xì dầu 1 muỗng canh (nước tương)",
+      "raw_name": "Xì dầu",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "nước tương",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu hào chay 1 muỗng cà phê",
+      "raw_name": "Dầu hào chay",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Giấm ăn 1 muỗng cà phê",
+      "raw_name": "Giấm ăn",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Tiêu xay/ bột ngọt 1 ít",
+      "raw_name": "Tiêu xay/ bột ngọt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:36:16Z",
+  "page_title": "2 cách làm đậu hũ chiên sốt xì dầu thơm ngon thanh đạm cho bữa cơm chay",
+  "variant_index": 1,
+  "variant_count": 2,
+  "note": "công thức được chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookRecipe/Avatar/dau-hu-chien-sot-xi-dau-cong-thuc-duoc-chia-se-tu-nguoi-dung-thumbnail.jpg"
+}

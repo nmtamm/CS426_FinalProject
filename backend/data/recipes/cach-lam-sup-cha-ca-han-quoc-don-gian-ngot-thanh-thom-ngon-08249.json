@@ -1,0 +1,95 @@
+{
+  "source_id": "08249",
+  "name": "Súp chả cá Hàn Quốc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b2d02eca4d9b0fa1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sup-cha-ca-han-quoc-don-gian-ngot-thanh-thom-ngon-08249",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sup-cha-ca-han-quoc-don-gian-ngot-thanh-thom-ngon-08249",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-nuoc",
+      "name": "Món nước"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chả cá Hàn Quốc 450 gr",
+      "raw_name": "Chả cá Hàn Quốc",
+      "quantity": 450,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Củ cải trắng 200 gr",
+      "raw_name": "Củ cải trắng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành ba rô 2 nhánh",
+      "raw_name": "Hành ba rô",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 1 tép",
+      "raw_name": "Tỏi 1 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tảo bẹ khô 100 gr",
+      "raw_name": "Tảo bẹ khô",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Cá cơm khô 100 gr",
+      "raw_name": "Cá cơm khô",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước tương 1 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối/ tiêu 1 ít",
+      "raw_name": "Muối/ tiêu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:59:57Z",
+  "page_title": "Cách làm súp chả cá Hàn Quốc đơn giản, ngọt thanh thơm ngon",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/thum-2-1200x676.jpg"
+}

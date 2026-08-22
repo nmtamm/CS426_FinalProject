@@ -1,0 +1,49 @@
+{
+  "source_id": "14439",
+  "name": "Tắc ngâm mật ong",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/260cc0b96e872f19.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tac-quat-ngam-mat-ong-giam-dau-hong-thom-ngon-don-14439",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tac-quat-ngam-mat-ong-giam-dau-hong-thom-ngon-don-14439",
+  "servings_text": "Cho 1 hũ",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tắc 300 gr",
+      "raw_name": "Tắc",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mật ong 200 ml",
+      "raw_name": "Mật ong",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T18:56:09Z",
+  "page_title": "2 cách làm tắc (quất) ngâm mật ong giảm đau họng thơm ngon đơn giản",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/tac-ngam-mat-ong-thumbnail.jpg"
+}

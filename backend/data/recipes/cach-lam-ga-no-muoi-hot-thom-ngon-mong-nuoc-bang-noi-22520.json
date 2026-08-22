@@ -1,0 +1,127 @@
+{
+  "source_id": "22520",
+  "name": "Gà nổ muối hột",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9095a4308f571c60.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-no-muoi-hot-thom-ngon-mong-nuoc-bang-noi-22520",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-no-muoi-hot-thom-ngon-mong-nuoc-bang-noi-22520",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà 1 con (khoảng 1.5 - 2kg)",
+      "raw_name": "Gà 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 1.5 - 2kg",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối hột 1 kg",
+      "raw_name": "Muối hột",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sả cây 8 nhánh",
+      "raw_name": "Sả cây",
+      "quantity": 8,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lá chanh 1 ít (khoảng 5 - 6 lá)",
+      "raw_name": "Lá chanh",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "khoảng 5 - 6 lá",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột nghệ 1 muỗng canh",
+      "raw_name": "Bột nghệ",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tắc 3 quả",
+      "raw_name": "Tắc",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ớt 1 ít (để pha nước chấm)",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "để pha nước chấm",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Sữa đặc 2 muỗng canh",
+      "raw_name": "Sữa đặc",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Sữa hạt 2 muỗng canh",
+      "raw_name": "Sữa hạt",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Hành tím 1 ít (khoảng 4 - 5 củ)",
+      "raw_name": "Hành tím",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "khoảng 4 - 5 củ",
+      "display_order": 12
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (nước mắm/ tiêu xay/ đường/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "nước mắm/ tiêu xay/ đường/ hạt nêm",
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T18:07:00Z",
+  "page_title": "Cách làm gà nổ muối hột thơm ngon, mọng nước với nước chấm đậm đà bằng nồi",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Thi%E1%BA%BFt%20k%E1%BA%BF%20ch%C6%B0a%20c%C3%B3%20t%C3%AAn%20-%202025-02-07T104549.921.jpg"
+}

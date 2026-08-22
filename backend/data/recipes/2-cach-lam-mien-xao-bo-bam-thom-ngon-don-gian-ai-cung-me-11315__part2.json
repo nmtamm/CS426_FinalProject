@@ -1,0 +1,117 @@
+{
+  "source_id": "11315",
+  "name": "Miến xào bò băm xì dầu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a89e3ac2c4fcd04c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mien-xao-bo-bam-thom-ngon-don-gian-ai-cung-me-11315",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mien-xao-bo-bam-thom-ngon-don-gian-ai-cung-me-11315",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò băm 200 gr",
+      "raw_name": "Thịt bò băm",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Miến khô 80 gr",
+      "raw_name": "Miến khô",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước dùng gà 150 ml",
+      "raw_name": "Nước dùng gà",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sốt đậu răng ngựa 20 gr (doubanjiang)",
+      "raw_name": "Sốt đậu răng ngựa",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "doubanjiang",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gừng băm nhỏ 15 gr",
+      "raw_name": "Gừng băm nhỏ",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Xì dầu 15 ml",
+      "raw_name": "Xì dầu",
+      "quantity": 15,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước tương 5 ml",
+      "raw_name": "Nước tương",
+      "quantity": 5,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt bột 3 gr",
+      "raw_name": "Ớt bột",
+      "quantity": 3,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tỏi tươi 2 tép",
+      "raw_name": "Tỏi tươi 2 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hành lá băm 20 gr",
+      "raw_name": "Hành lá băm",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đường 5 gr",
+      "raw_name": "Đường",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu ăn 30 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:29:10Z",
+  "page_title": "2 cách làm miến xào bò băm thơm ngon đơn giản ai cũng mê",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/mien-xao-bo-bam-xi-dau-thumbnail-1.jpg"
+}

@@ -1,0 +1,65 @@
+{
+  "source_id": "09906",
+  "name": "Nước ép dứa cà chua",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5fbb5fe663ac7b7e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-dua-bang-may-ep-vua-giam-can-vua-dinh-duong-09906",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-dua-bang-may-ep-vua-giam-can-vua-dinh-duong-09906",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dứa 1/2 quả (Thơm)",
+      "raw_name": "Dứa",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": "Thơm",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà chua 3 quả",
+      "raw_name": "Cà chua",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 20 gr",
+      "raw_name": "Đường",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:57:40Z",
+  "page_title": "7 Cách làm nước ép dứa - thơm bằng máy ép cực thơm ngon ngay tại nhà",
+  "variant_index": 2,
+  "variant_count": 7,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/nuoc-ep-dua-thumbnail-1.jpg"
+}

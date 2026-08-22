@@ -1,0 +1,139 @@
+{
+  "source_id": "02544",
+  "name": "Gỏi ngó sen tôm thịt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/27bc172d8782ec7b.png",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-ngo-sen-tom-thit-gion-ngon-don-gian-02544",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-ngo-sen-tom-thit-gion-ngon-don-gian-02544",
+  "servings_text": "Cho 05 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tôm sú 200 gram",
+      "raw_name": "Tôm sú 200 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt ba chỉ 150 gram",
+      "raw_name": "Thịt ba chỉ 150 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ngó sen 500 gram",
+      "raw_name": "Ngó sen 500 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 200 gram",
+      "raw_name": "Cà rốt 200 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tây 200 gram",
+      "raw_name": "Hành tây 200 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Cần tàu 100 gram",
+      "raw_name": "Cần tàu 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đậu phộng 100 gram",
+      "raw_name": "Đậu phộng 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Chanh 250 gram",
+      "raw_name": "Chanh 250 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ngò rí 50 gram",
+      "raw_name": "Ngò rí 50 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Rau răm 100 gram",
+      "raw_name": "Rau răm 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước mắm 10 gram",
+      "raw_name": "Nước mắm 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Muối 10 gram",
+      "raw_name": "Muối 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Đường 10 gram",
+      "raw_name": "Đường 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Bột ngọt 10 gram",
+      "raw_name": "Bột ngọt 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Tương ớt 10 gram",
+      "raw_name": "Tương ớt 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T18:00:17Z",
+  "page_title": "Cách làm gỏi ngó sen tôm thịt giòn ngon đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/05/25/1258272/cach-lam-goi-ngo-sen-tom-thit-gion-ngon-don-gian-t-760x367.png"
+}

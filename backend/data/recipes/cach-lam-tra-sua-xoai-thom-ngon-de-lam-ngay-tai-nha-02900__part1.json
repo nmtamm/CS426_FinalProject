@@ -1,0 +1,101 @@
+{
+  "source_id": "02900",
+  "name": "Trà sữa thạch xoài",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e87f4de465857446.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-sua-xoai-thom-ngon-de-lam-ngay-tai-nha-02900",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-sua-xoai-thom-ngon-de-lam-ngay-tai-nha-02900",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Xoài 2 kg (xoài chín)",
+      "raw_name": "Xoài",
+      "quantity": 2,
+      "unit": "kg",
+      "note": "xoài chín",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột rau câu dẻo 5 gr",
+      "raw_name": "Bột rau câu dẻo",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 500 gr",
+      "raw_name": "Đường",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước 1 lít",
+      "raw_name": "Nước 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Vani 1 ống",
+      "raw_name": "Vani 1 ống",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lục trà lài 50 gr",
+      "raw_name": "Lục trà lài",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối 1 gr",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột kem béo 150 gr",
+      "raw_name": "Bột kem béo",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước nóng 1.3 lít",
+      "raw_name": "Nước nóng 1.3 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đá lạnh 400 gr",
+      "raw_name": "Đá lạnh",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T20:11:32Z",
+  "page_title": "3 cách làm trà sữa xoài thơm ngon ngay tại nhà",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/tra-sua-xoai-thumbnail-1.jpg"
+}

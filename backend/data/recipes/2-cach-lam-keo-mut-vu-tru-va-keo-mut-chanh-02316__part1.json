@@ -1,0 +1,69 @@
+{
+  "source_id": "02316",
+  "name": "Kẹo mút vũ trụ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1d0c3f4aef9e7160.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-keo-mut-vu-tru-va-keo-mut-chanh-02316",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-keo-mut-vu-tru-va-keo-mut-chanh-02316",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Kẹo cứng nhiều màu 200 gr (1 túi nhỏ)",
+      "raw_name": "Kẹo cứng nhiều màu",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "1 túi nhỏ",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Kẹo nho dẻo 200 gr (màu tím đen)",
+      "raw_name": "Kẹo nho dẻo",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "màu tím đen",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 400 gr",
+      "raw_name": "Đường",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Siro bắp 150 gr",
+      "raw_name": "Siro bắp",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước 500 ml",
+      "raw_name": "Nước",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hạt nhũ bạc 200 gr (loại ăn được)",
+      "raw_name": "Hạt nhũ bạc",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "loại ăn được",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:01:17Z",
+  "page_title": "2 Cách làm kẹo mút vũ trụ và kẹo mút chanh thơm ngon đơn giản cho trẻ",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/keo-mut-vu-tru-thumbnail.jpg"
+}

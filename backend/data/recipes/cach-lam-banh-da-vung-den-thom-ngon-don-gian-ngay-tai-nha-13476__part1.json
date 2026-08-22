@@ -1,0 +1,66 @@
+{
+  "source_id": "13476",
+  "name": "Bánh đa mè đen",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/09888175e89a607a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-da-vung-den-thom-ngon-don-gian-ngay-tai-nha-13476",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-da-vung-den-thom-ngon-don-gian-ngay-tai-nha-13476",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì 100 gr",
+      "raw_name": "Bột mì",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mè đen 50 gr",
+      "raw_name": "Mè đen",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước cốt dừa 60 ml (½ lon nhỏ)",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 60,
+      "unit": "ml",
+      "note": "½ lon nhỏ",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng cà phê",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:04:47Z",
+  "page_title": "2 Cách làm bánh đa vừng đen (mè đen) giòn ngon đơn giản ngay tại nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "note": "công thức được chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/banh-da-me-den-cong-thuc-duoc-chia-se-tu-nguoi-dung-thumbnail.jpg"
+}

@@ -1,0 +1,59 @@
+{
+  "source_id": "02337",
+  "name": "Mứt nghệ tươi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/fcfb22147bc8c539.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-nghe-tuoi-vang-ong-thom-ngon-don-gi-02337",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-nghe-tuoi-vang-ong-thom-ngon-don-gi-02337",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nghệ tươi 500 gram",
+      "raw_name": "Nghệ tươi 500 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường cát 400 gram",
+      "raw_name": "Đường cát 400 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 quả",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối hột 5 muỗng canh",
+      "raw_name": "Muối hột",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Mật ong 5 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:27:39Z",
+  "page_title": "Cách làm mứt nghệ tươi vàng óng, thơm ngon, đơn giản cho ngày Tết",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/05/09/1254525/cach-lam-mut-nghe-tuoi-vang-ong-thom-ngon-don-gi-11-760x367.jpg"
+}

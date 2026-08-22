@@ -1,0 +1,77 @@
+{
+  "source_id": "05442",
+  "name": "Eggnog cơ bản",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/86492a16616b965a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-eggnog-mon-trang-mieng-cho-dem-giang-sinh-them-am-05442",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-eggnog-mon-trang-mieng-cho-dem-giang-sinh-them-am-05442",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sữa hạnh nhân 960 ml",
+      "raw_name": "Sữa hạnh nhân",
+      "quantity": 960,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lòng đỏ trứng gà 6 cái",
+      "raw_name": "Lòng đỏ trứng gà",
+      "quantity": 6,
+      "unit": "cái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Siro cây phong 60 ml",
+      "raw_name": "Siro cây phong",
+      "quantity": 60,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tinh chất vani 1 muỗng cà phê",
+      "raw_name": "Tinh chất vani",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột quế 1 muỗng cà phê",
+      "raw_name": "Bột quế",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột nhục đậu khấu 2 muỗng cà phê",
+      "raw_name": "Bột nhục đậu khấu",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đinh hương khô 1 ít (có thể bỏ qua)",
+      "raw_name": "Đinh hương khô",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "có thể bỏ qua",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:43:45Z",
+  "page_title": "3 cách làm eggnog - món tráng miệng cho đêm Giáng Sinh thêm ấm áp",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookRecipe/Avatar/eggnog-co-bản-thumbnail.jpg"
+}

@@ -1,0 +1,45 @@
+{
+  "source_id": "23847",
+  "name": "Hạt nêm chay từ nấm đông cô",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/211d3480375d7fa4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-hat-nem-chay-tu-nam-va-rau-cu-don-gian-tai-nha-de-23847",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-hat-nem-chay-tu-nam-va-rau-cu-don-gian-tai-nha-de-23847",
+  "servings_text": "Cho 100gr nấm đông cô khô",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nấm đông cô khô 100 gr (hoặc nấm hương)",
+      "raw_name": "Nấm đông cô khô",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "hoặc nấm hương",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối 25 gr",
+      "raw_name": "Muối",
+      "quantity": 25,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 25 gr",
+      "raw_name": "Đường",
+      "quantity": 25,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T18:34:45Z",
+  "page_title": "Cách làm hạt nêm chay từ nấm và rau củ đơn giản tại nhà để được lâu",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2026/01/CookRecipe/Avatar/hat-nem-chay-tu-nam-dong-co-thumbnail.jpg"
+}

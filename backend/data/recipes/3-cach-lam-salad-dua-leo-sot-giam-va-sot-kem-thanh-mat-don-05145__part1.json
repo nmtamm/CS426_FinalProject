@@ -1,0 +1,85 @@
+{
+  "source_id": "05145",
+  "name": "Salad dưa leo sốt giấm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6022fe338001b307.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-salad-dua-leo-sot-giam-va-sot-kem-thanh-mat-don-05145",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-salad-dua-leo-sot-giam-va-sot-kem-thanh-mat-don-05145",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa leo 3 quả",
+      "raw_name": "Dưa leo",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Giấm 8 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 8,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước lọc 4 muỗng canh",
+      "raw_name": "Nước lọc",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 6 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 6,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Thì là tươi 60 gr (dạng lá)",
+      "raw_name": "Thì là tươi",
+      "quantity": 60,
+      "unit": "gr",
+      "note": "dạng lá",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Lá bạc hà tươi 60 gr",
+      "raw_name": "Lá bạc hà tươi",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị 1 ít (muối/ tiêu xay)",
+      "raw_name": "Gia vị",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ tiêu xay",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T17:56:16Z",
+  "page_title": "3 Cách làm salad dưa leo sốt giấm, sốt kem và sốt Nhật thanh mát đơn giản",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookRecipe/Avatar/salad-dua-leo-sot-giam-thumbnail-1.jpg"
+}

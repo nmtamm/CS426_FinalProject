@@ -1,0 +1,57 @@
+{
+  "source_id": "02889",
+  "name": "Sinh tố lựu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8c66ec2af97cdc8f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sinh-to-luu-thom-ngon-bo-duong-don-gian-tai-nha-02889",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sinh-to-luu-thom-ngon-bo-duong-don-gian-tai-nha-02889",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lựu 1 quả",
+      "raw_name": "Lựu",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mật ong 40 ml",
+      "raw_name": "Mật ong",
+      "quantity": 40,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa tươi không đường 250 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 250,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:55:49Z",
+  "page_title": "5 cách làm sinh tố lựu thơm mát ngon ngọt bổ dưỡng tại nhà",
+  "variant_index": 1,
+  "variant_count": 5,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/sinh-to-luu-thumbnail.jpg"
+}

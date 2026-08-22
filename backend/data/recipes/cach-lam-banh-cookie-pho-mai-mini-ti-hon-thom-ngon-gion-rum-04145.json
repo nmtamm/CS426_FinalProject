@@ -1,0 +1,71 @@
+{
+  "source_id": "04145",
+  "name": "Bánh cookie phô mai mini",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/286c5ad6b27a851f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-cookie-pho-mai-mini-ti-hon-thom-ngon-gion-rum-04145",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-cookie-pho-mai-mini-ti-hon-thom-ngon-gion-rum-04145",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bơ lạt 10 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường bột 10 gr",
+      "raw_name": "Đường bột",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột bắp 60 gr",
+      "raw_name": "Bột bắp",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột mì đa dụng 10 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Phô mai parmesan 20 gr (bào nhuyễn)",
+      "raw_name": "Phô mai parmesan",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "bào nhuyễn",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Trứng 1 quả (30 - 40gr)",
+      "raw_name": "Trứng",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "30 - 40gr",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:23:35Z",
+  "page_title": "Cách làm bánh cookie phô mai mini tí hon thơm ngon giòn rụm đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookProduct/1-1200x676-3.jpg"
+}

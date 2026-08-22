@@ -1,0 +1,77 @@
+{
+  "source_id": "04540",
+  "name": "Matcha mè đen kem sữa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/29c27a35dca03525.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-me-den-latte-kem-sua-va-matcha-me-den-kem-sua-04540",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-me-den-latte-kem-sua-va-matcha-me-den-kem-sua-04540",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột matcha 3 gr",
+      "raw_name": "Bột matcha",
+      "quantity": 3,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trà xanh 10 gr",
+      "raw_name": "Trà xanh",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đặc 30 gr",
+      "raw_name": "Sữa đặc",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước đường 30 ml",
+      "raw_name": "Nước đường",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Mè đen xay nhuyễn 10 gr",
+      "raw_name": "Mè đen xay nhuyễn",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Foam sữa 3 muỗng canh",
+      "raw_name": "Foam sữa",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước nóng 250 ml",
+      "raw_name": "Nước nóng",
+      "quantity": 250,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:59:38Z",
+  "page_title": "2 cách làm mè đen latte kem sữa và matcha mè đen kem sữa chuẩn vị Gongcha",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/matcha-me-den-kem-sua-thumbnail-1.jpg"
+}

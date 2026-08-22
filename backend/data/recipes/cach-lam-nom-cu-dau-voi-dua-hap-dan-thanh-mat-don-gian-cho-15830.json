@@ -1,0 +1,147 @@
+{
+  "source_id": "15830",
+  "name": "Nộm củ đậu với dừa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6b1b22d1c0a84f64.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nom-cu-dau-voi-dua-hap-dan-thanh-mat-don-gian-cho-15830",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nom-cu-dau-voi-dua-hap-dan-thanh-mat-don-gian-cho-15830",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Củ sắn 300 gr (củ đậu)",
+      "raw_name": "Củ sắn",
+      "quantity": 300,
+      "unit": "gr",
+      "note": "củ đậu",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dừa sợi 20 gr",
+      "raw_name": "Dừa sợi",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dưa chuột 2 quả",
+      "raw_name": "Dưa chuột",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 100 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Giá đỗ 50 gr",
+      "raw_name": "Giá đỗ",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lạc 50 gr",
+      "raw_name": "Lạc",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Vừng trắng 20 gr",
+      "raw_name": "Vừng trắng",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Rau mùi 5 gr",
+      "raw_name": "Rau mùi",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rau húng láng 5 gr",
+      "raw_name": "Rau húng láng",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đường trắng 12 thìa canh",
+      "raw_name": "Đường trắng",
+      "quantity": 12,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dấm 8 thìa canh",
+      "raw_name": "Dấm",
+      "quantity": 8,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước cốt chanh 2 thìa canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 2,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước mắm 4 thìa canh",
+      "raw_name": "Nước mắm",
+      "quantity": 4,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Muối hạt 1/2 thìa canh",
+      "raw_name": "Muối hạt",
+      "quantity": 0.5,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Tỏi băm 1 ít",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Ớt băm 1 ít",
+      "raw_name": "Ớt băm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T17:53:26Z",
+  "page_title": "Cách làm nộm củ đậu với dừa hấp dẫn thanh mát đơn giản cho bữa ăn",
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookDish/cach-lam-nom-cu-dau-voi-dua-hap-dan-thanh-mat-don-gian-cho-avt-1200x676.jpg"
+}

@@ -1,0 +1,47 @@
+{
+  "source_id": "08709",
+  "name": "Nước ép cam bưởi bằng máy vắt cam",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d70b2ac54b104e13.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-cam-buoi-bang-may-vat-cam-nhanh-chong-don-08709",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-cam-buoi-bang-may-vat-cam-nhanh-chong-don-08709",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cam vàng 2 trái",
+      "raw_name": "Cam vàng",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bưởi hồng 2 trái",
+      "raw_name": "Bưởi hồng",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:48:52Z",
+  "page_title": "Cách làm nước ép cam bưởi bằng máy vắt cam nhanh chóng, đơn giản, đẹp da",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/thumb-1200x676-49.jpg"
+}

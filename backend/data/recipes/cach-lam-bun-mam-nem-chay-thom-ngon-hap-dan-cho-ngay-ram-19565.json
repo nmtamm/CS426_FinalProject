@@ -1,0 +1,147 @@
+{
+  "source_id": "19565",
+  "name": "Bún mắm nêm chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e689ff3ac3ef9489.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bun-mam-nem-chay-thom-ngon-hap-dan-cho-ngay-ram-19565",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bun-mam-nem-chay-thom-ngon-hap-dan-cho-ngay-ram-19565",
+  "servings_text": "Cho 2 tô",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bún tươi 200 gram",
+      "raw_name": "Bún tươi 200 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu hũ 2 miếng",
+      "raw_name": "Đậu hũ 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tương hột 150 gram",
+      "raw_name": "Tương hột 150 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tương chao 2 muỗng canh",
+      "raw_name": "Tương chao",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành Boaro 1/2 muỗng canh",
+      "raw_name": "Hành Boaro",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Mít non 50 gram",
+      "raw_name": "Mít non 50 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Rau thơm 50 gram",
+      "raw_name": "Rau thơm 50 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Giá sống 50 gram",
+      "raw_name": "Giá sống 50 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rau xà lách 50 gram",
+      "raw_name": "Rau xà lách 50 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Thơm băm 1/2 trái",
+      "raw_name": "Thơm băm",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Sả băm 1/2 muỗng canh",
+      "raw_name": "Sả băm",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Hạt nêm chay 1 muỗng canh",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Đậu phộng 20 gram",
+      "raw_name": "Đậu phộng 20 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Hành phi 20 gram",
+      "raw_name": "Hành phi 20 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Đường thốt nốt 2 muỗng canh",
+      "raw_name": "Đường thốt nốt",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T18:45:40Z",
+  "page_title": "Cách làm bún mắm nêm chay thơm ngon, hấp dẫn cho ngày Rằm",
+  "original_image_url": "https://cdn.tgdd.vn/2023/06/CookDish/cach-lam-bun-mam-nem-chay-thom-ngon-hap-dan-cho-ngay-ram-avt-1200x676.jpg"
+}

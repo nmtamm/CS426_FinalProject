@@ -1,0 +1,117 @@
+{
+  "source_id": "04935",
+  "name": "Gỏi nha đam thịt heo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7fce9ad87bbf342d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-nha-dam-thit-va-tom-thanh-mat-hap-dan-moi-la-04935",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-nha-dam-thit-va-tom-thanh-mat-hap-dan-moi-la-04935",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt heo 200 gr",
+      "raw_name": "Thịt heo",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nha đam 300 gr",
+      "raw_name": "Nha đam",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dưa leo 100 gr",
+      "raw_name": "Dưa leo",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Củ cải trắng 100 gr",
+      "raw_name": "Củ cải trắng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cà rốt 100 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt băm 10 gr",
+      "raw_name": "Ớt băm",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đậu phộng rang 20 gr",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Rau răm 50 gr",
+      "raw_name": "Rau răm",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước mắm 50 ml",
+      "raw_name": "Nước mắm",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đường 30 gr",
+      "raw_name": "Đường",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước cốt chanh 20 ml",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T17:54:56Z",
+  "page_title": "2 Cách làm gỏi nha đam thịt và tôm thanh mát hấp dẫn mới lạ",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookRecipe/Avatar/goi-nha-dam-thit-heo-thumbnail-1.jpg"
+}

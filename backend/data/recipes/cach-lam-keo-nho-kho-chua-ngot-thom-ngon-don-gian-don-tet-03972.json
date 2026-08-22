@@ -1,0 +1,79 @@
+{
+  "source_id": "03972",
+  "name": "Kẹo nho khô",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a60ef8f49f0848cd.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-keo-nho-kho-chua-ngot-thom-ngon-don-gian-don-tet-03972",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-keo-nho-kho-chua-ngot-thom-ngon-don-gian-don-tet-03972",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gelatin 10 g",
+      "raw_name": "Gelatin",
+      "quantity": 10,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước lọc 30 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nho khô 100 g",
+      "raw_name": "Nho khô",
+      "quantity": 100,
+      "unit": "g",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mạch nha 120 g",
+      "raw_name": "Mạch nha",
+      "quantity": 120,
+      "unit": "g",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bơ lạt 10 g",
+      "raw_name": "Bơ lạt",
+      "quantity": 10,
+      "unit": "g",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Whipping cream 1 muỗng cà phê",
+      "raw_name": "Whipping cream",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Cơm dừa sấy 11 g (có thể ít hoặc nhiều hơn tùy sở thích)",
+      "raw_name": "Cơm dừa sấy",
+      "quantity": 11,
+      "unit": "g",
+      "note": "có thể ít hoặc nhiều hơn tùy sở thích",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:15:04Z",
+  "page_title": "Cách làm kẹo nho khô chua ngọt thơm ngon, đơn giản đón Tết",
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookProduct/1260-1200x676-40.jpg"
+}

@@ -1,0 +1,27 @@
+{
+  "source_id": "15234",
+  "name": "Nước ép dứa không cần máy",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b1ac396c89370065.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-dua-khong-can-may-ep-hay-may-xay-cuc-don-15234",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-dua-khong-can-may-ep-hay-may-xay-cuc-don-15234",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dứa 1 trái (thơm/ khóm)",
+      "raw_name": "Dứa",
+      "quantity": 1,
+      "unit": "trái",
+      "note": "thơm/ khóm",
+      "display_order": 1
+    }
+  ],
+  "scraped_at": "2026-08-19T20:12:00Z",
+  "page_title": "Cách làm nước ép dứa không cần máy ép hay máy xay cực đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookDish/cach-lam-nuoc-ep-dua-khong-can-may-ep-hay-may-xay-cuc-don-avt-1200x676-1.jpg"
+}

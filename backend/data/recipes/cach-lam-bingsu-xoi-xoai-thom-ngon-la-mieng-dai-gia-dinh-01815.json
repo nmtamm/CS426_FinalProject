@@ -1,0 +1,95 @@
+{
+  "source_id": "01815",
+  "name": "Bingsu xôi xoài",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a0b2f089941520a0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bingsu-xoi-xoai-thom-ngon-la-mieng-dai-gia-dinh-01815",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bingsu-xoi-xoai-thom-ngon-la-mieng-dai-gia-dinh-01815",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nếp 100 gram",
+      "raw_name": "Nếp 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước cốt dừa 60 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 60,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa tươi không đường 530 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 530,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa đặc 70 gram",
+      "raw_name": "Sữa đặc 70 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Xoài 600 gram",
+      "raw_name": "Xoài 600 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Creamcheese 35 gram (kem pho-mai)",
+      "raw_name": "Creamcheese 35 gram",
+      "quantity": null,
+      "unit": null,
+      "note": "kem pho-mai",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Kem tươi lạnh 70 ml (whipping cream 30 – 40% béo)",
+      "raw_name": "Kem tươi lạnh",
+      "quantity": 70,
+      "unit": "ml",
+      "note": "whipping cream 30 – 40% béo",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước 80 ml",
+      "raw_name": "Nước",
+      "quantity": 80,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị cơ bản 10 gram (đường/muối)",
+      "raw_name": "Gia vị cơ bản 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": "đường/muối",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:28:57Z",
+  "page_title": "Cách làm Bingsu xôi xoài thơm ngon lạ miệng đãi gia đình",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/03/15/1242348/cach-lam-bingsu-xoi-xoai-thom-ngon-la-mieng-dai-gia-dinh-4-760x367.jpg"
+}

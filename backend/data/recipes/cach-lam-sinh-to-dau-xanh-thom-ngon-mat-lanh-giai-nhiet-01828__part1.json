@@ -1,0 +1,81 @@
+{
+  "source_id": "01828",
+  "name": "Sinh tố đậu xanh bỏ túi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/de43a0570b5332a6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sinh-to-dau-xanh-thom-ngon-mat-lanh-giai-nhiet-01828",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sinh-to-dau-xanh-thom-ngon-mat-lanh-giai-nhiet-01828",
+  "servings_text": "Cho 25 gói",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu xanh 300 gr",
+      "raw_name": "Đậu xanh",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lá dứa 10 gr",
+      "raw_name": "Lá dứa",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước cốt dừa 150 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa đặc 100 gr",
+      "raw_name": "Sữa đặc",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột bắp 1 muỗng canh",
+      "raw_name": "Bột bắp",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 150 gr",
+      "raw_name": "Đường",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối 3 gr",
+      "raw_name": "Muối",
+      "quantity": 3,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:02:16Z",
+  "page_title": "2 cách làm sinh tố đậu xanh thơm ngon mát lạnh cho ngày hè nóng bức",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/sinh-to-dau-xanh-bo-tui-thumbnail.jpg"
+}

@@ -1,0 +1,41 @@
+{
+  "source_id": "15616",
+  "name": "Nước ép bầu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/17e3475475c81968.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-ep-bau-thanh-mat-giai-nhiet-tot-cho-suc-khoe-15616",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-ep-bau-thanh-mat-giai-nhiet-tot-cho-suc-khoe-15616",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bầu 1 quả (quả nhỏ)",
+      "raw_name": "Bầu",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "quả nhỏ",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước 200 ml",
+      "raw_name": "Nước",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:48:00Z",
+  "page_title": "2 cách làm nước ép bầu thanh mát giải nhiệt tốt cho sức khỏe",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/nuoc-ep-bau-thumbnail.jpg"
+}

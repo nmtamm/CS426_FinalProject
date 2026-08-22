@@ -1,0 +1,71 @@
+{
+  "source_id": "03964",
+  "name": "Rong biển cuộn mì cay Hàn Quốc chiên giòn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2fbd5863bb2eed1a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-rong-bien-cuon-mi-cay-han-quoc-chien-gion-rum-cuc-03964",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-rong-bien-cuon-mi-cay-han-quoc-chien-gion-rum-cuc-03964",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trứng gà 1 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước 1/2 bát",
+      "raw_name": "Nước",
+      "quantity": 0.5,
+      "unit": "bát",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mì cay Hàn Quốc 2 gói",
+      "raw_name": "Mì cay Hàn Quốc",
+      "quantity": 2,
+      "unit": "gói",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rong biển 5 lá",
+      "raw_name": "Rong biển",
+      "quantity": 5,
+      "unit": "lá",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột chiên giòn 150 g",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 150,
+      "unit": "g",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột mì 150 gr",
+      "raw_name": "Bột mì",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:25:29Z",
+  "page_title": "Cách làm rong biển cuộn mì cay Hàn Quốc chiên giòn rụm, cực ngon lạ miệng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookProduct/rongbiencuonmichien-1200x676.jpg"
+}

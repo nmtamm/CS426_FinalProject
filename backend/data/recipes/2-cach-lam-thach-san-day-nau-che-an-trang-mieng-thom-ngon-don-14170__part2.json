@@ -1,0 +1,77 @@
+{
+  "source_id": "14170",
+  "name": "Thạch sắn dây ăn tráng miệng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d55f2ca55f4543f0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-thach-san-day-nau-che-an-trang-mieng-thom-ngon-don-14170",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-thach-san-day-nau-che-an-trang-mieng-thom-ngon-don-14170",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột sắn dây 4 muỗng canh",
+      "raw_name": "Bột sắn dây",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột đậu nành 1 muỗng canh (hoặc bột gạo lứt)",
+      "raw_name": "Bột đậu nành",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "hoặc bột gạo lứt",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hạnh nhân 20 hạt",
+      "raw_name": "Hạnh nhân 20 hạt",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường mạch nha 1 muỗng canh",
+      "raw_name": "Đường mạch nha",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Socola lỏng 1 ít",
+      "raw_name": "Socola lỏng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối hạt 1 ít",
+      "raw_name": "Muối hạt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước 2 chén",
+      "raw_name": "Nước",
+      "quantity": 2,
+      "unit": "chén",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:19:15Z",
+  "page_title": "2 cách làm thạch sắn dây nấu chè, ăn tráng miệng thơm ngon đơn giản",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/https-www-youtube-com-watch-v-vd7bji-xq6o-thumbnail.jpg"
+}

@@ -1,0 +1,66 @@
+{
+  "source_id": "00850",
+  "name": "Mứt táo ta bằng nước vôi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9388c46db3a029ff.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-tao-ta-deo-ngon-cho-chong-con-don-tet-00850",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-tao-ta-deo-ngon-cho-chong-con-don-tet-00850",
+  "servings_text": "Cho 8 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Táo ta 1 kg",
+      "raw_name": "Táo ta",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước vôi trong 1 lít",
+      "raw_name": "Nước vôi trong 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Phèn chua 2 muỗng canh",
+      "raw_name": "Phèn chua",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường vàng 500 gr",
+      "raw_name": "Đường vàng",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 2 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:05:21Z",
+  "page_title": "3 Cách làm mứt táo ta dẻo bằng nước vôi và không cần nước vôi ngon đơn giản",
+  "variant_index": 3,
+  "variant_count": 3,
+  "note": "Công thức được chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2022/01/CookRecipe/Avatar/mut-tao-ta-bang-nuoc-voi-cong-thuc-duoc-chia-se-tu-nguoi-dung-thumbnail.jpg"
+}

@@ -1,0 +1,111 @@
+{
+  "source_id": "02644",
+  "name": "Bò hầm sả",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5b26850f7313581e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-bo-ham-sa-thom-ngon-don-gian-tai-nha-02644",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-bo-ham-sa-thom-ngon-don-gian-tai-nha-02644",
+  "servings_text": "Cho 6 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-lau",
+      "name": "Món lẩu"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nạm bò 1 kg",
+      "raw_name": "Nạm bò",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt cổ bò 1 kg",
+      "raw_name": "Thịt cổ bò",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Xương bò 1 kg",
+      "raw_name": "Xương bò",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sả 10 cây (có lá)",
+      "raw_name": "Sả",
+      "quantity": 10,
+      "unit": "cây",
+      "note": "có lá",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cải trắng 1 củ",
+      "raw_name": "Cải trắng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tím 2 củ",
+      "raw_name": "Hành tím",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 2 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường 2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đậu hũ 2 miếng",
+      "raw_name": "Đậu hũ 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Mướp hương 1 trái",
+      "raw_name": "Mướp hương",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:26:46Z",
+  "page_title": "Cách nấu bò hầm sả thơm ngon, đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/05/31/1259826/cach-nau-bo-ham-sa-thom-ngon-don-gian-tai-nha-10-760x367.jpg"
+}

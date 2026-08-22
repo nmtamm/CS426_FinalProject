@@ -1,0 +1,53 @@
+{
+  "source_id": "14836",
+  "name": "Sữa hạnh nhân bằng máy ép chậm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/97c7d61c832bd4ed.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-sua-hat-bang-may-ep-cham-bo-duong-thom-ngon-cho-ca-14836",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-sua-hat-bang-may-ep-cham-bo-duong-thom-ngon-cho-ca-14836",
+  "servings_text": "Cho 1 bình",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hạnh nhân tươi 400 gr",
+      "raw_name": "Hạnh nhân tươi",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chà là 5 quả",
+      "raw_name": "Chà là",
+      "quantity": 5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước 1 lít",
+      "raw_name": "Nước 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 1 ít",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:56:22Z",
+  "page_title": "4 cách làm sữa hạt bằng máy ép chậm bổ dưỡng thơm ngon cho cả gia đình",
+  "variant_index": 2,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/sua-hanh-nhan-bang-may-ep-cham-thumbnail.jpg"
+}

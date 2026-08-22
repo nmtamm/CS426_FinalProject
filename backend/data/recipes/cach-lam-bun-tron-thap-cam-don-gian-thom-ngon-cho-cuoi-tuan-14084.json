@@ -1,0 +1,107 @@
+{
+  "source_id": "14084",
+  "name": "Bún trộn thập cẩm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b8fac998de4e5f51.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bun-tron-thap-cam-don-gian-thom-ngon-cho-cuoi-tuan-14084",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bun-tron-thap-cam-don-gian-thom-ngon-cho-cuoi-tuan-14084",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bún tươi 500 gr",
+      "raw_name": "Bún tươi",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chả lụa 100 gr",
+      "raw_name": "Chả lụa",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Thịt gà 500 gr",
+      "raw_name": "Thịt gà",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dưa leo 1 quả",
+      "raw_name": "Dưa leo",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành lá 3 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đậu phộng rang 20 gr",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rau thơm ăn kèm 1 ít (Húng quế/ húng lũi/ rau răm/ ngò gai)",
+      "raw_name": "Rau thơm ăn kèm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Húng quế/ húng lũi/ rau răm/ ngò gai",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T20:33:09Z",
+  "page_title": "Cách làm bún trộn thập cẩm đơn giản, thơm ngon cho cuối tuần",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-bun-tron-thap-cam-don-gian-thom-ngon-cho-cuoi-tuan-avt-1200x676.jpg"
+}

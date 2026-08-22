@@ -1,0 +1,121 @@
+{
+  "source_id": "04720",
+  "name": "Khoai tây xào thịt bò",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2582e0159ff3cda4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-khoai-tay-xao-thit-bo-va-xao-thit-ga-thom-ngon-don-04720",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-khoai-tay-xao-thit-bo-va-xao-thit-ga-thom-ngon-don-04720",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò 350 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 350,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Khoai tây cỡ vừa 3 củ",
+      "raw_name": "Khoai tây cỡ vừa",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành lá 1 cây",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "cây",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi bằm 1 muỗng cà phê",
+      "raw_name": "Tỏi bằm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu hào 20 ml",
+      "raw_name": "Dầu hào",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 25 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 25,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tiêu xay 1/8 muỗng cà phê",
+      "raw_name": "Tiêu xay",
+      "quantity": 0.125,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước mắm 1/2 muỗng cà phê",
+      "raw_name": "Nước mắm",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước 3 muỗng canh",
+      "raw_name": "Nước",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Xì dầu 1 muỗng canh (hoặc nước tương)",
+      "raw_name": "Xì dầu",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "hoặc nước tương",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đường 1 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Bột bắp 1/2 muỗng cà phê",
+      "raw_name": "Bột bắp",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:33:53Z",
+  "page_title": "2 cách làm khoai tây xào thịt bò và xào thịt gà thơm ngon đơn giản",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookRecipe/Avatar/khoai-tay-xao-thit-bo-thumbnail-1.jpg"
+}

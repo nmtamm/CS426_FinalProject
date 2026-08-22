@@ -1,0 +1,43 @@
+{
+  "source_id": "24435",
+  "name": "Cách ngâm rượu dứa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/adccec799009a531.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-ngam-ruou-dua-len-men-tu-nhien-cuc-don-gian-ngot-thom-ai-24435",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-ngam-ruou-dua-len-men-tu-nhien-cuc-don-gian-ngot-thom-ai-24435",
+  "servings_text": "Cho 18 lít thành phẩm",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nước ép dứa 3 lít",
+      "raw_name": "Nước ép dứa 3 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mật ong 0.5 lít",
+      "raw_name": "Mật ong 0.5 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rượu nếp trắng 15 lít (nồng độ cồn từ 30 đến 40 độ)",
+      "raw_name": "Rượu nếp trắng 15 lít",
+      "quantity": null,
+      "unit": null,
+      "note": "nồng độ cồn từ 30 đến 40 độ",
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:46:09Z",
+  "page_title": "Cách ngâm rượu dứa lên men tự nhiên cực đơn giản, ngọt thơm ai cũng mê",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Ca%CC%81ch%20nga%CC%82m%20ru%CC%9Bo%CC%9B%CC%A3u%20du%CC%9B%CC%81a%20tl.jpg"
+}

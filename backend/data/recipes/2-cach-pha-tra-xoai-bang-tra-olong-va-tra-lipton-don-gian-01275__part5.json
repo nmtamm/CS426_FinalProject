@@ -1,0 +1,53 @@
+{
+  "source_id": "01275",
+  "name": "Hồng trà xoài chanh leo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9042be795216c3ae.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-pha-tra-xoai-bang-tra-olong-va-tra-lipton-don-gian-01275",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-pha-tra-xoai-bang-tra-olong-va-tra-lipton-don-gian-01275",
+  "servings_text": "Cho 2 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hồng trà 5 gr",
+      "raw_name": "Hồng trà",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xoài 1 quả",
+      "raw_name": "Xoài",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chanh leo 1 quả",
+      "raw_name": "Chanh leo",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 25 gr",
+      "raw_name": "Đường",
+      "quantity": 25,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:58:44Z",
+  "page_title": "5 cách làm trà xoài thơm ngon sảng khoái đơn giản tại nhà",
+  "variant_index": 5,
+  "variant_count": 5,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/hong-tra-xoai-chanh-leo-thumbnail.jpg"
+}

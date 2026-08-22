@@ -1,0 +1,59 @@
+{
+  "source_id": "01832",
+  "name": "Đuôi bò hầm thuốc bắc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d4e7aa71d1736c6b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mon-duoi-bo-ham-thuoc-bac-va-ham-khoai-tay-01832",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mon-duoi-bo-ham-thuoc-bac-va-ham-khoai-tay-01832",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đuôi bò 1 cái (khoảng 800 gr)",
+      "raw_name": "Đuôi bò",
+      "quantity": 1,
+      "unit": "cái",
+      "note": "khoảng 800 gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Củ sen 100 gr",
+      "raw_name": "Củ sen",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hạt sen khô 50 gr",
+      "raw_name": "Hạt sen khô",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gia vị tiềm thuốc bắc 100 gr",
+      "raw_name": "Gia vị tiềm thuốc bắc",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước dừa tươi 1 lít",
+      "raw_name": "Nước dừa tươi 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T18:31:47Z",
+  "page_title": "Cách nấu đuôi bò hầm thuốc bắc bổ dưỡng ngon miệng dễ làm tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookProduct/duoi-bo-ham-thuoc-bac-thumbnail-1200x676.jpg"
+}

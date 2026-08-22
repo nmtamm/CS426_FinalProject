@@ -1,0 +1,61 @@
+{
+  "source_id": "11188",
+  "name": "Sinh tố nho đỏ dâu việt quất",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/eca02a555fee54af.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sinh-to-nho-den-nho-do-tuoi-mat-ngot-ngao-ai-cung-11188",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sinh-to-nho-den-nho-do-tuoi-mat-ngot-ngao-ai-cung-11188",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nho đỏ 100 gr",
+      "raw_name": "Nho đỏ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dâu 4 quả",
+      "raw_name": "Dâu",
+      "quantity": 4,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Việt quất 50 gr",
+      "raw_name": "Việt quất",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa chua 1 hộp",
+      "raw_name": "Sữa chua",
+      "quantity": 1,
+      "unit": "hộp",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 1 ít (để rửa nguyên liệu)",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "để rửa nguyên liệu",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:09:02Z",
+  "page_title": "3 cách làm sinh tố nho đen, nho đỏ tươi mát, ngọt ngào ai cũng làm được",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookRecipe/Avatar/sinh-to-nho-do-dau-viet-quat-thumbnail-1.jpg"
+}

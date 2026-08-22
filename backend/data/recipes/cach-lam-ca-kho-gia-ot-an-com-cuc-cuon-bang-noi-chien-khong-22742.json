@@ -1,0 +1,83 @@
+{
+  "source_id": "22742",
+  "name": "Cá khô giã ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a9e14451be1178af.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-kho-gia-ot-an-com-cuc-cuon-bang-noi-chien-khong-22742",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-kho-gia-ot-an-com-cuc-cuon-bang-noi-chien-khong-22742",
+  "servings_text": "Cho 1 phần",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cá nục khô tách xương 1 kg",
+      "raw_name": "Cá nục khô tách xương",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tỏi 100 gr",
+      "raw_name": "Tỏi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tím 100 gr",
+      "raw_name": "Hành tím",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt 100 gr",
+      "raw_name": "Ớt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sả băm 1/2 chén",
+      "raw_name": "Sả băm",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lá chanh 1 ít",
+      "raw_name": "Lá chanh",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 2 muỗng cà phê (cho mỗi 1/3 lượng cá)",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": "cho mỗi 1/3 lượng cá",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột ngọt 1/2 muỗng cà phê (cho mỗi 1/3 lượng cá)",
+      "raw_name": "Bột ngọt",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": "cho mỗi 1/3 lượng cá",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:27:22Z",
+  "page_title": "Cách làm cá khô giã ớt ăn cơm cực cuốn bằng nồi chiên không dầu",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/dsdhsjdjs.jpg"
+}

@@ -1,0 +1,131 @@
+{
+  "source_id": "06124",
+  "name": "Sườn bò nấu đậu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d3344fe95f5ccf39.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-suon-bo-nau-dau-mem-ngon-dam-da-don-gian-de-lam-06124",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-suon-bo-nau-dau-mem-ngon-dam-da-don-gian-de-lam-06124",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sườn bò 1 kg",
+      "raw_name": "Sườn bò",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu trắng 100 gr",
+      "raw_name": "Đậu trắng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu Hà Lan 100 gr",
+      "raw_name": "Đậu Hà Lan",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Khoai tây 2 củ",
+      "raw_name": "Khoai tây",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cà rốt 2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu điều 2 muỗng canh",
+      "raw_name": "Dầu điều",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Cà chua xay 2 muỗng canh",
+      "raw_name": "Cà chua xay",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hành tím băm 1 muỗng canh",
+      "raw_name": "Hành tím băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nguyệt quế 3 lá",
+      "raw_name": "Nguyệt quế",
+      "quantity": 3,
+      "unit": "lá",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dừa xiêm 1 trái",
+      "raw_name": "Dừa xiêm",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/hạt nêm/bột ngọt/tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/hạt nêm/bột ngọt/tiêu",
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Bơ 1 ít",
+      "raw_name": "Bơ",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T18:28:32Z",
+  "page_title": "Cách làm sườn bò nấu đậu mềm ngon đậm đà đơn giản dễ làm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/suonbonaudau-1200x676.jpg"
+}

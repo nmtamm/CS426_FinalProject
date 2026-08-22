@@ -1,0 +1,75 @@
+{
+  "source_id": "08572",
+  "name": "Mojito dâu tây - strawberry mojito",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9aa764a97e50062f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mojito-dau-tay-strawberry-mojito-don-gian-mat-lanh-08572",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mojito-dau-tay-strawberry-mojito-don-gian-mat-lanh-08572",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dâu tây 2 quả",
+      "raw_name": "Dâu tây",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước cốt chanh 10 ml",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá húng lủi 5 lá",
+      "raw_name": "Lá húng lủi",
+      "quantity": 5,
+      "unit": "lá",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 10 gr",
+      "raw_name": "Đường",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rượu Rhum 10 ml",
+      "raw_name": "Rượu Rhum",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước soda 200 ml",
+      "raw_name": "Nước soda",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đá 1 ít",
+      "raw_name": "Đá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:06:49Z",
+  "page_title": "Cách làm mojito dâu tây - strawberry mojito đơn giản mát lạnh ngày hè",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/1200-1200x676-76.jpg"
+}

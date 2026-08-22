@@ -1,0 +1,77 @@
+{
+  "source_id": "15005",
+  "name": "Sữa ngô nếp (bắp nếp)",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8edcc51d99595b9f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sua-ngo-nep-bap-nep-ngot-thom-bo-duong-cuc-don-15005",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sua-ngo-nep-bap-nep-ngot-thom-bo-duong-cuc-don-15005",
+  "servings_text": "Cho 6 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ngô nếp 3 trái",
+      "raw_name": "Ngô nếp",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lá dứa 10 gr",
+      "raw_name": "Lá dứa",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đặc 100 ml",
+      "raw_name": "Sữa đặc",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường phèn 30 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tinh chất vani 1 muỗng cà phê",
+      "raw_name": "Tinh chất vani",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước 1.5 lít",
+      "raw_name": "Nước 1.5 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:59:08Z",
+  "page_title": "2 cách làm sữa ngô nếp (bắp nếp) ngọt thơm bổ dưỡng cực đơn giản tại nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/sua-ngo-bap-nep-thumbnail.jpg"
+}

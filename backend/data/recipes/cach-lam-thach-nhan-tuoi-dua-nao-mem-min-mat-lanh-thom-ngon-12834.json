@@ -1,0 +1,59 @@
+{
+  "source_id": "12834",
+  "name": "Thạch nhãn dừa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/01b182cb4f51c451.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thach-nhan-tuoi-dua-nao-mem-min-mat-lanh-thom-ngon-12834",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thach-nhan-tuoi-dua-nao-mem-min-mat-lanh-thom-ngon-12834",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nước dừa 1.5 lít",
+      "raw_name": "Nước dừa 1.5 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột thạch dẻo 10 gr",
+      "raw_name": "Bột thạch dẻo",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cùi dừa 100 gr",
+      "raw_name": "Cùi dừa",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nhãn 400 gr",
+      "raw_name": "Nhãn",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 120 gr",
+      "raw_name": "Đường",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:20:42Z",
+  "page_title": "Cách làm thạch nhãn tươi dừa nạo mềm mịn, mát lành, thơm ngon",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/1-1200x676-44.jpg"
+}

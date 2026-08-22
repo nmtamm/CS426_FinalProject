@@ -1,0 +1,159 @@
+{
+  "source_id": "06822",
+  "name": "Cheesecake thạch xoài",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e3e9157ce8433017.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-cach-lam-cheesecake-thach-xoai-thom-ngon-dep-mat-06822",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-cach-lam-cheesecake-thach-xoai-thom-ngon-dep-mat-06822",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì số 8 155 gr",
+      "raw_name": "Bột mì số 8",
+      "quantity": 155,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng gà 5 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cream cheese 230 gr",
+      "raw_name": "Cream cheese",
+      "quantity": 230,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Whipping cream 200 ml",
+      "raw_name": "Whipping cream",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sữa tươi không đường 50 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sữa chua nguyên chất 45 gr",
+      "raw_name": "Sữa chua nguyên chất",
+      "quantity": 45,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 255 gr",
+      "raw_name": "Đường",
+      "quantity": 255,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bơ lạt 50 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gelatin 10 gr",
+      "raw_name": "Gelatin",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Xoài 2 quả",
+      "raw_name": "Xoài",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Kiwi 3 quả",
+      "raw_name": "Kiwi",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dâu 6 quả",
+      "raw_name": "Dâu",
+      "quantity": 6,
+      "unit": "quả",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Mật ong 30 ml",
+      "raw_name": "Mật ong",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Rượu anh đào 2.5 ml (không bắt buộc)",
+      "raw_name": "Rượu anh đào",
+      "quantity": 2.5,
+      "unit": "ml",
+      "note": "không bắt buộc",
+      "display_order": 15
+    },
+    {
+      "raw_text": "Chiết xuất vani 8 ml",
+      "raw_name": "Chiết xuất vani",
+      "quantity": 8,
+      "unit": "ml",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Nước cốt chanh 10 ml",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 17
+    }
+  ],
+  "scraped_at": "2026-08-19T19:22:29Z",
+  "page_title": "Cách làm cheesecake thạch xoài thơm ngon đẹp mắt",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/0-1200x675-19.jpg"
+}

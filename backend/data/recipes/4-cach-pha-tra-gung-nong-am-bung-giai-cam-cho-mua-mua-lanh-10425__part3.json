@@ -1,0 +1,61 @@
+{
+  "source_id": "10425",
+  "name": "Trà gừng táo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7e3f955e076b41f9.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/4-cach-pha-tra-gung-nong-am-bung-giai-cam-cho-mua-mua-lanh-10425",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/4-cach-pha-tra-gung-nong-am-bung-giai-cam-cho-mua-mua-lanh-10425",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gừng 1/2 củ",
+      "raw_name": "Gừng",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Táo 1 trái",
+      "raw_name": "Táo",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá trà 2 muỗng cà phê",
+      "raw_name": "Lá trà",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mật ong 20 ml",
+      "raw_name": "Mật ong",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước lọc 500 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:04:03Z",
+  "page_title": "4 Cách pha trà gừng nóng ấm bụng, giải cảm cho mùa mưa lạnh",
+  "variant_index": 3,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/tra-gung-tao-thumbnail.jpg"
+}

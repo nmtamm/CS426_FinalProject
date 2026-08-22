@@ -1,0 +1,51 @@
+{
+  "source_id": "07961",
+  "name": "Yakult dâu tây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/672a420e8c399c4b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-yakult-dau-tay-thom-ngon-dep-mat-de-thuc-hien-07961",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-yakult-dau-tay-thom-ngon-dep-mat-de-thuc-hien-07961",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dâu tây 4 trái",
+      "raw_name": "Dâu tây",
+      "quantity": 4,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa chua uống yakult 65 ml",
+      "raw_name": "Sữa chua uống yakult",
+      "quantity": 65,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sprite 330 ml (có thể thay bằng soda trắng/ 7Up)",
+      "raw_name": "Sprite",
+      "quantity": 330,
+      "unit": "ml",
+      "note": "có thể thay bằng soda trắng/ 7Up",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:58:35Z",
+  "page_title": "Cách làm yakult dâu tây thơm ngon đẹp mắt dễ thực hiện",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/yakultdautay-1200x676-2.jpg"
+}

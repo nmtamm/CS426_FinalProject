@@ -1,0 +1,119 @@
+{
+  "source_id": "23492",
+  "name": "Ướp sườn bò nướng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/04cf051d887b3f64.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-uop-suon-bo-nuong-mem-ngon-kieu-han-quoc-an-la-ghien-23492",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-uop-suon-bo-nuong-mem-ngon-kieu-han-quoc-an-la-ghien-23492",
+  "servings_text": "Cho 900 gr sườn bò",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sườn bò tơ 900 gr (hoặc sườn bò già)",
+      "raw_name": "Sườn bò tơ",
+      "quantity": 900,
+      "unit": "gr",
+      "note": "hoặc sườn bò già",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt tươi và ớt khô 13 gr (tùy chọn cay hoặc không cay)",
+      "raw_name": "Ớt tươi và ớt khô",
+      "quantity": 13,
+      "unit": "gr",
+      "note": "tùy chọn cay hoặc không cay",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 10 gr",
+      "raw_name": "Tỏi",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ Bột ngọt/ Tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ Bột ngọt/ Tiêu",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước tương Maggi 1 muỗng canh",
+      "raw_name": "Nước tương Maggi",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ớt 1 muỗng canh (hoặc Dầu điều/ Dầu gấc)",
+      "raw_name": "Dầu ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "hoặc Dầu điều/ Dầu gấc",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường cát vàng 1.5 muỗng cà phê",
+      "raw_name": "Đường cát vàng",
+      "quantity": 1.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu hào 1/2 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tương cà Ketchup 1/2 muỗng canh",
+      "raw_name": "Tương cà Ketchup",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Mật ong 1 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước tương 1/2 muỗng cà phê (dùng cho hỗn hợp quét)",
+      "raw_name": "Nước tương",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": "dùng cho hỗn hợp quét",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Sả 5 gr (tuỳ chọn)",
+      "raw_name": "Sả",
+      "quantity": 5,
+      "unit": "gr",
+      "note": "tuỳ chọn",
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:21:06Z",
+  "page_title": "Cách ướp sườn bò nướng mềm ngon kiểu Hàn Quốc ăn là ghiền",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/cach-uop-suon-bo-nuong-mem-ngon-kieu-han-quoc-an-la-ghienl.jpg"
+}

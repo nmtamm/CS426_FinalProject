@@ -1,0 +1,55 @@
+{
+  "source_id": "04700",
+  "name": "bánh mì cuộn xúc xích phô mai",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2a1ff05464dee218.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-mi-cuon-xuc-xich-pho-mai-chien-gion-thom-ngon-04700",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-mi-cuon-xuc-xich-pho-mai-chien-gion-thom-ngon-04700",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Phô mai mozzarella 4 cái",
+      "raw_name": "Phô mai mozzarella",
+      "quantity": 4,
+      "unit": "cái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột chiên xù 100 gr",
+      "raw_name": "Bột chiên xù",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:36:15Z",
+  "page_title": "Cách làm bánh mì cuộn xúc xích phô mai chiên giòn thơm ngon dễ làm",
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookProduct/thumn-1200x676.jpg"
+}

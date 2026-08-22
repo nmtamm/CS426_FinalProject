@@ -1,0 +1,87 @@
+{
+  "source_id": "02600",
+  "name": "Bánh macaron socola",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9f7bb43ed08a6f8c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-macaron-socola-thom-ngon-chuan-vi-p-02600",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-macaron-socola-thom-ngon-chuan-vi-p-02600",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột hạnh nhân 50 gr",
+      "raw_name": "Bột hạnh nhân",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường bột 40 gr",
+      "raw_name": "Đường bột",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lòng trắng trứng 40 gr",
+      "raw_name": "Lòng trắng trứng",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 40 gr",
+      "raw_name": "Đường",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột cacao 6 gr",
+      "raw_name": "Bột cacao",
+      "quantity": 6,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Kem tươi 80 gr (whipping cream)",
+      "raw_name": "Kem tươi",
+      "quantity": 80,
+      "unit": "gr",
+      "note": "whipping cream",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Socola đen 130 gr",
+      "raw_name": "Socola đen",
+      "quantity": 130,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bơ lạt 10 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:27:12Z",
+  "page_title": "Cách làm bánh macaron socola thơm ngon, chuẩn vị Pháp, ăn là ghiền",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/05/29/1259111/cach-lam-banh-macaron-socola-thom-ngon-chuan-vi-p-8-760x367.jpg"
+}

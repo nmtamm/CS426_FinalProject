@@ -1,0 +1,45 @@
+{
+  "source_id": "04053",
+  "name": "Sữa đặc từ sữa hạt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/86a898f39db2d93d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sua-dac-thuan-chay-tu-hat-dieu-va-sua-hat-thom-beo-04053",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sua-dac-thuan-chay-tu-hat-dieu-va-sua-hat-thom-beo-04053",
+  "servings_text": "Cho 2 - 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sữa hạt 750 ml (sữa đậu nành; sữa hạnh nhân;...)",
+      "raw_name": "Sữa hạt",
+      "quantity": 750,
+      "unit": "ml",
+      "note": "sữa đậu nành; sữa hạnh nhân;...",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 120 gr",
+      "raw_name": "Đường",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối 2 gr",
+      "raw_name": "Muối",
+      "quantity": 2,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T18:46:24Z",
+  "page_title": "2 cách làm sữa đặc thuần chay từ hạt điều và sữa hạt thơm béo đơn giản",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookRecipe/Avatar/sua-dac-tu-sua-hat-thumbnail.jpg"
+}

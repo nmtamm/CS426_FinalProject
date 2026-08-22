@@ -1,0 +1,47 @@
+{
+  "source_id": "13078",
+  "name": "Mứt kiwi phết bánh mì",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/960357df75073229.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-kiwi-phet-banh-mi-chua-ngot-cuc-ngon-chi-trong-13078",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-kiwi-phet-banh-mi-chua-ngot-cuc-ngon-chi-trong-13078",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Kiwi 500 gr",
+      "raw_name": "Kiwi",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước cốt chanh 2 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 250 gr",
+      "raw_name": "Đường",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:03:26Z",
+  "page_title": "Cách làm mứt kiwi phết bánh mì chua ngọt cực ngon chỉ trong nháy mắt",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/Khongtieude(44)-1200x676-2.jpg"
+}

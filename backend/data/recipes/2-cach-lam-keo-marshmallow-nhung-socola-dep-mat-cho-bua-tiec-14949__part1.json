@@ -1,0 +1,65 @@
+{
+  "source_id": "14949",
+  "name": "Kẹo marshmallow nhúng socola trắng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/87363cccc80ac653.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-keo-marshmallow-nhung-socola-dep-mat-cho-bua-tiec-14949",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-keo-marshmallow-nhung-socola-dep-mat-cho-bua-tiec-14949",
+  "servings_text": "Cho 16 cây",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Kẹo mashmallow 100 gr",
+      "raw_name": "Kẹo mashmallow",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Socola trắng 375 gr",
+      "raw_name": "Socola trắng",
+      "quantity": 375,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Kẹo cây gậy 4 cây (candy cane)",
+      "raw_name": "Kẹo cây gậy",
+      "quantity": 4,
+      "unit": "cây",
+      "note": "candy cane",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu dừa 1 muỗng canh",
+      "raw_name": "Dầu dừa",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Màu xanh/ màu hồng thực phẩm 1 ít",
+      "raw_name": "Màu xanh/ màu hồng thực phẩm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:17:58Z",
+  "page_title": "2 cách làm kẹo marshmallow nhúng socola đẹp mắt cho bữa tiệc Giáng Sinh",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/keo-marshmallow-nhung-socola-trang-thumbnail.jpg"
+}

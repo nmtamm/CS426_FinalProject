@@ -1,0 +1,91 @@
+{
+  "source_id": "08404",
+  "name": "Trứng cút chùm nho",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/125ab35f094aa6f1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-trung-cut-chum-nho-cang-mong-dep-mat-ngon-la-mieng-08404",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-trung-cut-chum-nho-cang-mong-dep-mat-ngon-la-mieng-08404",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trứng cút 30 quả",
+      "raw_name": "Trứng cút",
+      "quantity": 30,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Củ dền 1 củ",
+      "raw_name": "Củ dền",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hoa hồi 2 cái",
+      "raw_name": "Hoa hồi",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt 5 quả",
+      "raw_name": "Ớt",
+      "quantity": 5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 2 củ",
+      "raw_name": "Tỏi",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gừng 1 nhánh",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Giấm 2 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Lá bí 1 ít (để trang trí)",
+      "raw_name": "Lá bí",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "để trang trí",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối/ đường 1 ít",
+      "raw_name": "Muối/ đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:21:30Z",
+  "page_title": "Cách làm trứng cút chùm nho căng mọng đẹp mắt ngon lạ miệng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/1200-1200x676-58.jpg"
+}

@@ -1,0 +1,71 @@
+{
+  "source_id": "13147",
+  "name": "Đậu bắp xào nấm chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5fa24eed2751873f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-bap-xao-nam-chay-cuc-ngon-thanh-vi-dua-com-13147",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-bap-xao-nam-chay-cuc-ngon-thanh-vi-dua-com-13147",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu bắp 300 gr",
+      "raw_name": "Đậu bắp",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm bào ngư 200 gr",
+      "raw_name": "Nấm bào ngư",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành lá 1 ít",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 4 tép",
+      "raw_name": "Tỏi 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ đường/ bột ngọt/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ đường/ bột ngọt/ tiêu xay",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:48:54Z",
+  "page_title": "Cách làm đậu bắp xào nấm chay cực ngon, thanh vị đưa cơm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookProduct/dau-bap-xao-chay-voi-nam-thumbcn-1200x676.jpg"
+}

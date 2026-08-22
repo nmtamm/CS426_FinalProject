@@ -1,0 +1,61 @@
+{
+  "source_id": "11512",
+  "name": "Ca cao sữa đá cà phê",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e90e3526db021b9d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-ca-cao-sua-da-ngon-lanh-mat-lanh-cuc-da-vo-cung-don-11512",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-ca-cao-sua-da-ngon-lanh-mat-lanh-cuc-da-vo-cung-don-11512",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột ca cao 3 muỗng cà phê",
+      "raw_name": "Bột ca cao",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột cacao 3 muỗng cà phê",
+      "raw_name": "Bột cacao",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đặc 3 muỗng canh",
+      "raw_name": "Sữa đặc",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước cốt cà phê 4 muỗng canh",
+      "raw_name": "Nước cốt cà phê",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đá bào 1 ít",
+      "raw_name": "Đá bào",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:05:07Z",
+  "page_title": "2 Cách pha ca cao sữa đá ngon lành, mát lạnh cực đã, vô cùng đơn giản",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/ca-cao-sua-da-cong-thuc-duoc-chia-se-tu-nguoi-dung-thumbnail.jpg"
+}

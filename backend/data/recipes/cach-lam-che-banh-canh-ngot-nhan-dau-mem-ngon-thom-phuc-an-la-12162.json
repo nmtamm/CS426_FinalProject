@@ -1,0 +1,71 @@
+{
+  "source_id": "12162",
+  "name": "Chè bánh canh ngọt nhân đậu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/380674a5a4f5f267.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-che-banh-canh-ngot-nhan-dau-mem-ngon-thom-phuc-an-la-12162",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-che-banh-canh-ngot-nhan-dau-mem-ngon-thom-phuc-an-la-12162",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-che",
+      "name": "Món chè"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột năng 220 gr",
+      "raw_name": "Bột năng",
+      "quantity": 220,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu xanh cà vỏ 50 gr",
+      "raw_name": "Đậu xanh cà vỏ",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu phộng rang 2 muỗng canh (loại còn nguyên hạt)",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "loại còn nguyên hạt",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng 2 củ (củ nhỏ)",
+      "raw_name": "Gừng",
+      "quantity": 2,
+      "unit": "củ",
+      "note": "củ nhỏ",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 275 gr",
+      "raw_name": "Đường",
+      "quantity": 275,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:13:41Z",
+  "page_title": "Cách làm chè bánh canh ngọt nhân đậu mềm ngon thơm phức, ăn là mê ngay",
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookProduct/thum1200-1200x676-16.jpg"
+}

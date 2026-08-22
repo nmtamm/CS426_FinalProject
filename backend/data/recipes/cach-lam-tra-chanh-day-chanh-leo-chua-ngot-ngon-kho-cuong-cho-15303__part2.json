@@ -1,0 +1,77 @@
+{
+  "source_id": "15303",
+  "name": "Trà chanh dây - chanh leo hạt chia",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b50e64b1436c3698.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-chanh-day-chanh-leo-chua-ngot-ngon-kho-cuong-cho-15303",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-chanh-day-chanh-leo-chua-ngot-ngon-kho-cuong-cho-15303",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà túi lọc 1 gói",
+      "raw_name": "Trà túi lọc",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chanh dây 3 trái (chanh leo)",
+      "raw_name": "Chanh dây",
+      "quantity": 3,
+      "unit": "trái",
+      "note": "chanh leo",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hạt chia 1 muỗng cà phê",
+      "raw_name": "Hạt chia",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước sôi 100 ml",
+      "raw_name": "Nước sôi",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước lọc 100 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:04:04Z",
+  "page_title": "2 Cách làm trà chanh dây - chanh leo chua ngọt ngon khó cưỡng cho ngày nóng",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookRecipe/Avatar/tra-chanh-day-chanh-leo-hat-chia-thumbnail.jpg"
+}

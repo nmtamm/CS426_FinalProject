@@ -1,0 +1,82 @@
+{
+  "source_id": "01142",
+  "name": "Bánh kén khoai lang",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8c0f1e996c70f01d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-khoai-lang-ken-01142",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-khoai-lang-ken-01142",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bơ 20 gr",
+      "raw_name": "Bơ",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa đặc 10 gr",
+      "raw_name": "Sữa đặc",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mật ong 2 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột năng 50 gr",
+      "raw_name": "Bột năng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột nếp 30 gr",
+      "raw_name": "Bột nếp",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Mè rang 10 gr",
+      "raw_name": "Mè rang",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Khoai lang 2 củ",
+      "raw_name": "Khoai lang",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:12:34Z",
+  "page_title": "5 Cách làm khoai lang kén giòn thơm, ngon đúng chuẩn dễ làm tại nhà",
+  "variant_index": 5,
+  "variant_count": 5,
+  "note": "Công thức từ kênh Tiktok Vào bếp cùng Điện máy XANH",
+  "original_image_url": "https://cdn.tgdd.vn/2023/05/CookRecipe/Avatar/banh-ken-khoai-lang-thumbnail.jpg"
+}

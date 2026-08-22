@@ -1,0 +1,43 @@
+{
+  "source_id": "01181",
+  "name": "Nấu xôi gà bằng nồi cơm điện",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8fa9b8758f645ad8.png",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-xoi-ga-bang-noi-com-dien-dung-vi-thom-ngon-01181",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-xoi-ga-bang-noi-com-dien-dung-vi-thom-ngon-01181",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gạo nếp 300 gr (nên chọn nếp cái hoa vàng hoặc nếp hương)",
+      "raw_name": "Gạo nếp",
+      "quantity": 300,
+      "unit": "gr",
+      "note": "nên chọn nếp cái hoa vàng hoặc nếp hương",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đùi gà 2 cái",
+      "raw_name": "Đùi gà",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu phộng 50 gr (lạc)",
+      "raw_name": "Đậu phộng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "lạc",
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T18:16:36Z",
+  "page_title": "Cách nấu xôi gà bằng nồi cơm điện đúng vị thơm ngon dễ làm tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2018/12/12/1137422/cach-nau-xoi-ga-bang-noi-com-dien-dung-vi-thom-ngon-760x367.png"
+}

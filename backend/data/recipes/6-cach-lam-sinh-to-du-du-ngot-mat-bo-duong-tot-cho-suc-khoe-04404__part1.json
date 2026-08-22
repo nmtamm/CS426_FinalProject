@@ -1,0 +1,57 @@
+{
+  "source_id": "04404",
+  "name": "Sinh tố bơ đu đủ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/cf8065c06eb00831.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/6-cach-lam-sinh-to-du-du-ngot-mat-bo-duong-tot-cho-suc-khoe-04404",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/6-cach-lam-sinh-to-du-du-ngot-mat-bo-duong-tot-cho-suc-khoe-04404",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bơ 2 trái",
+      "raw_name": "Bơ",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đu đủ 1/3 trái",
+      "raw_name": "Đu đủ",
+      "quantity": 0.333,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa tươi 100 ml",
+      "raw_name": "Sữa tươi",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa đặc 4 muỗng canh",
+      "raw_name": "Sữa đặc",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:57:32Z",
+  "page_title": "7 cách làm sinh tố đu đủ ngọt mát, bổ dưỡng, tốt cho sức khỏe",
+  "variant_index": 1,
+  "variant_count": 7,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/sinh-to-bo-du-du-thumbnail-1.jpg"
+}

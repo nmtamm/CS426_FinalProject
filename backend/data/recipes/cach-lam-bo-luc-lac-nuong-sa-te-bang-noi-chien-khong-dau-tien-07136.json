@@ -1,0 +1,159 @@
+{
+  "source_id": "07136",
+  "name": "Bò lúc lắc nướng sa tế",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1d74409e741bf479.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bo-luc-lac-nuong-sa-te-bang-noi-chien-khong-dau-tien-07136",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bo-luc-lac-nuong-sa-te-bang-noi-chien-khong-dau-tien-07136",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt thăn bò Mỹ 500 gr",
+      "raw_name": "Thịt thăn bò Mỹ",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sa tế tôm cay 2 muỗng canh",
+      "raw_name": "Sa tế tôm cay",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rượu Thiệu Hưng 2 muỗng canh",
+      "raw_name": "Rượu Thiệu Hưng",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu điều 3 muỗng canh",
+      "raw_name": "Dầu điều",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước mắm ngon 1 muỗng canh",
+      "raw_name": "Nước mắm ngon",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Xì dầu 1 muỗng canh",
+      "raw_name": "Xì dầu",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường nâu 2 muỗng canh",
+      "raw_name": "Đường nâu",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Sữa đặc 3 muỗng canh",
+      "raw_name": "Sữa đặc",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Sả 6 nhánh",
+      "raw_name": "Sả",
+      "quantity": 6,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Tiêu bột 1 muỗng canh",
+      "raw_name": "Tiêu bột",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gừng nhỏ 1 nhánh",
+      "raw_name": "Gừng nhỏ",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Ớt 2 trái",
+      "raw_name": "Ớt",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Hành tím 6 củ",
+      "raw_name": "Hành tím",
+      "quantity": 6,
+      "unit": "củ",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Tỏi 6 củ",
+      "raw_name": "Tỏi",
+      "quantity": 6,
+      "unit": "củ",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Chao 3 muỗng canh",
+      "raw_name": "Chao",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Vừng trắng rang vàng 2 muỗng canh",
+      "raw_name": "Vừng trắng rang vàng",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 17
+    }
+  ],
+  "scraped_at": "2026-08-19T18:32:05Z",
+  "page_title": "Cách làm bò lúc lắc nướng sa tế bằng nồi chiên không dầu tiện lợi, hấp dẫn",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/Boluclacnuongsatebangnoichienkhongdau-1200x676.jpg"
+}

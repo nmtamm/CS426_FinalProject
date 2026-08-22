@@ -1,0 +1,103 @@
+{
+  "source_id": "14062",
+  "name": "Bún xào thịt bò",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b14e88e22f5a693f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-bun-xao-thit-bo-thom-ngon-don-gian-doi-gio-cho-14062",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-bun-xao-thit-bo-thom-ngon-don-gian-doi-gio-cho-14062",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bún tươi 150 gr",
+      "raw_name": "Bún tươi",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt bò 50 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bắp cải 1/3 trái",
+      "raw_name": "Bắp cải",
+      "quantity": 0.333,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 1/3 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.333,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Su su 1/3 trái",
+      "raw_name": "Su su",
+      "quantity": 0.333,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành lá 2 nhánh (băm nhỏ)",
+      "raw_name": "Hành lá",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": "băm nhỏ",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi 2 muỗng canh (băm nhuyễn)",
+      "raw_name": "Tỏi",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "băm nhuyễn",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hạt nêm 1/2 muỗng canh",
+      "raw_name": "Hạt nêm",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:32:46Z",
+  "page_title": "Cách làm món bún xào thịt bò thơm ngon đơn giản đổi gió cho ngày chán cơm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-mon-bun-xao-thit-bo-thom-ngon-cuc-don-gian-doi-gio-avt-1200x676.jpg"
+}

@@ -1,0 +1,59 @@
+{
+  "source_id": "22772",
+  "name": "Nước chấm phở cuốn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b2d0dd9c34cdeea6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-nuoc-cham-pho-cuon-chua-thanh-man-ngot-vua-vi-voi-22772",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-nuoc-cham-pho-cuon-chua-thanh-man-ngot-vua-vi-voi-22772",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ớt sừng 1 quả",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chanh 1 quả",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Thơm 1/4 quả (dứa/khóm)",
+      "raw_name": "Thơm",
+      "quantity": 0.25,
+      "unit": "quả",
+      "note": "dứa/khóm",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 3 tép",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Các gia vị thông dụng 1 ít (nước mắm/ đường)",
+      "raw_name": "Các gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "nước mắm/ đường",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:33:41Z",
+  "page_title": "Cách pha nước chấm phở cuốn chua thanh, mặn ngọt vừa vị với máy xay tỏi ớt",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/05052025.jpg"
+}

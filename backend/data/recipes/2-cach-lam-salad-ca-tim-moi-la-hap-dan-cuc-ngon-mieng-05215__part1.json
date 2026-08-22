@@ -1,0 +1,141 @@
+{
+  "source_id": "05215",
+  "name": "Salad cà tím đậu lăng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/03cc9fb318b6d9c5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-salad-ca-tim-moi-la-hap-dan-cuc-ngon-mieng-05215",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-salad-ca-tim-moi-la-hap-dan-cuc-ngon-mieng-05215",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cà tím 700 gr",
+      "raw_name": "Cà tím",
+      "quantity": 700,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu lăng xanh khô 125 gr",
+      "raw_name": "Đậu lăng xanh khô",
+      "quantity": 125,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà chua bi 250 gr",
+      "raw_name": "Cà chua bi",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Xà lách Rocket 40 gr (Arugula)",
+      "raw_name": "Xà lách Rocket",
+      "quantity": 40,
+      "unit": "gr",
+      "note": "Arugula",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Phô mai Feta 60 gr",
+      "raw_name": "Phô mai Feta",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lá nguyệt quế khô 3 gr (khoảng 1 lá)",
+      "raw_name": "Lá nguyệt quế khô",
+      "quantity": 3,
+      "unit": "gr",
+      "note": "khoảng 1 lá",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Cỏ xạ hương khô 2.5 muỗng cà phê (lá thyme)",
+      "raw_name": "Cỏ xạ hương khô",
+      "quantity": 2.5,
+      "unit": "muỗng cà phê",
+      "note": "lá thyme",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Vỏ chanh 10 gr",
+      "raw_name": "Vỏ chanh",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tỏi 2 tép",
+      "raw_name": "Tỏi 2 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Cần tây 20 gr",
+      "raw_name": "Cần tây",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước cốt chanh 2 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước hầm gà 240 ml",
+      "raw_name": "Nước hầm gà",
+      "quantity": 240,
+      "unit": "ml",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu oliu 7 muỗng canh",
+      "raw_name": "Dầu oliu",
+      "quantity": 7,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/đường/tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/đường/tiêu",
+      "display_order": 14
+    },
+    {
+      "raw_text": "Mù tạt 1 muỗng cà phê",
+      "raw_name": "Mù tạt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T17:58:27Z",
+  "page_title": "2 cách làm salad cà tím mới lạ hấp dẫn cực ngon miệng",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookRecipe/Avatar/salad-ca-tim-dau-lang-thumbnail-1.jpg"
+}

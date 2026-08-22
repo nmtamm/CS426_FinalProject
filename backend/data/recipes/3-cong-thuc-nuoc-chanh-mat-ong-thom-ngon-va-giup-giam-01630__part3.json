@@ -1,0 +1,53 @@
+{
+  "source_id": "01630",
+  "name": "Nước chanh mật ong gừng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/af52376074190670.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cong-thuc-nuoc-chanh-mat-ong-thom-ngon-va-giup-giam-01630",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cong-thuc-nuoc-chanh-mat-ong-thom-ngon-va-giup-giam-01630",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chanh 1 quả",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mật ong 2 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gừng 4 lát",
+      "raw_name": "Gừng 4 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước 50 ml (khoảng 60 độ C)",
+      "raw_name": "Nước",
+      "quantity": 50,
+      "unit": "ml",
+      "note": "khoảng 60 độ C",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:58:55Z",
+  "page_title": "3 công thức nước chanh mật ong thơm ngon và giúp giảm cân, đẹp da",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2022/01/CookRecipe/Avatar/sngdnv.jpg"
+}

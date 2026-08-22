@@ -1,0 +1,105 @@
+{
+  "source_id": "07815",
+  "name": "Sandwich cuộn xúc xích",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1e2f523325264df0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sandwich-cuon-thom-ngon-don-gian-cho-bua-sang-dinh-07815",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sandwich-cuon-thom-ngon-don-gian-cho-bua-sang-dinh-07815",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh mì sandwich 5 lát",
+      "raw_name": "Bánh mì sandwich 5 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xúc xích 5 cây",
+      "raw_name": "Xúc xích",
+      "quantity": 5,
+      "unit": "cây",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng gà 1 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột chiên xù 1 ít",
+      "raw_name": "Bột chiên xù",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ngò rí 1 ít (cắt nhỏ)",
+      "raw_name": "Ngò rí",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "cắt nhỏ",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Sốt Mayonnaise 1 muỗng canh",
+      "raw_name": "Sốt Mayonnaise",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng cà phê",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tiêu xay 1 ít",
+      "raw_name": "Tiêu xay",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 240 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 240,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T19:14:38Z",
+  "page_title": "2 cách làm sandwich cuộn thơm ngon đơn giản cho bữa sáng dinh dưỡng",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookRecipe/Avatar/sandwich-cuon-xuc-xich-thumbnail.jpg"
+}

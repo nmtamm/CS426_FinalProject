@@ -1,0 +1,97 @@
+{
+  "source_id": "01745",
+  "name": "Trà thanh long đỏ kem cheese",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e945e4815c7da7c1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-thanh-long-do-don-gian-mat-lanh-cho-mua-he-01745",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-thanh-long-do-don-gian-mat-lanh-cho-mua-he-01745",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thanh long ruột đỏ 1 trái",
+      "raw_name": "Thanh long ruột đỏ",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Siro đường 20 ml",
+      "raw_name": "Siro đường",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước nóng 100 ml",
+      "raw_name": "Nước nóng",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Kem whipping 50 ml",
+      "raw_name": "Kem whipping",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sữa tươi không đường 50 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Phô mai 45 gr",
+      "raw_name": "Phô mai",
+      "quantity": 45,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường trắng 1 muỗng cà phê",
+      "raw_name": "Đường trắng",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hồng trà 5 gr",
+      "raw_name": "Hồng trà",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T20:03:31Z",
+  "page_title": "2 Cách làm trà thanh long đỏ đơn giản, mát lạnh cho mùa hè",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/tra-thanh-long-do-kem-cheese-thumbnail.jpg"
+}

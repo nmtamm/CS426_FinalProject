@@ -1,0 +1,51 @@
+{
+  "source_id": "23142",
+  "name": "Yến chưng lê",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/120fd0ea2c3969e1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-yen-chung-le-ngot-mat-thanh-nhiet-bo-phoi-de-lam-de-23142",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-yen-chung-le-ngot-mat-thanh-nhiet-bo-phoi-de-lam-de-23142",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Yến sào 10 gr",
+      "raw_name": "Yến sào",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lê to 2 quả (khoảng 300 - 400gr/quả)",
+      "raw_name": "Lê to",
+      "quantity": 2,
+      "unit": "quả",
+      "note": "khoảng 300 - 400gr/quả",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Kỷ tử 1 muỗng canh",
+      "raw_name": "Kỷ tử",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường phèn 30 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:14:56Z",
+  "page_title": "Cách làm yến chưng lê ngọt mát, thanh nhiệt bổ phổi dễ làm để tẩm bổ cả nhà",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20thumb%20to%20t8%20%2880%29.jpg"
+}

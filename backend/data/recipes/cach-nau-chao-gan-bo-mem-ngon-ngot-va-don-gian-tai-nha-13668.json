@@ -1,0 +1,95 @@
+{
+  "source_id": "13668",
+  "name": "Cháo gân bò",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a548d759e20f011c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-chao-gan-bo-mem-ngon-ngot-va-don-gian-tai-nha-13668",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-chao-gan-bo-mem-ngon-ngot-va-don-gian-tai-nha-13668",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-chao",
+      "name": "Món cháo"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gân bò 1/2 kg",
+      "raw_name": "Gân bò",
+      "quantity": 0.5,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gạo tẻ 270 gr (1 lon gạo)",
+      "raw_name": "Gạo tẻ",
+      "quantity": 270,
+      "unit": "gr",
+      "note": "1 lon gạo",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tím 5 củ",
+      "raw_name": "Hành tím",
+      "quantity": 5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ngò gai 200 gr",
+      "raw_name": "Ngò gai",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành lá 200 gr",
+      "raw_name": "Hành lá",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước mắm 1.5 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu hạt điều 1 gói",
+      "raw_name": "Dầu hạt điều",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (bột ngọt/ hạt nêm/ muối/ tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "bột ngọt/ hạt nêm/ muối/ tiêu",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:21:43Z",
+  "page_title": "Cách nấu cháo gân bò mềm, ngon ngọt và đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookDish/cach-nau-chao-gan-bo-mem-ngon-ngot-va-don-gian-tai-nha-avt-1200x676.jpg"
+}

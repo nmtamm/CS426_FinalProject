@@ -1,0 +1,59 @@
+{
+  "source_id": "00887",
+  "name": "Lê nha đam táo đỏ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/51fb5356fcf7df61.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/thanh-nhiet-sang-khoai-voi-nuoc-le-nha-dam-va-tao-do-00887",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/thanh-nhiet-sang-khoai-voi-nuoc-le-nha-dam-va-tao-do-00887",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lê lớn 1 trái",
+      "raw_name": "Lê lớn",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nha đam 150 gr",
+      "raw_name": "Nha đam",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Táo đỏ 100 gr (táo tàu)",
+      "raw_name": "Táo đỏ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "táo tàu",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường phèn 200 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước lọc 500 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:13:01Z",
+  "page_title": "Thanh nhiệt đại bổ với nước lê, nha đam và táo đỏ",
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookProduct/le-nha-dam-tao-do-thumbnail-1200x676.jpg"
+}

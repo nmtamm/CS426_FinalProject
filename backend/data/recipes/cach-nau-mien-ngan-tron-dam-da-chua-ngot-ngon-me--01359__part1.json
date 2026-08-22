@@ -1,0 +1,125 @@
+{
+  "source_id": "01359",
+  "name": "Miến ngan trộn chua ngọt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bc0789beab494e61.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-mien-ngan-tron-dam-da-chua-ngot-ngon-me--01359",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-mien-ngan-tron-dam-da-chua-ngot-ngon-me--01359",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ngan dé 5 kg",
+      "raw_name": "Ngan dé",
+      "quantity": 5,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Măng tươi 100 gr (hoặc 100gr măng khô)",
+      "raw_name": "Măng tươi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "hoặc 100gr măng khô",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Miến khô 2 kg",
+      "raw_name": "Miến khô",
+      "quantity": 2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đậu phộng rang 100 gr (lạc rang)",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "lạc rang",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rau thơm 50 gr (ngò gai/húng quế)",
+      "raw_name": "Rau thơm",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "ngò gai/húng quế",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Chanh 1 trái",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành lá 2 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành tím 5 củ",
+      "raw_name": "Hành tím",
+      "quantity": 5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Giấm trắng 3 muỗng canh",
+      "raw_name": "Giấm trắng",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Xì dầu 4 muỗng canh (nước tương)",
+      "raw_name": "Xì dầu",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": "nước tương",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Ớt băm 1 muỗng canh",
+      "raw_name": "Ớt băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/đường/tiêu/bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/đường/tiêu/bột ngọt",
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T20:36:22Z",
+  "page_title": "2 cách nấu miến ngan trộn và miến ngan nước ngon đơn giản chuẩn vị",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/mien-ngan-tron-chua-ngot-thumbnail-1.jpg"
+}

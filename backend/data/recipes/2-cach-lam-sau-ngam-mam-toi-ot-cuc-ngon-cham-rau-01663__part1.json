@@ -1,0 +1,69 @@
+{
+  "source_id": "01663",
+  "name": "Sấu ngâm mắm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3375cd66e3c9b3e9.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sau-ngam-mam-toi-ot-cuc-ngon-cham-rau-01663",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sau-ngam-mam-toi-ot-cuc-ngon-cham-rau-01663",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sấu 1 kg",
+      "raw_name": "Sấu",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước mắm 300 ml",
+      "raw_name": "Nước mắm",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường vàng 100 gr",
+      "raw_name": "Đường vàng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt 3 quả",
+      "raw_name": "Ớt",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 3 củ",
+      "raw_name": "Tỏi",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:30:25Z",
+  "page_title": "2 cách làm sấu ngâm mắm tỏi ớt cực ngon, chấm rau giải nhiệt mùa hè",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2022/07/CookRecipe/Avatar/sau-ngam-mam-thumbnail.jpg"
+}

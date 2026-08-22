@@ -1,0 +1,53 @@
+{
+  "source_id": "15375",
+  "name": "Socola bạc hà",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/74a2ebc724567181.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-keo-socola-bac-ha-va-keo-socola-matcha-dep-mat-don-15375",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-keo-socola-bac-ha-va-keo-socola-matcha-dep-mat-don-15375",
+  "servings_text": "Cho 7 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Socola chips đen 200 gr",
+      "raw_name": "Socola chips đen",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Socola chips trắng 200 gr",
+      "raw_name": "Socola chips trắng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dầu bạc hà 1 muỗng cà phê (peppermint oil)",
+      "raw_name": "Dầu bạc hà",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "peppermint oil",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Kẹo cây gạo 12 cây (candy cane)",
+      "raw_name": "Kẹo cây gạo",
+      "quantity": 12,
+      "unit": "cây",
+      "note": "candy cane",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:40:00Z",
+  "page_title": "2 cách làm kẹo socola bạc hà và kẹo socola matcha đẹp mắt đón Giáng Sinh",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/socola-bac-ha-thumbnail-1.jpg"
+}

@@ -1,0 +1,163 @@
+{
+  "source_id": "09435",
+  "name": "Chà bông Đài Loan",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a9221d39c373a767.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-bong-dai-loan-cay-ngon-la-mieng-an-la-me-09435",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-bong-dai-loan-cay-ngon-la-mieng-an-la-me-09435",
+  "servings_text": "Cho 4 người ăn",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt nạc vai/ thịt nạc đùi 0.5 kg",
+      "raw_name": "Thịt nạc vai/ thịt nạc đùi",
+      "quantity": 0.5,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt nhỏ 3 quả",
+      "raw_name": "Ớt nhỏ",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá bay 3 lá",
+      "raw_name": "Lá bay",
+      "quantity": 3,
+      "unit": "lá",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hoa hồi 2 cái",
+      "raw_name": "Hoa hồi",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Quế 2 nhánh",
+      "raw_name": "Quế",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành khô không cắt 2 củ",
+      "raw_name": "Hành khô không cắt",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Táo tàu đỏ 3 quả",
+      "raw_name": "Táo tàu đỏ",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Táo to 1/2 quả (hoặc 1 quả táo nhỏ)",
+      "raw_name": "Táo to",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": "hoặc 1 quả táo nhỏ",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rượu 1 chén (chén nhỏ)",
+      "raw_name": "Rượu",
+      "quantity": 1,
+      "unit": "chén",
+      "note": "chén nhỏ",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước tương 2 muỗng cà phê",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng cà phê",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng cà phê",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Ớt bột 1 muỗng cà phê",
+      "raw_name": "Ớt bột",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Ngũ vị hương 1 ít",
+      "raw_name": "Ngũ vị hương",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Bột xá xíu 1 muỗng cà phê (hoặc 1 muỗng cà phê sốt xá xíu)",
+      "raw_name": "Bột xá xíu",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "hoặc 1 muỗng cà phê sốt xá xíu",
+      "display_order": 15
+    },
+    {
+      "raw_text": "Đường 50 gr",
+      "raw_name": "Đường",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Hạt nêm 1 muỗng cà phê",
+      "raw_name": "Hạt nêm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 17
+    },
+    {
+      "raw_text": "Muối tinh hạt mịn 1 ít",
+      "raw_name": "Muối tinh hạt mịn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 18
+    }
+  ],
+  "scraped_at": "2026-08-19T19:09:35Z",
+  "page_title": "Cách làm chà bông cay Đài Loan thơm ngon lạ miệng ăn là mê",
+  "original_image_url": "https://cdn.tgdd.vn/2022/10/CookDish/cach-lam-cha-bong-dai-loan-cay-ngon-la-mieng-an-la-me-avt-1200x676.jpg"
+}

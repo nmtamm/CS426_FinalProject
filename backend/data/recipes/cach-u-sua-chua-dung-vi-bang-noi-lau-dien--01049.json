@@ -1,0 +1,47 @@
+{
+  "source_id": "01049",
+  "name": "Sữa chua bằng nồi lẩu điện",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9b080cde10f702c0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-u-sua-chua-dung-vi-bang-noi-lau-dien--01049",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-u-sua-chua-dung-vi-bang-noi-lau-dien--01049",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "meo-vao-bep",
+      "name": "Mẹo vào bếp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sữa tươi 1 lít",
+      "raw_name": "Sữa tươi 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa đặc có đường 760 gram (2 lon)",
+      "raw_name": "Sữa đặc có đường 760 gram",
+      "quantity": null,
+      "unit": null,
+      "note": "2 lon",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa chua để dùng làm men 200 gram (2 hũ)",
+      "raw_name": "Sữa chua để dùng làm men 200 gram",
+      "quantity": null,
+      "unit": null,
+      "note": "2 hũ",
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T20:00:27Z",
+  "page_title": "Cách ủ sữa chua bằng nồi lẩu điện, lên men chuẩn ngon không cần chỉnh",
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookProduct/Untitled-1-1200x676-8.jpg"
+}

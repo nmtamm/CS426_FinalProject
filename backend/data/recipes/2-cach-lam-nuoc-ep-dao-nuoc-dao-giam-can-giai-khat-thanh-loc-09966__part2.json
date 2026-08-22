@@ -1,0 +1,53 @@
+{
+  "source_id": "09966",
+  "name": "Nước ép đào (nước đào) nấu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/981c2086b29636c5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-ep-dao-nuoc-dao-giam-can-giai-khat-thanh-loc-09966",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-ep-dao-nuoc-dao-giam-can-giai-khat-thanh-loc-09966",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đào 1 kg",
+      "raw_name": "Đào",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chanh 1/2 quả",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước 2 lít",
+      "raw_name": "Nước 2 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 100 gr (khoảng 10 muỗng canh)",
+      "raw_name": "Đường",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "khoảng 10 muỗng canh",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:12:42Z",
+  "page_title": "2 cách làm nước ép đào (nước đào) giảm cân, giải khát, thanh lọc cơ thể",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/nuoc-ep-dao-nau-thumbnail.jpg"
+}

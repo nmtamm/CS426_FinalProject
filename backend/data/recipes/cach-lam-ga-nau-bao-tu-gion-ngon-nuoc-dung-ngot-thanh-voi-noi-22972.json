@@ -1,0 +1,147 @@
+{
+  "source_id": "22972",
+  "name": "Gà nấu bao tử",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/efafbc5bdf15a019.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-nau-bao-tu-gion-ngon-nuoc-dung-ngot-thanh-voi-noi-22972",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-nau-bao-tu-gion-ngon-nuoc-dung-ngot-thanh-voi-noi-22972",
+  "servings_text": "Cho 4 nồi",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà ta 700 gr",
+      "raw_name": "Gà ta",
+      "quantity": 700,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bao tử heo 400 gr",
+      "raw_name": "Bao tử heo",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dồi trường gà 400 gr",
+      "raw_name": "Dồi trường gà",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng 55 gr",
+      "raw_name": "Gừng",
+      "quantity": 55,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tây tím 1 củ",
+      "raw_name": "Hành tây tím",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tây 100 gr",
+      "raw_name": "Hành tây",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Cà rốt 200 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bắp non 150 gr",
+      "raw_name": "Bắp non",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nấm rơm 400 gr",
+      "raw_name": "Nấm rơm",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nấm kim châm 200 gr",
+      "raw_name": "Nấm kim châm",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Xà lách xoong 250 gr",
+      "raw_name": "Xà lách xoong",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Ngò rí 1 ít",
+      "raw_name": "Ngò rí",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước dừa tươi 1.5 lít",
+      "raw_name": "Nước dừa tươi 1.5 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Dầu mè 1/2 muỗng canh (có thể bỏ qua)",
+      "raw_name": "Dầu mè",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": "có thể bỏ qua",
+      "display_order": 14
+    },
+    {
+      "raw_text": "Dầu điều 1 muỗng canh",
+      "raw_name": "Dầu điều",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ hạt nêm/ tiêu xay/ nước mắm/ dầu ăn)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ hạt nêm/ tiêu xay/ nước mắm/ dầu ăn",
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T18:06:37Z",
+  "page_title": "Cách làm gà nấu bao tử giòn ngon, nước dùng ngọt thanh với nồi inox",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20thumb%20t6%20%2834%29.jpg"
+}

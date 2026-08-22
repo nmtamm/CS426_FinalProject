@@ -1,0 +1,87 @@
+{
+  "source_id": "10319",
+  "name": "Kẹo táo bọc socola hình kì lân",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/adcdee07bf882455.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-keo-tao-boc-socola-hinh-ki-lan-sieu-xinh-cho-be-yeu-10319",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-keo-tao-boc-socola-hinh-ki-lan-sieu-xinh-cho-be-yeu-10319",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Táo 2 trái",
+      "raw_name": "Táo",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Socola trắng 200 gr",
+      "raw_name": "Socola trắng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Whipphing cream 100 gr",
+      "raw_name": "Whipphing cream",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Fondant 500 gr (kẹo đường)",
+      "raw_name": "Fondant",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "kẹo đường",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tinh chất vani 2 ml",
+      "raw_name": "Tinh chất vani",
+      "quantity": 2,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột nhũ vàng 1/2 muỗng cà phê",
+      "raw_name": "Bột nhũ vàng",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Màu thực phẩm 1 ít (tùy ý)",
+      "raw_name": "Màu thực phẩm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "tùy ý",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường 50 gr",
+      "raw_name": "Đường",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:20:42Z",
+  "page_title": "Cách làm kẹo táo bọc socola hình kì lân siêu xinh cho bé yêu dịp 1/6",
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookProduct/1-1200x676-46.jpg"
+}

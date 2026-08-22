@@ -1,0 +1,119 @@
+{
+  "source_id": "24207",
+  "name": "Gân bò sốt Thái",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5969ee4e8387bd91.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-gan-bo-sot-thai-chua-cay-gion-san-sat-cuc-bat-vi-cho-24207",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-gan-bo-sot-thai-chua-cay-gion-san-sat-cuc-bat-vi-cho-24207",
+  "servings_text": "Cho 4 - 5 người ăn",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    },
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gân bò 0.5 kg (nên chọn loại gân chữ Y)",
+      "raw_name": "Gân bò",
+      "quantity": 0.5,
+      "unit": "kg",
+      "note": "nên chọn loại gân chữ Y",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cóc bao tử 10 quả",
+      "raw_name": "Cóc bao tử",
+      "quantity": 10,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gừng/ riềng 1 ít",
+      "raw_name": "Gừng/ riềng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường vàng 200 gr",
+      "raw_name": "Đường vàng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cốt me 120 ml",
+      "raw_name": "Nước cốt me",
+      "quantity": 120,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước cốt tắc 100 ml",
+      "raw_name": "Nước cốt tắc",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước mắm ngon 100 ml",
+      "raw_name": "Nước mắm ngon",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tương ớt lên men 3 muỗng canh",
+      "raw_name": "Tương ớt lên men",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Rễ và gốc rau mùi băm 1 muỗng canh",
+      "raw_name": "Rễ và gốc rau mùi băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Tỏi/ hành tím 1 ít",
+      "raw_name": "Tỏi/ hành tím",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Ớt sừng 3 quả",
+      "raw_name": "Ớt sừng",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T17:50:26Z",
+  "page_title": "Cách làm gân bò sốt Thái chua cay giòn sần sật cực bắt vị cho cả nhà",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t03%201200676%20%2862%29.jpg"
+}

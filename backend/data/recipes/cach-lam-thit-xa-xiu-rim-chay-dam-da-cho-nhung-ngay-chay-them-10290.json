@@ -1,0 +1,67 @@
+{
+  "source_id": "10290",
+  "name": "Thịt xá xíu rim chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/fd678e87f7805aa9.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-xa-xiu-rim-chay-dam-da-cho-nhung-ngay-chay-them-10290",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-xa-xiu-rim-chay-dam-da-cho-nhung-ngay-chay-them-10290",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt chay 100 gr",
+      "raw_name": "Thịt chay",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành tím 2 củ",
+      "raw_name": "Hành tím",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 4 tép",
+      "raw_name": "Tỏi 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sốt xá xíu 70 gr",
+      "raw_name": "Sốt xá xíu",
+      "quantity": 70,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 1 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:47:48Z",
+  "page_title": "Cách làm thịt xá xíu rim chay đậm đà, cho những ngày chay thêm tròn vị",
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookProduct/7-1200x676-1.jpg"
+}

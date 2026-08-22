@@ -1,0 +1,77 @@
+{
+  "source_id": "04226",
+  "name": "Đùi gà chiên sốt chao đỏ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f4c05e4f86a3dcae.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-dui-ga-chien-sot-me-va-sot-chao-do-mem-ngon-dam-04226",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-dui-ga-chien-sot-me-va-sot-chao-do-mem-ngon-dam-04226",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đùi gà 300 gr",
+      "raw_name": "Đùi gà",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chao đỏ 30 gr",
+      "raw_name": "Chao đỏ",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước tương 3 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước 2 muỗng canh",
+      "raw_name": "Nước",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi băm 10 gr",
+      "raw_name": "Tỏi băm",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành lá 20 gr",
+      "raw_name": "Hành lá",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:19:26Z",
+  "page_title": "2 cách làm đùi gà chiên sốt me và sốt chao đỏ mềm ngon đậm đà hương vị",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/dui-ga-chien-sot-chao-do-thumbnail-1.jpg"
+}

@@ -1,0 +1,61 @@
+{
+  "source_id": "12828",
+  "name": "Sinh tố bơ mãng cầu sữa chua",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7896a18a29aaf4f0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sinh-to-bo-mang-cau-thom-beo-chua-ngon-hap-dan-12828",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sinh-to-bo-mang-cau-thom-beo-chua-ngon-hap-dan-12828",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bơ 1/2 trái",
+      "raw_name": "Bơ",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mãng cầu xiêm 1/4 trái",
+      "raw_name": "Mãng cầu xiêm",
+      "quantity": 0.25,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa chua 1 hộp (100gr)",
+      "raw_name": "Sữa chua",
+      "quantity": 1,
+      "unit": "hộp",
+      "note": "100gr",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa tươi không đường 200 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 3 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:08:31Z",
+  "page_title": "2 cách làm sinh tố bơ mãng cầu thơm béo, chua ngon hấp dẫn",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/tp1200(1).jpg"
+}

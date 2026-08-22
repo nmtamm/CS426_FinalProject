@@ -1,0 +1,85 @@
+{
+  "source_id": "14777",
+  "name": "Nước ép cà chua cà rốt đu đủ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f0ac99ce556500fe.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-ca-chua-ca-rot-tuoi-ngon-dep-da-thon-dang-14777",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-ca-chua-ca-rot-tuoi-ngon-dep-da-thon-dang-14777",
+  "servings_text": "Cho 4 ly",
+  "topics": [
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cà chua 4 trái",
+      "raw_name": "Cà chua",
+      "quantity": 4,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đu đủ 1/2 chén",
+      "raw_name": "Đu đủ",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cam 1 trái",
+      "raw_name": "Cam",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cốt chanh 1/2 muỗng cà phê",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước lọc 180 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 180,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:12:12Z",
+  "page_title": "4 cách làm nước ép cà chua cà rốt tươi ngon đẹp da thon dáng tại nhà",
+  "variant_index": 4,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/nuoc-ep-ca-chua-ca-rot-du-du-thumbnail-1.jpg"
+}

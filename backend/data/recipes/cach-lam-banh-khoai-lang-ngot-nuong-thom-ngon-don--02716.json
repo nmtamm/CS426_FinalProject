@@ -1,0 +1,79 @@
+{
+  "source_id": "02716",
+  "name": "bánh khoai lang ngọt nướng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2c512a7a8a8c547c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-khoai-lang-ngot-nuong-thom-ngon-don--02716",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-khoai-lang-ngot-nuong-thom-ngon-don--02716",
+  "servings_text": "Cho 5 người ăn",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai lang 450 g",
+      "raw_name": "Khoai lang",
+      "quantity": 450,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng gà 1 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 40 g",
+      "raw_name": "Đường",
+      "quantity": 40,
+      "unit": "g",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mè đen 3 g",
+      "raw_name": "Mè đen",
+      "quantity": 3,
+      "unit": "g",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bơ lạt 20 g",
+      "raw_name": "Bơ lạt",
+      "quantity": 20,
+      "unit": "g",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Mật ong 5 g",
+      "raw_name": "Mật ong",
+      "quantity": 5,
+      "unit": "g",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bánh 1 cái (bánh flan)",
+      "raw_name": "Bánh",
+      "quantity": 1,
+      "unit": "cái",
+      "note": "bánh flan",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:26:54Z",
+  "page_title": "Cách làm bánh khoai lang ngọt nướng thơm ngon đơn giản dễ làm",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/06/09/1261781/cach-lam-banh-khoai-lang-ngot-nuong-thom-ngon-don--3-760x367.jpg"
+}

@@ -1,0 +1,115 @@
+{
+  "source_id": "22706",
+  "name": "Ốc hút Điện Phương",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6d86e3f15a7514c3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-oc-hut-dien-phuong-hanh-phi-ngon-kho-cuong-bang-chao-22706",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-oc-hut-dien-phuong-hanh-phi-ngon-kho-cuong-bang-chao-22706",
+  "servings_text": "Cho 1 phần",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ốc hút 3 kg",
+      "raw_name": "Ốc hút",
+      "quantity": 3,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dừa 1 trái",
+      "raw_name": "Dừa",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Xả 6 cây",
+      "raw_name": "Xả",
+      "quantity": 6,
+      "unit": "cây",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tím 500 gr",
+      "raw_name": "Hành tím",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lá chanh 1 ít",
+      "raw_name": "Lá chanh",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt 10 trái",
+      "raw_name": "Ớt",
+      "quantity": 10,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột ớt 1 muỗng canh",
+      "raw_name": "Bột ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tắc 5 trái",
+      "raw_name": "Tắc",
+      "quantity": 5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị thông thường 1 ít (tương ớt/dầu hào/đường/bột ngọt/hạt nêm)",
+      "raw_name": "Gia vị thông thường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "tương ớt/dầu hào/đường/bột ngọt/hạt nêm",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Bánh đa 1 cái",
+      "raw_name": "Bánh đa",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:58:11Z",
+  "page_title": "Cách làm ốc hút Điện Phương hành phi ngon khó cưỡng bằng chảo inox",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/943pdmnksaj.jpg"
+}

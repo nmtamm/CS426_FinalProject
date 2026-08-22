@@ -1,0 +1,87 @@
+{
+  "source_id": "07701",
+  "name": "Cơm cuộn giấy bạc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b08b9ddae3325241.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-com-cuon-giay-bac-thom-ngon-don-gian-nhanh-chong-cho-07701",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-com-cuon-giay-bac-thom-ngon-don-gian-nhanh-chong-cho-07701",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cơm 1 tô",
+      "raw_name": "Cơm",
+      "quantity": 1,
+      "unit": "tô",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dừa nạo trắng 50 gr",
+      "raw_name": "Dừa nạo trắng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lạp xưởng 2 cây",
+      "raw_name": "Lạp xưởng",
+      "quantity": 2,
+      "unit": "cây",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chà bông 50 gr",
+      "raw_name": "Chà bông",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 1 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Giấy bạc 1 miếng",
+      "raw_name": "Giấy bạc 1 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:36:00Z",
+  "page_title": "Cách làm cơm cuộn giấy bạc thơm ngon đơn giản nhanh chóng cho cả nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookProduct/Cach-lam-com-cuon-giay-bac-thom-ngon-don-gian-nhanh-chong-cho-ca-nha-1-1200x676.jpg"
+}

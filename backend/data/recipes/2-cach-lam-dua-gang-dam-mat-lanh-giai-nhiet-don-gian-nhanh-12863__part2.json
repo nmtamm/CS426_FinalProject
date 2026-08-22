@@ -1,0 +1,61 @@
+{
+  "source_id": "12863",
+  "name": "Dưa gang dầm trân châu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5ab77329df3131d6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-dua-gang-dam-mat-lanh-giai-nhiet-don-gian-nhanh-12863",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-dua-gang-dam-mat-lanh-giai-nhiet-don-gian-nhanh-12863",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa gang 1.3 kg (dưa bở)",
+      "raw_name": "Dưa gang",
+      "quantity": 1.3,
+      "unit": "kg",
+      "note": "dưa bở",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trân châu 200 gr (trắng/đen)",
+      "raw_name": "Trân châu",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "trắng/đen",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sương sáo 100 gr",
+      "raw_name": "Sương sáo",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 1 bát",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "bát",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đá 1 ít",
+      "raw_name": "Đá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:22:09Z",
+  "page_title": "2 cách làm dưa gang dầm mát lạnh giải nhiệt đơn giản nhanh chóng",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/dua-gang-dam-tran-chau-thumbnail.jpg"
+}

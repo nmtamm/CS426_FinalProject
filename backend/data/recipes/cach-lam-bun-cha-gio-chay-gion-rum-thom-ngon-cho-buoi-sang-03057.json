@@ -1,0 +1,123 @@
+{
+  "source_id": "03057",
+  "name": "Bún chả giò chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3ab199bd5758047f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bun-cha-gio-chay-gion-rum-thom-ngon-cho-buoi-sang-03057",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bun-cha-gio-chay-gion-rum-thom-ngon-cho-buoi-sang-03057",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bún 300 gr",
+      "raw_name": "Bún",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bắp 1 trái",
+      "raw_name": "Bắp",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Củ cải đỏ 200 gr",
+      "raw_name": "Củ cải đỏ",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Khoai môn 200 gr",
+      "raw_name": "Khoai môn",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đậu xanh không vỏ 200 gr",
+      "raw_name": "Đậu xanh không vỏ",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đậu hũ trắng 2 miếng",
+      "raw_name": "Đậu hũ trắng 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bánh tráng bò bía 1 gói",
+      "raw_name": "Bánh tráng bò bía",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nấm mèo khô 50 gr",
+      "raw_name": "Nấm mèo khô",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dưa leo 2 trái (loại vừa)",
+      "raw_name": "Dưa leo",
+      "quantity": 2,
+      "unit": "trái",
+      "note": "loại vừa",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Rau thơm 1 ít",
+      "raw_name": "Rau thơm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Hành tím/tỏi 1 ít",
+      "raw_name": "Hành tím/tỏi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước tương 1 ít",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (tiêu/ hạt nêm chay/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "tiêu/ hạt nêm chay/ bột ngọt",
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T18:44:03Z",
+  "page_title": "Cách làm bún chả giò chay giòn rụm thơm ngon cho buổi sáng thanh đạm",
+  "original_image_url": "https://cdn.tgdd.vn/2022/10/CookRecipe/Avatar/bun-cha-gio-chay-thumbnail.jpg"
+}

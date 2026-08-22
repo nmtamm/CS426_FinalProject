@@ -1,0 +1,57 @@
+{
+  "source_id": "22777",
+  "name": "Kẹo chip chip với bột rau câu agar",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ff59677ede6b695d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-keo-chip-chip-cho-be-tai-nha-chi-voi-noi-inox-va-22777",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-keo-chip-chip-cho-be-tai-nha-chi-voi-noi-inox-va-22777",
+  "servings_text": "Cho 140 viên kẹo dẻo hình gấu",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dâu tây 150 gr",
+      "raw_name": "Dâu tây",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chất tạo ngọt 3 thìa canh (siro cây phong/ mật ong/ mật mía/...)",
+      "raw_name": "Chất tạo ngọt",
+      "quantity": 3,
+      "unit": "thìa canh",
+      "note": "siro cây phong/ mật ong/ mật mía/...",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Kombucha 240 gr",
+      "raw_name": "Kombucha",
+      "quantity": 240,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột rau câu giòn 19 gr (bột agar)",
+      "raw_name": "Bột rau câu giòn",
+      "quantity": 19,
+      "unit": "gr",
+      "note": "bột agar",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T18:58:06Z",
+  "page_title": "2 cách làm kẹo chip chip cho bé tại nhà chỉ với máy xay và khuôn silicone",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2025/05/CookRecipe/Avatar/keo-chip-chip-voi-bot-rau-cau-agar-agar-thumbnail-1.jpg"
+}

@@ -1,0 +1,119 @@
+{
+  "source_id": "22694",
+  "name": "Mì trộn đùi gà mắm tỏi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9c24aa43069a4566.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mi-tron-dui-ga-mam-toi-thom-nuc-mui-voi-chao-chien-22694",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mi-tron-dui-ga-mam-toi-thom-nuc-mui-voi-chao-chien-22694",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đùi gà 3 cái (hoặc má đùi gà)",
+      "raw_name": "Đùi gà",
+      "quantity": 3,
+      "unit": "cái",
+      "note": "hoặc má đùi gà",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mì 3 gói",
+      "raw_name": "Mì",
+      "quantity": 3,
+      "unit": "gói",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cải ngọt 100 gr",
+      "raw_name": "Cải ngọt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 1/2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi phi 10 gr",
+      "raw_name": "Tỏi phi",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước mắm 100 ml",
+      "raw_name": "Nước mắm",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tương ớt 30 gr",
+      "raw_name": "Tương ớt",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Mè rang 1 muỗng cà phê",
+      "raw_name": "Mè rang",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Mật ong 10 gr",
+      "raw_name": "Mật ong",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu mè 10 ml",
+      "raw_name": "Dầu mè",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gừng nhỏ 1 nhánh",
+      "raw_name": "Gừng nhỏ",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:06:47Z",
+  "page_title": "Cách làm mì trộn đùi gà mắm tỏi thơm nức mũi với chảo chiên ngập dầu",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/19032025%20%2871%29.jpg"
+}

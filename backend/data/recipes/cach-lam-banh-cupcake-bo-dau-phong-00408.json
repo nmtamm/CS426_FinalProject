@@ -1,0 +1,107 @@
+{
+  "source_id": "00408",
+  "name": "Bánh cupcake bơ đậu phộng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/11ad6b84a30243ac.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-cupcake-bo-dau-phong-00408",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-cupcake-bo-dau-phong-00408",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bơ mềm 1/2 chén",
+      "raw_name": "Bơ mềm",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 1/2 chén",
+      "raw_name": "Đường",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng 2 quả",
+      "raw_name": "Trứng",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chiết xuất vani 2 muỗng cà phê",
+      "raw_name": "Chiết xuất vani",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột mì đa dụng 1/2 chén",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột ca cao 1/2 chén",
+      "raw_name": "Bột ca cao",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Baking soda 1 muỗng cà phê",
+      "raw_name": "Baking soda",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 1/4 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Sữa tươi không đường 1/2 chén",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước cà phê ấm 1/2 chén",
+      "raw_name": "Nước cà phê ấm",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Kẹo sô cô la hoặc kẹo bơ đậu phộng mềm 20 gram (24 viên)",
+      "raw_name": "Kẹo sô cô la hoặc kẹo bơ đậu phộng mềm 20 gram",
+      "quantity": null,
+      "unit": null,
+      "note": "24 viên",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T20:24:31Z",
+  "page_title": "Cách làm bánh cupcake bơ đậu phộng béo thơm ngon miệng dễ làm",
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookProduct/Untitled-2-1200x676-12.jpg"
+}

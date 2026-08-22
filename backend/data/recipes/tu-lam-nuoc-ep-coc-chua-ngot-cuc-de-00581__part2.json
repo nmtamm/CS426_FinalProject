@@ -1,0 +1,57 @@
+{
+  "source_id": "00581",
+  "name": "Nước ép cóc sơ ri",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3639060009605e0e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/tu-lam-nuoc-ep-coc-chua-ngot-cuc-de-00581",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/tu-lam-nuoc-ep-coc-chua-ngot-cuc-de-00581",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cóc bao tử 100 gr",
+      "raw_name": "Cóc bao tử",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sơ ri 100 gr",
+      "raw_name": "Sơ ri",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 2 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:55:31Z",
+  "page_title": "7 Cách làm nước ép cóc bằng máy ép cực nhanh chóng tại nhà",
+  "variant_index": 2,
+  "variant_count": 7,
+  "original_image_url": "https://cdn.tgdd.vn/2022/05/CookRecipe/Avatar/nuoc-ep-coc-so-ri-thumbnail.jpg"
+}

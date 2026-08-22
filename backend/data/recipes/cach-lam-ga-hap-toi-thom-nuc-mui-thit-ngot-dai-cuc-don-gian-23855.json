@@ -1,0 +1,95 @@
+{
+  "source_id": "23855",
+  "name": "Gà hấp tỏi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/737d1f485b8f6f9b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-hap-toi-thom-nuc-mui-thit-ngot-dai-cuc-don-gian-23855",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-hap-toi-thom-nuc-mui-thit-ngot-dai-cuc-don-gian-23855",
+  "servings_text": "Cho 3 - 4 người ăn",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà ta 1 con (khoảng 1.5kg)",
+      "raw_name": "Gà ta 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 1.5kg",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tỏi 150 gr (bóc vỏ)",
+      "raw_name": "Tỏi",
+      "quantity": 150,
+      "unit": "gr",
+      "note": "bóc vỏ",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tím 3 củ",
+      "raw_name": "Hành tím",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá 5 nhánh (lấy phần gốc trắng)",
+      "raw_name": "Hành lá",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": "lấy phần gốc trắng",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt sừng 1 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước dừa tươi 1 bát (hoặc nước lọc)",
+      "raw_name": "Nước dừa tươi",
+      "quantity": 1,
+      "unit": "bát",
+      "note": "hoặc nước lọc",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (bột nêm/ đường/ bột ngọt/ muối/ nước mắm/ bột nghệ/ tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "bột nêm/ đường/ bột ngọt/ muối/ nước mắm/ bột nghệ/ tiêu",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị làm muối chấm 1 ít (muối hột/ ớt hiểm/ chanh)",
+      "raw_name": "Gia vị làm muối chấm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối hột/ ớt hiểm/ chanh",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:04:21Z",
+  "page_title": "Cách làm gà hấp tỏi thơm nức mũi, thịt ngọt dai cực đơn giản mà ai cũng mê",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20m%C3%B3n%20an%20t1%20%281200%20x%20676%20px%29%20%2821%29.jpg"
+}

@@ -1,0 +1,63 @@
+{
+  "source_id": "01491",
+  "name": "Trứng cuộn cây thông",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/471fdcfff9d9dc76.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-trung-cuon-cay-thong-giang-sinh-bat-mat-cuc-ngon-01491",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-trung-cuon-cay-thong-giang-sinh-bat-mat-cuc-ngon-01491",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt tôm 300 gr",
+      "raw_name": "Thịt tôm",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 1/2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng gà 3 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá 20 gr",
+      "raw_name": "Hành lá",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cải chân vịt 100 gr",
+      "raw_name": "Cải chân vịt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:44:46Z",
+  "page_title": "Cách làm trứng cuộn cây thông giáng sinh bắt mắt cực ngon mà dễ làm",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2019/11/26/1222278/-video-cach-lam-trung-cuon-cay-thong-giang-sinh-bat-mat-cuc-ngon-ma-de-lam-1-760x367.jpg"
+}

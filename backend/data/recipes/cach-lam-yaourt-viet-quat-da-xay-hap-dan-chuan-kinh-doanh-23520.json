@@ -1,0 +1,87 @@
+{
+  "source_id": "23520",
+  "name": "Yaourt việt quất",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6c77a9fd0b7f6e57.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-yaourt-viet-quat-da-xay-hap-dan-chuan-kinh-doanh-23520",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-yaourt-viet-quat-da-xay-hap-dan-chuan-kinh-doanh-23520",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sữa chua 1/2 hộp",
+      "raw_name": "Sữa chua",
+      "quantity": 0.5,
+      "unit": "hộp",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước lọc 15 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 15,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đặc 15 ml",
+      "raw_name": "Sữa đặc",
+      "quantity": 15,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa tươi 60 ml",
+      "raw_name": "Sữa tươi",
+      "quantity": 60,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sinh tố việt quất 40 ml",
+      "raw_name": "Sinh tố việt quất",
+      "quantity": 40,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Chanh 1 lát (khoảng 1/3 quả)",
+      "raw_name": "Chanh 1 lát",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 1/3 quả",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Kem tươi 1 ít (để trang trí)",
+      "raw_name": "Kem tươi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "để trang trí",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:54:55Z",
+  "page_title": "Cách làm yaourt việt quất đá xay hấp dẫn chuẩn kinh doanh",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/jhfjsahfas.jpg"
+}

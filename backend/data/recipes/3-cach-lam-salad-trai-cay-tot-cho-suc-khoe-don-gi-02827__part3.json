@@ -1,0 +1,85 @@
+{
+  "source_id": "02827",
+  "name": "Salad rau củ quả với phô mai feta",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b3f2b7494662a78f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-salad-trai-cay-tot-cho-suc-khoe-don-gi-02827",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-salad-trai-cay-tot-cho-suc-khoe-don-gi-02827",
+  "servings_text": "Cho 1 - 2 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa hấu 1/2 trái",
+      "raw_name": "Dưa hấu",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dưa gang 1/2 trái",
+      "raw_name": "Dưa gang",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đu đủ 1/2 trái",
+      "raw_name": "Đu đủ",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Phô mai Feta 10 gr",
+      "raw_name": "Phô mai Feta",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dưa chuột 1 trái",
+      "raw_name": "Dưa chuột",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt jalapano 1 trái",
+      "raw_name": "Ớt jalapano",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Lá bạc hà 10 gr",
+      "raw_name": "Lá bạc hà",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Chanh 1/2 trái",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:01:08Z",
+  "page_title": "4 cách làm salad trái cây tốt cho sức khỏe, đơn giản dễ làm",
+  "variant_index": 3,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/salad-rau-cu-qua-voi-pho-mai-feta-thumbnail.jpg"
+}

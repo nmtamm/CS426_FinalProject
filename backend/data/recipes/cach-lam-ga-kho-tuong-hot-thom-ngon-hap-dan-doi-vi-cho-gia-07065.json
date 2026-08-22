@@ -1,0 +1,103 @@
+{
+  "source_id": "07065",
+  "name": "Gà kho tương hột",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7c193782ae4dbbac.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-kho-tuong-hot-thom-ngon-hap-dan-doi-vi-cho-gia-07065",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-kho-tuong-hot-thom-ngon-hap-dan-doi-vi-cho-gia-07065",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-kho",
+      "name": "Món kho"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Má đùi gà 2 cái (đùi gà gốc tư)",
+      "raw_name": "Má đùi gà",
+      "quantity": 2,
+      "unit": "cái",
+      "note": "đùi gà gốc tư",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lòng gà 600 gr (200gr gan gà/ 200gr mề gà/ 200gr tim gà)",
+      "raw_name": "Lòng gà",
+      "quantity": 600,
+      "unit": "gr",
+      "note": "200gr gan gà/ 200gr mề gà/ 200gr tim gà",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tương hột 100 gr",
+      "raw_name": "Tương hột",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước dừa tươi 350 ml",
+      "raw_name": "Nước dừa tươi",
+      "quantity": 350,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước tương 2 muỗng canh (xì dầu)",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "xì dầu",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lá chanh 1 ít",
+      "raw_name": "Lá chanh",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi 5 tép",
+      "raw_name": "Tỏi 5 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành 3 củ",
+      "raw_name": "Hành",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/tiêu/đường/hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/tiêu/đường/hạt nêm",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:10:39Z",
+  "page_title": "Cách làm gà kho tương hột thơm ngon hấp dẫn, đổi vị cho gia đình",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/Gakhotuonghotthomngondamdahaocom-1200x676-1.jpg"
+}

@@ -1,0 +1,87 @@
+{
+  "source_id": "04104",
+  "name": "Cá nục nướng mỡ hành",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5f07ae5479ae1eb6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-nuc-nuong-mo-hanh-men-ngot-thom-lung-hap-dan-tai-04104",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-nuc-nuong-mo-hanh-men-ngot-thom-lung-hap-dan-tai-04104",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cá nục 3 con",
+      "raw_name": "Cá nục 3 con",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xà lách 100 gram",
+      "raw_name": "Xà lách 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rau thơm 100 gram (diếp cá; húng lũi; húng quế; ngò; tía tô;...)",
+      "raw_name": "Rau thơm 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": "diếp cá; húng lũi; húng quế; ngò; tía tô;...",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 200 gram",
+      "raw_name": "Cà rốt 200 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Xoài xanh 1 quả",
+      "raw_name": "Xoài xanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Táo xanh hoặc khế xanh 1 quả",
+      "raw_name": "Táo xanh hoặc khế xanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dưa leo 1 quả",
+      "raw_name": "Dưa leo",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Me 20 gram",
+      "raw_name": "Me 20 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:34:27Z",
+  "page_title": "Cách làm cá nục nướng mỡ hành  cuốn bánh tráng mềm ngọt, thơm lừng",
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookProduct/thumbcn-1200x676-3.jpg"
+}

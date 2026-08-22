@@ -1,0 +1,35 @@
+{
+  "source_id": "23517",
+  "name": "Rượu nấm lim xanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2d79506ed88fdac8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-ngam-ruou-nam-lim-xanh-dung-chuan-an-toan-de-duoc-lau-23517",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-ngam-ruou-nam-lim-xanh-dung-chuan-an-toan-de-duoc-lau-23517",
+  "servings_text": "Cho 1 kg nấm Lim Xanh khô",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nấm Lim Xanh khô 1 kg",
+      "raw_name": "Nấm Lim Xanh khô",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rượu trắng 5 lít (35 - 38 độ)",
+      "raw_name": "Rượu trắng 5 lít",
+      "quantity": null,
+      "unit": null,
+      "note": "35 - 38 độ",
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:47:42Z",
+  "page_title": "Cách ngâm rượu nấm lim xanh đúng chuẩn an toàn để được lâu",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/cach-ngam-ruou-nam-lim-xanh-dung-chuan-an-toan-de-duoc-lauii.jpg"
+}

@@ -1,0 +1,69 @@
+{
+  "source_id": "13879",
+  "name": "Mứt mơ ngào đường",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/25c321f5da4a17bd.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mut-mo-ngon-don-gian-ai-cung-lam-duoc-13879",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mut-mo-ngon-don-gian-ai-cung-lam-duoc-13879",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Quả mơ 500 gr",
+      "raw_name": "Quả mơ",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gừng 80 gr (cắt lát)",
+      "raw_name": "Gừng",
+      "quantity": 80,
+      "unit": "gr",
+      "note": "cắt lát",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước cốt chanh 2 muỗng cà phê",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước lạnh 500 ml",
+      "raw_name": "Nước lạnh",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường nâu 250 gr",
+      "raw_name": "Đường nâu",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:21:04Z",
+  "page_title": "2 cách làm mứt mơ ngon đơn giản ai cũng làm được",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/mut-mo-ngao-duong-thumbnail.jpg"
+}

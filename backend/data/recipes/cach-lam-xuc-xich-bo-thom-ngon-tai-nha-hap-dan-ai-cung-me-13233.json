@@ -1,0 +1,107 @@
+{
+  "source_id": "13233",
+  "name": "Xúc xích bò",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a01ee35dc79d742b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-xuc-xich-bo-thom-ngon-tai-nha-hap-dan-ai-cung-me-13233",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-xuc-xich-bo-thom-ngon-tai-nha-hap-dan-ai-cung-me-13233",
+  "servings_text": "Cho 10 cây xúc xích",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt ức bò 2.268 kg",
+      "raw_name": "Thịt ức bò",
+      "quantity": 2.268,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước dùng bò 100 ml",
+      "raw_name": "Nước dùng bò",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lòng heo non 2.6 kg",
+      "raw_name": "Lòng heo non",
+      "quantity": 2.6,
+      "unit": "kg",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột tỏi 2 muỗng canh",
+      "raw_name": "Bột tỏi",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột mù tạt 1 muỗng canh",
+      "raw_name": "Bột mù tạt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột ớt paprika 2 muỗng cà phê",
+      "raw_name": "Bột ớt paprika",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột ớt cayenne 2 muỗng cà phê",
+      "raw_name": "Bột ớt cayenne",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột nghệ 1 muỗng cà phê",
+      "raw_name": "Bột nghệ",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột sữa 3 muỗng canh",
+      "raw_name": "Bột sữa",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Muối 3 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Tiêu xay 2 muỗng cà phê",
+      "raw_name": "Tiêu xay",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:22:32Z",
+  "page_title": "Cách làm xúc xích bò dai ngon, đậm đà, hấp dẫn như nhà hàng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookProduct/1200-1200x676-34.jpg"
+}

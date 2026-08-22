@@ -1,0 +1,71 @@
+{
+  "source_id": "05761",
+  "name": "Pudding nhãn sữa đậu nành",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/93b6606bfa38f641.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-pudding-nhan-sua-dau-nanh-ngot-ngao-thom-mat-sieu-05761",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-pudding-nhan-sua-dau-nanh-ngot-ngao-thom-mat-sieu-05761",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sữa đậu nành 2 lít (không đường)",
+      "raw_name": "Sữa đậu nành 2 lít",
+      "quantity": null,
+      "unit": null,
+      "note": "không đường",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột rau câu agar 3 thìa cà phê (10gr)",
+      "raw_name": "Bột rau câu agar",
+      "quantity": 3,
+      "unit": "thìa cà phê",
+      "note": "10gr",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 180 gr",
+      "raw_name": "Đường",
+      "quantity": 180,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nhãn 300 gr (tách hạt)",
+      "raw_name": "Nhãn",
+      "quantity": 300,
+      "unit": "gr",
+      "note": "tách hạt",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lá dứa 1 ít",
+      "raw_name": "Lá dứa",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột bắp 3 thìa cà phê",
+      "raw_name": "Bột bắp",
+      "quantity": 3,
+      "unit": "thìa cà phê",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:09:36Z",
+  "page_title": "Cách làm pudding nhãn sữa đậu nành ngọt ngào thơm mát siêu đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookProduct/Longan-Soya-Milk-Pudding-龙眼豆奶布丁-5-0-screenshot-1200x675.jpg"
+}

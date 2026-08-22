@@ -1,0 +1,83 @@
+{
+  "source_id": "11429",
+  "name": "Hột vịt lộn chiên nước mắm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c9e40e969135e239.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-hot-vit-lon-chien-nuoc-mam-ngon-dam-da-cuc-hap-dan-11429",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-hot-vit-lon-chien-nuoc-mam-ngon-dam-da-cuc-hap-dan-11429",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hột vịt lộn 3 quả",
+      "raw_name": "Hột vịt lộn",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột chiên giòn 50 gr",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 1 muỗng cà phê (băm nhuyễn)",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "băm nhuyễn",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt 1 muỗng cà phê (băm nhuyễn)",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "băm nhuyễn",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành lá 2 nhánh (cắt nhỏ)",
+      "raw_name": "Hành lá",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": "cắt nhỏ",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 300 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:00:16Z",
+  "page_title": "Cách làm hột vịt lộn chiên nước mắm ngon đậm đà cực hấp dẫn",
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookProduct/hotvitlonchiennuocmam-1200x676.jpg"
+}

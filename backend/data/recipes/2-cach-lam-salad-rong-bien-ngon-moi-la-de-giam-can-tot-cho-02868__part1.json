@@ -1,0 +1,101 @@
+{
+  "source_id": "02868",
+  "name": "Salad rong biển chay giàu dinh dưỡng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/809b9f95c2e7406b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-salad-rong-bien-ngon-moi-la-de-giam-can-tot-cho-02868",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-salad-rong-bien-ngon-moi-la-de-giam-can-tot-cho-02868",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rong biển khô 15 g",
+      "raw_name": "Rong biển khô",
+      "quantity": 15,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xà lách frise 100 g",
+      "raw_name": "Xà lách frise",
+      "quantity": 100,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Xà lách lolo tím 100 g",
+      "raw_name": "Xà lách lolo tím",
+      "quantity": 100,
+      "unit": "g",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Khoai lang 100 g",
+      "raw_name": "Khoai lang",
+      "quantity": 100,
+      "unit": "g",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cam vàng 1 trái",
+      "raw_name": "Cam vàng",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường cát trắng 20 g",
+      "raw_name": "Đường cát trắng",
+      "quantity": 20,
+      "unit": "g",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Mè đen 2 g",
+      "raw_name": "Mè đen",
+      "quantity": 2,
+      "unit": "g",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước tương 40 ml",
+      "raw_name": "Nước tương",
+      "quantity": 40,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Giấm táo 10 ml",
+      "raw_name": "Giấm táo",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu mè 20 ml",
+      "raw_name": "Dầu mè",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T17:56:59Z",
+  "page_title": "2 cách làm salad rong biển ngon, mới lạ, để giảm cân tốt cho sức khỏe",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/06/CookRecipe/Avatar/salad-rong-bien-chay-giau-dinh-duong-thumbnail.jpg"
+}

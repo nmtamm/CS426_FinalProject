@@ -1,0 +1,63 @@
+{
+  "source_id": "12454",
+  "name": "Cổ gà chiên nước mắm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/510f74028b6551a3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-co-ga-chien-nuoc-mam-thom-lung-ngon-mieng-dam-da-de-12454",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-co-ga-chien-nuoc-mam-thom-lung-ngon-mieng-dam-da-de-12454",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cổ gà 5 cái",
+      "raw_name": "Cổ gà",
+      "quantity": 5,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước mắm 1.5 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 1 tép",
+      "raw_name": "Tỏi 1 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1 muỗng canh (để khử mùi hôi của cổ gà)",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "để khử mùi hôi của cổ gà",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 200 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T18:18:26Z",
+  "page_title": "Cách làm cổ gà chiên nước mắm thơm lừng ngon miệng đậm đà dễ làm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/thumga1200-1200x676.jpg"
+}

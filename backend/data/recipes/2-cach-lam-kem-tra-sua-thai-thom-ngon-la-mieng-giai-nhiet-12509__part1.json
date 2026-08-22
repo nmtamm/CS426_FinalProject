@@ -1,0 +1,65 @@
+{
+  "source_id": "12509",
+  "name": "Kem trà sữa thái",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1c41bdcdc9e13583.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-kem-tra-sua-thai-thom-ngon-la-mieng-giai-nhiet-12509",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-kem-tra-sua-thai-thom-ngon-la-mieng-giai-nhiet-12509",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    },
+    {
+      "slug": "mon-kem",
+      "name": "Món kem"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà Thái đỏ 2 muỗng canh",
+      "raw_name": "Trà Thái đỏ",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trà đen 1 muỗng canh",
+      "raw_name": "Trà đen",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Heavy cream 360 ml (hoặc whipping cream)",
+      "raw_name": "Heavy cream",
+      "quantity": 360,
+      "unit": "ml",
+      "note": "hoặc whipping cream",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa đặc không đường 90 ml",
+      "raw_name": "Sữa đặc không đường",
+      "quantity": 90,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:10:37Z",
+  "page_title": "2 cách làm kem trà sữa Thái thơm ngon lạ miệng giải nhiệt ngày nắng nóng",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/kem-tra-sua-thai-thumbnail-1.jpg"
+}

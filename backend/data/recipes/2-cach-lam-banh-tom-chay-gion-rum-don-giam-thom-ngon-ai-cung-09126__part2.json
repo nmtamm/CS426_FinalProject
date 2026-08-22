@@ -1,0 +1,150 @@
+{
+  "source_id": "09126",
+  "name": "Bánh tôm chay khoai lang",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/78250ac0ba3c59e4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-tom-chay-gion-rum-don-giam-thom-ngon-ai-cung-09126",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-tom-chay-gion-rum-don-giam-thom-ngon-ai-cung-09126",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai lang 2 củ",
+      "raw_name": "Khoai lang",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm bào ngư 200 g",
+      "raw_name": "Nấm bào ngư",
+      "quantity": 200,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tàu hũ non 2 miếng",
+      "raw_name": "Tàu hũ non 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bún tàu 50 gr",
+      "raw_name": "Bún tàu",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột chiên giòn 150 g",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 150,
+      "unit": "g",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột gạo 30 g",
+      "raw_name": "Bột gạo",
+      "quantity": 30,
+      "unit": "g",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bánh tráng 1 ít",
+      "raw_name": "Bánh tráng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Giấm 100 ml",
+      "raw_name": "Giấm",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Ớt băm 1 ít",
+      "raw_name": "Ớt băm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Tỏi băm 1 ít",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Đường 5 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Nước mắm chay 4.5 muỗng canh",
+      "raw_name": "Nước mắm chay",
+      "quantity": 4.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Dầu ăn 100 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Màu thực phẩm 1 ít",
+      "raw_name": "Màu thực phẩm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T18:50:01Z",
+  "page_title": "2 cách làm bánh tôm chay giòn rụm đơn giản thơm ngon ai cũng mê",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": null,
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookRecipe/Avatar/banh-tom-chay-thumbnail-1.jpg"
+}

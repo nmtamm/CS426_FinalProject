@@ -1,0 +1,91 @@
+{
+  "source_id": "09422",
+  "name": "Bánh flan váng sữa cà phê",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/38bff8169c8ff49d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-flan-vang-sua-ca-phe-khong-trung-don-gian-thom-09422",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-flan-vang-sua-ca-phe-khong-trung-don-gian-thom-09422",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sữa tươi 600 ml",
+      "raw_name": "Sữa tươi",
+      "quantity": 600,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước dừa 300 ml",
+      "raw_name": "Nước dừa",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bơ lạt 45 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 45,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà phê 1 muỗng cà phê",
+      "raw_name": "Cà phê",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tinh bột bắp 47 gr",
+      "raw_name": "Tinh bột bắp",
+      "quantity": 47,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 80 gr",
+      "raw_name": "Đường",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường vani 8 gr (1 gói)",
+      "raw_name": "Đường vani",
+      "quantity": 8,
+      "unit": "gr",
+      "note": "1 gói",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hạt 1 ít (hạt dẻ cười/hạnh nhân/óc chó...)",
+      "raw_name": "Hạt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hạt dẻ cười/hạnh nhân/óc chó...",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T20:22:30Z",
+  "page_title": "Cách làm bánh flan váng sữa cà phê không trứng đơn giản thơm béo",
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookProduct/t-1200x676-8.jpg"
+}

@@ -1,0 +1,65 @@
+{
+  "source_id": "02306",
+  "name": "Khoai tây chiên xù bọc xúc xích",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/abfcae7ac86ef12c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-khoai-tay-chien-xu-boc-xuc-xich-va-trung-cut-02306",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-khoai-tay-chien-xu-boc-xuc-xich-va-trung-cut-02306",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai tây 400 gr",
+      "raw_name": "Khoai tây",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xúc xích 200 gr",
+      "raw_name": "Xúc xích",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột chiên giòn 100 gr",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột chiên xù 200 gr",
+      "raw_name": "Bột chiên xù",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:10:50Z",
+  "page_title": "2 cách làm khoai tây chiên xù bọc xúc xích và trứng cút giòn rụm khó cưỡng",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/khoai-tay-chien-xu-boc-xuc-xich-thumbnail.jpg"
+}

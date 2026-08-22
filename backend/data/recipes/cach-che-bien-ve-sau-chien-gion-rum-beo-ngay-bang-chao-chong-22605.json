@@ -1,0 +1,103 @@
+{
+  "source_id": "22605",
+  "name": "Ve sầu chiên giòn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7302ffd95940eec6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-che-bien-ve-sau-chien-gion-rum-beo-ngay-bang-chao-chong-22605",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-che-bien-ve-sau-chien-gion-rum-beo-ngay-bang-chao-chong-22605",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ve sầu 200 gr",
+      "raw_name": "Ve sầu",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lá chanh 1 ít",
+      "raw_name": "Lá chanh",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tím 5 củ",
+      "raw_name": "Hành tím",
+      "quantity": 5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lá lốt 1 ít (để cuốn)",
+      "raw_name": "Lá lốt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "để cuốn",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lá cóc non 1 ít (để cuốn)",
+      "raw_name": "Lá cóc non",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "để cuốn",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt 1 ít",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước mắm 3 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường 1 ít",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Ớt bột 1 ít",
+      "raw_name": "Ớt bột",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:58:41Z",
+  "page_title": "Cách chế biến ve sầu chiên giòn rụm béo ngậy bằng chảo chống dính",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/ve-sau-chien-gion.jpg"
+}

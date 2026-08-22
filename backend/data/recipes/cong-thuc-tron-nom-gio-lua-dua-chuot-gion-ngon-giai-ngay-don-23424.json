@@ -1,0 +1,67 @@
+{
+  "source_id": "23424",
+  "name": "Nộm giò lụa dưa chuột",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9979f70463975b33.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cong-thuc-tron-nom-gio-lua-dua-chuot-gion-ngon-giai-ngay-don-23424",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cong-thuc-tron-nom-gio-lua-dua-chuot-gion-ngon-giai-ngay-don-23424",
+  "servings_text": "Cho 2 - 3 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chả lụa 200 gr (giò lụa)",
+      "raw_name": "Chả lụa",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "giò lụa",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dưa leo 2 trái",
+      "raw_name": "Dưa leo",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tắc 4 trái",
+      "raw_name": "Tắc",
+      "quantity": 4,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ngò rí 1 ít",
+      "raw_name": "Ngò rí",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/nước mắm/tương ớt/tỏi/ớt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/nước mắm/tương ớt/tỏi/ớt",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T17:51:31Z",
+  "page_title": "Công thức trộn nộm giò lụa dưa chuột giòn ngon giải ngấy, đơn giản tại nhà",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20m%C3%B3n%20an%20t11%20%281200%20x%20676%20px%29%20%284%29.jpg"
+}

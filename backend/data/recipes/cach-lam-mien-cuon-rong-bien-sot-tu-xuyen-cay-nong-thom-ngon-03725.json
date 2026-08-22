@@ -1,0 +1,87 @@
+{
+  "source_id": "03725",
+  "name": "Miến cuộn rong biển sốt Tứ Xuyên",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/248f37c5024e848a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mien-cuon-rong-bien-sot-tu-xuyen-cay-nong-thom-ngon-03725",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mien-cuon-rong-bien-sot-tu-xuyen-cay-nong-thom-ngon-03725",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Miến Trung Quốc 300 g",
+      "raw_name": "Miến Trung Quốc",
+      "quantity": 300,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước sốt cay Tứ Xuyên 150 g",
+      "raw_name": "Nước sốt cay Tứ Xuyên",
+      "quantity": 150,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi băm 1 thìa canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành boa rô băm 2 thìa canh",
+      "raw_name": "Hành boa rô băm",
+      "quantity": 2,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước 1/2 cốc",
+      "raw_name": "Nước 1/2 cốc",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước bột chiên giòn 200 gr (gồm bột chiên giòn 200g và nước 320ml)",
+      "raw_name": "Nước bột chiên giòn",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "gồm bột chiên giòn 200g và nước 320ml",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Lá rong biển 5 lá",
+      "raw_name": "Lá rong biển",
+      "quantity": 5,
+      "unit": "lá",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Xúc xích 5 cái",
+      "raw_name": "Xúc xích",
+      "quantity": 5,
+      "unit": "cái",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:26:08Z",
+  "page_title": "Cách làm miến cuộn rong biển sốt Tứ Xuyên cay nồng thơm ngon lạ miệng",
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookProduct/Untitled-2-1200x676-25.jpg"
+}

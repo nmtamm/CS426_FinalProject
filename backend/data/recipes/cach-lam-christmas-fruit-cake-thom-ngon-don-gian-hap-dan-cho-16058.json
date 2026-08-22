@@ -1,0 +1,163 @@
+{
+  "source_id": "16058",
+  "name": "Chrismas fruit cake",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/441f0c22e5daa971.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-christmas-fruit-cake-thom-ngon-don-gian-hap-dan-cho-16058",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-christmas-fruit-cake-thom-ngon-don-gian-hap-dan-cho-16058",
+  "servings_text": "Cho 6 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cake flour 228 gr",
+      "raw_name": "Cake flour",
+      "quantity": 228,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hạt chà là khô 100 gr",
+      "raw_name": "Hạt chà là khô",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Việt quất khô 200 gr",
+      "raw_name": "Việt quất khô",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hạt hồ đào 75 gr",
+      "raw_name": "Hạt hồ đào",
+      "quantity": 75,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nho khô 200 gr",
+      "raw_name": "Nho khô",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Mận khô 200 gr",
+      "raw_name": "Mận khô",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Mứt mơ 15 gr",
+      "raw_name": "Mứt mơ",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Rượu Rum 180 ml",
+      "raw_name": "Rượu Rum",
+      "quantity": 180,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Trứng 3 quả",
+      "raw_name": "Trứng",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Chanh 1 trái",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Cam 1 trái",
+      "raw_name": "Cam",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Bơ lạt 226 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 226,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Bột gia vị Allspice 5 gr (bột gia vị Jamaica)",
+      "raw_name": "Bột gia vị Allspice",
+      "quantity": 5,
+      "unit": "gr",
+      "note": "bột gia vị Jamaica",
+      "display_order": 13
+    },
+    {
+      "raw_text": "Bột quế 5 gr",
+      "raw_name": "Bột quế",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Bột nở 5 gr",
+      "raw_name": "Bột nở",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Mollasses 45 gr (mật mía)",
+      "raw_name": "Mollasses",
+      "quantity": 45,
+      "unit": "gr",
+      "note": "mật mía",
+      "display_order": 16
+    },
+    {
+      "raw_text": "Đường nâu 100 gr",
+      "raw_name": "Đường nâu",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 17
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 18
+    }
+  ],
+  "scraped_at": "2026-08-19T19:39:43Z",
+  "page_title": "Cách làm christmas fruit cake thơm ngon, đơn giản hấp dẫn cho Giáng Sinh",
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookDish/cach-lam-chrismas-fruit-cake-thuom-ngon-don-gain-hap-dan-cho-avt-1200x676.jpg"
+}

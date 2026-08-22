@@ -1,0 +1,53 @@
+{
+  "source_id": "04703",
+  "name": "Trà hoa hồng táo đỏ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a3d80047a4d93f58.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/4-cach-pha-tra-hoa-hong-dung-cach-tot-cho-suc-khoe-04703",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/4-cach-pha-tra-hoa-hong-dung-cach-tot-cho-suc-khoe-04703",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bông hồng khô 2 cái",
+      "raw_name": "Bông hồng khô",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Táo đỏ 50 gr",
+      "raw_name": "Táo đỏ",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trà củ sen 20 gr",
+      "raw_name": "Trà củ sen",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước nóng 300 ml",
+      "raw_name": "Nước nóng",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:03:40Z",
+  "page_title": "4 cách pha trà hoa hồng đúng cách tốt cho sức khỏe chị em phụ nữ",
+  "variant_index": 3,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/tra-hoa-hong-tao-do-thumbnail.jpg"
+}

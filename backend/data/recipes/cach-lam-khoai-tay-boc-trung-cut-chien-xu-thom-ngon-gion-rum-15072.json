@@ -1,0 +1,91 @@
+{
+  "source_id": "15072",
+  "name": "Khoai tây bọc trứng cút chiên xù",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9168b7b77dae9ab6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-khoai-tay-boc-trung-cut-chien-xu-thom-ngon-gion-rum-15072",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-khoai-tay-boc-trung-cut-chien-xu-thom-ngon-gion-rum-15072",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai tây 700 gr",
+      "raw_name": "Khoai tây",
+      "quantity": 700,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng cút 10 quả",
+      "raw_name": "Trứng cút",
+      "quantity": 10,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột chiên giòn 100 gr",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột chiên xù 100 gr",
+      "raw_name": "Bột chiên xù",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột mì 50 gr",
+      "raw_name": "Bột mì",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 4 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tương ớt 1 ít",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường/ Muối 1 ít",
+      "raw_name": "Đường/ Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:18:07Z",
+  "page_title": "Cách làm khoai tây bọc trứng cút chiên xù thơm ngon giòn rụm ngay tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookDish/cach-lam-khoai-tay-boc-trung-cut-chien-xu-thom-ngon-gion-rum-avt-1200x677.jpg"
+}

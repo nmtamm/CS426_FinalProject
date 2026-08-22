@@ -1,0 +1,117 @@
+{
+  "source_id": "09662",
+  "name": "Bánh đa trộn cay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9f6fe664c4e397c8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-banh-da-tron-thom-ngon-la-mieng-doi-vi-cho-bua-an-09662",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-banh-da-tron-thom-ngon-la-mieng-doi-vi-cho-bua-an-09662",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh đa khô 100 gr",
+      "raw_name": "Bánh đa khô",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt bò 100 gr (cắt mỏng)",
+      "raw_name": "Thịt bò",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "cắt mỏng",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng gà 1 quả (có thể thay bằng trứng vịt)",
+      "raw_name": "Trứng gà",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "có thể thay bằng trứng vịt",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Thơm 1/4 trái (dứa)",
+      "raw_name": "Thơm",
+      "quantity": 0.25,
+      "unit": "trái",
+      "note": "dứa",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sả 1 cây",
+      "raw_name": "Sả",
+      "quantity": 1,
+      "unit": "cây",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt băm 1 muỗng cà phê",
+      "raw_name": "Ớt băm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Sa tế 2 muỗng canh",
+      "raw_name": "Sa tế",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành tím 5 củ",
+      "raw_name": "Hành tím",
+      "quantity": 5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước tương 2 muỗng canh (xì dầu)",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "xì dầu",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Húng láng/ rau mùi 1 ít",
+      "raw_name": "Húng láng/ rau mùi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu điều 1 muỗng canh",
+      "raw_name": "Dầu điều",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T20:35:48Z",
+  "page_title": "3 cách làm bánh đa trộn thơm ngon, lạ miệng đổi vị cho bữa ăn gia đình",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookRecipe/Avatar/banh-da-tron-cay-thumbnail.jpg"
+}

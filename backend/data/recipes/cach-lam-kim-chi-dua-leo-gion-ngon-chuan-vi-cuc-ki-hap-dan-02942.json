@@ -1,0 +1,115 @@
+{
+  "source_id": "02942",
+  "name": "Kim chi dưa leo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3467675c8571f556.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kim-chi-dua-leo-gion-ngon-chuan-vi-cuc-ki-hap-dan-02942",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kim-chi-dua-leo-gion-ngon-chuan-vi-cuc-ki-hap-dan-02942",
+  "servings_text": "Cho 4 người ăn",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa leo 900 gr",
+      "raw_name": "Dưa leo",
+      "quantity": 900,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 1 củ (khoảng 85gr)",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "khoảng 85gr",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tây 1/2 củ (khoảng 60gr)",
+      "raw_name": "Hành tây",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": "khoảng 60gr",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá 8 nhánh (hoặc hẹ)",
+      "raw_name": "Hành lá",
+      "quantity": 8,
+      "unit": "nhánh",
+      "note": "hoặc hẹ",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt bột Hàn Quốc 7 thìa canh",
+      "raw_name": "Ớt bột Hàn Quốc",
+      "quantity": 7,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Mè trắng 1 thìa canh (vừng)",
+      "raw_name": "Mè trắng",
+      "quantity": 1,
+      "unit": "thìa canh",
+      "note": "vừng",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường 1.5 thìa canh",
+      "raw_name": "Đường",
+      "quantity": 1.5,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước mắm 2.5 thìa canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2.5,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Baking soda 1 thìa canh",
+      "raw_name": "Baking soda",
+      "quantity": 1,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Muối 3.5 thìa canh",
+      "raw_name": "Muối",
+      "quantity": 3.5,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:02:20Z",
+  "page_title": "Cách làm kim chi dưa leo giòn ngon chuẩn vị cực kì hấp dẫn cho bữa cơm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookProduct/Untitled-14-1200x676.jpg"
+}

@@ -1,0 +1,119 @@
+{
+  "source_id": "24305",
+  "name": "Tempura rau củ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/54974a6ecf82da6c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tempura-rau-cu-gion-rum-thom-ngon-chuan-vi-nhat-ban-24305",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tempura-rau-cu-gion-rum-thom-ngon-chuan-vi-nhat-ban-24305",
+  "servings_text": "Cho 2 - 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì đa dụng 120 gr (để lạnh)",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 120,
+      "unit": "gr",
+      "note": "để lạnh",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng gà lớn 1 quả (khoảng 50gr không tính vỏ - để lạnh)",
+      "raw_name": "Trứng gà lớn",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "khoảng 50gr không tính vỏ - để lạnh",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước đá lạnh 200 ml",
+      "raw_name": "Nước đá lạnh",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Khoai lang Nhật 1 củ",
+      "raw_name": "Khoai lang Nhật",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bí ngô baby 1/4 quả",
+      "raw_name": "Bí ngô baby",
+      "quantity": 0.25,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ngó sen 1 ít (đoạn 5cm - đã gọt vỏ và luộc sơ)",
+      "raw_name": "Ngó sen",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đoạn 5cm - đã gọt vỏ và luộc sơ",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nấm đùi gà 2 cây",
+      "raw_name": "Nấm đùi gà",
+      "quantity": 2,
+      "unit": "cây",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Cà tím nhỏ 1 quả",
+      "raw_name": "Cà tím nhỏ",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tía tô Nhật 4 lá",
+      "raw_name": "Tía tô Nhật",
+      "quantity": 4,
+      "unit": "lá",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước dùng dashi 180 ml",
+      "raw_name": "Nước dùng dashi",
+      "quantity": 180,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Rượu mirin 2 muỗng canh",
+      "raw_name": "Rượu mirin",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Đường/ nước tương/ dầu ăn)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Đường/ nước tương/ dầu ăn",
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:34:20Z",
+  "page_title": "Cách làm tempura rau củ giòn rụm thơm ngon chuẩn vị Nhật Bản tại nhà cực dễ",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t04%201200676%20%2821%29.jpg"
+}

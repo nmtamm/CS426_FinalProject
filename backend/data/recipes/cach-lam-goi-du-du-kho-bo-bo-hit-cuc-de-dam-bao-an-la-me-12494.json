@@ -1,0 +1,83 @@
+{
+  "source_id": "12494",
+  "name": "Gỏi đu đủ khô bò (bò hít)",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/402d2ddb9ffb2ecf.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-du-du-kho-bo-bo-hit-cuc-de-dam-bao-an-la-me-12494",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-du-du-kho-bo-bo-hit-cuc-de-dam-bao-an-la-me-12494",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đu đủ xanh 1/2 quả",
+      "raw_name": "Đu đủ xanh",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt bò khô 100 gr",
+      "raw_name": "Thịt bò khô",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rau răm 5 nhánh",
+      "raw_name": "Rau răm",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đậu phộng rang 50 gr",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt sa tế 1 muỗng canh",
+      "raw_name": "Ớt sa tế",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước cốt chanh 3 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước mắm 3 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường 4 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T17:52:05Z",
+  "page_title": "Cách làm gỏi đu đủ khô bò (bò hít) cực dễ, đảm bảo ăn là mê",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/1200-1200x676-41.jpg"
+}

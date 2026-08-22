@@ -1,0 +1,65 @@
+{
+  "source_id": "01263",
+  "name": "Sữa chua nha đam",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a5ba454614541f05.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-chua-nha-dam-giai-nhiet-ngay-nong-cho-ca-nha-01263",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-chua-nha-dam-giai-nhiet-ngay-nong-cho-ca-nha-01263",
+  "servings_text": "Cho 4 - 5 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nha đam 6 nhánh (khoảng 300gr)",
+      "raw_name": "Nha đam",
+      "quantity": 6,
+      "unit": "nhánh",
+      "note": "khoảng 300gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa chua 1 hộp (100gr)",
+      "raw_name": "Sữa chua",
+      "quantity": 1,
+      "unit": "hộp",
+      "note": "100gr",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa tươi có đường 220 ml",
+      "raw_name": "Sữa tươi có đường",
+      "quantity": 220,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa đặc 1/2 hộp (190gr)",
+      "raw_name": "Sữa đặc",
+      "quantity": 0.5,
+      "unit": "hộp",
+      "note": "190gr",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:18:06Z",
+  "page_title": "2 Cách làm sữa chua nha đam giải nhiệt ngày nóng đơn giản tại nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/sua-chua-nha-dam-thumbnail.jpg"
+}

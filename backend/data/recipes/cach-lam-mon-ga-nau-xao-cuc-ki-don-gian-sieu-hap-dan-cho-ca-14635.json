@@ -1,0 +1,95 @@
+{
+  "source_id": "14635",
+  "name": "Gà nấu xáo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bd914cccb705d112.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-ga-nau-xao-cuc-ki-don-gian-sieu-hap-dan-cho-ca-14635",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-ga-nau-xao-cuc-ki-don-gian-sieu-hap-dan-cho-ca-14635",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-kho",
+      "name": "Món kho"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt gà 500 gr",
+      "raw_name": "Thịt gà",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lá chanh 10 lá",
+      "raw_name": "Lá chanh",
+      "quantity": 10,
+      "unit": "lá",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tăm 100 gr (củ nén)",
+      "raw_name": "Hành tăm",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "củ nén",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng 3 củ",
+      "raw_name": "Gừng",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột nghệ 1 muỗng cà phê",
+      "raw_name": "Bột nghệ",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt nhỏ 4 trái",
+      "raw_name": "Ớt nhỏ",
+      "quantity": 4,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:12:05Z",
+  "page_title": "Cách làm món gà nấu xáo cực kì đơn giản, siêu hấp dẫn cho cả nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-mon-ga-nau-xao-cuc-ki-don-gian-sieu-hap-dan-cho-ca-avt-1200x676.jpg"
+}

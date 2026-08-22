@@ -1,0 +1,77 @@
+{
+  "source_id": "08486",
+  "name": "Cocktail Pina Colada đá xay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9974328b711a588c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-cocktail-pina-colada-ngot-ngao-tuoi-mat-cho-ngay-08486",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-cocktail-pina-colada-ngot-ngao-tuoi-mat-cho-ngay-08486",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rượu rum 45 ml",
+      "raw_name": "Rượu rum",
+      "quantity": 45,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước ép dứa 90 ml",
+      "raw_name": "Nước ép dứa",
+      "quantity": 90,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước cốt dừa 30 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước cốt chanh 15 ml",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 15,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dứa 1 miếng (nhỏ)",
+      "raw_name": "Dứa 1 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": "nhỏ",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước đường 20 ml",
+      "raw_name": "Nước đường",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Sữa đặc có đường 15 ml",
+      "raw_name": "Sữa đặc có đường",
+      "quantity": 15,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:03:01Z",
+  "page_title": "2 cách làm Cocktail Pina Colada ngọt ngào tươi mát cho ngày nắng đẹp",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/cocktail-pina-colada-da-xay-thumbnail.jpg"
+}

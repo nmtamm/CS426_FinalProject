@@ -1,0 +1,111 @@
+{
+  "source_id": "04285",
+  "name": "Bánh táo thuần chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c112198e3e910903.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-tao-thuan-chay-don-gian-va-thom-ngon-khong-kem-04285",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-tao-thuan-chay-don-gian-va-thom-ngon-khong-kem-04285",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì 250 gr",
+      "raw_name": "Bột mì",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tinh bột bắp 40 gr",
+      "raw_name": "Tinh bột bắp",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột quế 25 gr",
+      "raw_name": "Bột quế",
+      "quantity": 25,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Táo xanh 7 trái",
+      "raw_name": "Táo xanh",
+      "quantity": 7,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Vỏ chanh bào 1 trái",
+      "raw_name": "Vỏ chanh bào",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu dừa 20 ml",
+      "raw_name": "Dầu dừa",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bơ lạt 125 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 125,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường bột 5 gr",
+      "raw_name": "Đường bột",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường 500 gr",
+      "raw_name": "Đường",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Muối 7 gr",
+      "raw_name": "Muối",
+      "quantity": 7,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước cốt chanh 5 ml",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 5,
+      "unit": "ml",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:39:49Z",
+  "page_title": "Cách làm bánh táo thuần chay đơn giản và thơm ngon không kém bản gốc",
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookProduct/1200-1200x676-16.jpg"
+}

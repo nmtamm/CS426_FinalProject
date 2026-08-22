@@ -1,0 +1,75 @@
+{
+  "source_id": "12868",
+  "name": "Trà sữa caramel",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3f10761b04a7c96d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-tra-sua-caramel-ngot-ngao-thom-ngon-uong-cuc-me-12868",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-tra-sua-caramel-ngot-ngao-thom-ngon-uong-cuc-me-12868",
+  "servings_text": "Cho 3 ly",
+  "topics": [
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà đen 8 gr",
+      "raw_name": "Trà đen",
+      "quantity": 8,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường đen 35 gr",
+      "raw_name": "Đường đen",
+      "quantity": 35,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gelatin lá 20 gr (khoảng 4 lá)",
+      "raw_name": "Gelatin lá",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "khoảng 4 lá",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa tươi không đường 400 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường trắng 30 gr",
+      "raw_name": "Đường trắng",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sốt caramel 1 ít",
+      "raw_name": "Sốt caramel",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Trân châu đen 1 ít",
+      "raw_name": "Trân châu đen",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:11:17Z",
+  "page_title": "Cách pha trà sữa caramel ngọt ngào, thơm ngon uống cực mê",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/1-1200x676-39.jpg"
+}

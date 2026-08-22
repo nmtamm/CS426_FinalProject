@@ -1,0 +1,71 @@
+{
+  "source_id": "00805",
+  "name": "Bánh Trung Thu tinh than tre nhân trà xanh trứng muối",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7f6280a34f5e1a00.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-tinh-than-tre-moi-la-00805",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-tinh-than-tre-moi-la-00805",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì đa dụng 300 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước đường bánh nướng 200 gr",
+      "raw_name": "Nước đường bánh nướng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột tinh than tre 10 gr",
+      "raw_name": "Bột tinh than tre",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 50 gr",
+      "raw_name": "Dầu ăn",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nhân trà xanh 200 gr (sên sẵn)",
+      "raw_name": "Nhân trà xanh",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "sên sẵn",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lòng đỏ trứng muối 10 cái",
+      "raw_name": "Lòng đỏ trứng muối",
+      "quantity": 10,
+      "unit": "cái",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:45:15Z",
+  "page_title": "Cách làm bánh Trung Thu tinh than tre nhân trà xanh trứng muối độc đáo",
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookProduct/47-1200x676-1.jpg"
+}

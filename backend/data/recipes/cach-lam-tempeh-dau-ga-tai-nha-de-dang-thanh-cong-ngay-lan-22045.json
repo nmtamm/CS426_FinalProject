@@ -1,0 +1,35 @@
+{
+  "source_id": "22045",
+  "name": "Tempeh đậu gà",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/595b23085713e5fc.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tempeh-dau-ga-tai-nha-de-dang-thanh-cong-ngay-lan-22045",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tempeh-dau-ga-tai-nha-de-dang-thanh-cong-ngay-lan-22045",
+  "servings_text": "Cho 2 cái",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu gà 400 gr (khô)",
+      "raw_name": "Đậu gà",
+      "quantity": 400,
+      "unit": "gr",
+      "note": "khô",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Men ủ tempeh 1 muỗng cà phê (3 - 5gr)",
+      "raw_name": "Men ủ tempeh",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "3 - 5gr",
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T18:37:59Z",
+  "page_title": "Cách làm tempeh đậu gà tại nhà dễ dàng thành công ngay lần đầu",
+  "original_image_url": "https://cdn.tgdd.vn/2024/08/CookDish/cach-lam-tempeh-dau-ga-tai-nha-de-dang-thanh-cong-ngay-lan-avt-1200x676-1.jpg"
+}

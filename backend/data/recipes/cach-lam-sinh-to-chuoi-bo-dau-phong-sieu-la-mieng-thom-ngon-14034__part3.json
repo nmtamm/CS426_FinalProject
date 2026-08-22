@@ -1,0 +1,61 @@
+{
+  "source_id": "14034",
+  "name": "Sinh tố chuối bơ đậu phộng cà phê",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d40dea2789634eee.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sinh-to-chuoi-bo-dau-phong-sieu-la-mieng-thom-ngon-14034",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sinh-to-chuoi-bo-dau-phong-sieu-la-mieng-thom-ngon-14034",
+  "servings_text": "Cho 2 ly",
+  "topics": [
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chuối 1 quả",
+      "raw_name": "Chuối",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa hạnh nhân 200 ml",
+      "raw_name": "Sữa hạnh nhân",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột cà phê 1 muỗng cà phê",
+      "raw_name": "Bột cà phê",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Siro lá phong 1 muỗng cà phê (hoặc mật ong)",
+      "raw_name": "Siro lá phong",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "hoặc mật ong",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bơ đậu phộng 2 muỗng canh",
+      "raw_name": "Bơ đậu phộng",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:08:32Z",
+  "page_title": "5 cách làm sinh tố chuối bơ đậu phộng siêu lạ miệng thơm ngon béo ngậy",
+  "variant_index": 3,
+  "variant_count": 5,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/sinh-to-chuoi-bo-dau-phong-ca-phe-thumbnail-1.jpg"
+}

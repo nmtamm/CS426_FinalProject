@@ -1,0 +1,77 @@
+{
+  "source_id": "02829",
+  "name": "Xá xíu chay từ sườn non chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/89ee0ebbe98334cf.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-xa-xiu-chay-thom-ngon-hap-dan-vo-cung-don-02829",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-xa-xiu-chay-thom-ngon-hap-dan-vo-cung-don-02829",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sườn non chay 3 miếng",
+      "raw_name": "Sườn non chay 3 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước dừa 50 ml",
+      "raw_name": "Nước dừa",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sa tế 1 muỗng cà phê",
+      "raw_name": "Sa tế",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước ướp xá xíu 1 muỗng cà phê",
+      "raw_name": "Nước ướp xá xíu",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường/ hạt nêm 1 ít",
+      "raw_name": "Đường/ hạt nêm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:47:49Z",
+  "page_title": "2 cách làm xá xíu chay thơm ngon hấp dẫn đơn giản ai cũng làm được",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/xa-xiu-chay-tu-nam-dui-ga-va-mi-can-thumbnail-1.jpg"
+}

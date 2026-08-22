@@ -1,0 +1,53 @@
+{
+  "source_id": "01000",
+  "name": "Mủ trôm sương sáo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/04adfdd11f4ca2e0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-nuoc-mat-mu-trom-thanh-nhiet-giai-doc-ngay-he-01000",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-nuoc-mat-mu-trom-thanh-nhiet-giai-doc-ngay-he-01000",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mủ trôm 30 gr",
+      "raw_name": "Mủ trôm",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột rau câu sương sáo 50 gr",
+      "raw_name": "Bột rau câu sương sáo",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hạt é 30 gr",
+      "raw_name": "Hạt é",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường phèn 300 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:00:37Z",
+  "page_title": "5 cách nấu nước mủ trôm thanh mát giải nhiệt cho ngày hè nóng bức",
+  "variant_index": 3,
+  "variant_count": 5,
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookRecipe/Avatar/mu-trom-suong-sao-thumbnail.jpg"
+}

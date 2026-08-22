@@ -1,0 +1,69 @@
+{
+  "source_id": "01811",
+  "name": "Sữa óc chó đậu đen hạt điều",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/69fe5d2f2a0f9bf3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-oc-cho-nguyen-vo-va-sua-oc-cho-dau-den-01811",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-oc-cho-nguyen-vo-va-sua-oc-cho-dau-den-01811",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu đen 30 gr",
+      "raw_name": "Đậu đen",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nhân hạt óc chó 30 gr (10 miếng)",
+      "raw_name": "Nhân hạt óc chó",
+      "quantity": 30,
+      "unit": "gr",
+      "note": "10 miếng",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hạt điều 10 gr",
+      "raw_name": "Hạt điều",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối hồng 1/3 muỗng cà phê",
+      "raw_name": "Muối hồng",
+      "quantity": 0.333,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường ăn kiêng 2 muỗng canh",
+      "raw_name": "Đường ăn kiêng",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước lọc 1.2 lít",
+      "raw_name": "Nước lọc 1.2 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:04:15Z",
+  "page_title": "4 cách làm sữa óc chó đậu đen béo bùi thơm ngon bổ dưỡng cho cả nhà",
+  "variant_index": 3,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/sua-oc-cho-dau-den-hat-dieu-thumbnail.jpg"
+}

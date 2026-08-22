@@ -1,0 +1,54 @@
+{
+  "source_id": "01303",
+  "name": "Cháo yến mạch dâu tây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/08fcfea771e11c0d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/-cach-lam-bua-an-sang-tu-trai-cay-it-calo-tot-cho-suc-khoe-01303",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/-cach-lam-bua-an-sang-tu-trai-cay-it-calo-tot-cho-suc-khoe-01303",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Yến mạch 3 muỗng canh",
+      "raw_name": "Yến mạch",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dâu tây 10 quả (tùy sở thích của bạn có thể thay đổi táo; chuối; nho; kiwi;..)",
+      "raw_name": "Dâu tây",
+      "quantity": 10,
+      "unit": "quả",
+      "note": "tùy sở thích của bạn có thể thay đổi táo; chuối; nho; kiwi;..",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước 200 ml (tuỳ loại yến mạch và tuỳ sở thích điều chỉnh độ đặc loãng của cháo)",
+      "raw_name": "Nước",
+      "quantity": 200,
+      "unit": "ml",
+      "note": "tuỳ loại yến mạch và tuỳ sở thích điều chỉnh độ đặc loãng của cháo",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa tươi không đường 200 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:24:14Z",
+  "page_title": "4 cách làm bữa ăn sáng từ trái cây ít calo, tốt cho sức khỏe",
+  "variant_index": 4,
+  "variant_count": 4,
+  "note": null,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/chao-yen-mach-trai-cay-thumbnail.jpg"
+}

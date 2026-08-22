@@ -1,0 +1,51 @@
+{
+  "source_id": "23224",
+  "name": "Yến chưng saffron",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1c2d55cef175f0ee.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-yen-chung-saffron-don-gian-giu-tron-duong-chat-de-23224",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-yen-chung-saffron-don-gian-giu-tron-duong-chat-de-23224",
+  "servings_text": "Cho 1 - 2 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Yến khô 7 gr",
+      "raw_name": "Yến khô",
+      "quantity": 7,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Saffron 1 ít (4 - 5 sợi)",
+      "raw_name": "Saffron",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "4 - 5 sợi",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường phèn 3 muỗng cà phê (gia giảm tùy khẩu vị)",
+      "raw_name": "Đường phèn",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": "gia giảm tùy khẩu vị",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng tươi 4 lát",
+      "raw_name": "Gừng tươi 4 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:14:32Z",
+  "page_title": "Cách làm yến chưng saffron đơn giản, giữ trọn dưỡng chất để bồi bổ cả nhà",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20thumb%20to%20t8%20-%202025-09-18T175300.059.jpg"
+}

@@ -1,0 +1,75 @@
+{
+  "source_id": "24473",
+  "name": "Thịt kho trám xanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/164aeb074cf7e233.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-kho-tram-xanh-thom-ngon-bui-beo-cuc-hao-com-cho-24473",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-kho-tram-xanh-thom-ngon-bui-beo-cuc-hao-com-cho-24473",
+  "servings_text": "Cho 3 - 4 người ăn",
+  "topics": [
+    {
+      "slug": "mon-kho",
+      "name": "Món kho"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt ba chỉ 700 gr",
+      "raw_name": "Thịt ba chỉ",
+      "quantity": 700,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trám xanh 200 gr (trám trắng)",
+      "raw_name": "Trám xanh",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "trám trắng",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành khô 3 củ",
+      "raw_name": "Hành khô",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mỡ lợn 1 thìa canh (hoặc dầu ăn)",
+      "raw_name": "Mỡ lợn",
+      "quantity": 1,
+      "unit": "thìa canh",
+      "note": "hoặc dầu ăn",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước màu đường 1 thìa canh",
+      "raw_name": "Nước màu đường",
+      "quantity": 1,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt tươi 1 ít",
+      "raw_name": "Ớt tươi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (bột nêm/ đường/ nước mắm/ hạt tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "bột nêm/ đường/ nước mắm/ hạt tiêu",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T16:53:35Z",
+  "page_title": "Cách làm thịt kho trám xanh thơm ngon bùi béo cực hao cơm cho cả gia đình",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t05%201200676%20%2841%29.jpg"
+}

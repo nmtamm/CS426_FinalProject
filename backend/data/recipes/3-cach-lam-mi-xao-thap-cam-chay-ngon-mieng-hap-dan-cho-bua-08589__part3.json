@@ -1,0 +1,77 @@
+{
+  "source_id": "08589",
+  "name": "Mì xào thập cẩm rau củ đậu hũ chiên",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/28903c44eeb1b102.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-mi-xao-thap-cam-chay-ngon-mieng-hap-dan-cho-bua-08589",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-mi-xao-thap-cam-chay-ngon-mieng-hap-dan-cho-bua-08589",
+  "servings_text": "Cho 3 người ăn",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mì trứng 450 gram",
+      "raw_name": "Mì trứng 450 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cải thảo 300 gram",
+      "raw_name": "Cải thảo 300 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cải ngọt 300 gram",
+      "raw_name": "Cải ngọt 300 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt chuông 1 quả",
+      "raw_name": "Ớt chuông",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đậu hũ chiên 2 miếng",
+      "raw_name": "Đậu hũ chiên 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị 1 ít (nước tương/dầu hào chay/hạt nêm chay/đường vàng/tương ớt/dầu mè thơm/tiêu xay)",
+      "raw_name": "Gia vị",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "nước tương/dầu hào chay/hạt nêm chay/đường vàng/tương ớt/dầu mè thơm/tiêu xay",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:37:14Z",
+  "page_title": "3 cách làm mì xào thập cẩm chay ngon miệng hấp dẫn cho bữa chay phong phú",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2023/07/CookRecipe/Avatar/mi-xao-thap-cam-rau-cu-dau-hu-chien-thumbnail.jpg"
+}

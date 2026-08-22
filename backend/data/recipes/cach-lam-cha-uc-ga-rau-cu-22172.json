@@ -1,0 +1,75 @@
+{
+  "source_id": "22172",
+  "name": "Chả ức gà rau củ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/06ae360eb03437d5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-uc-ga-rau-cu-22172",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-uc-ga-rau-cu-22172",
+  "servings_text": "Cho 12 miếng chả",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ức gà 500 gr",
+      "raw_name": "Ức gà",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bắp ngọt 1 trái (bắp Mỹ)",
+      "raw_name": "Bắp ngọt",
+      "quantity": 1,
+      "unit": "trái",
+      "note": "bắp Mỹ",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá/hành tím 1 ít",
+      "raw_name": "Hành lá/hành tím",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hạt tiêu 1 muỗng cà phê",
+      "raw_name": "Hạt tiêu",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hạt nêm 1 muỗng canh",
+      "raw_name": "Hạt nêm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu hào 2 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:07:36Z",
+  "page_title": "Cách làm chả ức gà rau củ healthy vừa ngon miệng, vừa để giảm cân hiệu quả",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/mua%20may%20lam%20sua%20hat%20o%20dau%20tai%20long%20an%20%2810%29.jpg"
+}

@@ -1,0 +1,69 @@
+{
+  "source_id": "01242",
+  "name": "Mứt khoai môn ngào đường",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9828db48f2490d7f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-khoai-mon-deo-don-gian-dip-tet-ngon-01242",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-khoai-mon-deo-don-gian-dip-tet-ngon-01242",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai môn 1 kg",
+      "raw_name": "Khoai môn",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chanh 1 quả",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước vo gạo 1 lít",
+      "raw_name": "Nước vo gạo 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Vani 1 ít",
+      "raw_name": "Vani",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 375 gr",
+      "raw_name": "Đường",
+      "quantity": 375,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:39:28Z",
+  "page_title": "3 cách làm mứt khoai môn ngon dẻo đơn giản như ngoài hàng cho dịp Tết",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2022/01/CookRecipe/Avatar/mut-khoai-mon-caramen-thumbnail-2.jpg"
+}

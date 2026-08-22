@@ -1,0 +1,87 @@
+{
+  "source_id": "08846",
+  "name": "Sò lông xào tỏi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5de4a5c6f9f1b723.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-so-long-xao-toi-thom-ngon-hap-dan-chieu-dai-gia-dinh-08846",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-so-long-xao-toi-thom-ngon-hap-dan-chieu-dai-gia-dinh-08846",
+  "servings_text": "Cho 4 người ăn",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sò lông 1 kg",
+      "raw_name": "Sò lông",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sả 2 cây",
+      "raw_name": "Sả",
+      "quantity": 2,
+      "unit": "cây",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rau răm 100 gr",
+      "raw_name": "Rau răm",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi băm 2 muỗng cà phê",
+      "raw_name": "Tỏi băm",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng cà phê",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu hào 2 muỗng cà phê",
+      "raw_name": "Dầu hào",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ đường/ hạt nêm/ bột ngọt/ tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ đường/ hạt nêm/ bột ngọt/ tiêu",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:01:35Z",
+  "page_title": "Cách làm sò lông xào tỏi thơm ngon, hấp dẫn chiêu đãi gia đình",
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookProduct/1-1200x676-37.jpg"
+}

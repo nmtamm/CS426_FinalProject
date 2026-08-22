@@ -1,0 +1,49 @@
+{
+  "source_id": "14701",
+  "name": "Nước ép cần tây cà rốt gừng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f5b26d68a269154d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-can-tay-ca-rot-bang-may-ep-dep-da-bo-duong-14701",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-can-tay-ca-rot-bang-may-ep-dep-da-bo-duong-14701",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cần tây 200 gr",
+      "raw_name": "Cần tây",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 300 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gừng 50 gr (khoảng 1 củ vừa)",
+      "raw_name": "Gừng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "khoảng 1 củ vừa",
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:50:04Z",
+  "page_title": "3 cách làm nước ép cần tây cà rốt bằng máy ép đẹp da bổ dưỡng đơn giản",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/nuoc-ep-can-tay-ca-rot-gung-thumbnail.jpg"
+}

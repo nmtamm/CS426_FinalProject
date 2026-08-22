@@ -1,0 +1,27 @@
+{
+  "source_id": "07835",
+  "name": "Bột hành",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f15d8ca2aa06651b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bot-hanh-gia-vi-nem-nem-cho-mon-an-thom-ngon-sieu-de-07835",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bot-hanh-gia-vi-nem-nem-cho-mon-an-thom-ngon-sieu-de-07835",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hành tím 500 gr",
+      "raw_name": "Hành tím",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    }
+  ],
+  "scraped_at": "2026-08-19T19:21:51Z",
+  "page_title": "Cách làm bột hành gia vị nêm nếm cho món ăn thơm ngon siêu dễ tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/maxresdefault(1)-1200x675.jpg"
+}

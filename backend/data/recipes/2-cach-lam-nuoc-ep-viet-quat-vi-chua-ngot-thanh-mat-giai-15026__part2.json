@@ -1,0 +1,53 @@
+{
+  "source_id": "15026",
+  "name": "Nước ép việt quất dâu tây mâm xôi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5f011fb7e7da6168.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-ep-viet-quat-vi-chua-ngot-thanh-mat-giai-15026",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-ep-viet-quat-vi-chua-ngot-thanh-mat-giai-15026",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Việt quất 200 gr",
+      "raw_name": "Việt quất",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dâu tây 200 gr",
+      "raw_name": "Dâu tây",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Quả mâm xôi đỏ 200 gr",
+      "raw_name": "Quả mâm xôi đỏ",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:12:08Z",
+  "page_title": "2 cách làm nước ép việt quất vị chua ngọt thanh mát giải nhiệt ngày nắng",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/nuoc-ep-viet-quat-dau-tay-mam-xoi-thumbnail-1.jpg"
+}

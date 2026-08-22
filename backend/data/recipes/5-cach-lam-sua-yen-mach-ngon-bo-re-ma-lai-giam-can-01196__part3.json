@@ -1,0 +1,37 @@
+{
+  "source_id": "01196",
+  "name": "Sữa yến mạch khoai lang",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/14c9af6c9fe28345.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/5-cach-lam-sua-yen-mach-ngon-bo-re-ma-lai-giam-can-01196",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/5-cach-lam-sua-yen-mach-ngon-bo-re-ma-lai-giam-can-01196",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Yến mạch 20 g",
+      "raw_name": "Yến mạch",
+      "quantity": 20,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Khoai lang vàng hoặc tím 1 củ",
+      "raw_name": "Khoai lang vàng hoặc tím",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:58:31Z",
+  "page_title": "6 Cách làm sữa yến mạch ngon bổ rẻ mà lại giảm cân các mẹ nên biết",
+  "variant_index": 3,
+  "variant_count": 6,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/sua-yen-mach-khoai-lang-thumbnail.jpg"
+}

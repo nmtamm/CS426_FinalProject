@@ -1,0 +1,141 @@
+{
+  "source_id": "13481",
+  "name": "Kimbap chay thịt bò gạo lứt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d54dafa4ca1610b3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-kimbap-chay-thanh-dam-thom-ngon-don-gian-tai-nha-13481",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-kimbap-chay-thanh-dam-thom-ngon-don-gian-tai-nha-13481",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cơm gạo lứt 3 chén",
+      "raw_name": "Cơm gạo lứt",
+      "quantity": 3,
+      "unit": "chén",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 2 củ (củ nhỏ)",
+      "raw_name": "Cà rốt",
+      "quantity": 2,
+      "unit": "củ",
+      "note": "củ nhỏ",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dưa leo 1 trái",
+      "raw_name": "Dưa leo",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cải bó xôi 100 gr",
+      "raw_name": "Cải bó xôi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lá rong biển 3 miếng",
+      "raw_name": "Lá rong biển 3 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rau diếp 1 ít",
+      "raw_name": "Rau diếp",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi băm 2 tép",
+      "raw_name": "Tỏi băm 2 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bò lát chay 100 gr",
+      "raw_name": "Bò lát chay",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tàu hũ ky 100 gr",
+      "raw_name": "Tàu hũ ky",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Mè trắng rang 3 muỗng canh",
+      "raw_name": "Mè trắng rang",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước tương nấm 2 muỗng canh",
+      "raw_name": "Nước tương nấm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước tương 1 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu mè 3 muỗng cà phê",
+      "raw_name": "Dầu mè",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Dầu ăn 10 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 10,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T18:35:25Z",
+  "page_title": "3 cách làm kimbap chay thanh đạm thơm ngon đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/kimbap-chay-thit-bo-gao-lut-thumbnail.jpg"
+}

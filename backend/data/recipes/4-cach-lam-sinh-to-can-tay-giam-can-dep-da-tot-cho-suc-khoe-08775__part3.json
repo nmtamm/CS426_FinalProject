@@ -1,0 +1,57 @@
+{
+  "source_id": "08775",
+  "name": "Sinh tố cần tây táo xanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/838dd243914a4cdd.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-sinh-to-can-tay-giam-can-dep-da-tot-cho-suc-khoe-08775",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-sinh-to-can-tay-giam-can-dep-da-tot-cho-suc-khoe-08775",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cần tây 2 nhánh",
+      "raw_name": "Cần tây",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Táo xanh 2 trái",
+      "raw_name": "Táo xanh",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gừng 1/2 củ",
+      "raw_name": "Gừng",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước ép táo 300 ml (hoặc nước lọc)",
+      "raw_name": "Nước ép táo",
+      "quantity": 300,
+      "unit": "ml",
+      "note": "hoặc nước lọc",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:48:46Z",
+  "page_title": "4 cách làm sinh tố cần tây giảm cân, đẹp da, tốt cho sức khỏe",
+  "variant_index": 3,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookRecipe/Avatar/sinh-to-can-tay-tao-xanh-thumbnail.jpg"
+}

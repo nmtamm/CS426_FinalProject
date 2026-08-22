@@ -1,0 +1,83 @@
+{
+  "source_id": "18972",
+  "name": "Nấm rơm rim me",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6e64d8e3f5837b14.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nam-rom-rim-me-thom-ngon-dam-vi-cho-bua-chay-18972",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nam-rom-rim-me-thom-ngon-dam-vi-cho-bua-chay-18972",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nấm rơm 200 gram",
+      "raw_name": "Nấm rơm 200 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Me 50 gram",
+      "raw_name": "Me 50 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành Poaro 1 muỗng canh",
+      "raw_name": "Hành Poaro",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt bằm 1 muỗng canh",
+      "raw_name": "Ớt bằm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước mắm chay 10 ml",
+      "raw_name": "Nước mắm chay",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường vàng 60 gram",
+      "raw_name": "Đường vàng 60 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gừng thái sợi 1 muỗng cà phê",
+      "raw_name": "Gừng thái sợi",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:47:24Z",
+  "page_title": "Cách làm nấm rơm rim me thơm ngon đậm vị cho bữa chay",
+  "original_image_url": "https://cdn.tgdd.vn/2023/03/CookDish/top-5-lo-chien-khong-dau-12l-noi-bat-ben-bi-ma-ban-khong-nen-avt-1200x676-1.jpg"
+}

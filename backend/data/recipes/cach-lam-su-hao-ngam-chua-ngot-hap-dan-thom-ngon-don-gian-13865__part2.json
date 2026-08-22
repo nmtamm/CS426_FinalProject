@@ -1,0 +1,78 @@
+{
+  "source_id": "13865",
+  "name": "Su hào ngâm chua ngọt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d416c45eec0bdc8e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-su-hao-ngam-chua-ngot-hap-dan-thom-ngon-don-gian-13865",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-su-hao-ngam-chua-ngot-hap-dan-thom-ngon-don-gian-13865",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Su hào 1 củ",
+      "raw_name": "Su hào",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt sừng 1 quả",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 4 tép",
+      "raw_name": "Tỏi 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dấm ăn 2 chén",
+      "raw_name": "Dấm ăn",
+      "quantity": 2,
+      "unit": "chén",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 1 chén",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối 2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:29:07Z",
+  "page_title": "2 Cách làm su hào ngâm chua ngọt hấp dẫn thơm ngon đơn giản",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "công thức được chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2022/04/CookRecipe/Avatar/su-hao-ngam-chua-ngot-cong-thuc-duoc-chia-se-tu-nguoi-dung-thumbnail-1.jpg"
+}

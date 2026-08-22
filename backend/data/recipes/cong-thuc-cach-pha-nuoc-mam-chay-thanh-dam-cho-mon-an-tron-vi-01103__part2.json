@@ -1,0 +1,61 @@
+{
+  "source_id": "01103",
+  "name": "Nước mắm chay từ dứa và nước Soda",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/80fc68d1e45836a8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cong-thuc-cach-pha-nuoc-mam-chay-thanh-dam-cho-mon-an-tron-vi-01103",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cong-thuc-cach-pha-nuoc-mam-chay-thanh-dam-cho-mon-an-tron-vi-01103",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dứa 100 gr (Thơm)",
+      "raw_name": "Dứa",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "Thơm",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Soda 330 ml",
+      "raw_name": "Soda",
+      "quantity": 330,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường cát 25 gr",
+      "raw_name": "Đường cát",
+      "quantity": 25,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước chao 1 muỗng cà phê",
+      "raw_name": "Nước chao",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ bột ngọt",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T18:44:49Z",
+  "page_title": "2 Cách nấu nước mắm chay thơm ngon đậm đà chấm gì cũng hợp",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookRecipe/Avatar/nuoc-mam-chay-tu-thom-va-nuoc-soda-thumbnail.jpg"
+}

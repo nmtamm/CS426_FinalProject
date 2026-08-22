@@ -1,0 +1,55 @@
+{
+  "source_id": "16665",
+  "name": "Bánh chưng chiên nước lọc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3a80f3e10a16fd61.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-chung-chien-nuoc-loc-khong-dau-mo-chong-ngan-16665",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-chung-chien-nuoc-loc-khong-dau-mo-chong-ngan-16665",
+  "servings_text": "Cho 1 cái",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh chưng 1/3 cái",
+      "raw_name": "Bánh chưng",
+      "quantity": 0.333,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước lọc 300 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dưa hành 1 ít (ăn kèm)",
+      "raw_name": "Dưa hành",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "ăn kèm",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tương ớt 1 ít (ăn kèm)",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "ăn kèm",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:15:55Z",
+  "page_title": "Cách làm bánh chưng chiên nước lọc không dầu mỡ, chống ngán ngấy",
+  "original_image_url": "https://cdn.tgdd.vn/2022/02/CookRecipe/Avatar/banh-chung-chien-nuoc-loc-thumbnail.jpg"
+}

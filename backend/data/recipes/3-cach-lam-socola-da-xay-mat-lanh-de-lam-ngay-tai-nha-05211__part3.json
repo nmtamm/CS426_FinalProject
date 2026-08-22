@@ -1,0 +1,53 @@
+{
+  "source_id": "05211",
+  "name": "Socola đá xay việt quất",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2c4213a828cf8a36.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-socola-da-xay-mat-lanh-de-lam-ngay-tai-nha-05211",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-socola-da-xay-mat-lanh-de-lam-ngay-tai-nha-05211",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sữa tươi 300 ml",
+      "raw_name": "Sữa tươi",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Kem socola 1 muỗng canh",
+      "raw_name": "Kem socola",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Việt quất 60 gr",
+      "raw_name": "Việt quất",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Socola đen 30 g",
+      "raw_name": "Socola đen",
+      "quantity": 30,
+      "unit": "g",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:54:37Z",
+  "page_title": "3 cách làm socola đá xay mát lạnh, dễ làm ngay tại nhà",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookRecipe/Avatar/socola-da-xay-viet-quat-thumbnail-2.jpg"
+}

@@ -1,0 +1,75 @@
+{
+  "source_id": "13618",
+  "name": "Trứng cuộn khoai tây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/411c20caad7b490b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-trung-cuon-khoai-tay-thom-ngon-moi-la-cho-ca-nha-13618",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-trung-cuon-khoai-tay-thom-ngon-moi-la-cho-ca-nha-13618",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trứng gà 5 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rượu mirin 1 muỗng canh",
+      "raw_name": "Rượu mirin",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bánh khoai tây nghiền 1 cái",
+      "raw_name": "Bánh khoai tây nghiền",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Phô mai 2 lát",
+      "raw_name": "Phô mai 2 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bắp cải thái sợi 40 gr",
+      "raw_name": "Bắp cải thái sợi",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 1 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:37:12Z",
+  "page_title": "Cách làm trứng cuộn khoai tây thơm ngon, mới lạ cho cả nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-trung-cuon-khoai-tay-thom-ngon-moi-la-cho-ca-nha-avt-1200x676-1.jpg"
+}

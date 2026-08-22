@@ -1,0 +1,69 @@
+{
+  "source_id": "14170",
+  "name": "Thạch sắn dây nấu chè",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/54bade4a7cce9b5b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-thach-san-day-nau-che-an-trang-mieng-thom-ngon-don-14170",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-thach-san-day-nau-che-an-trang-mieng-thom-ngon-don-14170",
+  "servings_text": "Cho 6 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột sắn dây 75 gr",
+      "raw_name": "Bột sắn dây",
+      "quantity": 75,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột trà xanh 1 muỗng cà phê",
+      "raw_name": "Bột trà xanh",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột củ dền 1 muỗng cà phê",
+      "raw_name": "Bột củ dền",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột hoa đậu biếc 1 muỗng cà phê",
+      "raw_name": "Bột hoa đậu biếc",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 3 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước 375 ml",
+      "raw_name": "Nước",
+      "quantity": 375,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:19:15Z",
+  "page_title": "2 cách làm thạch sắn dây nấu chè, ăn tráng miệng thơm ngon đơn giản",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/thach-san-day-nau-che-thumbnail-3.jpg"
+}

@@ -1,0 +1,65 @@
+{
+  "source_id": "01715",
+  "name": "Sinh tố dứa thanh long bạc hà",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5b18e225318a165c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/5-cach-lam-mon-sinh-to-thanh-long-ngon-bo-duong-tai-nha-01715",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/5-cach-lam-mon-sinh-to-thanh-long-ngon-bo-duong-tai-nha-01715",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thanh long 100 gam",
+      "raw_name": "Thanh long 100 gam",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dứa tươi 50 gam",
+      "raw_name": "Dứa tươi 50 gam",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá bạc hà 2 gam",
+      "raw_name": "Lá bạc hà 2 gam",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa chua không đường 30 ml",
+      "raw_name": "Sữa chua không đường",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường kính trắng 30 gam",
+      "raw_name": "Đường kính trắng 30 gam",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:56:14Z",
+  "page_title": "5 cách làm món sinh tố thanh long ngon, bổ dưỡng tại nhà",
+  "variant_index": 5,
+  "variant_count": 5,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/sinh-to-dua-thanh-long-bac-ha-thumbnail-3.jpg"
+}

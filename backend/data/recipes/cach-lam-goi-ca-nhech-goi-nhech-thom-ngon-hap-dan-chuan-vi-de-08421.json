@@ -1,0 +1,155 @@
+{
+  "source_id": "08421",
+  "name": "Gỏi cá nhệch (gỏi nhệch)",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/290f4c3ff58b4972.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-ca-nhech-goi-nhech-thom-ngon-hap-dan-chuan-vi-de-08421",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-ca-nhech-goi-nhech-thom-ngon-hap-dan-chuan-vi-de-08421",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cá nhệch 1.5 kg (khoảng 6 con)",
+      "raw_name": "Cá nhệch",
+      "quantity": 1.5,
+      "unit": "kg",
+      "note": "khoảng 6 con",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thính gạo rang 100 gr",
+      "raw_name": "Thính gạo rang",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Riềng 1 củ",
+      "raw_name": "Riềng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sả 5 nhánh",
+      "raw_name": "Sả",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tím 3 củ",
+      "raw_name": "Hành tím",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 4 tép",
+      "raw_name": "Tỏi 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt 3 trái",
+      "raw_name": "Ớt",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Cà chua 3 quả",
+      "raw_name": "Cà chua",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Lá chanh 10 lá",
+      "raw_name": "Lá chanh",
+      "quantity": 10,
+      "unit": "lá",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Lá ăn kèm 1 ít (Lá mơ/ lá lốt/ từ bi/ đinh lăng/...)",
+      "raw_name": "Lá ăn kèm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Lá mơ/ lá lốt/ từ bi/ đinh lăng/...",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Giấm 2 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Mắm tôm 1 ít",
+      "raw_name": "Mắm tôm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Mẻ 5 muỗng canh",
+      "raw_name": "Mẻ",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Dầu ăn 100 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Dầu điều 2 muỗng canh",
+      "raw_name": "Dầu điều",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ đường/ hạt nêm/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ đường/ hạt nêm/ bột ngọt",
+      "display_order": 17
+    }
+  ],
+  "scraped_at": "2026-08-19T18:00:20Z",
+  "page_title": "Cách làm gỏi cá nhệch (gỏi nhệch) thơm ngon hấp dẫn chuẩn vị dễ làm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/GoiNhech1200-1200x676.jpg"
+}

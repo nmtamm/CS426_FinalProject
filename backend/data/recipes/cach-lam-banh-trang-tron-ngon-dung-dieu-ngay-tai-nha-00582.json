@@ -1,0 +1,131 @@
+{
+  "source_id": "00582",
+  "name": "Bánh tráng trộn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5fc2e9d0e37706b0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trang-tron-ngon-dung-dieu-ngay-tai-nha-00582",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trang-tron-ngon-dung-dieu-ngay-tai-nha-00582",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh tráng 100 g",
+      "raw_name": "Bánh tráng",
+      "quantity": 100,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xoài xanh 1 quả",
+      "raw_name": "Xoài xanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng cút 10 quả",
+      "raw_name": "Trứng cút",
+      "quantity": 10,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Quất 2 trái (tắc hay hạnh)",
+      "raw_name": "Quất",
+      "quantity": 2,
+      "unit": "trái",
+      "note": "tắc hay hạnh",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tím 1 củ",
+      "raw_name": "Hành tím",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đậu phộng 1 muỗng canh",
+      "raw_name": "Đậu phộng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tép rang 1 muỗng canh",
+      "raw_name": "Tép rang",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành phi 1 ít",
+      "raw_name": "Hành phi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối tôm 1 muỗng canh",
+      "raw_name": "Muối tôm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Sa tế 1 muỗng canh",
+      "raw_name": "Sa tế",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Khô bò xé sợi 40 gr (mực)",
+      "raw_name": "Khô bò xé sợi",
+      "quantity": 40,
+      "unit": "gr",
+      "note": "mực",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Khô bò đen 2 muỗng canh",
+      "raw_name": "Khô bò đen",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước bò đen 2 muỗng canh",
+      "raw_name": "Nước bò đen",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Dầu ăn 100 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T19:04:00Z",
+  "page_title": "Cách làm bánh tráng trộn thơm ngon, hấp dẫn và đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookProduct/Untitled-2-1200x676-6.jpg"
+}

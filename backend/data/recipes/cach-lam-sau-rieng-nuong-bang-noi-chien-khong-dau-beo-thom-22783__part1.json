@@ -1,0 +1,29 @@
+{
+  "source_id": "22783",
+  "name": "Sầu riêng nướng bằng nồi chiên không dầu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/63272a91eedc14e4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sau-rieng-nuong-bang-noi-chien-khong-dau-beo-thom-22783",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sau-rieng-nuong-bang-noi-chien-khong-dau-beo-thom-22783",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sầu riêng chín 1 quả",
+      "raw_name": "Sầu riêng chín",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    }
+  ],
+  "scraped_at": "2026-08-19T18:58:03Z",
+  "page_title": "Cách làm sầu riêng nướng, sầu riêng nướng phô mai bằng nồi chiên không dầu",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2025/05/CookRecipe/Avatar/sau-rieng-nuong-bang-noi-chien-khong-dau-thumbnail.jpg"
+}

@@ -1,0 +1,82 @@
+{
+  "source_id": "01838",
+  "name": "Sinh tố protein đào xanh (Peaches and green protein smoothie)",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2fcba2798c21b0ca.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/10-loai-sinh-to-giau-protein-thom-ngon-don-gian-d-01838",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/10-loai-sinh-to-giau-protein-thom-ngon-don-gian-d-01838",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột protein hương vani 1 muỗng",
+      "raw_name": "Bột protein hương vani",
+      "quantity": 1,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa hạnh nhân không đường 120 ml (sữa tươi không đường)",
+      "raw_name": "Sữa hạnh nhân không đường",
+      "quantity": 120,
+      "unit": "ml",
+      "note": "sữa tươi không đường",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đào 1 trái (đông lạnh)",
+      "raw_name": "Đào",
+      "quantity": 1,
+      "unit": "trái",
+      "note": "đông lạnh",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chuối 1 trái (đông lạnh)",
+      "raw_name": "Chuối",
+      "quantity": 1,
+      "unit": "trái",
+      "note": "đông lạnh",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lá rau bina 200 gram",
+      "raw_name": "Lá rau bina 200 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hạt chia 1 muỗng cà phê",
+      "raw_name": "Hạt chia",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Mật ong 5 ml",
+      "raw_name": "Mật ong",
+      "quantity": 5,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:02:53Z",
+  "page_title": "10 loại sinh tố giàu Protein thơm ngon, đơn giản dành người tập Gym",
+  "variant_index": 4,
+  "variant_count": 10,
+  "note": null,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/sinh-to-protein-dao-xanh-peaches-and-green-protein-smoothie-thumbnail.jpg"
+}

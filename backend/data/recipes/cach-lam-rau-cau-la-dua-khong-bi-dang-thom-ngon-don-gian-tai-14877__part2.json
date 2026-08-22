@@ -1,0 +1,65 @@
+{
+  "source_id": "14877",
+  "name": "Rau câu lá dứa nước dừa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0ef9675d34e0a2bf.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-rau-cau-la-dua-khong-bi-dang-thom-ngon-don-gian-tai-14877",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-rau-cau-la-dua-khong-bi-dang-thom-ngon-don-gian-tai-14877",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột rau câu dẻo 1 gói (25gr)",
+      "raw_name": "Bột rau câu dẻo",
+      "quantity": 1,
+      "unit": "gói",
+      "note": "25gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lá dứa 6 lá",
+      "raw_name": "Lá dứa",
+      "quantity": 6,
+      "unit": "lá",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 200 gr",
+      "raw_name": "Đường",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước dừa tươi 400 ml",
+      "raw_name": "Nước dừa tươi",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước lọc 1.2 lít",
+      "raw_name": "Nước lọc 1.2 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T18:55:39Z",
+  "page_title": "2 Cách làm rau câu lá dứa không bị đắng, thơm ngon, đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/rau-cau-la-dua-nuoc-dua-thumbnail.jpg"
+}

@@ -1,0 +1,75 @@
+{
+  "source_id": "13134",
+  "name": "Sữa tươi chiên vị trà xanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/993ede40e153dd8a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-tuoi-chien-vi-tra-xanh-beo-ngon-hap-dan-de-lam-13134",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-tuoi-chien-vi-tra-xanh-beo-ngon-hap-dan-de-lam-13134",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sữa tươi không đường 220 ml (1 bịch)",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 220,
+      "unit": "ml",
+      "note": "1 bịch",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột matcha 7 gr",
+      "raw_name": "Bột matcha",
+      "quantity": 7,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột chiên xù 100 gr",
+      "raw_name": "Bột chiên xù",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột bắp 50 gr",
+      "raw_name": "Bột bắp",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột mì 100 gr",
+      "raw_name": "Bột mì",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 500 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 40 gr",
+      "raw_name": "Đường",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:19:16Z",
+  "page_title": "Cách làm sữa tươi chiên vị trà xanh béo ngon hấp dẫn dễ làm tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookProduct/1200-1200x676-10.jpg"
+}

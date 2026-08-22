@@ -1,0 +1,85 @@
+{
+  "source_id": "12552",
+  "name": "Trà sữa socola chuối",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b64c275081cd355e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-sua-socola-dam-vi-thom-ngon-cuc-don-gian-tai-12552",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-sua-socola-dam-vi-thom-ngon-cuc-don-gian-tai-12552",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà đen 10 gr",
+      "raw_name": "Trà đen",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước nóng 200 ml",
+      "raw_name": "Nước nóng",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột sữa 20 gr",
+      "raw_name": "Bột sữa",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột socola 10 gr",
+      "raw_name": "Bột socola",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sốt chuối 30 ml",
+      "raw_name": "Sốt chuối",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường nước 25 ml",
+      "raw_name": "Đường nước",
+      "quantity": 25,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Trân châu 1 ít",
+      "raw_name": "Trân châu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đá 1 ít",
+      "raw_name": "Đá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:10:31Z",
+  "page_title": "6 cách làm trà sữa socola tại nhà đậm vị thơm ngon cực đơn giản",
+  "variant_index": 6,
+  "variant_count": 6,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/tra-sua-socola-chuoi-thumbnail.jpg"
+}

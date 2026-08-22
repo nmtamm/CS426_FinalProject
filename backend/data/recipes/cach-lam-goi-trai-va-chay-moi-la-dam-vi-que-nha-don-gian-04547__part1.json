@@ -1,0 +1,109 @@
+{
+  "source_id": "04547",
+  "name": "Gỏi trái vả chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ecbe682b1c810760.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-trai-va-chay-moi-la-dam-vi-que-nha-don-gian-04547",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-trai-va-chay-moi-la-dam-vi-que-nha-don-gian-04547",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Vả 3 trái",
+      "raw_name": "Vả",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tàu hủ ky 1 miếng",
+      "raw_name": "Tàu hủ ky 1 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nấm bào ngư 100 gr",
+      "raw_name": "Nấm bào ngư",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rau húng 50 gr",
+      "raw_name": "Rau húng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt 2 quả",
+      "raw_name": "Ớt",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Mè rang 1 muỗng canh",
+      "raw_name": "Mè rang",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đậu phộng rang 2 muỗng canh",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường 1 chén",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước mắm chay 1 chén",
+      "raw_name": "Nước mắm chay",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Muối 2 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Canh dầu ăn 1 chén",
+      "raw_name": "Canh dầu ăn",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:42:03Z",
+  "page_title": "2 cách làm gỏi trái vải chay mới lạ đậm vị quê nhà đơn giản",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/goi-trai-va-chay-thumbnail.jpg"
+}

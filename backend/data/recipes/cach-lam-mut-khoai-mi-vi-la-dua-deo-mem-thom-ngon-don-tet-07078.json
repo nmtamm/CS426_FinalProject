@@ -1,0 +1,67 @@
+{
+  "source_id": "07078",
+  "name": "Mứt khoai mì vị lá dứa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b76f8f403d5e94bd.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-khoai-mi-vi-la-dua-deo-mem-thom-ngon-don-tet-07078",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-khoai-mi-vi-la-dua-deo-mem-thom-ngon-don-tet-07078",
+  "servings_text": "Cho 200gr mứt",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai mì nhỏ 3 củ",
+      "raw_name": "Khoai mì nhỏ",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước vôi trong 1 ít",
+      "raw_name": "Nước vôi trong",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Phèn chua 3 gr",
+      "raw_name": "Phèn chua",
+      "quantity": 3,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hương dứa 1 ít (khoảng 3 đến 5 giọt)",
+      "raw_name": "Hương dứa",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "khoảng 3 đến 5 giọt",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Vani 1 ít",
+      "raw_name": "Vani",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 100 gr",
+      "raw_name": "Đường",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:38:42Z",
+  "page_title": "Cách làm mứt khoai mì vị lá dứa dẻo mềm thơm ngon đón Tết",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/1200-1200x676-103.jpg"
+}

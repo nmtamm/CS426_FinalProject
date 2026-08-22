@@ -1,0 +1,83 @@
+{
+  "source_id": "23662",
+  "name": "Lẩu gà lá é Đà Lạt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/14f1d3146d8ea59a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-lau-ga-la-e-da-lat-cay-nong-ngon-chuan-vi-cho-nhung-23662",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-lau-ga-la-e-da-lat-cay-nong-ngon-chuan-vi-cho-nhung-23662",
+  "servings_text": "Cho 4 - 6 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà ta 1 con",
+      "raw_name": "Gà ta 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lá é 1 ít",
+      "raw_name": "Lá é",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Măng chua 3 cây",
+      "raw_name": "Măng chua",
+      "quantity": 3,
+      "unit": "cây",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nấm bào ngư 200 gr",
+      "raw_name": "Nấm bào ngư",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt xiêm xanh 1 ít (6 - 8 quả)",
+      "raw_name": "Ớt xiêm xanh",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "6 - 8 quả",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tím 1 củ",
+      "raw_name": "Hành tím",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ bột ngọt/ nước mắm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ bột ngọt/ nước mắm",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:04:38Z",
+  "page_title": "Cách nấu lẩu gà lá é Đà Lạt cay nồng ngon chuẩn vị cho những ngày se lạnh",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20m%C3%B3n%20an%20t12%20%281200%20x%20676%20px%29%20%288%29.jpg"
+}

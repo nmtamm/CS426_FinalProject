@@ -1,0 +1,65 @@
+{
+  "source_id": "01908",
+  "name": "Ốc mỡ xào tỏi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ab9a97bb887f22f1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mon-oc-mo-xao-toi-xao-me-ngon-nhu-ngoai-hang-01908",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mon-oc-mo-xao-toi-xao-me-ngon-nhu-ngoai-hang-01908",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ốc mỡ 500 g",
+      "raw_name": "Ốc mỡ",
+      "quantity": 500,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bơ lạt 20 g",
+      "raw_name": "Bơ lạt",
+      "quantity": 20,
+      "unit": "g",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt chỉ thiên 2 quả",
+      "raw_name": "Ớt chỉ thiên",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gừng 15 g",
+      "raw_name": "Gừng",
+      "quantity": 15,
+      "unit": "g",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:11:15Z",
+  "page_title": "2 cách làm món ốc mỡ xào tỏi, xào me ngon như ngoài hàng",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/oc-mo-xao-toi-thumbnail.jpg"
+}

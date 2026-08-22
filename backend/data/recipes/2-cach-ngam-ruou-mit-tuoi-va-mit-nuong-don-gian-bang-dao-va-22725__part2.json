@@ -1,0 +1,45 @@
+{
+  "source_id": "22725",
+  "name": "Cách ngâm rượu mít tươi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/87a53262cd82afdf.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-ngam-ruou-mit-tuoi-va-mit-nuong-don-gian-bang-dao-va-22725",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-ngam-ruou-mit-tuoi-va-mit-nuong-don-gian-bang-dao-va-22725",
+  "servings_text": "Cho 1 hũ",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rượu trắng 5 lít",
+      "raw_name": "Rượu trắng 5 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mít ráo chín 1 trái",
+      "raw_name": "Mít ráo chín",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường phèn 700 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 700,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:52:00Z",
+  "page_title": "2 cách ngâm rượu mít tươi và mít nướng đơn giản bằng dao và bếp nướng điện",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2025/04/CookRecipe/Avatar/0004-kdek.jpg"
+}

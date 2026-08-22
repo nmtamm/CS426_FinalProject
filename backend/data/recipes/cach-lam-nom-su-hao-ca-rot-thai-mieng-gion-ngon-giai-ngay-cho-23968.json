@@ -1,0 +1,75 @@
+{
+  "source_id": "23968",
+  "name": "Nộm su hào cà rốt thái miếng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e59cfe194fe7744b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nom-su-hao-ca-rot-thai-mieng-gion-ngon-giai-ngay-cho-23968",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nom-su-hao-ca-rot-thai-mieng-gion-ngon-giai-ngay-cho-23968",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Su hào lớn 1 củ (hoặc 2 củ nhỏ)",
+      "raw_name": "Su hào lớn",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "hoặc 2 củ nhỏ",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối hạt 1 thìa canh",
+      "raw_name": "Muối hạt",
+      "quantity": 1,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 1 ít",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt 1 ít",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rau mùi 1 ít",
+      "raw_name": "Rau mùi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị làm nước trộn nộm 1 ít (đường/ nước mắm/ giấm/ nước lọc)",
+      "raw_name": "Gia vị làm nước trộn nộm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ nước mắm/ giấm/ nước lọc",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T17:50:32Z",
+  "page_title": "Cách làm nộm su hào cà rốt thái miếng giòn ngon, giải ngấy cho ngày Tết",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/cach-lam-nom-su-hao-ca-rot-thai-mieng-gion-ngon-giai-ngay-cho%20%283%29.jpg"
+}

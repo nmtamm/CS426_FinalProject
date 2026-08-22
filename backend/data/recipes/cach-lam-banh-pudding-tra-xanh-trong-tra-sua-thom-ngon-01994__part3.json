@@ -1,0 +1,65 @@
+{
+  "source_id": "01994",
+  "name": "Pudding matcha không cần gelatin",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/954fbb47f57e749d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-pudding-tra-xanh-trong-tra-sua-thom-ngon-01994",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-pudding-tra-xanh-trong-tra-sua-thom-ngon-01994",
+  "servings_text": "Cho 6 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột bắp 5 muỗng canh",
+      "raw_name": "Bột bắp",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột matcha 3 muỗng canh",
+      "raw_name": "Bột matcha",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Socola trắng 175 gr",
+      "raw_name": "Socola trắng",
+      "quantity": 175,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa tươi không đường 900 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 900,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 10 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 10,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:21:51Z",
+  "page_title": "3 cách làm pudding trà xanh - pudding matcha thơm ngon mềm mướt đơn giản",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/pudding-matcha-khong-can-gelatin-thumbnail-1.jpg"
+}

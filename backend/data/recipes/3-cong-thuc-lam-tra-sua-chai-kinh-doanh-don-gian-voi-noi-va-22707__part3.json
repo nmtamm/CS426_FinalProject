@@ -1,0 +1,81 @@
+{
+  "source_id": "22707",
+  "name": "Trà sữa gạo rang đóng chai",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e9427cb4ae1462cb.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cong-thuc-lam-tra-sua-chai-kinh-doanh-don-gian-voi-noi-va-22707",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cong-thuc-lam-tra-sua-chai-kinh-doanh-don-gian-voi-noi-va-22707",
+  "servings_text": "Cho 8 - 10 chai 380ml",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà gạo rang 100 gr",
+      "raw_name": "Trà gạo rang",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột béo 180 gr",
+      "raw_name": "Bột béo",
+      "quantity": 180,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đặc 100 gr",
+      "raw_name": "Sữa đặc",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 330 gr",
+      "raw_name": "Đường",
+      "quantity": 330,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột rau câu dẻo 12 gr",
+      "raw_name": "Bột rau câu dẻo",
+      "quantity": 12,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột rau câu giòn 5 gr",
+      "raw_name": "Bột rau câu giòn",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Siro tạo màu 1 ít (siro dâu/ siro lá dứa/...)",
+      "raw_name": "Siro tạo màu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "siro dâu/ siro lá dứa/...",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:52:01Z",
+  "page_title": "3 công thức làm trà sữa chai kinh doanh đơn giản với nồi và bình siêu tốc",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2025/04/CookRecipe/Avatar/tra-sua-gao-rang-dong-chai-thumbnail-1.jpg"
+}

@@ -1,0 +1,98 @@
+{
+  "source_id": "00928",
+  "name": "Chè sương sa hạt lựu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/73d46825246272cb.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-che-suong-sa-hat-luu-dep-mat-ngon-mieng--00928",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-che-suong-sa-hat-luu-dep-mat-ngon-mieng--00928",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-che",
+      "name": "Món chè"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột sương sáo đen 50 gr",
+      "raw_name": "Bột sương sáo đen",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột năng 100 gr",
+      "raw_name": "Bột năng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Củ dền 1 củ",
+      "raw_name": "Củ dền",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dừa già 1/2 trái",
+      "raw_name": "Dừa già",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cốt dừa 100 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hạt chia 1 ít",
+      "raw_name": "Hạt chia",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường phèn 200 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối/ đường 1 ít",
+      "raw_name": "Muối/ đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T20:20:09Z",
+  "page_title": "2 Cách làm chè sương sa hạt lựu - chè bông cỏ cho ngày hè thanh mát",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "công thức được chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/1200-15.jpg"
+}

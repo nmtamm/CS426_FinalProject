@@ -1,0 +1,47 @@
+{
+  "source_id": "14748",
+  "name": "Nước ép lựu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/06a6af66450f146b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-luu-nguyen-chat-bang-may-ep-cham-ngon-kho-14748",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-luu-nguyen-chat-bang-may-ep-cham-ngon-kho-14748",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lựu 2 quả",
+      "raw_name": "Lựu",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 1 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:50:29Z",
+  "page_title": "Cách làm nước ép lựu nguyên chất bằng máy ép chậm ngon khó cưỡng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-nuoc-ep-tao-bang-may-ep-cham-thom-mat-cuc-nhanh-avt-1200x676-1.jpg"
+}

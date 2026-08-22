@@ -1,0 +1,85 @@
+{
+  "source_id": "11716",
+  "name": "Trà sữa dâu hoa đậu biếc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/80aa10f6dab2f045.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-tra-sua-dau-thom-ngon-hap-dan-cuc-ky-de-lam-11716",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-tra-sua-dau-thom-ngon-hap-dan-cuc-ky-de-lam-11716",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà olong 90 gr",
+      "raw_name": "Trà olong",
+      "quantity": 90,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hoa đậu biếc khô 50 gr",
+      "raw_name": "Hoa đậu biếc khô",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột béo 500 gr",
+      "raw_name": "Bột béo",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa đặc 315 ml",
+      "raw_name": "Sữa đặc",
+      "quantity": 315,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Siro dâu 10 ml",
+      "raw_name": "Siro dâu",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Mứt dâu 5 ml",
+      "raw_name": "Mứt dâu",
+      "quantity": 5,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dâu tây 1 ít (dùng trang trí)",
+      "raw_name": "Dâu tây",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "dùng trang trí",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 2.5 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 2.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:10:32Z",
+  "page_title": "4 cách làm trà sữa dâu thơm ngon hấp dẫn cực kỳ dễ làm",
+  "variant_index": 2,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/tra-sua-dau-hoa-dau-biec-thumbnail.jpg"
+}

@@ -1,0 +1,94 @@
+{
+  "source_id": "02160",
+  "name": "Miến trộn chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/64b06097239225e2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mien-tron-chay-thom-ngon-khong-dinh-khong-nhao-02160",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mien-tron-chay-thom-ngon-khong-dinh-khong-nhao-02160",
+  "servings_text": "Cho 2 người ăn",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Miến dong 200 gram",
+      "raw_name": "Miến dong 200 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chả chay 1/2 cây",
+      "raw_name": "Chả chay",
+      "quantity": 0.5,
+      "unit": "cây",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu hủ trắng 150 gram",
+      "raw_name": "Đậu hủ trắng 150 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nấm mèo 20 gram",
+      "raw_name": "Nấm mèo 20 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rau muống 100 gram",
+      "raw_name": "Rau muống 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Giá 50 gram",
+      "raw_name": "Giá 50 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành Boaro 2 cây",
+      "raw_name": "Hành Boaro",
+      "quantity": 2,
+      "unit": "cây",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đậu phộng 40 gram",
+      "raw_name": "Đậu phộng 40 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông thường 10 gram (nước tương/đường/tiêu xay/ớt xay/hạt nêm)",
+      "raw_name": "Gia vị thông thường 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": "nước tương/đường/tiêu xay/ớt xay/hạt nêm",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:37:50Z",
+  "page_title": "3 cách làm miến trộn chay thơm ngon không dính, không nhão đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 3,
+  "note": "Công thức được chia sẻ từ Tiktok Bếp chay XANH",
+  "original_image_url": "https://cdn.tgdd.vn/2023/06/CookRecipe/Avatar/mien-tron-chay-cong-thuc-2-thumbnail.jpg"
+}

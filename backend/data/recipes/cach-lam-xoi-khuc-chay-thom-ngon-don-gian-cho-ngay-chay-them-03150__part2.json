@@ -1,0 +1,94 @@
+{
+  "source_id": "03150",
+  "name": "Xôi khúc chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/fed69b1afb4e62da.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-xoi-khuc-chay-thom-ngon-don-gian-cho-ngay-chay-them-03150",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-xoi-khuc-chay-thom-ngon-don-gian-cho-ngay-chay-them-03150",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gạo nếp 200 gram",
+      "raw_name": "Gạo nếp 200 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột nếp 300 gram",
+      "raw_name": "Bột nếp 300 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu xanh hấp chín đã nghiền nhuyễn 1 chén",
+      "raw_name": "Đậu xanh hấp chín đã nghiền nhuyễn",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước lá dứa ấm 350 ml",
+      "raw_name": "Nước lá dứa ấm",
+      "quantity": 350,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nấm mèo băm 2 muỗng canh",
+      "raw_name": "Nấm mèo băm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Cà rốt băm 1 muỗng canh",
+      "raw_name": "Cà rốt băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nấm hương băm 1 muỗng canh",
+      "raw_name": "Nấm hương băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hạt nêm chay 1 muỗng cà phê",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tiêu 1/2 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:45:31Z",
+  "page_title": "2 cách làm xôi khúc chay thơm ngon đơn giản cho ngày chay thêm vị",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "Công thức được chia sẻ từ Tiktok Bếp chay XANH",
+  "original_image_url": "https://cdn.tgdd.vn/2023/06/CookRecipe/Avatar/xoi-khuc-chay-cong-thuc-2-thumbnail.jpg"
+}

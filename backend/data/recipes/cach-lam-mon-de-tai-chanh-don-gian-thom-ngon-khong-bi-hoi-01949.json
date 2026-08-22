@@ -1,0 +1,131 @@
+{
+  "source_id": "01949",
+  "name": "Dê tái chanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/06f8fdc52e2d4e08.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-de-tai-chanh-don-gian-thom-ngon-khong-bi-hoi-01949",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-de-tai-chanh-don-gian-thom-ngon-khong-bi-hoi-01949",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt dê 500 gr",
+      "raw_name": "Thịt dê",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tỏi 2 củ",
+      "raw_name": "Tỏi",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gừng 3 củ",
+      "raw_name": "Gừng",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sả 6 cây",
+      "raw_name": "Sả",
+      "quantity": 6,
+      "unit": "cây",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt 3 quả",
+      "raw_name": "Ớt",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rau thơm 10 gr",
+      "raw_name": "Rau thơm",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Lá chanh 5 gr",
+      "raw_name": "Lá chanh",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Mùi tàu 10 gr",
+      "raw_name": "Mùi tàu",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ngò 5 gr",
+      "raw_name": "Ngò",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tương bần 100 gr",
+      "raw_name": "Tương bần",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Chanh 2 quả (nước cốt)",
+      "raw_name": "Chanh",
+      "quantity": 2,
+      "unit": "quả",
+      "note": "nước cốt",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Mè rang 100 gr (vừng rang)",
+      "raw_name": "Mè rang",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "vừng rang",
+      "display_order": 12
+    },
+    {
+      "raw_text": "Bánh tráng 100 gr",
+      "raw_name": "Bánh tráng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Rau ăn kèm 100 gr (lá sung non/chuối xanh/ dưa chuột/ rau má...)",
+      "raw_name": "Rau ăn kèm",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "lá sung non/chuối xanh/ dưa chuột/ rau má...",
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T17:58:14Z",
+  "page_title": "Cách làm món dê tái chanh đơn giản, thơm ngon, không bị hôi ngay tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/04/04/1246739/cach-lam-mon-de-tai-chanh-don-gian-thom-ngon-khong-bi-hoi-ngay-tai-nha-2-760x367.jpg"
+}

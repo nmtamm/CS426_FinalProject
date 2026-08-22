@@ -1,0 +1,67 @@
+{
+  "source_id": "07672",
+  "name": "Thạch rau câu dẻo hình tổ ong",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/26d489e867eff8ab.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thach-rau-cau-deo-hinh-to-ong-dai-gion-dep-mat-07672",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thach-rau-cau-deo-hinh-to-ong-dai-gion-dep-mat-07672",
+  "servings_text": "Cho 6 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột agar 7 muỗng cà phê",
+      "raw_name": "Bột agar",
+      "quantity": 7,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột rau câu dẻo 1 ít",
+      "raw_name": "Bột rau câu dẻo",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dứa đóng lon 290 gr",
+      "raw_name": "Dứa đóng lon",
+      "quantity": 290,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước cốt dừa 400 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường bột 50 gr",
+      "raw_name": "Đường bột",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường nâu 120 gr",
+      "raw_name": "Đường nâu",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:19:07Z",
+  "page_title": "Cách làm thạch rau câu dẻo hình tổ ong dai giòn, đẹp mắt",
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookProduct/1-1200x676-44.jpg"
+}

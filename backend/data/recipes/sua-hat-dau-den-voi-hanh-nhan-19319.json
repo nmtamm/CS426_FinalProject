@@ -1,0 +1,55 @@
+{
+  "source_id": "19319",
+  "name": "Sữa hạt đậu đen bằng máy",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6704c19187b22d15.png",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/sua-hat-dau-den-voi-hanh-nhan-19319",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/sua-hat-dau-den-voi-hanh-nhan-19319",
+  "servings_text": "Cho 2 - 3 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "meo-vao-bep",
+      "name": "Mẹo vào bếp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sữa không đường 200 ml",
+      "raw_name": "Sữa không đường",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 50 g",
+      "raw_name": "Đường",
+      "quantity": 50,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước lọc 800 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 800,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hạt đậu đen 100 gram",
+      "raw_name": "Hạt đậu đen 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:02:19Z",
+  "page_title": "Hướng dẫn cách làm sữa hạt đậu đen bằng máy đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2023/04/CookDish/sua-hat-dau-den-voi-hanh-nhan-avt-1200x676.png"
+}

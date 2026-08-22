@@ -1,0 +1,29 @@
+{
+  "source_id": "13023",
+  "name": "Thạch mật ong từ mật ong",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4209268314abd370.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-thach-mat-ong-honey-jelly-dai-ngon-ngot-ngao-13023",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-thach-mat-ong-honey-jelly-dai-ngon-ngot-ngao-13023",
+  "servings_text": "Cho khoảng 250ml thạch",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mật ong 500 ml",
+      "raw_name": "Mật ong",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    }
+  ],
+  "scraped_at": "2026-08-19T20:17:12Z",
+  "page_title": "2 cách làm thạch mật ong - honey jelly dai ngon, ngọt ngào",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/thach-mat-ong-tu-mat-ong-thumbnail.jpg"
+}

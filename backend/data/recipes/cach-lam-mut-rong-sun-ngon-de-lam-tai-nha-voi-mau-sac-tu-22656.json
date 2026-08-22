@@ -1,0 +1,55 @@
+{
+  "source_id": "22656",
+  "name": "Mứt rong sụn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/864706dbd503c204.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-rong-sun-ngon-de-lam-tai-nha-voi-mau-sac-tu-22656",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-rong-sun-ngon-de-lam-tai-nha-voi-mau-sac-tu-22656",
+  "servings_text": "Cho khoảng 300gr",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rong sụn tươi 500 gr (hoặc rong sụn khô ngâm nở)",
+      "raw_name": "Rong sụn tươi",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "hoặc rong sụn khô ngâm nở",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột rau câu con cá 15 gr (bột rau câu giòn)",
+      "raw_name": "Bột rau câu con cá",
+      "quantity": 15,
+      "unit": "gr",
+      "note": "bột rau câu giòn",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 700 gr",
+      "raw_name": "Đường",
+      "quantity": 700,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Thực phẩm tươi tạo màu 1 ít (lá cẩm/ lá dứa/ cà rốt/ chanh dây/...)",
+      "raw_name": "Thực phẩm tươi tạo màu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "lá cẩm/ lá dứa/ cà rốt/ chanh dây/...",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T18:58:29Z",
+  "page_title": "Cách làm mứt rong sụn ngon dễ làm tại nhà với màu sắc tự nhiên bằng nồi",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/17022025%20%2895%29.jpg"
+}

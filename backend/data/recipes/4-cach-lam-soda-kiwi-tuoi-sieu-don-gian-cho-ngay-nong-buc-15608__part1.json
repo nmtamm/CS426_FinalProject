@@ -1,0 +1,53 @@
+{
+  "source_id": "15608",
+  "name": "Soda kiwi tươi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5d9dd7e7c08ecff2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-soda-kiwi-tuoi-sieu-don-gian-cho-ngay-nong-buc-15608",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-soda-kiwi-tuoi-sieu-don-gian-cho-ngay-nong-buc-15608",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Kiwi vàng 1 quả (cỡ vừa)",
+      "raw_name": "Kiwi vàng",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "cỡ vừa",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Soda 330 ml (1 lon)",
+      "raw_name": "Soda",
+      "quantity": 330,
+      "unit": "ml",
+      "note": "1 lon",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường cát 3 muỗng canh",
+      "raw_name": "Đường cát",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:55:29Z",
+  "page_title": "4 cách làm soda kiwi tươi siêu đơn giản cho ngày nóng bức",
+  "variant_index": 1,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/soda-kiwi-tuoi-thumbnail.jpg"
+}

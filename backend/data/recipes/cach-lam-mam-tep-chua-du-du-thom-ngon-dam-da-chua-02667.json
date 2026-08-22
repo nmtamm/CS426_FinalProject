@@ -1,0 +1,107 @@
+{
+  "source_id": "02667",
+  "name": "Mắm tép chua đu đủ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7d1f4944df6c5a30.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mam-tep-chua-du-du-thom-ngon-dam-da-chua-02667",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mam-tep-chua-du-du-thom-ngon-dam-da-chua-02667",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tép tươi 1 kg",
+      "raw_name": "Tép tươi",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tỏi 50 gr",
+      "raw_name": "Tỏi",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gừng 50 gr",
+      "raw_name": "Gừng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt hiểm 5 trái",
+      "raw_name": "Ớt hiểm",
+      "quantity": 5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt sừng 1 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đu đủ 100 gr",
+      "raw_name": "Đu đủ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Thơm băm nhuyễn 20 gr (dứa)",
+      "raw_name": "Thơm băm nhuyễn",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "dứa",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước mắm 400 ml",
+      "raw_name": "Nước mắm",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường trắng 400 gr",
+      "raw_name": "Đường trắng",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Rượu trắng 1 muỗng canh",
+      "raw_name": "Rượu trắng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Muối 1 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T20:29:43Z",
+  "page_title": "Cách làm mắm tép chua đu đủ thơm ngon, đậm đà, chuẩn vị cực đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/06/03/1260293/cach-lam-mam-tep-chua-du-du-thom-ngon-dam-da-chua-12-760x367.jpg"
+}

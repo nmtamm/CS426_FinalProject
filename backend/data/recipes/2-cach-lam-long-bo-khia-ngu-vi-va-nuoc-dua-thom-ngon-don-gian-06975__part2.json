@@ -1,0 +1,93 @@
+{
+  "source_id": "06975",
+  "name": "Lòng bò non ( phèo bò) khìa nước dừa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/22a81e34d4226007.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-long-bo-khia-ngu-vi-va-nuoc-dua-thom-ngon-don-gian-06975",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-long-bo-khia-ngu-vi-va-nuoc-dua-thom-ngon-don-gian-06975",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lòng bò non 800 gr",
+      "raw_name": "Lòng bò non",
+      "quantity": 800,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tỏi băm 4 tép",
+      "raw_name": "Tỏi băm 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước dừa tươi 1.5 lít",
+      "raw_name": "Nước dừa tươi 1.5 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước mắm 5 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cốt chanh 3 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột ngũ vị hương 1 muỗng canh",
+      "raw_name": "Bột ngũ vị hương",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường vàng 5.5 muỗng canh",
+      "raw_name": "Đường vàng",
+      "quantity": 5.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ bột ngọt/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ bột ngọt/ hạt nêm",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:28:22Z",
+  "page_title": "2 cách làm lòng bò khìa ngũ vị và nước dừa thơm ngon, đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookRecipe/Avatar/long-bo-non-pheo-bo-khia-nuoc-dua-thumbnail.jpg"
+}

@@ -1,0 +1,55 @@
+{
+  "source_id": "10274",
+  "name": "Thịt bò xào cần tây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/93e7aab74a6494a4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-bo-xao-can-tay-don-gian-thom-ngon-day-mui-ngat-10274",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-bo-xao-can-tay-don-gian-thom-ngon-day-mui-ngat-10274",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò 300 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cần tây 1 bó (khoảng 100gr)",
+      "raw_name": "Cần tây 1 bó",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 100gr",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng cà phê",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ bột ngọt/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ bột ngọt/ hạt nêm",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T18:33:08Z",
+  "page_title": "Cách làm thịt bò xào cần tây đơn giản thơm ngon dậy mùi ngát hương",
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookProduct/BeFunky-collage-1200x676-15.jpg"
+}

@@ -1,0 +1,73 @@
+{
+  "source_id": "22666",
+  "name": "Topping cốm dẻo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7ccd8d44773413f6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-sua-com-va-tra-sua-kem-com-thom-ngon-tai-nha-chi-22666",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-sua-com-va-tra-sua-kem-com-thom-ngon-tai-nha-chi-22666",
+  "servings_text": "Cho 10 - 15 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cốm khô 200 gr",
+      "raw_name": "Cốm khô",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa tươi 100 ml",
+      "raw_name": "Sữa tươi",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đặc 30 ml",
+      "raw_name": "Sữa đặc",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 30 gr",
+      "raw_name": "Đường",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Whipping cream 30 ml",
+      "raw_name": "Whipping cream",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Màu thực phẩm xanh bơ 1 ít (2 - 3 giọt)",
+      "raw_name": "Màu thực phẩm xanh bơ",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "2 - 3 giọt",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:52:05Z",
+  "page_title": "Cách làm trà sữa cốm và trà sữa kem cốm thơm ngon tại nhà chỉ với nồi nấu",
+  "variant_index": 2,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2025/03/CookRecipe/Avatar/topping-com-deo-thumbnail.jpg"
+}

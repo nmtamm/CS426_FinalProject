@@ -1,0 +1,69 @@
+{
+  "source_id": "15653",
+  "name": "Salad bí đỏ nấm bào ngư",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/08aa53ad88d729a6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-salad-bi-do-don-gian-thom-ngon-bo-duong-cho-gia-15653",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-salad-bi-do-don-gian-thom-ngon-bo-duong-cho-gia-15653",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bí đỏ 1 quả",
+      "raw_name": "Bí đỏ",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm bào ngư 150 gr",
+      "raw_name": "Nấm bào ngư",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt chuông 2 quả (xanh/ đỏ)",
+      "raw_name": "Ớt chuông",
+      "quantity": 2,
+      "unit": "quả",
+      "note": "xanh/ đỏ",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Giấm 2 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T17:56:32Z",
+  "page_title": "3 cách làm salad bí đỏ đơn giản thơm ngon bổ dưỡng cho gia đình",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookRecipe/Avatar/salad-bi-do-nam-bao-ngu-thumbnail.jpg"
+}

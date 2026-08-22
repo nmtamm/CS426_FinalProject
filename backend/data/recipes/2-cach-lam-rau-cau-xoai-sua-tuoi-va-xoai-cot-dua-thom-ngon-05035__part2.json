@@ -1,0 +1,65 @@
+{
+  "source_id": "05035",
+  "name": "Rau câu xoài sữa tươi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/76628d156dd13d56.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-rau-cau-xoai-sua-tuoi-va-xoai-cot-dua-thom-ngon-05035",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-rau-cau-xoai-sua-tuoi-va-xoai-cot-dua-thom-ngon-05035",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Xoài chín 500 gr",
+      "raw_name": "Xoài chín",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa tươi 800 ml",
+      "raw_name": "Sữa tươi",
+      "quantity": 800,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường cát 9 muỗng canh",
+      "raw_name": "Đường cát",
+      "quantity": 9,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột rau câu giòn 30 gr",
+      "raw_name": "Bột rau câu giòn",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước lọc 800 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 800,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:05:33Z",
+  "page_title": "3 Cách làm rau câu xoài sữa tươi, xoài cốt dừa thơm ngon đẹp mắt tại nhà",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookRecipe/Avatar/rau-cau-xoai-sua-dua-thumbnail.jpg"
+}

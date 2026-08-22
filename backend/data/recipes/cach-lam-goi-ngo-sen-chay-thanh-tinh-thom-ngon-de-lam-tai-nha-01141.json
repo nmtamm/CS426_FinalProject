@@ -1,0 +1,115 @@
+{
+  "source_id": "01141",
+  "name": "Gỏi ngó sen chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/13e863da74610e05.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-ngo-sen-chay-thanh-tinh-thom-ngon-de-lam-tai-nha-01141",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-ngo-sen-chay-thanh-tinh-thom-ngon-de-lam-tai-nha-01141",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ngó sen 300 gr",
+      "raw_name": "Ngó sen",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dưa leo 1 trái",
+      "raw_name": "Dưa leo",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bắp cải tím 1 cái",
+      "raw_name": "Bắp cải tím",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bánh phồng tôm chay 1 gói",
+      "raw_name": "Bánh phồng tôm chay",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đậu hũ chiên 1 miếng (1 bìa)",
+      "raw_name": "Đậu hũ chiên 1 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": "1 bìa",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước mắm chay 3 muỗng canh",
+      "raw_name": "Nước mắm chay",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường 4 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước cốt chanh 3 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Giấm 100 ml",
+      "raw_name": "Giấm",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đậu phộng 100 gr",
+      "raw_name": "Đậu phộng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Ớt 2 trái",
+      "raw_name": "Ớt",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T17:58:51Z",
+  "page_title": "Chi tiết cách làm gỏi ngó sen chay thanh tịnh thơm ngon dễ làm tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2018/11/04/1129003/-video-chi-tiet-cach-lam-goi-ngo-sen-chay-thanh-tinh-thom-ngon-de-lam-tai-nha-7-760x367.jpg"
+}

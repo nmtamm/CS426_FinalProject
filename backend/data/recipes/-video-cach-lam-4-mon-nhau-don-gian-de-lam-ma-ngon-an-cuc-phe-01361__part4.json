@@ -1,0 +1,94 @@
+{
+  "source_id": "01361",
+  "name": "Gỏi mề gà",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f1cf3b63721e418a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/-video-cach-lam-4-mon-nhau-don-gian-de-lam-ma-ngon-an-cuc-phe-01361",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/-video-cach-lam-4-mon-nhau-don-gian-de-lam-ma-ngon-an-cuc-phe-01361",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tim gà 200 gr",
+      "raw_name": "Tim gà",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mề gà 200 gr",
+      "raw_name": "Mề gà",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước mắm 3 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 4 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Cốt chanh 1 muỗng canh",
+      "raw_name": "Cốt chanh",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt băm 1 muỗng cà phê",
+      "raw_name": "Ớt băm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành tây 2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rau răm 50 gr",
+      "raw_name": "Rau răm",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:03:23Z",
+  "page_title": "Cách làm 4 món nhậu đơn giản dễ làm mà ngon, ăn cực phê",
+  "variant_index": 4,
+  "variant_count": 4,
+  "note": null,
+  "original_image_url": "https://img.youtube.com/vi/C8KxHlLjzzI/maxresdefault.jpg"
+}

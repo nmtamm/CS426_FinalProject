@@ -1,0 +1,75 @@
+{
+  "source_id": "08445",
+  "name": "Cocktail Blue Lagoon",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/41f7840449b080dc.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-che-cocktail-blue-lagoon-eo-bien-xanh-sau-tham-say-08445",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-che-cocktail-blue-lagoon-eo-bien-xanh-sau-tham-say-08445",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Blue Curacao Syrup 10 ml",
+      "raw_name": "Blue Curacao Syrup",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rượu Vodka 45 ml",
+      "raw_name": "Rượu Vodka",
+      "quantity": 45,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rượu Triple Sec 30 ml",
+      "raw_name": "Rượu Triple Sec",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Soda 50 ml",
+      "raw_name": "Soda",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cốt chanh tươi 15 ml",
+      "raw_name": "Nước cốt chanh tươi",
+      "quantity": 15,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Chanh 1 lát",
+      "raw_name": "Chanh 1 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Cherry 1 trái",
+      "raw_name": "Cherry",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:57:53Z",
+  "page_title": "Cách pha chế Cocktail Blue Lagoon eo biển xanh sâu thẳm say đắm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/1200676665-1200x675.jpg"
+}

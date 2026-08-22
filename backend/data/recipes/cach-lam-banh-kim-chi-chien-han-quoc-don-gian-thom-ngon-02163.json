@@ -1,0 +1,71 @@
+{
+  "source_id": "02163",
+  "name": "Bánh kim chi chiên",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/42e1c99a467ea235.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-kim-chi-chien-han-quoc-don-gian-thom-ngon-02163",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-kim-chi-chien-han-quoc-don-gian-thom-ngon-02163",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Kim chi cải thảo 150 gr",
+      "raw_name": "Kim chi cải thảo",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành tây 1/2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột mì đa dụng 100 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá 1 cây",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "cây",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường trắng 1/2 muỗng cà phê",
+      "raw_name": "Đường trắng",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:03:01Z",
+  "page_title": "Cách làm bánh kim chi chiên Hàn Quốc đơn giản, thơm ngon, đậm đà hương vị",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/04/24/1251434/cach-lam-banh-kim-chi-chien-han-quoc-don-gian-thom-ngon-dam-da-huong-vi-1-760x367.jpg"
+}

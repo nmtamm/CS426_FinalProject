@@ -1,0 +1,133 @@
+{
+  "source_id": "03746",
+  "name": "Bánh canh cua chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5cdf5bb75b490c8f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-banh-canh-cua-chay-thom-ngon-don-gian-03746",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-banh-canh-cua-chay-thom-ngon-don-gian-03746",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh canh bột lọc 1 kg",
+      "raw_name": "Bánh canh bột lọc",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Càng cua chay 200 gr",
+      "raw_name": "Càng cua chay",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chả cua chay 200 gr",
+      "raw_name": "Chả cua chay",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bắp non 100 gr",
+      "raw_name": "Bắp non",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cà rốt 100 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bắp ngọt 100 gr",
+      "raw_name": "Bắp ngọt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Củ cải muối 50 gr",
+      "raw_name": "Củ cải muối",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nấm rơm 200 gr",
+      "raw_name": "Nấm rơm",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột năng 20 gr",
+      "raw_name": "Bột năng",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu điều 10 ml",
+      "raw_name": "Dầu điều",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Giá 100 gr",
+      "raw_name": "Giá",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Rau quế 100 gr",
+      "raw_name": "Rau quế",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Hành tím 10 gr",
+      "raw_name": "Hành tím",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Hành lá 10 gr",
+      "raw_name": "Hành lá",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T18:38:55Z",
+  "page_title": "Cách nấu bánh canh cua chay thơm ngon đơn giản cho buổi sáng",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookRecipe/Avatar/bánh-canh-cua-chay-thumbnail.jpg"
+}

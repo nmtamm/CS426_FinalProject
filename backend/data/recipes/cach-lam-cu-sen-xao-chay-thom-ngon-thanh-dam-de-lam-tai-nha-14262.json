@@ -1,0 +1,67 @@
+{
+  "source_id": "14262",
+  "name": "Củ sen xào chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bd7bd30116ded51d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cu-sen-xao-chay-thom-ngon-thanh-dam-de-lam-tai-nha-14262",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cu-sen-xao-chay-thom-ngon-thanh-dam-de-lam-tai-nha-14262",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Củ sen 300 gr",
+      "raw_name": "Củ sen",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bí đỏ 100 gr",
+      "raw_name": "Bí đỏ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá 1 ít",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 1 ít",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/bột ngọt/dầu hào)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/bột ngọt/dầu hào",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:38:34Z",
+  "page_title": "Cách làm củ sen xào chay thơm ngon thanh đạm dễ làm tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2022/09/CookDish/cach-lam-cu-sen-xao-chay-thom-ngon-thanh-dam-de-lam-tai-nha-avt-1200x676.jpg"
+}

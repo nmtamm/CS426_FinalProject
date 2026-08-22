@@ -1,0 +1,69 @@
+{
+  "source_id": "01655",
+  "name": "Trà gạo lứt bí đao",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/dd1ce5249ae723bf.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-tra-gao-lut-giam-can-dep-da-don-gian-tai-nha-01655",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-tra-gao-lut-giam-can-dep-da-don-gian-tai-nha-01655",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gạo lứt 120 gr",
+      "raw_name": "Gạo lứt",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bí đao 1 trái",
+      "raw_name": "Bí đao",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá dứa 100 gr",
+      "raw_name": "Lá dứa",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "La hán quả 1 quả",
+      "raw_name": "La hán quả",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường phèn 100 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:06:53Z",
+  "page_title": "4 cách làm trà gạo lứt giảm cân, đẹp da đơn giản tại nhà",
+  "variant_index": 4,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/tra-gao-lut-bi-dao-thumbnail.jpg"
+}

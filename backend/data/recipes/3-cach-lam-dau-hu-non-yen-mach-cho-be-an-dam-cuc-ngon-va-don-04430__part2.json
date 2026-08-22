@@ -1,0 +1,77 @@
+{
+  "source_id": "04430",
+  "name": "Cách làm đậu hũ non yến mạch rau củ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/385147d4107929e1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-dau-hu-non-yen-mach-cho-be-an-dam-cuc-ngon-va-don-04430",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-dau-hu-non-yen-mach-cho-be-an-dam-cuc-ngon-va-don-04430",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Yến mạch 50 gr",
+      "raw_name": "Yến mạch",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước lọc 200 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột rau củ 10 gr",
+      "raw_name": "Bột rau củ",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 1/3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 0.333,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dưa hấu 1 trái",
+      "raw_name": "Dưa hấu",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Xoài 1 trái",
+      "raw_name": "Xoài",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dưa lưới 1 trái",
+      "raw_name": "Dưa lưới",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:24:27Z",
+  "page_title": "3 cách làm đậu hũ non yến mạch cho bé ăn dặm cực ngon, đơn giản",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/cach-lam-dau-hu-non-yen-mach-sot-trai-cay-thumbnail-2.jpg"
+}

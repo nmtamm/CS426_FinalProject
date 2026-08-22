@@ -1,0 +1,73 @@
+{
+  "source_id": "00216",
+  "name": "Bánh chuối nướng bằng bột mì đa dụng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/24d0b73062b3dc4a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-chuoi-nuong-bang-noi-chien-khong-dau-thom-ngon-00216",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-chuoi-nuong-bang-noi-chien-khong-dau-thom-ngon-00216",
+  "servings_text": "Cho 4 người ăn",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chuối 2 quả",
+      "raw_name": "Chuối",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột mì đa dụng 4 muỗng canh",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng gà 1 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa đặc 1 muỗng canh",
+      "raw_name": "Sữa đặc",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Topping 1 ít (các loại hạt khô hoặc trái cây khô tùy thích)",
+      "raw_name": "Topping",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "các loại hạt khô hoặc trái cây khô tùy thích",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:20:54Z",
+  "page_title": "2 cách làm bánh chuối nướng bằng nồi chiên không dầu thơm ngon khó cưỡng",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/banh-chuoi-nuong-bang-noi-chien-khong-dau-thumbnail.jpg"
+}

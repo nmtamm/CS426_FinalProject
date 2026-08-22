@@ -1,0 +1,61 @@
+{
+  "source_id": "01174",
+  "name": "Muối tôm Tây Ninh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6d846c986bb47c81.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-muoi-tom-tay-ninh-don-gian-cham-trai-cay-sieu-ngon-01174",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-muoi-tom-tay-ninh-don-gian-cham-trai-cay-sieu-ngon-01174",
+  "servings_text": "Cho 400gr muối",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Muối ăn 400 gr (muối sống nguyên hạt hoặc muối xay)",
+      "raw_name": "Muối ăn",
+      "quantity": 400,
+      "unit": "gr",
+      "note": "muối sống nguyên hạt hoặc muối xay",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tôm khô 200 gr",
+      "raw_name": "Tôm khô",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi lớn 2 củ",
+      "raw_name": "Tỏi lớn",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt trái tươi 150 gr (hoặc gia giảm tuỳ ý)",
+      "raw_name": "Ớt trái tươi",
+      "quantity": 150,
+      "unit": "gr",
+      "note": "hoặc gia giảm tuỳ ý",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 150 gr",
+      "raw_name": "Đường",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:06:09Z",
+  "page_title": "Cách làm muối tôm Tây Ninh chuẩn vị không chất bảo quản đơn giản tại nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2022/03/CookRecipe/Avatar/muoi-tom-tay-ninh-thumbnail.jpg"
+}

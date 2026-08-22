@@ -1,0 +1,69 @@
+{
+  "source_id": "10546",
+  "name": "Sương sáo hạt chia",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/be8e60033593c254.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-suong-sao-hat-chia-va-suong-sao-hat-chia-nuoc-cot-10546",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-suong-sao-hat-chia-va-suong-sao-hat-chia-nuoc-cot-10546",
+  "servings_text": "Cho 2 ly",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột sương sáo 25 gr (1/2 gói)",
+      "raw_name": "Bột sương sáo",
+      "quantity": 25,
+      "unit": "gr",
+      "note": "1/2 gói",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hạt chia 5 muỗng cà phê",
+      "raw_name": "Hạt chia",
+      "quantity": 5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Thơm 1/2 quả",
+      "raw_name": "Thơm",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lá dứa 4 lá",
+      "raw_name": "Lá dứa",
+      "quantity": 4,
+      "unit": "lá",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tắc 1 quả",
+      "raw_name": "Tắc",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường phèn 50 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:20:25Z",
+  "page_title": "2 cách làm sương sáo hạt chia và sương sáo hạt chia nước cốt dừa đơn giản",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookRecipe/Avatar/suong-sao-hat-chia-thumbnail.jpg"
+}

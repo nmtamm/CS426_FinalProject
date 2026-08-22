@@ -1,0 +1,61 @@
+{
+  "source_id": "12104",
+  "name": "Sinh tố ớt chuông dâu dưa leo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/827f44d6d39fa930.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sinh-to-ot-chuong-giam-can-thom-ngon-de-uong-cuc-12104",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sinh-to-ot-chuong-giam-can-thom-ngon-de-uong-cuc-12104",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ớt chuông đỏ 1 quả",
+      "raw_name": "Ớt chuông đỏ",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dâu tây 8 quả",
+      "raw_name": "Dâu tây",
+      "quantity": 8,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dưa leo 1/4 quả",
+      "raw_name": "Dưa leo",
+      "quantity": 0.25,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bơ hạnh nhân 1 muỗng canh",
+      "raw_name": "Bơ hạnh nhân",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước trà 1 ít (hoặc nước lọc hay sữa)",
+      "raw_name": "Nước trà",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hoặc nước lọc hay sữa",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:09:29Z",
+  "page_title": "3 cách làm sinh tố ớt chuông giảm cân thơm ngon dễ uống cực đơn giản",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/sinh-to-ot-chuong-dau-dua-leo-thumbnail-1.jpg"
+}

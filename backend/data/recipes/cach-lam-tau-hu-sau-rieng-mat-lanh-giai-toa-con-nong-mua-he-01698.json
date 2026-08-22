@@ -1,0 +1,75 @@
+{
+  "source_id": "01698",
+  "name": "Tàu hũ sầu riêng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d513e647b349a908.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tau-hu-sau-rieng-mat-lanh-giai-toa-con-nong-mua-he-01698",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tau-hu-sau-rieng-mat-lanh-giai-toa-con-nong-mua-he-01698",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sữa đậu nành 400 ml",
+      "raw_name": "Sữa đậu nành",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tàu hũ non 200 gram",
+      "raw_name": "Tàu hũ non 200 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dừa nạo 200 gram",
+      "raw_name": "Dừa nạo 200 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước 200 ml",
+      "raw_name": "Nước",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường kính trắng 200 gram",
+      "raw_name": "Đường kính trắng 200 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sầu riêng 200 gram",
+      "raw_name": "Sầu riêng 200 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột gelatin 15 gram (có thể thay thế bằng 7 lá gelatin)",
+      "raw_name": "Bột gelatin 15 gram",
+      "quantity": null,
+      "unit": null,
+      "note": "có thể thay thế bằng 7 lá gelatin",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:29:09Z",
+  "page_title": "Cách làm tàu hũ sầu riêng mát lạnh giải toả cơn nóng mùa hè",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/02/27/1238845/cach-lam-tau-hu-sau-rieng-mat-lanh-giai-toa-con-nong-mua-he-10-760x367.jpg"
+}

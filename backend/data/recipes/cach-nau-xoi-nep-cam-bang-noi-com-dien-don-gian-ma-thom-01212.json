@@ -1,0 +1,79 @@
+{
+  "source_id": "01212",
+  "name": "Xôi nếp cẩm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c1a05d5e14026173.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-xoi-nep-cam-bang-noi-com-dien-don-gian-ma-thom-01212",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-xoi-nep-cam-bang-noi-com-dien-don-gian-ma-thom-01212",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nếp cẩm 200 gr",
+      "raw_name": "Nếp cẩm",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nếp thường 100 gr",
+      "raw_name": "Nếp thường",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu xanh cà vỏ 200 gr",
+      "raw_name": "Đậu xanh cà vỏ",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dừa nạo 150 gr",
+      "raw_name": "Dừa nạo",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột năng 10 gr",
+      "raw_name": "Bột năng",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 10 g",
+      "raw_name": "Muối",
+      "quantity": 10,
+      "unit": "g",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường. 10 g",
+      "raw_name": "Đường.",
+      "quantity": 10,
+      "unit": "g",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:14:11Z",
+  "page_title": "Cách nấu xôi nếp cẩm bằng nồi cơm điện đơn giản mà thơm ngon tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2018/12/28/1141156/cach-nau-xoi-nep-cam-bang-noi-com-dien-don-gian-ma-thom-ngon-tai-nha-10-760x367.jpg"
+}

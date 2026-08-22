@@ -1,0 +1,77 @@
+{
+  "source_id": "11810",
+  "name": "Mojito mận dưa hấu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c12d53943ab19d9b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mojito-man-plum-mojito-khong-con-chua-ngot-cuc-don-11810",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mojito-man-plum-mojito-khong-con-chua-ngot-cuc-don-11810",
+  "servings_text": "Cho 1 ly lớn",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mận Bắc 3 trái",
+      "raw_name": "Mận Bắc",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Soda 300 ml (loại tùy thích)",
+      "raw_name": "Soda",
+      "quantity": 300,
+      "unit": "ml",
+      "note": "loại tùy thích",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dưa hấu 1 miếng (1/4 khoanh dưa hấu)",
+      "raw_name": "Dưa hấu 1 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": "1/4 khoanh dưa hấu",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chanh vàng 4 lát",
+      "raw_name": "Chanh vàng 4 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lá bạc hà 4 nhánh",
+      "raw_name": "Lá bạc hà",
+      "quantity": 4,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:05:22Z",
+  "page_title": "2 cách làm mojito mận - plum mojito không cồn chua ngọt cực đơn giản",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/mojito-man-dua-hau-thumbnail.jpg"
+}

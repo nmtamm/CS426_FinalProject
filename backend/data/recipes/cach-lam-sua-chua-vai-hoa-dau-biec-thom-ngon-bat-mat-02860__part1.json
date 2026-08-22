@@ -1,0 +1,81 @@
+{
+  "source_id": "02860",
+  "name": "Sữa chua vải hoa đậu biếc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3f807e1c8951ca4c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-chua-vai-hoa-dau-biec-thom-ngon-bat-mat-02860",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-chua-vai-hoa-dau-biec-thom-ngon-bat-mat-02860",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nước lạnh 1 lít",
+      "raw_name": "Nước lạnh 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Vải 800 gr",
+      "raw_name": "Vải",
+      "quantity": 800,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột báng 100 gr",
+      "raw_name": "Bột báng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 115 gr",
+      "raw_name": "Đường",
+      "quantity": 115,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sữa chua 400 gr",
+      "raw_name": "Sữa chua",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sữa tươi 100 ml",
+      "raw_name": "Sữa tươi",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hoa đậu biếc 10 gr",
+      "raw_name": "Hoa đậu biếc",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:20:45Z",
+  "page_title": "2 cách làm sữa chua vải hoa đậu biếc và vải úp ngược đơn giản",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/sua-chua-vai-hoa-dau-biec-thumbnail.jpg"
+}

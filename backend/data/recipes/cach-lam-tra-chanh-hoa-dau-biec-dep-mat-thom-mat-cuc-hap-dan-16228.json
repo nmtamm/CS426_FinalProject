@@ -1,0 +1,59 @@
+{
+  "source_id": "16228",
+  "name": "Trà chanh hoa đậu biếc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e111fa2a7cb6aa74.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-chanh-hoa-dau-biec-dep-mat-thom-mat-cuc-hap-dan-16228",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-chanh-hoa-dau-biec-dep-mat-thom-mat-cuc-hap-dan-16228",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà túi lọc 1 gói",
+      "raw_name": "Trà túi lọc",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chanh 2 quả",
+      "raw_name": "Chanh",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hoa đậu biếc khô 2 gr",
+      "raw_name": "Hoa đậu biếc khô",
+      "quantity": 2,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 100 gr",
+      "raw_name": "Đường",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:03:57Z",
+  "page_title": "Cách làm trà chanh hoa đậu biếc đẹp mắt thơm mát, cực hấp dẫn",
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookDish/cach-lam-tra-chanh-hoa-dau-biec-dep-mat-thom-mat-cuc-hap-dan-avt-1200x676.jpg"
+}

@@ -1,0 +1,87 @@
+{
+  "source_id": "22059",
+  "name": "Bơ già dừa non",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5a1803021abab493.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-cach-lam-bo-gia-dua-non-nhuyen-min-thom-beo-22059",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-cach-lam-bo-gia-dua-non-nhuyen-min-thom-beo-22059",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bơ 034 2 trái",
+      "raw_name": "Bơ 034",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa đặc 30 ml",
+      "raw_name": "Sữa đặc",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa tươi không đường 30 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Kem béo Rich 20 ml",
+      "raw_name": "Kem béo Rich",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cốt dừa 20 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dừa non thái sợi 10 g",
+      "raw_name": "Dừa non thái sợi",
+      "quantity": 10,
+      "unit": "g",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối iot 0.5 gr",
+      "raw_name": "Muối iot",
+      "quantity": 0.5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dừa non thái sợi 10 gr",
+      "raw_name": "Dừa non thái sợi",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:01:02Z",
+  "page_title": "Hướng dẫn cách làm bơ già dừa non nhuyễn mịn thơm béo",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/bo-gia.jpg"
+}

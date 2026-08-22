@@ -1,0 +1,103 @@
+{
+  "source_id": "15801",
+  "name": "Chân gà ngâm sả tắc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a83553afd537fd0a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chan-ga-ngam-sa-tac-gion-thom-tham-vi-ngon-kho-cuong-15801",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chan-ga-ngam-sa-tac-gion-thom-tham-vi-ngon-kho-cuong-15801",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chân gà 2 kg (10 cặp)",
+      "raw_name": "Chân gà",
+      "quantity": 2,
+      "unit": "kg",
+      "note": "10 cặp",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sả 6 nhánh",
+      "raw_name": "Sả",
+      "quantity": 6,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tắc 17 trái (trái hạnh)",
+      "raw_name": "Tắc",
+      "quantity": 17,
+      "unit": "trái",
+      "note": "trái hạnh",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng 1 nhánh (nhánh nhỏ)",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": "nhánh nhỏ",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt 7 trái",
+      "raw_name": "Ớt",
+      "quantity": 7,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Giấm ăn 7 chén (chén cơm)",
+      "raw_name": "Giấm ăn",
+      "quantity": 7,
+      "unit": "chén",
+      "note": "chén cơm",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước mắm 1 chén (chén cơm)",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "chén",
+      "note": "chén cơm",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước lọc 2 chén (chén cơm)",
+      "raw_name": "Nước lọc",
+      "quantity": 2,
+      "unit": "chén",
+      "note": "chén cơm",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường 1 chén (chén cơm)",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "chén",
+      "note": "chén cơm",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Muối 2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:06:20Z",
+  "page_title": "Cách làm chân gà ngâm sả tắc giòn thơm, thấm vị ngon khó cưỡng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookDish/cach-lam-chan-ga-ngam-sa-tac-gion-thom-tham-vi-ngon-kho-cuong-avt-1200x676.jpg"
+}

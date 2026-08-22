@@ -1,0 +1,125 @@
+{
+  "source_id": "02173",
+  "name": "Bò bía chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f5d565faa58878ba.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bo-bia-chay-thom-ngon-don-gian-tai-nha-02173",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bo-bia-chay-thom-ngon-don-gian-tai-nha-02173",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh tráng 200 gr",
+      "raw_name": "Bánh tráng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sắn 1 củ",
+      "raw_name": "Sắn",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1/3 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.333,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mì căn 3 miếng",
+      "raw_name": "Mì căn 3 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tàu hũ ky tươi 30 gr",
+      "raw_name": "Tàu hũ ky tươi",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đậu phộng rang 20 gr",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Xà lách 200 gr",
+      "raw_name": "Xà lách",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Rau thơm 50 gr",
+      "raw_name": "Rau thơm",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rau diếp cá 50 gr",
+      "raw_name": "Rau diếp cá",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tương đen 20 gr",
+      "raw_name": "Tương đen",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Boa-rô 1 nhánh",
+      "raw_name": "Boa-rô",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Ớt 5 trái",
+      "raw_name": "Ớt",
+      "quantity": 5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Màu thực phẩm đỏ cam 50 ml",
+      "raw_name": "Màu thực phẩm đỏ cam",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T18:45:48Z",
+  "page_title": "2 cách làm bò bía chay thơm ngon đơn giản tại nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/bo-bia-chay-thumbnail.jpg"
+}

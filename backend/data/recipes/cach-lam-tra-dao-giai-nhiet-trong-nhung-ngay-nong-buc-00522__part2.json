@@ -1,0 +1,78 @@
+{
+  "source_id": "00522",
+  "name": "Trà đào",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6ed05fc1e83b646d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-dao-giai-nhiet-trong-nhung-ngay-nong-buc-00522",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-dao-giai-nhiet-trong-nhung-ngay-nong-buc-00522",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà đen 3 gr (hoặc 1 - 2 gói trà đào túi lọc)",
+      "raw_name": "Trà đen",
+      "quantity": 3,
+      "unit": "gr",
+      "note": "hoặc 1 - 2 gói trà đào túi lọc",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đào ngâm 4 miếng",
+      "raw_name": "Đào ngâm 4 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước cốt chanh 1/2 muỗng cà phê",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước đá 1 ít",
+      "raw_name": "Nước đá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Siro đào 1 muỗng canh",
+      "raw_name": "Siro đào",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước cốt đào ngâm 1 muỗng canh",
+      "raw_name": "Nước cốt đào ngâm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 1 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:59:14Z",
+  "page_title": "Cách làm trà đào giải nhiệt cho ngày nắng nóng cực đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "Công thức được chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/tra-dao-cong-thuc-duoc-chia-se-tu-nguoi-dung-thumbnail.jpg"
+}

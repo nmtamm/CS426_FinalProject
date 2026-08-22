@@ -1,0 +1,71 @@
+{
+  "source_id": "08774",
+  "name": "Trà sữa cake cream",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/cd05cdf596c262c2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-sua-cake-cream-don-gian-cuc-ngon-nhu-ngoai-hang-08774",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-sua-cake-cream-don-gian-cuc-ngon-nhu-ngoai-hang-08774",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bơ lạc 100 gr",
+      "raw_name": "Bơ lạc",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường xay 20 gr (đường bột)",
+      "raw_name": "Đường xay",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "đường bột",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Whipping cream 200 ml",
+      "raw_name": "Whipping cream",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trân châu trắng 30 gr",
+      "raw_name": "Trân châu trắng",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước đường 20 ml",
+      "raw_name": "Nước đường",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Trà sữa 150 ml",
+      "raw_name": "Trà sữa",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:47:57Z",
+  "page_title": "Cách làm trà sữa cake cream đơn giản, cực ngon như ngoài hàng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookProduct/1-1200x676.jpg"
+}

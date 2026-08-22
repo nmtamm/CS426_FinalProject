@@ -1,0 +1,78 @@
+{
+  "source_id": "11600",
+  "name": "Sườn non chay rim mặn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/54dd20dbb7769c54.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-suon-non-chay-rim-man-dam-da-bat-com-thom-ngon-don-11600",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-suon-non-chay-rim-man-dam-da-bat-com-thom-ngon-don-11600",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sườn non chay 100 gr",
+      "raw_name": "Sườn non chay",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tỏi ớt băm nhuyễn 3 muỗng cà phê",
+      "raw_name": "Tỏi ớt băm nhuyễn",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tím 2 củ",
+      "raw_name": "Hành tím",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tương ớt 1/2 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước tương 1 muỗng cà phê",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 4 muỗng cà phê",
+      "raw_name": "Dầu ăn",
+      "quantity": 4,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ muối/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ muối/ tiêu xay",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:48:04Z",
+  "page_title": "2 Cách làm sườn non chay rim mặn đậm đà bắt cơm thơm ngon đơn giản",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "công thức được cung cấp từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/suon-non-chay-rim-man-cong-thuc-duoc-cung-cap-tu-nguoi-dung-thumbnail.jpg"
+}

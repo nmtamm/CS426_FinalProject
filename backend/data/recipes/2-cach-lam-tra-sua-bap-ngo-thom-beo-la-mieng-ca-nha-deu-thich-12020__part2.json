@@ -1,0 +1,85 @@
+{
+  "source_id": "12020",
+  "name": "Trà sữa bắp milkfoam",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/859b72f4f30b90ba.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-sua-bap-ngo-thom-beo-la-mieng-ca-nha-deu-thich-12020",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-tra-sua-bap-ngo-thom-beo-la-mieng-ca-nha-deu-thich-12020",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà đen 10 gr",
+      "raw_name": "Trà đen",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa bắp 100 ml",
+      "raw_name": "Sữa bắp",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước đường 20 ml",
+      "raw_name": "Nước đường",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bọt sữa milkfoam 30 ml",
+      "raw_name": "Bọt sữa milkfoam",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bắp rang bơ 1 ít (dùng làm topping)",
+      "raw_name": "Bắp rang bơ",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "dùng làm topping",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sốt caramel 1 ít (dùng trang trí)",
+      "raw_name": "Sốt caramel",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "dùng trang trí",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước sôi 100 ml",
+      "raw_name": "Nước sôi",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:10:13Z",
+  "page_title": "2 cách làm trà sữa bắp (ngô) thơm béo, lạ miệng cả nhà đều thích",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/tra-sua-bap-milkfoam-thumbnail-1.jpg"
+}

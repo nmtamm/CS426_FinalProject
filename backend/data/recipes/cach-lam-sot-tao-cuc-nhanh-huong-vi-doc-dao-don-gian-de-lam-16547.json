@@ -1,0 +1,59 @@
+{
+  "source_id": "16547",
+  "name": "Sốt táo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e9c14db2cbd71569.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sot-tao-cuc-nhanh-huong-vi-doc-dao-don-gian-de-lam-16547",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sot-tao-cuc-nhanh-huong-vi-doc-dao-don-gian-de-lam-16547",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Táo Gala 2 quả (hoặc táo Envy)",
+      "raw_name": "Táo Gala",
+      "quantity": 2,
+      "unit": "quả",
+      "note": "hoặc táo Envy",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột quế 1/4 muỗng cà phê",
+      "raw_name": "Bột quế",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối 1/4 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mật ong 1 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước lọc 200 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:04:23Z",
+  "page_title": "Cách làm sốt táo cực nhanh hương vị độc đáo đơn giản dễ làm",
+  "original_image_url": "https://cdn.tgdd.vn/2022/02/CookDish/cach-lam-sot-tao-cuc-nhanh-huong-vi-doc-dao-don-gian-de-lam-avt-1200x676.jpg"
+}

@@ -1,0 +1,114 @@
+{
+  "source_id": "04997",
+  "name": "Hột vịt lộn nướng muối ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bd64ba6f8e0d91c8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-hot-vit-lon-nuong-muoi-ot-hap-dan-dam-da-an-vat-cuc-04997",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-hot-vit-lon-nuong-muoi-ot-hap-dan-dam-da-an-vat-cuc-04997",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hột vịt lộn 6 quả",
+      "raw_name": "Hột vịt lộn",
+      "quantity": 6,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt bột 1/2 muỗng canh",
+      "raw_name": "Ớt bột",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt sừng 1 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 4 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành lá 4 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 4,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tỏi 2 tép",
+      "raw_name": "Tỏi 2 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đậu phộng rang 2 muỗng canh",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Rau răm 1 ít (ăn kèm)",
+      "raw_name": "Rau răm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "ăn kèm",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T19:11:03Z",
+  "page_title": "3 Cách làm hột vịt lộn nướng hấp dẫn đậm đà ăn vặt cực ngon",
+  "variant_index": 2,
+  "variant_count": 3,
+  "note": "Công thức chia sẻ bởi người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookRecipe/Avatar/hot-vit-lon-nuong-muoi-ot-thumbnail.jpg"
+}

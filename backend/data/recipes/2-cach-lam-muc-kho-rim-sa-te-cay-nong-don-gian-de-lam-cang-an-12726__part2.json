@@ -1,0 +1,81 @@
+{
+  "source_id": "12726",
+  "name": "Mực khô rim sa tế tương ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/060eda677cc01617.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-muc-kho-rim-sa-te-cay-nong-don-gian-de-lam-cang-an-12726",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-muc-kho-rim-sa-te-cay-nong-don-gian-de-lam-cang-an-12726",
+  "servings_text": "Cho 3",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khô mực 250 gr",
+      "raw_name": "Khô mực",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tương cà 2 muỗng canh",
+      "raw_name": "Tương cà",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tương ớt 2 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mạch nha 1 muỗng canh (có thể bỏ qua)",
+      "raw_name": "Mạch nha",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "có thể bỏ qua",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi băm 1/2 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sa tế 1 muỗng canh",
+      "raw_name": "Sa tế",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/đường/bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/đường/bột ngọt",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:11:20Z",
+  "page_title": "2 cách làm mực khô rim sa tế cay nồng đơn giản dễ làm càng ăn càng mê",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/muc-kho-rim-sa-te-tuong-ot-thumbnail.jpg"
+}

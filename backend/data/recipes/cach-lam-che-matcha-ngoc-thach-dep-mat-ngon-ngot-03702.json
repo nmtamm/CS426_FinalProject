@@ -1,0 +1,115 @@
+{
+  "source_id": "03702",
+  "name": "Chè matcha ngọc thạch",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/587b845f217e4787.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-che-matcha-ngoc-thach-dep-mat-ngon-ngot-03702",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-che-matcha-ngoc-thach-dep-mat-ngon-ngot-03702",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Kem tươi 250 ml",
+      "raw_name": "Kem tươi",
+      "quantity": 250,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa tươi không đường 220 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 220,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột trà xanh 21 gr",
+      "raw_name": "Bột trà xanh",
+      "quantity": 21,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột rau cau giòn 15 gr",
+      "raw_name": "Bột rau cau giòn",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột rau cau dẻo 10 gr",
+      "raw_name": "Bột rau cau dẻo",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột cà phê sữa 16 gr (1 gói)",
+      "raw_name": "Bột cà phê sữa",
+      "quantity": 16,
+      "unit": "gr",
+      "note": "1 gói",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước cốt dừa 330 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 330,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột gelatine 10 gr",
+      "raw_name": "Bột gelatine",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường cát 360 gr",
+      "raw_name": "Đường cát",
+      "quantity": 360,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bột năng 10 gr",
+      "raw_name": "Bột năng",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Hạt é 1 muỗng canh",
+      "raw_name": "Hạt é",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Muối 1 gr",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T20:17:43Z",
+  "page_title": "Cách làm chè matcha ngọc thạch đẹp mắt ngon ngọt thơm béo",
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookProduct/Cach-lam-che-matcha-ngoc-thach-dep-mat-ngon-ngot-thom-beo-1-1200x676.jpg"
+}

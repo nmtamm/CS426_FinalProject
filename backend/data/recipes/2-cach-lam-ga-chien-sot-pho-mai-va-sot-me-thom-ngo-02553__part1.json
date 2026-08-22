@@ -1,0 +1,161 @@
+{
+  "source_id": "02553",
+  "name": "Gà chiên sốt phô mai",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0f224e24c0a55ae3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-ga-chien-sot-pho-mai-va-sot-me-thom-ngo-02553",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-ga-chien-sot-pho-mai-va-sot-me-thom-ngo-02553",
+  "servings_text": "Cho 4 người ăn",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Má đùi gà 500 g",
+      "raw_name": "Má đùi gà",
+      "quantity": 500,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gừng băm nhuyễn 1 muỗng canh",
+      "raw_name": "Gừng băm nhuyễn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tiêu 1 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rượu sake 1 muỗng canh (hoặc rượu trắng)",
+      "raw_name": "Rượu sake",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "hoặc rượu trắng",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước tương 1 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu mè 1 muỗng cà phê",
+      "raw_name": "Dầu mè",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Trứng gà 1 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bột khoai tây 100 g",
+      "raw_name": "Bột khoai tây",
+      "quantity": 100,
+      "unit": "g",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Bơ lạt 15 g",
+      "raw_name": "Bơ lạt",
+      "quantity": 15,
+      "unit": "g",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Bột mì 10 g",
+      "raw_name": "Bột mì",
+      "quantity": 10,
+      "unit": "g",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Sữa tươi không đường 100 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Sữa đặc 20 ml",
+      "raw_name": "Sữa đặc",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Cái Phô mai 30 g (con bò cười)",
+      "raw_name": "Cái Phô mai",
+      "quantity": 30,
+      "unit": "g",
+      "note": "con bò cười",
+      "display_order": 15
+    },
+    {
+      "raw_text": "Tương cà 1 muỗng canh",
+      "raw_name": "Tương cà",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Tiêu xay 1 muỗng cà phê",
+      "raw_name": "Tiêu xay",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 17
+    }
+  ],
+  "scraped_at": "2026-08-19T18:09:09Z",
+  "page_title": "2 cách làm gà chiên sốt phô mai và sốt mè thơm ngon, béo ngậy, ăn là ghiền",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/ga-chien-sot-pho-mai-thumbnail.jpg"
+}

@@ -1,0 +1,53 @@
+{
+  "source_id": "10396",
+  "name": "Trà long nhãn tắc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ef1d51e967d7de89.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-pha-tra-long-nhan-tac-va-tra-long-nhan-o-long-thom-10396",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-pha-tra-long-nhan-tac-va-tra-long-nhan-o-long-thom-10396",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Long nhãn 565 gr (long nhãn đóng hộp)",
+      "raw_name": "Long nhãn",
+      "quantity": 565,
+      "unit": "gr",
+      "note": "long nhãn đóng hộp",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tắc 1 quả",
+      "raw_name": "Tắc",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trà túi lọc 2 gói",
+      "raw_name": "Trà túi lọc",
+      "quantity": 2,
+      "unit": "gói",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 6 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 6,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:58:10Z",
+  "page_title": "2 Cách pha trà long nhãn tắc và trà long nhãn Ô Long giải nhiệt mùa hè",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/tra-long-nhan-tac-thumbnail-1.jpg"
+}

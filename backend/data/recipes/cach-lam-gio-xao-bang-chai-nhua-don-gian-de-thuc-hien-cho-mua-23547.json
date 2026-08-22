@@ -1,0 +1,75 @@
+{
+  "source_id": "23547",
+  "name": "Giò xào bằng chai nhựa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/735fb2c1f445b2c6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-gio-xao-bang-chai-nhua-don-gian-de-thuc-hien-cho-mua-23547",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-gio-xao-bang-chai-nhua-don-gian-de-thuc-hien-cho-mua-23547",
+  "servings_text": "Cho 1 cây giò (khoảng 4-6 người ăn)",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt thủ 500 gr",
+      "raw_name": "Thịt thủ",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt nạc vai 500 gr (hoặc thịt chân giò)",
+      "raw_name": "Thịt nạc vai",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "hoặc thịt chân giò",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mộc nhĩ khô 20 gr",
+      "raw_name": "Mộc nhĩ khô",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nấm hương khô 20 gr",
+      "raw_name": "Nấm hương khô",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành khô 1 củ",
+      "raw_name": "Hành khô",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (nước mắm/hạt tiêu/bột cay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "nước mắm/hạt tiêu/bột cay",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Vỏ chai Coca 1 cái (loại 1.5L hoặc 2L)",
+      "raw_name": "Vỏ chai Coca",
+      "quantity": 1,
+      "unit": "cái",
+      "note": "loại 1.5L hoặc 2L",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:32:48Z",
+  "page_title": "Cách làm giò xào bằng chai nhựa đơn giản dễ thực hiện cho mùa Tết",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/cach-lam-banh-bo-bang-bot-gao-mem-xop-nhieu-re-tre-khong-bi%20%283%29.jpg"
+}

@@ -1,0 +1,87 @@
+{
+  "source_id": "14047",
+  "name": "Pad krapao (thịt bò xào lá hương nhu) kiểu Thái",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/629daa5ba06f4a4d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-pad-krapao-thit-bo-xao-la-huong-nhu-kieu-thai-14047",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-pad-krapao-thit-bo-xao-la-huong-nhu-kieu-thai-14047",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò 300 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lá hương nhu 50 gr (hoặc lá húng quế)",
+      "raw_name": "Lá hương nhu",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "hoặc lá húng quế",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 4 nhánh",
+      "raw_name": "Tỏi",
+      "quantity": 4,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ hạt nêm/ bột ngọt/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ hạt nêm/ bột ngọt/ tiêu xay",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:23:58Z",
+  "page_title": "Cách làm món pad krapao (thịt bò xào lá hương nhu) kiểu Thái cực đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-mon-pad-krapao-thit-bo-xao-la-huong-nhu-kieu-thai-avt-1200x676.jpg"
+}

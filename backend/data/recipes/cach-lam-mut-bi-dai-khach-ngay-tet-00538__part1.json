@@ -1,0 +1,65 @@
+{
+  "source_id": "00538",
+  "name": "Mứt bí",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4af2f91d45c79795.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-bi-dai-khach-ngay-tet-00538",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-bi-dai-khach-ngay-tet-00538",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bí đao già 400 g",
+      "raw_name": "Bí đao già",
+      "quantity": 400,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường trắng 400 g",
+      "raw_name": "Đường trắng",
+      "quantity": 400,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Phèn chua 14 g",
+      "raw_name": "Phèn chua",
+      "quantity": 14,
+      "unit": "g",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Vôi trắng 30 g",
+      "raw_name": "Vôi trắng",
+      "quantity": 30,
+      "unit": "g",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Vani không màu 1 ống",
+      "raw_name": "Vani không màu 1 ống",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:16:14Z",
+  "page_title": "2 Cách làm mứt bí cực đơn giản mà thơm ngon đãi khách ngày Tết",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/mut-bi-thumbnail.jpg"
+}

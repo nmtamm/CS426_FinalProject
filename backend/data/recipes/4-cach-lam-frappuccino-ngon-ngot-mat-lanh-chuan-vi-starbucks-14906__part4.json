@@ -1,0 +1,77 @@
+{
+  "source_id": "14906",
+  "name": "Mocha Cookie Crumble Frappuccino",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/50119ee971e9f4ef.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-frappuccino-ngon-ngot-mat-lanh-chuan-vi-starbucks-14906",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-frappuccino-ngon-ngot-mat-lanh-chuan-vi-starbucks-14906",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sữa tươi 100 ml",
+      "raw_name": "Sữa tươi",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà phê espresso 6 muỗng canh",
+      "raw_name": "Cà phê espresso",
+      "quantity": 6,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Socola chip 20 gr",
+      "raw_name": "Socola chip",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Siro socola 3 muỗng canh",
+      "raw_name": "Siro socola",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tinh chất vani 2 muỗng canh",
+      "raw_name": "Tinh chất vani",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Whipping cream 1 ít (đã đánh bông)",
+      "raw_name": "Whipping cream",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đã đánh bông",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đá viên 50 gr",
+      "raw_name": "Đá viên",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:04:27Z",
+  "page_title": "4 cách làm Frappuccino ngon ngọt mát lạnh chuẩn vị Starbucks",
+  "variant_index": 4,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/mocha-cookie-crumble-frappuccino-thumbnail.jpg"
+}

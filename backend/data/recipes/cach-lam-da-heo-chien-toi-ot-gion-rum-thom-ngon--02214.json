@@ -1,0 +1,55 @@
+{
+  "source_id": "02214",
+  "name": "Da heo chiên tỏi ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/dd8e96c430fd4839.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-da-heo-chien-toi-ot-gion-rum-thom-ngon--02214",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-da-heo-chien-toi-ot-gion-rum-thom-ngon--02214",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Da heo 300 gr",
+      "raw_name": "Da heo",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt 3 trái",
+      "raw_name": "Ớt",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gia vị 50 gr (dầu ăn/ muối/ hạt nêm/ bột ngọt/ ớt khô...)",
+      "raw_name": "Gia vị",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "dầu ăn/ muối/ hạt nêm/ bột ngọt/ ớt khô...",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:09:13Z",
+  "page_title": "Cách làm da heo chiên tỏi ớt giòn rụm, thơm ngon, ăn là ghiền",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/04/27/1252131/cach-lam-da-heo-chien-toi-ot-gion-rum-thom-ngon--1-760x367.jpg"
+}

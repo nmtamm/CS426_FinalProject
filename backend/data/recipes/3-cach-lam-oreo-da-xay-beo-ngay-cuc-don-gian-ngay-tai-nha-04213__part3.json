@@ -1,0 +1,69 @@
+{
+  "source_id": "04213",
+  "name": "Oreo Frappuccino",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a8bbb962e53fb599.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-oreo-da-xay-beo-ngay-cuc-don-gian-ngay-tai-nha-04213",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-oreo-da-xay-beo-ngay-cuc-don-gian-ngay-tai-nha-04213",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh oreo 2 cái",
+      "raw_name": "Bánh oreo",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sốt socola 2 muỗng canh",
+      "raw_name": "Sốt socola",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Kem 1 muỗng",
+      "raw_name": "Kem",
+      "quantity": 1,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa 120 ml",
+      "raw_name": "Sữa",
+      "quantity": 120,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Socola chip 30 gr",
+      "raw_name": "Socola chip",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đá 150 gr",
+      "raw_name": "Đá",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:00:20Z",
+  "page_title": "3 cách làm oreo đá xay béo ngậy, cực đơn giản ngay tại nhà",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/oreo-frapuccino-thumbnail.jpg"
+}

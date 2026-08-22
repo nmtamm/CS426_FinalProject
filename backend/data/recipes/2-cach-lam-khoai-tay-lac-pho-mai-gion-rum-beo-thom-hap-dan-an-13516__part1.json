@@ -1,0 +1,61 @@
+{
+  "source_id": "13516",
+  "name": "Khoai tây lắc phô mai",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8d81b1c2efa9f633.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-khoai-tay-lac-pho-mai-gion-rum-beo-thom-hap-dan-an-13516",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-khoai-tay-lac-pho-mai-gion-rum-beo-thom-hap-dan-an-13516",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai tây 4 củ",
+      "raw_name": "Khoai tây",
+      "quantity": 4,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột phô mai 1 muỗng canh",
+      "raw_name": "Bột phô mai",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bơ thực vật 1 muỗng canh",
+      "raw_name": "Bơ thực vật",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 500 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T18:54:53Z",
+  "page_title": "3 cách làm khoai tây lắc phô mai giòn rụm béo thơm hấp dẫn ăn là ghiền",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/120000.jpg"
+}

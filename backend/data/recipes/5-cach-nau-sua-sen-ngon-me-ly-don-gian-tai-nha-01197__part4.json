@@ -1,0 +1,61 @@
+{
+  "source_id": "01197",
+  "name": "Sữa hạt sen bí đỏ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2975e09a14b69dc5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/5-cach-nau-sua-sen-ngon-me-ly-don-gian-tai-nha-01197",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/5-cach-nau-sua-sen-ngon-me-ly-don-gian-tai-nha-01197",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bí đỏ 100 gr",
+      "raw_name": "Bí đỏ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hạt sen 100 gr",
+      "raw_name": "Hạt sen",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa đặc 1 muỗng canh",
+      "raw_name": "Sữa đặc",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lá dứa 3 lá",
+      "raw_name": "Lá dứa",
+      "quantity": 3,
+      "unit": "lá",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:57:55Z",
+  "page_title": "6 cách nấu sữa hạt sen ngon mê ly đơn giản bằng máy xay sinh tố",
+  "variant_index": 4,
+  "variant_count": 6,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/sua-hat-sen-bi-do-thumbnail.jpg"
+}

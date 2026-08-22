@@ -1,0 +1,83 @@
+{
+  "source_id": "00713",
+  "name": "Soda mùa hè",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ca90d3bdc6aac767.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-soda-mua-xuan-ngon-ngat-ngay-00713",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-soda-mua-xuan-ngon-ngat-ngay-00713",
+  "servings_text": "Cho 2 ngươi",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Kiwi 4 quả",
+      "raw_name": "Kiwi",
+      "quantity": 4,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chanh dây 3 quả (chanh leo)",
+      "raw_name": "Chanh dây",
+      "quantity": 3,
+      "unit": "quả",
+      "note": "chanh leo",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dâu tây 200 g",
+      "raw_name": "Dâu tây",
+      "quantity": 200,
+      "unit": "g",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 300 g",
+      "raw_name": "Đường",
+      "quantity": 300,
+      "unit": "g",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lá bạc hà hoặc húng lủi trang trí 10 gr",
+      "raw_name": "Lá bạc hà hoặc húng lủi trang trí",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Chanh tươi 3 trái",
+      "raw_name": "Chanh tươi",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Soda 300 ml",
+      "raw_name": "Soda",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đá viên 1 tô",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "tô",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:08:12Z",
+  "page_title": "Hướng dẫn chi tiết cách làm soda mùa hè giải nhiệt thơm ngon",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2017/01/25/941486/cach-lam-soda-mua-xuan-ngon-ngat-ngay-760x367.jpg"
+}

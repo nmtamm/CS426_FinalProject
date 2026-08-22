@@ -1,0 +1,65 @@
+{
+  "source_id": "10067",
+  "name": "Canh bí đao chay đậu hũ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d91e8041fa703619.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/4-cach-nau-canh-bi-dao-chay-thanh-dam-thom-ngon-don-gian-cho-10067",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/4-cach-nau-canh-bi-dao-chay-thanh-dam-thom-ngon-don-gian-cho-10067",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-canh",
+      "name": "Món canh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bí đao 1 quả (400gr)",
+      "raw_name": "Bí đao",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "400gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu hũ 200 gr",
+      "raw_name": "Đậu hũ",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tím 2 củ",
+      "raw_name": "Hành tím",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ tiêu/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ tiêu/ bột ngọt",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T18:49:54Z",
+  "page_title": "4 cách nấu canh bí đao chay thanh đạm thơm ngon đơn giản cho gia đình",
+  "variant_index": 2,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/canh-bi-dao-chay-dau-hu-thumbnail-1.jpg"
+}

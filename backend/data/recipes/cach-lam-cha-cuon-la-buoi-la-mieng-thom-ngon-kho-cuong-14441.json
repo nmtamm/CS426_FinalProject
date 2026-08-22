@@ -1,0 +1,59 @@
+{
+  "source_id": "14441",
+  "name": "Chả cuốn lá bưởi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/56f4df3e2c143b0f.jpeg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-cuon-la-buoi-la-mieng-thom-ngon-kho-cuong-14441",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-cuon-la-buoi-la-mieng-thom-ngon-kho-cuong-14441",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt heo 300 gr",
+      "raw_name": "Thịt heo",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lá bưởi 20 gr (khoảng 20 lá)",
+      "raw_name": "Lá bưởi",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "khoảng 20 lá",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tím 2 củ",
+      "raw_name": "Hành tím",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng cà phê",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ tiêu xay/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ tiêu xay/ bột ngọt",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:32:55Z",
+  "page_title": "Cách làm chả cuốn lá bưởi lạ miệng, thơm ngon, khó cưỡng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-cha-cuon-la-buoi-la-mieng-thom-ngon-kho-cuong-avt-1200x676.jpeg"
+}

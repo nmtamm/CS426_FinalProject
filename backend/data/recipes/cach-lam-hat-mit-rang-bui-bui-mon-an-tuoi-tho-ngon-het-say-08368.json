@@ -1,0 +1,43 @@
+{
+  "source_id": "08368",
+  "name": "Hạt mít rang",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/99cc432f13822661.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-hat-mit-rang-bui-bui-mon-an-tuoi-tho-ngon-het-say-08368",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-hat-mit-rang-bui-bui-mon-an-tuoi-tho-ngon-het-say-08368",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hạt mít 300 gr",
+      "raw_name": "Hạt mít",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng cà phê",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:05:31Z",
+  "page_title": "Cách làm hạt mít rang bùi bùi món ăn tuổi thơ ngon hết sẩy",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/1-1200x676-45.jpg"
+}

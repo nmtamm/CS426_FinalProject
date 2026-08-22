@@ -1,0 +1,89 @@
+{
+  "source_id": "04341",
+  "name": "Cua đồng rang lá chanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a70d1e7408dd9055.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-cua-dong-rang-muoi-ot-va-rang-la-chanh-gion-tan-04341",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-cua-dong-rang-muoi-ot-va-rang-la-chanh-gion-tan-04341",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cua đồng 500 gr",
+      "raw_name": "Cua đồng",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cơm mẻ 1/2 muỗng cà phê",
+      "raw_name": "Cơm mẻ",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 1/2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tương ớt 1/3 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 0.333,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi băm 10 gr",
+      "raw_name": "Tỏi băm",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hạt nêm 1 muỗng cà phê",
+      "raw_name": "Hạt nêm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tím 5 gr",
+      "raw_name": "Hành tím",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Lá chanh 5 cái",
+      "raw_name": "Lá chanh",
+      "quantity": 5,
+      "unit": "cái",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:24:53Z",
+  "page_title": "2 cách làm cua đồng rang muối ớt và rang lá chanh giòn tan thơm lừng",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/cua-dong-rang-la-chanh-thumbnail-1.jpg"
+}

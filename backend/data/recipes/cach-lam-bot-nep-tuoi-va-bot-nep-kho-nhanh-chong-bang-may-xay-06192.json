@@ -1,0 +1,31 @@
+{
+  "source_id": "06192",
+  "name": "Bột nếp tươi và bột nếp khô",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0a20b1849c2b0c92.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bot-nep-tuoi-va-bot-nep-kho-nhanh-chong-bang-may-xay-06192",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bot-nep-tuoi-va-bot-nep-kho-nhanh-chong-bang-may-xay-06192",
+  "servings_text": "Cho 300gr bột",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    },
+    {
+      "slug": "meo-vao-bep",
+      "name": "Mẹo vào bếp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gạo nếp 300 gr",
+      "raw_name": "Gạo nếp",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    }
+  ],
+  "scraped_at": "2026-08-19T20:31:35Z",
+  "page_title": "Cách làm bột nếp tươi và bột nếp khô nhanh chóng bằng máy xay sinh tố",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/1200-1200x676-1.jpg"
+}

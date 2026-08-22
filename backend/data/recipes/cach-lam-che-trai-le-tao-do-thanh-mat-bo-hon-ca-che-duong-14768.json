@@ -1,0 +1,63 @@
+{
+  "source_id": "14768",
+  "name": "Chè trái lê táo đỏ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6ab5b9c91a5572ff.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-che-trai-le-tao-do-thanh-mat-bo-hon-ca-che-duong-14768",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-che-trai-le-tao-do-thanh-mat-bo-hon-ca-che-duong-14768",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-che",
+      "name": "Món chè"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lê 3 trái",
+      "raw_name": "Lê",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Táo đỏ 150 gr",
+      "raw_name": "Táo đỏ",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Kỷ tử 25 gr",
+      "raw_name": "Kỷ tử",
+      "quantity": 25,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường phèn 100 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước lọc 1 lít",
+      "raw_name": "Nước lọc 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:14:45Z",
+  "page_title": "Cách làm chè trái lê táo đỏ thanh mát, bổ hơn cả chè dưỡng nhan",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-che-trai-le-tao-do-thanh-mat-bo-hon-ca-che-duong-avt-1200x676.jpg"
+}

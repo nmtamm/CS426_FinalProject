@@ -1,0 +1,45 @@
+{
+  "source_id": "09754",
+  "name": "Sữa chua thạch dừa mật ong",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8531dc6301134468.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-chua-thach-hoa-qua-trai-cay-mat-lanh-giai-nhiet-09754",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-chua-thach-hoa-qua-trai-cay-mat-lanh-giai-nhiet-09754",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sữa chua 1 hộp",
+      "raw_name": "Sữa chua",
+      "quantity": 1,
+      "unit": "hộp",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thạch dừa 100 gr",
+      "raw_name": "Thạch dừa",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mật ong 1 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T20:19:34Z",
+  "page_title": "3 cách làm sữa chua thạch dẻo dai ngon miệng siêu đơn giản",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/sua-chua-thach-dua-mat-ong-thumbnail.jpg"
+}

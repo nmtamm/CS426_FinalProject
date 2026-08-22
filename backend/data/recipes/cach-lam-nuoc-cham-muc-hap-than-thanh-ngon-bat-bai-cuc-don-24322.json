@@ -1,0 +1,83 @@
+{
+  "source_id": "24322",
+  "name": "Nước chấm mực hấp",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/99f32183b495e594.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-cham-muc-hap-than-thanh-ngon-bat-bai-cuc-don-24322",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-cham-muc-hap-than-thanh-ngon-bat-bai-cuc-don-24322",
+  "servings_text": "Cho 1 bát nước chấm (cho 500gr - 1kg mực)",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đường thốt nốt 1 muỗng canh (hoặc đường cát)",
+      "raw_name": "Đường thốt nốt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "hoặc đường cát",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tắc 4 quả (quả hạnh)",
+      "raw_name": "Tắc",
+      "quantity": 4,
+      "unit": "quả",
+      "note": "quả hạnh",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt sừng 1 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng tươi 3 lát",
+      "raw_name": "Gừng tươi 3 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 3 tép",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sả 1 ít (phần gốc trắng)",
+      "raw_name": "Sả",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "phần gốc trắng",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Lá chanh 5 lá",
+      "raw_name": "Lá chanh",
+      "quantity": 5,
+      "unit": "lá",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (tiêu xay/ bột canh/ tương ớt/ nước mắm ngon)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "tiêu xay/ bột canh/ tương ớt/ nước mắm ngon",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:24:53Z",
+  "page_title": "Cách làm nước chấm mực hấp thần thánh ngon bất bại cực đơn giản tại nhà",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t04%201200676%20%2829%29.jpg"
+}

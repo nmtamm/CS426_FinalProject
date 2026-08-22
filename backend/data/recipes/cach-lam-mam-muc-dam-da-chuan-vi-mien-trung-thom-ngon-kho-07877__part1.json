@@ -1,0 +1,53 @@
+{
+  "source_id": "07877",
+  "name": "Mắm mực",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5cf61fd8293b47da.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mam-muc-dam-da-chuan-vi-mien-trung-thom-ngon-kho-07877",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mam-muc-dam-da-chuan-vi-mien-trung-thom-ngon-kho-07877",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mực tươi 1 kg (loại tùy sở thích)",
+      "raw_name": "Mực tươi",
+      "quantity": 1,
+      "unit": "kg",
+      "note": "loại tùy sở thích",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt tươi 7 trái",
+      "raw_name": "Ớt tươi",
+      "quantity": 7,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối hạt 180 gr",
+      "raw_name": "Muối hạt",
+      "quantity": 180,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 2 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:29:56Z",
+  "page_title": "2 cách làm mắm mực đậm đà chuẩn vị miền Trung thơm ngon khó cưỡng",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookRecipe/Avatar/MamMuctulamDacSanQuangNgai-SaltedsquickConBaBinh0-1screenshot.jpg"
+}

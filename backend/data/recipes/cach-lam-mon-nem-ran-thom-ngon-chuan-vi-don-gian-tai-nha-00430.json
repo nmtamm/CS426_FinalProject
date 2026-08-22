@@ -1,0 +1,131 @@
+{
+  "source_id": "00430",
+  "name": "Nem rán",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ecdbc3064290803f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-nem-ran-thom-ngon-chuan-vi-don-gian-tai-nha-00430",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-nem-ran-thom-ngon-chuan-vi-don-gian-tai-nha-00430",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt nạc vai lợn 200 gr",
+      "raw_name": "Thịt nạc vai lợn",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Miến 100 gr",
+      "raw_name": "Miến",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng gà 3 quả (Chỉ lấy lòng đỏ)",
+      "raw_name": "Trứng gà",
+      "quantity": 3,
+      "unit": "quả",
+      "note": "Chỉ lấy lòng đỏ",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bánh đa nem 1 gói (loại mềm)",
+      "raw_name": "Bánh đa nem",
+      "quantity": 1,
+      "unit": "gói",
+      "note": "loại mềm",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Giá đỗ 1 bát (Bát nhỏ)",
+      "raw_name": "Giá đỗ",
+      "quantity": 1,
+      "unit": "bát",
+      "note": "Bát nhỏ",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Cà rốt 1/2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Mộc nhĩ 15 gr",
+      "raw_name": "Mộc nhĩ",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tỏi 50 gr",
+      "raw_name": "Tỏi",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Ớt 50 gr",
+      "raw_name": "Ớt",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Rau mùi 1 ít",
+      "raw_name": "Rau mùi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước cốt chanh 2 muỗng cà phê",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước mắm 50 ml",
+      "raw_name": "Nước mắm",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Đường/ hạt nêm/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Đường/ hạt nêm/ tiêu xay",
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T20:36:36Z",
+  "page_title": "Cách làm món nem rán thơm ngon chuẩn vị đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2022/10/CookDish/cach-lam-mon-nem-ran-thom-ngon-chuan-vi-don-gian-tai-nha-avt-1200x676.jpg"
+}

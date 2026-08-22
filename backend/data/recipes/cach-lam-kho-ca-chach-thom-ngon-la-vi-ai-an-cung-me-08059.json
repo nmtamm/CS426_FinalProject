@@ -1,0 +1,59 @@
+{
+  "source_id": "08059",
+  "name": "Khô cá chạch",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/24122f7be3c13321.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kho-ca-chach-thom-ngon-la-vi-ai-an-cung-me-08059",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kho-ca-chach-thom-ngon-la-vi-ai-an-cung-me-08059",
+  "servings_text": "Cho 500gr khô cá",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cá chạch 2 kg",
+      "raw_name": "Cá chạch",
+      "quantity": 2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rượu trắng 60 ml",
+      "raw_name": "Rượu trắng",
+      "quantity": 60,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột ớt 1 muỗng canh",
+      "raw_name": "Bột ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối hạt 3 muỗng canh",
+      "raw_name": "Muối hạt",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột ngọt 2 muỗng cà phê",
+      "raw_name": "Bột ngọt",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:29:50Z",
+  "page_title": "Cách làm khô cá chạch thơm ngon, lạ vị ai ăn cũng mê",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/CachlamKhoCaChachcucdongianbosungmonngonngayTetbyHongThaanhFood0-11screenshot-1200x676.jpg"
+}

@@ -1,0 +1,35 @@
+{
+  "source_id": "23088",
+  "name": "Chả lụa chay từ bột mì",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f00cfb9d2ee0d405.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-lua-chay-tu-bot-mi-dai-ngon-don-gian-de-kho-xao-23088",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-lua-chay-tu-bot-mi-dai-ngon-don-gian-de-kho-xao-23088",
+  "servings_text": "Cho 2 cây chả 250gr",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì đa dụng 1 kg (hoặc bột mì số 11/ bột mì số 13)",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 1,
+      "unit": "kg",
+      "note": "hoặc bột mì số 11/ bột mì số 13",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (hạt nêm chay/ đường/ tiêu xay/ nước mắm chay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hạt nêm chay/ đường/ tiêu xay/ nước mắm chay",
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T18:36:44Z",
+  "page_title": "Cách làm chả lụa chay từ bột mì dai ngon, đơn giản để kho, xào, nấu lẩu",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20thumb%20to%20t8%20%2824%29.jpg"
+}

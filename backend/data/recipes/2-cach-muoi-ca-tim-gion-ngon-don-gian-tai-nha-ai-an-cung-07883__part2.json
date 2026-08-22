@@ -1,0 +1,69 @@
+{
+  "source_id": "07883",
+  "name": "Cà tím tròn muối xổi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2c8bfb445c2a3b55.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-muoi-ca-tim-gion-ngon-don-gian-tai-nha-ai-an-cung-07883",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-muoi-ca-tim-gion-ngon-don-gian-tai-nha-ai-an-cung-07883",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cà tím tròn 2 trái",
+      "raw_name": "Cà tím tròn",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt hiểm 1 trái",
+      "raw_name": "Ớt hiểm",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 2 tép",
+      "raw_name": "Tỏi 2 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Giấm 2 thìa cà phê",
+      "raw_name": "Giấm",
+      "quantity": 2,
+      "unit": "thìa cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 2 thìa cà phê",
+      "raw_name": "Muối",
+      "quantity": 2,
+      "unit": "thìa cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 1 thìa cà phê",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "thìa cà phê",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T17:59:05Z",
+  "page_title": "2 Cách muối cà tím giòn ngon, đơn giản tại nhà, ai ăn cũng thích",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/ca-tim-tron-muoi-xoi-thumbnail-1.jpg"
+}

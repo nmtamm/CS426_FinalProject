@@ -1,0 +1,61 @@
+{
+  "source_id": "14756",
+  "name": "Chè đậu đỏ pudding sữa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b612da1c5406dce5.jpeg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-4-mon-trang-mieng-voi-dau-do-ngot-bui-thom-beo-kho-14756",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-4-mon-trang-mieng-voi-dau-do-ngot-bui-thom-beo-kho-14756",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu đỏ 200 gr (Nấu mềm)",
+      "raw_name": "Đậu đỏ",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "Nấu mềm",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Whipping cream 200 ml",
+      "raw_name": "Whipping cream",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa tươi 600 ml",
+      "raw_name": "Sữa tươi",
+      "quantity": 600,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 100 gr",
+      "raw_name": "Đường",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột rau câu dẻo 10 gr",
+      "raw_name": "Bột rau câu dẻo",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:19:51Z",
+  "page_title": "Cách làm 4 món tráng miệng với đậu đỏ ngọt bùi thơm béo khó cưỡng",
+  "variant_index": 3,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/che-dau-do-pudding-sua-thumbnail.jpeg"
+}

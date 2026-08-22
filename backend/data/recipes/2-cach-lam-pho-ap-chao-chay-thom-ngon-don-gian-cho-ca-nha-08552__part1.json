@@ -1,0 +1,185 @@
+{
+  "source_id": "08552",
+  "name": "Phở áp chảo chay nấm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/12727be8c9873ea0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-pho-ap-chao-chay-thom-ngon-don-gian-cho-ca-nha-08552",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-pho-ap-chao-chay-thom-ngon-don-gian-cho-ca-nha-08552",
+  "servings_text": "Cho 3 người ăn",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh phở khô 600 gr",
+      "raw_name": "Bánh phở khô",
+      "quantity": 600,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm 250 gr (nấm mỡ/ nấm mối)",
+      "raw_name": "Nấm",
+      "quantity": 250,
+      "unit": "gr",
+      "note": "nấm mỡ/ nấm mối",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu hũ 250 gr (6 miếng)",
+      "raw_name": "Đậu hũ",
+      "quantity": 250,
+      "unit": "gr",
+      "note": "6 miếng",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cải thảo 250 gr",
+      "raw_name": "Cải thảo",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cải thìa 250 gr",
+      "raw_name": "Cải thìa",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt sừng 1 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành boa rô 1 nhánh",
+      "raw_name": "Hành boa rô",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Cà rốt 2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Cà chua 2 quả",
+      "raw_name": "Cà chua",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Ngò rí 3 nhánh",
+      "raw_name": "Ngò rí",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Cần tây 2 nhánh",
+      "raw_name": "Cần tây",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước tương 3 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu mè 1 muỗng cà phê",
+      "raw_name": "Dầu mè",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Hắc xì dầu 2 muỗng canh",
+      "raw_name": "Hắc xì dầu",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Tương cà 1 muỗng canh",
+      "raw_name": "Tương cà",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Tương đen 1 muỗng canh",
+      "raw_name": "Tương đen",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Bột bắp 1.5 muỗng canh",
+      "raw_name": "Bột bắp",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 17
+    },
+    {
+      "raw_text": "Dầu ăn 210 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 210,
+      "unit": "ml",
+      "note": null,
+      "display_order": 18
+    },
+    {
+      "raw_text": "Dầu mè 1 muỗng cà phê",
+      "raw_name": "Dầu mè",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 19
+    },
+    {
+      "raw_text": "Đường/ tiêu xay 1 ít",
+      "raw_name": "Đường/ tiêu xay",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 20
+    }
+  ],
+  "scraped_at": "2026-08-19T18:50:12Z",
+  "page_title": "2 Cách làm phở áp chảo chay thơm ngon đơn giản cho cả nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/pho-ap-chao-chay-nam-thumbnail.jpg"
+}

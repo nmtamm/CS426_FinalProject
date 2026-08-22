@@ -1,0 +1,39 @@
+{
+  "source_id": "03757",
+  "name": "Bánh trung thu Nhật Bản - Tsukimi Dango",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/42c4992350f6eb73.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-nhat-ban-tsukimi-dango-don-gian-nhat-03757",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-nhat-ban-tsukimi-dango-don-gian-nhat-03757",
+  "servings_text": "Cho 15 cái",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột gạo 240 g",
+      "raw_name": "Bột gạo",
+      "quantity": 240,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước ấm 240 ml",
+      "raw_name": "Nước ấm",
+      "quantity": 240,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:25:50Z",
+  "page_title": "Cách làm bánh trung thu Nhật Bản - Tsukimi Dango đơn giản nhất",
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookProduct/1200bttnb-1200x676.jpg"
+}

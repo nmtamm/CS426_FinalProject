@@ -1,0 +1,66 @@
+{
+  "source_id": "02181",
+  "name": "Bánh mì tôm chiên",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0f306920d5918842.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-banh-mi-chien-tom-gion-rum-thom-ngon-nuc-mui-02181",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-banh-mi-chien-tom-gion-rum-thom-ngon-nuc-mui-02181",
+  "servings_text": "Cho 1 - 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột chiên giòn 300 gr",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bánh mì 2 cái",
+      "raw_name": "Bánh mì",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tôm 200 gr",
+      "raw_name": "Tôm",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Màu gạch tôm 1 ít",
+      "raw_name": "Màu gạch tôm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 200 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:13:10Z",
+  "page_title": "Cách làm món bánh mì chiên tôm giòn rụm, thơm ngon nức mũi",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "Công thức được chia sẻ từ Tiktok Vào bếp cùng Điện máy XANH",
+  "original_image_url": "https://cdn.tgdd.vn/2023/05/CookRecipe/Avatar/banh-mi-tom-chien-cong-thuc-duoc-chia-se-tu-tiktok-vao-bep-dien-may-xanh-thumbnail.jpg"
+}

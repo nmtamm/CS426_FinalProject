@@ -1,0 +1,123 @@
+{
+  "source_id": "13121",
+  "name": "Chân bò hầm sả",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0337c03819125929.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chan-bo-ham-sa-thom-ngon-ngat-ngay-vo-cung-don-gian-13121",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chan-bo-ham-sa-thom-ngon-ngat-ngay-vo-cung-don-gian-13121",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chân bò 4 kg",
+      "raw_name": "Chân bò",
+      "quantity": 4,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bắp bò 1.1 kg",
+      "raw_name": "Bắp bò",
+      "quantity": 1.1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Củ cải trắng 3 củ",
+      "raw_name": "Củ cải trắng",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tây 2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tím 100 gr",
+      "raw_name": "Hành tím",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành lá 3 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ngò gai 3 nhánh",
+      "raw_name": "Ngò gai",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Rau ôm 3 nhánh",
+      "raw_name": "Rau ôm",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gừng 100 gr (1 củ)",
+      "raw_name": "Gừng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "1 củ",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Sả 8 nhánh",
+      "raw_name": "Sả",
+      "quantity": 8,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước dừa tươi 2 lít",
+      "raw_name": "Nước dừa tươi 2 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Đường phèn 200 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Hạt nêm/ Muối/ Bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Hạt nêm/ Muối/ Bột ngọt",
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T18:31:50Z",
+  "page_title": "Cách làm chân bò hầm sả thơm ngon ngất ngây vô cùng đơn giản ngay tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookProduct/1200(8)-1200x676.jpg"
+}

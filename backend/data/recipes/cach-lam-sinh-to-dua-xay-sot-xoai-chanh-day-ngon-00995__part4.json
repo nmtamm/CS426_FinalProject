@@ -1,0 +1,77 @@
+{
+  "source_id": "00995",
+  "name": "Sinh tố dừa nhãn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e6ce6c7dd6a59fc3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sinh-to-dua-xay-sot-xoai-chanh-day-ngon-00995",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sinh-to-dua-xay-sot-xoai-chanh-day-ngon-00995",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dừa 1 quả",
+      "raw_name": "Dừa",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nhãn 10 quả",
+      "raw_name": "Nhãn",
+      "quantity": 10,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước dừa tươi 150 ml",
+      "raw_name": "Nước dừa tươi",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa tươi 200 ml (loại tùy thích)",
+      "raw_name": "Sữa tươi",
+      "quantity": 200,
+      "unit": "ml",
+      "note": "loại tùy thích",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sữa đặc 5 muỗng canh",
+      "raw_name": "Sữa đặc",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 5 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đá 1 ít",
+      "raw_name": "Đá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:09:40Z",
+  "page_title": "5 cách làm sinh tố dừa xay béo ngậy, thơm ngon giải nhiệt mùa hè",
+  "variant_index": 4,
+  "variant_count": 5,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/sinh-to-dua-nhan-thumbnail.jpg"
+}

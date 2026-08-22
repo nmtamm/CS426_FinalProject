@@ -1,0 +1,61 @@
+{
+  "source_id": "00652",
+  "name": "Rong biển cháy tỏi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d17aaf636d00e296.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-rong-bien-chay-toi-gion-ngon-00652",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-rong-bien-chay-toi-gion-ngon-00652",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rong biển 10 lá",
+      "raw_name": "Rong biển",
+      "quantity": 10,
+      "unit": "lá",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tỏi băm 3 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt 5 trái",
+      "raw_name": "Ớt",
+      "quantity": 5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối tôm 1 muỗng canh",
+      "raw_name": "Muối tôm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:14:17Z",
+  "page_title": "2 Cách làm rong biển cháy tỏi ăn vặt cực giòn ngon, bắt vị",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://img.youtube.com/vi/Tqq4as5avsQ/maxresdefault.jpg"
+}

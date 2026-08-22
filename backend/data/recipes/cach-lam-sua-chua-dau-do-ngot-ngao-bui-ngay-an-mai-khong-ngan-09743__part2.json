@@ -1,0 +1,85 @@
+{
+  "source_id": "09743",
+  "name": "Sữa chua đậu đỏ đá xay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2b49c3ae4cd3112b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-chua-dau-do-ngot-ngao-bui-ngay-an-mai-khong-ngan-09743",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-chua-dau-do-ngot-ngao-bui-ngay-an-mai-khong-ngan-09743",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sữa chua có đường 100 ml",
+      "raw_name": "Sữa chua có đường",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột béo 20 gr",
+      "raw_name": "Bột béo",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Kem béo 10 ml",
+      "raw_name": "Kem béo",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đậu đỏ hầm chín đóng hộp 2 muỗng canh",
+      "raw_name": "Đậu đỏ hầm chín đóng hộp",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cốt chanh 5 ml",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 5,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Siro đường 20 ml",
+      "raw_name": "Siro đường",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đá viên 200 gr",
+      "raw_name": "Đá viên",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:15:32Z",
+  "page_title": "2 cách làm sữa chua đậu đỏ ngọt ngào, bùi ngậy ăn mãi không ngán",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/sua-chua-dau-do-da-xay-thumbnail-1.jpg"
+}

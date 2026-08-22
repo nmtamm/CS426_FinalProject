@@ -1,0 +1,83 @@
+{
+  "source_id": "06719",
+  "name": "Gân bò hầm khoai tây cà rốt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/415804dad479aff2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-gan-bo-ham-khoai-tay-ca-rot-mem-thom-hap-dan-dam-da-06719",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-gan-bo-ham-khoai-tay-ca-rot-mem-thom-hap-dan-dam-da-06719",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gân bò 500 gr",
+      "raw_name": "Gân bò",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Khoai tây 2 củ",
+      "raw_name": "Khoai tây",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Su hào 1 củ",
+      "raw_name": "Su hào",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gừng 1 nhánh",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước tương 1.5 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hạt nêm/tiêu 1 ít",
+      "raw_name": "Hạt nêm/tiêu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:27:50Z",
+  "page_title": "Cách nấu gân bò hầm khoai tây cà rốt mềm thơm hấp dẫn đậm đà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/Feedy-VN--Huong-dan-cach-lam-Gan-bo-ham-cu-qua-voi-Feedy-1-5-screenshot-1200x676.jpg"
+}

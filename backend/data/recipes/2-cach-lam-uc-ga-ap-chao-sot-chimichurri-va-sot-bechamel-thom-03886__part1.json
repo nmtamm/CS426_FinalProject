@@ -1,0 +1,129 @@
+{
+  "source_id": "03886",
+  "name": "Ức gà áp chảo sốt chimichurri",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ebab625010645233.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-uc-ga-ap-chao-sot-chimichurri-va-sot-bechamel-thom-03886",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-uc-ga-ap-chao-sot-chimichurri-va-sot-bechamel-thom-03886",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ức gà 500 gr",
+      "raw_name": "Ức gà",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt bột Paprika 1 muỗng",
+      "raw_name": "Ớt bột Paprika",
+      "quantity": 1,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tiêu 1 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cốt chanh 2 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Giấm táo 2 muỗng canh",
+      "raw_name": "Giấm táo",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu olive 2 muỗng canh",
+      "raw_name": "Dầu olive",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ngò tây 30 gr",
+      "raw_name": "Ngò tây",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ngò rí 30 gr",
+      "raw_name": "Ngò rí",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bơ lạt 30 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Hành tây 20 gr",
+      "raw_name": "Hành tây",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Tỏi 10 gr",
+      "raw_name": "Tỏi",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Oregano 5 gr",
+      "raw_name": "Oregano",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T18:07:21Z",
+  "page_title": "2 cách làm ức gà áp chảo sốt chimichurri và bechamel béo ngậy ngon miệng",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookRecipe/Avatar/uc-ga-ap-chao-sot-chimichurri-thumbnail.jpg"
+}

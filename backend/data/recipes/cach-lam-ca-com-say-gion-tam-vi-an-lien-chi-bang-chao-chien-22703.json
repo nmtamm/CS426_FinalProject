@@ -1,0 +1,79 @@
+{
+  "source_id": "22703",
+  "name": "Cá cơm sấy giòn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9aab467340008a9f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-com-say-gion-tam-vi-an-lien-chi-bang-chao-chien-22703",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-com-say-gion-tam-vi-an-lien-chi-bang-chao-chien-22703",
+  "servings_text": "Cho 1 phần",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cá cơm tươi 500 gr",
+      "raw_name": "Cá cơm tươi",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột chiên giòn 3 muỗng canh",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 40 gr",
+      "raw_name": "Tỏi",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt 40 gr",
+      "raw_name": "Ớt",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gia vị thông thường 1 ít (tương ớt/đường/bột tỏi/bột ngọt/nước mắm/tiêu)",
+      "raw_name": "Gia vị thông thường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "tương ớt/đường/bột tỏi/bột ngọt/nước mắm/tiêu",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tương ớt 2 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Mè trắng 1 ít",
+      "raw_name": "Mè trắng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:58:14Z",
+  "page_title": "Cách làm cá cơm sấy giòn tẩm vị ăn liền chỉ bằng chảo chiên ngập dầu",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/09230239sdas.jpg"
+}

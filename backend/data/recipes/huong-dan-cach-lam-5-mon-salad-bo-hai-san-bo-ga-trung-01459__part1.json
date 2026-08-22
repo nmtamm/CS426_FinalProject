@@ -1,0 +1,101 @@
+{
+  "source_id": "01459",
+  "name": "Salad bơ thịt bò",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f17e3d8bc4ed6307.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-cach-lam-5-mon-salad-bo-hai-san-bo-ga-trung-01459",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-cach-lam-5-mon-salad-bo-hai-san-bo-ga-trung-01459",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Xà lách 250 gr",
+      "raw_name": "Xà lách",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rau thơm 50 gr (quế/canh giới/húng lủi)",
+      "raw_name": "Rau thơm",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "quế/canh giới/húng lủi",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bắp 1/2 quả",
+      "raw_name": "Bắp",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà chua 1 quả",
+      "raw_name": "Cà chua",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bơ 1 quả",
+      "raw_name": "Bơ",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tây 1/2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Thịt bò 200 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Chanh 1 quả",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ớt 1 quả",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tỏi 10 gr",
+      "raw_name": "Tỏi",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T17:55:34Z",
+  "page_title": "Hướng dẫn cách làm 5 món salad bơ hải sản, bò, gà, trứng dễ làm ngon miệng",
+  "variant_index": 1,
+  "variant_count": 5,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/salad-bo-thit-bo-thumbnail.jpg"
+}

@@ -1,0 +1,61 @@
+{
+  "source_id": "01243",
+  "name": "Tai heo ngâm sả, quất chua ngọt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/96d2c2060f016781.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-tai-heo-ngam-chua-ngot-an-la-nghien-chong-ngan-01243",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-tai-heo-ngam-chua-ngot-an-la-nghien-chong-ngan-01243",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tai heo lấy phần sụn 1 cái",
+      "raw_name": "Tai heo lấy phần sụn",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sả 4 củ",
+      "raw_name": "Sả",
+      "quantity": 4,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt 1 quả",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 6 nhánh",
+      "raw_name": "Tỏi",
+      "quantity": 6,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Quất 7 quả",
+      "raw_name": "Quất",
+      "quantity": 7,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:35:34Z",
+  "page_title": "3 cách làm tai heo ngâm chua ngọt ăn là nghiện, chống ngán ngày Tết",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/tai-heo-ngam-sa-quat-chua-ngot-thumbnail.jpg"
+}

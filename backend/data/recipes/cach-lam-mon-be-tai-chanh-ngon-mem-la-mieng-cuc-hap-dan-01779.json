@@ -1,0 +1,103 @@
+{
+  "source_id": "01779",
+  "name": "Bê tái chanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3ffc23f7e8582b7b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-be-tai-chanh-ngon-mem-la-mieng-cuc-hap-dan-01779",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-be-tai-chanh-ngon-mem-la-mieng-cuc-hap-dan-01779",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    },
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bê 500 gr",
+      "raw_name": "Thịt bê",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chuối xanh 4 quả",
+      "raw_name": "Chuối xanh",
+      "quantity": 4,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Khế xanh 3 quả",
+      "raw_name": "Khế xanh",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rau ngò om 200 gr",
+      "raw_name": "Rau ngò om",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sả 5 củ",
+      "raw_name": "Sả",
+      "quantity": 5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Riềng 1 củ",
+      "raw_name": "Riềng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Chanh 2 quả",
+      "raw_name": "Chanh",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Mè rang 50 gr",
+      "raw_name": "Mè rang",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Rượu 400 ml",
+      "raw_name": "Rượu",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:00:42Z",
+  "page_title": "Cách làm món bê tái chanh ngon mềm lạ miệng cực hấp dẫn",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/03/10/1241219/cach-lam-mon-be-tai-chanh-ngon-la-mieng-17-760x367.jpg"
+}

@@ -1,0 +1,79 @@
+{
+  "source_id": "23567",
+  "name": "Thịt gà chiên nước mắm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b47ba68648c1b5d0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-ga-chien-nuoc-mam-bat-bai-sieu-ton-com-23567",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-ga-chien-nuoc-mam-bat-bai-sieu-ton-com-23567",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Má đùi gà (có da 500 gr",
+      "raw_name": "Má đùi gà (có da",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành tím 1 củ",
+      "raw_name": "Hành tím",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 3 tép",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt 2 trái (tùy khẩu vị)",
+      "raw_name": "Ớt",
+      "quantity": 2,
+      "unit": "trái",
+      "note": "tùy khẩu vị",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước dừa tươi 200 ml",
+      "raw_name": "Nước dừa tươi",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Giấm 1 muỗng cà phê",
+      "raw_name": "Giấm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (hạt nêm/đường/dầu hào/tương ớt/nước mắm/bột ngọt/tiêu/bột ớt Paprika/tương cà)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hạt nêm/đường/dầu hào/tương ớt/nước mắm/bột ngọt/tiêu/bột ớt Paprika/tương cà",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:04:47Z",
+  "page_title": "Cách làm thịt gà chiên nước mắm bất bại siêu tốn cơm",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/jdjjdjdskds.jpg"
+}

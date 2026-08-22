@@ -1,0 +1,91 @@
+{
+  "source_id": "12448",
+  "name": "Nước mận nghiền - Plum Punch",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4730912527aa2a56.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-man-nghien-plum-punch-cho-mua-he-them-thanh-mat-12448",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-man-nghien-plum-punch-cho-mua-he-them-thanh-mat-12448",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mận 3 trái (Mận Hà Nội/ mận Bắc)",
+      "raw_name": "Mận",
+      "quantity": 3,
+      "unit": "trái",
+      "note": "Mận Hà Nội/ mận Bắc",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chanh vàng 1/2 quả",
+      "raw_name": "Chanh vàng",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Táo 1/2 trái",
+      "raw_name": "Táo",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước cam 120 ml",
+      "raw_name": "Nước cam",
+      "quantity": 120,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cốt chanh 60 ml",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 60,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bạc hà 5 nhánh (khoảng 15 lá)",
+      "raw_name": "Bạc hà",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": "khoảng 15 lá",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 5 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 1/4 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T20:05:17Z",
+  "page_title": "Cách làm nước mận nghiền - Plum Punch cho mùa hè thêm thanh mát",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/1200-1200x676-30-1200x676.jpg"
+}

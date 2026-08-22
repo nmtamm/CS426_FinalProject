@@ -1,0 +1,49 @@
+{
+  "source_id": "14041",
+  "name": "Bó hoa từ chôm chôm, thơm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5e997af834f94777.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-cach-bo-hoa-trai-cay-lam-qua-tang-ngay-20-10-vua-de-14041",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-cach-bo-hoa-trai-cay-lam-qua-tang-ngay-20-10-vua-de-14041",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "meo-vao-bep",
+      "name": "Mẹo vào bếp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Quả chôm chôm 1 kg",
+      "raw_name": "Quả chôm chôm",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lá chôm chôm 50 gr",
+      "raw_name": "Lá chôm chôm",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Thơm 1 quả",
+      "raw_name": "Thơm",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:41:06Z",
+  "page_title": "Hướng dẫn cách bó hoa trái cây làm quà tặng ngày 20/10 vừa dễ, vừa đẹp",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/bo-hoa-tu-chom-chom-thom-thumbnail-1.jpg"
+}

@@ -1,0 +1,99 @@
+{
+  "source_id": "24273",
+  "name": "Bánh tráng heo quay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3d604c069d471e18.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trang-heo-quay-bang-noi-chien-khong-dau-gion-24273",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trang-heo-quay-bang-noi-chien-khong-dau-gion-24273",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt ba chỉ heo 1.2 kg",
+      "raw_name": "Thịt ba chỉ heo",
+      "quantity": 1.2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gừng tươi 20 gr",
+      "raw_name": "Gừng tươi",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sả 3 cây",
+      "raw_name": "Sả",
+      "quantity": 3,
+      "unit": "cây",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Giấm ăn 100 ml",
+      "raw_name": "Giấm ăn",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối hột 300 gr",
+      "raw_name": "Muối hột",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi băm 1 ít",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dứa băm nhỏ 150 gr (thơm)",
+      "raw_name": "Dứa băm nhỏ",
+      "quantity": 150,
+      "unit": "gr",
+      "note": "thơm",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Mắm nêm nguyên chất 200 ml",
+      "raw_name": "Mắm nêm nguyên chất",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ bột ngọt",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đồ cuốn bánh tráng 1 ít (bánh tráng cuốn/ bún tươi/ rau ăn kèm)",
+      "raw_name": "Đồ cuốn bánh tráng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "bánh tráng cuốn/ bún tươi/ rau ăn kèm",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T20:32:08Z",
+  "page_title": "Cách làm bánh tráng heo quay bằng nồi chiên không dầu giòn rụm tại nhà",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t03%201200676%20-%202026-03-31T180633.929.jpg"
+}

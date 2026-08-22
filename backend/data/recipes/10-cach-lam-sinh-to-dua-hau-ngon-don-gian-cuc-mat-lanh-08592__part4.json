@@ -1,0 +1,66 @@
+{
+  "source_id": "08592",
+  "name": "Sinh tố dưa hấu chanh tươi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5607317b5756f7cb.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/10-cach-lam-sinh-to-dua-hau-ngon-don-gian-cuc-mat-lanh-08592",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/10-cach-lam-sinh-to-dua-hau-ngon-don-gian-cuc-mat-lanh-08592",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa hấu 1/4 quả",
+      "raw_name": "Dưa hấu",
+      "quantity": 0.25,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chanh tươi 1/2 quả",
+      "raw_name": "Chanh tươi",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đặc 2 muỗng canh",
+      "raw_name": "Sữa đặc",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mật ong 1 muỗng cà phê",
+      "raw_name": "Mật ong",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đá viên 1 ít (đập nhuyễn)",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đập nhuyễn",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:59:40Z",
+  "page_title": "16 Cách làm sinh tố dưa hấu ngon, đơn giản, cực mát lạnh",
+  "variant_index": 4,
+  "variant_count": 16,
+  "note": null,
+  "original_image_url": "https://cdn.tgdd.vn/2022/01/CookRecipe/Avatar/sinh-to-dua-hau-chanh-tuoi-cong-thuc-duoc-chia-se-tu-nguoi-dung-thumbnail.jpg"
+}

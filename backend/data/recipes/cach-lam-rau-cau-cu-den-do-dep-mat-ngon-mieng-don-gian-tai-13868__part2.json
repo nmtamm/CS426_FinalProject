@@ -1,0 +1,77 @@
+{
+  "source_id": "13868",
+  "name": "Rau câu củ dền hoa đậu biếc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/97f7609087233d64.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-rau-cau-cu-den-do-dep-mat-ngon-mieng-don-gian-tai-13868",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-rau-cau-cu-den-do-dep-mat-ngon-mieng-don-gian-tai-13868",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Củ dền 400 gr (khoảng 1 củ lớn)",
+      "raw_name": "Củ dền",
+      "quantity": 400,
+      "unit": "gr",
+      "note": "khoảng 1 củ lớn",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hoa đậu biếc khô 1 chén (chén ăn cơm)",
+      "raw_name": "Hoa đậu biếc khô",
+      "quantity": 1,
+      "unit": "chén",
+      "note": "chén ăn cơm",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột rau câu giòn 20 gr (2 bịch)",
+      "raw_name": "Bột rau câu giòn",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "2 bịch",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước cốt dừa 300 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sữa đặc 5 muỗng canh",
+      "raw_name": "Sữa đặc",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sữa tươi 200 ml",
+      "raw_name": "Sữa tươi",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 300 gr",
+      "raw_name": "Đường",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:15:36Z",
+  "page_title": "3 cách làm rau câu củ dền đỏ đẹp mắt ngon miệng đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/rau-cau-cu-den-hoa-dau-biec-thumbnail.jpg"
+}

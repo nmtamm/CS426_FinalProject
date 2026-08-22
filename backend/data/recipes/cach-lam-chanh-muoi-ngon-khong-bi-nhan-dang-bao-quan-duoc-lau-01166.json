@@ -1,0 +1,43 @@
+{
+  "source_id": "01166",
+  "name": "Chanh muối",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/aea11a1bb36c99c6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chanh-muoi-ngon-khong-bi-nhan-dang-bao-quan-duoc-lau-01166",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chanh-muoi-ngon-khong-bi-nhan-dang-bao-quan-duoc-lau-01166",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chanh 1 kg",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối 300 gr",
+      "raw_name": "Muối",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Phèn chua 10 gr",
+      "raw_name": "Phèn chua",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T20:02:37Z",
+  "page_title": "Cách làm chanh muối ngon, không bị nhẫn đắng, bảo quản được lâu",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/50-1200x676.jpg"
+}

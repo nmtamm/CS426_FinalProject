@@ -1,0 +1,115 @@
+{
+  "source_id": "01496",
+  "name": "Cơm nắm Nhật Bản (Onigiri)",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e9b8982c7324d13d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-com-nam-nhat-ban-onigiri-don-gian-de-lam-nhat--01496",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-com-nam-nhat-ban-onigiri-don-gian-de-lam-nhat--01496",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gạo sống 2 chén",
+      "raw_name": "Gạo sống",
+      "quantity": 2,
+      "unit": "chén",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước lọc 2.5 chén",
+      "raw_name": "Nước lọc",
+      "quantity": 2.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rong biển Nori 4 miếng",
+      "raw_name": "Rong biển Nori 4 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối kosher 5 gr",
+      "raw_name": "Muối kosher",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cá hồi muối 200 gr",
+      "raw_name": "Cá hồi muối",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Cá bào Okaka 100 gr",
+      "raw_name": "Cá bào Okaka",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Cá ngừ Mayo 200 gr",
+      "raw_name": "Cá ngừ Mayo",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Umeboshi 3 trái (mận ngâm Nhật)",
+      "raw_name": "Umeboshi",
+      "quantity": 3,
+      "unit": "trái",
+      "note": "mận ngâm Nhật",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tảo kombu 300 gr",
+      "raw_name": "Tảo kombu",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hạt mè trắng 10 gr (rang)",
+      "raw_name": "Hạt mè trắng",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "rang",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Xì dầu 2 muỗng canh",
+      "raw_name": "Xì dầu",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Sốt mayonnaise Nhật Bản 2 muỗng canh",
+      "raw_name": "Sốt mayonnaise Nhật Bản",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T19:26:26Z",
+  "page_title": "2 cách làm cơm nắm Nhật Bản (Onigiri) đơn giản dễ làm nhất",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2019/11/29/1223398/2-cach-lam-com-nam-nhat-ban-onigiri-don-gian-de-lam-nhat--760x367.jpg"
+}

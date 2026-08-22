@@ -1,0 +1,61 @@
+{
+  "source_id": "12477",
+  "name": "Sinh tố bưởi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5c1176030b69b55d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sinh-to-buoi-ngot-thanh-tuoi-mat-tot-cho-suc-khoe-12477",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sinh-to-buoi-ngot-thanh-tuoi-mat-tot-cho-suc-khoe-12477",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bưởi 1 trái (800gr)",
+      "raw_name": "Bưởi",
+      "quantity": 1,
+      "unit": "trái",
+      "note": "800gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lá bạc hà 1 ít",
+      "raw_name": "Lá bạc hà",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tinh chất vani 1/2 muỗng cà phê",
+      "raw_name": "Tinh chất vani",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 2 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đá viên 100 gr",
+      "raw_name": "Đá viên",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:09:08Z",
+  "page_title": "3 cách làm sinh tố bưởi ngọt thanh, tươi mát tốt cho sức khỏe",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/sinh-to-buoi-thumbnail-1.jpg"
+}

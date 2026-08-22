@@ -1,0 +1,59 @@
+{
+  "source_id": "11068",
+  "name": "Trà đào sả tắc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3d9eada28ba34fc6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-dao-sa-tac-chua-ngot-thanh-mat-don-gian-nhanh-11068",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-dao-sa-tac-chua-ngot-thanh-mat-don-gian-nhanh-11068",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà xanh túi lọc 2 gói",
+      "raw_name": "Trà xanh túi lọc",
+      "quantity": 2,
+      "unit": "gói",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đào ngâm 1 hộp (hộp nhỏ)",
+      "raw_name": "Đào ngâm",
+      "quantity": 1,
+      "unit": "hộp",
+      "note": "hộp nhỏ",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sả 10 cây",
+      "raw_name": "Sả",
+      "quantity": 10,
+      "unit": "cây",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tắc 4 trái",
+      "raw_name": "Tắc",
+      "quantity": 4,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 4 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:00:32Z",
+  "page_title": "Cách làm trà đào sả tắc chua ngọt, thanh mát đơn giản nhanh chóng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookProduct/Tra-dao-sa-tac---TN-2-47-screenshot-(1)-1200x676.jpg"
+}

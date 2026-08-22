@@ -1,0 +1,151 @@
+{
+  "source_id": "15968",
+  "name": "Nem gà rán",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/cbf1ae9cd8e754ac.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nem-ga-nam-kho-gion-vo-mem-nhan-cuc-ky-la-mieng-ngay-15968",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nem-ga-nam-kho-gion-vo-mem-nhan-cuc-ky-la-mieng-ngay-15968",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh đa nem 400 gr (1 bịch)",
+      "raw_name": "Bánh đa nem",
+      "quantity": 400,
+      "unit": "gr",
+      "note": "1 bịch",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ức gà 400 gr",
+      "raw_name": "Ức gà",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mộc nhĩ khô 10 gr",
+      "raw_name": "Mộc nhĩ khô",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nấm hương khô 30 gr",
+      "raw_name": "Nấm hương khô",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Miến khô 45 gr",
+      "raw_name": "Miến khô",
+      "quantity": 45,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Cà rốt 1 củ (cỡ vừa)",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "cỡ vừa",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tây 1 củ (cỡ vừa)",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "cỡ vừa",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Khoai tây 1 chén (đã hấp chín và nghiền nát)",
+      "raw_name": "Khoai tây",
+      "quantity": 1,
+      "unit": "chén",
+      "note": "đã hấp chín và nghiền nát",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Trứng gà 4 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 4,
+      "unit": "quả",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ô liu 1 ít",
+      "raw_name": "Dầu ô liu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Hành lá 5 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Ớt 3 quả",
+      "raw_name": "Ớt",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T19:35:37Z",
+  "page_title": "Cách làm nem gà nấm khô giòn vỏ mềm nhân cực kỳ lạ miệng ngày lễ Tết",
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookDish/cach-lam-nem-ga-nam-kho-gion-vo-mem-nhan-cuc-ky-la-mieng-ngay-avt-1200x676-1.jpg"
+}

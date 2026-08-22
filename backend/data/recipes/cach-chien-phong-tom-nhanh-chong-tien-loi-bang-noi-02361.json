@@ -1,0 +1,27 @@
+{
+  "source_id": "02361",
+  "name": "Bánh phồng tôm bằng nồi chiên không dầu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c947edca4de9df98.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-chien-phong-tom-nhanh-chong-tien-loi-bang-noi-02361",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-chien-phong-tom-nhanh-chong-tien-loi-bang-noi-02361",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh phồng tôm 100 gram",
+      "raw_name": "Bánh phồng tôm 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    }
+  ],
+  "scraped_at": "2026-08-19T19:13:35Z",
+  "page_title": "Cách chiên phồng tôm bằng nồi chiên không dầu nhanh chóng chỉ với 3 phút",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/05/12/1255081/cach-chien-phong-tom-nhanh-chong-tien-loi-bang-noi-8-760x367.jpg"
+}

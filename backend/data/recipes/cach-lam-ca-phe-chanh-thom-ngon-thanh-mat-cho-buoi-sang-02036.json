@@ -1,0 +1,51 @@
+{
+  "source_id": "02036",
+  "name": "Cà phê chanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/07f44510fc521efa.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-phe-chanh-thom-ngon-thanh-mat-cho-buoi-sang-02036",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-phe-chanh-thom-ngon-thanh-mat-cho-buoi-sang-02036",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cà phê đen 240 ml (Có thể sử dụng cà phê phin hoặc cà phê đen hoà tan)",
+      "raw_name": "Cà phê đen",
+      "quantity": 240,
+      "unit": "ml",
+      "note": "Có thể sử dụng cà phê phin hoặc cà phê đen hoà tan",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường trắng 85 gr",
+      "raw_name": "Đường trắng",
+      "quantity": 85,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước lọc 480 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 480,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước cốt chanh 60 ml",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 60,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:55:47Z",
+  "page_title": "Cách làm cà phê chanh thơm ngon thanh mát cho buổi sáng",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/04/14/1249049/cach-lam-ca-phe-chanh-thom-ngon-thanh-mat-doc-dao--760x367.jpg"
+}

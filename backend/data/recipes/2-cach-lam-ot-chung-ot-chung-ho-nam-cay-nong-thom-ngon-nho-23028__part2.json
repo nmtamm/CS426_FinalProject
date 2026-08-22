@@ -1,0 +1,125 @@
+{
+  "source_id": "23028",
+  "name": "Ớt chưng Hồ Nam",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/99a1dc78267ba773.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-ot-chung-ot-chung-ho-nam-cay-nong-thom-ngon-nho-23028",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-ot-chung-ot-chung-ho-nam-cay-nong-thom-ngon-nho-23028",
+  "servings_text": "Cho 1kg thành phẩm",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ớt đỏ 500 gr (ớt hiểm hoặc ớt chỉ thiên)",
+      "raw_name": "Ớt đỏ",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "ớt hiểm hoặc ớt chỉ thiên",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt xanh 250 gr (loại ít cay)",
+      "raw_name": "Ớt xanh",
+      "quantity": 250,
+      "unit": "gr",
+      "note": "loại ít cay",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi lớn 1 củ (khoảng 30gr)",
+      "raw_name": "Tỏi lớn",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "khoảng 30gr",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng tươi 30 gr",
+      "raw_name": "Gừng tươi",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tây tím 1/2 củ",
+      "raw_name": "Hành tây tím",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lá nguyệt quế 1 ít (khoảng 5 - 6 lá)",
+      "raw_name": "Lá nguyệt quế",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "khoảng 5 - 6 lá",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Quế thanh 2 cây",
+      "raw_name": "Quế thanh",
+      "quantity": 2,
+      "unit": "cây",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hoa hồi 2 cái",
+      "raw_name": "Hoa hồi",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tiêu hạt 1 ít (khoảng 1/2 muỗng canh)",
+      "raw_name": "Tiêu hạt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "khoảng 1/2 muỗng canh",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Mè trắng rang 1 ít",
+      "raw_name": "Mè trắng rang",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Rượu trắng độ cồn cao 15 ml",
+      "raw_name": "Rượu trắng độ cồn cao",
+      "quantity": 15,
+      "unit": "ml",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Đường/ muối 1 ít",
+      "raw_name": "Đường/ muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu cải 1 ít",
+      "raw_name": "Dầu cải",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T20:27:06Z",
+  "page_title": "2 cách làm ớt chưng, ớt chưng Hồ Nam cay nồng thơm ngon nhờ máy xay thịt",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2025/07/CookRecipe/Avatar/ot-chung-ho-nam-thumbnail-1.jpg"
+}

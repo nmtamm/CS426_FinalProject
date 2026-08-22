@@ -1,0 +1,58 @@
+{
+  "source_id": "00784",
+  "name": "Đào ngâm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/67f8c74eed2da2ad.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dao-ngam-gion-ngon-nhu-mua-ngoai-tiem-00784",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dao-ngam-gion-ngon-nhu-mua-ngoai-tiem-00784",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đào nguyên trái 1/2 kg (sau khi sơ chế sẽ lọc được 900gr thịt đào)",
+      "raw_name": "Đào nguyên trái",
+      "quantity": 0.5,
+      "unit": "kg",
+      "note": "sau khi sơ chế sẽ lọc được 900gr thịt đào",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường cát trắng 500 gr",
+      "raw_name": "Đường cát trắng",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước cốt chanh 2 muỗng cà phê",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Baking soda 1 muỗng canh (hoặc muối hạt)",
+      "raw_name": "Baking soda",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "hoặc muối hạt",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:04:29Z",
+  "page_title": "3 cách làm đào ngâm giòn ngon để pha trà đào đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 3,
+  "note": "công thức được chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/dao-ngam-duong-thumbnail.jpg"
+}

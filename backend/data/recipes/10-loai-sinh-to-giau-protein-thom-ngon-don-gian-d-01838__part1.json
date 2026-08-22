@@ -1,0 +1,82 @@
+{
+  "source_id": "01838",
+  "name": "Sinh tố protein bánh chanh (Key lime pie protein smoothie)",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2ec98286e3141a53.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/10-loai-sinh-to-giau-protein-thom-ngon-don-gian-d-01838",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/10-loai-sinh-to-giau-protein-thom-ngon-don-gian-d-01838",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột protein hương vani 1 muỗng",
+      "raw_name": "Bột protein hương vani",
+      "quantity": 1,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa hạnh nhân không đường 180 ml (sữa tươi không đường)",
+      "raw_name": "Sữa hạnh nhân không đường",
+      "quantity": 180,
+      "unit": "ml",
+      "note": "sữa tươi không đường",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước cốt chanh 60 ml",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 60,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Vỏ chanh bào 2 muỗng cà phê",
+      "raw_name": "Vỏ chanh bào",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 2 gram",
+      "raw_name": "Muối 2 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Vụn bánh quy nguyên cám 10 gram",
+      "raw_name": "Vụn bánh quy nguyên cám 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Lá bạc hà 1 nhánh (trang trí)",
+      "raw_name": "Lá bạc hà",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": "trang trí",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:02:53Z",
+  "page_title": "10 loại sinh tố giàu Protein thơm ngon, đơn giản dành người tập Gym",
+  "variant_index": 1,
+  "variant_count": 10,
+  "note": null,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/sinh-to-protein-banh-chanh-key-lime-pie-protein-smoothie-thumbnail.jpg"
+}

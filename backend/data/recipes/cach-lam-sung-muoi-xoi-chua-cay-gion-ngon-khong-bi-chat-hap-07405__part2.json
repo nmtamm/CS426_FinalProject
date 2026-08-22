@@ -1,0 +1,118 @@
+{
+  "source_id": "07405",
+  "name": "Sung muối xổi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/91759ed163bedbca.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sung-muoi-xoi-chua-cay-gion-ngon-khong-bi-chat-hap-07405",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sung-muoi-xoi-chua-cay-gion-ngon-khong-bi-chat-hap-07405",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sung nếp 1 kg",
+      "raw_name": "Sung nếp",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chanh 2 quả",
+      "raw_name": "Chanh",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Quất 3 quả",
+      "raw_name": "Quất",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 3 tép",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sả 2 nhánh",
+      "raw_name": "Sả",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt tươi 2 quả",
+      "raw_name": "Ớt tươi",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Lá chanh 5 lá",
+      "raw_name": "Lá chanh",
+      "quantity": 5,
+      "unit": "lá",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Giấm 5 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước mắm ngon 2 muỗng canh",
+      "raw_name": "Nước mắm ngon",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bột canh 1 muỗng cà phê (xúp)",
+      "raw_name": "Bột canh",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "xúp",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đá lạnh 1 ít",
+      "raw_name": "Đá lạnh",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ bột ngọt",
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T19:35:00Z",
+  "page_title": "2 cách làm sung muối xổi chua cay giòn ngon không bị chát cực kỳ hấp dẫn",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "công thức được chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2022/06/CookRecipe/Avatar/sung-muoi-xoi-cong-thuc-duoc-chia-se-tu-nguoi-dung-thumbnail-2.jpg"
+}

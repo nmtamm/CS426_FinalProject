@@ -1,0 +1,57 @@
+{
+  "source_id": "13764",
+  "name": "Nước ép rau ngót dứa dưa hấu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a7e66ef170221812.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-rau-ngot-thanh-mat-bo-duong-thom-ngon-de-13764",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-rau-ngot-thanh-mat-bo-duong-thom-ngon-de-13764",
+  "servings_text": "Cho 2 - 3 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rau ngót 250 gr",
+      "raw_name": "Rau ngót",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dưa hấu 1/4 quả",
+      "raw_name": "Dưa hấu",
+      "quantity": 0.25,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dứa 1 quả (Thơm)",
+      "raw_name": "Dứa",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "Thơm",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước 400 ml",
+      "raw_name": "Nước",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:50:49Z",
+  "page_title": "3 cách làm nước ép rau ngót thanh mát bổ dưỡng thơm ngon dễ uống tại nhà",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/nuoc-ep-rau-ngot-dua-dua-hau-thumbnail.jpg"
+}

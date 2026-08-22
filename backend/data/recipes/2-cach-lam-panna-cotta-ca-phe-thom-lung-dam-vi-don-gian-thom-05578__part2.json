@@ -1,0 +1,69 @@
+{
+  "source_id": "05578",
+  "name": "Panna cotta cà phê dalgona",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/16352618edafcbe7.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-panna-cotta-ca-phe-thom-lung-dam-vi-don-gian-thom-05578",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-panna-cotta-ca-phe-thom-lung-dam-vi-don-gian-thom-05578",
+  "servings_text": "Cho 6 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Whipping cream 200 ml",
+      "raw_name": "Whipping cream",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa tươi không đường 200 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 6 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 6,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tinh chất vani 1 muỗng cà phê",
+      "raw_name": "Tinh chất vani",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột gelatin 1/2 muỗng canh",
+      "raw_name": "Bột gelatin",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột cà phê đen 2 muỗng canh",
+      "raw_name": "Bột cà phê đen",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:23:06Z",
+  "page_title": "2 cách làm panna cotta cà phê thơm lừng đậm vị đơn giản thơm ngon",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookRecipe/Avatar/panna-cotta-ca-phe-dalgona-thumbnail-1.jpg"
+}

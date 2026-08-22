@@ -1,0 +1,61 @@
+{
+  "source_id": "14408",
+  "name": "Sinh tố hạt sen trà xanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ed0a1c60812b668c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sinh-to-hat-sen-bi-do-va-hat-sen-tra-xanh-beo-min-14408",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sinh-to-hat-sen-bi-do-va-hat-sen-tra-xanh-beo-min-14408",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hạt sen tươi 100 gr",
+      "raw_name": "Hạt sen tươi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột trà xanh 1/2 muỗng cà phê",
+      "raw_name": "Bột trà xanh",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa tươi 60 ml",
+      "raw_name": "Sữa tươi",
+      "quantity": 60,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa đặc 30 ml",
+      "raw_name": "Sữa đặc",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:08:49Z",
+  "page_title": "2 cách làm sinh tố hạt sen bí đỏ và hạt sen trà xanh béo mịn thơm ngon",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/1-1.jpg"
+}

@@ -1,0 +1,83 @@
+{
+  "source_id": "23344",
+  "name": "Nước mắm bánh cuốn miền Nam",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c99179a998954985.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-mam-banh-cuon-mien-nam-sanh-deo-bang-may-xay-da-23344",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-mam-banh-cuon-mien-nam-sanh-deo-bang-may-xay-da-23344",
+  "servings_text": "Cho Khoảng 750ml nước chấm",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nước mắm 250 gr (1 chén)",
+      "raw_name": "Nước mắm",
+      "quantity": 250,
+      "unit": "gr",
+      "note": "1 chén",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 250 gr (1 chén)",
+      "raw_name": "Đường",
+      "quantity": 250,
+      "unit": "gr",
+      "note": "1 chén",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước lọc 500 ml (2 chén)",
+      "raw_name": "Nước lọc",
+      "quantity": 500,
+      "unit": "ml",
+      "note": "2 chén",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Giấm gạo 3 muỗng canh (hoặc nước cốt chanh)",
+      "raw_name": "Giấm gạo",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": "hoặc nước cốt chanh",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối hạt 1 muỗng cà phê",
+      "raw_name": "Muối hạt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Khóm 150 gr (dứa)",
+      "raw_name": "Khóm",
+      "quantity": 150,
+      "unit": "gr",
+      "note": "dứa",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt 1 quả (tùy khẩu vị)",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "tùy khẩu vị",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:26:19Z",
+  "page_title": "Cách làm nước mắm bánh cuốn miền Nam sánh dẻo bằng máy xay đa năng",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/nuoc-mam-banh-cuon-mien-nam.jpg"
+}

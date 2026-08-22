@@ -1,0 +1,139 @@
+{
+  "source_id": "03920",
+  "name": "Bánh ướt chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/227d05fb039ada72.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-uot-chay-an-sang-vo-cung-don-gian-03920",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-uot-chay-an-sang-vo-cung-don-gian-03920",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh tráng 200 gr",
+      "raw_name": "Bánh tráng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chả lụa chay 100 gr",
+      "raw_name": "Chả lụa chay",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu hũ trắng 150 gr",
+      "raw_name": "Đậu hũ trắng",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành phi 5 gr",
+      "raw_name": "Hành phi",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 1 tép",
+      "raw_name": "Tỏi 1 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt 1 quả",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tắc 2 quả",
+      "raw_name": "Tắc",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành lá 50 gr",
+      "raw_name": "Hành lá",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dưa leo 1 quả",
+      "raw_name": "Dưa leo",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Rau thơm 1 ít",
+      "raw_name": "Rau thơm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Xốt ướp xá xíu 1 muỗng cà phê",
+      "raw_name": "Xốt ướp xá xíu",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước mắm chay 2 muỗng canh",
+      "raw_name": "Nước mắm chay",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Dưa chua 1 ít (có hay không đều được)",
+      "raw_name": "Dưa chua",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "có hay không đều được",
+      "display_order": 14
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T18:39:04Z",
+  "page_title": "Cách làm bánh ướt chay ăn sáng vô cùng đơn giản bằng bánh tráng",
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookProduct/cach-lam-banh-uot-chay-an-sang-vo-cung-don-gian-lai-ngon-14-1200x676.jpg"
+}

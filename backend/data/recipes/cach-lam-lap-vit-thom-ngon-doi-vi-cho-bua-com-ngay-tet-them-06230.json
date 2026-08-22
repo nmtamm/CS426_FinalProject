@@ -1,0 +1,83 @@
+{
+  "source_id": "06230",
+  "name": "Lạp vịt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0b59c2c1b1c8e724.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-lap-vit-thom-ngon-doi-vi-cho-bua-com-ngay-tet-them-06230",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-lap-vit-thom-ngon-doi-vi-cho-bua-com-ngay-tet-them-06230",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Vịt 1 con",
+      "raw_name": "Vịt 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chao 2 miếng",
+      "raw_name": "Chao 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột gừng 1 muỗng canh",
+      "raw_name": "Bột gừng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột xá xíu 1 muỗng cà phê",
+      "raw_name": "Bột xá xíu",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi khô 1 muỗng cà phê",
+      "raw_name": "Tỏi khô",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ngũ vị hương 1 muỗng cà phê",
+      "raw_name": "Ngũ vị hương",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Rượu mai quế lộ 3 muỗng canh",
+      "raw_name": "Rượu mai quế lộ",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ muối/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ muối/ bột ngọt",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:38:09Z",
+  "page_title": "Cách làm lạp vịt khô thơm ngon đổi vị cho bữa cơm ngày Tết thêm sắc màu",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/1200dsfsfsdfsd-1200x675.jpg"
+}

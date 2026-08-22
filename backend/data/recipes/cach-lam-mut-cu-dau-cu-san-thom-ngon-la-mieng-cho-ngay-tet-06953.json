@@ -1,0 +1,67 @@
+{
+  "source_id": "06953",
+  "name": "Mứt củ đậu - củ sắn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6ff66064d915a0f0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-cu-dau-cu-san-thom-ngon-la-mieng-cho-ngay-tet-06953",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-cu-dau-cu-san-thom-ngon-la-mieng-cho-ngay-tet-06953",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Củ đậu 2 củ (1kg2)",
+      "raw_name": "Củ đậu",
+      "quantity": 2,
+      "unit": "củ",
+      "note": "1kg2",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Vôi ăn trầu 1 muỗng canh",
+      "raw_name": "Vôi ăn trầu",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 500 gr",
+      "raw_name": "Đường",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Vani 1 ống",
+      "raw_name": "Vani 1 ống",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước 2 lít",
+      "raw_name": "Nước 2 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:38:43Z",
+  "page_title": "Cách làm mứt củ đậu - củ sắn thơm ngon lạ miệng cho ngày Tết",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/1200-1200x676-78.jpg"
+}

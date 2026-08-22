@@ -1,0 +1,49 @@
+{
+  "source_id": "04165",
+  "name": "Sinh tố quýt đu đủ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6dbe27edd29dec6c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sinh-to-quyt-nhanh-chong-thom-ngon-don-gian-04165",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sinh-to-quyt-nhanh-chong-thom-ngon-don-gian-04165",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Quýt 1 quả",
+      "raw_name": "Quýt",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đu đủ 1/4 quả",
+      "raw_name": "Đu đủ",
+      "quantity": 0.25,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 3 muỗng",
+      "raw_name": "Đường",
+      "quantity": 3,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:57:49Z",
+  "page_title": "3 cách làm sinh tố quýt nhanh chóng, thơm ngon, đơn giản",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/sinh-to-quyt-du-du-thumbnail.jpg"
+}

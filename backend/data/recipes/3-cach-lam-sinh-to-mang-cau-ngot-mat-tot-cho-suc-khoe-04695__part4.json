@@ -1,0 +1,81 @@
+{
+  "source_id": "04695",
+  "name": "Sinh tố mãng cầu cà phê",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bbaf6cdc14d3898f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sinh-to-mang-cau-ngot-mat-tot-cho-suc-khoe-04695",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sinh-to-mang-cau-ngot-mat-tot-cho-suc-khoe-04695",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mãng cầu xiêm 1 quả",
+      "raw_name": "Mãng cầu xiêm",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột cà phê nguyên chất 1 muỗng canh",
+      "raw_name": "Bột cà phê nguyên chất",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đặc 2 muỗng cà phê",
+      "raw_name": "Sữa đặc",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa tươi không đường 50 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 1 ít",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đá viên 1 chén (chén ăn cơm)",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "chén",
+      "note": "chén ăn cơm",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước sôi 60 ml",
+      "raw_name": "Nước sôi",
+      "quantity": 60,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:55:52Z",
+  "page_title": "4 cách làm sinh tố mãng cầu ngọt mát tốt cho sức khoẻ",
+  "variant_index": 4,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/sinh-to-mang-cau-ca-phe-thumbnail-1.jpg"
+}

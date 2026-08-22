@@ -1,0 +1,63 @@
+{
+  "source_id": "05742",
+  "name": "Rau câu khoai lang tím",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/466503c8446ee512.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-rau-cau-khoai-lang-tim-sua-dua-05742",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-rau-cau-khoai-lang-tim-sua-dua-05742",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai lang tím 2 củ",
+      "raw_name": "Khoai lang tím",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rau câu giòn 1 gói (25 gr)",
+      "raw_name": "Rau câu giòn",
+      "quantity": 1,
+      "unit": "gói",
+      "note": "25 gr",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 200 gr",
+      "raw_name": "Đường",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Kem béo 200 ml",
+      "raw_name": "Kem béo",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sữa đặc 200 ml",
+      "raw_name": "Sữa đặc",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:23:08Z",
+  "page_title": "Cách làm rau câu khoai lang tím sữa dừa thơm béo núng nính dễ làm tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookProduct/thanhpham1-1200x676.jpg"
+}

@@ -1,0 +1,119 @@
+{
+  "source_id": "03862",
+  "name": "Thịt đông-pate chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e624d453b06f43c8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-dong-chay-pate-chay-don-gian-cho-ngay-tet-03862",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-dong-chay-pate-chay-don-gian-cho-ngay-tet-03862",
+  "servings_text": "Cho 3 người ăn",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột rau câu dẻo 7 gr",
+      "raw_name": "Bột rau câu dẻo",
+      "quantity": 7,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước 500 ml",
+      "raw_name": "Nước",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nấm đông cô 50 gr",
+      "raw_name": "Nấm đông cô",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nấm mèo 10 gr",
+      "raw_name": "Nấm mèo",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cà rốt 100 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nấm bào ngư 50 gr",
+      "raw_name": "Nấm bào ngư",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Thính gạo 3 muỗng",
+      "raw_name": "Thính gạo",
+      "quantity": 3,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường 3 muỗng",
+      "raw_name": "Đường",
+      "quantity": 3,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối 1 muỗng",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hạt nêm chay 2 muỗng",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 2,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Tiêu 1 muỗng",
+      "raw_name": "Tiêu",
+      "quantity": 1,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:48:10Z",
+  "page_title": "Cách làm thịt đông chay - pate chay đơn giản cho ngày Tết",
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookProduct/thitdongchay-1200x676.jpg"
+}

@@ -1,0 +1,99 @@
+{
+  "source_id": "17694",
+  "name": "Mắm chua thịt luộc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d55a58d72f9872b1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mam-chua-thit-luoc-dam-da-hap-dan-vi-ngon-kho-cuong-17694",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mam-chua-thit-luoc-dam-da-hap-dan-vi-ngon-kho-cuong-17694",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt heo 500 gr (có thể chọn thịt đùi hoặc ba chỉ)",
+      "raw_name": "Thịt heo",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "có thể chọn thịt đùi hoặc ba chỉ",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mắm chua 500 gr (1 chai)",
+      "raw_name": "Mắm chua",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "1 chai",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bún lá 1 kg",
+      "raw_name": "Bún lá",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tắc 3 trái",
+      "raw_name": "Tắc",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tím 2 củ (bóc vỏ)",
+      "raw_name": "Hành tím",
+      "quantity": 2,
+      "unit": "củ",
+      "note": "bóc vỏ",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt tươi 1 trái",
+      "raw_name": "Ớt tươi",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Rau ăn kèm 1 ít (Dưa leo/ húng quế/ đinh lăng)",
+      "raw_name": "Rau ăn kèm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Dưa leo/ húng quế/ đinh lăng",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T20:28:19Z",
+  "page_title": "Cách làm mắm chua thịt luộc đậm đà hấp dẫn, vị ngon khó cưỡng",
+  "original_image_url": "https://cdn.tgdd.vn/2022/07/CookDish/cach-lam-mam-chua-thit-luoc-dam-da-hap-dan-vi-ngon-kho-cuong-avt-1200x676.jpg"
+}

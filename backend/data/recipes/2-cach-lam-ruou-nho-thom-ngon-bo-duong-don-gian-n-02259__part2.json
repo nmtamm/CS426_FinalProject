@@ -1,0 +1,41 @@
+{
+  "source_id": "02259",
+  "name": "Rượu nho không đường",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5868d0c6e5000a9f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-ruou-nho-thom-ngon-bo-duong-don-gian-n-02259",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-ruou-nho-thom-ngon-bo-duong-don-gian-n-02259",
+  "servings_text": "Cho 04 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nho tươi 4 kg",
+      "raw_name": "Nho tươi",
+      "quantity": 4,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rượu trắng 1.5 lít (trên 40 độ)",
+      "raw_name": "Rượu trắng 1.5 lít",
+      "quantity": null,
+      "unit": null,
+      "note": "trên 40 độ",
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:57:34Z",
+  "page_title": "2 cách làm rượu nho có đường và không đường thơm ngon đơn giản ngay tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/ruou-nho-khong-duong-thumbnail.jpg"
+}

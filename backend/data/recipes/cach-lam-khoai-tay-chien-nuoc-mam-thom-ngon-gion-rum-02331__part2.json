@@ -1,0 +1,81 @@
+{
+  "source_id": "02331",
+  "name": "Khoai tây chiên trứng và phô mai",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b1dfe66c53bfa84f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-khoai-tay-chien-nuoc-mam-thom-ngon-gion-rum-02331",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-khoai-tay-chien-nuoc-mam-thom-ngon-gion-rum-02331",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai tây 200 gr (1 củ)",
+      "raw_name": "Khoai tây",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "1 củ",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Phô mai mozzarella 100 gr",
+      "raw_name": "Phô mai mozzarella",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng gà 4 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 4,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Thịt xông khói 50 gr (bacon)",
+      "raw_name": "Thịt xông khói",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "bacon",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành lá 3 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 1/4 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tiêu 1/4 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:23:39Z",
+  "page_title": "2 cách làm khoai tây chiên nước mắm thơm ngon, giòn rụm ăn là ghiền",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookRecipe/Avatar/khoai-tay-chien-trung-va-pho-mai-thumbnail.jpg"
+}

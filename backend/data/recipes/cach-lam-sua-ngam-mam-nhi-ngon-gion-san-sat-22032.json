@@ -1,0 +1,123 @@
+{
+  "source_id": "22032",
+  "name": "Sứa ngâm mắm nhĩ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e19a999149db423d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-ngam-mam-nhi-ngon-gion-san-sat-22032",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-ngam-mam-nhi-ngon-gion-san-sat-22032",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sứa 1 kg",
+      "raw_name": "Sứa",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước mắm nhĩ 400 ml",
+      "raw_name": "Nước mắm nhĩ",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 250 gr",
+      "raw_name": "Đường",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột ngọt 2 muỗng cà phê",
+      "raw_name": "Bột ngọt",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cốt tắc 100 ml",
+      "raw_name": "Nước cốt tắc",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tắc trái 500 gr",
+      "raw_name": "Tắc trái",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt xay 100 gr",
+      "raw_name": "Ớt xay",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tỏi xay 100 gr",
+      "raw_name": "Tỏi xay",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Cà pháo tím 400 gr",
+      "raw_name": "Cà pháo tím",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Ớt xiêm xanh 100 gr",
+      "raw_name": "Ớt xiêm xanh",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Muối hạt 100 gr",
+      "raw_name": "Muối hạt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Đá viên 3 kg",
+      "raw_name": "Đá viên",
+      "quantity": 3,
+      "unit": "kg",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Tương ớt 250 ml (loại siêu cay)",
+      "raw_name": "Tương ớt",
+      "quantity": 250,
+      "unit": "ml",
+      "note": "loại siêu cay",
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T19:01:11Z",
+  "page_title": "Cách làm sứa ngâm mắm nhĩ ngon giòn sần sật",
+  "original_image_url": "https://cdn.tgdd.vn/2024/08/CookDish/cach-lam-sua-ngam-mam-nhi-ngon-gion-san-sat-avt-1200x676.jpg"
+}

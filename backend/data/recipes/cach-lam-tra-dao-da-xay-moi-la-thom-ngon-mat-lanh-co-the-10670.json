@@ -1,0 +1,67 @@
+{
+  "source_id": "10670",
+  "name": "Trà đào đá xay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7bdc70b10f06621a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-dao-da-xay-moi-la-thom-ngon-mat-lanh-co-the-10670",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-dao-da-xay-moi-la-thom-ngon-mat-lanh-co-the-10670",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đào ngâm 3 miếng",
+      "raw_name": "Đào ngâm 3 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trà đen 40 ml",
+      "raw_name": "Trà đen",
+      "quantity": 40,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sirô đào 40 ml",
+      "raw_name": "Sirô đào",
+      "quantity": 40,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đá viên 230 gr",
+      "raw_name": "Đá viên",
+      "quantity": 230,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 2.5 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 2.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Kem tươi dạng xịt 20 gr",
+      "raw_name": "Kem tươi dạng xịt",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:05:40Z",
+  "page_title": "Cách làm trà đào đá xay mới lạ, thơm ngon, mát lạnh cơ thể",
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookProduct/CONGTHUCVACACHLAMTRADAODAXAYANNHIENCOFFEETEA0-0screenshot-1200x676-1.jpg"
+}

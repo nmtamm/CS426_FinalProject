@@ -1,0 +1,45 @@
+{
+  "source_id": "10419",
+  "name": "Nước cam hạt chia mật ong",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/400eaca41d402aac.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-pha-nuoc-cam-hat-chia-tuoi-mat-thanh-loc-giai-nhiet-10419",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-pha-nuoc-cam-hat-chia-tuoi-mat-thanh-loc-giai-nhiet-10419",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cam 3 quả",
+      "raw_name": "Cam",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hạt chia 1 muỗng canh",
+      "raw_name": "Hạt chia",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mật ong 1 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T20:05:43Z",
+  "page_title": "2 cách pha nước cam hạt chia tươi mát, thanh lọc giải nhiệt mùa hè",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/nuoc-cam-hat-chia-mat-ong-thumbnail.jpg"
+}

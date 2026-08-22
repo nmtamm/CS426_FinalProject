@@ -1,0 +1,94 @@
+{
+  "source_id": "00363",
+  "name": "Salad Nga truyền thống",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/875ebe4a0a664f7f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/10-phut-co-ngay-salad-nga-hap-dan-kho-choi-tu-00363",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/10-phut-co-ngay-salad-nga-hap-dan-kho-choi-tu-00363",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt nguội 300 gr",
+      "raw_name": "Thịt nguội",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu Hà Lan 150 gr",
+      "raw_name": "Đậu Hà Lan",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Khoai tây 2 củ",
+      "raw_name": "Khoai tây",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dưa leo 2 trái",
+      "raw_name": "Dưa leo",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cà rốt 2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rau thì là 5 nhánh",
+      "raw_name": "Rau thì là",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Trứng 2 quả",
+      "raw_name": "Trứng",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Sốt mayonnaise 320 gr",
+      "raw_name": "Sốt mayonnaise",
+      "quantity": 320,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T17:53:07Z",
+  "page_title": "Cách làm salad Nga ngon miệng đơn giản dễ làm ngay tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": null,
+  "original_image_url": "https://cdn.tgdd.vn/2022/02/CookRecipe/Avatar/salad-nga-truyen-thong-thumbnail.jpg"
+}

@@ -1,0 +1,57 @@
+{
+  "source_id": "13560",
+  "name": "Socola hoa hồng hạt dẻ cười",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/11f6a3083da690b6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cac-cach-lam-keo-socola-hoa-hong-ngot-ngao-sieu-don-gian-cho-13560",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cac-cach-lam-keo-socola-hoa-hong-ngot-ngao-sieu-don-gian-cho-13560",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Socola trắng 500 gr",
+      "raw_name": "Socola trắng",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hạt dẻ cười 50 gr (cắt nhỏ)",
+      "raw_name": "Hạt dẻ cười",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "cắt nhỏ",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cánh hoa hồng khô 50 gr",
+      "raw_name": "Cánh hoa hồng khô",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:19:09Z",
+  "page_title": "2 cách làm kẹo socola hoa hồng ngọt ngào siêu đơn giản cho bạn nam trổ tài",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/socola-hoa-hong-hat-de-cuoi-thumbnail-1.jpg"
+}

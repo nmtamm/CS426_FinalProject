@@ -1,0 +1,63 @@
+{
+  "source_id": "23779",
+  "name": "củ kiệu truyền thống",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/11dd4b00fbc63092.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cu-kieu-truyen-thong-khong-bi-hang-tai-nha-bao-quan-23779",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cu-kieu-truyen-thong-khong-bi-hang-tai-nha-bao-quan-23779",
+  "servings_text": "Cho 700gr củ kiệu",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Củ kiệu 700 gr",
+      "raw_name": "Củ kiệu",
+      "quantity": 700,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường cát 3 muỗng canh",
+      "raw_name": "Đường cát",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối 2 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt 1 ít",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước lọc 1 lít",
+      "raw_name": "Nước lọc 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:32:29Z",
+  "page_title": "Cách làm củ kiệu truyền thống không bị hăng tại nhà bảo quản được lâu",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/isdhsjds.jpg"
+}

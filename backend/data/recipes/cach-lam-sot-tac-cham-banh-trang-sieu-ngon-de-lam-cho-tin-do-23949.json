@@ -1,0 +1,91 @@
+{
+  "source_id": "23949",
+  "name": "Sốt tắc chấm bánh tráng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4f180b7dc6dac337.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sot-tac-cham-banh-trang-sieu-ngon-de-lam-cho-tin-do-23949",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sot-tac-cham-banh-trang-sieu-ngon-de-lam-cho-tin-do-23949",
+  "servings_text": "Cho 2-3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tắc 12 trái",
+      "raw_name": "Tắc",
+      "quantity": 12,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng cút 20 quả",
+      "raw_name": "Trứng cút",
+      "quantity": 20,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Con ruốc khô 20 gr",
+      "raw_name": "Con ruốc khô",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá 100 gr",
+      "raw_name": "Hành lá",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành phi sẵn 30 gr",
+      "raw_name": "Hành phi sẵn",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đậu phộng rang sẵn 50 gr",
+      "raw_name": "Đậu phộng rang sẵn",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bơ lạt 1 muỗng canh",
+      "raw_name": "Bơ lạt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối tôm Tây Ninh 1 muỗng canh (hoặc muối chấm thường)",
+      "raw_name": "Muối tôm Tây Ninh",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "hoặc muối chấm thường",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Đường/ Muối/ Dầu ăn/ Tương ớt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Đường/ Muối/ Dầu ăn/ Tương ớt",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:53:39Z",
+  "page_title": "Cách làm sốt tắc chấm bánh tráng siêu ngon, dễ làm cho tín đồ mê ăn vặt",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/sot-tac-cham-banh-tra%20%282%29.jpg"
+}

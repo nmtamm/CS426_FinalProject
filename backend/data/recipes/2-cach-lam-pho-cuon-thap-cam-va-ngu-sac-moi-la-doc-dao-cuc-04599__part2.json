@@ -1,0 +1,173 @@
+{
+  "source_id": "04599",
+  "name": "Phở cuốn ngũ sắc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c9e15f8596bb8fc8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-pho-cuon-thap-cam-va-ngu-sac-moi-la-doc-dao-cuc-04599",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-pho-cuon-thap-cam-va-ngu-sac-moi-la-doc-dao-cuc-04599",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột gạo 100 gr",
+      "raw_name": "Bột gạo",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột năng 30 gr",
+      "raw_name": "Bột năng",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột nếp 20 gr",
+      "raw_name": "Bột nếp",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước ép cải bó xôi 50 ml",
+      "raw_name": "Nước ép cải bó xôi",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước hoa đậu biếc 50 ml",
+      "raw_name": "Nước hoa đậu biếc",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước ép bắp cải tím 50 ml",
+      "raw_name": "Nước ép bắp cải tím",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước ép cà rốt 50 ml",
+      "raw_name": "Nước ép cà rốt",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Củ dền 1 củ (ép lấy 50ml nước)",
+      "raw_name": "Củ dền",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "ép lấy 50ml nước",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Thịt bò 150 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Rau xà lách 100 gr",
+      "raw_name": "Rau xà lách",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Lá húng quế 50 gr",
+      "raw_name": "Lá húng quế",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước mắm 1.5 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước cốt chanh 5 ml",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 5,
+      "unit": "ml",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Ớt 1 trái",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Nước tương 1 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Tỏi băm 15 gr",
+      "raw_name": "Tỏi băm",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 17
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/bột ngọt/tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/bột ngọt/tiêu xay",
+      "display_order": 18
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 19
+    }
+  ],
+  "scraped_at": "2026-08-19T19:00:13Z",
+  "page_title": "2 cách làm phở cuốn thập cẩm và ngũ sắc mới lạ độc đáo cực ngon",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/pho-cuon-ngu-sac-thumbnail.jpg"
+}

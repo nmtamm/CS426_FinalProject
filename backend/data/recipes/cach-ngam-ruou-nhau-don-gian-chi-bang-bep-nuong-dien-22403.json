@@ -1,0 +1,35 @@
+{
+  "source_id": "22403",
+  "name": "Cách ngâm rượu nhàu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/14c9940cb2080405.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-ngam-ruou-nhau-don-gian-chi-bang-bep-nuong-dien-22403",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-ngam-ruou-nhau-don-gian-chi-bang-bep-nuong-dien-22403",
+  "servings_text": "Cho 1 cái",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nhàu 4 kg",
+      "raw_name": "Nhàu",
+      "quantity": 4,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rượu gốc 10 lít",
+      "raw_name": "Rượu gốc 10 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:52:28Z",
+  "page_title": "Cách ngâm rượu nhàu đơn giản chỉ bằng bếp nướng điện",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/fdkfdfj.jpg"
+}

@@ -1,0 +1,115 @@
+{
+  "source_id": "14413",
+  "name": "Dưa mắm miền Tây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1bce3b3b62f3c7f5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dua-mam-mien-tay-chua-chua-ngot-ngot-dam-vi-que-nha-14413",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dua-mam-mien-tay-chua-chua-ngot-ngot-dam-vi-que-nha-14413",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gạo 100 gr",
+      "raw_name": "Gạo",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dưa gang non 1.5 kg",
+      "raw_name": "Dưa gang non",
+      "quantity": 1.5,
+      "unit": "kg",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hạt chi tử 1 hạt",
+      "raw_name": "Hạt chi tử 1 hạt",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gạo rang 30 gr",
+      "raw_name": "Gạo rang",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Vôi ăn trầu màu trắng 50 gr",
+      "raw_name": "Vôi ăn trầu màu trắng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường vàng 75 gr",
+      "raw_name": "Đường vàng",
+      "quantity": 75,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường phèn vàng 225 gr",
+      "raw_name": "Đường phèn vàng",
+      "quantity": 225,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt sừng 4 quả",
+      "raw_name": "Ớt sừng",
+      "quantity": 4,
+      "unit": "quả",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tỏi 1/2 củ",
+      "raw_name": "Tỏi",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Chanh 1 quả",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường",
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T20:27:52Z",
+  "page_title": "Cách làm dưa mắm miền Tây chua chua ngọt ngọt đậm vị quê nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-dua-mam-mien-tay-chua-chua-ngot-ngot-dam-vi-que-nha-avt-1200x676-1.jpg"
+}

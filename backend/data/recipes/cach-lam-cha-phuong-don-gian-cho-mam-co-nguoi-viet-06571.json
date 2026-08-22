@@ -1,0 +1,111 @@
+{
+  "source_id": "06571",
+  "name": "Chả phượng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0308c59c30928055.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-phuong-don-gian-cho-mam-co-nguoi-viet-06571",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-phuong-don-gian-cho-mam-co-nguoi-viet-06571",
+  "servings_text": "Cho 4 - 5 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Giò sống 500 gr",
+      "raw_name": "Giò sống",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng gà 5 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột năng 5 gr",
+      "raw_name": "Bột năng",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 50 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rong biển cuộn cơm 2 lá",
+      "raw_name": "Rong biển cuộn cơm",
+      "quantity": 2,
+      "unit": "lá",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đậu cô ve 100 gr",
+      "raw_name": "Đậu cô ve",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Cà rốt 2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dưa leo 1 trái",
+      "raw_name": "Dưa leo",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Ngò 1 ít",
+      "raw_name": "Ngò",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ tiêu/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ tiêu/ hạt nêm",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T19:35:02Z",
+  "page_title": "Cách làm chả phượng đơn giản cho mâm cỗ người Việt",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/1-1200x676-17.jpg"
+}

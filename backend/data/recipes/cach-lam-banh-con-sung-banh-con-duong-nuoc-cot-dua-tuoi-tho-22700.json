@@ -1,0 +1,75 @@
+{
+  "source_id": "22700",
+  "name": "Bánh con sùng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9ba196224963cdb4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-con-sung-banh-con-duong-nuoc-cot-dua-tuoi-tho-22700",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-con-sung-banh-con-duong-nuoc-cot-dua-tuoi-tho-22700",
+  "servings_text": "Cho 4 - 6 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột năng 270 gr",
+      "raw_name": "Bột năng",
+      "quantity": 270,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột mì 30 gr (bột mì đa dụng hoặc bột mì số 8)",
+      "raw_name": "Bột mì",
+      "quantity": 30,
+      "unit": "gr",
+      "note": "bột mì đa dụng hoặc bột mì số 8",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường bột 90 gr",
+      "raw_name": "Đường bột",
+      "quantity": 90,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột nổi 3 gr (baking power)",
+      "raw_name": "Bột nổi",
+      "quantity": 3,
+      "unit": "gr",
+      "note": "baking power",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cốt dừa 200 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu dừa 30 ml",
+      "raw_name": "Dầu dừa",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Thực phẩm tạo màu 1 ít (lá dứa/ củ dền)",
+      "raw_name": "Thực phẩm tạo màu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "lá dứa/ củ dền",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:58:12Z",
+  "page_title": "Cách làm bánh con sùng (bánh con đuông) nước cốt dừa tuổi thơ với lò nướng",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/19032025%20%2880%29.jpg"
+}

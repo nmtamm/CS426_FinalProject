@@ -1,0 +1,79 @@
+{
+  "source_id": "10830",
+  "name": "Bánh nougat trứng muối chà bông",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4daa195c336acecf.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-nougat-trung-muoi-cha-bong-sieu-ngon-sieu-don-10830",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-nougat-trung-muoi-cha-bong-sieu-ngon-sieu-don-10830",
+  "servings_text": "Cho 6 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Kẹo marshmallow 180 gr",
+      "raw_name": "Kẹo marshmallow",
+      "quantity": 180,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bơ lạt 50 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bánh quy 150 gr",
+      "raw_name": "Bánh quy",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trứng muối 5 quả",
+      "raw_name": "Trứng muối",
+      "quantity": 5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sữa bột 50 gr",
+      "raw_name": "Sữa bột",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rong biển chà bông 1 ít",
+      "raw_name": "Rong biển chà bông",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Rượu 1 ít (để rửa trứng muối)",
+      "raw_name": "Rượu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "để rửa trứng muối",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:02:26Z",
+  "page_title": "Cách làm bánh nougat trứng muối chà bông siêu ngon siêu đơn giản ai cũng mê",
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookProduct/12606-1200x676.jpg"
+}

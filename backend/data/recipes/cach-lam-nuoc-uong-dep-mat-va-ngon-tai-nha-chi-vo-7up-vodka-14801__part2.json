@@ -1,0 +1,77 @@
+{
+  "source_id": "14801",
+  "name": "Nước uống với 7up",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/73e7ddf9c33642df.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-uong-dep-mat-va-ngon-tai-nha-chi-vo-7up-vodka-14801",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-uong-dep-mat-va-ngon-tai-nha-chi-vo-7up-vodka-14801",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "7up 100 ml",
+      "raw_name": "7up",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Yakult 65 ml (1 hũ)",
+      "raw_name": "Yakult",
+      "quantity": 65,
+      "unit": "ml",
+      "note": "1 hũ",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Vodka Cuiser 100 ml (nước trái cây lên men)",
+      "raw_name": "Vodka Cuiser",
+      "quantity": 100,
+      "unit": "ml",
+      "note": "nước trái cây lên men",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cherry 5 trái",
+      "raw_name": "Cherry",
+      "quantity": 5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chanh 4 gr (2 lát mỏng)",
+      "raw_name": "Chanh",
+      "quantity": 4,
+      "unit": "gr",
+      "note": "2 lát mỏng",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lá bạc hà 2 gr (2 lá)",
+      "raw_name": "Lá bạc hà",
+      "quantity": 2,
+      "unit": "gr",
+      "note": "2 lá",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:04:34Z",
+  "page_title": "Cách làm nước uống đẹp mắt tại nhà chỉ với 7up, vodka cuiser và redbull",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/nuoc-uong-voi-7up-thumbnail.jpg"
+}

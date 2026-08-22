@@ -1,0 +1,55 @@
+{
+  "source_id": "22537",
+  "name": "Ức gà nướng bằng nồi chiên không dầu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9c65d76cce47842d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-uc-ga-nuong-bang-noi-chien-khong-dau-don-gian-thom-22537",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-uc-ga-nuong-bang-noi-chien-khong-dau-don-gian-thom-22537",
+  "servings_text": "Cho 1 cái",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ức gà 1 miếng",
+      "raw_name": "Ức gà 1 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gia vị 1 ít (nước tương/dầu mè/dầu hào/bột ớt/tiêu)",
+      "raw_name": "Gia vị",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "nước tương/dầu mè/dầu hào/bột ớt/tiêu",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mật ong 1 ít",
+      "raw_name": "Mật ong",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tỏi 1 ít",
+      "raw_name": "Hành tỏi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T18:06:57Z",
+  "page_title": "Cách làm ức gà nướng bằng nồi chiên không dầu đơn giản thơm ngon",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/uc-ga-nuong-noi-chien-1.jpg"
+}

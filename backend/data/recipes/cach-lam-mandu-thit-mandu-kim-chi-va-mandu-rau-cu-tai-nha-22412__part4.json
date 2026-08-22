@@ -1,0 +1,97 @@
+{
+  "source_id": "22412",
+  "name": "Mandu rau củ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0d16181ea3c22e18.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mandu-thit-mandu-kim-chi-va-mandu-rau-cu-tai-nha-22412",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mandu-thit-mandu-kim-chi-va-mandu-rau-cu-tai-nha-22412",
+  "servings_text": "Cho 30 cái nhỏ",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu hũ trắng 300 gr",
+      "raw_name": "Đậu hũ trắng",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm hương tươi 150 gr",
+      "raw_name": "Nấm hương tươi",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Miến khoai lang 55 gr (miến Hàn Quốc)",
+      "raw_name": "Miến khoai lang",
+      "quantity": 55,
+      "unit": "gr",
+      "note": "miến Hàn Quốc",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hẹ lá 80 gr",
+      "raw_name": "Hẹ lá",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Giá đỗ 150 gr",
+      "raw_name": "Giá đỗ",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu mè 2 muỗng canh",
+      "raw_name": "Dầu mè",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt bột Hàn Quốc 1 muỗng canh (tùy ý)",
+      "raw_name": "Ớt bột Hàn Quốc",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "tùy ý",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ nước tương/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ nước tương/ tiêu xay",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T20:33:58Z",
+  "page_title": "Cách làm mandu thịt, mandu kim chi và mandu rau củ tại nhà với máy xay thịt",
+  "variant_index": 4,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2024/12/CookRecipe/Avatar/mandu-rau-cu-thumbnail-1.jpg"
+}

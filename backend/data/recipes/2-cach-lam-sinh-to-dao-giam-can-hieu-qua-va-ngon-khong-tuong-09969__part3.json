@@ -1,0 +1,49 @@
+{
+  "source_id": "09969",
+  "name": "Sinh tố đào chuối",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/dce92c3ab27f8b39.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sinh-to-dao-giam-can-hieu-qua-va-ngon-khong-tuong-09969",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sinh-to-dao-giam-can-hieu-qua-va-ngon-khong-tuong-09969",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đào 2 trái",
+      "raw_name": "Đào",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chuối 1 trái",
+      "raw_name": "Chuối",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa hạnh nhân 100 ml",
+      "raw_name": "Sữa hạnh nhân",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:54:35Z",
+  "page_title": "4 cách làm sinh tố đào giảm cân ngọt mát thơm ngon không tưởng",
+  "variant_index": 3,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/sinhtodaochuoi.jpg"
+}

@@ -1,0 +1,158 @@
+{
+  "source_id": "08756",
+  "name": "Bánh mì hấp chay bì",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/11caf4e4b74dd47f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-mi-hap-chay-thom-ngon-don-gian-cho-bua-sang-08756",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-mi-hap-chay-thom-ngon-don-gian-cho-bua-sang-08756",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh mì 2 cái",
+      "raw_name": "Bánh mì",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Miến 50 gr",
+      "raw_name": "Miến",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sườn chay 3 miếng",
+      "raw_name": "Sườn chay 3 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đậu hũ trắng 1 miếng",
+      "raw_name": "Đậu hũ trắng 1 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Củ sắn 1/2 củ",
+      "raw_name": "Củ sắn",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Cà rốt 1/2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nấm đông cô 5 cây",
+      "raw_name": "Nấm đông cô",
+      "quantity": 5,
+      "unit": "cây",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đậu phộng rang 1 muỗng canh",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hành boa rô cắt lát 1 muỗng canh",
+      "raw_name": "Hành boa rô cắt lát",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hành boa rô phi 1 muỗng canh",
+      "raw_name": "Hành boa rô phi",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Hẹ lá cắt nhuyễn 1 muỗng canh",
+      "raw_name": "Hẹ lá cắt nhuyễn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Thính gạo 2 muỗng canh",
+      "raw_name": "Thính gạo",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu ăn 250 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 250,
+      "unit": "ml",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Nước dừa tươi 1 chén (chén ăn cơm)",
+      "raw_name": "Nước dừa tươi",
+      "quantity": 1,
+      "unit": "chén",
+      "note": "chén ăn cơm",
+      "display_order": 14
+    },
+    {
+      "raw_text": "Nước tương 4.5 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 4.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Hạt nêm chay 1 muỗng cà phê",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Đường/ tiêu xay 1 ít",
+      "raw_name": "Đường/ tiêu xay",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 17
+    }
+  ],
+  "scraped_at": "2026-08-19T18:42:16Z",
+  "page_title": "3 cách làm bánh mì hấp chay thơm ngon đơn giản cho bữa sáng dinh dưỡng",
+  "variant_index": 2,
+  "variant_count": 3,
+  "note": null,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/banh-mi-hap-chay-bi-thumbnail.jpg"
+}

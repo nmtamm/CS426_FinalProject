@@ -1,0 +1,133 @@
+{
+  "source_id": "02878",
+  "name": "Gỏi ốc bươu đu đủ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/04942dc068c51131.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-oc-buou-tron-kieu-thai-chua-cay-dam-vi-cho-gia-dinh-02878",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-oc-buou-tron-kieu-thai-chua-cay-dam-vi-cho-gia-dinh-02878",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ốc bươu 1.5 kg",
+      "raw_name": "Ốc bươu",
+      "quantity": 1.5,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tai heo 1 cái",
+      "raw_name": "Tai heo",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đu đủ 2 trái",
+      "raw_name": "Đu đủ",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chanh 2 trái",
+      "raw_name": "Chanh",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 3 tép",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt 2 trái",
+      "raw_name": "Ớt",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước mắm 3 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước lọc 2 muỗng",
+      "raw_name": "Nước lọc",
+      "quantity": 2,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rau răm 1 ít",
+      "raw_name": "Rau răm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Giấm 3 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước lọc 3 muỗng",
+      "raw_name": "Nước lọc",
+      "quantity": 3,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Đậu phộng rang chín 1 ít",
+      "raw_name": "Đậu phộng rang chín",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/bột ngọt/hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/bột ngọt/hạt nêm",
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T18:00:08Z",
+  "page_title": "4 cách làm gỏi ốc bươu thơm ngon chua cay đậm vị đơn giản cho gia đình",
+  "variant_index": 3,
+  "variant_count": 5,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/goi-oc-buou-du-du-thumbnail.jpg"
+}

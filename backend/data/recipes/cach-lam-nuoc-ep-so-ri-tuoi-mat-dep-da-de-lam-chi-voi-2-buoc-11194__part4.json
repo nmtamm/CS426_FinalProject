@@ -1,0 +1,45 @@
+{
+  "source_id": "11194",
+  "name": "Nước ép sơ ri táo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a1ed989a032cca2b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-so-ri-tuoi-mat-dep-da-de-lam-chi-voi-2-buoc-11194",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-so-ri-tuoi-mat-dep-da-de-lam-chi-voi-2-buoc-11194",
+  "servings_text": "Cho 2 ly",
+  "topics": [
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sơ ri 100 gr",
+      "raw_name": "Sơ ri",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Táo 1 trái",
+      "raw_name": "Táo",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường/ muối 1 ít",
+      "raw_name": "Đường/ muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T20:12:30Z",
+  "page_title": "6 Cách làm nước ép sơ ri tươi mát đẹp da dễ làm chỉ với 2 bước",
+  "variant_index": 4,
+  "variant_count": 6,
+  "original_image_url": "https://cdn.tgdd.vn/2022/04/CookRecipe/Avatar/nuoc-ep-so-ri-tao-thumbnail-1.jpg"
+}

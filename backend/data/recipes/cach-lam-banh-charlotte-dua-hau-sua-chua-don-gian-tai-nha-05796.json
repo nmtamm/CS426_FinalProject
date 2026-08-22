@@ -1,0 +1,83 @@
+{
+  "source_id": "05796",
+  "name": "Bánh charlotte dưa hấu sữa chua",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/13e84419134f50d3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-charlotte-dua-hau-sua-chua-don-gian-tai-nha-05796",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-charlotte-dua-hau-sua-chua-don-gian-tai-nha-05796",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh sampa 35 cái",
+      "raw_name": "Bánh sampa",
+      "quantity": 35,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dưa hấu 1/2 quả",
+      "raw_name": "Dưa hấu",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gelatin dạng lá 9 gr",
+      "raw_name": "Gelatin dạng lá",
+      "quantity": 9,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa chua không đường 150 gr",
+      "raw_name": "Sữa chua không đường",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Whipping cream 150 gr (30 - 35% độ béo)",
+      "raw_name": "Whipping cream",
+      "quantity": 150,
+      "unit": "gr",
+      "note": "30 - 35% độ béo",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước chanh 20 ml",
+      "raw_name": "Nước chanh",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 45 gr",
+      "raw_name": "Đường",
+      "quantity": 45,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Lá bạc hà 1 ít",
+      "raw_name": "Lá bạc hà",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:19:58Z",
+  "page_title": "Cách làm bánh charlotte dưa hấu sữa chua đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookProduct/Untitled-1-1200x676-8.jpg"
+}

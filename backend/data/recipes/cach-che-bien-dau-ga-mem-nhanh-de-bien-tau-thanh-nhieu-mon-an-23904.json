@@ -1,0 +1,27 @@
+{
+  "source_id": "23904",
+  "name": "Đậu gà luộc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9076d09905e3d1b6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-che-bien-dau-ga-mem-nhanh-de-bien-tau-thanh-nhieu-mon-an-23904",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-che-bien-dau-ga-mem-nhanh-de-bien-tau-thanh-nhieu-mon-an-23904",
+  "servings_text": "Cho 3 - 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu gà khô 1 chén",
+      "raw_name": "Đậu gà khô",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 1
+    }
+  ],
+  "scraped_at": "2026-08-19T18:34:40Z",
+  "page_title": "Cách chế biến đậu gà mềm nhanh để biến tấu thành nhiều món ăn đầy hấp dẫn",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20m%C3%B3n%20an%20t01%20%281200%20x%20676%20px%29%20%281%29.jpg"
+}

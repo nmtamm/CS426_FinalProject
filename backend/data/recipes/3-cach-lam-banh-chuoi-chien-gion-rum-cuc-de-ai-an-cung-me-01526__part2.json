@@ -1,0 +1,97 @@
+{
+  "source_id": "01526",
+  "name": "Bánh chuối chiên mè bằng bột pha",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d20b6b496ab937a8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-banh-chuoi-chien-gion-rum-cuc-de-ai-an-cung-me-01526",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-banh-chuoi-chien-gion-rum-cuc-de-ai-an-cung-me-01526",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chuối sứ 8 trái",
+      "raw_name": "Chuối sứ",
+      "quantity": 8,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mè rang 100 gr (mè trắng và mè đen)",
+      "raw_name": "Mè rang",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "mè trắng và mè đen",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột mì đa dụng 200 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột gạo tẻ 50 gr",
+      "raw_name": "Bột gạo tẻ",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột nếp 50 gr",
+      "raw_name": "Bột nếp",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột nở 2 muỗng cà phê (Baking soda)",
+      "raw_name": "Bột nở",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": "Baking soda",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 50 gr",
+      "raw_name": "Đường",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu ăn 500 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:15:09Z",
+  "page_title": "2 Cách làm bánh chuối chiên mè giòn rụm đơn giản, ngọt ngon như ngoài hàng",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/banh-chuoi-chien-me-gion-tan-thumbnail.jpg"
+}

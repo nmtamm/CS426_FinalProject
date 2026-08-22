@@ -1,0 +1,141 @@
+{
+  "source_id": "07673",
+  "name": "Gỏi gà xoài xanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/70e3983c8f54d2f2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-ga-xoai-xanh-thom-ngon-de-lam-tai-nha-cho-ca-gia-07673",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-ga-xoai-xanh-thom-ngon-de-lam-tai-nha-cho-ca-gia-07673",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt gà 400 gr (đùi gà và ức gà)",
+      "raw_name": "Thịt gà",
+      "quantity": 400,
+      "unit": "gr",
+      "note": "đùi gà và ức gà",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xoài 2 trái",
+      "raw_name": "Xoài",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rau kinh giới 1 ít",
+      "raw_name": "Rau kinh giới",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rau húng lủi 1 ít",
+      "raw_name": "Rau húng lủi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rau mùi 1 ít",
+      "raw_name": "Rau mùi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Rau mùi tàu 1 ít",
+      "raw_name": "Rau mùi tàu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đậu phộng sống 100 gr (lạc)",
+      "raw_name": "Đậu phộng sống",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "lạc",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Chanh 1 trái",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Ớt 3 trái",
+      "raw_name": "Ớt",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Giấm 1 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ muối/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ muối/ tiêu xay",
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T18:01:09Z",
+  "page_title": "2 Cách làm gỏi gà xoài xanh thơm ngon dễ làm tại nhà cho cả gia đình",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookRecipe/Avatar/goi-ga-xoai-xanh-thumbnail.jpg"
+}

@@ -1,0 +1,91 @@
+{
+  "source_id": "08439",
+  "name": "Trứng cút chiên bơ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e44e1ce906c96b06.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-trung-cut-chien-bo-thom-ngon-hap-dan-tai-nha-08439",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-trung-cut-chien-bo-thom-ngon-hap-dan-tai-nha-08439",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trứng cút 30 quả",
+      "raw_name": "Trứng cút",
+      "quantity": 30,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bơ động vật 3 muỗng canh",
+      "raw_name": "Bơ động vật",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 1 muỗng canh (băm nhỏ)",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "băm nhỏ",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ngò gai 1 nhánh",
+      "raw_name": "Ngò gai",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột chiên giòn 50 gr (hoặc bột mì đa dụng)",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "hoặc bột mì đa dụng",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tương ớt 3 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu ăn 100 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:11:05Z",
+  "page_title": "Cách làm trứng cút chiên bơ thơm ngon, hấp dẫn tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/trungcutchienbo-1200x676.jpg"
+}

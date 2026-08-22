@@ -1,0 +1,67 @@
+{
+  "source_id": "08864",
+  "name": "Trà cam",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d751d6a61577132c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-cam-thom-ngon-mat-lanh-giai-nhiet-ngay-nong-cuc-08864",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-cam-thom-ngon-mat-lanh-giai-nhiet-ngay-nong-cuc-08864",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà đen 3 gr (hoặc bất kì loại trà nào bạn thích)",
+      "raw_name": "Trà đen",
+      "quantity": 3,
+      "unit": "gr",
+      "note": "hoặc bất kì loại trà nào bạn thích",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước nóng 100 ml (khoảng 90°C)",
+      "raw_name": "Nước nóng",
+      "quantity": 100,
+      "unit": "ml",
+      "note": "khoảng 90°C",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cam to 1 quả (lấy khoảng 50ml nước cốt)",
+      "raw_name": "Cam to",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "lấy khoảng 50ml nước cốt",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Siro cam 10 ml (có thể không dùng cũng được)",
+      "raw_name": "Siro cam",
+      "quantity": 10,
+      "unit": "ml",
+      "note": "có thể không dùng cũng được",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 20 gr (hoặc 30ml siro đường)",
+      "raw_name": "Đường",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "hoặc 30ml siro đường",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước cốt chanh 5 ml",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 5,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:52:55Z",
+  "page_title": "Cách làm trà cam thơm ngon mát lạnh, giải nhiệt ngày nóng cực đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookProduct/Untitled-1-1200x676-2.jpg"
+}

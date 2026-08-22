@@ -1,0 +1,41 @@
+{
+  "source_id": "03101",
+  "name": "Mẻ từ cơm nát và nước cơm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/54188b4051264bfc.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-me-chua-nhanh-khong-bi-moc-cuc-de-03101",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-me-chua-nhanh-khong-bi-moc-cuc-de-03101",
+  "servings_text": "Cho 6 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    },
+    {
+      "slug": "meo-vao-bep",
+      "name": "Mẹo vào bếp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gạo tẻ 500 gr (không dùng gạo nếp)",
+      "raw_name": "Gạo tẻ",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "không dùng gạo nếp",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước 2 lít",
+      "raw_name": "Nước 2 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T20:31:41Z",
+  "page_title": "3 cách làm mẻ chua nhanh, không bị mốc cực dễ ngay tại nhà",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/me-tu-com-nat-va-nuoc-com-thumbnail.jpg"
+}

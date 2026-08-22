@@ -1,0 +1,75 @@
+{
+  "source_id": "24443",
+  "name": "Ức gà viên",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1a7a25a927b8c9bc.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-uc-ga-vien-dai-gion-cho-nguoi-an-kieng-nau-mon-gi-24443",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-uc-ga-vien-dai-gion-cho-nguoi-an-kieng-nau-mon-gi-24443",
+  "servings_text": "Cho 2 - 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt gà 700 gr (ức gà và đùi gà lọc xương bỏ da/mỡ)",
+      "raw_name": "Thịt gà",
+      "quantity": 700,
+      "unit": "gr",
+      "note": "ức gà và đùi gà lọc xương bỏ da/mỡ",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tinh bột khoai tây 40 gr (hoặc bột bắp)",
+      "raw_name": "Tinh bột khoai tây",
+      "quantity": 40,
+      "unit": "gr",
+      "note": "hoặc bột bắp",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột nổi 2 gr (baking power)",
+      "raw_name": "Bột nổi",
+      "quantity": 2,
+      "unit": "gr",
+      "note": "baking power",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 24 gr",
+      "raw_name": "Dầu ăn",
+      "quantity": 24,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước lạnh 100 gr",
+      "raw_name": "Nước lạnh",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ hạt nêm",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:03:35Z",
+  "page_title": "Cách làm ức gà viên dai giòn cho người ăn kiêng nấu món gì cũng ngon",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t05%201200676%20%2818%29.jpg"
+}

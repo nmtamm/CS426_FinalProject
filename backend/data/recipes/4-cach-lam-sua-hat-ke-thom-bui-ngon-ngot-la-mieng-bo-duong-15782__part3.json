@@ -1,0 +1,45 @@
+{
+  "source_id": "15782",
+  "name": "Sữa hạt kê đậu phộng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d7eb6202c4e9c92e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-sua-hat-ke-thom-bui-ngon-ngot-la-mieng-bo-duong-15782",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-sua-hat-ke-thom-bui-ngon-ngot-la-mieng-bo-duong-15782",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hạt kê 30 gr",
+      "raw_name": "Hạt kê",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu phộng 30 gr",
+      "raw_name": "Đậu phộng",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước 1 lít",
+      "raw_name": "Nước 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:58:47Z",
+  "page_title": "4 cách làm sữa hạt kê thơm bùi ngon ngọt lạ miệng bổ dưỡng tại nhà",
+  "variant_index": 3,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookRecipe/Avatar/sũa-hạt-ke-dạu-phọng-thumbnail-2.jpg"
+}

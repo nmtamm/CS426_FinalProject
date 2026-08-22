@@ -1,0 +1,81 @@
+{
+  "source_id": "13722",
+  "name": "Xếp giỏ hoa quả (nhiều loại)",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4ce6ac5b99cb384b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-trang-tri-gio-hoa-qua-tu-dau-tay-va-trai-cay-khac-tang-13722",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-trang-tri-gio-hoa-qua-tu-dau-tay-va-trai-cay-khac-tang-13722",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "meo-vao-bep",
+      "name": "Mẹo vào bếp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lê Hàn Quốc 1 quả",
+      "raw_name": "Lê Hàn Quốc",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lê Nam Phi 1 quả",
+      "raw_name": "Lê Nam Phi",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Táo xanh 1 quả",
+      "raw_name": "Táo xanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Táo Queen đỏ 2 quả",
+      "raw_name": "Táo Queen đỏ",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cam xoàn 1 quả",
+      "raw_name": "Cam xoàn",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nho đỏ 300 gr (1 chùm)",
+      "raw_name": "Nho đỏ",
+      "quantity": 300,
+      "unit": "gr",
+      "note": "1 chùm",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bát hoa cắm sẵn 1 cái (cỡ 50.000 đồng)",
+      "raw_name": "Bát hoa cắm sẵn",
+      "quantity": 1,
+      "unit": "cái",
+      "note": "cỡ 50.000 đồng",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:41:09Z",
+  "page_title": "2 cách trang trí giỏ hoa quả từ dâu tây và trái cây khác tặng mẹ ngày 20/10",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/xep-gio-hoa-qua-nhieu-loai-thumbnail.jpg"
+}

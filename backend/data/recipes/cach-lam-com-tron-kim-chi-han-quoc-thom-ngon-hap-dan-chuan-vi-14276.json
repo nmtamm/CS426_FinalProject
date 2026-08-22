@@ -1,0 +1,83 @@
+{
+  "source_id": "14276",
+  "name": "Cơm trộn kim chi Hàn Quốc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/685f14dd870e9b06.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-com-tron-kim-chi-han-quoc-thom-ngon-hap-dan-chuan-vi-14276",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-com-tron-kim-chi-han-quoc-thom-ngon-hap-dan-chuan-vi-14276",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cơm trắng 1 chén (loại chén ăn cơm)",
+      "raw_name": "Cơm trắng",
+      "quantity": 1,
+      "unit": "chén",
+      "note": "loại chén ăn cơm",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Kim chi 120 gr",
+      "raw_name": "Kim chi",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cá ngừ ngâm dầu 2 muỗng canh (đóng hộp)",
+      "raw_name": "Cá ngừ ngâm dầu",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "đóng hộp",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rong biển khô 1 lá",
+      "raw_name": "Rong biển khô",
+      "quantity": 1,
+      "unit": "lá",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành lá 1 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt hiểm 1/2 trái",
+      "raw_name": "Ớt hiểm",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Mè trắng 1/2 muỗng cà phê (đã rang)",
+      "raw_name": "Mè trắng",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": "đã rang",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu mè 1/2 muỗng cà phê",
+      "raw_name": "Dầu mè",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:37:06Z",
+  "page_title": "Cách làm cơm trộn kim chi Hàn Quốc thơm ngon hấp dẫn chuẩn vị tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-com-tron-kim-chi-han-quoc-thom-ngon-hap-dan-chuan-vi-avt-1200x676.jpg"
+}

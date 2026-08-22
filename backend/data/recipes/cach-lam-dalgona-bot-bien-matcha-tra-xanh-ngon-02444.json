@@ -1,0 +1,59 @@
+{
+  "source_id": "02444",
+  "name": "Dalgona bọt biển matcha trà xanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b92ebe7df05317a4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dalgona-bot-bien-matcha-tra-xanh-ngon-02444",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dalgona-bot-bien-matcha-tra-xanh-ngon-02444",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trứng 1 quả (lòng trắng)",
+      "raw_name": "Trứng",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "lòng trắng",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 45 gr",
+      "raw_name": "Đường",
+      "quantity": 45,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột matcha 6 gr",
+      "raw_name": "Bột matcha",
+      "quantity": 6,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước nóng 15 ml",
+      "raw_name": "Nước nóng",
+      "quantity": 15,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sữa tươi 300 ml (có đường hoặc không đường)",
+      "raw_name": "Sữa tươi",
+      "quantity": 300,
+      "unit": "ml",
+      "note": "có đường hoặc không đường",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:07:36Z",
+  "page_title": "Cách làm Dalgona bọt biển matcha trà xanh thơm ngon, bông mịn",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/05/19/1256644/cach-lam-dalgona-bot-bien-matcha-tra-xanh-thom-ngo-5-760x367.jpg"
+}

@@ -1,0 +1,103 @@
+{
+  "source_id": "18969",
+  "name": "Lẩu nước mía rau củ chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9d509b49b4723a21.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/lau-nuoc-mia-rau-cu-chay-thay-doi-khau-vi-cho-nhung-ngay-18969",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/lau-nuoc-mia-rau-cu-chay-thay-doi-khau-vi-cho-nhung-ngay-18969",
+  "servings_text": "Cho 2 - 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-lau",
+      "name": "Món lẩu"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nước mía 500 ml",
+      "raw_name": "Nước mía",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước lọc 5 lít",
+      "raw_name": "Nước lọc 5 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bắp mỹ 2 trái",
+      "raw_name": "Bắp mỹ",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cải trắng 1 củ",
+      "raw_name": "Cải trắng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nấm rơm 100 gr",
+      "raw_name": "Nấm rơm",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nấm đông cô 6 cây",
+      "raw_name": "Nấm đông cô",
+      "quantity": 6,
+      "unit": "cây",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ngò rí 6 cây",
+      "raw_name": "Ngò rí",
+      "quantity": 6,
+      "unit": "cây",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối hồng 1/2 muỗng cà phê",
+      "raw_name": "Muối hồng",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Rau ăn kèm 1 ít (cải thảo/nấm kim châm/tùy thích)",
+      "raw_name": "Rau ăn kèm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "cải thảo/nấm kim châm/tùy thích",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:37:12Z",
+  "page_title": "Cách làm lẩu nước mía rau củ chay, thay đổi khẩu vị cho những ngày biếng ăn",
+  "original_image_url": "https://cdn.tgdd.vn/2023/03/CookDish/lau-nuoc-mia-rau-cu-chay-thay-doi-khau-vi-cho-nhung-ngay-avt-1200x676.jpg"
+}

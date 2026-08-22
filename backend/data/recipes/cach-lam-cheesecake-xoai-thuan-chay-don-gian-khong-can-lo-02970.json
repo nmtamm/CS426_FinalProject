@@ -1,0 +1,95 @@
+{
+  "source_id": "02970",
+  "name": "Bánh phô mai xoài thuần chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/80c25ef8023c42d8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cheesecake-xoai-thuan-chay-don-gian-khong-can-lo-02970",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cheesecake-xoai-thuan-chay-don-gian-khong-can-lo-02970",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Xoài chín 3 trái",
+      "raw_name": "Xoài chín",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hạnh nhân 50 gr",
+      "raw_name": "Hạnh nhân",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dừa nạo 150 gr",
+      "raw_name": "Dừa nạo",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nho khô 50 gr",
+      "raw_name": "Nho khô",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu dừa 3 muỗng canh",
+      "raw_name": "Dầu dừa",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hạt điều 140 gr",
+      "raw_name": "Hạt điều",
+      "quantity": 140,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước cốt dừa 160 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 160,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường thốt nốt 35 gr",
+      "raw_name": "Đường thốt nốt",
+      "quantity": 35,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột nghệ 1/2 muỗng cà phê",
+      "raw_name": "Bột nghệ",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:43:40Z",
+  "page_title": "Cách làm cheesecake xoài thuần chay đơn giản không cần lò nướng",
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookProduct/1-1200x676-5.jpg"
+}

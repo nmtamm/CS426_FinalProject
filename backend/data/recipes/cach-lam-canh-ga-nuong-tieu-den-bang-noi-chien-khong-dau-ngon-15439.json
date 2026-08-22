@@ -1,0 +1,87 @@
+{
+  "source_id": "15439",
+  "name": "Cánh gà nướng tiêu đen bằng nồi chiên không dầu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/470a093e4665e1fa.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-canh-ga-nuong-tieu-den-bang-noi-chien-khong-dau-ngon-15439",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-canh-ga-nuong-tieu-den-bang-noi-chien-khong-dau-ngon-15439",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cánh gà 3 cái",
+      "raw_name": "Cánh gà",
+      "quantity": 3,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hạt tiêu đen 1 muỗng canh",
+      "raw_name": "Hạt tiêu đen",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tím 2 củ (băm nhuyễn)",
+      "raw_name": "Hành tím",
+      "quantity": 2,
+      "unit": "củ",
+      "note": "băm nhuyễn",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 3 tép (băm nhuyễn)",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": "băm nhuyễn",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng cà phê",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ hạt nêm",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:09:42Z",
+  "page_title": "Cách làm cánh gà nướng tiêu đen bằng nồi chiên không dầu ngon thơm lừng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookDish/cach-lam-canh-ga-nuong-tieu-den-bang-noi-chien-khong-dau-ngon-avt-1200x676.jpg"
+}

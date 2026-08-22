@@ -1,0 +1,35 @@
+{
+  "source_id": "02332",
+  "name": "Cơm cháy mỡ hành từ cơm nguội",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f118850d6a8da6ad.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-com-chay-mo-hanh-thom-ngon-gion-tan-don-g-02332",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-com-chay-mo-hanh-thom-ngon-gion-tan-don-g-02332",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cơm nguội 1 chén",
+      "raw_name": "Cơm nguội",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành lá cắt nhỏ 2 nhánh",
+      "raw_name": "Hành lá cắt nhỏ",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:03:47Z",
+  "page_title": "Cách làm cơm cháy mỡ hành thơm ngon giòn tan đơn giản từ cơm nguội",
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookProduct/bgfn-1200x676.jpg"
+}

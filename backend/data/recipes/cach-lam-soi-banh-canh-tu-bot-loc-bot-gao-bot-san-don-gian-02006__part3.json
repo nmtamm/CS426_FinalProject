@@ -1,0 +1,49 @@
+{
+  "source_id": "02006",
+  "name": "Sợi bánh canh bột sắn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7b2b9dd5e315b6e6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-soi-banh-canh-tu-bot-loc-bot-gao-bot-san-don-gian-02006",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-soi-banh-canh-tu-bot-loc-bot-gao-bot-san-don-gian-02006",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    },
+    {
+      "slug": "meo-vao-bep",
+      "name": "Mẹo vào bếp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột gạo 400 gr",
+      "raw_name": "Bột gạo",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột sắn dây 100 gr",
+      "raw_name": "Bột sắn dây",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước lọc 500 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T20:31:50Z",
+  "page_title": "Cách làm sợi bánh canh từ bột lọc, bột gạo, bột sắn đơn giản thơm ngon",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookRecipe/Avatar/soi-banh-canh-bot-san-thumbnail.jpg"
+}

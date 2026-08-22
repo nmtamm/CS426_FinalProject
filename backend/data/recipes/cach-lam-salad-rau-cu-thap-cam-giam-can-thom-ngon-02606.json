@@ -1,0 +1,131 @@
+{
+  "source_id": "02606",
+  "name": "Salad rau củ thập cẩm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d739616542b2a270.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-salad-rau-cu-thap-cam-giam-can-thom-ngon-02606",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-salad-rau-cu-thap-cam-giam-can-thom-ngon-02606",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rau xà lách 2 cây",
+      "raw_name": "Rau xà lách",
+      "quantity": 2,
+      "unit": "cây",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dưa chuột 1 trái",
+      "raw_name": "Dưa chuột",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà chua bi 15 trái",
+      "raw_name": "Cà chua bi",
+      "quantity": 15,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dưa leo 2 trái",
+      "raw_name": "Dưa leo",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bơ 1 trái",
+      "raw_name": "Bơ",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bắp luộc 1 trái",
+      "raw_name": "Bắp luộc",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Rau mùi 100 gr",
+      "raw_name": "Rau mùi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ớt 1 trái",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Chanh 3 trái",
+      "raw_name": "Chanh",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu ô liu 2 thìa cà phê",
+      "raw_name": "Dầu ô liu",
+      "quantity": 2,
+      "unit": "thìa cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Tương ớt 2 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Đường/muối 1 ít",
+      "raw_name": "Đường/muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T17:57:14Z",
+  "page_title": "Cách làm salad rau củ thập cẩm giảm cân thơm ngon đơn giản cho gia đình",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-salad-rau-cu-thap-cam-giam-can-thom-ngon-avt-1200x676.jpg"
+}

@@ -1,0 +1,101 @@
+{
+  "source_id": "05868",
+  "name": "Bánh Lamington cam",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9ab05f7095d4c9dd.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-lamington-cam-thom-ngon-cho-ngay-le-giang-sinh-05868",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-lamington-cam-thom-ngon-cho-ngay-le-giang-sinh-05868",
+  "servings_text": "Cho 6 cái bánh",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cam vàng 130 gr",
+      "raw_name": "Cam vàng",
+      "quantity": 130,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột mì số 8 100 gr (Pastry Flour)",
+      "raw_name": "Bột mì số 8",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "Pastry Flour",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa yến mạch 25 gr (hoặc sữa tươi)",
+      "raw_name": "Sữa yến mạch",
+      "quantity": 25,
+      "unit": "gr",
+      "note": "hoặc sữa tươi",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường củ cải 60 gr (hoặc đường)",
+      "raw_name": "Đường củ cải",
+      "quantity": 60,
+      "unit": "gr",
+      "note": "hoặc đường",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 30 gr",
+      "raw_name": "Dầu ăn",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Baking powder 1 muỗng cà phê (bột nở)",
+      "raw_name": "Baking powder",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "bột nở",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường bột 100 gr",
+      "raw_name": "Đường bột",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột cacao 7 gr",
+      "raw_name": "Bột cacao",
+      "quantity": 7,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu dừa 1 muỗng cà phê",
+      "raw_name": "Dầu dừa",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tinh chất vani 1.5 muỗng cà phê (hoặc nước lọc)",
+      "raw_name": "Tinh chất vani",
+      "quantity": 1.5,
+      "unit": "muỗng cà phê",
+      "note": "hoặc nước lọc",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T19:40:06Z",
+  "page_title": "3 cách làm bánh Lamington thơm ngon đơn giản cho ngày lễ Giáng Sinh",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookRecipe/Avatar/banh-lamington-cam-thumbnail.jpg"
+}

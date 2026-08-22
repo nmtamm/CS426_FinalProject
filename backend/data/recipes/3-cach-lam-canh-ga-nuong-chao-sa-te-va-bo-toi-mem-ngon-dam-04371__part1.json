@@ -1,0 +1,81 @@
+{
+  "source_id": "04371",
+  "name": "Cánh gà nướng chao",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/61f4533140ae409c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-canh-ga-nuong-chao-sa-te-va-bo-toi-mem-ngon-dam-04371",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-canh-ga-nuong-chao-sa-te-va-bo-toi-mem-ngon-dam-04371",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cánh gà 1 kg",
+      "raw_name": "Cánh gà",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chao 35 gr",
+      "raw_name": "Chao",
+      "quantity": 35,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt bột 2 muỗng cà phê",
+      "raw_name": "Ớt bột",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tiêu 1/3 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 0.333,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rượu trắng 1/2 muỗng canh",
+      "raw_name": "Rượu trắng",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Mật ong 1/2 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:17:17Z",
+  "page_title": "3 cách làm cánh gà nướng chao, sa tế và bơ tỏi mềm ngon đậm đà",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/canh-ga-nuong-chao-thumbnail.jpg"
+}

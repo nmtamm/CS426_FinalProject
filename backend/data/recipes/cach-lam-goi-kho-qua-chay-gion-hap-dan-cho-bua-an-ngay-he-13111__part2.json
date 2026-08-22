@@ -1,0 +1,153 @@
+{
+  "source_id": "13111",
+  "name": "Gỏi khổ qua chay với nấm đùi gà",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/12c8b5e1eb55e5b4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-kho-qua-chay-gion-hap-dan-cho-bua-an-ngay-he-13111",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-kho-qua-chay-gion-hap-dan-cho-bua-an-ngay-he-13111",
+  "servings_text": "Cho 3 người ăn",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    },
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nấm đùi gà 100 gram",
+      "raw_name": "Nấm đùi gà 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu hũ chiên 100 gram",
+      "raw_name": "Đậu hũ chiên 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Khổ qua 200 gram",
+      "raw_name": "Khổ qua 200 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 50 gram",
+      "raw_name": "Cà rốt 50 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt chuông vàng 100 gram",
+      "raw_name": "Ớt chuông vàng 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt chuông đỏ 100 gram",
+      "raw_name": "Ớt chuông đỏ 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ngò gai 1 ít",
+      "raw_name": "Ngò gai",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Húng quế 1 ít",
+      "raw_name": "Húng quế",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường vàng 1 muỗng canh (ướp gia vị)",
+      "raw_name": "Đường vàng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "ướp gia vị",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Muối hồng 1/2 muỗng cà phê (ướp gia vị)",
+      "raw_name": "Muối hồng",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": "ướp gia vị",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nấm cây 150 gram",
+      "raw_name": "Nấm cây 150 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Hạt nêm chay 1/2 muỗng cà phê",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước cốt tắc 3 muỗng canh (nước trộn)",
+      "raw_name": "Nước cốt tắc",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": "nước trộn",
+      "display_order": 13
+    },
+    {
+      "raw_text": "Đường vang 3 muỗng canh (nước trộn)",
+      "raw_name": "Đường vang",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": "nước trộn",
+      "display_order": 14
+    },
+    {
+      "raw_text": "Nước mắm chay 3 muỗng canh (nước trộn)",
+      "raw_name": "Nước mắm chay",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": "nước trộn",
+      "display_order": 15
+    },
+    {
+      "raw_text": "Dầu hành Poaro 3 muỗng canh",
+      "raw_name": "Dầu hành Poaro",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T18:00:12Z",
+  "page_title": "2 cách làm gỏi khổ qua chay giòn, hấp dẫn cho bữa ăn ngày hè",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2023/05/CookRecipe/Avatar/goi-kho-qua-chay-tron-voi-nam-dui-ga-thumbnail.jpg"
+}

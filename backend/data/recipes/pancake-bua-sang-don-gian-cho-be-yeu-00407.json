@@ -1,0 +1,55 @@
+{
+  "source_id": "00407",
+  "name": "Pancake - Bữa ăn sáng đơn giản",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/fa2fdf0a3d0b96bf.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/pancake-bua-sang-don-gian-cho-be-yeu-00407",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/pancake-bua-sang-don-gian-cho-be-yeu-00407",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì 120 gram",
+      "raw_name": "Bột mì 120 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa 220 ml",
+      "raw_name": "Sữa",
+      "quantity": 220,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng 2 quả",
+      "raw_name": "Trứng",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:31:39Z",
+  "page_title": "Pancake - bữa sáng đơn giản cho bé yêu",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2014/11/21/582692/pancake-10-760x367.jpg"
+}

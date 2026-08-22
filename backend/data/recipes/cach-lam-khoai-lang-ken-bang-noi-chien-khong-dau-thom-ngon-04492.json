@@ -1,0 +1,59 @@
+{
+  "source_id": "04492",
+  "name": "Khoai lang kén bằng nồi chiên không dầu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5fed0685b79bfd76.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-khoai-lang-ken-bang-noi-chien-khong-dau-thom-ngon-04492",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-khoai-lang-ken-bang-noi-chien-khong-dau-thom-ngon-04492",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai lang 800 gr",
+      "raw_name": "Khoai lang",
+      "quantity": 800,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột chiên giòn 100 gr",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột năng 150 gr",
+      "raw_name": "Bột năng",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mè đen 15 gr",
+      "raw_name": "Mè đen",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 15 gr",
+      "raw_name": "Đường",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:24:30Z",
+  "page_title": "Cách làm khoai lang kén bằng nồi chiên không dầu thơm ngon giòn khó cưỡng",
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookProduct/cach-lam-khoai-lang-ken-bang-noi-chien-khong-dau-thom-ngon-CN-1200x676.jpg"
+}

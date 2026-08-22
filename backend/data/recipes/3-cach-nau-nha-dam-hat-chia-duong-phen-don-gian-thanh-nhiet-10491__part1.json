@@ -1,0 +1,69 @@
+{
+  "source_id": "10491",
+  "name": "Nha đam hạt chia đường phèn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7a2e41db72eadec0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-nau-nha-dam-hat-chia-duong-phen-don-gian-thanh-nhiet-10491",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-nau-nha-dam-hat-chia-duong-phen-don-gian-thanh-nhiet-10491",
+  "servings_text": "Cho 7 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nha đam 2 kg (6 nhánh)",
+      "raw_name": "Nha đam",
+      "quantity": 2,
+      "unit": "kg",
+      "note": "6 nhánh",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lá dứa 6 nhánh",
+      "raw_name": "Lá dứa",
+      "quantity": 6,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hạt chia 1 muỗng canh",
+      "raw_name": "Hạt chia",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường phèn 180 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 180,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước 2 lít",
+      "raw_name": "Nước 2 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:02:38Z",
+  "page_title": "3 cách nấu nha đam hạt chia đường phèn đơn giản, thanh nhiệt cơ thể",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/nha-dam-hat-chia-duong-phen-thumbnail.jpg"
+}

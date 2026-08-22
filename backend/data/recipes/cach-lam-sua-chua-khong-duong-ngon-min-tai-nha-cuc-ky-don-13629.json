@@ -1,0 +1,35 @@
+{
+  "source_id": "13629",
+  "name": "Sữa chua không đường",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7a224ceec592610a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-chua-khong-duong-ngon-min-tai-nha-cuc-ky-don-13629",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-chua-khong-duong-ngon-min-tai-nha-cuc-ky-don-13629",
+  "servings_text": "Cho 12 hũ 100ml",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sữa tươi không đường 1 lít",
+      "raw_name": "Sữa tươi không đường 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa chua không đường 100 gr (1 hộp)",
+      "raw_name": "Sữa chua không đường",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "1 hộp",
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T20:15:33Z",
+  "page_title": "Cách làm sữa chua không đường ngon mịn tại nhà cực kỳ đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookDish/cach-lam-sua-chua-com-xanh-deo-ngon-don-gian-ngon-khong-kem-avt-1200x676.jpg"
+}

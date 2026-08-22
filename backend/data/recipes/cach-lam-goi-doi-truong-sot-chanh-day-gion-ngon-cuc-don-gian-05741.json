@@ -1,0 +1,99 @@
+{
+  "source_id": "05741",
+  "name": "Gỏi dồi trường sốt chanh dây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7126246298265883.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-doi-truong-sot-chanh-day-gion-ngon-cuc-don-gian-05741",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-doi-truong-sot-chanh-day-gion-ngon-cuc-don-gian-05741",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dồi trường 400 gr",
+      "raw_name": "Dồi trường",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chanh dây 100 gr (3 - 4 quả)",
+      "raw_name": "Chanh dây",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "3 - 4 quả",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Giấm 3 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sả 4 nhánh",
+      "raw_name": "Sả",
+      "quantity": 4,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 2 tép",
+      "raw_name": "Tỏi 2 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt 2 quả",
+      "raw_name": "Ớt",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Rau răm 1 ít",
+      "raw_name": "Rau răm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước mắm 4 muỗng cà phê",
+      "raw_name": "Nước mắm",
+      "quantity": 4,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ đường/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ đường/ hạt nêm",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:02:44Z",
+  "page_title": "Cách làm gỏi dồi trường sốt chanh dây giòn ngon, cực đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookProduct/CachlamDoiTruongLonSotChanhDaychuangotKHONGTANHTrangGionlMuusinhmienque4220-42screenshot1200-1200x676-1.jpg"
+}

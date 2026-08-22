@@ -1,0 +1,38 @@
+{
+  "source_id": "03178",
+  "name": "Mứt mít dẻo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ea948960eb08a107.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-mit-deo-ngot-thom-ngon-cho-dip-tet-trung-thu-03178",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-mit-deo-ngot-thom-ngon-cho-dip-tet-trung-thu-03178",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt mít 500 gr",
+      "raw_name": "Thịt mít",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường cát 200 gr",
+      "raw_name": "Đường cát",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:05:43Z",
+  "page_title": "2 Cách làm mứt mít dẻo tại nhà, ngon ngọt thơm lừng, nhâm nhi cực đã",
+  "variant_index": 1,
+  "variant_count": 2,
+  "note": "công thức được chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/mut-mit-deo-cong-thuc-duoc-chia-se-tu-nguoi-dung-thumbnail.jpg"
+}

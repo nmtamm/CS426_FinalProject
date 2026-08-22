@@ -1,0 +1,81 @@
+{
+  "source_id": "04095",
+  "name": "Cua đồng chiên giòn bọc đậu hũ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f4d567bd961af799.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-cua-dong-chien-gion-tan-thom-lung-cuc-ngon-mieng-04095",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-cua-dong-chien-gion-tan-thom-lung-cuc-ngon-mieng-04095",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cua đồng 400 gr",
+      "raw_name": "Cua đồng",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành tím băm 1 muỗng canh",
+      "raw_name": "Hành tím băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá băm 1/2 muỗng canh",
+      "raw_name": "Hành lá băm",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đậu hũ 2 miếng",
+      "raw_name": "Đậu hũ 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tiêu 1/2 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột chiên giòn 500 gr",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:25:18Z",
+  "page_title": "3 cách làm cua đồng chiên giòn tan, thơm lừng, cực ngon miệng",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/cua-dong-chien-gion-boc-dau-hu-thumbnail-1.jpg"
+}

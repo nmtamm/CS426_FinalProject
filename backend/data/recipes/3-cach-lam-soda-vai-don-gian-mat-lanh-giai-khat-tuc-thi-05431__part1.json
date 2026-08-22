@@ -1,0 +1,61 @@
+{
+  "source_id": "05431",
+  "name": "Soda vải hoa hồng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/58d7602fa1bf9701.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-soda-vai-don-gian-mat-lanh-giai-khat-tuc-thi-05431",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-soda-vai-don-gian-mat-lanh-giai-khat-tuc-thi-05431",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Vải 100 gr (để lấy 120ml nước vải)",
+      "raw_name": "Vải",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "để lấy 120ml nước vải",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước soda 100 ml",
+      "raw_name": "Nước soda",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Siro hoa hồng 5 ml",
+      "raw_name": "Siro hoa hồng",
+      "quantity": 5,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước cốt chanh 15 ml",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 15,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đá 1 ít",
+      "raw_name": "Đá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:56:44Z",
+  "page_title": "3 cách làm soda vải đơn giản, mát lạnh giải khát tức thì",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookRecipe/Avatar/soda-vải-hoa-hòng-thumbnail.jpg"
+}

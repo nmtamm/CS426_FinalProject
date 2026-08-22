@@ -1,0 +1,137 @@
+{
+  "source_id": "09281",
+  "name": "Lẩu bò viên chua cay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6eeacee7360479ef.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-lau-bo-vien-sa-te-va-chua-cay-thom-ngon-dam-da-de-09281",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-lau-bo-vien-sa-te-va-chua-cay-thom-ngon-dam-da-de-09281",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-lau",
+      "name": "Món lẩu"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Xương ống 500 gr",
+      "raw_name": "Xương ống",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt bò 300 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nạm bò 300 gr",
+      "raw_name": "Nạm bò",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bò viên 300 gr",
+      "raw_name": "Bò viên",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rau mồng tơi 300 gr",
+      "raw_name": "Rau mồng tơi",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Thơm 1/2 trái (dứa)",
+      "raw_name": "Thơm",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": "dứa",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Củ cải trắng 100 gr",
+      "raw_name": "Củ cải trắng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Sả 2 cây",
+      "raw_name": "Sả",
+      "quantity": 2,
+      "unit": "cây",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Ớt hiểm 2 trái",
+      "raw_name": "Ớt hiểm",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Quế 3 gr (1 thanh)",
+      "raw_name": "Quế",
+      "quantity": 3,
+      "unit": "gr",
+      "note": "1 thanh",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Hồi 5 gr (2 bông)",
+      "raw_name": "Hồi",
+      "quantity": 5,
+      "unit": "gr",
+      "note": "2 bông",
+      "display_order": 12
+    },
+    {
+      "raw_text": "Đường phèn 1/2 muỗng canh",
+      "raw_name": "Đường phèn",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Hạt nêm/ Muối/ Bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Hạt nêm/ Muối/ Bột ngọt",
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T18:26:40Z",
+  "page_title": "2 cách nấu lẩu bò viên sa tế và chua cay thơm ngon dễ làm cho bữa tiệc",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookRecipe/Avatar/lau-bo-vien-chua-cay-thumbnail-1.jpg"
+}

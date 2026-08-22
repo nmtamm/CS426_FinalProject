@@ -1,0 +1,61 @@
+{
+  "source_id": "13321",
+  "name": "Trà hoa cúc mật ong long nhãn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f566c3348363c2c3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-pha-tra-hoa-cuc-don-gian-nhanh-chong-giup-cai-thien-13321",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-pha-tra-hoa-cuc-don-gian-nhanh-chong-giup-cai-thien-13321",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hoa cúc sấy khô 12 cái",
+      "raw_name": "Hoa cúc sấy khô",
+      "quantity": 12,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Long nhãn 12 cái",
+      "raw_name": "Long nhãn",
+      "quantity": 12,
+      "unit": "cái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mứt hoa cúc 2 muỗng canh",
+      "raw_name": "Mứt hoa cúc",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mật ong hoa hồng 30 ml (hoặc mật ong thường)",
+      "raw_name": "Mật ong hoa hồng",
+      "quantity": 30,
+      "unit": "ml",
+      "note": "hoặc mật ong thường",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước sôi 120 ml",
+      "raw_name": "Nước sôi",
+      "quantity": 120,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:00:02Z",
+  "page_title": "3 cách pha trà hoa cúc đơn giản nhanh chóng giúp cải thiện giấc ngủ",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/tra-hoa-cuc-mat-ong-long-nhan-thumbnail.jpg"
+}

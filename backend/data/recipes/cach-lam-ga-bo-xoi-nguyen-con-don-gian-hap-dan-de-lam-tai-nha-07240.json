@@ -1,0 +1,99 @@
+{
+  "source_id": "07240",
+  "name": "Gà bó xôi nguyên con",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/508666da330776af.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-bo-xoi-nguyen-con-don-gian-hap-dan-de-lam-tai-nha-07240",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-bo-xoi-nguyen-con-don-gian-hap-dan-de-lam-tai-nha-07240",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà nguyên con 1.2 kg",
+      "raw_name": "Gà nguyên con",
+      "quantity": 1.2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm hương 20 gr",
+      "raw_name": "Nấm hương",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gạo nếp 800 gr",
+      "raw_name": "Gạo nếp",
+      "quantity": 800,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột hành 1 muỗng cà phê",
+      "raw_name": "Bột hành",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột nghệ 1/3 muỗng cà phê",
+      "raw_name": "Bột nghệ",
+      "quantity": 0.333,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng cà phê",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gừng 10 gr (cắt lát mỏng)",
+      "raw_name": "Gừng",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "cắt lát mỏng",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành lá 2 nhánh (cắt nhỏ)",
+      "raw_name": "Hành lá",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": "cắt nhỏ",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (hạt nêm/ tiêu/ muối)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hạt nêm/ tiêu/ muối",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 250 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 250,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:17:20Z",
+  "page_title": "Cách làm gà bó xôi nguyên con đơn giản, hấp dẫn, dễ làm tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookProduct/1200-1200x676-20.jpg"
+}

@@ -1,0 +1,118 @@
+{
+  "source_id": "00946",
+  "name": "Gà rán",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/71de410188d2a2ed.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-ran-vi-nhu-ga-kfc-sieu-ngon-cuc-de-lam-tai-nha-00946",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-ran-vi-nhu-ga-kfc-sieu-ngon-cuc-de-lam-tai-nha-00946",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt đùi gà lọc xương 400 gr (hoặc bất kỳ bộ phận nào của gà mà bạn thích)",
+      "raw_name": "Thịt đùi gà lọc xương",
+      "quantity": 400,
+      "unit": "gr",
+      "note": "hoặc bất kỳ bộ phận nào của gà mà bạn thích",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột mì đa dụng 150 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tinh bột bắp 75 gr",
+      "raw_name": "Tinh bột bắp",
+      "quantity": 75,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước tương 1/2 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột mù tạt 1 muỗng canh",
+      "raw_name": "Bột mù tạt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột tỏi 1/2 muỗng canh",
+      "raw_name": "Bột tỏi",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột hành 1/2 muỗng canh",
+      "raw_name": "Bột hành",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột nở 1 muỗng canh (baking powder)",
+      "raw_name": "Bột nở",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "baking powder",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Giấm trắng 1 muỗng canh (hoặc 1 muỗng canh rượu trắng)",
+      "raw_name": "Giấm trắng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "hoặc 1 muỗng canh rượu trắng",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu ăn 300 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Tiêu/ bột ngọt/ hạt nêm/ muối)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Tiêu/ bột ngọt/ hạt nêm/ muối",
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:15:11Z",
+  "page_title": "2 cách làm gà rán vị như gà KFC giòn tan cực dễ ngay tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "công thức được chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/ga-ran-cong-thuc-duoc-chia-se-tu-nguoi-dung-thumbnail-1.jpg"
+}

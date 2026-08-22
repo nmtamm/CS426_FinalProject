@@ -1,0 +1,89 @@
+{
+  "source_id": "14362",
+  "name": "Canh dưa chua thịt bò rau tần",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/fbe864462ed16c37.jpeg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-canh-dua-chua-thit-bo-kich-thich-vi-giac-sieu-hao-14362",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-canh-dua-chua-thit-bo-kich-thich-vi-giac-sieu-hao-14362",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-canh",
+      "name": "Món canh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bắp bò 300 gr (có thể sử dụng các phần thịt bò khác)",
+      "raw_name": "Bắp bò",
+      "quantity": 300,
+      "unit": "gr",
+      "note": "có thể sử dụng các phần thịt bò khác",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dưa cải chua 100 gr",
+      "raw_name": "Dưa cải chua",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rau tần 1 ít",
+      "raw_name": "Rau tần",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà chua 3 quả",
+      "raw_name": "Cà chua",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 3 tép",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 150 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ bột ngọt/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ bột ngọt/ hạt nêm",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:32:41Z",
+  "page_title": "2 Cách nấu canh dưa chua thịt bò thanh mát thơm ngon cực hấp dẫn",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/canh-dua-chua-thit-bo-thumbnail.jpeg"
+}

@@ -1,0 +1,51 @@
+{
+  "source_id": "12612",
+  "name": "Trân châu hoàng kim",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/aed65c3eebd3907f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tran-chau-hoang-kim-dai-ngon-hap-dan-ai-cung-me-12612",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tran-chau-hoang-kim-dai-ngon-hap-dan-ai-cung-me-12612",
+  "servings_text": "Cho 200gr trân châu",
+  "topics": [
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột năng 100 gr",
+      "raw_name": "Bột năng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường nâu 160 gr",
+      "raw_name": "Đường nâu",
+      "quantity": 160,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mật ong 2 muỗng cà phê",
+      "raw_name": "Mật ong",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước lọc 400 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:11:39Z",
+  "page_title": "Cách làm trân châu hoàng kim cho món trà sữa dai ngon hấp dẫn ai cũng mê",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/b2eea954dc5adf4c3ba7ff069000b4bb31(1)-1200x676.jpg"
+}

@@ -1,0 +1,103 @@
+{
+  "source_id": "04320",
+  "name": "Gỏi cuốn thập cẩm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a91028531f827f4b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-cuon-thap-cam-cuc-ngon-don-gian-hap-dan-04320",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-cuon-thap-cam-cuc-ngon-don-gian-hap-dan-04320",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt nạc heo 500 gr",
+      "raw_name": "Thịt nạc heo",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chả lụa 100 gr",
+      "raw_name": "Chả lụa",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trứng gà 3 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bánh tráng 100 gr",
+      "raw_name": "Bánh tráng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dưa leo 2 trái",
+      "raw_name": "Dưa leo",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tím 2 củ",
+      "raw_name": "Hành tím",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tỏi 3 tép",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ớt 2 trái",
+      "raw_name": "Ớt",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Rau sống 400 gr (xà lách/diếp cá/rau thơm/húng nhủi...)",
+      "raw_name": "Rau sống",
+      "quantity": 400,
+      "unit": "gr",
+      "note": "xà lách/diếp cá/rau thơm/húng nhủi...",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T19:10:13Z",
+  "page_title": "Cách làm gỏi cuốn thập cẩm cực ngon đơn giản hấp dẫn",
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookProduct/Screenshotter--YouTube-GICUNTHPCMthmngonhpdnnlghinBpCaV-7’54”-1200x676.jpg"
+}

@@ -1,0 +1,67 @@
+{
+  "source_id": "22964",
+  "name": "Nhút Thanh Chương (nhút mít non)",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/702853ac260f6c75.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nhut-thanh-chuong-dac-san-xu-nghe-chi-voi-1-chiec-22964",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nhut-thanh-chuong-dac-san-xu-nghe-chi-voi-1-chiec-22964",
+  "servings_text": "Cho 6 - 8 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mít non 1 quả",
+      "raw_name": "Mít non",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối hạt 200 gr",
+      "raw_name": "Muối hạt",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sả cây 6 nhánh",
+      "raw_name": "Sả cây",
+      "quantity": 6,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt cay 6 quả",
+      "raw_name": "Ớt cay",
+      "quantity": 6,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 1 ít (hoặc thay bằng riềng/ hành tăm)",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hoặc thay bằng riềng/ hành tăm",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Chanh tươi 1 quả (có thể bỏ qua)",
+      "raw_name": "Chanh tươi",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "có thể bỏ qua",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:27:11Z",
+  "page_title": "Cách làm nhút Thanh Chương - đặc sản xứ Nghệ chỉ với 1 chiếc nồi và hũ đựng",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20thumb%20t6%20%2832%29.jpg"
+}

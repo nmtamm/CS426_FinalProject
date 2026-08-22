@@ -1,0 +1,71 @@
+{
+  "source_id": "14425",
+  "name": "Mắm ruốc chấm bánh tráng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d29c3adadcebfb13.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mam-ruoc-cham-banh-trang-thom-ngon-mam-ma-cuc-de-lam-14425",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mam-ruoc-cham-banh-trang-thom-ngon-mam-ma-cuc-de-lam-14425",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mắm ruốc 100 gr",
+      "raw_name": "Mắm ruốc",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Me vắt 50 gr (1 hộp)",
+      "raw_name": "Me vắt",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "1 hộp",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt hiểm 100 gr",
+      "raw_name": "Ớt hiểm",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 1.5 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 130 gr",
+      "raw_name": "Đường",
+      "quantity": 130,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:03:57Z",
+  "page_title": "Cách làm mắm ruốc chấm bánh tráng thơm ngon, mặm mà cực dễ làm tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-mam-ruoc-cham-banh-trang-thom-ngon-mam-ma-cuc-de-lam-avt-1200x676.jpg"
+}

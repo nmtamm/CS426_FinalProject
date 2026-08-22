@@ -1,0 +1,65 @@
+{
+  "source_id": "14443",
+  "name": "Nước ép cam dưa hấu chanh gừng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a3bbdcc1c63aac87.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-cam-dua-hau-chua-ngot-mat-lanh-giai-nhiet-14443",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-cam-dua-hau-chua-ngot-mat-lanh-giai-nhiet-14443",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa hấu 300 gr (khoảng 1/3 trái)",
+      "raw_name": "Dưa hấu",
+      "quantity": 300,
+      "unit": "gr",
+      "note": "khoảng 1/3 trái",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cam 1 trái",
+      "raw_name": "Cam",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gừng 1/3 củ",
+      "raw_name": "Gừng",
+      "quantity": 0.333,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chanh 1/2 trái",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đá viên 1 ít (nếu muốn dùng lạnh)",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "nếu muốn dùng lạnh",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:48:47Z",
+  "page_title": "2 cách làm nước ép cam dưa hấu chua ngọt mát lạnh giải nhiệt ngày nóng bức",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/nuoc-ep-cam-dua-hau-chanh-gung-thumbnail.jpg"
+}

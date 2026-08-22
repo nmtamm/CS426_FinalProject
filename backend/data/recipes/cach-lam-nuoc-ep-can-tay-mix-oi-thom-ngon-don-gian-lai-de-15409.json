@@ -1,0 +1,47 @@
+{
+  "source_id": "15409",
+  "name": "Nước ép cần tây mix ổi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bae7a3bf95278330.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-can-tay-mix-oi-thom-ngon-don-gian-lai-de-15409",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-can-tay-mix-oi-thom-ngon-don-gian-lai-de-15409",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cần tây 4 nhánh",
+      "raw_name": "Cần tây",
+      "quantity": 4,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ổi 3 quả",
+      "raw_name": "Ổi",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối/ Đường 1 ít",
+      "raw_name": "Muối/ Đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:53:46Z",
+  "page_title": "Cách làm nước ép cần tây mix ổi thơm ngon đơn giản lại dễ uống",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookDish/cach-lam-nuoc-ep-can-tay-cu-den-giam-can-giup-da-xinh-dang-avt-1200x676-1.jpg"
+}

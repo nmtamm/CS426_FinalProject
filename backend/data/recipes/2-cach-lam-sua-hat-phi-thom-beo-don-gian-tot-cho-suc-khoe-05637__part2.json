@@ -1,0 +1,45 @@
+{
+  "source_id": "05637",
+  "name": "Sữa hạt phỉ hương socola",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1cbbfb5b78b08d9c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sua-hat-phi-thom-beo-don-gian-tot-cho-suc-khoe-05637",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sua-hat-phi-thom-beo-don-gian-tot-cho-suc-khoe-05637",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hạt phỉ 260 gr",
+      "raw_name": "Hạt phỉ",
+      "quantity": 260,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Socola đen 160 gr",
+      "raw_name": "Socola đen",
+      "quantity": 160,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước 1.2 lít",
+      "raw_name": "Nước 1.2 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:55:08Z",
+  "page_title": "2 cách làm sữa hạt phỉ thơm béo, đơn giản tốt cho sức khỏe",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookRecipe/Avatar/sua-hat-phi-huong-socola-thumbnail.jpg"
+}

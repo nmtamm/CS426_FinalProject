@@ -1,0 +1,35 @@
+{
+  "source_id": "24143",
+  "name": "Cơm mẻ bằng cơm nguội",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3b0ae12f4d2b629a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nuoi-com-me-tu-com-nguoi-cuc-de-trang-min-khong-moc-don-24143",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nuoi-com-me-tu-com-nguoi-cuc-de-trang-min-khong-moc-don-24143",
+  "servings_text": "Cho 1 hũ cơm mẻ dùng cho nhiều lần nấu",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cơm nguội 500 gr",
+      "raw_name": "Cơm nguội",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước cơm 300 ml (đã đun sôi)",
+      "raw_name": "Nước cơm",
+      "quantity": 300,
+      "unit": "ml",
+      "note": "đã đun sôi",
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T20:25:00Z",
+  "page_title": "Cách nuôi cơm mẻ từ cơm nguội cực dễ, trắng mịn không mốc đơn giản tại nhà",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t02%201200676%20%2869%29%20-%20Sao%20ch%C3%A9p.jpg"
+}

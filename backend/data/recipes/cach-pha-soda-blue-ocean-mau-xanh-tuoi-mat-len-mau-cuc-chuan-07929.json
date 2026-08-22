@@ -1,0 +1,91 @@
+{
+  "source_id": "07929",
+  "name": "Soda Blue Ocean",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ac9cbe696bd822dd.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-soda-blue-ocean-mau-xanh-tuoi-mat-len-mau-cuc-chuan-07929",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-soda-blue-ocean-mau-xanh-tuoi-mat-len-mau-cuc-chuan-07929",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Soda 200 ml (hoặc 7UP)",
+      "raw_name": "Soda",
+      "quantity": 200,
+      "unit": "ml",
+      "note": "hoặc 7UP",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước cốt chanh 10 ml",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chanh 1 lát",
+      "raw_name": "Chanh 1 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Húng lủi 1 nhánh",
+      "raw_name": "Húng lủi",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Siro chanh 5 ml (lemon syrup)",
+      "raw_name": "Siro chanh",
+      "quantity": 5,
+      "unit": "ml",
+      "note": "lemon syrup",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Siro mơ 15 ml (apricot syrup)",
+      "raw_name": "Siro mơ",
+      "quantity": 15,
+      "unit": "ml",
+      "note": "apricot syrup",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Siro curacao 10 ml (curacao syrup)",
+      "raw_name": "Siro curacao",
+      "quantity": 10,
+      "unit": "ml",
+      "note": "curacao syrup",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước đường 10 ml",
+      "raw_name": "Nước đường",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:57:50Z",
+  "page_title": "Cách pha soda Blue Ocean màu xanh tươi mát lên màu cực chuẩn",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/Untitled-1-1200x676.jpg"
+}

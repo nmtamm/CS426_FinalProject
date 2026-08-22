@@ -1,0 +1,75 @@
+{
+  "source_id": "04634",
+  "name": "Sốt Velouté",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9cfa7b823bfad658.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sot-veloute-thom-ngon-don-gian-chuan-vi-au-04634",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sot-veloute-thom-ngon-don-gian-chuan-vi-au-04634",
+  "servings_text": "Cho 400ml nước sốt Velouté",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bơ động vật 50 gr",
+      "raw_name": "Bơ động vật",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành tây 25 gr (cắt hạt lựu)",
+      "raw_name": "Hành tây",
+      "quantity": 25,
+      "unit": "gr",
+      "note": "cắt hạt lựu",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rượu vang trắng 100 ml",
+      "raw_name": "Rượu vang trắng",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột mì đa dụng 25 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 25,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước dùng 400 ml (nước hầm từ gà/bò/rau củ)",
+      "raw_name": "Nước dùng",
+      "quantity": 400,
+      "unit": "ml",
+      "note": "nước hầm từ gà/bò/rau củ",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tiêu 1 ít",
+      "raw_name": "Tiêu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:19:32Z",
+  "page_title": "Cách làm sốt Velouté thơm ngon, đơn giản chuẩn vị Âu",
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookProduct/1-1200x676-3.jpg"
+}

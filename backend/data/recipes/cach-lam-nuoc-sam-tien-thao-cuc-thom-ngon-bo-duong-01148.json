@@ -1,0 +1,67 @@
+{
+  "source_id": "01148",
+  "name": "Nước sâm tiên thảo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ef07b1f9067ca0e2.png",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-sam-tien-thao-cuc-thom-ngon-bo-duong-01148",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-sam-tien-thao-cuc-thom-ngon-bo-duong-01148",
+  "servings_text": "Cho 3 lít",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lá tiên thảo phơi khô 50 gr",
+      "raw_name": "Lá tiên thảo phơi khô",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thục địa 3 lát",
+      "raw_name": "Thục địa 3 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Táo tàu 5 quả",
+      "raw_name": "Táo tàu",
+      "quantity": 5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "La hán 1 quả (lấy ruột)",
+      "raw_name": "La hán",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "lấy ruột",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bí đao nhỏ 1 quả (cắt khoanh)",
+      "raw_name": "Bí đao nhỏ",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "cắt khoanh",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lá nước mát 1 bó",
+      "raw_name": "Lá nước mát 1 bó",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:08:07Z",
+  "page_title": "Chi tiết công thức cách làm nước sâm tiên thảo cực thơm ngon bổ dưỡng",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2018/11/18/1132240/chi-tiet-cong-thuc-cach-lam-nuoc-sam-tien-thao-cuc-thom-ngon-bo-duong-760x367.png"
+}

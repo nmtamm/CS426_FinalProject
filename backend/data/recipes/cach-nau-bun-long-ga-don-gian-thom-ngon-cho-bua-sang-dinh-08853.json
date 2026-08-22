@@ -1,0 +1,95 @@
+{
+  "source_id": "08853",
+  "name": "Bún lòng gà",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7a3992cc95ef6e08.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-bun-long-ga-don-gian-thom-ngon-cho-bua-sang-dinh-08853",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-bun-long-ga-don-gian-thom-ngon-cho-bua-sang-dinh-08853",
+  "servings_text": "Cho 1 - 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-nuoc",
+      "name": "Món nước"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cà chua 1 trái",
+      "raw_name": "Cà chua",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành lá 1 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lòng gà 250 gr",
+      "raw_name": "Lòng gà",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tím 1 củ (to)",
+      "raw_name": "Hành tím",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "to",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bún gạo khô 100 gr",
+      "raw_name": "Bún gạo khô",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nấm hương khô 30 gr (nấm đông cô)",
+      "raw_name": "Nấm hương khô",
+      "quantity": 30,
+      "unit": "gr",
+      "note": "nấm đông cô",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nấm mèo khô 20 gr (mộc nhĩ khô)",
+      "raw_name": "Nấm mèo khô",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "mộc nhĩ khô",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối/ tiêu 1 ít",
+      "raw_name": "Muối/ tiêu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:18:47Z",
+  "page_title": "Cách nấu bún lòng gà đơn giản thơm ngon cho bữa sáng dinh dưỡng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookProduct/12006786766-1200x675.jpg"
+}

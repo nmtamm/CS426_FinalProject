@@ -1,0 +1,61 @@
+{
+  "source_id": "12310",
+  "name": "Panna cotta dừa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/60cfde26f5394f81.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cac-cach-lam-panna-cotta-dua-ngot-beo-muot-mem-cuc-don-gian-12310",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cac-cach-lam-panna-cotta-dua-ngot-beo-muot-mem-cuc-don-gian-12310",
+  "servings_text": "Cho 4 cái bánh",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nước cốt dừa 400 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Kem sữa tươi 400 ml (whipping cream hoặc heavy cream)",
+      "raw_name": "Kem sữa tươi",
+      "quantity": 400,
+      "unit": "ml",
+      "note": "whipping cream hoặc heavy cream",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gelatin 4 lá",
+      "raw_name": "Gelatin",
+      "quantity": 4,
+      "unit": "lá",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 80 gr",
+      "raw_name": "Đường",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tinh chất vani 1/2 muỗng cà phê",
+      "raw_name": "Tinh chất vani",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:18:36Z",
+  "page_title": "2 cách làm panna cotta dừa ngọt béo mướt mềm cực đơn giản",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/panna-cotta-dua-thumbnail-1.jpg"
+}

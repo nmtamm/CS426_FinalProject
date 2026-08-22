@@ -1,0 +1,55 @@
+{
+  "source_id": "02228",
+  "name": "Bánh mì bơ tỏi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/fd6f200b9d93635b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-mi-bo-toi-garlic-bread-thom-ngon-g-02228",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-mi-bo-toi-garlic-bread-thom-ngon-g-02228",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh mì baguette 2 cái",
+      "raw_name": "Bánh mì baguette",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bơ lạt 100 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi xay 100 gr",
+      "raw_name": "Tỏi xay",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lá oregano khô 5 gr",
+      "raw_name": "Lá oregano khô",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:11:43Z",
+  "page_title": "Cách làm bánh mì bơ tỏi - Garlic Bread thơm ngon giòn rụm cho bữa ăn sáng",
+  "original_image_url": "https://cdn.tgdd.vn/2022/07/CookRecipe/Avatar/banh-mi-bo-toi-thumbnail.jpg"
+}

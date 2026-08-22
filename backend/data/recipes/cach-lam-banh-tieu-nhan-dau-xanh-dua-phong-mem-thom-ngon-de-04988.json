@@ -1,0 +1,87 @@
+{
+  "source_id": "04988",
+  "name": "Bánh tiêu nhân đậu xanh dừa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d539abd0aa7aa170.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-tieu-nhan-dau-xanh-dua-phong-mem-thom-ngon-de-04988",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-tieu-nhan-dau-xanh-dua-phong-mem-thom-ngon-de-04988",
+  "servings_text": "Cho 6 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì đa dụng 300 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu xanh 180 gr",
+      "raw_name": "Đậu xanh",
+      "quantity": 180,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột sữa 10 gr",
+      "raw_name": "Bột sữa",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Men nở 5 muỗng cà phê (loại instant dry yeast)",
+      "raw_name": "Men nở",
+      "quantity": 5,
+      "unit": "muỗng cà phê",
+      "note": "loại instant dry yeast",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 80 gr",
+      "raw_name": "Đường",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột dừa 20 gr",
+      "raw_name": "Bột dừa",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước cốt dừa 80 gr",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/dầu ăn)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/dầu ăn",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:23:26Z",
+  "page_title": "Cách làm bánh tiêu nhân đậu xanh dừa phồng mềm thơm ngon dễ làm",
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookProduct/1200-1200x676-9.jpg"
+}

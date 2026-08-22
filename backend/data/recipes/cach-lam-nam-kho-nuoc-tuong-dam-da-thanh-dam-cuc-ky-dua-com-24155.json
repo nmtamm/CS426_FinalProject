@@ -1,0 +1,79 @@
+{
+  "source_id": "24155",
+  "name": "Nấm kho nước tương",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/eb25cd2535413c7e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nam-kho-nuoc-tuong-dam-da-thanh-dam-cuc-ky-dua-com-24155",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nam-kho-nuoc-tuong-dam-da-thanh-dam-cuc-ky-dua-com-24155",
+  "servings_text": "Cho 2 - 3 người ăn",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-kho",
+      "name": "Món kho"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nấm 500 gr (nấm đùi gà/ nấm rơm/ nấm đông cô... tùy ý)",
+      "raw_name": "Nấm",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "nấm đùi gà/ nấm rơm/ nấm đông cô... tùy ý",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tỏi 2 tép",
+      "raw_name": "Tỏi 2 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tím 2 tép",
+      "raw_name": "Hành tím 2 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành lá 20 gr",
+      "raw_name": "Hành lá",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt sừng 2 quả (1 đỏ - 1 xanh)",
+      "raw_name": "Ớt sừng",
+      "quantity": 2,
+      "unit": "quả",
+      "note": "1 đỏ - 1 xanh",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (tiêu xay/ hạt nêm chay/ xì dầu/ bột ngọt/ đường nâu/ dầu hào chay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "tiêu xay/ hạt nêm chay/ xì dầu/ bột ngọt/ đường nâu/ dầu hào chay",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:34:32Z",
+  "page_title": "Cách làm nấm kho nước tương đậm đà, thanh đạm cực kỳ đưa cơm ngay tại nhà",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t02%201200676%20%2886%29.jpg"
+}

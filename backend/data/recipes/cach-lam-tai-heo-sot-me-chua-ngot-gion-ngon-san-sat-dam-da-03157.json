@@ -1,0 +1,79 @@
+{
+  "source_id": "03157",
+  "name": "Tai heo sốt me chua ngọt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e678fc4b62e94f49.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tai-heo-sot-me-chua-ngot-gion-ngon-san-sat-dam-da-03157",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tai-heo-sot-me-chua-ngot-gion-ngon-san-sat-dam-da-03157",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tai heo 300 gr (1 cái)",
+      "raw_name": "Tai heo",
+      "quantity": 300,
+      "unit": "gr",
+      "note": "1 cái",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột nghệ 1/2 muỗng cà phê",
+      "raw_name": "Bột nghệ",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng cà phê",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cốt me 100 ml",
+      "raw_name": "Nước cốt me",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 50 gr",
+      "raw_name": "Đường",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước mắm 30 ml",
+      "raw_name": "Nước mắm",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:11:11Z",
+  "page_title": "Cách làm tai heo sốt me chua ngọt giòn ngon sần sật, đậm đà đưa cơm",
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookProduct/Untitled-2-1200x676-14.jpg"
+}

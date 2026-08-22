@@ -1,0 +1,67 @@
+{
+  "source_id": "05585",
+  "name": "Bánh Yorshire pudding",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/61ee2b4f2a472884.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-yorshire-pudding-thom-beo-cho-buoi-toi-giang-sinh-05585",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-yorshire-pudding-thom-beo-cho-buoi-toi-giang-sinh-05585",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì đa dụng 140 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 140,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng gà 4 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 4,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa tách béo 200 ml (hoặc sữa tươi không đường)",
+      "raw_name": "Sữa tách béo",
+      "quantity": 200,
+      "unit": "ml",
+      "note": "hoặc sữa tươi không đường",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu hướng dương 6 muỗng cà phê (hoặc dầu thực vật khác)",
+      "raw_name": "Dầu hướng dương",
+      "quantity": 6,
+      "unit": "muỗng cà phê",
+      "note": "hoặc dầu thực vật khác",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 1/4 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tiêu 1/4 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:43:27Z",
+  "page_title": "Cách làm bánh Yorshire pudding thơm béo cho tiệc Giáng Sinh thêm hấp dẫn",
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookProduct/Yorshirepudding1200-1200x676.jpg"
+}

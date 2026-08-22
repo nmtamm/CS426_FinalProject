@@ -1,0 +1,59 @@
+{
+  "source_id": "17183",
+  "name": "Hồng trà chanh dưa hấu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/38256cdbc05ba1bd.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-hong-tra-chanh-dua-hau-thom-ngon-bo-duong-cho-ngay-17183",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-hong-tra-chanh-dua-hau-thom-ngon-bo-duong-cho-ngay-17183",
+  "servings_text": "Cho 6 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà đen túi lọc 5 gói",
+      "raw_name": "Trà đen túi lọc",
+      "quantity": 5,
+      "unit": "gói",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường ăn kiêng 6 gói (mỗi gói 1 gr)",
+      "raw_name": "Đường ăn kiêng",
+      "quantity": 6,
+      "unit": "gói",
+      "note": "mỗi gói 1 gr",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dưa hấu 300 gr",
+      "raw_name": "Dưa hấu",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chanh vàng 1 quả",
+      "raw_name": "Chanh vàng",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước nóng 1 lít (khoảng 90°C)",
+      "raw_name": "Nước nóng 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 90°C",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:03:52Z",
+  "page_title": "Cách pha hồng trà chanh dưa hấu thơm ngon, bổ dưỡng cho ngày hè",
+  "original_image_url": "https://cdn.tgdd.vn/2022/05/CookDish/cach-pha-hong-tra-chanh-dua-hau-thom-ngon-bo-duong-cho-ngay-avt-1200x676.jpg"
+}

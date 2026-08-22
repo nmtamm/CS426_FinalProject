@@ -1,0 +1,135 @@
+{
+  "source_id": "03086",
+  "name": "Cháo rau củ chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1f43aaf3bee13ca9.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-chao-rau-cu-chay-am-long-ngay-mua-lanh-03086",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-chao-rau-cu-chay-am-long-ngay-mua-lanh-03086",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-chao",
+      "name": "Món cháo"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gạo rang 0.5 chén",
+      "raw_name": "Gạo rang",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm đùi gà 100 gr",
+      "raw_name": "Nấm đùi gà",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu que 60 gr",
+      "raw_name": "Đậu que",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 60 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bắp ngọt 60 gr",
+      "raw_name": "Bắp ngọt",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bí đỏ 60 gr",
+      "raw_name": "Bí đỏ",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Khoai môn 60 gr",
+      "raw_name": "Khoai môn",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hạt nêm 1 muỗng cà phê",
+      "raw_name": "Hạt nêm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tiêu 0.5 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu ăn 30 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Hành 1 cây",
+      "raw_name": "Hành",
+      "quantity": 1,
+      "unit": "cây",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước mắm chay 3 muỗng cà phê",
+      "raw_name": "Nước mắm chay",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Giá sống 100 gr (ăn kèm)",
+      "raw_name": "Giá sống",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "ăn kèm",
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T18:42:30Z",
+  "page_title": "Cách nấu cháo rau củ chay ấm lòng ngày mưa lạnh",
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookProduct/Webp.net-resizeimage(7)-1200x676-1.jpg"
+}

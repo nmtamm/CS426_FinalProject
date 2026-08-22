@@ -1,0 +1,43 @@
+{
+  "source_id": "08566",
+  "name": "Nước lá tía tô",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9841c466d958b17d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-nuoc-la-tia-to-trang-da-dep-dang-tot-cho-suc-khoe-08566",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-nuoc-la-tia-to-trang-da-dep-dang-tot-cho-suc-khoe-08566",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lá tía tô 200 gr",
+      "raw_name": "Lá tía tô",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chanh 1 trái",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:20:27Z",
+  "page_title": "Cách nấu nước lá tía tô uống đẹp da, tốt cho sức khỏe đơn giản dễ làm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/thum1200-1200x676-6.jpg"
+}

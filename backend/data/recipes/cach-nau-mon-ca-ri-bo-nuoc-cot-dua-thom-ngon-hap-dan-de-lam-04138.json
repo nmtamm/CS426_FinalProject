@@ -1,0 +1,99 @@
+{
+  "source_id": "04138",
+  "name": "Cà ri bò nước cốt dừa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/38f470ad7d1bc595.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-mon-ca-ri-bo-nuoc-cot-dua-thom-ngon-hap-dan-de-lam-04138",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-mon-ca-ri-bo-nuoc-cot-dua-thom-ngon-hap-dan-de-lam-04138",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thăn bò 250 gram",
+      "raw_name": "Thăn bò 250 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Khoai tây 1 củ",
+      "raw_name": "Khoai tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 10 gram",
+      "raw_name": "Tỏi 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Gừng tươi 1/2 củ",
+      "raw_name": "Gừng tươi",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sả tươi 4 cây",
+      "raw_name": "Sả tươi",
+      "quantity": 4,
+      "unit": "cây",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước cốt dừa 400 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột cà ri 1 gói",
+      "raw_name": "Bột cà ri",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột màu điều 1 muỗng cà phê",
+      "raw_name": "Bột màu điều",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Lá cà ri 5 cái",
+      "raw_name": "Lá cà ri",
+      "quantity": 5,
+      "unit": "cái",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:31:11Z",
+  "page_title": "Cách nấu cà ri bò nước cốt dừa thơm ngon hấp dẫn, dễ làm",
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookProduct/thumbcn-1200x676-6.jpg"
+}

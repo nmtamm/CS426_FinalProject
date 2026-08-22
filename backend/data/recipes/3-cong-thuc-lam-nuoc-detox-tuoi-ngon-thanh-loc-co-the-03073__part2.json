@@ -1,0 +1,45 @@
+{
+  "source_id": "03073",
+  "name": "Detox táo quế",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7606fa03140d4c7a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cong-thuc-lam-nuoc-detox-tuoi-ngon-thanh-loc-co-the-03073",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cong-thuc-lam-nuoc-detox-tuoi-ngon-thanh-loc-co-the-03073",
+  "servings_text": "Cho cho 1 bình nước 500 ml",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Táo tây xanh hoặc đỏ 1 quả",
+      "raw_name": "Táo tây xanh hoặc đỏ",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước lọc 500 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Quế 10 gr",
+      "raw_name": "Quế",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T20:01:53Z",
+  "page_title": "3 Cách làm nước Detox chanh cam, táo quế và dâu tây thanh lọc cơ thể",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/detox-tao-que-thumbnail.jpg"
+}

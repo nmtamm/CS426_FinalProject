@@ -1,0 +1,97 @@
+{
+  "source_id": "03851",
+  "name": "Lạp xưởng tôm trứng muối",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d6e47674a93ce7e2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-lap-xuong-tom-do-au-dep-mat-don-gian-cuc-ngon-cho-03851",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-lap-xuong-tom-do-au-dep-mat-don-gian-cuc-ngon-cho-03851",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tôm thẻ 400 gr",
+      "raw_name": "Tôm thẻ",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng muối 8 quả",
+      "raw_name": "Trứng muối",
+      "quantity": 8,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Thịt nạc băm 600 gr",
+      "raw_name": "Thịt nạc băm",
+      "quantity": 600,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mỡ heo 200 gr",
+      "raw_name": "Mỡ heo",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rượu mai quế lộ 160 ml",
+      "raw_name": "Rượu mai quế lộ",
+      "quantity": 160,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột tỏi 2 muỗng canh",
+      "raw_name": "Bột tỏi",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 150 gr",
+      "raw_name": "Đường",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Rượu trắng 1 ít",
+      "raw_name": "Rượu trắng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ bột ngọt/ tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ bột ngọt/ tiêu",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:05:03Z",
+  "page_title": "2 cách làm lạp xưởng tôm đỏ au đẹp mắt cực ngon đơn giản dễ làm tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookRecipe/Avatar/lap-xuong-tom-trung-muoi-thumbnail-1.jpg"
+}

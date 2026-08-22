@@ -1,0 +1,69 @@
+{
+  "source_id": "01725",
+  "name": "Hotdog xúc xích Hàn Quốc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b597464b45790d74.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cong-thuc-lam-banh-hotdog-xuc-xich-hotdog-pho-mai-han-01725",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cong-thuc-lam-banh-hotdog-xuc-xich-hotdog-pho-mai-han-01725",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Xúc xích 400 g",
+      "raw_name": "Xúc xích",
+      "quantity": 400,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột mì 150 g",
+      "raw_name": "Bột mì",
+      "quantity": 150,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột nở 3 g",
+      "raw_name": "Bột nở",
+      "quantity": 3,
+      "unit": "g",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 2 g",
+      "raw_name": "Muối",
+      "quantity": 2,
+      "unit": "g",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 10 g",
+      "raw_name": "Đường",
+      "quantity": 10,
+      "unit": "g",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Khoai tây 100 g",
+      "raw_name": "Khoai tây",
+      "quantity": 100,
+      "unit": "g",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:29:08Z",
+  "page_title": "2 công thức làm bánh hotdog xúc xích, hotdog phô mai Hàn Quốc gây nghiện",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/hotdog-xúc-xích-hàn-quóc-thumbnail-1.jpg"
+}

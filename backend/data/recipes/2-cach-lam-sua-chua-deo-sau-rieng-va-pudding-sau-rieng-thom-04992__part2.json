@@ -1,0 +1,65 @@
+{
+  "source_id": "04992",
+  "name": "Pudding sầu riêng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d2c559b4f7727f0b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sua-chua-deo-sau-rieng-va-pudding-sau-rieng-thom-04992",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sua-chua-deo-sau-rieng-va-pudding-sau-rieng-thom-04992",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt sầu riêng 200 gr",
+      "raw_name": "Thịt sầu riêng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa tươi không đường 350 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 350,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gelatin 12 gr",
+      "raw_name": "Gelatin",
+      "quantity": 12,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột báng 20 gr",
+      "raw_name": "Bột báng",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 40 gr",
+      "raw_name": "Đường",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:09:15Z",
+  "page_title": "2 cách làm sữa chua dẻo sầu riêng và pudding sầu riêng ăn là nghiền",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookRecipe/Avatar/pudding-sau-rieng-thumbnail-1.jpg"
+}

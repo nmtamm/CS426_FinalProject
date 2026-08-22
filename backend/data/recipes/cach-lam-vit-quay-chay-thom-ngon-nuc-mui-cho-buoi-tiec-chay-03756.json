@@ -1,0 +1,139 @@
+{
+  "source_id": "03756",
+  "name": "Vịt quay chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3217d0fca53d7d76.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-vit-quay-chay-thom-ngon-nuc-mui-cho-buoi-tiec-chay-03756",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-vit-quay-chay-thom-ngon-nuc-mui-cho-buoi-tiec-chay-03756",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu hủ 150 gr",
+      "raw_name": "Đậu hủ",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm đùi gà 70 gr",
+      "raw_name": "Nấm đùi gà",
+      "quantity": 70,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Miếng đậu hủ ky khô 1 lá",
+      "raw_name": "Miếng đậu hủ ky khô",
+      "quantity": 1,
+      "unit": "lá",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ngò rí 20 gr",
+      "raw_name": "Ngò rí",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rượu mai quế lộ 1 muỗng canh",
+      "raw_name": "Rượu mai quế lộ",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Cà phê nêm chay 1.5 hạt",
+      "raw_name": "Cà phê nêm chay 1.5 hạt",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ngũ vị hương 1 muỗng cà phê",
+      "raw_name": "Ngũ vị hương",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hành 1 củ",
+      "raw_name": "Hành",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Mè rang 10 gr",
+      "raw_name": "Mè rang",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Mật ong 1 muỗng cà phê",
+      "raw_name": "Mật ong",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước ướp xá xíu 1 muỗng cà phê",
+      "raw_name": "Nước ướp xá xíu",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Dầu hào chay 1 muỗng canh",
+      "raw_name": "Dầu hào chay",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Bột năng 1 muỗng canh",
+      "raw_name": "Bột năng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T18:47:55Z",
+  "page_title": "Cách làm vịt quay chay thơm ngon nức mũi cho buổi tiệc chay đa dạng",
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookProduct/CachLamVITQUAYCHAYDagionThitDaiThomNgonNgatNgayMonChayNgonBaMeQue1-1screenshot-1200x675.jpg"
+}

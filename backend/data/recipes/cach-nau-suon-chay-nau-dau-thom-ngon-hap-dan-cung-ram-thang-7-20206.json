@@ -1,0 +1,107 @@
+{
+  "source_id": "20206",
+  "name": "Sườn chay nấu đậu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c250c6df9e4e7576.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-suon-chay-nau-dau-thom-ngon-hap-dan-cung-ram-thang-7-20206",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-suon-chay-nau-dau-thom-ngon-hap-dan-cung-ram-thang-7-20206",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sườn ống chay 500 gram",
+      "raw_name": "Sườn ống chay 500 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu 1 củ",
+      "raw_name": "Đậu",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Khoai tây 2 củ",
+      "raw_name": "Khoai tây",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đậu trắng 50 gram",
+      "raw_name": "Đậu trắng 50 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đậu Hà Lan 50 gram",
+      "raw_name": "Đậu Hà Lan 50 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu điều 1 muỗng canh",
+      "raw_name": "Dầu điều",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành Boaro 1/2 muỗng canh",
+      "raw_name": "Hành Boaro",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Xốt cà chua 2 muỗng canh",
+      "raw_name": "Xốt cà chua",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước dừa 500 ml",
+      "raw_name": "Nước dừa",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị 1 ít (muối hồng/ hạt nêm chay/ đường)",
+      "raw_name": "Gia vị",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối hồng/ hạt nêm chay/ đường",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:43:58Z",
+  "page_title": "Cách chế biến sườn chay nấu đậu thơm ngon, hấp dẫn cúng Rằm tháng 7",
+  "original_image_url": "https://cdn.tgdd.vn/2023/10/CookDish/cach-lam-nam-rom-rim-me-thom-ngon-dam-vi-cho-bua-chay-avt-1200x676-1.jpg"
+}

@@ -1,0 +1,49 @@
+{
+  "source_id": "02439",
+  "name": "Nước ép dưa lưới dưa hấu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f6acb73ee4705a1a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-dua-luoi-va-nuoc-ep-dua-luoi-sua-02439",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-dua-luoi-va-nuoc-ep-dua-luoi-sua-02439",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa lưới 1 quả (khoảng 1kg)",
+      "raw_name": "Dưa lưới",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "khoảng 1kg",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dưa hấu 1/2 quả (khoảng 800gr)",
+      "raw_name": "Dưa hấu",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": "khoảng 800gr",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:56:17Z",
+  "page_title": "7 cách làm nước ép dưa lưới mát lạnh thanh nhiệt cơ thể ngày nắng nóng",
+  "variant_index": 3,
+  "variant_count": 7,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/nuoc-ep-dua-luoi-dua-hau-thumbnail.jpg"
+}

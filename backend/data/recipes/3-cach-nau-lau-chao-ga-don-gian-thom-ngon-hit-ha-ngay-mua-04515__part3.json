@@ -1,0 +1,65 @@
+{
+  "source_id": "04515",
+  "name": "Lẩu cháo gà gạo rang",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/10bb517c321b52b0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-nau-lau-chao-ga-don-gian-thom-ngon-hit-ha-ngay-mua-04515",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-nau-lau-chao-ga-don-gian-thom-ngon-hit-ha-ngay-mua-04515",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-lau",
+      "name": "Món lẩu"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt gà 1 kg",
+      "raw_name": "Thịt gà",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gạo nếp + gạo tẻ 200 gr",
+      "raw_name": "Gạo nếp + gạo tẻ",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành ngò 50 gr",
+      "raw_name": "Hành ngò",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rau xà lách 1 ít",
+      "raw_name": "Rau xà lách",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rau húng quế 1 ít",
+      "raw_name": "Rau húng quế",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T18:10:27Z",
+  "page_title": "3 cách nấu lẩu cháo gà đơn giản, thơm ngon hít hà ngày mưa lạnh",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/lau-chao-ga-gao-rang-thumbnail.jpg"
+}

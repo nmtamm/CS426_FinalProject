@@ -1,0 +1,81 @@
+{
+  "source_id": "23620",
+  "name": "Muối tiêu chanh chấm gà",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/582c6a6979edda41.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-muoi-cham-ga-luoc-ngon-dam-da-don-gian-ma-hap-dan-23620",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-muoi-cham-ga-luoc-ngon-dam-da-don-gian-ma-hap-dan-23620",
+  "servings_text": "Cho 2 muỗng canh muối hột",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Muối hột 2 muỗng canh",
+      "raw_name": "Muối hột",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt bột 1 muỗng cà phê",
+      "raw_name": "Ớt bột",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tiêu xay 1/2 muỗng cà phê",
+      "raw_name": "Tiêu xay",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột ngọt 1 muỗng cà phê",
+      "raw_name": "Bột ngọt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chanh 1/2 quả",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lá chanh 5 lá",
+      "raw_name": "Lá chanh",
+      "quantity": 5,
+      "unit": "lá",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ngò rí 1 ít",
+      "raw_name": "Ngò rí",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:04:41Z",
+  "page_title": "3 cách làm muối chấm gà luộc ngon đậm đà đơn giản mà hấp dẫn",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2025/12/CookRecipe/Avatar/cach-lam-muoi-tieu-chanh-cham-ga-thumbnail.jpg"
+}

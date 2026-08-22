@@ -1,0 +1,91 @@
+{
+  "source_id": "11285",
+  "name": "Trà sữa thạch cam",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d774bfd69c4af045.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-sua-thach-cam-chua-diu-nhe-kich-thich-vi-giac-11285",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-sua-thach-cam-chua-diu-nhe-kich-thich-vi-giac-11285",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hồng trà 80 ml",
+      "raw_name": "Hồng trà",
+      "quantity": 80,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cam tươi 350 gr (có thể thay bằng 250gr cam đóng hộp)",
+      "raw_name": "Cam tươi",
+      "quantity": 350,
+      "unit": "gr",
+      "note": "có thể thay bằng 250gr cam đóng hộp",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Kem béo 30 ml",
+      "raw_name": "Kem béo",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lá bạc hà 20 gr (Rau húng quế)",
+      "raw_name": "Lá bạc hà",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "Rau húng quế",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chanh 1/2 trái",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột rau câu dẻo 10 gr (bột Jelly)",
+      "raw_name": "Bột rau câu dẻo",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "bột Jelly",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột rau câu giòn 2 gr (bột Agar)",
+      "raw_name": "Bột rau câu giòn",
+      "quantity": 2,
+      "unit": "gr",
+      "note": "bột Agar",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Siro đường 20 ml",
+      "raw_name": "Siro đường",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường trắng 130 gr",
+      "raw_name": "Đường trắng",
+      "quantity": 130,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T20:09:59Z",
+  "page_title": "Cách làm trà sữa thạch cam chua dịu nhẹ kích thích vị giác",
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookProduct/Cach-pha-Tra-sua-thach-cam-Mandarin-gay-nghien---Cooky-TV-0-1-screenshot-1200x676.jpg"
+}

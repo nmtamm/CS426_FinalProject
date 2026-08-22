@@ -1,0 +1,73 @@
+{
+  "source_id": "05055",
+  "name": "Bánh flan sữa đặc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/81f40749efd5e43d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-flan-bang-sua-dac-thom-ngon-mem-min-khong-bi-05055",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-flan-bang-sua-dac-thom-ngon-mem-min-khong-bi-05055",
+  "servings_text": "Cho 10 cái",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sữa đặc 380 gr",
+      "raw_name": "Sữa đặc",
+      "quantity": 380,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng gà 8 quả (quả lớn)",
+      "raw_name": "Trứng gà",
+      "quantity": 8,
+      "unit": "quả",
+      "note": "quả lớn",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 150 gr",
+      "raw_name": "Đường",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 muỗng cà phê",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Vani 1 ống",
+      "raw_name": "Vani 1 ống",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước nóng 700 ml",
+      "raw_name": "Nước nóng",
+      "quantity": 700,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:21:49Z",
+  "page_title": "2 cách làm bánh flan sữa đặc mềm mịn không bị tanh thơm ngon bất bại",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/banh-flan-sua-dac-thumbnail-1.jpg"
+}

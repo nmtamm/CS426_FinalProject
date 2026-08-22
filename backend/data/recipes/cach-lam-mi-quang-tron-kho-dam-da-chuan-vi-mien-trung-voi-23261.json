@@ -1,0 +1,99 @@
+{
+  "source_id": "23261",
+  "name": "Mì quảng trộn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6edb1e90f1ba3b98.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mi-quang-tron-kho-dam-da-chuan-vi-mien-trung-voi-23261",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mi-quang-tron-kho-dam-da-chuan-vi-mien-trung-voi-23261",
+  "servings_text": "Cho 6 - 8 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lòng gà 1 kg",
+      "raw_name": "Lòng gà",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ba chỉ 200 gr",
+      "raw_name": "Ba chỉ",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mì quảng 2 kg",
+      "raw_name": "Mì quảng",
+      "quantity": 2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chanh 1 quả",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt 1 ít",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tây 1 củ (hoặc hành tím)",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "hoặc hành tím",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hành ngò/ cải non/ xà lách/ rau thơm/ bắp chuối bào 1 ít",
+      "raw_name": "Hành ngò/ cải non/ xà lách/ rau thơm/ bắp chuối bào",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (hạt nêm/ bột ngọt/ tiêu/ rượu trắng/ đường/ nước mắm/ dầu hào/ tương ớt/ nước lọc)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hạt nêm/ bột ngọt/ tiêu/ rượu trắng/ đường/ nước mắm/ dầu hào/ tương ớt/ nước lọc",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T20:33:12Z",
+  "page_title": "Cách làm mì quảng trộn khô đậm đà chuẩn vị miền Trung với chảo sâu lòng",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20thumb%20to%20t9%20%2831%29.jpg"
+}

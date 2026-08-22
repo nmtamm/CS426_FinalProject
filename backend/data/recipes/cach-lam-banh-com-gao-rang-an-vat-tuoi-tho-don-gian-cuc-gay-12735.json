@@ -1,0 +1,71 @@
+{
+  "source_id": "12735",
+  "name": "Bánh cốm gạo rang",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/61ba046dd5f19632.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-com-gao-rang-an-vat-tuoi-tho-don-gian-cuc-gay-12735",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-com-gao-rang-an-vat-tuoi-tho-don-gian-cuc-gay-12735",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cốm gạo rang 100 gr",
+      "raw_name": "Cốm gạo rang",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gừng 1/2 củ (thái sợi)",
+      "raw_name": "Gừng",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": "thái sợi",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu phộng 30 gr",
+      "raw_name": "Đậu phộng",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mè rang 10 gr",
+      "raw_name": "Mè rang",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước lọc 150 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 100 gr",
+      "raw_name": "Đường",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:05:24Z",
+  "page_title": "Cách làm bánh cốm gạo rang ăn vặt tuổi thơ đơn giản cực gây nghiện",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/banhcom-1200x676.jpg"
+}

@@ -1,0 +1,105 @@
+{
+  "source_id": "01542",
+  "name": "Cách làm xíu mại thịt bò",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c23253134a2cb3d1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-xiu-mai-mem-ngon-dam-da-tu-thit-heo-thit-bo-01542",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-xiu-mai-mem-ngon-dam-da-tu-thit-heo-thit-bo-01542",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò 450 gram",
+      "raw_name": "Thịt bò 450 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành tây 2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ngò rí 10 gram",
+      "raw_name": "Ngò rí 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 50 gr",
+      "raw_name": "Tỏi",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt tươi 2 trái",
+      "raw_name": "Ớt tươi",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tương đen 2 muỗng canh",
+      "raw_name": "Tương đen",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước tương 2 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gừng tươi nhỏ 1 nhánh",
+      "raw_name": "Gừng tươi nhỏ",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Mật ong 1/2 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vi 20 gr (muối/ đường/hạt nêm...)",
+      "raw_name": "Gia vi",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "muối/ đường/hạt nêm...",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:33:07Z",
+  "page_title": "2 cách làm xíu mại Đà Lạt và xíu mại thịt bò mềm ngon đậm đà khó cưỡng",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/cach-lam-xiu-mai-thit-bo-thumbnail.jpg"
+}

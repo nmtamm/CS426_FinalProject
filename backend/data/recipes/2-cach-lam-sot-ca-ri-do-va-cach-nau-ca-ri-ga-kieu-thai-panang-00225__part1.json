@@ -1,0 +1,105 @@
+{
+  "source_id": "00225",
+  "name": "Cà ri đỏ Thái Lan - Thai Red Curry",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/59050825a20f73d8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sot-ca-ri-do-va-cach-nau-ca-ri-ga-kieu-thai-panang-00225",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sot-ca-ri-do-va-cach-nau-ca-ri-ga-kieu-thai-panang-00225",
+  "servings_text": "Cho 250ml sốt cà ri",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-kho",
+      "name": "Món kho"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ớt khô 16 quả",
+      "raw_name": "Ớt khô",
+      "quantity": 16,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sả 2 cây",
+      "raw_name": "Sả",
+      "quantity": 2,
+      "unit": "cây",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Riềng 10 g",
+      "raw_name": "Riềng",
+      "quantity": 10,
+      "unit": "g",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 4 nhánh",
+      "raw_name": "Tỏi",
+      "quantity": 4,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rau mùi 4 cây",
+      "raw_name": "Rau mùi",
+      "quantity": 4,
+      "unit": "cây",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột thì là 1/2 muỗng cà phê",
+      "raw_name": "Bột thì là",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột rau mùi 1/2 muỗng cà phê",
+      "raw_name": "Bột rau mùi",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gạch tôm xào dầu ăn 1 muỗng canh",
+      "raw_name": "Gạch tôm xào dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Vôi 1 muỗng cà phê",
+      "raw_name": "Vôi",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hành tím 2 củ",
+      "raw_name": "Hành tím",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:14:38Z",
+  "page_title": "Cách làm sốt cà ri đỏ và cách nấu cà ri gà kiểu Thái - Panang tại nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/06/CookRecipe/Avatar/ca-ri-do-thai-lan-thai-red-curry-thumbnail.jpg"
+}

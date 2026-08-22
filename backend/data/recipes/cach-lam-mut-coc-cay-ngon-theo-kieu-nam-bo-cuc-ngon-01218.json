@@ -1,0 +1,63 @@
+{
+  "source_id": "01218",
+  "name": "Mứt cóc cay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/308f62d5bd6a8e45.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-coc-cay-ngon-theo-kieu-nam-bo-cuc-ngon-01218",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-coc-cay-ngon-theo-kieu-nam-bo-cuc-ngon-01218",
+  "servings_text": "Cho 300gr mứt thành phẩm",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Quả cóc xanh 1 kg",
+      "raw_name": "Quả cóc xanh",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Vôi 100 gr",
+      "raw_name": "Vôi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 400 gr",
+      "raw_name": "Đường",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt bột 15 gr",
+      "raw_name": "Ớt bột",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:30:00Z",
+  "page_title": "Cách làm mứt cóc cay ngon theo kiểu Nam Bộ cực ngon",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2019/01/06/1143063/cach-lam-mut-coc-cay-ngon-theo-kieu-nam-bo-cuc-ngon-5-760x367.jpg"
+}

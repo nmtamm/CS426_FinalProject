@@ -1,0 +1,51 @@
+{
+  "source_id": "16827",
+  "name": "Hạt đác rim thơm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/cc4adb8674c5f944.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-hat-dac-rim-thom-bui-beo-thom-ngon-tot-cho-suc-khoe-16827",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-hat-dac-rim-thom-bui-beo-thom-ngon-tot-cho-suc-khoe-16827",
+  "servings_text": "Cho 6 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hạt đác 4 kg",
+      "raw_name": "Hạt đác",
+      "quantity": 4,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thơm chín 1 trái",
+      "raw_name": "Thơm chín",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường cát 1 kg",
+      "raw_name": "Đường cát",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng 4 gr",
+      "raw_name": "Gừng",
+      "quantity": 4,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:05:49Z",
+  "page_title": "Cách làm hạt đác rim thơm bùi béo, thơm ngon tốt cho sức khỏe",
+  "original_image_url": "https://cdn.tgdd.vn/2022/03/CookDish/cach-lam-hat-dac-rim-thom-bui-beo-thom-ngon-tot-cho-suc-khoe-avt-1200x676.jpg"
+}

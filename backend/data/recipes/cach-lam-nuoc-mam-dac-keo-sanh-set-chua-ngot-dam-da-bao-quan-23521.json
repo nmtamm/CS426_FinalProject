@@ -1,0 +1,91 @@
+{
+  "source_id": "23521",
+  "name": "Nước mắm đặc kẹo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4cb72bdc409ffa69.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-mam-dac-keo-sanh-set-chua-ngot-dam-da-bao-quan-23521",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-mam-dac-keo-sanh-set-chua-ngot-dam-da-bao-quan-23521",
+  "servings_text": "Cho khoảng 350ml thành phẩm",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nước lọc 500 gr",
+      "raw_name": "Nước lọc",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước mắm 100 gr (loại ít mặn ít đạm)",
+      "raw_name": "Nước mắm",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "loại ít mặn ít đạm",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường cát vàng 100 gr",
+      "raw_name": "Đường cát vàng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường mạch nha 100 gr (có thể thay bằng đường cát trắng)",
+      "raw_name": "Đường mạch nha",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "có thể thay bằng đường cát trắng",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Giấm ăn 40 gr (hoặc lượng tương đương nước cốt chanh/tắc)",
+      "raw_name": "Giấm ăn",
+      "quantity": 40,
+      "unit": "gr",
+      "note": "hoặc lượng tương đương nước cốt chanh/tắc",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối ăn 10 gr",
+      "raw_name": "Muối ăn",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi 10 tép",
+      "raw_name": "Tỏi 10 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt sừng 1 quả",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ớt hiểm 1 bó (tùy khẩu vị cay)",
+      "raw_name": "Ớt hiểm 1 bó",
+      "quantity": null,
+      "unit": null,
+      "note": "tùy khẩu vị cay",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T20:25:55Z",
+  "page_title": "Cách làm nước mắm đặc kẹo, sánh sệt chua ngọt đậm đà, bảo quản được lâu",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20m%C3%B3n%20an%20t11%20%281200%20x%20676%20px%29%20%2895%29.jpg"
+}

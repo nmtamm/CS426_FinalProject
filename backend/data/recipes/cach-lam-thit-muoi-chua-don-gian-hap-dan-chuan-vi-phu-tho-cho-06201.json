@@ -1,0 +1,67 @@
+{
+  "source_id": "06201",
+  "name": "Thịt muối chua",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/106780ab8489a2f4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-muoi-chua-don-gian-hap-dan-chuan-vi-phu-tho-cho-06201",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-muoi-chua-don-gian-hap-dan-chuan-vi-phu-tho-cho-06201",
+  "servings_text": "Cho 5 - 6 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt mông heo 500 gr",
+      "raw_name": "Thịt mông heo",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thính gạo 150 gr",
+      "raw_name": "Thính gạo",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá ổi 36 lá",
+      "raw_name": "Lá ổi",
+      "quantity": 36,
+      "unit": "lá",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lá đinh lăng 20 lá",
+      "raw_name": "Lá đinh lăng",
+      "quantity": 20,
+      "unit": "lá",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lá sung 20 lá",
+      "raw_name": "Lá sung",
+      "quantity": 20,
+      "unit": "lá",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối/ bột ngọt 1 ít",
+      "raw_name": "Muối/ bột ngọt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:38:39Z",
+  "page_title": "Cách làm thịt chua Phú Thọ đơn giản, thơm ngon, chuẩn vị cho ngày Tết",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/1200676donha-1200x676.jpg"
+}

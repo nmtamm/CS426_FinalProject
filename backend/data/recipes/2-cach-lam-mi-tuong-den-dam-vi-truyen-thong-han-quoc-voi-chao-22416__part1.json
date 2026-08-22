@@ -1,0 +1,117 @@
+{
+  "source_id": "22416",
+  "name": "Mì tương đen với bột tương đen",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d8c5202707c181bf.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mi-tuong-den-dam-vi-truyen-thong-han-quoc-voi-chao-22416",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mi-tuong-den-dam-vi-truyen-thong-han-quoc-voi-chao-22416",
+  "servings_text": "Cho 2 - 3 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột tương đen Ottogi 100 gr",
+      "raw_name": "Bột tương đen Ottogi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt thăn heo 200 gr",
+      "raw_name": "Thịt thăn heo",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Khoai tây 2 củ",
+      "raw_name": "Khoai tây",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bí ngòi 1/2 quả",
+      "raw_name": "Bí ngòi",
+      "quantity": 0.5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Vắt mì ramen 2 cái (hoặc 150gr mì ramen tươi)",
+      "raw_name": "Vắt mì ramen",
+      "quantity": 2,
+      "unit": "cái",
+      "note": "hoặc 150gr mì ramen tươi",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nấm mỡ 7 cây",
+      "raw_name": "Nấm mỡ",
+      "quantity": 7,
+      "unit": "cây",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dưa chuột 1/3 quả",
+      "raw_name": "Dưa chuột",
+      "quantity": 0.333,
+      "unit": "quả",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu ăn 4 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Rượu nấu ăn 3 muỗng canh",
+      "raw_name": "Rượu nấu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Bột gừng 1/4 muỗng canh (tùy ý)",
+      "raw_name": "Bột gừng",
+      "quantity": 0.25,
+      "unit": "muỗng canh",
+      "note": "tùy ý",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Tiêu xay 1 ít",
+      "raw_name": "Tiêu xay",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T20:33:57Z",
+  "page_title": "2 cách làm mì tương đen theo vị truyền thống Hàn Quốc với chảo chống dính",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2025/01/CookRecipe/Avatar/mi-tuong-den-voi-bot-tuong-den-thumbnail.jpg"
+}

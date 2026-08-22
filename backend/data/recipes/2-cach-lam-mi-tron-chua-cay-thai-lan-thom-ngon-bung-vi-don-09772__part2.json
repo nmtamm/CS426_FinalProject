@@ -1,0 +1,133 @@
+{
+  "source_id": "09772",
+  "name": "Mì trộn chua cay thịt bò",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/40b023cbde8fec13.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mi-tron-chua-cay-thai-lan-thom-ngon-bung-vi-don-09772",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mi-tron-chua-cay-thai-lan-thom-ngon-bung-vi-don-09772",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò 200 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mì tôm 1 gói (trụng sơ)",
+      "raw_name": "Mì tôm",
+      "quantity": 1,
+      "unit": "gói",
+      "note": "trụng sơ",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước cốt chanh 2 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 4 tép (băm nhuyễn)",
+      "raw_name": "Tỏi 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": "băm nhuyễn",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt 1 quả (băm nhuyễn)",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "băm nhuyễn",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành phi 2 muỗng canh",
+      "raw_name": "Hành phi",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Lạc rang 1 ít",
+      "raw_name": "Lạc rang",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Giá trụng 100 gr",
+      "raw_name": "Giá trụng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rau thơm 1 ít",
+      "raw_name": "Rau thơm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu mè 1 muỗng cà phê",
+      "raw_name": "Dầu mè",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ đường/ tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ đường/ tiêu",
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T20:34:51Z",
+  "page_title": "2 cách làm mì trộn chua cay Thái Lan thơm ngon bùng vị đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/mi-tron-chua-cay-thit-bo-thumbnail.jpg"
+}

@@ -1,0 +1,125 @@
+{
+  "source_id": "05427",
+  "name": "Chân gà sốt me xoài tắc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/338915b29c49928b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chan-ga-sot-me-xoai-tac-don-gian-ngon-ngat-ngay-05427",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chan-ga-sot-me-xoai-tac-don-gian-ngon-ngat-ngay-05427",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chân gà 1 kg",
+      "raw_name": "Chân gà",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Me vắt 140 gr",
+      "raw_name": "Me vắt",
+      "quantity": 140,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sả 50 gr (5 cây)",
+      "raw_name": "Sả",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "5 cây",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tắc 200 gr",
+      "raw_name": "Tắc",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt 3 trái",
+      "raw_name": "Ớt",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Xoài xanh 200 gr (1 trái)",
+      "raw_name": "Xoài xanh",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "1 trái",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành tím 3 củ",
+      "raw_name": "Hành tím",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tương ớt 3 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đường 3 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước mắm 1.5 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Chanh 1 trái",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T19:05:10Z",
+  "page_title": "Cách làm chân gà sốt me xoài tắc đơn giản, ngon ngất ngây",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookRecipe/Avatar/chan-ga-sot-me-xoai-tac-thumbnail.jpg"
+}

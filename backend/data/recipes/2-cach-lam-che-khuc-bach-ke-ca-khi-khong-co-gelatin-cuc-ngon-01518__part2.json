@@ -1,0 +1,114 @@
+{
+  "source_id": "01518",
+  "name": "Chè khúc bạch",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0880afb24d32a388.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-che-khuc-bach-ke-ca-khi-khong-co-gelatin-cuc-ngon-01518",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-che-khuc-bach-ke-ca-khi-khong-co-gelatin-cuc-ngon-01518",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-che",
+      "name": "Món chè"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột gelatin 50 gr",
+      "raw_name": "Bột gelatin",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước lọc ấm 200 ml",
+      "raw_name": "Nước lọc ấm",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa tươi 700 ml",
+      "raw_name": "Sữa tươi",
+      "quantity": 700,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Phô mai 150 gr (hoặc cream cheese)",
+      "raw_name": "Phô mai",
+      "quantity": 150,
+      "unit": "gr",
+      "note": "hoặc cream cheese",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột rau câu Con cá dẻo 5 gr",
+      "raw_name": "Bột rau câu Con cá dẻo",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường phèn 150 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Kem whipping 300 gr",
+      "raw_name": "Kem whipping",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Lá nếp 2 lá",
+      "raw_name": "Lá nếp",
+      "quantity": 2,
+      "unit": "lá",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hạt chia 2 muỗng canh",
+      "raw_name": "Hạt chia",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hạnh nhân lát 100 gr",
+      "raw_name": "Hạnh nhân lát",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nhãn/ vải/ dưa hấu 1 ít",
+      "raw_name": "Nhãn/ vải/ dưa hấu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T19:06:10Z",
+  "page_title": "2 cách làm chè khúc bạch mềm tan mát lạnh cực đơn giản ngay tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "công thức được chia sẻ bởi người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2022/07/CookRecipe/Avatar/che-khuc-bach-cong-thuc-duoc-chia-se-boi-nguoi-dung-thumbnail.jpg"
+}

@@ -1,0 +1,59 @@
+{
+  "source_id": "23813",
+  "name": "sốt mayonnaise trộn salad",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e9c1f0571532cee2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sot-mayonnaise-tron-salad-don-gian-ma-ngon-chuan-vi-23813",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sot-mayonnaise-tron-salad-don-gian-ma-ngon-chuan-vi-23813",
+  "servings_text": "Cho 2-3 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bắp cải trắng 1/2 cái",
+      "raw_name": "Bắp cải trắng",
+      "quantity": 0.5,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bắp cải tím 1/4 cái",
+      "raw_name": "Bắp cải tím",
+      "quantity": 0.25,
+      "unit": "cái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sốt mayonnaise 4 muỗng canh",
+      "raw_name": "Sốt mayonnaise",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa đặc 2 muỗng canh",
+      "raw_name": "Sữa đặc",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 muỗng cà phê",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T17:50:41Z",
+  "page_title": "Cách làm sốt mayonnaise trộn salad đơn giản mà ngon chuẩn vị nhà hàng",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/s%E1%BB%91t%20mayonnaise%20tr%E1%BB%99n%20salad%201200x676%202.jpg"
+}

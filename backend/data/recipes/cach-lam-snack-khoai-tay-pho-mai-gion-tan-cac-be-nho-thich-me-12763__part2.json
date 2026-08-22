@@ -1,0 +1,46 @@
+{
+  "source_id": "12763",
+  "name": "Snack khoai tây rong biển",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5562a361167cf749.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-snack-khoai-tay-pho-mai-gion-tan-cac-be-nho-thich-me-12763",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-snack-khoai-tay-pho-mai-gion-tan-cac-be-nho-thich-me-12763",
+  "servings_text": "Cho 1 - 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai tây 2 củ",
+      "raw_name": "Khoai tây",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rong biển vụn 1 muỗng",
+      "raw_name": "Rong biển vụn",
+      "quantity": 1,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:11:57Z",
+  "page_title": "Cách làm snack khoai tây phô mai giòn tan các bé nhỏ thích mê",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "Công thức được chia sẻ từ Tiktok Vào bếp cùng Điện máy XANH",
+  "original_image_url": "https://cdn.tgdd.vn/2024/01/CookRecipe/Avatar/snack-khoai-tay-rong-bien-cong-thuc-duoc-chia-se-tu-tiktok-vao-bep-cung-dien-may-xanh-thumbnail.jpg"
+}

@@ -1,0 +1,85 @@
+{
+  "source_id": "12177",
+  "name": "Trà atiso đỏ đào",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d79844ecc686ab6c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-pha-tra-hoa-atiso-do-hibiscus-tuoi-mat-thanh-nhiet-tot-12177",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-pha-tra-hoa-atiso-do-hibiscus-tuoi-mat-thanh-nhiet-tot-12177",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mứt atiso 30 ml",
+      "raw_name": "Mứt atiso",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước đào ngâm 15 ml",
+      "raw_name": "Nước đào ngâm",
+      "quantity": 15,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Siro đào 5 ml",
+      "raw_name": "Siro đào",
+      "quantity": 5,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trà nhài 100 ml",
+      "raw_name": "Trà nhài",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước đường 15 ml",
+      "raw_name": "Nước đường",
+      "quantity": 15,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đào ngâm 3 miếng",
+      "raw_name": "Đào ngâm 3 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Lá bạc hà 1 nhánh",
+      "raw_name": "Lá bạc hà",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đá lạnh 200 gr",
+      "raw_name": "Đá lạnh",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:53:37Z",
+  "page_title": "3 Cách pha trà hoa atiso đỏ (hibiscus) tươi mát, thanh nhiệt cho sức khỏe",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/tra-atiso-do-dao-thumbnail.jpg"
+}

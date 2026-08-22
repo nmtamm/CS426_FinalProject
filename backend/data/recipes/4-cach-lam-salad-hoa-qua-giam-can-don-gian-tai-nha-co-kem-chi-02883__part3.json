@@ -1,0 +1,69 @@
+{
+  "source_id": "02883",
+  "name": "Salad hoa quả họ berry dưa hấu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1b58a02cc4a8faa6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-salad-hoa-qua-giam-can-don-gian-tai-nha-co-kem-chi-02883",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-salad-hoa-qua-giam-can-don-gian-tai-nha-co-kem-chi-02883",
+  "servings_text": "Cho 1 phần",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa hấu 8 muỗng canh",
+      "raw_name": "Dưa hấu",
+      "quantity": 8,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cherry 4 muỗng canh",
+      "raw_name": "Cherry",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mâm xôi đỏ 4 muỗng canh",
+      "raw_name": "Mâm xôi đỏ",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dâu tây 4 muỗng canh",
+      "raw_name": "Dâu tây",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Việt quất 4 muỗng canh",
+      "raw_name": "Việt quất",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T17:55:19Z",
+  "page_title": "3 cách làm salad hoa quả giảm cân từ trái cây họ berry đơn giản",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/cach-lam-salad-dua-hau-voi-qua-ho-berry-thumbnail.jpg"
+}

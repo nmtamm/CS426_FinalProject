@@ -1,0 +1,71 @@
+{
+  "source_id": "23688",
+  "name": "Ốc hương luộc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a6484ccd04484239.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-luoc-oc-huong-ngon-voi-sa-thom-lung-gion-ngot-khong-dai-23688",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-luoc-oc-huong-ngon-voi-sa-thom-lung-gion-ngot-khong-dai-23688",
+  "servings_text": "Cho 1kg ốc hương",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ốc hương 1 kg",
+      "raw_name": "Ốc hương",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước dừa tươi 200 ml",
+      "raw_name": "Nước dừa tươi",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sả cây 5 cây",
+      "raw_name": "Sả cây",
+      "quantity": 5,
+      "unit": "cây",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chanh 3 quả",
+      "raw_name": "Chanh",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối ớt xanh 1 ít",
+      "raw_name": "Muối ớt xanh",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:54:21Z",
+  "page_title": "Cách luộc ốc hương ngon với sả thơm lừng giòn ngọt không dai",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/ahdhsjhd.jpg"
+}

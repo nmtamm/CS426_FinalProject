@@ -1,0 +1,37 @@
+{
+  "source_id": "11330",
+  "name": "Sữa chua cho bé ăn dặm ủ bằng bình giữ nhiệt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/90452dc73d40e360.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-chua-cho-be-an-dam-tu-sua-cong-thuc-thom-ngon-11330",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-chua-cho-be-an-dam-tu-sua-cong-thuc-thom-ngon-11330",
+  "servings_text": "Cho 5 hũ",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sữa công thức 16 muỗng",
+      "raw_name": "Sữa công thức",
+      "quantity": 16,
+      "unit": "muỗng",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa chua không đường 1 hộp",
+      "raw_name": "Sữa chua không đường",
+      "quantity": 1,
+      "unit": "hộp",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T20:19:26Z",
+  "page_title": "2 cách làm sữa chua cho bé ăn dặm 6 tháng từ sữa công thức thơm ngon",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookRecipe/Avatar/cach-lam-sua-chua-cho-be-an-dam-thumbnail-1.jpg"
+}

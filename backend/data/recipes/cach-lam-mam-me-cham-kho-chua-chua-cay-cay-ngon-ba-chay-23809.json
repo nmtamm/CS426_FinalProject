@@ -1,0 +1,67 @@
+{
+  "source_id": "23809",
+  "name": "Mắm me chấm khô",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/cac7e2de468c719d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mam-me-cham-kho-chua-chua-cay-cay-ngon-ba-chay-23809",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mam-me-cham-kho-chua-chua-cay-cay-ngon-ba-chay-23809",
+  "servings_text": "Cho 2-4 người ăn",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Me 100 gr",
+      "raw_name": "Me",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước mắm 45 ml",
+      "raw_name": "Nước mắm",
+      "quantity": 45,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt sừng 1 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 2 tép",
+      "raw_name": "Tỏi 2 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 120 gr",
+      "raw_name": "Đường",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước sôi 100 ml",
+      "raw_name": "Nước sôi",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:25:26Z",
+  "page_title": "Cách làm mắm me chấm khô chua chua cay cay ngon bá cháy",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/cach-lam-mam-me-cham-kho1.jpg"
+}

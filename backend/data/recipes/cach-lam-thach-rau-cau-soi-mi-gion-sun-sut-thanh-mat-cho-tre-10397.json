@@ -1,0 +1,51 @@
+{
+  "source_id": "10397",
+  "name": "Thạch rau câu sợi mì giòn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f1827c9248a09d59.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thach-rau-cau-soi-mi-gion-sun-sut-thanh-mat-cho-tre-10397",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thach-rau-cau-soi-mi-gion-sun-sut-thanh-mat-cho-tre-10397",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột rau câu dẻo 10 gr",
+      "raw_name": "Bột rau câu dẻo",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 200 gr",
+      "raw_name": "Đường",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đặc 1 muỗng canh",
+      "raw_name": "Sữa đặc",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Siro 1 muỗng cà phê (cam/ việt quất/sâm dứa/dâu)",
+      "raw_name": "Siro",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "cam/ việt quất/sâm dứa/dâu",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:08:39Z",
+  "page_title": "Cách làm thạch rau câu sợi mì giòn sừn sựt thanh mát cho trẻ",
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookProduct/1200-1200x676-61.jpg"
+}

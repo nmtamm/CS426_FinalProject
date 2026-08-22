@@ -1,0 +1,207 @@
+{
+  "source_id": "23811",
+  "name": "cháo lòng bò",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a80c36017ce7c1c8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-chao-long-bo-thom-ngon-chuan-vi-khong-bi-hoi-voi-noi-23811",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-chao-long-bo-thom-ngon-chuan-vi-khong-bi-hoi-voi-noi-23811",
+  "servings_text": "Cho 4-6 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-chao",
+      "name": "Món cháo"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dựng bò 500 gr (hoặc đuôi bò)",
+      "raw_name": "Dựng bò",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "hoặc đuôi bò",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nạm bò 300 gr",
+      "raw_name": "Nạm bò",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá sách 200 gr",
+      "raw_name": "Lá sách",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tổ ong 200 gr",
+      "raw_name": "Tổ ong",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lá mía 200 gr",
+      "raw_name": "Lá mía",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bò viên 100 gr",
+      "raw_name": "Bò viên",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nấm rơm 400 gr",
+      "raw_name": "Nấm rơm",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gạo tẻ 1/2 chén",
+      "raw_name": "Gạo tẻ",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hành tây 1 củ (lớn)",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "lớn",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gừng 2 củ (lớn)",
+      "raw_name": "Gừng",
+      "quantity": 2,
+      "unit": "củ",
+      "note": "lớn",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Hành lá 1 bó",
+      "raw_name": "Hành lá 1 bó",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Húng quế 1 bó",
+      "raw_name": "Húng quế 1 bó",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Rau má 1 bó",
+      "raw_name": "Rau má 1 bó",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Giá đỗ 1 ít",
+      "raw_name": "Giá đỗ",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Rau cải mầm 1 ít (cải cay con)",
+      "raw_name": "Rau cải mầm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "cải cay con",
+      "display_order": 15
+    },
+    {
+      "raw_text": "Hành tím băm 1 muỗng canh",
+      "raw_name": "Hành tím băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Hành phi 1 ít",
+      "raw_name": "Hành phi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 17
+    },
+    {
+      "raw_text": "Rượu trắng 1 ít",
+      "raw_name": "Rượu trắng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 18
+    },
+    {
+      "raw_text": "Thơm 1/2 trái (dứa)",
+      "raw_name": "Thơm",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": "dứa",
+      "display_order": 19
+    },
+    {
+      "raw_text": "Mắm nêm 1 ít",
+      "raw_name": "Mắm nêm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 20
+    },
+    {
+      "raw_text": "Tỏi 3 tép",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 21
+    },
+    {
+      "raw_text": "Dầu ăn / Dầu màu điều 1 ít",
+      "raw_name": "Dầu ăn / Dầu màu điều",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 22
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ đường phèn/ hạt nêm/ tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ đường phèn/ hạt nêm/ tiêu",
+      "display_order": 23
+    }
+  ],
+  "scraped_at": "2026-08-19T18:20:46Z",
+  "page_title": "Cách nấu cháo lòng bò thơm ngon, chuẩn vị, không bị hôi với nồi áp suất",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/ch%C3%A1o%20l%C3%B2ng%20b%C3%B2%201200x676.jpg"
+}

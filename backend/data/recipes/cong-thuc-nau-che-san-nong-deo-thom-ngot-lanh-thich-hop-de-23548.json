@@ -1,0 +1,103 @@
+{
+  "source_id": "23548",
+  "name": "Chè sắn nóng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ba2afe0d9e3e6ace.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cong-thuc-nau-che-san-nong-deo-thom-ngot-lanh-thich-hop-de-23548",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cong-thuc-nau-che-san-nong-deo-thom-ngot-lanh-thich-hop-de-23548",
+  "servings_text": "Cho Khoảng 10 - 12 ly chè",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-che",
+      "name": "Món chè"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sắn tươi 2 kg (đã gọt vỏ)",
+      "raw_name": "Sắn tươi",
+      "quantity": 2,
+      "unit": "kg",
+      "note": "đã gọt vỏ",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường thốt nốt 850 gr",
+      "raw_name": "Đường thốt nốt",
+      "quantity": 850,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá nếp 8 lá",
+      "raw_name": "Lá nếp",
+      "quantity": 8,
+      "unit": "lá",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột năng 650 gr",
+      "raw_name": "Bột năng",
+      "quantity": 650,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường cát 170 gr",
+      "raw_name": "Đường cát",
+      "quantity": 170,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gừng thái sợi 10 gr",
+      "raw_name": "Gừng thái sợi",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột nếp 20 gr",
+      "raw_name": "Bột nếp",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Vừng rang 15 gr",
+      "raw_name": "Vừng rang",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột cốt dừa 20 gr",
+      "raw_name": "Bột cốt dừa",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước cốt dừa tươi 800 ml",
+      "raw_name": "Nước cốt dừa tươi",
+      "quantity": 800,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:54:47Z",
+  "page_title": "Công thức nấu chè sắn nóng dẻo thơm, ngọt lành thích hợp để kinh doanh",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20m%C3%B3n%20an%20t11%20%281200%20x%20676%20px%29%20-%202025-11-26T153133.930.jpg"
+}

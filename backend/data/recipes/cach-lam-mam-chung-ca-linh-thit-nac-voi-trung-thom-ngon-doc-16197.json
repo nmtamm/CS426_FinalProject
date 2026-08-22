@@ -1,0 +1,83 @@
+{
+  "source_id": "16197",
+  "name": "Mắm chưng cá linh thịt nạc với trứng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e059b9b6454703ce.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mam-chung-ca-linh-thit-nac-voi-trung-thom-ngon-doc-16197",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mam-chung-ca-linh-thit-nac-voi-trung-thom-ngon-doc-16197",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt nạc mềm 300 gr (có một ít mỡ)",
+      "raw_name": "Thịt nạc mềm",
+      "quantity": 300,
+      "unit": "gr",
+      "note": "có một ít mỡ",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mắm cá linh 200 gr",
+      "raw_name": "Mắm cá linh",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng vịt 5 quả",
+      "raw_name": "Trứng vịt",
+      "quantity": 5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tím 5 củ",
+      "raw_name": "Hành tím",
+      "quantity": 5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 5 tép",
+      "raw_name": "Tỏi 5 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt 3 trái",
+      "raw_name": "Ớt",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (bột ngọt/ đường/ tiêu/ muối)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "bột ngọt/ đường/ tiêu/ muối",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Rau ăn kèm 1 ít (dưa leo/ chuối chát/ củ cải trắng/ cà tím)",
+      "raw_name": "Rau ăn kèm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "dưa leo/ chuối chát/ củ cải trắng/ cà tím",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:26:33Z",
+  "page_title": "Cách làm mắm chưng cá linh thịt nạc với trứng thơm ngon độc đáo cực bắt cơm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookDish/cach-lam-mam-chung-ca-linh-thit-nac-voi-trung-thom-ngon-doc-avt-1200x676-1.jpg"
+}

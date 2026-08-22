@@ -1,0 +1,45 @@
+{
+  "source_id": "14787",
+  "name": "Sữa hạt sen đậu xanh cho bé ăn dặm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d53e85f8be2a55db.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-sua-hat-sen-cho-be-an-dam-thom-ngon-giau-dinh-14787",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-sua-hat-sen-cho-be-an-dam-thom-ngon-giau-dinh-14787",
+  "servings_text": "Cho 1 lít sữa",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hạt sen 30 gr",
+      "raw_name": "Hạt sen",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu xanh 30 gr",
+      "raw_name": "Đậu xanh",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước lọc 1 lít",
+      "raw_name": "Nước lọc 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:53:49Z",
+  "page_title": "2 cách nấu sữa hạt sen cho bé ăn dặm thơm ngon giàu dinh dưỡng tại nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/sua-hat-sen-dau-xanh-cho-be-an-dam-thumbnail.jpg"
+}

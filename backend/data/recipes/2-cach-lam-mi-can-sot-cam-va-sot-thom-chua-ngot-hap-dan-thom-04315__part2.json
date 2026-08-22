@@ -1,0 +1,77 @@
+{
+  "source_id": "04315",
+  "name": "Mì căn sốt cam",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/40186cdc26a31bb7.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mi-can-sot-cam-va-sot-thom-chua-ngot-hap-dan-thom-04315",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mi-can-sot-cam-va-sot-thom-chua-ngot-hap-dan-thom-04315",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mì căn 5 cây",
+      "raw_name": "Mì căn",
+      "quantity": 5,
+      "unit": "cây",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cam vàng 1 trái (hoặc cam sành)",
+      "raw_name": "Cam vàng",
+      "quantity": 1,
+      "unit": "trái",
+      "note": "hoặc cam sành",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành boa rô 20 gr (tỏi tây)",
+      "raw_name": "Hành boa rô",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "tỏi tây",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ngũ vị hương 1/3 muỗng canh",
+      "raw_name": "Ngũ vị hương",
+      "quantity": 0.333,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột năng pha loãng 2 muỗng canh",
+      "raw_name": "Bột năng pha loãng",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu hào chay 1/3 muỗng canh",
+      "raw_name": "Dầu hào chay",
+      "quantity": 0.333,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị 10 gr (hạt nêm/đường/nước tương)",
+      "raw_name": "Gia vị",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "hạt nêm/đường/nước tương",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:51:25Z",
+  "page_title": "2 Cách làm mì căn sốt thơm và sốt cam chua ngọt hấp dẫn thơm ngon",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/mi-can-sot-cam-thumbnail-1.jpg"
+}

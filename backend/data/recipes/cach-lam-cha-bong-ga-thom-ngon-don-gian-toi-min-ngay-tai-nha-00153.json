@@ -1,0 +1,67 @@
+{
+  "source_id": "00153",
+  "name": "Chà bông gà",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/206e2ce7be6183ab.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-bong-ga-thom-ngon-don-gian-toi-min-ngay-tai-nha-00153",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-bong-ga-thom-ngon-don-gian-toi-min-ngay-tai-nha-00153",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt ức gà 1 kg (hoặc lườn gà)",
+      "raw_name": "Thịt ức gà",
+      "quantity": 1,
+      "unit": "kg",
+      "note": "hoặc lườn gà",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước mắm 3 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối 1/3 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 0.333,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 1/2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tím 5 củ",
+      "raw_name": "Hành tím",
+      "quantity": 5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 4 nhánh",
+      "raw_name": "Tỏi",
+      "quantity": 4,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:16:50Z",
+  "page_title": "Cách làm chà bông gà thơm ngon, đơn giản, tơi mịn ngay tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2020/06/CookProduct/thum1200-1200x676-18.jpg"
+}

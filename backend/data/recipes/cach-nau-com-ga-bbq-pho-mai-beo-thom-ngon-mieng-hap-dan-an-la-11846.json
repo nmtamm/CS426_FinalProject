@@ -1,0 +1,123 @@
+{
+  "source_id": "11846",
+  "name": "Cơm gà BBQ phô mai",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0af89cb40737adad.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-com-ga-bbq-pho-mai-beo-thom-ngon-mieng-hap-dan-an-la-11846",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-com-ga-bbq-pho-mai-beo-thom-ngon-mieng-hap-dan-an-la-11846",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cơm 2 chén (loại chén ăn cơm)",
+      "raw_name": "Cơm",
+      "quantity": 2,
+      "unit": "chén",
+      "note": "loại chén ăn cơm",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gà 1 con (khoảng 1kg)",
+      "raw_name": "Gà 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 1kg",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Phô mai 100 gr (dạng lát)",
+      "raw_name": "Phô mai",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "dạng lát",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước hầm gà 200 ml",
+      "raw_name": "Nước hầm gà",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tương ớt Hàn Quốc 3 muỗng canh",
+      "raw_name": "Tương ớt Hàn Quốc",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột ớt Hàn Quốc 3 muỗng canh",
+      "raw_name": "Bột ớt Hàn Quốc",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước đường 4 muỗng canh",
+      "raw_name": "Nước đường",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước tương 2 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rượu nấu ăn 2 muỗng canh",
+      "raw_name": "Rượu nấu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tỏi băm 2 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 ít",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Muối/Tiêu 1 ít",
+      "raw_name": "Muối/Tiêu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T18:14:14Z",
+  "page_title": "Cách nấu cơm gà BBQ phô mai béo thơm ngon miệng hấp dẫn ăn là ghiền",
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookProduct/thumbcn-1200x676-11.jpg"
+}

@@ -1,0 +1,73 @@
+{
+  "source_id": "09085",
+  "name": "Thạch sữa chua hạt é",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8a8e004127e2d556.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-thach-sua-chua-deo-truyen-thong-va-matcha-nung-09085",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-thach-sua-chua-deo-truyen-thong-va-matcha-nung-09085",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột rau câu dẻo 6 gr",
+      "raw_name": "Bột rau câu dẻo",
+      "quantity": 6,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa chua có đường 100 gr (1 hộp)",
+      "raw_name": "Sữa chua có đường",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "1 hộp",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hạt é 15 gr",
+      "raw_name": "Hạt é",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa đặc 30 gr",
+      "raw_name": "Sữa đặc",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 50 gr",
+      "raw_name": "Đường",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước 500 ml",
+      "raw_name": "Nước",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:05:00Z",
+  "page_title": "3 cách làm thạch sữa chua dẻo núng nính mềm mịn ăn là ghiền",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/thach-sua-chua-hat-e-thumbnail-1.jpg"
+}

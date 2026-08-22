@@ -1,0 +1,61 @@
+{
+  "source_id": "14021",
+  "name": "Sữa chua hoa đậu biếc từ bột hoa đậu biếc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/00b6e69c6c04fc4d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sua-chua-hoa-dau-biec-dep-mat-deo-min-thom-ngon-14021",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sua-chua-hoa-dau-biec-dep-mat-deo-min-thom-ngon-14021",
+  "servings_text": "Cho 6 hũ",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột hoa đậu biếc 10 gr",
+      "raw_name": "Bột hoa đậu biếc",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa chua cái 150 gr (dùng sữa chua không đường hoặc có đường đều được)",
+      "raw_name": "Sữa chua cái",
+      "quantity": 150,
+      "unit": "gr",
+      "note": "dùng sữa chua không đường hoặc có đường đều được",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa tươi 600 ml (dùng sữa tươi không đường hoặc có đường đều được)",
+      "raw_name": "Sữa tươi",
+      "quantity": 600,
+      "unit": "ml",
+      "note": "dùng sữa tươi không đường hoặc có đường đều được",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa đặc 397 gr",
+      "raw_name": "Sữa đặc",
+      "quantity": 397,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước 320 ml",
+      "raw_name": "Nước",
+      "quantity": 320,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:21:59Z",
+  "page_title": "3 cách làm sữa chua hoa đậu biếc đẹp mắt dẻo mịn thơm ngon",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/sua-chua-hoa-dau-biec-tu-bot-hoa-dau-biec-thumbnail.jpg"
+}

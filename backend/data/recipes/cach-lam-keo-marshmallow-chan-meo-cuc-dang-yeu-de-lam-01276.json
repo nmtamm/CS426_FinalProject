@@ -1,0 +1,59 @@
+{
+  "source_id": "01276",
+  "name": "Kẹo Marshmallow chân mèo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/cc8781730d107abd.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-keo-marshmallow-chan-meo-cuc-dang-yeu-de-lam-01276",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-keo-marshmallow-chan-meo-cuc-dang-yeu-de-lam-01276",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột gelatine 8 gr (bạn tìm mua ở siêu thị)",
+      "raw_name": "Bột gelatine",
+      "quantity": 8,
+      "unit": "gr",
+      "note": "bạn tìm mua ở siêu thị",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 150 gr",
+      "raw_name": "Đường",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường bắp 15 gr",
+      "raw_name": "Đường bắp",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lòn trắng trứng 4 g",
+      "raw_name": "Lòn trắng trứng",
+      "quantity": 4,
+      "unit": "g",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Màu đỏ thực phẩm 1 ít",
+      "raw_name": "Màu đỏ thực phẩm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:27:36Z",
+  "page_title": "Cách làm kẹo Marshmallow chân mèo cực đáng yêu dễ làm tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2019/03/29/1157542/video-cach-lam-keo-marshmallow-chan-meo-cuc-dang-yeu-de-lam-tai-nha1.-760x367.jpg"
+}

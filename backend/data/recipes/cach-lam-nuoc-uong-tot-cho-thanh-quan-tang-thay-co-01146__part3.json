@@ -1,0 +1,45 @@
+{
+  "source_id": "01146",
+  "name": "Nước trà xanh mật ong",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a00d3db3982b7044.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-uong-tot-cho-thanh-quan-tang-thay-co-01146",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-uong-tot-cho-thanh-quan-tang-thay-co-01146",
+  "servings_text": "Cho 1 lít",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lá trà xanh 50 gr",
+      "raw_name": "Lá trà xanh",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mật ong 50 ml",
+      "raw_name": "Mật ong",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước nóng 1 lít",
+      "raw_name": "Nước nóng 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:33:03Z",
+  "page_title": "4 cách làm thức uống tốt cho thanh quản cổ họng tặng thầy cô ngày 20/11",
+  "variant_index": 3,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/nuoc-tra-xanh-mat-ong-thumbnail.jpg"
+}

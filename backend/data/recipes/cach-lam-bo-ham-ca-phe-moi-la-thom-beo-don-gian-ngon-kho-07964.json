@@ -1,0 +1,107 @@
+{
+  "source_id": "07964",
+  "name": "Bò hầm cà phê",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5b9919dc712f4dc9.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bo-ham-ca-phe-moi-la-thom-beo-don-gian-ngon-kho-07964",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bo-ham-ca-phe-moi-la-thom-beo-don-gian-ngon-kho-07964",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sườn non bò 1 kg",
+      "raw_name": "Sườn non bò",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cần tây 100 gr",
+      "raw_name": "Cần tây",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lá cần tàu 3 nhánh",
+      "raw_name": "Lá cần tàu",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lá nguyệt quế 1 nhánh",
+      "raw_name": "Lá nguyệt quế",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Lá thyme 4 nhánh",
+      "raw_name": "Lá thyme",
+      "quantity": 4,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Sốt cà chua 50 gr",
+      "raw_name": "Sốt cà chua",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Cà phê Cold Brew 400 ml",
+      "raw_name": "Cà phê Cold Brew",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước dùng bò 250 ml",
+      "raw_name": "Nước dùng bò",
+      "quantity": 250,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Rượu vang đỏ 250 ml (hoặc nước lọc)",
+      "raw_name": "Rượu vang đỏ",
+      "quantity": 250,
+      "unit": "ml",
+      "note": "hoặc nước lọc",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:27:40Z",
+  "page_title": "Cách làm bò hầm cà phê mới lạ thơm béo đơn giản ngon khó cưỡng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/1-1200x676-9.jpg"
+}

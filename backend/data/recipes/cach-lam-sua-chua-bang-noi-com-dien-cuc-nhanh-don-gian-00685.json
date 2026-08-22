@@ -1,0 +1,55 @@
+{
+  "source_id": "00685",
+  "name": "Sữa chua",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/efc2a4b8f6fa7b3d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-chua-bang-noi-com-dien-cuc-nhanh-don-gian-00685",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-chua-bang-noi-com-dien-cuc-nhanh-don-gian-00685",
+  "servings_text": "Cho 12 hũ sữa chua",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sữa tươi không đường 1 lít",
+      "raw_name": "Sữa tươi không đường 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa chua có đường Vinamilk 1 hộp",
+      "raw_name": "Sữa chua có đường Vinamilk",
+      "quantity": 1,
+      "unit": "hộp",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đặc 1/2 hộp",
+      "raw_name": "Sữa đặc",
+      "quantity": 0.5,
+      "unit": "hộp",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đựng bằng thủy tinh 12 hộp",
+      "raw_name": "Đựng bằng thủy tinh",
+      "quantity": 12,
+      "unit": "hộp",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:30:35Z",
+  "page_title": "Cách làm sữa chua bằng nồi cơm điện cực nhanh đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2016/12/02/920852/cach-lam-sua-chua-bang-noi-com-dien-5-1-760x367.jpg"
+}

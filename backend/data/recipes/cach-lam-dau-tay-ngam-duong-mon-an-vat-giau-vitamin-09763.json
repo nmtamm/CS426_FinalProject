@@ -1,0 +1,43 @@
+{
+  "source_id": "09763",
+  "name": "Dâu tây ngâm đường",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/489ca66955e4781a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-tay-ngam-duong-mon-an-vat-giau-vitamin-09763",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dau-tay-ngam-duong-mon-an-vat-giau-vitamin-09763",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dâu tây 500 gr",
+      "raw_name": "Dâu tây",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 5 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối hạt 1 ít",
+      "raw_name": "Muối hạt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:00:53Z",
+  "page_title": "Cách làm dâu tây ngâm đường món ăn vặt giàu vitamin",
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookProduct/thumb-1200x676-1.jpg"
+}

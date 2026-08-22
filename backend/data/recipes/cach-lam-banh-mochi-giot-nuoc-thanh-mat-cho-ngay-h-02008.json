@@ -1,0 +1,63 @@
+{
+  "source_id": "02008",
+  "name": "Bánh mochi giọt nước",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2727565830a9e191.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-mochi-giot-nuoc-thanh-mat-cho-ngay-h-02008",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-mochi-giot-nuoc-thanh-mat-cho-ngay-h-02008",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nước 500 ml",
+      "raw_name": "Nước",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột rau câu dẻo 5 gr",
+      "raw_name": "Bột rau câu dẻo",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường nâu 100 gr",
+      "raw_name": "Đường nâu",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường cát trắng 80 gr",
+      "raw_name": "Đường cát trắng",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đậu nành 80 gr",
+      "raw_name": "Đậu nành",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:28:41Z",
+  "page_title": "Cách làm bánh mochi giọt nước thanh mát cho ngày hè",
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookProduct/21-1200x676-5.jpg"
+}

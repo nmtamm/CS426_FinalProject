@@ -1,0 +1,83 @@
+{
+  "source_id": "11698",
+  "name": "Mắm cáy",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e5bd12898f35f94b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mam-cay-truyen-thong-thom-ngon-chuan-vi-sach-an-toan-11698",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mam-cay-truyen-thong-thom-ngon-chuan-vi-sach-an-toan-11698",
+  "servings_text": "Cho 1.2 lít",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cáy 700 gr",
+      "raw_name": "Cáy",
+      "quantity": 700,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối hạt 200 gr (khoảng 1/2 tô canh)",
+      "raw_name": "Muối hạt",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "khoảng 1/2 tô canh",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bia 1 ít (1/2 lon)",
+      "raw_name": "Bia",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "1/2 lon",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Thính gạo 150 gr",
+      "raw_name": "Thính gạo",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chanh 1 trái",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt 1 trái",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột ngọt 1 muỗng cà phê",
+      "raw_name": "Bột ngọt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường 2 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:26:38Z",
+  "page_title": "Cách làm mắm cáy truyền thống thơm ngon chuẩn vị sạch an toàn",
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookProduct/yhum1200-1200x676.jpg"
+}

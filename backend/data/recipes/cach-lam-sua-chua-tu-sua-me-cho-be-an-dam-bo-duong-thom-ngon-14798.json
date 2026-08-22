@@ -1,0 +1,35 @@
+{
+  "source_id": "14798",
+  "name": "Sữa chua từ sữa mẹ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/73bd268f7252d66d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-chua-tu-sua-me-cho-be-an-dam-bo-duong-thom-ngon-14798",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sua-chua-tu-sua-me-cho-be-an-dam-bo-duong-thom-ngon-14798",
+  "servings_text": "Cho 3 hũ",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sữa mẹ 100 ml (vừa hút)",
+      "raw_name": "Sữa mẹ",
+      "quantity": 100,
+      "unit": "ml",
+      "note": "vừa hút",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa chua không đường 1 muỗng cà phê",
+      "raw_name": "Sữa chua không đường",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T20:21:41Z",
+  "page_title": "Cách làm sữa chua từ sữa mẹ cho bé ăn dặm bổ dưỡng thơm ngon dễ làm tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookDish/cach-lam-sua-chua-tu-sua-me-cho-be-an-dam-bo-duong-thom-ngon-avt-1200x676.jpg"
+}

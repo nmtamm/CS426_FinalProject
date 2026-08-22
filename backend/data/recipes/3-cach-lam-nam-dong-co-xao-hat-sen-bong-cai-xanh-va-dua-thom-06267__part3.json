@@ -1,0 +1,121 @@
+{
+  "source_id": "06267",
+  "name": "Nấm đông cô xào dứa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d5d955ff13a98c2a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nam-dong-co-xao-hat-sen-bong-cai-xanh-va-dua-thom-06267",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nam-dong-co-xao-hat-sen-bong-cai-xanh-va-dua-thom-06267",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thơm 3 trái (khóm/dứa)",
+      "raw_name": "Thơm",
+      "quantity": 3,
+      "unit": "trái",
+      "note": "khóm/dứa",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm đông cô 20 cái",
+      "raw_name": "Nấm đông cô",
+      "quantity": 20,
+      "unit": "cái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sườn non chay 100 gr",
+      "raw_name": "Sườn non chay",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành boa rô 1/2 cây",
+      "raw_name": "Hành boa rô",
+      "quantity": 0.5,
+      "unit": "cây",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt không cay 4 trái (băm nhuyễn)",
+      "raw_name": "Ớt không cay",
+      "quantity": 4,
+      "unit": "trái",
+      "note": "băm nhuyễn",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu hào 3 thìa cà phê",
+      "raw_name": "Dầu hào",
+      "quantity": 3,
+      "unit": "thìa cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 3 thìa canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước tương 1 thìa canh",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu mè 1 thìa cà phê",
+      "raw_name": "Dầu mè",
+      "quantity": 1,
+      "unit": "thìa cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bột năng 4 thìa cà phê",
+      "raw_name": "Bột năng",
+      "quantity": 4,
+      "unit": "thìa cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dừa 1 trái (lấy nước)",
+      "raw_name": "Dừa",
+      "quantity": 1,
+      "unit": "trái",
+      "note": "lấy nước",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/đường/bột ngọt/tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/đường/bột ngọt/tiêu",
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:50:27Z",
+  "page_title": "3 cách làm nấm đông cô xào hạt sen, bông cải xanh và dứa thơm ngon đơn giản",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookRecipe/Avatar/nam-dong-co-xao-dua-thumbnail.jpg"
+}

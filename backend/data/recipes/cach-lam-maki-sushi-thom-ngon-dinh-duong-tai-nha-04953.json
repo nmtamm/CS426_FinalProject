@@ -1,0 +1,131 @@
+{
+  "source_id": "04953",
+  "name": "Maki sushi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e613ea8944a1a1bf.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-maki-sushi-thom-ngon-dinh-duong-tai-nha-04953",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-maki-sushi-thom-ngon-dinh-duong-tai-nha-04953",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tôm 40 gr",
+      "raw_name": "Tôm",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thanh cua 30 gr",
+      "raw_name": "Thanh cua",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng cá chuồn 40 gr",
+      "raw_name": "Trứng cá chuồn",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cơm nóng 300 gr (nấu từ gạo Nhật)",
+      "raw_name": "Cơm nóng",
+      "quantity": 300,
+      "unit": "gr",
+      "note": "nấu từ gạo Nhật",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bơ 1/2 trái",
+      "raw_name": "Bơ",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dưa leo 1 quả",
+      "raw_name": "Dưa leo",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Rong biển 2 lá",
+      "raw_name": "Rong biển",
+      "quantity": 2,
+      "unit": "lá",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Xà lách 30 gr",
+      "raw_name": "Xà lách",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối 5 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đường 2.5 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Giấm 90 ml",
+      "raw_name": "Giấm",
+      "quantity": 90,
+      "unit": "ml",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng cà phê",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Sốt Mayonnaise 20 gr",
+      "raw_name": "Sốt Mayonnaise",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Rượu trắng 1 muỗng canh",
+      "raw_name": "Rượu trắng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T19:01:19Z",
+  "page_title": "Cách làm maki sushi thơm ngon, dinh dưỡng tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookProduct/19-1200x676.jpg"
+}

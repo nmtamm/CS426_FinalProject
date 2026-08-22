@@ -1,0 +1,63 @@
+{
+  "source_id": "05614",
+  "name": "Cách làm bánh dâu tây mềm dẻo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f7d5eb324f0c770f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-dau-tay-mem-deo-don-gian-an-la-ghien-05614",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-dau-tay-mem-deo-don-gian-an-la-ghien-05614",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dâu tây 20 quả",
+      "raw_name": "Dâu tây",
+      "quantity": 20,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa tươi không đường 150 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đặc 50 ml",
+      "raw_name": "Sữa đặc",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột bắp 2 muỗng canh",
+      "raw_name": "Bột bắp",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Vụn dừa khô 100 gr",
+      "raw_name": "Vụn dừa khô",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:23:15Z",
+  "page_title": "Cách làm bánh dâu tây mềm dẻo, đơn giản ăn là ghiền",
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookProduct/dauthum-1200x676.jpg"
+}

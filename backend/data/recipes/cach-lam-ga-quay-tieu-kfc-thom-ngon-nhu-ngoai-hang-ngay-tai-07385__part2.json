@@ -1,0 +1,98 @@
+{
+  "source_id": "07385",
+  "name": "Gà quay tiêu KFC",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c32d03f657bdd692.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-quay-tieu-kfc-thom-ngon-nhu-ngoai-hang-ngay-tai-07385",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-quay-tieu-kfc-thom-ngon-nhu-ngoai-hang-ngay-tai-07385",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đùi gà 400 gr (2 - 3 cái)",
+      "raw_name": "Đùi gà",
+      "quantity": 400,
+      "unit": "gr",
+      "note": "2 - 3 cái",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước mắm 4 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 3 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tương ớt 2 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tương cà 2 muỗng canh",
+      "raw_name": "Tương cà",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tiêu sọ 1 muỗng canh",
+      "raw_name": "Tiêu sọ",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt cựa gà 1 muỗng cà phê",
+      "raw_name": "Ớt cựa gà",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Lá nguyệt quế 1 lá",
+      "raw_name": "Lá nguyệt quế",
+      "quantity": 1,
+      "unit": "lá",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu điều 2 muỗng cà phê",
+      "raw_name": "Dầu điều",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:13:44Z",
+  "page_title": "Cách làm gà quay tiêu KFC thơm ngon như ngoài hàng ngay tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "Công thức được chia sẻ từ TikTok Vào bếp cùng Điện máy XANH",
+  "original_image_url": "https://cdn.tgdd.vn/2023/07/CookRecipe/Avatar/ga-quay-tieu-kfc-cong-thuc-duoc-chia-se-tu-tiktok-vao-bep-cung-dien-may-xanh-thumbnail.jpg"
+}

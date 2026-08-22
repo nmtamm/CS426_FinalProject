@@ -1,0 +1,173 @@
+{
+  "source_id": "14405",
+  "name": "Bún chay khô bò xào",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/fc197e434e963298.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-bun-chay-kho-vo-cung-hap-dan-don-gian-ai-cung-lam-14405",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-bun-chay-kho-vo-cung-hap-dan-don-gian-ai-cung-lam-14405",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bún tươi 300 gr",
+      "raw_name": "Bún tươi",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bò lát chay 300 gr",
+      "raw_name": "Bò lát chay",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Củ sắn 700 gr (2 - 3 củ)",
+      "raw_name": "Củ sắn",
+      "quantity": 700,
+      "unit": "gr",
+      "note": "2 - 3 củ",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sả 3 cây",
+      "raw_name": "Sả",
+      "quantity": 3,
+      "unit": "cây",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 3 tép",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành lá 2 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tắc 2 quả",
+      "raw_name": "Tắc",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Giá đỗ 200 gr",
+      "raw_name": "Giá đỗ",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Ớt băm nhuyễn 1 muỗng canh",
+      "raw_name": "Ớt băm nhuyễn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dưa leo 2 quả",
+      "raw_name": "Dưa leo",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Đậu phộng rang 100 gr",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Tắc 2 quả",
+      "raw_name": "Tắc",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Rau ăn kèm 1 ít (xà lách/ rau thơm...)",
+      "raw_name": "Rau ăn kèm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "xà lách/ rau thơm...",
+      "display_order": 14
+    },
+    {
+      "raw_text": "Bột nghệ 1/2 muỗng canh",
+      "raw_name": "Bột nghệ",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Dầu ăn 8 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 8,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Hạt nêm chay 1 muỗng cà phê",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 17
+    },
+    {
+      "raw_text": "Nước mắm chay 3 muỗng canh",
+      "raw_name": "Nước mắm chay",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 18
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ đường/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ đường/ bột ngọt",
+      "display_order": 19
+    }
+  ],
+  "scraped_at": "2026-08-19T18:48:31Z",
+  "page_title": "2 cách làm bún chay khô vô cùng hấp dẫn đơn giản ai cũng làm được",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/bun-chay-kho-bo-xao-thumbnail.jpg"
+}

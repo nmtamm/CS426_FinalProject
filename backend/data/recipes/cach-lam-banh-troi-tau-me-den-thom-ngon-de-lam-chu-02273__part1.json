@@ -1,0 +1,97 @@
+{
+  "source_id": "02273",
+  "name": "Bánh trôi tàu nhân vừng đen",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/66bb91c235491a9f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-troi-tau-me-den-thom-ngon-de-lam-chu-02273",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-troi-tau-me-den-thom-ngon-de-lam-chu-02273",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-che",
+      "name": "Món chè"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột nếp 220 gr",
+      "raw_name": "Bột nếp",
+      "quantity": 220,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mè đen 75 gr",
+      "raw_name": "Mè đen",
+      "quantity": 75,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước cốt dừa 50 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột sắn dây 20 gr",
+      "raw_name": "Bột sắn dây",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường phèn 60 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường cát 80 gr",
+      "raw_name": "Đường cát",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gừng 20 gr",
+      "raw_name": "Gừng",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Mỡ heo 1 muỗng canh",
+      "raw_name": "Mỡ heo",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T20:17:46Z",
+  "page_title": "2 cách làm sủi dìn - bánh trôi tàu ngọt bùi, thơm ngon chuẩn vị người Hoa",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/banh-troi-tau-nhan-vung-den-sui-din-thumbnail.jpg"
+}

@@ -1,0 +1,35 @@
+{
+  "source_id": "07455",
+  "name": "Cách luộc đậu phộng (lạc)",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/adc4741f3f05dca4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-luoc-dau-phong-lac-mau-mem-khong-tham-khong-bi-nut-vo-07455",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-luoc-dau-phong-lac-mau-mem-khong-tham-khong-bi-nut-vo-07455",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu phộng 1 kg (nguyên vỏ)",
+      "raw_name": "Đậu phộng",
+      "quantity": 1,
+      "unit": "kg",
+      "note": "nguyên vỏ",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:22:15Z",
+  "page_title": "Cách luộc đậu phộng (lạc) mau mềm, không thâm, không bị nứt vỏ",
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookProduct/Cach-luoc-dau-phong-lac-mau-mem-khong-tham-khong-bi-nut-vo-1-1200x676.jpg"
+}

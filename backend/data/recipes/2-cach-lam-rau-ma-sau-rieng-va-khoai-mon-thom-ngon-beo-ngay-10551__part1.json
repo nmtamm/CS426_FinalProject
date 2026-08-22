@@ -1,0 +1,45 @@
+{
+  "source_id": "10551",
+  "name": "Rau má sầu riêng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1ac649c35743ddab.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-rau-ma-sau-rieng-va-khoai-mon-thom-ngon-beo-ngay-10551",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-rau-ma-sau-rieng-va-khoai-mon-thom-ngon-beo-ngay-10551",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rau má tươi 100 gr",
+      "raw_name": "Rau má tươi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cơm sầu riêng 80 gr",
+      "raw_name": "Cơm sầu riêng",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước đường 1.5 muỗng canh (20ml)",
+      "raw_name": "Nước đường",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": "20ml",
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T20:05:46Z",
+  "page_title": "2 cách làm rau má sầu riêng và khoai môn thơm ngon béo ngậy đơn giản",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookRecipe/Avatar/rau-ma-sau-rieng-thumbnail.jpg"
+}

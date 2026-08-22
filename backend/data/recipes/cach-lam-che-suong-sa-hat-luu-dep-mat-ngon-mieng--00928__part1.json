@@ -1,0 +1,113 @@
+{
+  "source_id": "00928",
+  "name": "Chè sương sa hạt lựu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ff9c26860497c3f3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-che-suong-sa-hat-luu-dep-mat-ngon-mieng--00928",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-che-suong-sa-hat-luu-dep-mat-ngon-mieng--00928",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-che",
+      "name": "Món chè"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột rau câu giòn 25 gr (1 gói)",
+      "raw_name": "Bột rau câu giòn",
+      "quantity": 25,
+      "unit": "gr",
+      "note": "1 gói",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu xanh 100 gr",
+      "raw_name": "Đậu xanh",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 50 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Củ năng 500 gr",
+      "raw_name": "Củ năng",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lá dứa 8 lá",
+      "raw_name": "Lá dứa",
+      "quantity": 8,
+      "unit": "lá",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước cốt dừa 400 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột năng 6 thìa canh",
+      "raw_name": "Bột năng",
+      "quantity": 6,
+      "unit": "thìa canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Màu thực phẩm 50 ml (màu đỏ)",
+      "raw_name": "Màu thực phẩm",
+      "quantity": 50,
+      "unit": "ml",
+      "note": "màu đỏ",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tinh chất vani 2 thìa cà phê",
+      "raw_name": "Tinh chất vani",
+      "quantity": 2,
+      "unit": "thìa cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đường 320 gr",
+      "raw_name": "Đường",
+      "quantity": 320,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T20:20:09Z",
+  "page_title": "2 Cách làm chè sương sa hạt lựu - chè bông cỏ cho ngày hè thanh mát",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/che-suong-sa-hat-luu-thumbnail-2.jpg"
+}

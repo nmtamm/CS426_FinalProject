@@ -1,0 +1,149 @@
+{
+  "source_id": "02518",
+  "name": "Sushi chay cơm trộn rau củ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bbd082b1c2efa2bd.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sushi-chay-thom-ngon-don-gian-tai-nha-02518",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sushi-chay-thom-ngon-don-gian-tai-nha-02518",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cơm 1 tô (khoảng 500gr)",
+      "raw_name": "Cơm",
+      "quantity": 1,
+      "unit": "tô",
+      "note": "khoảng 500gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rong biển 5 lá",
+      "raw_name": "Rong biển",
+      "quantity": 5,
+      "unit": "lá",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ham chay 100 gr (hem chay)",
+      "raw_name": "Ham chay",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "hem chay",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đậu hũ chiên 1 miếng",
+      "raw_name": "Đậu hũ chiên 1 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bông cải xanh 1 cây (khoảng 100gr)",
+      "raw_name": "Bông cải xanh",
+      "quantity": 1,
+      "unit": "cây",
+      "note": "khoảng 100gr",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dưa leo 1 trái",
+      "raw_name": "Dưa leo",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bắp Mỹ 1/2 trái",
+      "raw_name": "Bắp Mỹ",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Cải xôi bó 1 bó (khoảng 50gr)",
+      "raw_name": "Cải xôi bó 1 bó",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 50gr",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Xà lách 1 cây",
+      "raw_name": "Xà lách",
+      "quantity": 1,
+      "unit": "cây",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hành boa rô 1 nhánh",
+      "raw_name": "Hành boa rô",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Mè rang 1 muỗng canh",
+      "raw_name": "Mè rang",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Giấm gạo 3 muỗng canh",
+      "raw_name": "Giấm gạo",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước tương 3 muỗng cà phê",
+      "raw_name": "Nước tương",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Wasabi 1 muỗng cà phê",
+      "raw_name": "Wasabi",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Đường/ muối 1 ít",
+      "raw_name": "Đường/ muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T18:37:16Z",
+  "page_title": "3 cách làm sushi chay thơm ngon đơn giản tại nhà ai cũng mê",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/sushi-chay-com-tron-rau-cu-thumbnail.jpg"
+}

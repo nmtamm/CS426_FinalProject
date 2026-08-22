@@ -1,0 +1,51 @@
+{
+  "source_id": "22734",
+  "name": "Bia matcha",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c2b09956e58465e5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bia-matcha-kieu-nhat-thom-mat-hoi-chi-em-thich-me-22734",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bia-matcha-kieu-nhat-thom-mat-hoi-chi-em-thich-me-22734",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột trà xanh 1/2 muỗng cà phê (Matcha)",
+      "raw_name": "Bột trà xanh",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": "Matcha",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 1 muỗng cà phê (có thể điều chỉnh theo khẩu vị)",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "có thể điều chỉnh theo khẩu vị",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước nóng 30 ml",
+      "raw_name": "Nước nóng",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bia nhật 300 ml (Asahi/ Sapporo/...Có thể thay thế bằng loại bia bạn yêu thích)",
+      "raw_name": "Bia nhật",
+      "quantity": 300,
+      "unit": "ml",
+      "note": "Asahi/ Sapporo/...Có thể thay thế bằng loại bia bạn yêu thích",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:51:58Z",
+  "page_title": "Cách làm bia matcha kiểu nhật thơm mát hội chị em thích mê",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/bia-matcha-1200x676.jpg"
+}

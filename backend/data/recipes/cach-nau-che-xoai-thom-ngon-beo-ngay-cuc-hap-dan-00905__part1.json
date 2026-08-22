@@ -1,0 +1,97 @@
+{
+  "source_id": "00905",
+  "name": "Chè xoài trân châu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b9dac03788ac9390.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-che-xoai-thom-ngon-beo-ngay-cuc-hap-dan-00905",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-che-xoai-thom-ngon-beo-ngay-cuc-hap-dan-00905",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-che",
+      "name": "Món chè"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Xoài chín 2 quả",
+      "raw_name": "Xoài chín",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột năng 200 gr",
+      "raw_name": "Bột năng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa tươi 500 ml",
+      "raw_name": "Sữa tươi",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước cốt dừa 200 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường phèn 150 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Cùi dừa non 300 gr",
+      "raw_name": "Cùi dừa non",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Lá dứa 40 gr",
+      "raw_name": "Lá dứa",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Sương sáo 200 gr",
+      "raw_name": "Sương sáo",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dừa khô 1 chén",
+      "raw_name": "Dừa khô",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T20:17:00Z",
+  "page_title": "3 cách nấu chè xoài trân châu, nếp cẩm và bột báng thơm ngọt cực hấp dẫn",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookRecipe/Avatar/che-xoiaf-tran-chau-thumbnail.jpg"
+}

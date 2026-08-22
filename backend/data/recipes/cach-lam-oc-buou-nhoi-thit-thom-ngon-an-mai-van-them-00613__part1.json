@@ -1,0 +1,121 @@
+{
+  "source_id": "00613",
+  "name": "Ốc bươu nhồi thịt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0c2ad1b26e121ae0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-oc-buou-nhoi-thit-thom-ngon-an-mai-van-them-00613",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-oc-buou-nhoi-thit-thom-ngon-an-mai-van-them-00613",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ốc bươu 1 kg",
+      "raw_name": "Ốc bươu",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Giò sống 100 gr",
+      "raw_name": "Giò sống",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Thịt xay 100 gr",
+      "raw_name": "Thịt xay",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nấm mèo 100 gr (mộc nhĩ)",
+      "raw_name": "Nấm mèo",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "mộc nhĩ",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sả 7 nhánh",
+      "raw_name": "Sả",
+      "quantity": 7,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gừng 2 củ",
+      "raw_name": "Gừng",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tím 1 củ",
+      "raw_name": "Hành tím",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tỏi 3 tép",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ớt sừng 4 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 4,
+      "unit": "trái",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước mắm 5 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đường 2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Tiêu xay 1 muỗng canh",
+      "raw_name": "Tiêu xay",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T19:11:27Z",
+  "page_title": "3 Cách làm ốc bươu nhồi thịt hấp sả thơm ngon, càng ăn càng mê",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://img.youtube.com/vi/B4jP_oUwSr8/maxresdefault.jpg"
+}

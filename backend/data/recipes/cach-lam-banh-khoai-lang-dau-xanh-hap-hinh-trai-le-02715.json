@@ -1,0 +1,63 @@
+{
+  "source_id": "02715",
+  "name": "bánh khoai lang đậu xanh hấp hình trái lê",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5f6a4e7678aafca7.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-khoai-lang-dau-xanh-hap-hinh-trai-le-02715",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-khoai-lang-dau-xanh-hap-hinh-trai-le-02715",
+  "servings_text": "Cho 5 người ăn",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai lang vàng 400 g (khoảng 3 củ vừa)",
+      "raw_name": "Khoai lang vàng",
+      "quantity": 400,
+      "unit": "g",
+      "note": "khoảng 3 củ vừa",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu xanh 50 g",
+      "raw_name": "Đậu xanh",
+      "quantity": 50,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 40 g",
+      "raw_name": "Đường",
+      "quantity": 40,
+      "unit": "g",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột trà xanh 4 g",
+      "raw_name": "Bột trà xanh",
+      "quantity": 4,
+      "unit": "g",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột mì đa dụng 80 g",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 80,
+      "unit": "g",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:26:56Z",
+  "page_title": "Cách làm bánh khoai lang đậu xanh hấp hình trái lê thơm ngon, mềm mịn",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/06/09/1261779/cach-lam-banh-khoai-lang-dau-xanh-hap-hinh-trai-le-10-760x367.jpg"
+}

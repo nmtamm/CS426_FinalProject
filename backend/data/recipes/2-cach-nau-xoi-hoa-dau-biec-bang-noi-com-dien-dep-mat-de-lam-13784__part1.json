@@ -1,0 +1,85 @@
+{
+  "source_id": "13784",
+  "name": "Xôi hoa đậu biếc cốt dừa bằng nồi cơm điện",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/13eabb1fd16b0387.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-xoi-hoa-dau-biec-bang-noi-com-dien-dep-mat-de-lam-13784",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-xoi-hoa-dau-biec-bang-noi-com-dien-dep-mat-de-lam-13784",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gạo nếp 500 gr",
+      "raw_name": "Gạo nếp",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hoa đậu biếc sấy khô 2 muỗng canh",
+      "raw_name": "Hoa đậu biếc sấy khô",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cơm dừa tươi bào sợi 1 ít",
+      "raw_name": "Cơm dừa tươi bào sợi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cơm dừa sấy khô 2 muỗng canh",
+      "raw_name": "Cơm dừa sấy khô",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Vỏ cam 3 cái",
+      "raw_name": "Vỏ cam",
+      "quantity": 3,
+      "unit": "cái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước cốt dừa 200 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước bột năng 1 muỗng canh",
+      "raw_name": "Nước bột năng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối/ đường 1 ít",
+      "raw_name": "Muối/ đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:41:16Z",
+  "page_title": "2 cách nấu xôi hoa đậu biếc bằng nồi cơm điện đẹp mắt dễ làm tặng mẹ",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/xoi-hoa-dau-biec-bang-noi-com-dien-thumbnail.jpg"
+}

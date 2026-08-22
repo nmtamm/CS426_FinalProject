@@ -1,0 +1,91 @@
+{
+  "source_id": "00155",
+  "name": "Gỏi tôm sống kiểu Thái",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/132026441f194352.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-tom-song-kieu-thai-thom-ngon-don-gian-tai-nha-00155",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-tom-song-kieu-thai-thom-ngon-don-gian-tai-nha-00155",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tôm 300 g",
+      "raw_name": "Tôm",
+      "quantity": 300,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mắm cá 1/2 chén",
+      "raw_name": "Mắm cá",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tôm khô 30 g",
+      "raw_name": "Tôm khô",
+      "quantity": 30,
+      "unit": "g",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chanh 7 trái",
+      "raw_name": "Chanh",
+      "quantity": 7,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt 1 chén",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 1/4 chén",
+      "raw_name": "Tỏi",
+      "quantity": 0.25,
+      "unit": "chén",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành 1/2 chén",
+      "raw_name": "Hành",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường vàng 1/3 chén",
+      "raw_name": "Đường vàng",
+      "quantity": 0.333,
+      "unit": "chén",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước mắm 1/4 chén",
+      "raw_name": "Nước mắm",
+      "quantity": 0.25,
+      "unit": "chén",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:03:02Z",
+  "page_title": "Cách làm gỏi tôm sống kiểu Thái thơm ngon lạ miệng đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2020/06/CookProduct/1-1200x676-8.jpg"
+}

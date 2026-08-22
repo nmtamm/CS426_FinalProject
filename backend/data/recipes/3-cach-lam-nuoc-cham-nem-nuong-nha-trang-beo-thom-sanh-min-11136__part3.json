@@ -1,0 +1,69 @@
+{
+  "source_id": "11136",
+  "name": "Nước chấm từ nước cốt dừa và bơ đậu phộng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ea80bf413230a538.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nuoc-cham-nem-nuong-nha-trang-beo-thom-sanh-min-11136",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nuoc-cham-nem-nuong-nha-trang-beo-thom-sanh-min-11136",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nước cốt dừa 200 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành tím băm 2 muỗng canh",
+      "raw_name": "Hành tím băm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tương đen 2 muỗng canh",
+      "raw_name": "Tương đen",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ tiêu/ muối)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ tiêu/ muối",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:36:34Z",
+  "page_title": "3 cách làm nước chấm nem nướng Nha Trang béo thơm sánh mịn đơn giản tại nhà",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookRecipe/Avatar/nuoc-cham-tu-nuoc-cot-dua-va-bo-dau-phong-thumbnail-1.jpg"
+}

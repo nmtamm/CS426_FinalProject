@@ -1,0 +1,67 @@
+{
+  "source_id": "01468",
+  "name": "Nộm tai lợn xoài xanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9d80ae0aa4b9c60f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nom-tai-lon-xoai-xanh-gion-san-sat-ngon-01468",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nom-tai-lon-xoai-xanh-gion-san-sat-ngon-01468",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tai heo 1 cái",
+      "raw_name": "Tai heo",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xoài xanh 2 quả",
+      "raw_name": "Xoài xanh",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rau húng 5 g",
+      "raw_name": "Rau húng",
+      "quantity": 5,
+      "unit": "g",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rau răm 5 g",
+      "raw_name": "Rau răm",
+      "quantity": 5,
+      "unit": "g",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị 10 g (gia vị thông dụng/chanh/giấm/rượu)",
+      "raw_name": "Gia vị",
+      "quantity": 10,
+      "unit": "g",
+      "note": "gia vị thông dụng/chanh/giấm/rượu",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:00:38Z",
+  "page_title": "Cách làm nộm tai lợn xoài xanh giòn sần sật ngon khó cưỡng",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2019/11/19/1220229/cach-lam-nom-tai-lon-xoai-xanh-ngon-gion-san-sat-760x367.jpg"
+}

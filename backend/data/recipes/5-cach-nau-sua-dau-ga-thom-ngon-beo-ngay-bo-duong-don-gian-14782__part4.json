@@ -1,0 +1,61 @@
+{
+  "source_id": "14782",
+  "name": "Sữa đậu gà yến mạch hạt chia",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9ab14557710f1af3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/5-cach-nau-sua-dau-ga-thom-ngon-beo-ngay-bo-duong-don-gian-14782",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/5-cach-nau-sua-dau-ga-thom-ngon-beo-ngay-bo-duong-don-gian-14782",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu gà 50 gr",
+      "raw_name": "Đậu gà",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hạt chia 20 gr",
+      "raw_name": "Hạt chia",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Yến mạch cán dẹt 20 gr",
+      "raw_name": "Yến mạch cán dẹt",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước lọc 1 lít",
+      "raw_name": "Nước lọc 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:01:43Z",
+  "page_title": "5 cách nấu sữa đậu gà thơm ngon béo ngậy bổ dưỡng đơn giản cho gia đình",
+  "variant_index": 4,
+  "variant_count": 5,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/sua-dau-ga-yen-mach-hat-chia-thumbnail.jpg"
+}

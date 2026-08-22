@@ -1,0 +1,67 @@
+{
+  "source_id": "12422",
+  "name": "Salad trứng cá hồi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c5eea7ab7c64feea.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-salad-trung-ca-hoi-giau-dinh-duong-an-hoai-khong-12422",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-salad-trung-ca-hoi-giau-dinh-duong-an-hoai-khong-12422",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thanh cua 3 cái",
+      "raw_name": "Thanh cua",
+      "quantity": 3,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mì tảo bẹ 100 gr",
+      "raw_name": "Mì tảo bẹ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng cá hồi 100 gr",
+      "raw_name": "Trứng cá hồi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mayonnaise 2 muỗng canh",
+      "raw_name": "Mayonnaise",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bắp cải trắng 100 gr",
+      "raw_name": "Bắp cải trắng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bắp cải tím 100 gr",
+      "raw_name": "Bắp cải tím",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T17:57:43Z",
+  "page_title": "Cách làm salad trứng cá hồi giàu dinh dưỡng ăn hoài không chán",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/KaniKamaCaviarSaladXaLachTrungCaHoiDonGianNhungNgonTuyet2-22screenshot(1)-1200x676.jpg"
+}

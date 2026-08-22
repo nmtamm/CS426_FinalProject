@@ -1,0 +1,130 @@
+{
+  "source_id": "00517",
+  "name": "Bánh mì hoa cúc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1560411de761c816.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-mi-hoa-cuc-harrys-brioche-bread-cuc-ngon-00517",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-mi-hoa-cuc-harrys-brioche-bread-cuc-ngon-00517",
+  "servings_text": "Cho 6 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì số 13 300 gr",
+      "raw_name": "Bột mì số 13",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột sư tử 20 gr (không bắt buộc)",
+      "raw_name": "Bột sư tử",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "không bắt buộc",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bơ lạt 40 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Men nở instant 4 gr",
+      "raw_name": "Men nở instant",
+      "quantity": 4,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Mè đen 1 muỗng canh",
+      "raw_name": "Mè đen",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hạnh nhân 1 muỗng canh (cắt lát)",
+      "raw_name": "Hạnh nhân",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "cắt lát",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Mật ong 40 gr",
+      "raw_name": "Mật ong",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước hoa cam 2 gr (không bắt buộc)",
+      "raw_name": "Nước hoa cam",
+      "quantity": 2,
+      "unit": "gr",
+      "note": "không bắt buộc",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Whipping cream 30 ml",
+      "raw_name": "Whipping cream",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Sữa tươi không đường 110 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 110,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Sữa đặc 20 gr",
+      "raw_name": "Sữa đặc",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Muối hồng 2 gr",
+      "raw_name": "Muối hồng",
+      "quantity": 2,
+      "unit": "gr",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T19:30:17Z",
+  "page_title": "2 Cách làm bánh mì hoa cúc - Harrys Brioche Bread đơn giản hấp dẫn",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "công thức được chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/banh-mi-hoa-cuc-cong-thuc-duoc-chia-se-tu-nguoi-dung-thumbnail-1.jpg"
+}

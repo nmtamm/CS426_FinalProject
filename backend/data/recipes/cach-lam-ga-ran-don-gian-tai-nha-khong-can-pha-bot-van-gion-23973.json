@@ -1,0 +1,51 @@
+{
+  "source_id": "23973",
+  "name": "Gà rán",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4e58092d09cd5919.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-ran-don-gian-tai-nha-khong-can-pha-bot-van-gion-23973",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-ran-don-gian-tai-nha-khong-can-pha-bot-van-gion-23973",
+  "servings_text": "Cho 5 cánh gà rán",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cánh gà 5 cái",
+      "raw_name": "Cánh gà",
+      "quantity": 5,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột chiên gà rán 300 gr",
+      "raw_name": "Bột chiên gà rán",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa tươi 150 ml",
+      "raw_name": "Sữa tươi",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 800 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 800,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T18:04:08Z",
+  "page_title": "Cách làm gà rán đơn giản tại nhà, không cần pha bột vẫn giòn rụm",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/cach-lam-ga-ran-don-gian..jpg"
+}

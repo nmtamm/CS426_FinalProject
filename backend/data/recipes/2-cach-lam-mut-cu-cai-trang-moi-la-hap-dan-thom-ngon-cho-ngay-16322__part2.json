@@ -1,0 +1,61 @@
+{
+  "source_id": "16322",
+  "name": "Mứt củ cải trắng bông mai",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/01e8a0c68936b6ee.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mut-cu-cai-trang-moi-la-hap-dan-thom-ngon-cho-ngay-16322",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mut-cu-cai-trang-moi-la-hap-dan-thom-ngon-cho-ngay-16322",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Củ cải trắng 640 gr (3 củ)",
+      "raw_name": "Củ cải trắng",
+      "quantity": 640,
+      "unit": "gr",
+      "note": "3 củ",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước màu dành dành 10 ml",
+      "raw_name": "Nước màu dành dành",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chiết xuất hương bươi 2 ml",
+      "raw_name": "Chiết xuất hương bươi",
+      "quantity": 2,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 300 gr",
+      "raw_name": "Đường",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối hạt 40 gr",
+      "raw_name": "Muối hạt",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:39:25Z",
+  "page_title": "2 cách làm mứt củ cải trắng mới lạ hấp dẫn thơm ngon cho ngày Tết",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2022/01/CookRecipe/Avatar/mut-cu-cai-trang-bong-mai-thumbnail-1.jpg"
+}

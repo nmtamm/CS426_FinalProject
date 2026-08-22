@@ -1,0 +1,55 @@
+{
+  "source_id": "09311",
+  "name": "Cốm xào dừa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f3caf49396472b9e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-com-xao-dua-ngon-mieng-deo-thom-ngot-beo-hap-dan-09311",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-com-xao-dua-ngon-mieng-deo-thom-ngot-beo-hap-dan-09311",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cốm dẹp 150 gr",
+      "raw_name": "Cốm dẹp",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước dừa 200 ml",
+      "raw_name": "Nước dừa",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dừa nạo 25 gr",
+      "raw_name": "Dừa nạo",
+      "quantity": 25,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 4 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:01:10Z",
+  "page_title": "Cách làm cốm xào dừa ngon miệng dẻo thơm ngọt béo hấp dẫn",
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookProduct/BeFunky-collage(57)-1200x676.jpg"
+}

@@ -1,0 +1,71 @@
+{
+  "source_id": "00485",
+  "name": "4 món nước ép trái cây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/53835b83bb10f53a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-trai-cay-bang-may-xay-sinh-to-cuc-ngon-00485",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-ep-trai-cay-bang-may-xay-sinh-to-cuc-ngon-00485",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dâu tây 200 gr",
+      "raw_name": "Dâu tây",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Táo 200 gr",
+      "raw_name": "Táo",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bí đao 200 gr",
+      "raw_name": "Bí đao",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cóc 200 gr",
+      "raw_name": "Cóc",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 1 ít",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước lọc 1 ít",
+      "raw_name": "Nước lọc",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:00:49Z",
+  "page_title": "Cách làm 4 món nước ép trái cây bằng máy xay sinh tố cực ngon, cực dễ",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/3-1200x676-2.jpg"
+}

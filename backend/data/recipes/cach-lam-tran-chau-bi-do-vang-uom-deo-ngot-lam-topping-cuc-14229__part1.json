@@ -1,0 +1,57 @@
+{
+  "source_id": "14229",
+  "name": "Trân châu bí đỏ làm bằng bột gạo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1c27b4c061233e4c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tran-chau-bi-do-vang-uom-deo-ngot-lam-topping-cuc-14229",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tran-chau-bi-do-vang-uom-deo-ngot-lam-topping-cuc-14229",
+  "servings_text": "Cho 2 Người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bí đỏ 250 gr",
+      "raw_name": "Bí đỏ",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột gạo 5 muỗng canh",
+      "raw_name": "Bột gạo",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường cát 100 gr",
+      "raw_name": "Đường cát",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước lọc 800 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 800,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:01:29Z",
+  "page_title": "2 Cách làm trân châu bí đỏ vàng ươm dẻo ngọt làm topping cực ngon",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/tran-chau-bi-do-thumbnail-1.jpg"
+}

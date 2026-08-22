@@ -1,0 +1,97 @@
+{
+  "source_id": "10579",
+  "name": "Mì căn nướng chao",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d367373d6781e3ca.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mi-can-nuong-chao-va-nuong-rau-cu-moi-la-thom-ngon-10579",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mi-can-nuong-chao-va-nuong-rau-cu-moi-la-thom-ngon-10579",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mì căn 300 gr (dạng ống)",
+      "raw_name": "Mì căn",
+      "quantity": 300,
+      "unit": "gr",
+      "note": "dạng ống",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sả băm 1 muỗng canh",
+      "raw_name": "Sả băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 1 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mè rang 2 muỗng cà phê",
+      "raw_name": "Mè rang",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chao 5 gr (khoảng 1 viên)",
+      "raw_name": "Chao",
+      "quantity": 5,
+      "unit": "gr",
+      "note": "khoảng 1 viên",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước chao 1 muỗng canh",
+      "raw_name": "Nước chao",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Xà lách 1 ít",
+      "raw_name": "Xà lách",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng cà phê",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:38:22Z",
+  "page_title": "2 cách làm mì căn nướng chao và nướng rau củ mới lạ thơm ngon dễ làm",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookRecipe/Avatar/mi-can-nuong-chao-thumbnail-1.jpg"
+}

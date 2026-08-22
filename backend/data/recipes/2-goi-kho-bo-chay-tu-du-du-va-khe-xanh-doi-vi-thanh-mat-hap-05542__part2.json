@@ -1,0 +1,165 @@
+{
+  "source_id": "05542",
+  "name": "Gỏi khô bò khế xanh chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/074cd6bebfa61e55.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-goi-kho-bo-chay-tu-du-du-va-khe-xanh-doi-vi-thanh-mat-hap-05542",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-goi-kho-bo-chay-tu-du-du-va-khe-xanh-doi-vi-thanh-mat-hap-05542",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khế xanh 300 gr",
+      "raw_name": "Khế xanh",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chuối xanh 300 gr",
+      "raw_name": "Chuối xanh",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tây 300 gr",
+      "raw_name": "Hành tây",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bánh phồng tôm chay 20 cái",
+      "raw_name": "Bánh phồng tôm chay",
+      "quantity": 20,
+      "unit": "cái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rau xà lách 100 gr",
+      "raw_name": "Rau xà lách",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rau răm 2 nhánh",
+      "raw_name": "Rau răm",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Khô bò chay 300 gr",
+      "raw_name": "Khô bò chay",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Trái tắc 100 gr",
+      "raw_name": "Trái tắc",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường 2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Giấm 2 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Hành tím phi 1 muỗng canh",
+      "raw_name": "Hành tím phi",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Đậu phộng rang 1 muỗng canh",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Tương hột 5 muỗng canh",
+      "raw_name": "Tương hột",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Sả băm 1 muỗng cà phê",
+      "raw_name": "Sả băm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Ớt băm 1 muỗng cà phê",
+      "raw_name": "Ớt băm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng cà phê",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Nước sôi 1 ít",
+      "raw_name": "Nước sôi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 17
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 18
+    }
+  ],
+  "scraped_at": "2026-08-19T18:02:42Z",
+  "page_title": "2 gỏi khô bò chay từ đu đủ và khế xanh đổi vị thanh mát hấp dẫn",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookRecipe/Avatar/goi-kho-bo-khe-xanh-chay-thumbnail-1.jpg"
+}

@@ -1,0 +1,219 @@
+{
+  "source_id": "23156",
+  "name": "Mì trộn sa tế",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/36690dfd6b6744c8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mi-tron-sa-te-tom-nhanh-gon-bang-may-xay-thit-23156",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mi-tron-sa-te-tom-nhanh-gon-bang-may-xay-thit-23156",
+  "servings_text": "Cho 2-3 phần ăn",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Tôm tươi 5 con (khoảng 50gr)",
+      "raw_name": "Tôm tươi 5 con",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 50gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Phần trắng hành lá 10 gr (khoảng 4 cây)",
+      "raw_name": "Phần trắng hành lá",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "khoảng 4 cây",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt tươi 50 gr (có thể trộn ớt chuông)",
+      "raw_name": "Ớt tươi",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "có thể trộn ớt chuông",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tím lớn 1 củ (khoảng 40gr)",
+      "raw_name": "Hành tím lớn",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "khoảng 40gr",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi bóc vỏ 20 gr",
+      "raw_name": "Tỏi bóc vỏ",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu thực vật 100 ml (dầu hướng dương)",
+      "raw_name": "Dầu thực vật",
+      "quantity": 100,
+      "unit": "ml",
+      "note": "dầu hướng dương",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột ớt chuông 1 muỗng cà phê (2gr)",
+      "raw_name": "Bột ớt chuông",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "2gr",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/đường/bột gà)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/đường/bột gà",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Thịt mỡ heo 200 gr (cắt hạt lựu)",
+      "raw_name": "Thịt mỡ heo",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "cắt hạt lựu",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Tỏi đập dập 2 tép",
+      "raw_name": "Tỏi đập dập 2 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước lọc 50 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Hành tây 1 củ (cắt tư)",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "cắt tư",
+      "display_order": 13
+    },
+    {
+      "raw_text": "Gừng gọt vỏ 10 gr (thái lát)",
+      "raw_name": "Gừng gọt vỏ",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "thái lát",
+      "display_order": 14
+    },
+    {
+      "raw_text": "Rễ ngò rí 3 cái (nếu có)",
+      "raw_name": "Rễ ngò rí",
+      "quantity": 3,
+      "unit": "cái",
+      "note": "nếu có",
+      "display_order": 15
+    },
+    {
+      "raw_text": "Nước 1.2 lít (bao gồm 1 lít nước và 200gr đá viên hoặc 200ml nước lạnh)",
+      "raw_name": "Nước 1.2 lít",
+      "quantity": null,
+      "unit": null,
+      "note": "bao gồm 1 lít nước và 200gr đá viên hoặc 200ml nước lạnh",
+      "display_order": 16
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/bột gà/đường phèn hoặc đường cát)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/bột gà/đường phèn hoặc đường cát",
+      "display_order": 17
+    },
+    {
+      "raw_text": "Tôm tươi 1 ít (để nguyên con)",
+      "raw_name": "Tôm tươi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "để nguyên con",
+      "display_order": 18
+    },
+    {
+      "raw_text": "Tôm tươi 1 ít (để nguyên con)",
+      "raw_name": "Tôm tươi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "để nguyên con",
+      "display_order": 19
+    },
+    {
+      "raw_text": "Thịt thăn bò 1 ít (thái lát mỏng)",
+      "raw_name": "Thịt thăn bò",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "thái lát mỏng",
+      "display_order": 20
+    },
+    {
+      "raw_text": "Mì gói 2 gói (hoặc bún tươi)",
+      "raw_name": "Mì gói",
+      "quantity": 2,
+      "unit": "gói",
+      "note": "hoặc bún tươi",
+      "display_order": 21
+    },
+    {
+      "raw_text": "Hành lá 1 ít (phần xanh thái nhỏ)",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "phần xanh thái nhỏ",
+      "display_order": 22
+    },
+    {
+      "raw_text": "Ngò rí 1 ít (thái nhỏ)",
+      "raw_name": "Ngò rí",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "thái nhỏ",
+      "display_order": 23
+    },
+    {
+      "raw_text": "Tương đen 1 ít (hoisin sauce)",
+      "raw_name": "Tương đen",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hoisin sauce",
+      "display_order": 24
+    },
+    {
+      "raw_text": "Tiêu xay 1 ít",
+      "raw_name": "Tiêu xay",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 25
+    }
+  ],
+  "scraped_at": "2026-08-19T20:33:25Z",
+  "page_title": "Cách làm mì trộn sa tế tôm nhanh gọn bằng máy xay thịt",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/mi-tron-sa-teeee.jpg"
+}

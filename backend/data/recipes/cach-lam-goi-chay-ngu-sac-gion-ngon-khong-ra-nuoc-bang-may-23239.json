@@ -1,0 +1,119 @@
+{
+  "source_id": "23239",
+  "name": "Gỏi chay ngũ sắc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9258df83c18351c8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-chay-ngu-sac-gion-ngon-khong-ra-nuoc-bang-may-23239",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-chay-ngu-sac-gion-ngon-khong-ra-nuoc-bang-may-23239",
+  "servings_text": "Cho 4-6 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    },
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bắp cải trắng 150 gr",
+      "raw_name": "Bắp cải trắng",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bắp cải tím 50 gr",
+      "raw_name": "Bắp cải tím",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 100 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dưa leo 100 gr",
+      "raw_name": "Dưa leo",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nấm đùi gà 100 gr",
+      "raw_name": "Nấm đùi gà",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nấm mèo 30 gr",
+      "raw_name": "Nấm mèo",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đậu hũ chiên 100 gr",
+      "raw_name": "Đậu hũ chiên",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đầu hành boa rô 70 gr",
+      "raw_name": "Đầu hành boa rô",
+      "quantity": 70,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ớt sừng 1 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước cốt tắc 5 thìa canh (hoặc chanh)",
+      "raw_name": "Nước cốt tắc",
+      "quantity": 5,
+      "unit": "thìa canh",
+      "note": "hoặc chanh",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Rau thơm 1 ít (húng lủi/ngò rí/rau răm)",
+      "raw_name": "Rau thơm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "húng lủi/ngò rí/rau răm",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gia vị 1 ít (muối/hạt nêm chay/đậu phộng rang/dầu ăn)",
+      "raw_name": "Gia vị",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/hạt nêm chay/đậu phộng rang/dầu ăn",
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T17:52:13Z",
+  "page_title": "Cách làm gỏi chay ngũ sắc giòn ngon không ra nước bằng máy xay thịt",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/goi-chay-ngu-sacc.jpg"
+}

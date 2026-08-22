@@ -1,0 +1,79 @@
+{
+  "source_id": "00807",
+  "name": "Bánh trung thu nhân gà quay thập cẩm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4d0315c72c557bfb.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-nhan-ga-quay-thap-cam-00807",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-nhan-ga-quay-thap-cam-00807",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ức gà 200 g",
+      "raw_name": "Ức gà",
+      "quantity": 200,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột mì 300 g",
+      "raw_name": "Bột mì",
+      "quantity": 300,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước đường bánh nướng 200 g",
+      "raw_name": "Nước đường bánh nướng",
+      "quantity": 200,
+      "unit": "g",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mứt 50 g (hạt sen/ mứt vỏ tắc/ mứt gừng đỏ)",
+      "raw_name": "Mứt",
+      "quantity": 50,
+      "unit": "g",
+      "note": "hạt sen/ mứt vỏ tắc/ mứt gừng đỏ",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lá chanh 50 g",
+      "raw_name": "Lá chanh",
+      "quantity": 50,
+      "unit": "g",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Lạp xưởng 50 g",
+      "raw_name": "Lạp xưởng",
+      "quantity": 50,
+      "unit": "g",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột bánh dẻo 25 g",
+      "raw_name": "Bột bánh dẻo",
+      "quantity": 25,
+      "unit": "g",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:44:43Z",
+  "page_title": "Cách làm bánh Trung Thu thập cẩm gà quay truyền thống",
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookProduct/Untitled-2-1200x676-8.jpg"
+}

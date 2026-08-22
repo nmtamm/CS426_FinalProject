@@ -1,0 +1,83 @@
+{
+  "source_id": "05125",
+  "name": "Bánh dẻo nhân đậu đỏ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/242a155ce57b2791.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-deo-nhan-dau-do-truyen-thong-thom-ngon-deo-mem-05125",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-deo-nhan-dau-do-truyen-thong-thom-ngon-deo-mem-05125",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột bánh dẻo 210 gr (bột gạo nếp rang)",
+      "raw_name": "Bột bánh dẻo",
+      "quantity": 210,
+      "unit": "gr",
+      "note": "bột gạo nếp rang",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột bắp 10 gr (có thể thay thế bằng bột mì/ bột năng)",
+      "raw_name": "Bột bắp",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "có thể thay thế bằng bột mì/ bột năng",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu đỏ 200 gr",
+      "raw_name": "Đậu đỏ",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước đường bánh dẻo 400 ml",
+      "raw_name": "Nước đường bánh dẻo",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tinh dầu hoa bưởi 1 muỗng cà phê",
+      "raw_name": "Tinh dầu hoa bưởi",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 80 gr",
+      "raw_name": "Đường",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 70 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 70,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:36:17Z",
+  "page_title": "Cách làm bánh trung thu dẻo nhân đậu đỏ truyền thống thơm ngon",
+  "original_image_url": "https://cdn.tgdd.vn/2022/08/CookDish/cach-lam-banh-deo-nhan-dau-do-truyen-thong-thom-ngon-deo-mem-avt-1200x676.jpg"
+}

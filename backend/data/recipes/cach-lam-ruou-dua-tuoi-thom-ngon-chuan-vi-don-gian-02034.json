@@ -1,0 +1,39 @@
+{
+  "source_id": "02034",
+  "name": "Rượu dừa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/619beafffd938083.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ruou-dua-tuoi-thom-ngon-chuan-vi-don-gian-02034",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ruou-dua-tuoi-thom-ngon-chuan-vi-don-gian-02034",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "meo-vao-bep",
+      "name": "Mẹo vào bếp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dừa 1 trái (đã lột vỏ sẵn)",
+      "raw_name": "Dừa",
+      "quantity": 1,
+      "unit": "trái",
+      "note": "đã lột vỏ sẵn",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rượu nếp 450 ml (bằng lượng nước dừa bạn đã lấy ra)",
+      "raw_name": "Rượu nếp",
+      "quantity": 450,
+      "unit": "ml",
+      "note": "bằng lượng nước dừa bạn đã lấy ra",
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T20:07:49Z",
+  "page_title": "Cách làm rượu dừa tươi thơm ngon chuẩn vị đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2020/04/14/1248996/cach-lam-ruou-dua-tuoi-thom-ngon-chuan-vi-don-gian-760x367.jpg"
+}

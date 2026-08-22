@@ -1,0 +1,113 @@
+{
+  "source_id": "12971",
+  "name": "Bánh dẻo nhân thập cẩm chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d991df7a4dfabd40.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-deo-nhan-thap-cam-chay-thom-ngon-thanh-dam-ngay-12971",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-deo-nhan-thap-cam-chay-thom-ngon-thanh-dam-ngay-12971",
+  "servings_text": "Cho 10 cái bánh",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột bánh dẻo 500 gr (225gr làm bánh + 275gr bột áo)",
+      "raw_name": "Bột bánh dẻo",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "225gr làm bánh + 275gr bột áo",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mứt bí 150 gr",
+      "raw_name": "Mứt bí",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mứt gừng đỏ 50 gr",
+      "raw_name": "Mứt gừng đỏ",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hạt điều 50 gr (băm nhỏ)",
+      "raw_name": "Hạt điều",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "băm nhỏ",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hạt dưa 25 gr (rang vàng)",
+      "raw_name": "Hạt dưa",
+      "quantity": 25,
+      "unit": "gr",
+      "note": "rang vàng",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hạt sen 50 gr (chín)",
+      "raw_name": "Hạt sen",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "chín",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hạt mè 50 gr (rang chín)",
+      "raw_name": "Hạt mè",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "rang chín",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước đường 500 gr",
+      "raw_name": "Nước đường",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước hoa bưởi 8 ml",
+      "raw_name": "Nước hoa bưởi",
+      "quantity": 8,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 60 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 60,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:43:36Z",
+  "page_title": "Cách làm bánh dẻo nhân thập cẩm chay thơm ngon thanh đạm ngày tết Trung Thu",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/banh-deo-nhan-thap-cam-chay-thumbnail-1.jpg"
+}

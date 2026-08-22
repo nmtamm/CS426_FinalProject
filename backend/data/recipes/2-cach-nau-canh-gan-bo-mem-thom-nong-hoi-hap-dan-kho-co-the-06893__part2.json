@@ -1,0 +1,97 @@
+{
+  "source_id": "06893",
+  "name": "Canh gân bò chua cay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3aa040006a9ac394.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-canh-gan-bo-mem-thom-nong-hoi-hap-dan-kho-co-the-06893",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-canh-gan-bo-mem-thom-nong-hoi-hap-dan-kho-co-the-06893",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-canh",
+      "name": "Món canh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gân bò 350 gr",
+      "raw_name": "Gân bò",
+      "quantity": 350,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Măng chua 250 gr",
+      "raw_name": "Măng chua",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà chua 1 trái",
+      "raw_name": "Cà chua",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt hiểm 3 trái",
+      "raw_name": "Ớt hiểm",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Thơm 1/4 trái",
+      "raw_name": "Thơm",
+      "quantity": 0.25,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi 2 muỗng canh (băm nhuyễn)",
+      "raw_name": "Tỏi",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "băm nhuyễn",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị lẩu Thái 1 gói",
+      "raw_name": "Gia vị lẩu Thái",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:28:13Z",
+  "page_title": "2 cách nấu canh gân bò mềm thơm, nóng hổi, hấp dẫn khó có thể chối từ",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookRecipe/Avatar/canh-gan-bo-chua-cay-thumbnail-1.jpg"
+}

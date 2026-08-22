@@ -1,0 +1,71 @@
+{
+  "source_id": "00435",
+  "name": "Bánh tét",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/33f053d8077bb1bb.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-tet-ngon-xanh-dep-mat-an-hoai-khong-ngan-00435",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-tet-ngon-xanh-dep-mat-an-hoai-khong-ngan-00435",
+  "servings_text": "Cho 6 đòn",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nếp 1 ký",
+      "raw_name": "Nếp 1 ký",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu xanh 300 gr",
+      "raw_name": "Đậu xanh",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Thịt ba chỉ 500 gr",
+      "raw_name": "Thịt ba chỉ",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lá dứa 100 gr",
+      "raw_name": "Lá dứa",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tím 3 củ",
+      "raw_name": "Hành tím",
+      "quantity": 3,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ tiêu",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:38:49Z",
+  "page_title": "Cách làm bánh tét lá dứa truyền thống thơm ngon, đơn giản đón Tết",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/Banh-Tet---Cylindric-glutinous-rice-cake---Banh-tet-truyen-thong-deo-ngon--Bep-Nha-Diem--13-29-screenshot-1200x675.jpg"
+}

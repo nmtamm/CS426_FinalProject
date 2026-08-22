@@ -1,0 +1,115 @@
+{
+  "source_id": "03952",
+  "name": "Bánh bông lan Đài Loan Castella kem phô mai tan chảy",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a224f3bea558ae0b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-bong-lan-dai-loan-castella-kem-pho-mai-tan-chay-03952",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-bong-lan-dai-loan-castella-kem-pho-mai-tan-chay-03952",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lòng đỏ trứng 60 gr",
+      "raw_name": "Lòng đỏ trứng",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mật ong 20 gr",
+      "raw_name": "Mật ong",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tinh chất vanilla 1 ít",
+      "raw_name": "Tinh chất vanilla",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 97 gr",
+      "raw_name": "Đường",
+      "quantity": 97,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sữa tươi 32 gr",
+      "raw_name": "Sữa tươi",
+      "quantity": 32,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rượu gạo 10 gr",
+      "raw_name": "Rượu gạo",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu hạt nho 10 gr",
+      "raw_name": "Dầu hạt nho",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Lòng trắng trứng 120 gr",
+      "raw_name": "Lòng trắng trứng",
+      "quantity": 120,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Cake flour 100 gr (có thể thay thế bằng bột mì số 8)",
+      "raw_name": "Cake flour",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "có thể thay thế bằng bột mì số 8",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Keo béo 110 gr (heavy cream)",
+      "raw_name": "Keo béo",
+      "quantity": 110,
+      "unit": "gr",
+      "note": "heavy cream",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Phô mai marcapone 20 gr",
+      "raw_name": "Phô mai marcapone",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Sữa đặc 30 gr",
+      "raw_name": "Sữa đặc",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T20:23:44Z",
+  "page_title": "Cách làm bánh bông lan Đài Loan Castella kem phô mai tan chảy béo mịn",
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookProduct/1200-1200x676-25.jpg"
+}

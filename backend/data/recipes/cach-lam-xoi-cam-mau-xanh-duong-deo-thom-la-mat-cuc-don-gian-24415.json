@@ -1,0 +1,63 @@
+{
+  "source_id": "24415",
+  "name": "Xôi cẩm màu xanh dương",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5b21f20969f5dc24.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-xoi-cam-mau-xanh-duong-deo-thom-la-mat-cuc-don-gian-24415",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-xoi-cam-mau-xanh-duong-deo-thom-la-mat-cuc-don-gian-24415",
+  "servings_text": "Cho 6 - 8 người ăn",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gạo nếp 1 kg",
+      "raw_name": "Gạo nếp",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tro bếp 170 gr",
+      "raw_name": "Tro bếp",
+      "quantity": 170,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá cẩm tím 500 gr",
+      "raw_name": "Lá cẩm tím",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lá chuối non 1 ít (khoảng 2 - 3 tàu lá non)",
+      "raw_name": "Lá chuối non",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "khoảng 2 - 3 tàu lá non",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T18:52:37Z",
+  "page_title": "Cách làm xôi cẩm màu xanh dương dẻo thơm lạ mắt cực đơn giản ngay tại nhà",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t04%201200676%20%28100%29.jpg"
+}

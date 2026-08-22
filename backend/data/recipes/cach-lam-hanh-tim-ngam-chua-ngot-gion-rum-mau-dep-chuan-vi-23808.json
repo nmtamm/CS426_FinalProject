@@ -1,0 +1,55 @@
+{
+  "source_id": "23808",
+  "name": "Hành tím ngâm chua ngọt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b8f9f65d18252c4b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-hanh-tim-ngam-chua-ngot-gion-rum-mau-dep-chuan-vi-23808",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-hanh-tim-ngam-chua-ngot-gion-rum-mau-dep-chuan-vi-23808",
+  "servings_text": "Cho Dùng kèm cho bữa ăn gia đình từ 6 - 8 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Củ hành tím 1.2 kg (nên chọn hành Lý Sơn để giòn hơn)",
+      "raw_name": "Củ hành tím",
+      "quantity": 1.2,
+      "unit": "kg",
+      "note": "nên chọn hành Lý Sơn để giòn hơn",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường cát trắng 500 gr",
+      "raw_name": "Đường cát trắng",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Giấm 1 lít (ưu tiên giấm nuôi tự nhiên)",
+      "raw_name": "Giấm 1 lít",
+      "quantity": null,
+      "unit": null,
+      "note": "ưu tiên giấm nuôi tự nhiên",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:32:27Z",
+  "page_title": "Cách làm hành tím ngâm chua ngọt giòn rụm, màu đẹp chuẩn vị ngày Tết",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20m%C3%B3n%20an%20t1%20%281200%20x%20676%20px%29%20%285%29.jpg"
+}

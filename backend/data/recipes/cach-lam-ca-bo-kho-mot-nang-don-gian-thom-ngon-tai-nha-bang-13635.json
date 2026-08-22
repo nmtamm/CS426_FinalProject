@@ -1,0 +1,51 @@
+{
+  "source_id": "13635",
+  "name": "Cá bò khô một nắng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/87822f380aeadafe.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-bo-kho-mot-nang-don-gian-thom-ngon-tai-nha-bang-13635",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-bo-kho-mot-nang-don-gian-thom-ngon-tai-nha-bang-13635",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cá bò 800 gr",
+      "raw_name": "Cá bò",
+      "quantity": 800,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Giấm 1 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối 2 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu cọ 2 muỗng canh",
+      "raw_name": "Dầu cọ",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:30:53Z",
+  "page_title": "Cách làm cá bò khô một nắng đơn giản thơm ngon tại nhà bằng lò nướng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookDish/cach-lam-ca-bo-kho-mot-nang-don-gian-thom-ngon-tai-nha-bang-avt-1200x676.jpg"
+}

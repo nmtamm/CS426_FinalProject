@@ -1,0 +1,57 @@
+{
+  "source_id": "04129",
+  "name": "Mỡ đường hong bằng cục nóng điều hòa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/76597e9f04838c7b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mo-duong-lam-banh-trung-thu-thap-cam-de-duoc-lau-04129",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mo-duong-lam-banh-trung-thu-thap-cam-de-duoc-lau-04129",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    },
+    {
+      "slug": "meo-vao-bep",
+      "name": "Mẹo vào bếp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mỡ heo 500 gr",
+      "raw_name": "Mỡ heo",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 250 gr",
+      "raw_name": "Đường",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Muối 1 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lá chuối 1 cái (nguyên lá)",
+      "raw_name": "Lá chuối",
+      "quantity": 1,
+      "unit": "cái",
+      "note": "nguyên lá",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:44:19Z",
+  "page_title": "2 cách làm mỡ đường làm bánh trung thu thập cẩm để được lâu, trắng trong",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookRecipe/Avatar/mo-duong-hong-bang-cuc-nong-dieu-hoa-thumbnail-1.jpg"
+}

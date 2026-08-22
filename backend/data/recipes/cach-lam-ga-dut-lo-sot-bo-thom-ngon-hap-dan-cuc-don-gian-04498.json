@@ -1,0 +1,103 @@
+{
+  "source_id": "04498",
+  "name": "Gà đút lò sốt bơ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/acf3e4c7e5602018.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-dut-lo-sot-bo-thom-ngon-hap-dan-cuc-don-gian-04498",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-dut-lo-sot-bo-thom-ngon-hap-dan-cuc-don-gian-04498",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đùi gà góc tư 2 cái",
+      "raw_name": "Đùi gà góc tư",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Khoai tây 8 củ",
+      "raw_name": "Khoai tây",
+      "quantity": 8,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bơ lạt 25 gr",
+      "raw_name": "Bơ lạt",
+      "quantity": 25,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 3 tép",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu olive 5 muỗng canh",
+      "raw_name": "Dầu olive",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rượu vang trắng 150 ml",
+      "raw_name": "Rượu vang trắng",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước lã 250 ml (hoặc nước dùng gà)",
+      "raw_name": "Nước lã",
+      "quantity": 250,
+      "unit": "ml",
+      "note": "hoặc nước dùng gà",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước bột bắp 3 muỗng canh",
+      "raw_name": "Nước bột bắp",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hẹ tây 1 gr",
+      "raw_name": "Hẹ tây",
+      "quantity": 1,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Lá thyme 5 gr",
+      "raw_name": "Lá thyme",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:11:59Z",
+  "page_title": "Cách làm gà đút lò sốt bơ thơm ngon, hấp dẫn, cực đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookProduct/1260-1200x676-69.jpg"
+}

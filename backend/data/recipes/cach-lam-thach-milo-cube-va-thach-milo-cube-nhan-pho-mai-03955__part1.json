@@ -1,0 +1,61 @@
+{
+  "source_id": "03955",
+  "name": "Thạch milo cube",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/38e039a61dd38094.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thach-milo-cube-va-thach-milo-cube-nhan-pho-mai-03955",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thach-milo-cube-va-thach-milo-cube-nhan-pho-mai-03955",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột milo 44 gr (2 gói)",
+      "raw_name": "Bột milo",
+      "quantity": 44,
+      "unit": "gr",
+      "note": "2 gói",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột ca cao 10 gr",
+      "raw_name": "Bột ca cao",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột rau câu dẻo 2 muỗng cà phê",
+      "raw_name": "Bột rau câu dẻo",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước 700 ml",
+      "raw_name": "Nước",
+      "quantity": 700,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 100 gr",
+      "raw_name": "Đường",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:25:36Z",
+  "page_title": "2 cách làm thạch milo cube và thạch milo cube nhân phô mai thơm béo",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookRecipe/Avatar/thach-milo-cube-thumbnail.jpg"
+}

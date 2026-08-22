@@ -1,0 +1,37 @@
+{
+  "source_id": "01655",
+  "name": "Trà gạo lứt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e56a6c11357b8f02.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-tra-gao-lut-giam-can-dep-da-don-gian-tai-nha-01655",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-tra-gao-lut-giam-can-dep-da-don-gian-tai-nha-01655",
+  "servings_text": "Cho 200ml trà",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gạo lứt 200 g",
+      "raw_name": "Gạo lứt",
+      "quantity": 200,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lá trà xanh 50 gr",
+      "raw_name": "Lá trà xanh",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T20:06:53Z",
+  "page_title": "4 cách làm trà gạo lứt giảm cân, đẹp da đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/tra-gao-lut-thumbnail.jpg"
+}

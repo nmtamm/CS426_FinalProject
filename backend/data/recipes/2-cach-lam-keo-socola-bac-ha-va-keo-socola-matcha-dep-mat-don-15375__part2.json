@@ -1,0 +1,69 @@
+{
+  "source_id": "15375",
+  "name": "Socola matcha",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8ca9c0e2ed1a077e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-keo-socola-bac-ha-va-keo-socola-matcha-dep-mat-don-15375",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-keo-socola-bac-ha-va-keo-socola-matcha-dep-mat-don-15375",
+  "servings_text": "Cho 6 - 8 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Socola đen 225 gr",
+      "raw_name": "Socola đen",
+      "quantity": 225,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Socola trắng 112 gr",
+      "raw_name": "Socola trắng",
+      "quantity": 112,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột matcha 1 muỗng canh",
+      "raw_name": "Bột matcha",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dâu tây sấy khô 1 chén (hoặc dâu tây tươi)",
+      "raw_name": "Dâu tây sấy khô",
+      "quantity": 1,
+      "unit": "chén",
+      "note": "hoặc dâu tây tươi",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Vụn dừa sấy khô 1 ít",
+      "raw_name": "Vụn dừa sấy khô",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:40:00Z",
+  "page_title": "2 cách làm kẹo socola bạc hà và kẹo socola matcha đẹp mắt đón Giáng Sinh",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/socola-matcha-thumbnail.jpg"
+}

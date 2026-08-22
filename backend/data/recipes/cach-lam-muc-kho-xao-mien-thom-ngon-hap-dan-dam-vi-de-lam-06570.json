@@ -1,0 +1,103 @@
+{
+  "source_id": "06570",
+  "name": "Mực khô xào miến",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/dd723e6bab020754.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-muc-kho-xao-mien-thom-ngon-hap-dan-dam-vi-de-lam-06570",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-muc-kho-xao-mien-thom-ngon-hap-dan-dam-vi-de-lam-06570",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khô mực 400 gr",
+      "raw_name": "Khô mực",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Miến 200 gr",
+      "raw_name": "Miến",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cải ngọt 500 gr",
+      "raw_name": "Cải ngọt",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cần tây 200 gr",
+      "raw_name": "Cần tây",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 4 tép",
+      "raw_name": "Tỏi 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt hiểm 3 trái",
+      "raw_name": "Ớt hiểm",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu ăn 10 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 10,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu hào 2 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ bột ngọt/ hạt nêm/ tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ bột ngọt/ hạt nêm/ tiêu",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T20:28:20Z",
+  "page_title": "Cách làm mực khô xào miến thơm ngon hấp dẫn đậm vị dễ làm ai cũng mê",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/thum-1200x676-4.jpg"
+}

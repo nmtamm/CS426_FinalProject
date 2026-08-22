@@ -1,0 +1,117 @@
+{
+  "source_id": "01454",
+  "name": "Gà nấu đông với da heo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bfb4356bb49347f4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-3-mon-ga-nau-dong-don-gian-ngon-kho-cuong-ai-cung-me-01454",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-3-mon-ga-nau-dong-don-gian-ngon-kho-cuong-ai-cung-me-01454",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đùi gà lớn 2 cái",
+      "raw_name": "Đùi gà lớn",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chân gà 8 cái (4 cặp)",
+      "raw_name": "Chân gà",
+      "quantity": 8,
+      "unit": "cái",
+      "note": "4 cặp",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bì heo 200 gr",
+      "raw_name": "Bì heo",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nấm mèo 100 gr",
+      "raw_name": "Nấm mèo",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nấm hương 50 gr",
+      "raw_name": "Nấm hương",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Cà rốt 1 củ (đã cắt khoanh)",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "đã cắt khoanh",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gừng 3 lát",
+      "raw_name": "Gừng 3 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành tím băm 1 muỗng cà phê",
+      "raw_name": "Hành tím băm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu hào 2 muỗng cà phê",
+      "raw_name": "Dầu hào",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Rau ngò 1 ít",
+      "raw_name": "Rau ngò",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ hạt nêm/ tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ hạt nêm/ tiêu",
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:10:29Z",
+  "page_title": "Cách làm 3 món gà nấu đông đơn giản, ngon khó cưỡng ai cũng mê",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/ga-nau-dong-voi-da-heo-thumbnail.jpg"
+}

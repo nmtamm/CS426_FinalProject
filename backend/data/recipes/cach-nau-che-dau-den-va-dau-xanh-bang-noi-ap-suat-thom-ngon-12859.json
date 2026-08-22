@@ -1,0 +1,79 @@
+{
+  "source_id": "12859",
+  "name": "Chè đậu đen và đậu xanh bằng nồi áp suất",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/cc827cb3102bfedb.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-che-dau-den-va-dau-xanh-bang-noi-ap-suat-thom-ngon-12859",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-che-dau-den-va-dau-xanh-bang-noi-ap-suat-thom-ngon-12859",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-che",
+      "name": "Món chè"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu đen 300 gr",
+      "raw_name": "Đậu đen",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu xanh cả vỏ 150 gr",
+      "raw_name": "Đậu xanh cả vỏ",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước cốt dừa 400 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột năng 20 gr",
+      "raw_name": "Bột năng",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột đường vani 5 gr (hoặc 1 ống bột vani)",
+      "raw_name": "Bột đường vani",
+      "quantity": 5,
+      "unit": "gr",
+      "note": "hoặc 1 ống bột vani",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường cát trắng 310 gr (hoặc đường vàng)",
+      "raw_name": "Đường cát trắng",
+      "quantity": 310,
+      "unit": "gr",
+      "note": "hoặc đường vàng",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối 2 gr",
+      "raw_name": "Muối",
+      "quantity": 2,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:15:17Z",
+  "page_title": "Cách nấu chè đậu đen và đậu xanh bằng nồi áp suất thơm ngon béo ngậy",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/1200-1200x676-86.jpg"
+}

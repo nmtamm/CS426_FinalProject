@@ -1,0 +1,53 @@
+{
+  "source_id": "05694",
+  "name": "Nama chocolate khoai lang tím",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8d78122ad87711a9.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nama-chocolate-khoai-lang-tim-beo-ngay-don-gian-05694",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nama-chocolate-khoai-lang-tim-beo-ngay-don-gian-05694",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chocolate trắng 325 gr",
+      "raw_name": "Chocolate trắng",
+      "quantity": 325,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Heavy cream 90 gr",
+      "raw_name": "Heavy cream",
+      "quantity": 90,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột khoai lang 30 gr",
+      "raw_name": "Bột khoai lang",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột khoai lang tím 100 gr",
+      "raw_name": "Bột khoai lang tím",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:23:06Z",
+  "page_title": "2 cách làm nama chocolate khoai lang tím béo ngậy, đơn giản tại nhà",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookRecipe/Avatar/nama-chocolate-khoai-lang-tim-thumbnail-1.jpg"
+}

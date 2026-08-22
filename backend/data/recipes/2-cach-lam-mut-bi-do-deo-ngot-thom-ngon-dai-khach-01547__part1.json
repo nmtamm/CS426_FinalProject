@@ -1,0 +1,81 @@
+{
+  "source_id": "01547",
+  "name": "Mứt bí đỏ dẻo dừa sấy",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3dc90c6b73964879.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mut-bi-do-deo-ngot-thom-ngon-dai-khach-01547",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-mut-bi-do-deo-ngot-thom-ngon-dai-khach-01547",
+  "servings_text": "Cho 15 cái",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bí đỏ 1/4 quả",
+      "raw_name": "Bí đỏ",
+      "quantity": 0.25,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dừa sấy 3 muỗng canh",
+      "raw_name": "Dừa sấy",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mạch nha 2 muỗng canh",
+      "raw_name": "Mạch nha",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mè đen rang 1 ít",
+      "raw_name": "Mè đen rang",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột nếp 50 gr",
+      "raw_name": "Bột nếp",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường phèn 80 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:16:11Z",
+  "page_title": "3 cách làm mứt bí đỏ dẻo ngọt thơm ngon đãi khách",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookRecipe/Avatar/mut-bi-do-deo-dua-say-thumbnail.jpg"
+}

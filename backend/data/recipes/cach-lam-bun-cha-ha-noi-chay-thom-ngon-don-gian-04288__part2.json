@@ -1,0 +1,102 @@
+{
+  "source_id": "04288",
+  "name": "Bún chả chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/35f0ba7452ad5a11.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bun-cha-ha-noi-chay-thom-ngon-don-gian-04288",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bun-cha-ha-noi-chay-thom-ngon-don-gian-04288",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sườn non chay 100 gr",
+      "raw_name": "Sườn non chay",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tàu hũ ky tươi 1 miếng",
+      "raw_name": "Tàu hũ ky tươi 1 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tàu hũ ki tươi 1 miếng",
+      "raw_name": "Tàu hũ ki tươi 1 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đậu hũ 1 miếng",
+      "raw_name": "Đậu hũ 1 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nấm bào ngư 100 gr",
+      "raw_name": "Nấm bào ngư",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị chay 1 ít (nước mắm;hạt nêm;tiêu;dầu hào;đường;muối)",
+      "raw_name": "Gia vị chay",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "nước mắm;hạt nêm;tiêu;dầu hào;đường;muối",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu màu điều 1 muỗng canh",
+      "raw_name": "Dầu màu điều",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Sate chay 1 muỗng canh",
+      "raw_name": "Sate chay",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Ngũ vị hương 1 muỗng canh",
+      "raw_name": "Ngũ vị hương",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:44:06Z",
+  "page_title": "2 Cách làm bún chả Hà Nội chay thơm ngon đơn giản",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "Công thức từ kênh tiktok Bếp chay XANH",
+  "original_image_url": "https://cdn.tgdd.vn/2023/08/CookRecipe/Avatar/bun-cha-chay-cong-thuc-tu-kenh-tiktok-bep-chay-xanh-thumbnail.jpg"
+}

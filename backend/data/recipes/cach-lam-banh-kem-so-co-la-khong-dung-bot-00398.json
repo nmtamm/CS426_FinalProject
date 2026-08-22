@@ -1,0 +1,71 @@
+{
+  "source_id": "00398",
+  "name": "Cách làm bánh kem sô cô la không dùng bột",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/32dea1f935b8ef05.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-kem-so-co-la-khong-dung-bot-00398",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-kem-so-co-la-khong-dung-bot-00398",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đường 2/3 chén (đong 160ml nước)",
+      "raw_name": "Đường",
+      "quantity": 0.667,
+      "unit": "chén",
+      "note": "đong 160ml nước",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bơ nhạt 1/4 chén (đong 60ml bơ)",
+      "raw_name": "Bơ nhạt",
+      "quantity": 0.25,
+      "unit": "chén",
+      "note": "đong 60ml bơ",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sô cô la 1.5 chén (đong 360ml sô cô la)",
+      "raw_name": "Sô cô la",
+      "quantity": 1.5,
+      "unit": "chén",
+      "note": "đong 360ml sô cô la",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trứng gà 4 quả (tách riêng lòng đỏ và lòng trắng)",
+      "raw_name": "Trứng gà",
+      "quantity": 4,
+      "unit": "quả",
+      "note": "tách riêng lòng đỏ và lòng trắng",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột hòa tan 1 muỗng cà phê",
+      "raw_name": "Bột hòa tan",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tinh dầu vani 1 muỗng cà phê",
+      "raw_name": "Tinh dầu vani",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:24:29Z",
+  "page_title": "Cách làm bánh kem sô cô la không dùng bột",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2014/10/22/575344/cach-lam-banh-kem-so-co-la-khong-dung-bot9-760x367.jpg"
+}

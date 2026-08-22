@@ -1,0 +1,75 @@
+{
+  "source_id": "11086",
+  "name": "Cocktail sơ ri chôm chôm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e1efabf01f5bcbe9.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-cocktail-so-ri-chom-chom-thom-ngon-giai-nhiet-cho-11086",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-cocktail-so-ri-chom-chom-thom-ngon-giai-nhiet-cho-11086",
+  "servings_text": "Cho 10 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sơ ri 500 gr",
+      "raw_name": "Sơ ri",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chôm chôm 500 gr",
+      "raw_name": "Chôm chôm",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Thơm 1 trái",
+      "raw_name": "Thơm",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nhãn 200 gr",
+      "raw_name": "Nhãn",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường thốt nốt 500 gr",
+      "raw_name": "Đường thốt nốt",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Vani 1 ống",
+      "raw_name": "Vani 1 ống",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:05:36Z",
+  "page_title": "Cách nấu cocktail sơ ri chôm chôm thơm ngon giải nhiệt cho ngày nóng nực",
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookProduct/Untitled-1-1200x676-36.jpg"
+}

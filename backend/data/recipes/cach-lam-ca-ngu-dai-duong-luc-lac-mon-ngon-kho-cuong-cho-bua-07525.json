@@ -1,0 +1,115 @@
+{
+  "source_id": "07525",
+  "name": "Cá ngừ đại dương lúc lắc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d846032a7c1b0105.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-ngu-dai-duong-luc-lac-mon-ngon-kho-cuong-cho-bua-07525",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-ngu-dai-duong-luc-lac-mon-ngon-kho-cuong-cho-bua-07525",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cá ngừ phi lê 300 gr",
+      "raw_name": "Cá ngừ phi lê",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt chuông vàng 50 gr",
+      "raw_name": "Ớt chuông vàng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt chuông đỏ 50 gr",
+      "raw_name": "Ớt chuông đỏ",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tây 1/2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi củ 15 gr",
+      "raw_name": "Tỏi củ",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bơ 10 gr",
+      "raw_name": "Bơ",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước cốt chanh 1.5 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Mù tạt vàng 1 muỗng canh",
+      "raw_name": "Mù tạt vàng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước tương 2 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tương ớt 1/2 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Tương cà 1 muỗng canh",
+      "raw_name": "Tương cà",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ muối/ tiêu/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ muối/ tiêu/ hạt nêm",
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T19:21:41Z",
+  "page_title": "Cách làm cá ngừ đại dương lúc lắc món ngon khó cưỡng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookProduct/cangudaiduongluclac-1200x676.jpg"
+}

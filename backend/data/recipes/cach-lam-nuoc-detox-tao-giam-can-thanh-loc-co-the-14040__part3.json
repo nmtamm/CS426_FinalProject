@@ -1,0 +1,53 @@
+{
+  "source_id": "14040",
+  "name": "Nước detox táo quế bạc hà",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2ed66437f8af75a8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-detox-tao-giam-can-thanh-loc-co-the-14040",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-detox-tao-giam-can-thanh-loc-co-the-14040",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Táo 1/2 trái",
+      "raw_name": "Táo",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bạc hà 3 nhánh",
+      "raw_name": "Bạc hà",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột quế 1 muỗng cà phê",
+      "raw_name": "Bột quế",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước lọc 350 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 350,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:57:35Z",
+  "page_title": "3 cách làm nước detox táo giảm cân thanh lọc cơ thể",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/nuoc-detox-tao-que-bac-ha-thumbnail.jpg"
+}

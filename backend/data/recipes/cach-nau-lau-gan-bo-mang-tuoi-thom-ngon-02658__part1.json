@@ -1,0 +1,105 @@
+{
+  "source_id": "02658",
+  "name": "Lẩu gân bò thuốc bắc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/65c9a32209c22345.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-lau-gan-bo-mang-tuoi-thom-ngon-02658",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-lau-gan-bo-mang-tuoi-thom-ngon-02658",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-lau",
+      "name": "Món lẩu"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Xương ống bò 2 kg",
+      "raw_name": "Xương ống bò",
+      "quantity": 2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gân bò 400 gr",
+      "raw_name": "Gân bò",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sả 4 tép",
+      "raw_name": "Sả 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng 50 gr",
+      "raw_name": "Gừng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt 5 trái",
+      "raw_name": "Ớt",
+      "quantity": 5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thuốc bắc 1 gói",
+      "raw_name": "Gia vị thuốc bắc",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Rượu trắng 100 ml",
+      "raw_name": "Rượu trắng",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Rau ăn kèm 1 ít (rau cải ngọt/ xà lách xoong/ rau má)",
+      "raw_name": "Rau ăn kèm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "rau cải ngọt/ xà lách xoong/ rau má",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ hạt nêm/ bột ngọt/ đường)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ hạt nêm/ bột ngọt/ đường",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:25:58Z",
+  "page_title": "2 cách nấu lẩu gân bò thuốc bắc và măng cay thơm ngon bổ dưỡng",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/lau-gan-bo-thuoc-bac-thumbnail-1.jpg"
+}

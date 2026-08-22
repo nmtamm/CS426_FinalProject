@@ -1,0 +1,65 @@
+{
+  "source_id": "00692",
+  "name": "Kẹo dẻo giáng sinh bằng bột Jello",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/339bb395d295c356.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-keo-deo-ngot-ngao-cho-giang-sinh-am-ap-00692",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-keo-deo-ngot-ngao-cho-giang-sinh-am-ap-00692",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột Jello đỏ 85 gr",
+      "raw_name": "Bột Jello đỏ",
+      "quantity": 85,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột Jello xanh 85 gr",
+      "raw_name": "Bột Jello xanh",
+      "quantity": 85,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đặc 380 ml (1 lon)",
+      "raw_name": "Sữa đặc",
+      "quantity": 380,
+      "unit": "ml",
+      "note": "1 lon",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột gelatin 3 muỗng canh",
+      "raw_name": "Bột gelatin",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Whipping cream 1 ít (để trang trí)",
+      "raw_name": "Whipping cream",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "để trang trí",
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:17:28Z",
+  "page_title": "2 cách làm kẹo dẻo ngọt ngào cho Giáng Sinh ấm áp đơn giản, dễ làm",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookRecipe/Avatar/keo-deo-giang-sinh-bang-bot-jello-thumbnail.jpg"
+}

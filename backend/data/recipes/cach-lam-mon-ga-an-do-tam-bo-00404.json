@@ -1,0 +1,115 @@
+{
+  "source_id": "00404",
+  "name": "Gà Ấn Độ tẩm bơ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/18d9ddb793640777.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-ga-an-do-tam-bo-00404",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-ga-an-do-tam-bo-00404",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đùi gà 500 gram (rút xương xắt miếng)",
+      "raw_name": "Đùi gà 500 gram",
+      "quantity": null,
+      "unit": null,
+      "note": "rút xương xắt miếng",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gừng 20 gram",
+      "raw_name": "Gừng 20 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 10 gram",
+      "raw_name": "Tỏi 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt bột 10 gram",
+      "raw_name": "Ớt bột 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 10 gram",
+      "raw_name": "Muối 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sữa chua 10 gram",
+      "raw_name": "Sữa chua 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Cà chua 50 gram (xay nhuyễn)",
+      "raw_name": "Cà chua 50 gram",
+      "quantity": null,
+      "unit": null,
+      "note": "xay nhuyễn",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Củ hành 40 gram",
+      "raw_name": "Củ hành 40 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bơ 20 gram",
+      "raw_name": "Bơ 20 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hạt thì là Ấn Độ 10 gram",
+      "raw_name": "Hạt thì là Ấn Độ 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Hạt ngò 10 gram",
+      "raw_name": "Hạt ngò 10 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Kem tươi 20 gram (Heavy Cream)",
+      "raw_name": "Kem tươi 20 gram",
+      "quantity": null,
+      "unit": null,
+      "note": "Heavy Cream",
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:12:06Z",
+  "page_title": "Cách làm gà Ấn Độ tẩm bơ béo ngậy, sốt kem đậm đà cực đưa cơm",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2014/11/15/581241/cach-lam-mon-ga-an-do-tam-bo-12-760x367.jpg"
+}

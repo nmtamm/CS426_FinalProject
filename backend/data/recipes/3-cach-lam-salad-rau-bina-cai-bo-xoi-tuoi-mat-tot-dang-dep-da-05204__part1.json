@@ -1,0 +1,85 @@
+{
+  "source_id": "05204",
+  "name": "Salad rau bina dâu tây và hạnh nhân",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b3299b9cbd6fecfe.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-salad-rau-bina-cai-bo-xoi-tuoi-mat-tot-dang-dep-da-05204",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-salad-rau-bina-cai-bo-xoi-tuoi-mat-tot-dang-dep-da-05204",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rau bina baby 200 gr",
+      "raw_name": "Rau bina baby",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Phô mai Feta 60 gr",
+      "raw_name": "Phô mai Feta",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dâu tây 170 gr",
+      "raw_name": "Dâu tây",
+      "quantity": 170,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ô-liu 2 muỗng canh",
+      "raw_name": "Dầu ô-liu",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Giấm Balsamic trắng 1 muỗng canh (giấm nho thơm)",
+      "raw_name": "Giấm Balsamic trắng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "giấm nho thơm",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hạt hạnh nhân nướng 60 gr",
+      "raw_name": "Hạt hạnh nhân nướng",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hạt mè rang 1 muỗng canh",
+      "raw_name": "Hạt mè rang",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị 1 ít (muối/tiêu)",
+      "raw_name": "Gia vị",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/tiêu",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T17:55:28Z",
+  "page_title": "3 Cách làm salad rau bina - cải bó xôi tươi mát tốt dáng đẹp da",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookRecipe/Avatar/salad-rau-bina-dau-tay-va-hanh-nhan-thumbnail.jpg"
+}

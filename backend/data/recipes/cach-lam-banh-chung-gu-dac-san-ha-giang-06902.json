@@ -1,0 +1,59 @@
+{
+  "source_id": "06902",
+  "name": "Bánh chưng gù Hà Giang",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ab513b3c15878448.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-chung-gu-dac-san-ha-giang-06902",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-chung-gu-dac-san-ha-giang-06902",
+  "servings_text": "Cho 4 cái",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nếp 1 kg",
+      "raw_name": "Nếp",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt ba chỉ 800 gr",
+      "raw_name": "Thịt ba chỉ",
+      "quantity": 800,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu xanh 700 gr (cà vỏ)",
+      "raw_name": "Đậu xanh",
+      "quantity": 700,
+      "unit": "gr",
+      "note": "cà vỏ",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lá riềng 2 lá",
+      "raw_name": "Lá riềng",
+      "quantity": 2,
+      "unit": "lá",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối/tiêu 1 ít",
+      "raw_name": "Muối/tiêu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:38:54Z",
+  "page_title": "Cách làm bánh chưng gù đặc sản Hà Giang thơm ngon, dễ làm đón Tết",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/Cach-lam-banh-chung-gu-truyen-thong-chi-tiet-nhat-11-7-screenshot-1200x676.jpg"
+}

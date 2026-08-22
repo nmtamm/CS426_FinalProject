@@ -1,0 +1,123 @@
+{
+  "source_id": "01238",
+  "name": "Chạo chay nướng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/976f13ac6fc7b735.png",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-chi-tiet-cach-lam-chao-chay-nuong-mia-vi-hue--01238",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-chi-tiet-cach-lam-chao-chay-nuong-mia-vi-hue--01238",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu hũ trắng (1 bìa) 300 gr (Phần chạo chay)",
+      "raw_name": "Đậu hũ trắng (1 bìa)",
+      "quantity": 300,
+      "unit": "gr",
+      "note": "Phần chạo chay",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tàu hũ ky khô 10 gr (Phần chạo chay)",
+      "raw_name": "Tàu hũ ky khô",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "Phần chạo chay",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Khoai môn cỡ vừa 1 củ (Phần chạo chay)",
+      "raw_name": "Khoai môn cỡ vừa",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "Phần chạo chay",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cọn hành boarô 1 g (Phần chạo chay)",
+      "raw_name": "Cọn hành boarô",
+      "quantity": 1,
+      "unit": "g",
+      "note": "Phần chạo chay",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành boarô (1 cọng) 1 gr (Phần chạo chay)",
+      "raw_name": "Hành boarô (1 cọng)",
+      "quantity": 1,
+      "unit": "gr",
+      "note": "Phần chạo chay",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Củ riềng 10 gr (Phần chạo chay)",
+      "raw_name": "Củ riềng",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "Phần chạo chay",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Mía lau (6 khúc mía) 20 gr (Phần chạo chay)",
+      "raw_name": "Mía lau (6 khúc mía)",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "Phần chạo chay",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tương nếp 3 muỗng (Phần sốt chấm)",
+      "raw_name": "Tương nếp",
+      "quantity": 3,
+      "unit": "muỗng",
+      "note": "Phần sốt chấm",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bơ đậu phộng 2 muỗng (Phần sốt chấm)",
+      "raw_name": "Bơ đậu phộng",
+      "quantity": 2,
+      "unit": "muỗng",
+      "note": "Phần sốt chấm",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Mè vàng 1 muỗng (Phần sốt chấm)",
+      "raw_name": "Mè vàng",
+      "quantity": 1,
+      "unit": "muỗng",
+      "note": "Phần sốt chấm",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đậu xanh không vỏ 20 gr (Phần sốt chấm)",
+      "raw_name": "Đậu xanh không vỏ",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "Phần sốt chấm",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Ớt sừng 1 trái (Phần sốt chấm)",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "trái",
+      "note": "Phần sốt chấm",
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước dừa xiêm 1 chén (Phần sốt chấm)",
+      "raw_name": "Nước dừa xiêm",
+      "quantity": 1,
+      "unit": "chén",
+      "note": "Phần sốt chấm",
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T18:42:18Z",
+  "page_title": "Hướng dẫn chi tiết cách làm chạo chay nướng mía vị Huế lạ miệng cực ngon",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2019/01/11/1144024/huong-dan-chi-tiet-cach-lam-chao-chay-nuong-mia-vi-hue-la-mieng-1-760x367.png"
+}

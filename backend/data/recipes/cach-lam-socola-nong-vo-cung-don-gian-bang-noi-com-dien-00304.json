@@ -1,0 +1,79 @@
+{
+  "source_id": "00304",
+  "name": "Socola nóng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d2f45b1346407394.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-socola-nong-vo-cung-don-gian-bang-noi-com-dien-00304",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-socola-nong-vo-cung-don-gian-bang-noi-com-dien-00304",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "meo-vao-bep",
+      "name": "Mẹo vào bếp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột ca-cao không đường 200 gr",
+      "raw_name": "Bột ca-cao không đường",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Kem sữa béo 100 ml",
+      "raw_name": "Kem sữa béo",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa tươi không đường 200 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tinh dầu vani 20 ml",
+      "raw_name": "Tinh dầu vani",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Quế 10 gr",
+      "raw_name": "Quế",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 100 gr",
+      "raw_name": "Đường",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hạt nhục đậu khấu 20 gr (nếu có)",
+      "raw_name": "Hạt nhục đậu khấu",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "nếu có",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:08:25Z",
+  "page_title": "Cách làm socola nóng vô cùng đơn giản bằng nồi cơm điện",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2014/06/16/549755/cach-lam-socola-nong-vo-cung-don-gian-bang-noi-con-dien1-600x400.jpg"
+}

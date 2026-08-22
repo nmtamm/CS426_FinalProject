@@ -1,0 +1,93 @@
+{
+  "source_id": "13811",
+  "name": "Gân bò hầm nấm đùi gà",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1a00bb5131fb289d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-gan-bo-ham-sa-te-va-gan-bo-ham-nam-dui-ga-mem-thom-13811",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-gan-bo-ham-sa-te-va-gan-bo-ham-nam-dui-ga-mem-thom-13811",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gân bò 1/2 kg",
+      "raw_name": "Gân bò",
+      "quantity": 0.5,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nấm đùi gà 1 cây (có thể dùng 2 - 3 cây tùy thích)",
+      "raw_name": "Nấm đùi gà",
+      "quantity": 1,
+      "unit": "cây",
+      "note": "có thể dùng 2 - 3 cây tùy thích",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nấm đông cô 300 gr",
+      "raw_name": "Nấm đông cô",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tím 2 củ",
+      "raw_name": "Hành tím",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 4 tép",
+      "raw_name": "Tỏi 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành lá 2 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ngò rí 2 nhánh",
+      "raw_name": "Ngò rí",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Tiêu xay/ đường/ muối/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Tiêu xay/ đường/ muối/ bột ngọt",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:29:31Z",
+  "page_title": "2 cách làm gân bò hầm sa tế và gân bò hầm nấm đùi gà mềm thơm và đậm vị",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/gan-bo-ham-nam-dui-ga-thumbnail.jpg"
+}

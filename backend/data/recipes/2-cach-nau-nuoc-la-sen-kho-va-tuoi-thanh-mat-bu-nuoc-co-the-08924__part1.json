@@ -1,0 +1,37 @@
+{
+  "source_id": "08924",
+  "name": "Nước lá sen khô",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bdf53cb0eb437c91.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-nuoc-la-sen-kho-va-tuoi-thanh-mat-bu-nuoc-co-the-08924",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-nau-nuoc-la-sen-kho-va-tuoi-thanh-mat-bu-nuoc-co-the-08924",
+  "servings_text": "Cho 4 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lá sen 10 lá",
+      "raw_name": "Lá sen",
+      "quantity": 10,
+      "unit": "lá",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước lọc 3 lít",
+      "raw_name": "Nước lọc 3 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:56:01Z",
+  "page_title": "2 cách nấu nước lá sen khô và tươi thanh mát bù nước cơ thể ngày hè",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookRecipe/Avatar/cach-nau-xoi-thit-bam-thom-ngon-hap-dan-cho-bua-sang-day-nang-luong-thumbnail.jpg"
+}

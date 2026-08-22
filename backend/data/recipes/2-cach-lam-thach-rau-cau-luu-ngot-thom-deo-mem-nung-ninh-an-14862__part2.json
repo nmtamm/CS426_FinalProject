@@ -1,0 +1,45 @@
+{
+  "source_id": "14862",
+  "name": "Thạch lựu bằng bột rau câu agar",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d65ea9b4730f6a43.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-thach-rau-cau-luu-ngot-thom-deo-mem-nung-ninh-an-14862",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-thach-rau-cau-luu-ngot-thom-deo-mem-nung-ninh-an-14862",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lựu 1 quả (loại lớn)",
+      "raw_name": "Lựu",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "loại lớn",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột rau câu giòn 1 muỗng cà phê (bột agar)",
+      "raw_name": "Bột rau câu giòn",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "bột agar",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường cát 1 muỗng canh",
+      "raw_name": "Đường cát",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T20:17:03Z",
+  "page_title": "2 cách làm thạch rau câu lựu ngọt thơm dẻo mềm núng nính ăn cực mê",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/thach-luu-bang-bot-rau-cau-agar-thumbnail-1.jpg"
+}

@@ -1,0 +1,57 @@
+{
+  "source_id": "01787",
+  "name": "Bia hột gà",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a587b4c569ebc07e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-soda-sua-hot-ga-bia-hot-ga-bo-ngon-01787",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-soda-sua-hot-ga-bia-hot-ga-bo-ngon-01787",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bia 100 ml",
+      "raw_name": "Bia",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường trắng 30 gr",
+      "raw_name": "Đường trắng",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột quế 5 gr",
+      "raw_name": "Bột quế",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:06:58Z",
+  "page_title": "Cách làm soda sữa hột gà, bia hột gà bổ ngon tăng cường sức khỏe",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/bia-hot-ga-thumbnail.jpg"
+}

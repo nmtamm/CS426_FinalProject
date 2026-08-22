@@ -1,0 +1,69 @@
+{
+  "source_id": "14117",
+  "name": "Nước mắm tỏi ớt chua ngọt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/cf7fe93ad5e72a20.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-pha-nuoc-cham-pho-cuon-dam-da-ngon-de-lam-chuan-vi-14117",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-pha-nuoc-cham-pho-cuon-dam-da-ngon-de-lam-chuan-vi-14117",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nước mắm 75 ml (5 muỗng canh)",
+      "raw_name": "Nước mắm",
+      "quantity": 75,
+      "unit": "ml",
+      "note": "5 muỗng canh",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tỏi 3 tép",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt sừng 1 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt hiểm 2 trái",
+      "raw_name": "Ớt hiểm",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chanh 1 trái",
+      "raw_name": "Chanh",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 60 gr (4 muỗng canh)",
+      "raw_name": "Đường",
+      "quantity": 60,
+      "unit": "gr",
+      "note": "4 muỗng canh",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:38:03Z",
+  "page_title": "2 cách pha nước chấm phở cuốn đậm đà ngon dễ làm chuẩn vị",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/nuoc-mam-toi-ot-chua-ngot-thumbnail.jpg"
+}

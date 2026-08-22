@@ -1,0 +1,103 @@
+{
+  "source_id": "04390",
+  "name": "Bánh quy - Cookie chanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/329d6e6320a93dda.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-quy-cookie-chanh-mem-thom-ngon-la-mieng-04390",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-quy-cookie-chanh-mem-thom-ngon-la-mieng-04390",
+  "servings_text": "Cho 3 - 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Kem phô mai 40 gr",
+      "raw_name": "Kem phô mai",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bơ lạt 30 g",
+      "raw_name": "Bơ lạt",
+      "quantity": 30,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường bột 100 gr",
+      "raw_name": "Đường bột",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Trứng gà 1 quả (50gr + - mỗi quả trứng)",
+      "raw_name": "Trứng gà",
+      "quantity": 1,
+      "unit": "quả",
+      "note": "50gr + - mỗi quả trứng",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước chanh 20 ml",
+      "raw_name": "Nước chanh",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Vỏ chanh 1 muỗng cà phê",
+      "raw_name": "Vỏ chanh",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột mì đa dụng 150 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột nở 1 muỗng cà phê (baking power)",
+      "raw_name": "Bột nở",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": "baking power",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Màu thực phẩm màu vàng 2 gr",
+      "raw_name": "Màu thực phẩm màu vàng",
+      "quantity": 2,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đường bột 50 gr (trang trí)",
+      "raw_name": "Đường bột",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "trang trí",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T19:24:44Z",
+  "page_title": "Cách làm bánh quy - Cookie chanh mềm thơm ngon, lạ miệng",
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookProduct/Webp.net-resizeimage(23)-1200x676.jpg"
+}

@@ -1,0 +1,97 @@
+{
+  "source_id": "10024",
+  "name": "Bún gạo lứt xào tôm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a374070acb92202b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-bun-gao-lut-xao-thom-ngon-don-gian-cho-bua-sang-du-10024",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-bun-gao-lut-xao-thom-ngon-don-gian-cho-bua-sang-du-10024",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cải thìa 200 gr",
+      "raw_name": "Cải thìa",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tôm 100 gr",
+      "raw_name": "Tôm",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu hũ phô mai 100 gr (hoặc đậu hũ thường)",
+      "raw_name": "Đậu hũ phô mai",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "hoặc đậu hũ thường",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mực viên 150 gr",
+      "raw_name": "Mực viên",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành lá 3 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 2 tép",
+      "raw_name": "Tỏi 2 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hạt nêm/ tiêu 1 ít",
+      "raw_name": "Hạt nêm/ tiêu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:11:50Z",
+  "page_title": "4 cách làm bún gạo lứt xào thơm ngon đơn giản cho bữa sáng đủ chất",
+  "variant_index": 3,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/bun-gao-lut-xao-tom-thumbnail-1.jpg"
+}

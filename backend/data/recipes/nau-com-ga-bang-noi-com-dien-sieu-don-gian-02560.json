@@ -1,0 +1,127 @@
+{
+  "source_id": "02560",
+  "name": "Cơm gà",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/69ebf7ad949670a8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/nau-com-ga-bang-noi-com-dien-sieu-don-gian-02560",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/nau-com-ga-bang-noi-com-dien-sieu-don-gian-02560",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt gà 400 gr",
+      "raw_name": "Thịt gà",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gạo 300 gr",
+      "raw_name": "Gạo",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước vo gạo 360 ml",
+      "raw_name": "Nước vo gạo",
+      "quantity": 360,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước cốt chanh 1 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cải bẹ xanh 200 gr",
+      "raw_name": "Cải bẹ xanh",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành lá 4 nhánh (cọng lớn)",
+      "raw_name": "Hành lá",
+      "quantity": 4,
+      "unit": "nhánh",
+      "note": "cọng lớn",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tiêu trắng 3 gr",
+      "raw_name": "Tiêu trắng",
+      "quantity": 3,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rượu Thiệu Hưng 2 muỗng canh (rượu Shao Xing)",
+      "raw_name": "Rượu Thiệu Hưng",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "rượu Shao Xing",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bột bắp 1 muỗng cà phê",
+      "raw_name": "Bột bắp",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu mè 2 muỗng cà phê",
+      "raw_name": "Dầu mè",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gừng cắt lát 15 gr",
+      "raw_name": "Gừng cắt lát",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Tỏi đập 2 củ",
+      "raw_name": "Tỏi đập",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T18:12:23Z",
+  "page_title": "Nấu cơm gà bằng nồi cơm điện siêu đơn giản siêu tiết kiệm thời gian",
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookProduct/40-1200x676-2.jpg"
+}

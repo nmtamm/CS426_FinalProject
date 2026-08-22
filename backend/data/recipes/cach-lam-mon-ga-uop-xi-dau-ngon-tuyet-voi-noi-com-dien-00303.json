@@ -1,0 +1,75 @@
+{
+  "source_id": "00303",
+  "name": "Gà ướp xì dầu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/aff9611da5c4e855.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-ga-uop-xi-dau-ngon-tuyet-voi-noi-com-dien-00303",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mon-ga-uop-xi-dau-ngon-tuyet-voi-noi-com-dien-00303",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà miếng bỏ da và xương 200 gr",
+      "raw_name": "Gà miếng bỏ da và xương",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xì dầu 100 ml",
+      "raw_name": "Xì dầu",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 50 gr",
+      "raw_name": "Đường",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu vừng 20 ml",
+      "raw_name": "Dầu vừng",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi băm nhuyễn 50 gr",
+      "raw_name": "Tỏi băm nhuyễn",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gừng tươi băm nhuyễn 50 gr",
+      "raw_name": "Gừng tươi băm nhuyễn",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành lá băm nhuyễn 50 gr",
+      "raw_name": "Hành lá băm nhuyễn",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:20:08Z",
+  "page_title": "Cách làm món gà ướp xì dầu ngon tuyệt với nồi cơm điện",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2014/06/16/549746/cach-lam-mon-ga-uop-xi-dau5-600x400.jpg"
+}

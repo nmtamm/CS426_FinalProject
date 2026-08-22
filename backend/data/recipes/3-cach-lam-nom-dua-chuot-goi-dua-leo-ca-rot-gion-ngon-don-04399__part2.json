@@ -1,0 +1,105 @@
+{
+  "source_id": "04399",
+  "name": "Gỏi dưa leo cà rốt sợi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ff1dc5ef2d6822e0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nom-dua-chuot-goi-dua-leo-ca-rot-gion-ngon-don-04399",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-nom-dua-chuot-goi-dua-leo-ca-rot-gion-ngon-don-04399",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    },
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa leo 5 quả",
+      "raw_name": "Dưa leo",
+      "quantity": 5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 1 quả",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi băm 10 gr",
+      "raw_name": "Tỏi băm",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt băm 10 gr",
+      "raw_name": "Ớt băm",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đậu phộng rang giã nhuyễn 20 gr",
+      "raw_name": "Đậu phộng rang giã nhuyễn",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước cốt chanh 2 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 1.5 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng cà phê",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Rau thơm 20 gr (rau kinh giới/rau răm/...)",
+      "raw_name": "Rau thơm",
+      "quantity": 20,
+      "unit": "gr",
+      "note": "rau kinh giới/rau răm/...",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T17:58:22Z",
+  "page_title": "3 cách làm nộm dưa chuột - gỏi dưa leo cà rốt giòn ngon, đơn giản",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/goi-dua-leo-ca-rot-soi-thumbnail.jpg"
+}

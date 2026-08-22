@@ -1,0 +1,94 @@
+{
+  "source_id": "02125",
+  "name": "Gỏi đu đủ Thái chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f7ed6b8ad2dfb128.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-du-du-chay-goi-du-du-thai-chay-gio-02125",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-du-du-chay-goi-du-du-thai-chay-gio-02125",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đu đủ xanh 500 gram",
+      "raw_name": "Đu đủ xanh 500 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu đũa 100 gram",
+      "raw_name": "Đậu đũa 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà chua 70 gram",
+      "raw_name": "Cà chua 70 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Chanh 1/2 trái",
+      "raw_name": "Chanh",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ngò gai 2 cây",
+      "raw_name": "Ngò gai",
+      "quantity": 2,
+      "unit": "cây",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước cốt chanh 15 ml",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 15,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước mắm chay 15 ml",
+      "raw_name": "Nước mắm chay",
+      "quantity": 15,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Mắm nêm chay 20 ml",
+      "raw_name": "Mắm nêm chay",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường thốt nốt 15 gram",
+      "raw_name": "Đường thốt nốt 15 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:40:54Z",
+  "page_title": "3 cách làm gỏi đu đủ chay, gỏi đu đủ Thái chay giòn ngon",
+  "variant_index": 3,
+  "variant_count": 3,
+  "note": "Công thức được chia sẻ bởi Tiktok Bếp chay XANH",
+  "original_image_url": "https://cdn.tgdd.vn/2024/01/CookRecipe/Avatar/goi-du-du-thai-chay-cong-thuc-duoc-chia-se-boi-tiktok-bep-chay-xanh-thumbnail.jpg"
+}

@@ -1,0 +1,61 @@
+{
+  "source_id": "23342",
+  "name": "Kem cheese mặn từ kem pha chế",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/a55bfd7613ec5aa5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-kem-cheese-man-cho-cac-mon-nuoc-mon-tra-sua-voi-23342",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-kem-cheese-man-cho-cac-mon-nuoc-mon-tra-sua-voi-23342",
+  "servings_text": "Cho Khoảng 350gr kem cheese",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Kem béo thực vật 100 gr (Rich)",
+      "raw_name": "Kem béo thực vật",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "Rich",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Kem pha chế Topping 100 gr (Icehot Beverage Topping)",
+      "raw_name": "Kem pha chế Topping",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "Icehot Beverage Topping",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa tươi không đường 100 gr (Vinamilk)",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "Vinamilk",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa đặc 50 gr (Ngôi Sao Phương Nam)",
+      "raw_name": "Sữa đặc",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "Ngôi Sao Phương Nam",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:49:05Z",
+  "page_title": "2 cách làm kem cheese mặn cho các món nước, món trà sữa với máy đánh trứng",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2025/10/CookRecipe/Avatar/kem-cheese-man-tu-kem-pha-che-thumbnail.jpg"
+}

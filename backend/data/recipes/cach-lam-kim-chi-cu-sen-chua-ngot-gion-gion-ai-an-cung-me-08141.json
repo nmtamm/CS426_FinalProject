@@ -1,0 +1,99 @@
+{
+  "source_id": "08141",
+  "name": "Kim chi củ sen",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ea193b48b6bf4c78.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kim-chi-cu-sen-chua-ngot-gion-gion-ai-an-cung-me-08141",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kim-chi-cu-sen-chua-ngot-gion-gion-ai-an-cung-me-08141",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Củ sen 400 gr",
+      "raw_name": "Củ sen",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ngó sen 300 gr",
+      "raw_name": "Ngó sen",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rau muống 150 gr (lấy cọng)",
+      "raw_name": "Rau muống",
+      "quantity": 150,
+      "unit": "gr",
+      "note": "lấy cọng",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 150 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt 5 trái",
+      "raw_name": "Ớt",
+      "quantity": 5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Giấm 165 ml",
+      "raw_name": "Giấm",
+      "quantity": 165,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước mắm 3 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường 300 gr",
+      "raw_name": "Đường",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T19:42:39Z",
+  "page_title": "Cách làm kim chi củ sen chua ngọt giòn giòn ai ăn cũng mê",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/thumb-1200x675.jpg"
+}

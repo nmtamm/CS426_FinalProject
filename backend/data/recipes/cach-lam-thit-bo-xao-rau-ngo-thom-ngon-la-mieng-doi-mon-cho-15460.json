@@ -1,0 +1,87 @@
+{
+  "source_id": "15460",
+  "name": "Thịt bò xào rau ngổ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ded9f794f0891760.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-bo-xao-rau-ngo-thom-ngon-la-mieng-doi-mon-cho-15460",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-bo-xao-rau-ngo-thom-ngon-la-mieng-doi-mon-cho-15460",
+  "servings_text": "Cho 5 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò 600 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 600,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rau ngổ 500 gr (rau om)",
+      "raw_name": "Rau ngổ",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "rau om",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tím 4 củ",
+      "raw_name": "Hành tím",
+      "quantity": 4,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 4 tép",
+      "raw_name": "Tỏi 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước tương 2 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu hào 1 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Giấm 2 muỗng canh (dấm)",
+      "raw_name": "Giấm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "dấm",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:28:07Z",
+  "page_title": "Cách làm thịt bò xào rau ngổ thơm ngon lạ miệng đổi món cho cả nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookDish/cach-lam-thit-bo-xao-rau-ngo-thom-ngon-la-mieng-doi-mon-cho-avt-1200x676.jpg"
+}

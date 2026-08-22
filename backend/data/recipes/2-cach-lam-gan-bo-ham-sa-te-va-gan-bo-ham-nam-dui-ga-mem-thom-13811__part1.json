@@ -1,0 +1,133 @@
+{
+  "source_id": "13811",
+  "name": "Gân bò hầm sa tế",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/421bef0cef0d01bb.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-gan-bo-ham-sa-te-va-gan-bo-ham-nam-dui-ga-mem-thom-13811",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-gan-bo-ham-sa-te-va-gan-bo-ham-nam-dui-ga-mem-thom-13811",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gân bò 1 kg",
+      "raw_name": "Gân bò",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tím 4 củ",
+      "raw_name": "Hành tím",
+      "quantity": 4,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 5 tép",
+      "raw_name": "Tỏi 5 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt 3 quả",
+      "raw_name": "Ớt",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Sả 5 cây",
+      "raw_name": "Sả",
+      "quantity": 5,
+      "unit": "cây",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ngò gai 5 nhánh",
+      "raw_name": "Ngò gai",
+      "quantity": 5,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Rau ngổ 3 nhánh",
+      "raw_name": "Rau ngổ",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Sa tế 3 muỗng canh",
+      "raw_name": "Sa tế",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị ướp bò 3 muỗng cà phê",
+      "raw_name": "Gia vị ướp bò",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước mắm 5 muỗng cà phê",
+      "raw_name": "Nước mắm",
+      "quantity": 5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Tiêu xay/ đường/ bột ngọt/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Tiêu xay/ đường/ bột ngọt/ hạt nêm",
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T18:29:31Z",
+  "page_title": "2 cách làm gân bò hầm sa tế và gân bò hầm nấm đùi gà mềm thơm và đậm vị",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/gan-bo-ham-sa-te-thumbnail.jpg"
+}

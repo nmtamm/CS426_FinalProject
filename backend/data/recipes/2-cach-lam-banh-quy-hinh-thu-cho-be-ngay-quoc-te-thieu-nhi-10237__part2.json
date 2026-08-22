@@ -1,0 +1,62 @@
+{
+  "source_id": "10237",
+  "name": "Bánh quy phô mai hình thú",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/97a086a2edb15370.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-quy-hinh-thu-cho-be-ngay-quoc-te-thieu-nhi-10237",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-banh-quy-hinh-thu-cho-be-ngay-quoc-te-thieu-nhi-10237",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì đa dụng 150 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bơ lạt 80 gr (để mềm)",
+      "raw_name": "Bơ lạt",
+      "quantity": 80,
+      "unit": "gr",
+      "note": "để mềm",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Phô mai viên loại mềm 4 cái (hoặc 1 viên lớn 15 gr)",
+      "raw_name": "Phô mai viên loại mềm",
+      "quantity": 4,
+      "unit": "cái",
+      "note": "hoặc 1 viên lớn 15 gr",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Lòng đỏ trứng 1 cái",
+      "raw_name": "Lòng đỏ trứng",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường bột 30 gr",
+      "raw_name": "Đường bột",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:42:31Z",
+  "page_title": "2 cách làm bánh quy hình thú cho bé ngày Quốc tế thiếu nhi",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": null,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/banh-quy-pho-mai-hinh-thu-thumbnail.jpg"
+}

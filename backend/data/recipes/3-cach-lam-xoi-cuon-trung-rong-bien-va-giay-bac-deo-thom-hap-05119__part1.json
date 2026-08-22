@@ -1,0 +1,137 @@
+{
+  "source_id": "05119",
+  "name": "Xôi cuộn trứng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/cb0395daf8cf7fd8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-xoi-cuon-trung-rong-bien-va-giay-bac-deo-thom-hap-05119",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-xoi-cuon-trung-rong-bien-va-giay-bac-deo-thom-hap-05119",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gạo nếp 225 gr",
+      "raw_name": "Gạo nếp",
+      "quantity": 225,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước 200 ml",
+      "raw_name": "Nước",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dầu tỏi phi 10 ml",
+      "raw_name": "Dầu tỏi phi",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước tương 1 muỗng cà phê",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lạp xưởng 100 gr",
+      "raw_name": "Lạp xưởng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước bột bắp 20 ml (pha loãng)",
+      "raw_name": "Nước bột bắp",
+      "quantity": 20,
+      "unit": "ml",
+      "note": "pha loãng",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước mắm 1 muỗng cà phê",
+      "raw_name": "Nước mắm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Mỡ hành 20 gr",
+      "raw_name": "Mỡ hành",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Chà bông 100 gr",
+      "raw_name": "Chà bông",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Gia vị 1 ít (đường/ muối/ tiêu xay)",
+      "raw_name": "Gia vị",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ muối/ tiêu xay",
+      "display_order": 12
+    },
+    {
+      "raw_text": "Mè rang 10 gr",
+      "raw_name": "Mè rang",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Đậu phộng rang 20 gr",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T20:38:22Z",
+  "page_title": "3 cách làm xôi cuộn trứng, rong biển và giấy bạc dẻo thơm, hấp dẫn",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookRecipe/Avatar/xoi-cuon-trung-thumbnail-1.jpg"
+}

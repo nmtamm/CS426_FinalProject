@@ -1,0 +1,127 @@
+{
+  "source_id": "04307",
+  "name": "Mì Udon sốt bơ đậu phộng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6c0d762ebe395d38.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-mi-udon-sot-bo-dau-phong-beo-ngon-hap-dan-doi-vi-04307",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-mi-udon-sot-bo-dau-phong-beo-ngon-hap-dan-doi-vi-04307",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mì Udon 400 gr",
+      "raw_name": "Mì Udon",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu hũ viên chiên 100 gr",
+      "raw_name": "Đậu hũ viên chiên",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bơ đậu phộng 5 muỗng canh",
+      "raw_name": "Bơ đậu phộng",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Xì dầu 2 muỗng canh",
+      "raw_name": "Xì dầu",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu mè 2 muỗng cà phê",
+      "raw_name": "Dầu mè",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt bột 1 muỗng cà phê",
+      "raw_name": "Ớt bột",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tiêu 1 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gừng tươi 1 nhánh (hoặc 2 muỗng cà phê bột gừng)",
+      "raw_name": "Gừng tươi",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": "hoặc 2 muỗng cà phê bột gừng",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hành boa rô 1 nhánh",
+      "raw_name": "Hành boa rô",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Mè rang 1 muỗng canh",
+      "raw_name": "Mè rang",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Ớt sừng 1 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Đậu phộng rang giã nhuyễn 1 muỗng canh",
+      "raw_name": "Đậu phộng rang giã nhuyễn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Giấm gạo 1 muỗng canh",
+      "raw_name": "Giấm gạo",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T20:34:01Z",
+  "page_title": "Cách nấu mì Udon sốt bơ đậu phộng béo ngon, hấp dẫn đổi vị cuối tuần",
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookProduct/1200-1200x676-20.jpg"
+}

@@ -1,0 +1,87 @@
+{
+  "source_id": "03949",
+  "name": "Dưa leo xào thịt gà",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/90505281e66709de.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dua-leo-xao-thit-ga-don-gian-hap-dan-cuc-dam-da-03949",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-dua-leo-xao-thit-ga-don-gian-hap-dan-cuc-dam-da-03949",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-xao",
+      "name": "Món xào"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt gà 50 gram (1/2 con)",
+      "raw_name": "Thịt gà 50 gram",
+      "quantity": null,
+      "unit": null,
+      "note": "1/2 con",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dưa leo 2 quả",
+      "raw_name": "Dưa leo",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành lá 30 gram",
+      "raw_name": "Hành lá 30 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt sừng 1 quả",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi tây 30 gram",
+      "raw_name": "Tỏi tây 30 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tây 1/2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gừng 1 củ (nhỏ)",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "nhỏ",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:10:14Z",
+  "page_title": "Cách làm dưa leo xào thịt gà đơn giản, hấp dẫn cực đậm đà",
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookProduct/thumbcn-1200x676-15.jpg"
+}

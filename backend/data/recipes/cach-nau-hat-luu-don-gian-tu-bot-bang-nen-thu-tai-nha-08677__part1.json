@@ -1,0 +1,65 @@
+{
+  "source_id": "08677",
+  "name": "Hạt lựu từ bột năng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7245315b633a3c2e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-hat-luu-don-gian-tu-bot-bang-nen-thu-tai-nha-08677",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-hat-luu-don-gian-tu-bot-bang-nen-thu-tai-nha-08677",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-che",
+      "name": "Món chè"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột năng 200 gr",
+      "raw_name": "Bột năng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Củ dền 100 gr",
+      "raw_name": "Củ dền",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước đường 1 ít",
+      "raw_name": "Nước đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước đá 800 ml",
+      "raw_name": "Nước đá",
+      "quantity": 800,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước lọc 1.5 lít",
+      "raw_name": "Nước lọc 1.5 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:21:39Z",
+  "page_title": "2 cách làm hạt lựu từ bột năng và bột báng nấu chè giòn ngon cực đơn giản",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/hat-luu-tu-bot-nang-thumbnail.jpg"
+}

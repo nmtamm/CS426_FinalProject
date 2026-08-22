@@ -1,0 +1,63 @@
+{
+  "source_id": "11197",
+  "name": "Thạch rau câu trứng gà luộc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/17289b3d54d3937f.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thach-rau-cau-trung-ga-luoc-dep-mat-don-gian-de-lam-11197",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thach-rau-cau-trung-ga-luoc-dep-mat-don-gian-de-lam-11197",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột rau câu 5 gr",
+      "raw_name": "Bột rau câu",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu xanh 50 gr (đã bóc vỏ)",
+      "raw_name": "Đậu xanh",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "đã bóc vỏ",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Vỏ trứng gà 8 cái",
+      "raw_name": "Vỏ trứng gà",
+      "quantity": 8,
+      "unit": "cái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa đặc 2 muỗng canh",
+      "raw_name": "Sữa đặc",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 60 gr",
+      "raw_name": "Đường",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:15:48Z",
+  "page_title": "Cách làm thạch rau câu trứng gà luộc đẹp mắt, đơn giản dễ làm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookProduct/thum-1-1200x676-21.jpg"
+}

@@ -1,0 +1,95 @@
+{
+  "source_id": "23233",
+  "name": "Bánh cam mặn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/c204279c7b6943ac.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-cam-man-mien-tay-gion-xop-cang-an-cang-ghien-23233",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-cam-man-mien-tay-gion-xop-cang-an-cang-ghien-23233",
+  "servings_text": "Cho 10 - 12 cái bánh",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-banh",
+      "name": "Món bánh"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột nếp 300 gr",
+      "raw_name": "Bột nếp",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Khoai tây 1 củ (luộc chín)",
+      "raw_name": "Khoai tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "luộc chín",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Thịt băm 200 gr",
+      "raw_name": "Thịt băm",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Củ sắn 70 gr (củ đậu)",
+      "raw_name": "Củ sắn",
+      "quantity": 70,
+      "unit": "gr",
+      "note": "củ đậu",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cà rốt 30 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nấm mèo 30 gr",
+      "raw_name": "Nấm mèo",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành lá/ tỏi băm/ hành tím băm 1 ít",
+      "raw_name": "Hành lá/ tỏi băm/ hành tím băm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Mỡ hoặc dầu ăn 1 ít",
+      "raw_name": "Mỡ hoặc dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ muối/ bột ngọt/ hạt nêm/ tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ muối/ bột ngọt/ hạt nêm/ tiêu",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T18:56:24Z",
+  "page_title": "Cách làm bánh cam mặn miền Tây giòn xốp, càng ăn càng ghiền với chảo nhôm",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20thumb%20to%20t9%20%283%29.jpg"
+}

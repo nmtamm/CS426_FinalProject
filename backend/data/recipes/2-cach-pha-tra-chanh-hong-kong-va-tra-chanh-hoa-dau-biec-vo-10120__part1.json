@@ -1,0 +1,77 @@
+{
+  "source_id": "10120",
+  "name": "Trà chanh hong kong",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/07384f8f087e7b11.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-pha-tra-chanh-hong-kong-va-tra-chanh-hoa-dau-biec-vo-10120",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-pha-tra-chanh-hong-kong-va-tra-chanh-hoa-dau-biec-vo-10120",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà đen 4 muỗng canh",
+      "raw_name": "Trà đen",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước cốt chanh 1.5 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chanh 3 lát",
+      "raw_name": "Chanh 3 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường phèn 100 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Mật ong 2 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước đường 1.5 muỗng canh",
+      "raw_name": "Nước đường",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Trân châu giòn 2 muỗng canh",
+      "raw_name": "Trân châu giòn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:05:39Z",
+  "page_title": "2 cách pha trà chanh hong kong và trà chanh hoa đậu biếc vô cùng thơm mát",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/tra-chanh-hong-kong-thumbnail.jpg"
+}

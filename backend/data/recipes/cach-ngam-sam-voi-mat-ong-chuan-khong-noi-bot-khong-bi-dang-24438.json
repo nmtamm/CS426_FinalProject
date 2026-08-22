@@ -1,0 +1,35 @@
+{
+  "source_id": "24438",
+  "name": "Cách ngâm sâm với mật ong",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7f7a2f4899933a68.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-ngam-sam-voi-mat-ong-chuan-khong-noi-bot-khong-bi-dang-24438",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-ngam-sam-voi-mat-ong-chuan-khong-noi-bot-khong-bi-dang-24438",
+  "servings_text": "Cho 1 hũ thành phẩm",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mật ong 600 gr",
+      "raw_name": "Mật ong",
+      "quantity": 600,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nhân sâm 400 gr",
+      "raw_name": "Nhân sâm",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T19:46:10Z",
+  "page_title": "Cách ngâm sâm với mật ong chuẩn, không nổi bọt, không bị đắng cực đơn giản",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Ca%CC%81ch%20nga%CC%82m%20sa%CC%82m%20vo%CC%9B%CC%81i%20ma%CC%A3%CC%82t%20ong%20tl1.jpg"
+}

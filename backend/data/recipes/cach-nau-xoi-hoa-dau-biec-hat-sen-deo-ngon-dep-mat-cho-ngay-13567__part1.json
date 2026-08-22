@@ -1,0 +1,69 @@
+{
+  "source_id": "13567",
+  "name": "Xôi hoa đậu biếc hạt sen",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/70a7e96bc1a5889e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-xoi-hoa-dau-biec-hat-sen-deo-ngon-dep-mat-cho-ngay-13567",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-xoi-hoa-dau-biec-hat-sen-deo-ngon-dep-mat-cho-ngay-13567",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gạo nếp 500 gr",
+      "raw_name": "Gạo nếp",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hạt sen 100 gr",
+      "raw_name": "Hạt sen",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hoa đậu biếc 5 gr",
+      "raw_name": "Hoa đậu biếc",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cánh hoa sen 1 ít",
+      "raw_name": "Cánh hoa sen",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ruốc 1 ít",
+      "raw_name": "Ruốc",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 1/3 muỗng canh",
+      "raw_name": "Muối",
+      "quantity": 0.333,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:34:56Z",
+  "page_title": "2 cách nấu xôi hoa đậu biếc hạt sen dẻo ngon đẹp mắt cực đơn giản",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/xoi-hoa-dau-biec-hat-sen-thumbnail.jpg"
+}

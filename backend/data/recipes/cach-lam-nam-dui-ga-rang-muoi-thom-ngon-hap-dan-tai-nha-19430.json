@@ -1,0 +1,115 @@
+{
+  "source_id": "19430",
+  "name": "Nấm đùi gà rang muối",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ed549a67a7a7188e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nam-dui-ga-rang-muoi-thom-ngon-hap-dan-tai-nha-19430",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nam-dui-ga-rang-muoi-thom-ngon-hap-dan-tai-nha-19430",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nấm đùi gà mini 200 gram",
+      "raw_name": "Nấm đùi gà mini 200 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột chiên giòn 3 muỗng canh",
+      "raw_name": "Bột chiên giòn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sả xé mỏng 2 cây",
+      "raw_name": "Sả xé mỏng",
+      "quantity": 2,
+      "unit": "cây",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Ớt sừng 7 lát",
+      "raw_name": "Ớt sừng 7 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Húng quế 6 lá",
+      "raw_name": "Húng quế",
+      "quantity": 6,
+      "unit": "lá",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đậu xanh rang 1 muỗng cà phê",
+      "raw_name": "Đậu xanh rang",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nếp rang 1 muỗng cà phê",
+      "raw_name": "Nếp rang",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hạt nêm 1 muỗng cà phê",
+      "raw_name": "Hạt nêm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tiêu 1/4 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đường 2 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Bánh phồng chay 4 miếng",
+      "raw_name": "Bánh phồng chay 4 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Muối 2/4 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T18:37:08Z",
+  "page_title": "Cách làm nấm đùi gà rang muối thơm ngon, hẫp dẫn tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2023/05/CookDish/cach-lam-nam-dui-ga-rang-muoi-thom-ngon-hap-dan-tai-nha-avt-1200x676.jpg"
+}

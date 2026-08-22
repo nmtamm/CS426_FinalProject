@@ -1,0 +1,173 @@
+{
+  "source_id": "10376",
+  "name": "Gỏi lưỡi heo kiệu chua",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/288ad7e29cf9c9e2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-luoi-heo-chua-cay-va-kieu-chua-gion-ngon-hap-10376",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-goi-luoi-heo-chua-cay-va-kieu-chua-gion-ngon-hap-10376",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lưỡi heo 1 cái (khoảng 400gr)",
+      "raw_name": "Lưỡi heo",
+      "quantity": 1,
+      "unit": "cái",
+      "note": "khoảng 400gr",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Kiệu chua 150 gr",
+      "raw_name": "Kiệu chua",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ngó sen 100 gr",
+      "raw_name": "Ngó sen",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 1/2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 0.5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dưa leo 1 trái",
+      "raw_name": "Dưa leo",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sả 3 cây",
+      "raw_name": "Sả",
+      "quantity": 3,
+      "unit": "cây",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tím 1 củ",
+      "raw_name": "Hành tím",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tỏi 2 củ",
+      "raw_name": "Tỏi",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ớt 1 trái",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước dừa tươi 1 chén",
+      "raw_name": "Nước dừa tươi",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Giấm gạo 2 muỗng canh",
+      "raw_name": "Giấm gạo",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước cốt chanh 4 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Đường 3 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Muối 2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Nước tương 1 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Sốt mayonnaise 3 muỗng canh",
+      "raw_name": "Sốt mayonnaise",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 17
+    },
+    {
+      "raw_text": "Rau húng lủi/ rau răm 1 ít",
+      "raw_name": "Rau húng lủi/ rau răm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 18
+    },
+    {
+      "raw_text": "Hành tím phi/ mè rang 1 ít",
+      "raw_name": "Hành tím phi/ mè rang",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 19
+    }
+  ],
+  "scraped_at": "2026-08-19T17:57:54Z",
+  "page_title": "2 cách làm gỏi lưỡi heo chua cay và kiệu chua giòn ngon hấp dẫn đơn giản",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/goi-luoi-heo-kieu-chua-thumbnail.jpg"
+}

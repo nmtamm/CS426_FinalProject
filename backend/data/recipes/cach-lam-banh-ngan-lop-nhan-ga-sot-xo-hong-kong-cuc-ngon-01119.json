@@ -1,0 +1,99 @@
+{
+  "source_id": "01119",
+  "name": "Bánh ngàn lớp​ nhân gà sốt XO Hồng Kông",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/41f0e218fa9cc245.png",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-ngan-lop-nhan-ga-sot-xo-hong-kong-cuc-ngon-01119",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-ngan-lop-nhan-ga-sot-xo-hong-kong-cuc-ngon-01119",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột bánh ngàn lớp - puff pastry 1 gói (tìm mua ở siêu thị hoặc có hướng dẫn cách làm ở cuối bài)",
+      "raw_name": "Bột bánh ngàn lớp - puff pastry",
+      "quantity": 1,
+      "unit": "gói",
+      "note": "tìm mua ở siêu thị hoặc có hướng dẫn cách làm ở cuối bài",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ức gà 200 gr",
+      "raw_name": "Ức gà",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tây cắt nhỏ 1/4 củ",
+      "raw_name": "Hành tây cắt nhỏ",
+      "quantity": 0.25,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Xì dầu 2 muỗng canh",
+      "raw_name": "Xì dầu",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Trứng đánh tan 1 quả",
+      "raw_name": "Trứng đánh tan",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước tương 1 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 1 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột bắp 1 muỗng cà phê",
+      "raw_name": "Bột bắp",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Sốt XO 1 muỗng canh (tìm mua ở siêu thị hoặc có hướng dẫn cách làm ở cuối bài)",
+      "raw_name": "Sốt XO",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "tìm mua ở siêu thị hoặc có hướng dẫn cách làm ở cuối bài",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T18:19:55Z",
+  "page_title": "Cách làm bánh ngàn lớp nhân gà sốt XO Hồng Kông cực ngon",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2018/10/05/1122428/chi-tiet-cach-lam-banh-ngan-lop-ga-sot-xo-hong-kong-cuc-ngon-760x367.png"
+}

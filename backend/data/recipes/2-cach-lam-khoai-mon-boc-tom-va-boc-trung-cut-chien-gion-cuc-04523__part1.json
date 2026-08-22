@@ -1,0 +1,73 @@
+{
+  "source_id": "04523",
+  "name": "Khoai môn bọc tôm chiên",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1ed7ca28505c971c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-khoai-mon-boc-tom-va-boc-trung-cut-chien-gion-cuc-04523",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-khoai-mon-boc-tom-va-boc-trung-cut-chien-gion-cuc-04523",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Khoai môn 150 g",
+      "raw_name": "Khoai môn",
+      "quantity": 150,
+      "unit": "g",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột mì 50 g",
+      "raw_name": "Bột mì",
+      "quantity": 50,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng gà 1 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tôm 150 g",
+      "raw_name": "Tôm",
+      "quantity": 150,
+      "unit": "g",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tiêu 1/2 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hạt nêm 1 muỗng cà phê",
+      "raw_name": "Hạt nêm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:24:33Z",
+  "page_title": "2 cách làm khoai môn bọc tôm và bọc trứng cút chiên giòn cực ngon",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/khoai-mon-boc-tom-chien-thumbnail.jpg"
+}

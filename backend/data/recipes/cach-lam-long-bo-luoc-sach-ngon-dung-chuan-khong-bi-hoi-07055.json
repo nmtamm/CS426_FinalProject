@@ -1,0 +1,83 @@
+{
+  "source_id": "07055",
+  "name": "Lòng bò luộc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/92004cb608686763.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-long-bo-luoc-sach-ngon-dung-chuan-khong-bi-hoi-07055",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-long-bo-luoc-sach-ngon-dung-chuan-khong-bi-hoi-07055",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lòng bò 1 kg",
+      "raw_name": "Lòng bò",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đu đủ non 1 trái",
+      "raw_name": "Đu đủ non",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gừng 2 củ",
+      "raw_name": "Gừng",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tắc 4 trái",
+      "raw_name": "Tắc",
+      "quantity": 4,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Khóm 1/2 trái (dứa)",
+      "raw_name": "Khóm",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": "dứa",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Sả 1/2 cây",
+      "raw_name": "Sả",
+      "quantity": 0.5,
+      "unit": "cây",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Mắm nêm 2 muỗng canh",
+      "raw_name": "Mắm nêm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ đường/ bột ngọt/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ đường/ bột ngọt/ hạt nêm",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:31:04Z",
+  "page_title": "Cách làm lòng bò luộc sạch ngon đúng chuẩn, không bị hôi",
+  "original_image_url": "https://cdn.tgdd.vn/2021/01/CookProduct/1-1200x676-67.jpg"
+}

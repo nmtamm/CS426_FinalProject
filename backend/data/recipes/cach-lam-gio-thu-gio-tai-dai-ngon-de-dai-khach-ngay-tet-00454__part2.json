@@ -1,0 +1,114 @@
+{
+  "source_id": "00454",
+  "name": "Giò thủ",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/49868fc5a0c09328.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-gio-thu-gio-tai-dai-ngon-de-dai-khach-ngay-tet-00454",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-gio-thu-gio-tai-dai-ngon-de-dai-khach-ngay-tet-00454",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đầu heo 1/2 cái",
+      "raw_name": "Đầu heo",
+      "quantity": 0.5,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lưỡi heo 1 cái",
+      "raw_name": "Lưỡi heo",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bắp giò heo 1 cái",
+      "raw_name": "Bắp giò heo",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tím 5 củ",
+      "raw_name": "Hành tím",
+      "quantity": 5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tím băm 50 gr",
+      "raw_name": "Hành tím băm",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi băm 4 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nấm mèo khô 10 cái",
+      "raw_name": "Nấm mèo khô",
+      "quantity": 10,
+      "unit": "cái",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước mắm 3 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tiêu hạt 1 ít",
+      "raw_name": "Tiêu hạt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Tiêu/ Đường/ Muối/ Hạt nêm/ Bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Tiêu/ Đường/ Muối/ Hạt nêm/ Bột ngọt",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T19:19:36Z",
+  "page_title": "Cách làm giò thủ, giò tai dai ngon cho những ngày dãn cách tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "công thức được chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/gio-thu-cong-thuc-duoc-chia-se-tu-nguoi-dung-thumbnail.jpg"
+}

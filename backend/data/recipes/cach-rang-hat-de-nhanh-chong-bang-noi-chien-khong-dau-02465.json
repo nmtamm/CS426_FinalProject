@@ -1,0 +1,27 @@
+{
+  "source_id": "02465",
+  "name": "Hạt dẻ nướng bằng nồi chiên không dầu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7e7f475a14362e3b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-rang-hat-de-nhanh-chong-bang-noi-chien-khong-dau-02465",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-rang-hat-de-nhanh-chong-bang-noi-chien-khong-dau-02465",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hạt dẻ tươi 500 gr",
+      "raw_name": "Hạt dẻ tươi",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    }
+  ],
+  "scraped_at": "2026-08-19T19:09:12Z",
+  "page_title": "Cách làm hạt dẻ nướng bằng nồi chiên không dầu nhanh chóng thơm ngon",
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookDish/cach-rang-hat-de-nhanh-chong-bang-noi-chien-khong-dau-avt-1200x676.jpg"
+}

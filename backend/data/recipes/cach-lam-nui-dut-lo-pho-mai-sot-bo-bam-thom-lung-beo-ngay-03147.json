@@ -1,0 +1,123 @@
+{
+  "source_id": "03147",
+  "name": "Nui đút lò phô mai sốt bò bằm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/68c29e6c409a0c3e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nui-dut-lo-pho-mai-sot-bo-bam-thom-lung-beo-ngay-03147",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nui-dut-lo-pho-mai-sot-bo-bam-thom-lung-beo-ngay-03147",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nui 200 gr",
+      "raw_name": "Nui",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt bò 250 gr (Thịt bò xay hoặc băm nhuyễn)",
+      "raw_name": "Thịt bò",
+      "quantity": 250,
+      "unit": "gr",
+      "note": "Thịt bò xay hoặc băm nhuyễn",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Phô mai 200 gr (Mozzarella)",
+      "raw_name": "Phô mai",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "Mozzarella",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột phô mai 50 gr (Parmesan)",
+      "raw_name": "Bột phô mai",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "Parmesan",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tây 50 gr",
+      "raw_name": "Hành tây",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Cần tây 50 gr",
+      "raw_name": "Cần tây",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Cà rốt 50 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tỏi 10 gr",
+      "raw_name": "Tỏi",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Cà chua 300 gr",
+      "raw_name": "Cà chua",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Sữa tươi không đường 150 ml",
+      "raw_name": "Sữa tươi không đường",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Rượu vang 100 ml 100 ml (Rượu vang đỏ)",
+      "raw_name": "Rượu vang 100 ml",
+      "quantity": 100,
+      "unit": "ml",
+      "note": "Rượu vang đỏ",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Lá nguyệt quế 2 gr (Bay leaf)",
+      "raw_name": "Lá nguyệt quế",
+      "quantity": 2,
+      "unit": "gr",
+      "note": "Bay leaf",
+      "display_order": 12
+    },
+    {
+      "raw_text": "Húng tây 10 gr (Basil)",
+      "raw_name": "Húng tây",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "Basil",
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T18:30:49Z",
+  "page_title": "Cách làm nui đút lò phô mai sốt bò bằm thơm lừng, béo ngậy cực dễ làm",
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookProduct/Untitled-1-1200x676-1.jpg"
+}

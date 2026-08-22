@@ -1,0 +1,47 @@
+{
+  "source_id": "16878",
+  "name": "Trân châu milo bằng bột năng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/971107d77a31790a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tran-chau-milo-bang-bot-nang-deo-ngot-la-vi-16878",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tran-chau-milo-bang-bot-nang-deo-ngot-la-vi-16878",
+  "servings_text": "Cho 2 ly",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "meo-vao-bep",
+      "name": "Mẹo vào bếp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột năng 200 gr",
+      "raw_name": "Bột năng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Milo bột 20 gr",
+      "raw_name": "Milo bột",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:11:32Z",
+  "page_title": "Cách làm trân châu milo bằng bột năng dẻo ngọt, lạ vị, cực đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/2022/03/CookDish/cach-lam-tran-chau-milo-bang-bot-nang-deo-ngot-la-vi-cuc-don-avt-1200x676.jpg"
+}

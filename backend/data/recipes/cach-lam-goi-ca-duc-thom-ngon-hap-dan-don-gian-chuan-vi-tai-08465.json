@@ -1,0 +1,147 @@
+{
+  "source_id": "08465",
+  "name": "Gỏi cá đục",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d3e98ef75e9da1c1.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-ca-duc-thom-ngon-hap-dan-don-gian-chuan-vi-tai-08465",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-goi-ca-duc-thom-ngon-hap-dan-don-gian-chuan-vi-tai-08465",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cá đục 1 kg",
+      "raw_name": "Cá đục",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lòng đỏ trứng gà 1 cái",
+      "raw_name": "Lòng đỏ trứng gà",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà chua 5 trái",
+      "raw_name": "Cà chua",
+      "quantity": 5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Xoài non 1 trái",
+      "raw_name": "Xoài non",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tây 2 củ",
+      "raw_name": "Hành tây",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Thơm 1/4 trái (dứa)",
+      "raw_name": "Thơm",
+      "quantity": 0.25,
+      "unit": "trái",
+      "note": "dứa",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành tím băm 1 muỗng canh",
+      "raw_name": "Hành tím băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đậu phộng rang 5 muỗng canh (giã dập)",
+      "raw_name": "Đậu phộng rang",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": "giã dập",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Đậu phộng 1 muỗng canh (giã nhuyễn)",
+      "raw_name": "Đậu phộng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": "giã nhuyễn",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Ớt bột 1 muỗng canh",
+      "raw_name": "Ớt bột",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước cốt chanh 250 ml",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 250,
+      "unit": "ml",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/ bột ngọt/ hạt nêm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/ bột ngọt/ hạt nêm",
+      "display_order": 15
+    },
+    {
+      "raw_text": "Rau ăn kèm 200 gr (xà lách/ tía tô/ lá sung/ lá đinh lăng/ dưa leo/ khế chua/ rau thơm/...)",
+      "raw_name": "Rau ăn kèm",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "xà lách/ tía tô/ lá sung/ lá đinh lăng/ dưa leo/ khế chua/ rau thơm/...",
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T17:54:59Z",
+  "page_title": "Cách làm gỏi cá đục thơm ngon hấp dẫn đơn giản chuẩn vị tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/goicaduc-1200x676.jpg"
+}

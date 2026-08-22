@@ -1,0 +1,109 @@
+{
+  "source_id": "13099",
+  "name": "Bánh Trung Thu ngàn lớp nhân xôi xéo thịt kho",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5be5fb33e2b94d47.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-nhan-xoi-xeo-thit-kho-dam-da-thom-13099",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-trung-thu-nhan-xoi-xeo-thit-kho-dam-da-thom-13099",
+  "servings_text": "Cho 8 cái bánh",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì đa dụng 385 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 385,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đậu xanh 150 gr",
+      "raw_name": "Đậu xanh",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chà bông 50 gr",
+      "raw_name": "Chà bông",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Thịt ba rọi 100 gr",
+      "raw_name": "Thịt ba rọi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường nâu 40 gr",
+      "raw_name": "Đường nâu",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Trứng gà 3 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành tím 10 củ",
+      "raw_name": "Hành tím",
+      "quantity": 10,
+      "unit": "củ",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước mắm 3 muỗng cà phê",
+      "raw_name": "Nước mắm",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu ăn 85 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 85,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ hạt nêm/ muối/ tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ hạt nêm/ muối/ tiêu",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước 70 ml",
+      "raw_name": "Nước",
+      "quantity": 70,
+      "unit": "ml",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T19:41:42Z",
+  "page_title": "2 cách làm bánh Trung Thu nhân xôi xéo thịt kho đậm đà thơm ngon mới lạ",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/banh-trung-thu-ngan-lop-nhan-xoi-xeo-thit-kho-thumbnail-1.jpg"
+}

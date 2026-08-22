@@ -1,0 +1,51 @@
+{
+  "source_id": "24374",
+  "name": "Trân châu đen luộc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/273c7c7a26e6804e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-luoc-tran-chau-den-mem-dai-khong-bi-bo-dinh-ca-ngay-de-24374",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-luoc-tran-chau-den-mem-dai-khong-bi-bo-dinh-ca-ngay-de-24374",
+  "servings_text": "Cho 30 - 40 ly trà sữa",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trân châu đen khô 1 kg (hãng Falu/ Doun Xian)",
+      "raw_name": "Trân châu đen khô",
+      "quantity": 1,
+      "unit": "kg",
+      "note": "hãng Falu/ Doun Xian",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước lọc 4 lít (để luộc trân châu)",
+      "raw_name": "Nước lọc 4 lít",
+      "quantity": null,
+      "unit": null,
+      "note": "để luộc trân châu",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước ấm 500 ml (để pha nước đường)",
+      "raw_name": "Nước ấm",
+      "quantity": 500,
+      "unit": "ml",
+      "note": "để pha nước đường",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường đen 300 gr (hoặc đường nâu)",
+      "raw_name": "Đường đen",
+      "quantity": 300,
+      "unit": "gr",
+      "note": "hoặc đường nâu",
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:46:24Z",
+  "page_title": "Cách luộc trân châu đen mềm dai không bị bở dính cả ngày để kinh doanh",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t04%201200676%20%2877%29.jpg"
+}

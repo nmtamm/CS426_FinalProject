@@ -1,0 +1,57 @@
+{
+  "source_id": "15161",
+  "name": "Sinh tố lê ki ma chuối",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b67dcfbf2e1e114c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sinh-to-le-ki-ma-lekima-qua-trung-ga-beo-ngay-thom-15161",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-sinh-to-le-ki-ma-lekima-qua-trung-ga-beo-ngay-thom-15161",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Lê ki ma 2 quả (quả trứng gà)",
+      "raw_name": "Lê ki ma",
+      "quantity": 2,
+      "unit": "quả",
+      "note": "quả trứng gà",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chuối 3 quả",
+      "raw_name": "Chuối",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bạch đậu khấu 1 ít",
+      "raw_name": "Bạch đậu khấu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước lọc 200 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:49:46Z",
+  "page_title": "2 cách làm sinh tố lê ki ma (lekima, quả trứng gà) béo ngậy, thơm ngon",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/sinh-to-le-ki-ma-chuoi-thumbnail.jpg"
+}

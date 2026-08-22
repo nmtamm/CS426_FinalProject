@@ -1,0 +1,135 @@
+{
+  "source_id": "05232",
+  "name": "Mì gà súp miso",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/fbf66e83ba8a451d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-mi-ga-sup-miso-thom-ngon-don-gian-de-lam-cho-ca-nha-05232",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-mi-ga-sup-miso-thom-ngon-don-gian-de-lam-cho-ca-nha-05232",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-nuoc",
+      "name": "Món nước"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt đùi gà 1 kg",
+      "raw_name": "Thịt đùi gà",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Miếng gừng cắt 3 lát",
+      "raw_name": "Miếng gừng cắt 3 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành lá 3 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mè trắng 3 muỗng canh",
+      "raw_name": "Mè trắng",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Mì 150 gr",
+      "raw_name": "Mì",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gừng 1.5 củ (để làm súp)",
+      "raw_name": "Gừng",
+      "quantity": 1.5,
+      "unit": "củ",
+      "note": "để làm súp",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bông cải xanh baby 160 gr (broccolini)",
+      "raw_name": "Bông cải xanh baby",
+      "quantity": 160,
+      "unit": "gr",
+      "note": "broccolini",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột súp miso 2 muỗng canh",
+      "raw_name": "Bột súp miso",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu mè 1 muỗng canh",
+      "raw_name": "Dầu mè",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước tương 2 muỗng canh",
+      "raw_name": "Nước tương",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Heavy cream 80 ml",
+      "raw_name": "Heavy cream",
+      "quantity": 80,
+      "unit": "ml",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Cá ngừ bào khô 120 gr (katsuobushi)",
+      "raw_name": "Cá ngừ bào khô",
+      "quantity": 120,
+      "unit": "gr",
+      "note": "katsuobushi",
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Gia vị 1 ít (muối/tiêu/đường)",
+      "raw_name": "Gia vị",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/tiêu/đường",
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T18:19:19Z",
+  "page_title": "Cách nấu mì gà súp miso thơm ngon, đơn giản dễ làm cho cả nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2020/11/CookProduct/puu-1200x675.jpg"
+}

@@ -1,0 +1,117 @@
+{
+  "source_id": "11919",
+  "name": "Pasta salad măng tây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/64b201cac66dd517.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-salad-pasta-don-gian-la-mieng-doi-vi-cho-bua-an-11919",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-salad-pasta-don-gian-la-mieng-doi-vi-cho-bua-an-11919",
+  "servings_text": "Cho 4 người ăn",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Pasta khô 200 gr",
+      "raw_name": "Pasta khô",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Măng tây 300 gr",
+      "raw_name": "Măng tây",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ngò tây 40 gr",
+      "raw_name": "Ngò tây",
+      "quantity": 40,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà chua bi 350 gr",
+      "raw_name": "Cà chua bi",
+      "quantity": 350,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tây tím 1/4 củ",
+      "raw_name": "Hành tây tím",
+      "quantity": 0.25,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đậu gà đóng hộp 128 gr",
+      "raw_name": "Đậu gà đóng hộp",
+      "quantity": 128,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Atiso ngâm chua 200 gr",
+      "raw_name": "Atiso ngâm chua",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Oregano 1/3 muỗng cà phê",
+      "raw_name": "Oregano",
+      "quantity": 0.333,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Mù tạt dijon 2 muỗng canh",
+      "raw_name": "Mù tạt dijon",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước cốt chanh 3 muỗng canh",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu olive 59 ml",
+      "raw_name": "Dầu olive",
+      "quantity": 59,
+      "unit": "ml",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Tiêu xay/ muối 1 ít",
+      "raw_name": "Tiêu xay/ muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 12
+    }
+  ],
+  "scraped_at": "2026-08-19T17:57:42Z",
+  "page_title": "3 cách làm salad pasta đơn giản lạ miệng đổi vị cho bữa ăn gia đình",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/07/CookRecipe/Avatar/pasta-salad-mang-tay-thumbnail.jpg"
+}

@@ -1,0 +1,63 @@
+{
+  "source_id": "10764",
+  "name": "Rau câu vải",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0712d6a0cf178d59.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-rau-cau-vai-ngon-ngot-don-gian-ai-cung-lam-duoc-10764",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-rau-cau-vai-ngon-ngot-don-gian-ai-cung-lam-duoc-10764",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Vải 500 gr",
+      "raw_name": "Vải",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột rau câu 10 gr (rau câu giòn)",
+      "raw_name": "Bột rau câu",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "rau câu giòn",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tinh chất vani 1 ống",
+      "raw_name": "Tinh chất vani 1 ống",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Màu thực phẩm 1 ít (màu vàng)",
+      "raw_name": "Màu thực phẩm",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "màu vàng",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 250 gr",
+      "raw_name": "Đường",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:20:32Z",
+  "page_title": "Cách làm rau câu vải ngon ngọt, đơn giản, ai cũng làm được",
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookProduct/rcthum-1200x676.jpg"
+}

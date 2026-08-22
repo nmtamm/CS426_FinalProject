@@ -1,0 +1,99 @@
+{
+  "source_id": "10954",
+  "name": "Mít non muối chua",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0d452c82649533f3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mit-non-muoi-chua-cay-cay-gion-sat-thom-ngon-ca-nha-10954",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mit-non-muoi-chua-cay-cay-gion-sat-thom-ngon-ca-nha-10954",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mít non 1 quả",
+      "raw_name": "Mít non",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá hẹ 4 nhánh",
+      "raw_name": "Lá hẹ",
+      "quantity": 4,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tím 4 củ",
+      "raw_name": "Hành tím",
+      "quantity": 4,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 1 củ",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt sừng 2 quả",
+      "raw_name": "Ớt sừng",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gừng 1 nhánh",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Giấm ăn 2 chén (chén cơm)",
+      "raw_name": "Giấm ăn",
+      "quantity": 2,
+      "unit": "chén",
+      "note": "chén cơm",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường 1 chén (chén cơm)",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "chén",
+      "note": "chén cơm",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T17:53:10Z",
+  "page_title": "Cách làm mít non muối chua cay cay, giòn sật thơm ngon cả nhà thích mê",
+  "original_image_url": "https://cdn.tgdd.vn/2021/06/CookProduct/thumb-1200x676-25.jpg"
+}

@@ -1,0 +1,85 @@
+{
+  "source_id": "04131",
+  "name": "Bánh Trung Thu nhân oreo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/d34cb23fc10d55c3.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-truung-cuon-bang-noi-chien-khong-dau-gion-tan-04131",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-truung-cuon-bang-noi-chien-khong-dau-gion-tan-04131",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột mì đa dụng 250 gr",
+      "raw_name": "Bột mì đa dụng",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Baking soda 2 gr",
+      "raw_name": "Baking soda",
+      "quantity": 2,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu xanh cà vỏ 200 gr",
+      "raw_name": "Đậu xanh cà vỏ",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bánh oreo 1 gói",
+      "raw_name": "Bánh oreo",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cà phê 5 ml",
+      "raw_name": "Nước cà phê",
+      "quantity": 5,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 105 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 105,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước đường bánh nướng 160 ml",
+      "raw_name": "Nước đường bánh nướng",
+      "quantity": 160,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường 30 gr",
+      "raw_name": "Đường",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:41:52Z",
+  "page_title": "2 cách làm bánh Trung Thu oreo cực ngon ngọt ngào lạ miệng ngày rằm phá cỗ",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/banh-trung-thu-nhan-oreo-thumbnail.jpg"
+}

@@ -1,0 +1,67 @@
+{
+  "source_id": "23738",
+  "name": "Trà sữa truyền thống",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f784c3fa0ea8a056.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-tra-sua-truyen-thong-ngon-beo-thom-chuan-vi-de-thanh-23738",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-tra-sua-truyen-thong-ngon-beo-thom-chuan-vi-de-thanh-23738",
+  "servings_text": "Cho 1.5 lít trà sữa truyền thống",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà đen 100 gr",
+      "raw_name": "Trà đen",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột sữa béo 500 gr",
+      "raw_name": "Bột sữa béo",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường cát trắng 500 gr",
+      "raw_name": "Đường cát trắng",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối iốt 1 ít",
+      "raw_name": "Muối iốt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước 3 lít",
+      "raw_name": "Nước 3 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước đá 500 ml",
+      "raw_name": "Nước đá",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:47:15Z",
+  "page_title": "Cách nấu trà sữa truyền thống ngon, béo thơm chuẩn vị, dễ thành công",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/cach-nau-tra-sua-truyen-thong-ngon1.jpg"
+}

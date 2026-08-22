@@ -1,0 +1,83 @@
+{
+  "source_id": "01043",
+  "name": "Nộm su hào cà rốt chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2b2d5bd713e9ad8e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-cach-lam-mon-nom-su-hao-ca-rot-chay-01043",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/huong-dan-cach-lam-mon-nom-su-hao-ca-rot-chay-01043",
+  "servings_text": "Cho 2 người ăn",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Su hào 1 củ",
+      "raw_name": "Su hào",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đậu phộng nguyên vỏ 10 gr (lạc)",
+      "raw_name": "Đậu phộng nguyên vỏ",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "lạc",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 4 tép",
+      "raw_name": "Tỏi 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ớt đỏ 1 trái",
+      "raw_name": "Ớt đỏ",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Rau húng quế/ rau mùi 1 ít",
+      "raw_name": "Rau húng quế/ rau mùi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Giấm trắng 1 muỗng canh",
+      "raw_name": "Giấm trắng",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường/ muối 1 muỗng canh",
+      "raw_name": "Đường/ muối",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T17:57:13Z",
+  "page_title": "Hướng dẫn chi tiết cách làm món nộm su hào cà rốt chay chua giòn thanh mát",
+  "original_image_url": "https://cdn.tgdd.vn/2022/01/CookDish/huong-dan-cach-lam-mon-nom-su-hao-ca-rot-chay-avt-1200x676.jpg"
+}

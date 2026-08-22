@@ -1,0 +1,143 @@
+{
+  "source_id": "03853",
+  "name": "Chả cua nấm hương",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/653fab37be1530d2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-cua-nam-huong-dai-ngon-tuoi-ngot-don-gian-tai-03853",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-cua-nam-huong-dai-ngon-tuoi-ngot-don-gian-tai-03853",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt nạc dăm xay 150 gr",
+      "raw_name": "Thịt nạc dăm xay",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt cua 100 gr",
+      "raw_name": "Thịt cua",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Giò sống 50 gr",
+      "raw_name": "Giò sống",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nấm hương 6 cái",
+      "raw_name": "Nấm hương",
+      "quantity": 6,
+      "unit": "cái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nấm mèo 1 cái",
+      "raw_name": "Nấm mèo",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Giá 70 gr",
+      "raw_name": "Giá",
+      "quantity": 70,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt sừng 1 quả",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gốc hành băm 1 muỗng canh",
+      "raw_name": "Gốc hành băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Lá chúc 3 lá (lá chanh bắc)",
+      "raw_name": "Lá chúc",
+      "quantity": 3,
+      "unit": "lá",
+      "note": "lá chanh bắc",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tiêu xanh 10 gr",
+      "raw_name": "Tiêu xanh",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gừng 3 lát",
+      "raw_name": "Gừng 3 lát",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Rượu trắng 1 ly",
+      "raw_name": "Rượu trắng 1 ly",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Tiêu 1/2 muỗng cà phê",
+      "raw_name": "Tiêu",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Hạt nêm 1/2 muỗng cà phê",
+      "raw_name": "Hạt nêm",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Bột ngọt 1 muỗng cà phê",
+      "raw_name": "Bột ngọt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T19:25:38Z",
+  "page_title": "Cách làm chả cua nấm hương dai ngon tươi ngọt đơn giản tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookProduct/BiquyetlamCHACUANAMHUONGthomngonnucnoMONNGONMOINGAY2-47screenshot-1200x676.jpg"
+}

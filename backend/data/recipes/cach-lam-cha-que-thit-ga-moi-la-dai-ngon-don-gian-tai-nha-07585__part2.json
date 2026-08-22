@@ -1,0 +1,114 @@
+{
+  "source_id": "07585",
+  "name": "Chả quế thịt gà",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/66d16321958bf685.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-que-thit-ga-moi-la-dai-ngon-don-gian-tai-nha-07585",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cha-que-thit-ga-moi-la-dai-ngon-don-gian-tai-nha-07585",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt đùi gà 700 gr (lọc xương và bỏ da)",
+      "raw_name": "Thịt đùi gà",
+      "quantity": 700,
+      "unit": "gr",
+      "note": "lọc xương và bỏ da",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước mắm 20 ml",
+      "raw_name": "Nước mắm",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dầu ăn 60 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 60,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột tiêu đen 1/2 muỗng canh",
+      "raw_name": "Bột tiêu đen",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột hành 2 gr",
+      "raw_name": "Bột hành",
+      "quantity": 2,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột quế 4 gr",
+      "raw_name": "Bột quế",
+      "quantity": 4,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột năng 20 gr",
+      "raw_name": "Bột năng",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột nở 5 gr (baking powder)",
+      "raw_name": "Bột nở",
+      "quantity": 5,
+      "unit": "gr",
+      "note": "baking powder",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hạt điều tạo màu 2 gr",
+      "raw_name": "Hạt điều tạo màu",
+      "quantity": 2,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Nước lạnh 9 muỗng canh (nước đá)",
+      "raw_name": "Nước lạnh",
+      "quantity": 9,
+      "unit": "muỗng canh",
+      "note": "nước đá",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (bột ngọt/muối/đường)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "bột ngọt/muối/đường",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:08:14Z",
+  "page_title": "2 cách làm chả quế thịt gà mới lạ dai ngon đơn giản tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "công thức được chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2022/07/CookRecipe/Avatar/cha-que-thit-ga-cong-thuc-duoc-chia-se-tu-nguoi-dung-thumbnail.jpg"
+}

@@ -1,0 +1,39 @@
+{
+  "source_id": "00425",
+  "name": "Sườn bò nướng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f407e8a342106083.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/suon-bo-nuong-ngon-tuyet-ca-nha-cung-yeu-00425",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/suon-bo-nuong-ngon-tuyet-ca-nha-cung-yeu-00425",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sườn bò 300 gr",
+      "raw_name": "Sườn bò",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước sốt thịt nướng 100 ml (loại ưa thích)",
+      "raw_name": "Nước sốt thịt nướng",
+      "quantity": 100,
+      "unit": "ml",
+      "note": "loại ưa thích",
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T18:30:52Z",
+  "page_title": "Cách làm sườn bò nướng ngon tuyệt bằng lò vi sóng",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2015/01/28/603654/suon-bo-nuong-ngon-tuyet-ca-nha-cung-yeu-10-760x367.jpg"
+}

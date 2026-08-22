@@ -1,0 +1,67 @@
+{
+  "source_id": "24455",
+  "name": "Rau má đậu xanh sữa dừa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/35317c2b78920392.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-rau-ma-dau-xanh-sua-dua-cong-thuc-kinh-doanh-thom-24455",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-rau-ma-dau-xanh-sua-dua-cong-thuc-kinh-doanh-thom-24455",
+  "servings_text": "Cho 5 - 6 ly lớn (700ml)",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu xanh cà vỏ 200 gr",
+      "raw_name": "Đậu xanh cà vỏ",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rau má 250 gr",
+      "raw_name": "Rau má",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đặc 250 gr",
+      "raw_name": "Sữa đặc",
+      "quantity": 250,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột cốt dừa 80 gr",
+      "raw_name": "Bột cốt dừa",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường cát/ muối)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường cát/ muối",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:46:06Z",
+  "page_title": "Cách làm rau má đậu xanh sữa dừa (công thức kinh doanh) thơm béo giải nhiệt",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t05%201200676%20%2829%29.jpg"
+}

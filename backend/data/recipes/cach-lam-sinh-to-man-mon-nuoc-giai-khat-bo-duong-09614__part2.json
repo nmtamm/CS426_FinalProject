@@ -1,0 +1,61 @@
+{
+  "source_id": "09614",
+  "name": "Sinh tố mận bắc và chuối",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7cb3969b2e95340d.png",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sinh-to-man-mon-nuoc-giai-khat-bo-duong-09614",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sinh-to-man-mon-nuoc-giai-khat-bo-duong-09614",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mận Bắc 2 quả",
+      "raw_name": "Mận Bắc",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chuối 1 quả",
+      "raw_name": "Chuối",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa chua không đường 1 muỗng canh",
+      "raw_name": "Sữa chua không đường",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 1/2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước lọc 1 muỗng canh",
+      "raw_name": "Nước lọc",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:09:20Z",
+  "page_title": "2 cách làm sinh tố mận, món nước giải khát bổ dưỡng",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/lassi-chuoi-thumbnail.png"
+}

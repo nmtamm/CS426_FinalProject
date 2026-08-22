@@ -1,0 +1,71 @@
+{
+  "source_id": "24125",
+  "name": "Tàu hũ bằng sữa đậu nành Fami",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2a1e195528df80b6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/chia-se-cach-lam-tau-hu-bang-sua-dau-nanh-fami-mem-min-cuc-24125",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/chia-se-cach-lam-tau-hu-bang-sua-dau-nanh-fami-mem-min-cuc-24125",
+  "servings_text": "Cho 3 - 4 người ăn",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sữa đậu nành Fami 600 ml (3 bịch loại 200ml)",
+      "raw_name": "Sữa đậu nành Fami",
+      "quantity": 600,
+      "unit": "ml",
+      "note": "3 bịch loại 200ml",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột rau câu giòn 3 gr (agar-agar)",
+      "raw_name": "Bột rau câu giòn",
+      "quantity": 3,
+      "unit": "gr",
+      "note": "agar-agar",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường trắng 400 gr (có thể thay bằng đường nâu hoặc đường thốt nốt)",
+      "raw_name": "Đường trắng",
+      "quantity": 400,
+      "unit": "gr",
+      "note": "có thể thay bằng đường nâu hoặc đường thốt nốt",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Gừng tươi 15 gr",
+      "raw_name": "Gừng tươi",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột năng 200 gr",
+      "raw_name": "Bột năng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột năng khô 1 ít (để làm bột áo)",
+      "raw_name": "Bột năng khô",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "để làm bột áo",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T18:53:10Z",
+  "page_title": "Chia sẻ cách làm tàu hũ bằng sữa đậu nành Fami mềm mịn cực đơn giản tại nhà",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t02%201200676%20%2845%29.jpg"
+}

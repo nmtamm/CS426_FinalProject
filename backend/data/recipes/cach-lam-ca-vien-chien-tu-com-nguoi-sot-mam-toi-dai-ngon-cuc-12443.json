@@ -1,0 +1,95 @@
+{
+  "source_id": "12443",
+  "name": "Cá viên chiên làm từ cơm nguội sốt mắm tỏi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/26574c692bf9573d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-vien-chien-tu-com-nguoi-sot-mam-toi-dai-ngon-cuc-12443",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ca-vien-chien-tu-com-nguoi-sot-mam-toi-dai-ngon-cuc-12443",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cơm nguội 1 chén",
+      "raw_name": "Cơm nguội",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột năng 2 muỗng canh",
+      "raw_name": "Bột năng",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột gạo 2 muỗng canh (hoặc bột chiên giòn)",
+      "raw_name": "Bột gạo",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "hoặc bột chiên giòn",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tương ớt 2 muỗng canh",
+      "raw_name": "Tương ớt",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tương cà 1 muỗng canh",
+      "raw_name": "Tương cà",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ hạt nêm/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ hạt nêm/ bột ngọt",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu ăn 200 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T19:01:37Z",
+  "page_title": "Cách làm cá viên chiên từ cơm nguội sốt mắm tỏi dai ngon cực dễ",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/v1-1200x676.jpg"
+}

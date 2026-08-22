@@ -1,0 +1,75 @@
+{
+  "source_id": "12916",
+  "name": "Sandwich chiên giòn nhân táo sốt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e69f6e88160772fe.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sandwich-chien-gion-nhan-tao-sot-moi-la-gion-tan-12916",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sandwich-chien-gion-nhan-tao-sot-moi-la-gion-tan-12916",
+  "servings_text": "Cho 2 phần",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sandwich 2 miếng",
+      "raw_name": "Sandwich 2 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Táo 1 quả",
+      "raw_name": "Táo",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột quế 1 muỗng cà phê",
+      "raw_name": "Bột quế",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột chiên xù 100 gr",
+      "raw_name": "Bột chiên xù",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu ăn 230 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 230,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đường 10 gr",
+      "raw_name": "Đường",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:19:33Z",
+  "page_title": "Cách làm sandwich chiên giòn nhân táo sốt mới lạ, giòn tan ngon xuất sắc",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/1200(11)-1200x676.jpg"
+}

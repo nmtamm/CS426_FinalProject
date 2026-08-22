@@ -1,0 +1,137 @@
+{
+  "source_id": "09547",
+  "name": "Cách làm bún chả giò với chả giò tự làm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b468b532019f1a4b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bun-cha-gio-gion-rum-thom-ngon-kho-cuong-09547",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bun-cha-gio-gion-rum-thom-ngon-kho-cuong-09547",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bún tươi 300 gr",
+      "raw_name": "Bún tươi",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt heo xay 500 gr",
+      "raw_name": "Thịt heo xay",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Giò sống 300 gr",
+      "raw_name": "Giò sống",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nấm mèo 2 cây (lớn)",
+      "raw_name": "Nấm mèo",
+      "quantity": 2,
+      "unit": "cây",
+      "note": "lớn",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Củ cải trắng 1 củ",
+      "raw_name": "Củ cải trắng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dưa leo 1/2 trái",
+      "raw_name": "Dưa leo",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Rau sống 10 gr",
+      "raw_name": "Rau sống",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Miến tàu 1 gói",
+      "raw_name": "Miến tàu",
+      "quantity": 1,
+      "unit": "gói",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bánh tráng 1 ít (bánh tráng bò bía)",
+      "raw_name": "Bánh tráng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "bánh tráng bò bía",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu mè 4 muỗng cà phê",
+      "raw_name": "Dầu mè",
+      "quantity": 4,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước mắm 3 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu ăn 50 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 50,
+      "unit": "ml",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (hạt nêm/ đường/ bột ngọt/ muối/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hạt nêm/ đường/ bột ngọt/ muối/ tiêu xay",
+      "display_order": 14
+    }
+  ],
+  "scraped_at": "2026-08-19T20:35:07Z",
+  "page_title": "2 cách làm bún chả giò giòn rụm thơm ngon khó cưỡng cực đơn giản",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookRecipe/Avatar/cach-lam-bun-cha-gio-voi-cha-gio-tu-lam-thumbnail.jpg"
+}

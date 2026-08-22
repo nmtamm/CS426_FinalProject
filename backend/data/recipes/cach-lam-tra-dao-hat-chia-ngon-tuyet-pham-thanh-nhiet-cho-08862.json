@@ -1,0 +1,67 @@
+{
+  "source_id": "08862",
+  "name": "Trà đào hạt chia",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/68fe75c3381d1463.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-dao-hat-chia-ngon-tuyet-pham-thanh-nhiet-cho-08862",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-dao-hat-chia-ngon-tuyet-pham-thanh-nhiet-cho-08862",
+  "servings_text": "Cho 8 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đào 1 kg",
+      "raw_name": "Đào",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chanh 2 quả",
+      "raw_name": "Chanh",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hạt chia 1 muỗng canh",
+      "raw_name": "Hạt chia",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hồng trà túi lọc 1 gói (30gr)",
+      "raw_name": "Hồng trà túi lọc",
+      "quantity": 1,
+      "unit": "gói",
+      "note": "30gr",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường nâu 500 gr",
+      "raw_name": "Đường nâu",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:06:07Z",
+  "page_title": "Cách làm trà đào hạt chia ngon tuyệt phẩm, thanh nhiệt cho ngày nắng nóng",
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookProduct/1200-1200x676-4.jpg"
+}

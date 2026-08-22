@@ -1,0 +1,53 @@
+{
+  "source_id": "14369",
+  "name": "Cách làm son môi từ măng cụt, sơ ri, củ dền",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/dc00ea477cf38d68.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/9-cach-lam-son-moi-bang-trai-cay-hoa-qua-don-gian-an-toan-14369",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/9-cach-lam-son-moi-bang-trai-cay-hoa-qua-don-gian-an-toan-14369",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Măng cụt 3 quả",
+      "raw_name": "Măng cụt",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Củ dền 1 củ",
+      "raw_name": "Củ dền",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sơ ri 10 quả",
+      "raw_name": "Sơ ri",
+      "quantity": 10,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Vaseline 3 muỗng cà phê",
+      "raw_name": "Vaseline",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:40:48Z",
+  "page_title": "9 cách làm son môi bằng trái cây, hoa quả đơn giản, an toàn tặng cô 20/11",
+  "variant_index": 7,
+  "variant_count": 9,
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/cach-lam-son-moi-tu-mang-cut-so-ri-cu-den-thumbnail-1.jpg"
+}

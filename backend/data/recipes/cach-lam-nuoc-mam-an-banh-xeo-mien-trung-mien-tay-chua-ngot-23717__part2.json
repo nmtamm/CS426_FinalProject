@@ -1,0 +1,93 @@
+{
+  "source_id": "23717",
+  "name": "Nước mắm ăn bánh xèo miền Tây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/de8cebbce18d7b30.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-mam-an-banh-xeo-mien-trung-mien-tay-chua-ngot-23717",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nuoc-mam-an-banh-xeo-mien-trung-mien-tay-chua-ngot-23717",
+  "servings_text": "Cho 4-6 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đường cát 170 gr",
+      "raw_name": "Đường cát",
+      "quantity": 170,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột ngọt 1/2 muỗng canh",
+      "raw_name": "Bột ngọt",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước mắm Nam Ngư 150 ml",
+      "raw_name": "Nước mắm Nam Ngư",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước lọc 320 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 320,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Giấm gạo 30 ml",
+      "raw_name": "Giấm gạo",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Trái tắc 22 gr (khoảng 1 quả tắc to)",
+      "raw_name": "Trái tắc",
+      "quantity": 22,
+      "unit": "gr",
+      "note": "khoảng 1 quả tắc to",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi 4 tép",
+      "raw_name": "Tỏi 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Ớt cay 3 quả",
+      "raw_name": "Ớt cay",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dưa chua ăn bánh xèo 1 ít (cà rốt/củ cải/trắng/giấm/đường/muối)",
+      "raw_name": "Dưa chua ăn bánh xèo",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "cà rốt/củ cải/trắng/giấm/đường/muối",
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T20:25:32Z",
+  "page_title": "Cách làm nước mắm ăn bánh xèo miền Trung miền Tây chua ngọt chuẩn vị",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2025/12/CookRecipe/Avatar/nuoc-mam-an-banh-xeo-thumbnail.jpg"
+}

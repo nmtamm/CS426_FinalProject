@@ -1,0 +1,75 @@
+{
+  "source_id": "16185",
+  "name": "Vỏ dưa hấu ngâm mắm đường",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1568226917688e7e.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-vo-dua-hau-ngam-mam-duong-dam-da-don-gian-cuc-bat-vi-16185",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-vo-dua-hau-ngam-mam-duong-dam-da-don-gian-cuc-bat-vi-16185",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Vỏ dưa hấu 500 gr (khoảng 1 trái dưa)",
+      "raw_name": "Vỏ dưa hấu",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "khoảng 1 trái dưa",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối hột 1 muỗng canh",
+      "raw_name": "Muối hột",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 6 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 6,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước mắm 10 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 10,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột ngọt 1 muỗng cà phê",
+      "raw_name": "Bột ngọt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng cà phê",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt băm 1 muỗng cà phê",
+      "raw_name": "Ớt băm",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:17:11Z",
+  "page_title": "Cách làm vỏ dưa hấu ngâm mắm đường đậm đà đơn giản cực bắt vị",
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookDish/cach-lam-vo-dua-hau-ngam-mam-duong-dam-da-don-gian-cuc-bat-vi-avt-1200x676.jpg"
+}

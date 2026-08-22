@@ -1,0 +1,75 @@
+{
+  "source_id": "08837",
+  "name": "Bánh gạo lắc phô mai",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8b1140ed42261b28.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-gao-lac-pho-mai-thom-beo-chuan-vi-han-quoc-cuc-08837",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-gao-lac-pho-mai-thom-beo-chuan-vi-han-quoc-cuc-08837",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột gạo 200 gr",
+      "raw_name": "Bột gạo",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột nếp 100 gr",
+      "raw_name": "Bột nếp",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột phô mai 4 muỗng canh",
+      "raw_name": "Bột phô mai",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu mè 2 muỗng canh (hoặc dầu ăn)",
+      "raw_name": "Dầu mè",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "hoặc dầu ăn",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu ăn 200 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước ấm 300 ml",
+      "raw_name": "Nước ấm",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối 1/2 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:02:49Z",
+  "page_title": "Cách làm bánh gạo lắc phô mai thơm béo chuẩn vị Hàn Quốc cực đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/2021/04/CookProduct/BeFunky-collage-1200x676.jpg"
+}

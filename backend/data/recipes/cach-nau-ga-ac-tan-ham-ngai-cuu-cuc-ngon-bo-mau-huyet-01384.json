@@ -1,0 +1,75 @@
+{
+  "source_id": "01384",
+  "name": "Gà hầm lá ngải",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/fbff9143bbb6b611.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-ga-ac-tan-ham-ngai-cuu-cuc-ngon-bo-mau-huyet-01384",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-ga-ac-tan-ham-ngai-cuu-cuc-ngon-bo-mau-huyet-01384",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà 1 con (khoảng 1.3 kg)",
+      "raw_name": "Gà 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 1.3 kg",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Táo đỏ 50 gr",
+      "raw_name": "Táo đỏ",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Kỷ tử 20 gr",
+      "raw_name": "Kỷ tử",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Ngải cứu khô 1 ít",
+      "raw_name": "Ngải cứu khô",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ngải cứu tươi 100 gr",
+      "raw_name": "Ngải cứu tươi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ đường)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ đường",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T18:07:33Z",
+  "page_title": "Cách hầm gà lá ngải bằng nồi cơm điện đậm đà bổ dưỡng cho sức khỏe cả nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-nau-ga-ac-tan-ham-ngai-cuu-cuc-ngon-bo-mau-huyet-avt-1200x676-1.jpg"
+}

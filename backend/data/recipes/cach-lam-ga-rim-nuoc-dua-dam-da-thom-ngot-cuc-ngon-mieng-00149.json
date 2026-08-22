@@ -1,0 +1,59 @@
+{
+  "source_id": "00149",
+  "name": "Gà rim nước dừa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0e83834fd5b44d01.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-rim-nuoc-dua-dam-da-thom-ngot-cuc-ngon-mieng-00149",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-rim-nuoc-dua-dam-da-thom-ngot-cuc-ngon-mieng-00149",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà 1 con",
+      "raw_name": "Gà 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành tím 4 củ",
+      "raw_name": "Hành tím",
+      "quantity": 4,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi 4 nhánh",
+      "raw_name": "Tỏi",
+      "quantity": 4,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước dừa 400 ml",
+      "raw_name": "Nước dừa",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Dầu điều 3 muỗng canh",
+      "raw_name": "Dầu điều",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T18:14:50Z",
+  "page_title": "Cách làm gà rim nước dừa đậm đà, thơm ngọt, cực ngon miệng",
+  "original_image_url": "https://cdn.tgdd.vn/2020/06/CookProduct/thum1200-1200x676-16.jpg"
+}

@@ -1,0 +1,51 @@
+{
+  "source_id": "02987",
+  "name": "Nước hạt ươi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8396dfe32af54754.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-nuoc-duoi-uoi-hat-e-thom-ngon-thanh-mat-giai-nhiet-02987",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-nuoc-duoi-uoi-hat-e-thom-ngon-thanh-mat-giai-nhiet-02987",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Hạt ươi 50 gr",
+      "raw_name": "Hạt ươi",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sương sáo 200 gr",
+      "raw_name": "Sương sáo",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hạt é 1 muỗng canh",
+      "raw_name": "Hạt é",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mật ong 100 ml",
+      "raw_name": "Mật ong",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:07:26Z",
+  "page_title": "Cách pha nước đười ươi hạt é thơm ngon, thanh mát giải nhiệt mùa hè",
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookProduct/Untitled-1-1200x676-3.jpg"
+}

@@ -1,0 +1,67 @@
+{
+  "source_id": "23396",
+  "name": "Khô cá tra",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9c6bee01ec3ab0e9.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/bi-quyet-lam-kho-ca-tra-phong-gion-ngon-chuan-vi-mien-tay-cuc-23396",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/bi-quyet-lam-kho-ca-tra-phong-gion-ngon-chuan-vi-mien-tay-cuc-23396",
+  "servings_text": "Cho 1 con cá tra 4kg tươi (cho ra khoảng 1kg khô cá)",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Con cá tra tươi 4 1 kg (còn khoảng 3kg thịt sau khi làm sạch)",
+      "raw_name": "Con cá tra tươi 4",
+      "quantity": 1,
+      "unit": "kg",
+      "note": "còn khoảng 3kg thịt sau khi làm sạch",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước lọc 2 lít",
+      "raw_name": "Nước lọc 2 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước sôi 0.5 lít",
+      "raw_name": "Nước sôi 0.5 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối hột 0.5 kg",
+      "raw_name": "Muối hột",
+      "quantity": 0.5,
+      "unit": "kg",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột nghệ 1 ít",
+      "raw_name": "Bột nghệ",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột ớt 1 ít (tùy chọn)",
+      "raw_name": "Bột ớt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "tùy chọn",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:26:11Z",
+  "page_title": "Bí quyết làm khô cá tra phồng giòn ngon chuẩn vị miền Tây cực dễ tại nhà",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20thumb%20m%C3%B3n%20an%20t10%20%2859%29.jpg"
+}

@@ -1,0 +1,41 @@
+{
+  "source_id": "01305",
+  "name": "Nước ép cần tây dứa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3d9ed1c44afbc37b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cong-thuc-rau-can-tay-lam-dep-da-dep-dang-cho-cac-nang-01305",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cong-thuc-rau-can-tay-lam-dep-da-dep-dang-cho-cac-nang-01305",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cần tây 150 gr",
+      "raw_name": "Cần tây",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dứa 1/4 quả",
+      "raw_name": "Dứa",
+      "quantity": 0.25,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T20:01:50Z",
+  "page_title": "5 Cách làm nước ép rau cần tây làm đẹp da, đẹp dáng cho các nàng",
+  "variant_index": 4,
+  "variant_count": 5,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/nuoc-ep-can-tay-dua-thumbnail.jpg"
+}

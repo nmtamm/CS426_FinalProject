@@ -1,0 +1,65 @@
+{
+  "source_id": "04420",
+  "name": "Sinh tố xoài chuối cải xoăn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/258a51739d6a58f7.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sinh-to-cai-xoan-don-gian-giup-dep-da-giam-can-tai-04420",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sinh-to-cai-xoan-don-gian-giup-dep-da-giam-can-tai-04420",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Xoài chín 2 trái",
+      "raw_name": "Xoài chín",
+      "quantity": 2,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Chuối 1 trái",
+      "raw_name": "Chuối",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cải xoăn 1 chén",
+      "raw_name": "Cải xoăn",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa chua 1/2 chén",
+      "raw_name": "Sữa chua",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Mật ong 2 muỗng canh",
+      "raw_name": "Mật ong",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:57:44Z",
+  "page_title": "3 cách làm sinh tố cải xoăn đơn giản, giúp đẹp da, giảm cân tại nhà",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookRecipe/Avatar/sinh-to-xoai-chuoi-cai-xoan-thumbnail.jpg"
+}

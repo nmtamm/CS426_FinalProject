@@ -1,0 +1,45 @@
+{
+  "source_id": "12349",
+  "name": "Sinh tố bí đao",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/17c2ea3e25161de0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-sinh-to-bi-dao-thom-ngon-thanh-mat-ho-tro-giam-can-12349",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-sinh-to-bi-dao-thom-ngon-thanh-mat-ho-tro-giam-can-12349",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bí đao 1 trái (loại nhỏ)",
+      "raw_name": "Bí đao",
+      "quantity": 1,
+      "unit": "trái",
+      "note": "loại nhỏ",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường/ muối 1 ít",
+      "raw_name": "Đường/ muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước lọc 300 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T20:08:43Z",
+  "page_title": "4 cách làm sinh tố bí đao (bí xanh) thanh mát hỗ trợ giảm cân hiệu quả",
+  "variant_index": 1,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/sinh-to-bi-dao-thumbnail-1.jpg"
+}

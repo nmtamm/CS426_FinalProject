@@ -1,0 +1,73 @@
+{
+  "source_id": "10006",
+  "name": "Nước sốt đường nâu tỏi ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4a50853afbcedd2d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-sot-banh-mi-cha-ca-hap-dan-don-gian-thom-ngon-10006",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-sot-banh-mi-cha-ca-hap-dan-don-gian-thom-ngon-10006",
+  "servings_text": "Cho 4 người ăn",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "meo-vao-bep",
+      "name": "Mẹo vào bếp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đường nâu 100 gr",
+      "raw_name": "Đường nâu",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước mắm 5 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột ngọt 1/2 muỗng canh",
+      "raw_name": "Bột ngọt",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Giấm ăn 2 muỗng canh",
+      "raw_name": "Giấm ăn",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 6 tép",
+      "raw_name": "Tỏi 6 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Ớt sừng 1 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:20:52Z",
+  "page_title": "2 cách làm nước sốt bánh mì chả cá hấp dẫn đơn giản thơm ngon khó cưỡng",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookRecipe/Avatar/nuoc-sot-duong-nau-toi-ot-thumbnail.jpg"
+}

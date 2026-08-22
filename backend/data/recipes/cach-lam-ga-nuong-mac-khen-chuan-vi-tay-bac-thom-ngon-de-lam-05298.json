@@ -1,0 +1,143 @@
+{
+  "source_id": "05298",
+  "name": "Gà nướng mắc khén",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3a838bd62c85175c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-nuong-mac-khen-chuan-vi-tay-bac-thom-ngon-de-lam-05298",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-nuong-mac-khen-chuan-vi-tay-bac-thom-ngon-de-lam-05298",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    },
+    {
+      "slug": "mon-nuong",
+      "name": "Món nướng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà 1/2 con (khoảng 1.3kg)",
+      "raw_name": "Gà 1/2 con",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 1.3kg",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mắc khén 3 muỗng cà phê",
+      "raw_name": "Mắc khén",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá chanh 7 lá",
+      "raw_name": "Lá chanh",
+      "quantity": 7,
+      "unit": "lá",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Mật ong 1/2 muỗng cà phê",
+      "raw_name": "Mật ong",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sả 5 cây",
+      "raw_name": "Sả",
+      "quantity": 5,
+      "unit": "cây",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gừng 15 gr",
+      "raw_name": "Gừng",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hành khô 3 tép",
+      "raw_name": "Hành khô 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bạc hà 1 ít",
+      "raw_name": "Bạc hà",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ngò gai 6 cây",
+      "raw_name": "Ngò gai",
+      "quantity": 6,
+      "unit": "cây",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Ớt bột 1/2 muỗng canh",
+      "raw_name": "Ớt bột",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Bột nghệ 1/2 muỗng cà phê",
+      "raw_name": "Bột nghệ",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Mật ong 1 ít",
+      "raw_name": "Mật ong",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Rượu trắng 1 ít",
+      "raw_name": "Rượu trắng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ đường/ bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ đường/ bột ngọt",
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T18:16:10Z",
+  "page_title": "Cách làm gà nướng mắc khén chuẩn vị Tây Bắc thơm ngon, dễ làm",
+  "original_image_url": "https://cdn.tgdd.vn/2022/08/CookDish/cach-lam-ga-nuong-mac-khen-chuan-vi-tay-bac-thom-ngon-de-lam-avt-1200x676.jpg"
+}

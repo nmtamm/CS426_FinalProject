@@ -1,0 +1,123 @@
+{
+  "source_id": "09806",
+  "name": "Bò hầm rau củ kiểu Pháp",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/54b28a3acb7420aa.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bo-ham-rau-cu-kieu-phap-cho-bua-an-them-dang-cap-09806",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bo-ham-rau-cu-kieu-phap-cho-bua-an-them-dang-cap-09806",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò 300 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Khoai tây 1 củ",
+      "raw_name": "Khoai tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Rau cần 1 nhánh",
+      "raw_name": "Rau cần",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nấm linh chi trắng 100 gr",
+      "raw_name": "Nấm linh chi trắng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Húng tây 3 lá",
+      "raw_name": "Húng tây",
+      "quantity": 3,
+      "unit": "lá",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Sốt cà chua 4 muỗng canh",
+      "raw_name": "Sốt cà chua",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Dầu hào 3 muỗng canh",
+      "raw_name": "Dầu hào",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Bơ lạt 1 muỗng canh",
+      "raw_name": "Bơ lạt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Rượu vang đỏ 6 muỗng canh",
+      "raw_name": "Rượu vang đỏ",
+      "quantity": 6,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Dầu ăn 4 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ muối/ hạt nêm/ tiêu xay)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ muối/ hạt nêm/ tiêu xay",
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T18:31:22Z",
+  "page_title": "Cách làm bò hầm rau củ kiểu Pháp cho bữa ăn thêm đẳng cấp",
+  "original_image_url": "https://cdn.tgdd.vn/2021/05/CookProduct/3-1200x676.jpg"
+}

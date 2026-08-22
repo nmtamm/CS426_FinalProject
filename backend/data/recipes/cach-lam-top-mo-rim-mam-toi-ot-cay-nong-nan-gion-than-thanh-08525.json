@@ -1,0 +1,63 @@
+{
+  "source_id": "08525",
+  "name": "Tóp mỡ rim mắm tỏi ớt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bad699e9c5c29747.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-top-mo-rim-mam-toi-ot-cay-nong-nan-gion-than-thanh-08525",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-top-mo-rim-mam-toi-ot-cay-nong-nan-gion-than-thanh-08525",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mỡ heo 500 gr",
+      "raw_name": "Mỡ heo",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt băm nhỏ 5 trái",
+      "raw_name": "Ớt băm nhỏ",
+      "quantity": 5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi băm nhỏ 10 tép",
+      "raw_name": "Tỏi băm nhỏ 10 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối/Đường 1 ít",
+      "raw_name": "Muối/Đường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T18:59:44Z",
+  "page_title": "Cách làm tóp mỡ rim mắm tỏi ớt cay nồng nàn, giòn thần thánh ăn là ghiền",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/Thumb-1200x676-38.jpg"
+}

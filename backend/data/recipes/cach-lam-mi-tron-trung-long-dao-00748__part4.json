@@ -1,0 +1,101 @@
+{
+  "source_id": "00748",
+  "name": "Mì ý trộn trứng lòng đào sốt bơ lạc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/850a6bb12d9e0e2c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mi-tron-trung-long-dao-00748",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mi-tron-trung-long-dao-00748",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mì ý 20 gr",
+      "raw_name": "Mì ý",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bơ đậu phộng 2 muỗng cà phê",
+      "raw_name": "Bơ đậu phộng",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng gà 2 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi băm 1 muỗng canh",
+      "raw_name": "Tỏi băm",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Giấm ăn 1/2 muỗng cà phê",
+      "raw_name": "Giấm ăn",
+      "quantity": 0.5,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước tương 3 muỗng cà phê",
+      "raw_name": "Nước tương",
+      "quantity": 3,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ô liu 1 ít",
+      "raw_name": "Dầu ô liu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Dầu ăn 1 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bột ớt/ mè rang 1 ít",
+      "raw_name": "Bột ớt/ mè rang",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đường 1/4 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T20:37:27Z",
+  "page_title": "4 cách làm mì trộn trứng lòng đào béo bùi hấp dẫn ngon như ngoài hàng",
+  "variant_index": 4,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2022/07/CookRecipe/Avatar/mi-y-tron-trung-long-dao-sot-bo-dau-phong-thumbnail.jpg"
+}

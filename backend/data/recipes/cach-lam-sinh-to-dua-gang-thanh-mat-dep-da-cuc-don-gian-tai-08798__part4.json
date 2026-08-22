@@ -1,0 +1,65 @@
+{
+  "source_id": "08798",
+  "name": "Sinh tố dưa gang mít",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/11f9cdb4ab4b9beb.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sinh-to-dua-gang-thanh-mat-dep-da-cuc-don-gian-tai-08798",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sinh-to-dua-gang-thanh-mat-dep-da-cuc-don-gian-tai-08798",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    },
+    {
+      "slug": "sinh-to",
+      "name": "Sinh tố"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Dưa gang 100 gr",
+      "raw_name": "Dưa gang",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mít 50 gr",
+      "raw_name": "Mít",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đặc 2 muỗng canh",
+      "raw_name": "Sữa đặc",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 1 muỗng cà phê",
+      "raw_name": "Đường",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:03:07Z",
+  "page_title": "8 cách làm sinh tố dưa gang thanh mát, đẹp da cực đơn giản tại nhà",
+  "variant_index": 4,
+  "variant_count": 8,
+  "original_image_url": "https://cdn.tgdd.vn/2022/02/CookRecipe/Avatar/tghum.jpg"
+}

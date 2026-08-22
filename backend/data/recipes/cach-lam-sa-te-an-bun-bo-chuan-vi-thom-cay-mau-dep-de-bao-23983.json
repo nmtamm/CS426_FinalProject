@@ -1,0 +1,75 @@
+{
+  "source_id": "23983",
+  "name": "Sa tế ăn bún bò",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/bb079f0bacc54068.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sa-te-an-bun-bo-chuan-vi-thom-cay-mau-dep-de-bao-23983",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-sa-te-an-bun-bo-chuan-vi-thom-cay-mau-dep-de-bao-23983",
+  "servings_text": "Cho 400gr sa tế",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Ớt bột Huế 200 gr",
+      "raw_name": "Ớt bột Huế",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sả băm 100 gr",
+      "raw_name": "Sả băm",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tỏi băm 50 gr",
+      "raw_name": "Tỏi băm",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Quế 1 nhánh (nhánh nhỏ)",
+      "raw_name": "Quế",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": "nhánh nhỏ",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hoa hồi 4 cái",
+      "raw_name": "Hoa hồi",
+      "quantity": 4,
+      "unit": "cái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Dầu màu điều 1 ít",
+      "raw_name": "Dầu màu điều",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (đường/ bột ngọt/ hạt nêm/ nước mắm)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đường/ bột ngọt/ hạt nêm/ nước mắm",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:25:13Z",
+  "page_title": "Cách làm sa tế ăn bún bò  chuẩn vị thơm cay, màu đẹp, dễ bảo quản",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/cach-lam-sa-te-an-bun-bo.jpg"
+}

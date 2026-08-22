@@ -1,0 +1,111 @@
+{
+  "source_id": "23651",
+  "name": "Bột chiên chuối giòn lâu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7f1bee4481000dd5.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-bot-chien-chuoi-gion-lau-kinh-doanh-sieu-loi-23651",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-pha-bot-chien-chuoi-gion-lau-kinh-doanh-sieu-loi-23651",
+  "servings_text": "Cho 9 - 10 quả chuối",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "meo-vao-bep",
+      "name": "Mẹo vào bếp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bột gạo tẻ 300 gr",
+      "raw_name": "Bột gạo tẻ",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột mì 100 gr",
+      "raw_name": "Bột mì",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước lọc 300 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 10 gr",
+      "raw_name": "Muối",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Bột nghệ 10 gr",
+      "raw_name": "Bột nghệ",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Bột nở 10 gr",
+      "raw_name": "Bột nở",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước cốt chanh 10 ml",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 10,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Mè đen 30 gr",
+      "raw_name": "Mè đen",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường 100 gr",
+      "raw_name": "Đường",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Chuối sứ chín vừa 10 quả",
+      "raw_name": "Chuối sứ chín vừa",
+      "quantity": 10,
+      "unit": "quả",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Dầu ăn 1 chén",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "chén",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:54:29Z",
+  "page_title": "Cách pha bột chiên chuối giòn lâu kinh doanh siêu lời",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/mdjfaksd.jpg"
+}

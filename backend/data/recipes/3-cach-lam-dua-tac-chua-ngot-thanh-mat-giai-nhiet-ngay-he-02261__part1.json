@@ -1,0 +1,85 @@
+{
+  "source_id": "02261",
+  "name": "Dừa tắc trái cây Thái Lan",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3c5b02a03de5d5b8.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-dua-tac-chua-ngot-thanh-mat-giai-nhiet-ngay-he-02261",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-dua-tac-chua-ngot-thanh-mat-giai-nhiet-ngay-he-02261",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mít thái sợi 200 gr",
+      "raw_name": "Mít thái sợi",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thơm 1 trái",
+      "raw_name": "Thơm",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột rau câu 10 g",
+      "raw_name": "Bột rau câu",
+      "quantity": 10,
+      "unit": "g",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dừa xiêm 3 trái",
+      "raw_name": "Dừa xiêm",
+      "quantity": 3,
+      "unit": "trái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cam sành 1 trái",
+      "raw_name": "Cam sành",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tắc 200 g",
+      "raw_name": "Tắc",
+      "quantity": 200,
+      "unit": "g",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Lá dứa 100 gr",
+      "raw_name": "Lá dứa",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đường 280 gr",
+      "raw_name": "Đường",
+      "quantity": 280,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:45:54Z",
+  "page_title": "3 cách làm dừa tắc chua ngọt thanh mát giải nhiệt ngày hè nóng bức",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2026/06/CookRecipe/Avatar/dua-tac-trai-cay-thai-lan-thumbnail.jpg"
+}

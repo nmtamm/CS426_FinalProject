@@ -1,0 +1,197 @@
+{
+  "source_id": "02172",
+  "name": "Phở chay bò lát",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4de4fc6763380f74.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-pho-chay-don-gian-thanh-dam-thom-ngon-kho-cuong-02172",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-pho-chay-don-gian-thanh-dam-thom-ngon-kho-cuong-02172",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh phở tươi 500 gr",
+      "raw_name": "Bánh phở tươi",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bò lát chay 50 gr",
+      "raw_name": "Bò lát chay",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Tàu hũ ki cây 30 gr",
+      "raw_name": "Tàu hũ ki cây",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tàu hũ ki lá 30 gr",
+      "raw_name": "Tàu hũ ki lá",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đậu hũ 3 miếng",
+      "raw_name": "Đậu hũ 3 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Củ cải trắng 200 gr (1 củ)",
+      "raw_name": "Củ cải trắng",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "1 củ",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nấm rơm 200 gr",
+      "raw_name": "Nấm rơm",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Giá đỗ 200 gr",
+      "raw_name": "Giá đỗ",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Củ sắn 200 gr (1 củ)",
+      "raw_name": "Củ sắn",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "1 củ",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Cà rốt 200 gr (1 củ)",
+      "raw_name": "Cà rốt",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "1 củ",
+      "display_order": 10
+    },
+    {
+      "raw_text": "Su su 200 gr (1 củ)",
+      "raw_name": "Su su",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "1 củ",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Bắp Mỹ 300 gr (1 trái)",
+      "raw_name": "Bắp Mỹ",
+      "quantity": 300,
+      "unit": "gr",
+      "note": "1 trái",
+      "display_order": 12
+    },
+    {
+      "raw_text": "Hành boa rô 30 gr (1 nhánh)",
+      "raw_name": "Hành boa rô",
+      "quantity": 30,
+      "unit": "gr",
+      "note": "1 nhánh",
+      "display_order": 13
+    },
+    {
+      "raw_text": "Hành tây 200 gr (1 củ)",
+      "raw_name": "Hành tây",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "1 củ",
+      "display_order": 14
+    },
+    {
+      "raw_text": "Ớt sừng 1 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Gừng 50 gr (1 củ)",
+      "raw_name": "Gừng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "1 củ",
+      "display_order": 16
+    },
+    {
+      "raw_text": "Rau ăn kèm 50 gr (húng quế/xà lách...)",
+      "raw_name": "Rau ăn kèm",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "húng quế/xà lách...",
+      "display_order": 17
+    },
+    {
+      "raw_text": "Gia vị nước súp phở 30 gr",
+      "raw_name": "Gia vị nước súp phở",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 18
+    },
+    {
+      "raw_text": "Hạt nêm chay 4 muỗng cà phê",
+      "raw_name": "Hạt nêm chay",
+      "quantity": 4,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 19
+    },
+    {
+      "raw_text": "Đường phèn 1 muỗng canh",
+      "raw_name": "Đường phèn",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 20
+    },
+    {
+      "raw_text": "Dầu ăn 130 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 130,
+      "unit": "ml",
+      "note": null,
+      "display_order": 21
+    },
+    {
+      "raw_text": "Muối/ Tiêu xay 1 ít",
+      "raw_name": "Muối/ Tiêu xay",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 22
+    }
+  ],
+  "scraped_at": "2026-08-19T18:43:00Z",
+  "page_title": "2 cách nấu phở chay ngon đơn giản dễ làm tại nhà đổi vị ngày chay",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/pho-chay-bo-lat-thumbnail.jpg"
+}

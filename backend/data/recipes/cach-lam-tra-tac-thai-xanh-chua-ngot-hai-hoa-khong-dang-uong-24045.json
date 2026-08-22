@@ -1,0 +1,51 @@
+{
+  "source_id": "24045",
+  "name": "Trà tắc thái xanh",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1b2fe04ae024e194.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-tac-thai-xanh-chua-ngot-hai-hoa-khong-dang-uong-24045",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-tac-thai-xanh-chua-ngot-hai-hoa-khong-dang-uong-24045",
+  "servings_text": "Cho 6-7 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà thái xanh 30 gr",
+      "raw_name": "Trà thái xanh",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tắc 500 gr",
+      "raw_name": "Tắc",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 500 gr",
+      "raw_name": "Đường",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1/5 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:46:54Z",
+  "page_title": "Cách làm trà tắc thái xanh chua ngọt hài hòa, không đắng, uống là ghiền",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/cach-lam-tra-tac-thai-xanh.jpg"
+}

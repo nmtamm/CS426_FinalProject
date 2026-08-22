@@ -1,0 +1,65 @@
+{
+  "source_id": "03875",
+  "name": "Thịt heo cuộn rau củ áp chảo sốt teriyaki",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3fa5071159e44820.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-heo-cuon-rau-cu-ap-chao-sot-teriyaki-gion-ngon-03875",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-heo-cuon-rau-cu-ap-chao-sot-teriyaki-gion-ngon-03875",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt ba chỉ 100 gr",
+      "raw_name": "Thịt ba chỉ",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cà rốt 50 gr",
+      "raw_name": "Cà rốt",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt chuông 50 gr",
+      "raw_name": "Ớt chuông",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Măng 50 gr",
+      "raw_name": "Măng",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sốt Teriyaki 20 ml",
+      "raw_name": "Sốt Teriyaki",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:00:43Z",
+  "page_title": "Cách làm thịt heo cuộn rau củ áp chảo sốt teriyaki giòn ngon cực lạ miệng",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookRecipe/Avatar/cach-lam-thit-heo-cuon-rau-cu-ap-chao-sot-teriyaki-gion-ngon-dam-da-cuc-la-mieng-thumbnail.jpg"
+}

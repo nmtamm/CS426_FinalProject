@@ -1,0 +1,85 @@
+{
+  "source_id": "13250",
+  "name": "Trà sữa thái đỏ với bột béo",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4316ec99dfab3fdc.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cac-cach-pha-tra-sua-thai-voi-bot-beo-don-gian-thom-ngon-giai-13250",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cac-cach-pha-tra-sua-thai-voi-bot-beo-don-gian-thom-ngon-giai-13250",
+  "servings_text": "Cho 8 chai",
+  "topics": [
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà thái đỏ 25 gr",
+      "raw_name": "Trà thái đỏ",
+      "quantity": 25,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột béo 80 gr",
+      "raw_name": "Bột béo",
+      "quantity": 80,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sữa đặc 100 gr",
+      "raw_name": "Sữa đặc",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột rau câu dẻo 6 gr",
+      "raw_name": "Bột rau câu dẻo",
+      "quantity": 6,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Trân châu 200 gr",
+      "raw_name": "Trân châu",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 370 gr",
+      "raw_name": "Đường",
+      "quantity": 370,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước 1.9 lít",
+      "raw_name": "Nước 1.9 lít",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T20:11:56Z",
+  "page_title": "2 cách pha trà sữa thái với bột béo đơn giản thơm ngon giải khát cuối tuần",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/tra-sua-thai-do-voi-bot-beo-thumbnail.jpg"
+}

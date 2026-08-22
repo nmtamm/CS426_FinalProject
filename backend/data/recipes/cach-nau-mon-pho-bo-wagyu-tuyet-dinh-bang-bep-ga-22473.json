@@ -1,0 +1,127 @@
+{
+  "source_id": "22473",
+  "name": "Phở bò Wagyu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/da588986404e50be.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-mon-pho-bo-wagyu-tuyet-dinh-bang-bep-ga-22473",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-mon-pho-bo-wagyu-tuyet-dinh-bang-bep-ga-22473",
+  "servings_text": "Cho 1 cái",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    },
+    {
+      "slug": "mon-nuoc",
+      "name": "Món nước"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò Wagyu 300 gr",
+      "raw_name": "Thịt bò Wagyu",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Mỡ bò 1 ít",
+      "raw_name": "Mỡ bò",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Xương heo 2 cái (ống xương)",
+      "raw_name": "Xương heo",
+      "quantity": 2,
+      "unit": "cái",
+      "note": "ống xương",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Xương gà 1 cái",
+      "raw_name": "Xương gà",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Vỏ cam hoặc vỏ quýt khô 1 ít",
+      "raw_name": "Vỏ cam hoặc vỏ quýt khô",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Cánh hoa hồi 1 ít",
+      "raw_name": "Cánh hoa hồi",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Đường phèn 60 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Củ cải trắng 1 củ",
+      "raw_name": "Củ cải trắng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Bột quế 1 ít",
+      "raw_name": "Bột quế",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Hành lá 1 ít",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Gia vị thông thường 1 ít (muối/hạt nêm/tiêu)",
+      "raw_name": "Gia vị thông thường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/hạt nêm/tiêu",
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T18:23:17Z",
+  "page_title": "Cách nấu món phở bò Wagyu tuyệt đỉnh bằng bếp ga",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/pho-wagyu.jpg"
+}

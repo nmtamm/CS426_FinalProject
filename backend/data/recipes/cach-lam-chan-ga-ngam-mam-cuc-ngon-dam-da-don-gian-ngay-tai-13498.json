@@ -1,0 +1,107 @@
+{
+  "source_id": "13498",
+  "name": "Chân gà ngâm mắm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/9542c95564e4b82a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chan-ga-ngam-mam-cuc-ngon-dam-da-don-gian-ngay-tai-13498",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chan-ga-ngam-mam-cuc-ngon-dam-da-don-gian-ngay-tai-13498",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Chân gà 500 gr",
+      "raw_name": "Chân gà",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Ớt sừng 1/2 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 0.5,
+      "unit": "trái",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tím 3 củ (cắt lát)",
+      "raw_name": "Hành tím",
+      "quantity": 3,
+      "unit": "củ",
+      "note": "cắt lát",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 3 tép (cắt lát)",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": "cắt lát",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sả 1 cây",
+      "raw_name": "Sả",
+      "quantity": 1,
+      "unit": "cây",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước lọc 100 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Rượu trắng 1 muỗng cà phê",
+      "raw_name": "Rượu trắng",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước mắm 200 ml",
+      "raw_name": "Nước mắm",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đường 150 gr",
+      "raw_name": "Đường",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:06:10Z",
+  "page_title": "Cách làm chân gà ngâm mắm cực ngon, đậm đà đơn giản ngay tại nhà",
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookDish/cach-lam-chan-ga-ngam-mam-cuc-ngon-dam-da-don-gian-ngay-tai-avt-1200x676-1.jpg"
+}

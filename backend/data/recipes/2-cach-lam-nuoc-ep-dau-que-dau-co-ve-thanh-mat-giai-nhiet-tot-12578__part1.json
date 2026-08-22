@@ -1,0 +1,53 @@
+{
+  "source_id": "12578",
+  "name": "Nước ép đậu que",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/dcf525bd4d6bbd89.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-ep-dau-que-dau-co-ve-thanh-mat-giai-nhiet-tot-12578",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-nuoc-ep-dau-que-dau-co-ve-thanh-mat-giai-nhiet-tot-12578",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "nuoc-ep",
+      "name": "Nước ép"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đậu que 200 gr (đậu cô ve)",
+      "raw_name": "Đậu que",
+      "quantity": 200,
+      "unit": "gr",
+      "note": "đậu cô ve",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước cốt chanh vàng 20 ml",
+      "raw_name": "Nước cốt chanh vàng",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Đường 2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:13:02Z",
+  "page_title": "2 cách làm nước ép đậu que (đậu cô ve) thanh mát giải nhiệt",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/nuoc-ep-dau-que-thumbnail.jpg"
+}

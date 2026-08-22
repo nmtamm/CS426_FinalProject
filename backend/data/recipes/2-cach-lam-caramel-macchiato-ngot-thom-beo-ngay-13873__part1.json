@@ -1,0 +1,61 @@
+{
+  "source_id": "13873",
+  "name": "Caramel macchiato nóng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/ed8458dc1041f269.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-caramel-macchiato-ngot-thom-beo-ngay-13873",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-caramel-macchiato-ngot-thom-beo-ngay-13873",
+  "servings_text": "Cho 1 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cà phê espresso 20 gr",
+      "raw_name": "Cà phê espresso",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Sữa tươi 250 ml",
+      "raw_name": "Sữa tươi",
+      "quantity": 250,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nước lọc 75 ml",
+      "raw_name": "Nước lọc",
+      "quantity": 75,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Siro vani 2 muỗng canh",
+      "raw_name": "Siro vani",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sốt caramel 1 ít",
+      "raw_name": "Sốt caramel",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T20:04:54Z",
+  "page_title": "2 cách làm caramel macchiato ngọt thơm béo ngậy",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/caramel-macchiato-nong-thumbnail-1.jpg"
+}

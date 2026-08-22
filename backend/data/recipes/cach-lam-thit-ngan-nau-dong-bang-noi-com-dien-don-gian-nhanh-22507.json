@@ -1,0 +1,67 @@
+{
+  "source_id": "22507",
+  "name": "Thịt ngan nấu đông",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/98014a37a07b9740.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-ngan-nau-dong-bang-noi-com-dien-don-gian-nhanh-22507",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-ngan-nau-dong-bang-noi-com-dien-don-gian-nhanh-22507",
+  "servings_text": "Cho 1 cái",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt ba chỉ heo 600 gr",
+      "raw_name": "Thịt ba chỉ heo",
+      "quantity": 600,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gừng 1 củ",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Thịt ngan 1/2 con",
+      "raw_name": "Thịt ngan 1/2 con",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tím 1 ít",
+      "raw_name": "Hành tím",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Mộc nhĩ 20 gr",
+      "raw_name": "Mộc nhĩ",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông thường 1 ít (tiêu/hạt nêm/bột ngọt/muối/bột canh)",
+      "raw_name": "Gia vị thông thường",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "tiêu/hạt nêm/bột ngọt/muối/bột canh",
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:34:16Z",
+  "page_title": "Cách làm thịt ngan nấu đông bằng nồi cơm điện đơn giản nhanh chóng",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/iwewewe--.jpg"
+}

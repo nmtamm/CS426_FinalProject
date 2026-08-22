@@ -1,0 +1,53 @@
+{
+  "source_id": "07932",
+  "name": "Khô cá sặc bướm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f94dd2ddfbada5c4.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kho-ca-sac-thom-ngon-don-gian-tai-nha-07932",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-kho-ca-sac-thom-ngon-don-gian-tai-nha-07932",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cá sặc bướm 2 kg",
+      "raw_name": "Cá sặc bướm",
+      "quantity": 2,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước mắm 4 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 4,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bọt ngọt 1 muỗng canh",
+      "raw_name": "Bọt ngọt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T20:29:06Z",
+  "page_title": "2 cách làm khô cá sặc thơm ngon, đơn giản dễ làm tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/kho-ca-sac-buom-thumbnail.jpg"
+}

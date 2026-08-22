@@ -1,0 +1,107 @@
+{
+  "source_id": "13488",
+  "name": "Bò sốt vang miền Bắc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7c06d053157d29dd.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-bo-sot-vang-mien-bac-thom-lung-ngon-dung-dieu-13488",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-bo-sot-vang-mien-bac-thom-lung-ngon-dung-dieu-13488",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Nạm thịt bò 500 gr",
+      "raw_name": "Nạm thịt bò",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rượu vang đỏ 60 ml",
+      "raw_name": "Rượu vang đỏ",
+      "quantity": 60,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà chua 2 quả",
+      "raw_name": "Cà chua",
+      "quantity": 2,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Cà rốt 70 gr (khoảng 1 củ nhỏ vừa)",
+      "raw_name": "Cà rốt",
+      "quantity": 70,
+      "unit": "gr",
+      "note": "khoảng 1 củ nhỏ vừa",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Khoai tây 70 gr (gia giảm tùy vào khẩu vị)",
+      "raw_name": "Khoai tây",
+      "quantity": 70,
+      "unit": "gr",
+      "note": "gia giảm tùy vào khẩu vị",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tây 10 gr",
+      "raw_name": "Hành tây",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gừng 10 gr (khoảng 1 củ nhỏ)",
+      "raw_name": "Gừng",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "khoảng 1 củ nhỏ",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột năng 20 gr",
+      "raw_name": "Bột năng",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Bơ lạt 30 gr (Nếu dùng bơ mặn thì giảm lượng muối xuống 1 chút)",
+      "raw_name": "Bơ lạt",
+      "quantity": 30,
+      "unit": "gr",
+      "note": "Nếu dùng bơ mặn thì giảm lượng muối xuống 1 chút",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Tương cà 15 gr",
+      "raw_name": "Tương cà",
+      "quantity": 15,
+      "unit": "gr",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gói sốt bò kho 1 cái",
+      "raw_name": "Gói sốt bò kho",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:31:43Z",
+  "page_title": "Cách nấu bò sốt vang miền Bắc thơm lừng, ngon đúng điệu",
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookDish/cach-nau-bo-sot-vang-mien-bac-thom-lung-ngon-dung-dieu-avt-1200x676.jpg"
+}

@@ -1,0 +1,89 @@
+{
+  "source_id": "05626",
+  "name": "Tóp mỡ chay kho quẹt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6da2918f9501031d.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-top-mo-chay-gion-rum-thom-ngon-cho-bua-com-nha-05626",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-top-mo-chay-gion-rum-thom-ngon-cho-bua-com-nha-05626",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    },
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bánh mì 1 cái",
+      "raw_name": "Bánh mì",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hành lá 1 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt 1 trái",
+      "raw_name": "Ớt",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 1.5 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước mắm chay 7 muỗng canh",
+      "raw_name": "Nước mắm chay",
+      "quantity": 7,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 2.5 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột ngọt 1/4 muỗng cà phê",
+      "raw_name": "Bột ngọt",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Tiêu 1 ít",
+      "raw_name": "Tiêu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:45:34Z",
+  "page_title": "3 cách làm tóp mỡ chay giòn rụm thơm ngon cho bữa cơm nhà",
+  "variant_index": 3,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookRecipe/Avatar/top-mo-chay-kho-quet-thumbnail-3.jpg"
+}

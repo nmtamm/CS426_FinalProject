@@ -1,0 +1,139 @@
+{
+  "source_id": "13181",
+  "name": "Gà nấu rượu nếp",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/3aae1069783716b2.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-nau-ruou-nep-thom-ngon-nong-am-cho-ca-nha-me-say-13181",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-ga-nau-ruou-nep-thom-ngon-nong-am-cho-ca-nha-me-say-13181",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà ta 2.5 kg (1 con)",
+      "raw_name": "Gà ta",
+      "quantity": 2.5,
+      "unit": "kg",
+      "note": "1 con",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Rượu nếp 100 ml",
+      "raw_name": "Rượu nếp",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nấm rơm 100 gr",
+      "raw_name": "Nấm rơm",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nấm mèo 3 cái",
+      "raw_name": "Nấm mèo",
+      "quantity": 3,
+      "unit": "cái",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cà rốt 100 gr (1 củ)",
+      "raw_name": "Cà rốt",
+      "quantity": 100,
+      "unit": "gr",
+      "note": "1 củ",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành lá 2 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ngò rí 2 nhánh",
+      "raw_name": "Ngò rí",
+      "quantity": 2,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gừng 100 gr",
+      "raw_name": "Gừng",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ớt hiểm 4 trái",
+      "raw_name": "Ớt hiểm",
+      "quantity": 4,
+      "unit": "trái",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hành tím 6 củ",
+      "raw_name": "Hành tím",
+      "quantity": 6,
+      "unit": "củ",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Tỏi 3 tép",
+      "raw_name": "Tỏi 3 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước dừa tươi 200 ml",
+      "raw_name": "Nước dừa tươi",
+      "quantity": 200,
+      "unit": "ml",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Dầu mè 1 muỗng cà phê",
+      "raw_name": "Dầu mè",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (Muối/ Đường/ Bột ngọt)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "Muối/ Đường/ Bột ngọt",
+      "display_order": 15
+    }
+  ],
+  "scraped_at": "2026-08-19T18:12:41Z",
+  "page_title": "Cách làm gà nấu rượu nếp thơm ngon, nồng ấm cho cả nhà mê say",
+  "original_image_url": "https://cdn.tgdd.vn/2021/09/CookProduct/1200-1200x676-36.jpg"
+}

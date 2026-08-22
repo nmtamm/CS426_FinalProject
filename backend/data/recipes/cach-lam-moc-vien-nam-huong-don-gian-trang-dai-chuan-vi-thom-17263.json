@@ -1,0 +1,59 @@
+{
+  "source_id": "17263",
+  "name": "Mọc viên nấm hương",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6abfd0d7cbaaaacd.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-moc-vien-nam-huong-don-gian-trang-dai-chuan-vi-thom-17263",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-moc-vien-nam-huong-don-gian-trang-dai-chuan-vi-thom-17263",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt xay 300 gr",
+      "raw_name": "Thịt xay",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Giò sống 300 gr",
+      "raw_name": "Giò sống",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Mộc nhĩ 50 gr",
+      "raw_name": "Mộc nhĩ",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nấm hương 50 gr",
+      "raw_name": "Nấm hương",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Muối/tiêu 1 ít",
+      "raw_name": "Muối/tiêu",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:07:06Z",
+  "page_title": "Cách làm mọc viên nấm hương đơn giản, trắng dai, chuẩn vị thơm ngon",
+  "original_image_url": "https://cdn.tgdd.vn/2022/05/CookDish/cach-lam-moc-vien-nam-huong-don-gian-trang-dai-chuan-vi-thom-avt-1200x676.jpg"
+}

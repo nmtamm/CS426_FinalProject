@@ -1,0 +1,47 @@
+{
+  "source_id": "00555",
+  "name": "Mứt xoài khô",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/b356313df6be1e57.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-xoai-deo-thom-ngon-don-gian-cho-ngay-tet-00555",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mut-xoai-deo-thom-ngon-don-gian-cho-ngay-tet-00555",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Xoài chín 4 trái (không dùng xoài quá chín)",
+      "raw_name": "Xoài chín",
+      "quantity": 4,
+      "unit": "trái",
+      "note": "không dùng xoài quá chín",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Vôi tôi 1 muỗng cà phê",
+      "raw_name": "Vôi tôi",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 400 g",
+      "raw_name": "Đường",
+      "quantity": 400,
+      "unit": "g",
+      "note": null,
+      "display_order": 3
+    }
+  ],
+  "scraped_at": "2026-08-19T19:29:26Z",
+  "page_title": "Cách làm mứt xoài khô thơm ngon đơn giản cho ngày Tết",
+  "original_image_url": "https://cdn.tgdd.vn/Files/2016/02/01/781118/tu-lam-mut-xoai-deo-cho-ngay-tet-khong-he-kho-6-760x367.jpg"
+}

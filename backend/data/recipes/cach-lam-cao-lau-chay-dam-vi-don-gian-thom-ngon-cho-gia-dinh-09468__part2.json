@@ -1,0 +1,86 @@
+{
+  "source_id": "09468",
+  "name": "Cao lầu chay",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/274281bbb39dbf36.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cao-lau-chay-dam-vi-don-gian-thom-ngon-cho-gia-dinh-09468",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-cao-lau-chay-dam-vi-don-gian-thom-ngon-cho-gia-dinh-09468",
+  "servings_text": "Cho 2 người ăn",
+  "topics": [
+    {
+      "slug": "mon-chay",
+      "name": "Món chay"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cao lầu tươi 100 gram",
+      "raw_name": "Cao lầu tươi 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cao lầu khô 100 gram",
+      "raw_name": "Cao lầu khô 100 gram",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nấm đùi gà 3 cây",
+      "raw_name": "Nấm đùi gà",
+      "quantity": 3,
+      "unit": "cây",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sườn non chay 3 miếng",
+      "raw_name": "Sườn non chay 3 miếng",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nấm đông cô khô 4 cây",
+      "raw_name": "Nấm đông cô khô",
+      "quantity": 4,
+      "unit": "cây",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gốc hành băm nhỏ 2 muỗng canh",
+      "raw_name": "Gốc hành băm nhỏ",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Nước dừa tươi 350 ml",
+      "raw_name": "Nước dừa tươi",
+      "quantity": 350,
+      "unit": "ml",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Gia vị 1 ít (hạt nêm chay/đường/bột ngũ vị hương/dầu hào chay/tương ớt/nước tương/dầu màu điều)",
+      "raw_name": "Gia vị",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hạt nêm chay/đường/bột ngũ vị hương/dầu hào chay/tương ớt/nước tương/dầu màu điều",
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T18:41:58Z",
+  "page_title": "2 cách làm cao lầu chay đậm vị đơn giản thơm ngon cho gia đình",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "Công thức được chia sẻ bởi Tiktok Bếp chay XANH",
+  "original_image_url": "https://cdn.tgdd.vn/2023/11/CookRecipe/Avatar/cao-lau-chay-cong-thuc-duoc-chia-se-boi-tiktok-bep-chay-xanh-thumbnail.jpg"
+}

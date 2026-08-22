@@ -1,0 +1,67 @@
+{
+  "source_id": "13826",
+  "name": "Củ kiệu miền trung",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/7d9686d06aac25ff.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-muoi-cu-kieu-mien-trung-moi-la-hap-dan-don-gian-ai-cung-13826",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-muoi-cu-kieu-mien-trung-moi-la-hap-dan-don-gian-ai-cung-13826",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Củ kiệu 500 gr",
+      "raw_name": "Củ kiệu",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đu đủ xanh 1 quả",
+      "raw_name": "Đu đủ xanh",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Cà rốt 2 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước mắm 300 ml",
+      "raw_name": "Nước mắm",
+      "quantity": 300,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường cát 200 gr",
+      "raw_name": "Đường cát",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường phèn 100 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T20:30:02Z",
+  "page_title": "Cách muối củ kiệu miền trung mới lạ hấp dẫn đơn giản ai cũng làm được",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-muoi-cu-kieu-mien-trung-moi-la-hap-dan-don-gian-ai-cung-avt-1200x676.jpg"
+}

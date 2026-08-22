@@ -1,0 +1,53 @@
+{
+  "source_id": "04777",
+  "name": "Kẹo cuộn kiwi",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4812b0733b979477.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-keo-deo-kiwi-va-keo-cuon-kiwi-chua-ngot-don-gian-04777",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-keo-deo-kiwi-va-keo-cuon-kiwi-chua-ngot-don-gian-04777",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Kiwi 1 kg",
+      "raw_name": "Kiwi",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Đường 100 gr",
+      "raw_name": "Đường",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột gelatine 30 gr",
+      "raw_name": "Bột gelatine",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước 700 ml",
+      "raw_name": "Nước",
+      "quantity": 700,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T19:24:14Z",
+  "page_title": "2 cách làm kẹo cuộn kiwi và kẹo dẻo kiwi chua ngọt, đơn giản trong 3 bước",
+  "variant_index": 1,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookRecipe/Avatar/keo-cuon-kiwi-thumbnail.jpg"
+}

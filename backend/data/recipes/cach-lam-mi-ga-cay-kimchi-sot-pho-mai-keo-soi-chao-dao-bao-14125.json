@@ -1,0 +1,75 @@
+{
+  "source_id": "14125",
+  "name": "Mì gà cay kim chi sốt phô mai",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/f3276730f3762b0a.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mi-ga-cay-kimchi-sot-pho-mai-keo-soi-chao-dao-bao-14125",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-mi-ga-cay-kimchi-sot-pho-mai-keo-soi-chao-dao-bao-14125",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Mì cay Hàn Quốc 1 gói (Samyang hoặc tùy ý thích)",
+      "raw_name": "Mì cay Hàn Quốc",
+      "quantity": 1,
+      "unit": "gói",
+      "note": "Samyang hoặc tùy ý thích",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng gà 3 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Trứng cút 5 quả (đã luộc)",
+      "raw_name": "Trứng cút",
+      "quantity": 5,
+      "unit": "quả",
+      "note": "đã luộc",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Kim chi 100 gr",
+      "raw_name": "Kim chi",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Phô mai mozzarella 200 gr",
+      "raw_name": "Phô mai mozzarella",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Mùi tây 1 ít",
+      "raw_name": "Mùi tây",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Dầu ăn 2 muỗng cà phê",
+      "raw_name": "Dầu ăn",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:37:14Z",
+  "page_title": "Cách làm mì gà cay kim chi sốt phô mai kéo sợi chao đảo bao con tim",
+  "original_image_url": "https://cdn.tgdd.vn/2021/10/CookDish/cach-lam-mi-ga-cay-kimchi-sot-pho-mai-keo-soi-chao-dao-bao-avt-1200x676.jpg"
+}

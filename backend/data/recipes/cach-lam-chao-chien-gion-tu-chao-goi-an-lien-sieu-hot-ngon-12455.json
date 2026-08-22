@@ -1,0 +1,55 @@
+{
+  "source_id": "12455",
+  "name": "Cháo chiên giòn",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/8267cac45891b7ff.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chao-chien-gion-tu-chao-goi-an-lien-sieu-hot-ngon-12455",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-chao-chien-gion-tu-chao-goi-an-lien-sieu-hot-ngon-12455",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cháo ăn liền 3 gói",
+      "raw_name": "Cháo ăn liền",
+      "quantity": 3,
+      "unit": "gói",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Trứng gà 3 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành lá 3 nhánh",
+      "raw_name": "Hành lá",
+      "quantity": 3,
+      "unit": "nhánh",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Dầu ăn 1 ít",
+      "raw_name": "Dầu ăn",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 4
+    }
+  ],
+  "scraped_at": "2026-08-19T18:59:47Z",
+  "page_title": "Cách làm cháo chiên giòn từ cháo gói ăn liền siêu hot ngon nhanh đơn giản",
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookProduct/thumb1200x676-1200x676-2.jpg"
+}

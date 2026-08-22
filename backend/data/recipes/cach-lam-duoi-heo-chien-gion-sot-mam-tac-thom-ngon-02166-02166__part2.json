@@ -1,0 +1,177 @@
+{
+  "source_id": "02166",
+  "name": "Đuôi heo chiên nước mắm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/e0f042a04d424231.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-duoi-heo-chien-gion-sot-mam-tac-thom-ngon-02166-02166",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-duoi-heo-chien-gion-sot-mam-tac-thom-ngon-02166-02166",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Đuôi heo 2 cái",
+      "raw_name": "Đuôi heo",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Muối hột 2 muỗng canh",
+      "raw_name": "Muối hột",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Ớt 5 quả",
+      "raw_name": "Ớt",
+      "quantity": 5,
+      "unit": "quả",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tím 1 củ",
+      "raw_name": "Hành tím",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 1 củ (đã lột vỏ)",
+      "raw_name": "Tỏi",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "đã lột vỏ",
+      "display_order": 5
+    },
+    {
+      "raw_text": "Riềng 1 củ (cắt nhỏ)",
+      "raw_name": "Riềng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "cắt nhỏ",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gừng 1 củ (cắt nhỏ)",
+      "raw_name": "Gừng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": "cắt nhỏ",
+      "display_order": 7
+    },
+    {
+      "raw_text": "Hành lá 1 cây",
+      "raw_name": "Hành lá",
+      "quantity": 1,
+      "unit": "cây",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Sả đập dập 1 cây",
+      "raw_name": "Sả đập dập",
+      "quantity": 1,
+      "unit": "cây",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Gừng băm 2 muỗng canh",
+      "raw_name": "Gừng băm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Xì dầu 2 muỗng canh (nước tương)",
+      "raw_name": "Xì dầu",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": "nước tương",
+      "display_order": 11
+    },
+    {
+      "raw_text": "Nước cốt chanh 15 ml",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 15,
+      "unit": "ml",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Nước mắm 2 muỗng canh",
+      "raw_name": "Nước mắm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Bột ngọt 1 muỗng canh",
+      "raw_name": "Bột ngọt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Hạt nêm 1/2 muỗng canh",
+      "raw_name": "Hạt nêm",
+      "quantity": 0.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Đường 1.5 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 1.5,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 16
+    },
+    {
+      "raw_text": "Tương ớt 1 muỗng cà phê",
+      "raw_name": "Tương ớt",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 17
+    },
+    {
+      "raw_text": "Sa tế 1 muỗng cà phê",
+      "raw_name": "Sa tế",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 18
+    },
+    {
+      "raw_text": "Dầu ăn 100 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 100,
+      "unit": "ml",
+      "note": null,
+      "display_order": 19
+    }
+  ],
+  "scraped_at": "2026-08-19T19:01:08Z",
+  "page_title": "3 cách làm đuôi heo chiên mắm tắc, nước mắm và chiên giòn cực ngon",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/10/CookRecipe/Avatar/duoi-heo-chien-nuoc-mam-thumbnail.jpg"
+}

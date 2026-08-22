@@ -1,0 +1,79 @@
+{
+  "source_id": "04254",
+  "name": "Bánh thịt bò chiên (Soegogi-jeon) Hàn Quốc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/0aa4c92f3b236031.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-thit-bo-chien-soegogi-jeon-han-quoc-ngon-gion-04254",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-banh-thit-bo-chien-soegogi-jeon-han-quoc-ngon-gion-04254",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-chien",
+      "name": "Món chiên"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt bò 500 gr",
+      "raw_name": "Thịt bò",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Dầu ăn 30 ml",
+      "raw_name": "Dầu ăn",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Dầu mè 30 ml",
+      "raw_name": "Dầu mè",
+      "quantity": 30,
+      "unit": "ml",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Bột mì 50 gr",
+      "raw_name": "Bột mì",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi băm 2 tép",
+      "raw_name": "Tỏi băm 2 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Trứng gà 3 quả",
+      "raw_name": "Trứng gà",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gia vị 10 gr (muối/ tiêu)",
+      "raw_name": "Gia vị",
+      "quantity": 10,
+      "unit": "gr",
+      "note": "muối/ tiêu",
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T19:24:56Z",
+  "page_title": "Cách làm bánh thịt bò chiên (Soegogi-jeon) Hàn Quốc ngon giòn, cực hấp dẫn",
+  "original_image_url": "https://cdn.tgdd.vn/2020/09/CookProduct/cach-lam-banh-thit-bo-chien-soegogi-jeon-han-quoc-ngon-gion-CN-1200x676.jpg"
+}

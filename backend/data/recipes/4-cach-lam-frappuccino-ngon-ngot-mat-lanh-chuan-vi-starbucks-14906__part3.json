@@ -1,0 +1,77 @@
+{
+  "source_id": "14906",
+  "name": "Caramel Frappuccino",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/fac504ffb2193616.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-frappuccino-ngon-ngot-mat-lanh-chuan-vi-starbucks-14906",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/4-cach-lam-frappuccino-ngon-ngot-mat-lanh-chuan-vi-starbucks-14906",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sữa tươi 150 ml",
+      "raw_name": "Sữa tươi",
+      "quantity": 150,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột cà phê hòa tan 2 muỗng canh",
+      "raw_name": "Bột cà phê hòa tan",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Siro caramel 1 muỗng cà phê",
+      "raw_name": "Siro caramel",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sốt caramel 3 muỗng canh",
+      "raw_name": "Sốt caramel",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường 2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Whipping cream 1 ít (đã đánh bông)",
+      "raw_name": "Whipping cream",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "đã đánh bông",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Đá viên 100 gr",
+      "raw_name": "Đá viên",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:04:27Z",
+  "page_title": "4 cách làm Frappuccino ngon ngọt mát lạnh chuẩn vị Starbucks",
+  "variant_index": 3,
+  "variant_count": 4,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/caramel-frappuccino-thumbnail.jpg"
+}

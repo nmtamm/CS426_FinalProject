@@ -1,0 +1,67 @@
+{
+  "source_id": "08637",
+  "name": "Cocktail Pink Lady",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/443321bc57225697.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cong-thuc-cocktail-pink-lady-ngot-ngao-nong-nan-cho-quy-co-08637",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cong-thuc-cocktail-pink-lady-ngot-ngao-nong-nan-cho-quy-co-08637",
+  "servings_text": "Cho 1 người",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Rượu Gin 60 ml",
+      "raw_name": "Rượu Gin",
+      "quantity": 60,
+      "unit": "ml",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước chanh 22.5 ml",
+      "raw_name": "Nước chanh",
+      "quantity": 22.5,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Sugar Syrup 15 ml (sirô đường)",
+      "raw_name": "Sugar Syrup",
+      "quantity": 15,
+      "unit": "ml",
+      "note": "sirô đường",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Syrup Grenadine 7.5 ml (sirô lựu)",
+      "raw_name": "Syrup Grenadine",
+      "quantity": 7.5,
+      "unit": "ml",
+      "note": "sirô lựu",
+      "display_order": 4
+    },
+    {
+      "raw_text": "Lòng trắng trứng 1 quả",
+      "raw_name": "Lòng trắng trứng",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Quả anh đào Maraschino 1 quả",
+      "raw_name": "Quả anh đào Maraschino",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:56:50Z",
+  "page_title": "Công thức Cocktail Pink Lady ngọt ngào nồng nàn cho quý cô sành điệu",
+  "original_image_url": "https://cdn.tgdd.vn/2021/03/CookProduct/PinkLady-CocktailRecipe0-14screenshot-1200x676.jpg"
+}

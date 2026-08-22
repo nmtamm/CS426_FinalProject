@@ -1,0 +1,147 @@
+{
+  "source_id": "07276",
+  "name": "Bắp bò hầmxì dầu",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/602fa5091aeda141.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bap-bo-ham-xi-dau-nuoc-tuong-bang-noi-ap-suat-thom-07276",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-bap-bo-ham-xi-dau-nuoc-tuong-bang-noi-ap-suat-thom-07276",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-tu-bo",
+      "name": "Món từ bò"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Bắp bò 800 gr",
+      "raw_name": "Bắp bò",
+      "quantity": 800,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Xì dầu 120 ml (nước tương)",
+      "raw_name": "Xì dầu",
+      "quantity": 120,
+      "unit": "ml",
+      "note": "nước tương",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường thốt nốt 60 gr",
+      "raw_name": "Đường thốt nốt",
+      "quantity": 60,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hạt ngò 1 muỗng canh",
+      "raw_name": "Hạt ngò",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Quế 1 cái",
+      "raw_name": "Quế",
+      "quantity": 1,
+      "unit": "cái",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Thảo quả 1 quả",
+      "raw_name": "Thảo quả",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Hoa hồi 2 cái",
+      "raw_name": "Hoa hồi",
+      "quantity": 2,
+      "unit": "cái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Đinh hương 2 gr",
+      "raw_name": "Đinh hương",
+      "quantity": 2,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Hành tím 6 củ",
+      "raw_name": "Hành tím",
+      "quantity": 6,
+      "unit": "củ",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gừng 20 gr",
+      "raw_name": "Gừng",
+      "quantity": 20,
+      "unit": "gr",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Sả 2 cây",
+      "raw_name": "Sả",
+      "quantity": 2,
+      "unit": "cây",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Ớt sừng 1 trái",
+      "raw_name": "Ớt sừng",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 13
+    },
+    {
+      "raw_text": "Tiêu hạt 1 muỗng canh",
+      "raw_name": "Tiêu hạt",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 14
+    },
+    {
+      "raw_text": "Dầu ăn 3 muỗng canh",
+      "raw_name": "Dầu ăn",
+      "quantity": 3,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 15
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 16
+    }
+  ],
+  "scraped_at": "2026-08-19T18:23:55Z",
+  "page_title": "Cách làm bắp bò hầm xì dầu (nước tương) bằng nối áp suất thơm ngon hấp dẫn",
+  "original_image_url": "https://cdn.tgdd.vn/2021/02/CookProduct/BeFunky-collage-1200x676-3.jpg"
+}

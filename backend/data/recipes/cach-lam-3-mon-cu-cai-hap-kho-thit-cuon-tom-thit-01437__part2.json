@@ -1,0 +1,41 @@
+{
+  "source_id": "01437",
+  "name": "Củ cải kho thịt",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5b96a4b732f447e0.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-3-mon-cu-cai-hap-kho-thit-cuon-tom-thit-01437",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-3-mon-cu-cai-hap-kho-thit-cuon-tom-thit-01437",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "mon-cuon-tron",
+      "name": "Món cuốn - trộn"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Củ cải trắng 1 củ",
+      "raw_name": "Củ cải trắng",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Thịt ba chỉ 200 g",
+      "raw_name": "Thịt ba chỉ",
+      "quantity": 200,
+      "unit": "g",
+      "note": null,
+      "display_order": 2
+    }
+  ],
+  "scraped_at": "2026-08-19T20:36:45Z",
+  "page_title": "Cách làm 3 món ngon củ cải hấp, củ cải kho thịt, củ cải cuốn tôm thịt",
+  "variant_index": 2,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookRecipe/Avatar/cu-cai-kho-thit-thumbnail.jpg"
+}

@@ -1,0 +1,71 @@
+{
+  "source_id": "03796",
+  "name": "Xôi hạt sen lá dứa",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/986d094e28e68ec6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-xoi-hat-sen-la-dua-beo-bui-thom-ngon-don-gian-03796",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-xoi-hat-sen-la-dua-beo-bui-thom-ngon-don-gian-03796",
+  "servings_text": "Cho 3 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-hap",
+      "name": "Món hấp"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gạo nếp 300 gr",
+      "raw_name": "Gạo nếp",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hạt sen khô 100 gr",
+      "raw_name": "Hạt sen khô",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Lá dứa 10 lá",
+      "raw_name": "Lá dứa",
+      "quantity": 10,
+      "unit": "lá",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối 1/4 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 0.25,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Nước cốt dừa 2 muỗng cà phê",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 2,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường 2 muỗng canh",
+      "raw_name": "Đường",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 6
+    }
+  ],
+  "scraped_at": "2026-08-19T19:01:26Z",
+  "page_title": "Cách làm xôi hạt sen lá dứa béo bùi thơm ngon đơn giản cho Trung Thu",
+  "original_image_url": "https://cdn.tgdd.vn/2020/08/CookProduct/Webp.net-resizeimage(76)-1200x676.jpg"
+}

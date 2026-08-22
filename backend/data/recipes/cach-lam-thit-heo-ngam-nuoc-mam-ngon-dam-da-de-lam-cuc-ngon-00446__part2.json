@@ -1,0 +1,94 @@
+{
+  "source_id": "00446",
+  "name": "Thịt heo ngâm nước mắm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/076f7e75086dffe6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-heo-ngam-nuoc-mam-ngon-dam-da-de-lam-cuc-ngon-00446",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-thit-heo-ngam-nuoc-mam-ngon-dam-da-de-lam-cuc-ngon-00446",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "mon-kho-mam",
+      "name": "Món khô - mắm"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Thịt ba chỉ 500 gr",
+      "raw_name": "Thịt ba chỉ",
+      "quantity": 500,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước mắm ngon 450 ml",
+      "raw_name": "Nước mắm ngon",
+      "quantity": 450,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Đường 450 gr",
+      "raw_name": "Đường",
+      "quantity": 450,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Giấm 2 muỗng canh",
+      "raw_name": "Giấm",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Tỏi 2 củ",
+      "raw_name": "Tỏi",
+      "quantity": 2,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tím 5 củ",
+      "raw_name": "Hành tím",
+      "quantity": 5,
+      "unit": "củ",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Ớt hiểm 4 trái",
+      "raw_name": "Ớt hiểm",
+      "quantity": 4,
+      "unit": "trái",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Muối hột 1 ít",
+      "raw_name": "Muối hột",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    }
+  ],
+  "scraped_at": "2026-08-19T20:28:02Z",
+  "page_title": "Cách làm thịt heo ngâm nước mắm thơm ngon đậm đà, cực hao cơm",
+  "variant_index": 2,
+  "variant_count": 2,
+  "note": "công thức được chia sẻ từ người dùng",
+  "original_image_url": "https://cdn.tgdd.vn/2020/12/CookRecipe/Avatar/thit-heo-ngam-nuoc-mam-cong-thuc-duoc-chia-se-tu-nguoi-dung-thumbnail.jpg"
+}

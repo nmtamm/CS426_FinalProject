@@ -1,0 +1,123 @@
+{
+  "source_id": "15857",
+  "name": "Trà tắc thảo mộc",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/2cf8d952764a5ebc.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-tac-thao-moc-thanh-mat-tot-cho-suc-khoe-15857",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-tac-thao-moc-thanh-mat-tot-cho-suc-khoe-15857",
+  "servings_text": "Cho 6 ly",
+  "topics": [
+    {
+      "slug": "thuc-uong",
+      "name": "Thức uống"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà lipton 5 gói",
+      "raw_name": "Trà lipton",
+      "quantity": 5,
+      "unit": "gói",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Tắc 500 gr (60 quả)",
+      "raw_name": "Tắc",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "60 quả",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Kỷ tử 100 gr",
+      "raw_name": "Kỷ tử",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Táo tàu 200 gr",
+      "raw_name": "Táo tàu",
+      "quantity": 200,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cam thảo 5 gr",
+      "raw_name": "Cam thảo",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Tắc xí muội 30 gr",
+      "raw_name": "Tắc xí muội",
+      "quantity": 30,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Gừng tươi 125 gr",
+      "raw_name": "Gừng tươi",
+      "quantity": 125,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Nước cốt tắc 20 ml",
+      "raw_name": "Nước cốt tắc",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước cốt chanh 65 ml (3 quả)",
+      "raw_name": "Nước cốt chanh",
+      "quantity": 65,
+      "unit": "ml",
+      "note": "3 quả",
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đường 1.1 kg",
+      "raw_name": "Đường",
+      "quantity": 1.1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Nước 1.7 l",
+      "raw_name": "Nước",
+      "quantity": 1.7,
+      "unit": "l",
+      "note": null,
+      "display_order": 11
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 12
+    },
+    {
+      "raw_text": "Muối 1 ít",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 13
+    }
+  ],
+  "scraped_at": "2026-08-19T19:55:04Z",
+  "page_title": "Cách làm trà tắc thảo mộc thanh mát tốt cho sức khỏe",
+  "original_image_url": "https://cdn.tgdd.vn/2021/12/CookDish/cach-lam-tra-tac-thao-moc-thanh-mat-tot-cho-suc-khoe-avt-1200x676.jpg"
+}

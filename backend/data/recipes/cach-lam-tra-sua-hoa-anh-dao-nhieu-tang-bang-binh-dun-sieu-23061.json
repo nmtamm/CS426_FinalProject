@@ -1,0 +1,99 @@
+{
+  "source_id": "23061",
+  "name": "Trà sữa hoa anh đào",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/5cc08846d682fcf6.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-sua-hoa-anh-dao-nhieu-tang-bang-binh-dun-sieu-23061",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-tra-sua-hoa-anh-dao-nhieu-tang-bang-binh-dun-sieu-23061",
+  "servings_text": "Cho 1 ly 500ml",
+  "topics": [
+    {
+      "slug": "tra-sua",
+      "name": "Trà sữa"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Trà ô long 100 gr",
+      "raw_name": "Trà ô long",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Nước sôi 2.75 ml",
+      "raw_name": "Nước sôi",
+      "quantity": 2.75,
+      "unit": "ml",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột kem béo 400 gr",
+      "raw_name": "Bột kem béo",
+      "quantity": 400,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Muối ăn 2.5 gr",
+      "raw_name": "Muối ăn",
+      "quantity": 2.5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Sữa đặc 300 gr",
+      "raw_name": "Sữa đặc",
+      "quantity": 300,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đá bi 600 gr",
+      "raw_name": "Đá bi",
+      "quantity": 600,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Bột matcha 1 gr",
+      "raw_name": "Bột matcha",
+      "quantity": 1,
+      "unit": "gr",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột hoa anh đào 5 gr",
+      "raw_name": "Bột hoa anh đào",
+      "quantity": 5,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    },
+    {
+      "raw_text": "Nước đường 20 ml",
+      "raw_name": "Nước đường",
+      "quantity": 20,
+      "unit": "ml",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Thạch hoa anh đào 1 ít (nếu có)",
+      "raw_name": "Thạch hoa anh đào",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "nếu có",
+      "display_order": 10
+    }
+  ],
+  "scraped_at": "2026-08-19T20:10:59Z",
+  "page_title": "Cách làm trà sữa hoa anh đào nhiều tầng bằng bình đun siêu tốc",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/tra-sua-hoa-anh-dao-thumbm.jpg"
+}

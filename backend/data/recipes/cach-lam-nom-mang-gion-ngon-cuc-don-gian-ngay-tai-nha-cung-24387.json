@@ -1,0 +1,75 @@
+{
+  "source_id": "24387",
+  "name": "Nộm măng",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/6eb602f1184aeffd.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nom-mang-gion-ngon-cuc-don-gian-ngay-tai-nha-cung-24387",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-lam-nom-mang-gion-ngon-cuc-don-gian-ngay-tai-nha-cung-24387",
+  "servings_text": "Cho 3 - 4 người",
+  "topics": [
+    {
+      "slug": "mon-goi-tron",
+      "name": "Món gỏi - salad"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Măng 500 gr (tươi hoặc măng chua tùy ý)",
+      "raw_name": "Măng",
+      "quantity": 500,
+      "unit": "gr",
+      "note": "tươi hoặc măng chua tùy ý",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Lạc rang 100 gr",
+      "raw_name": "Lạc rang",
+      "quantity": 100,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Rau mùi tàu 50 gr (ngò gai)",
+      "raw_name": "Rau mùi tàu",
+      "quantity": 50,
+      "unit": "gr",
+      "note": "ngò gai",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Rau bạc hà 50 gr",
+      "raw_name": "Rau bạc hà",
+      "quantity": 50,
+      "unit": "gr",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Chanh to 1 quả",
+      "raw_name": "Chanh to",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (nước mắm/ đường/ muối)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "nước mắm/ đường/ muối",
+      "display_order": 6
+    },
+    {
+      "raw_text": "Tỏi/ ớt 1 ít",
+      "raw_name": "Tỏi/ ớt",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T17:50:17Z",
+  "page_title": "Cách làm nộm măng giòn ngon cực đơn giản ngay tại nhà cùng Điện máy XANH",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/Hinh%20thumb%20t04%201200676%20%2881%29.jpg"
+}

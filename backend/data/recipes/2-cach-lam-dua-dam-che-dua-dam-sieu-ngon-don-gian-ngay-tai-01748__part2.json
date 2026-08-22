@@ -1,0 +1,89 @@
+{
+  "source_id": "01748",
+  "name": "Cách làm chè dừa dầm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/72939fba3b6dcf3c.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-dua-dam-che-dua-dam-sieu-ngon-don-gian-ngay-tai-01748",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/2-cach-lam-dua-dam-che-dua-dam-sieu-ngon-don-gian-ngay-tai-01748",
+  "servings_text": "Cho 4 người",
+  "topics": [
+    {
+      "slug": "an-vat",
+      "name": "Ăn vặt"
+    },
+    {
+      "slug": "mon-che",
+      "name": "Món chè"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cơm dừa non 1 trái",
+      "raw_name": "Cơm dừa non",
+      "quantity": 1,
+      "unit": "trái",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Bột rau câu giòn 3 gr",
+      "raw_name": "Bột rau câu giòn",
+      "quantity": 3,
+      "unit": "gr",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Bột rau câu dẻo 2 gr",
+      "raw_name": "Bột rau câu dẻo",
+      "quantity": 2,
+      "unit": "gr",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Nước dừa 550 ml",
+      "raw_name": "Nước dừa",
+      "quantity": 550,
+      "unit": "ml",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đường trắng 150 gr",
+      "raw_name": "Đường trắng",
+      "quantity": 150,
+      "unit": "gr",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Nước cốt dừa 400 ml",
+      "raw_name": "Nước cốt dừa",
+      "quantity": 400,
+      "unit": "ml",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Sữa đặc 2 muỗng canh",
+      "raw_name": "Sữa đặc",
+      "quantity": 2,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Bột bắp 10 gr",
+      "raw_name": "Bột bắp",
+      "quantity": 10,
+      "unit": "gr",
+      "note": null,
+      "display_order": 8
+    }
+  ],
+  "scraped_at": "2026-08-19T19:04:11Z",
+  "page_title": "2 cách làm dừa dầm, chè dừa dầm siêu ngon, đơn giản ngay tại nhà",
+  "variant_index": 2,
+  "variant_count": 2,
+  "original_image_url": "https://cdn.tgdd.vn/2020/07/CookRecipe/Avatar/cach-lam-che-dua-dam-thumbnail.jpg"
+}

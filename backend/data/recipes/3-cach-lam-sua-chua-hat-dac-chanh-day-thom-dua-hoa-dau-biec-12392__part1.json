@@ -1,0 +1,77 @@
+{
+  "source_id": "12392",
+  "name": "Sữa chua hạt đác chanh dây",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1fc0523a4de38eee.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sua-chua-hat-dac-chanh-day-thom-dua-hoa-dau-biec-12392",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/3-cach-lam-sua-chua-hat-dac-chanh-day-thom-dua-hoa-dau-biec-12392",
+  "servings_text": "Cho 8 người",
+  "topics": [
+    {
+      "slug": "mon-trang-mieng",
+      "name": "Món tráng miệng"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Sữa chua không đường 800 gr (8 hũ)",
+      "raw_name": "Sữa chua không đường",
+      "quantity": 800,
+      "unit": "gr",
+      "note": "8 hũ",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Hạt đác 1 kg",
+      "raw_name": "Hạt đác",
+      "quantity": 1,
+      "unit": "kg",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Chanh dây 110 gr (3 trái)",
+      "raw_name": "Chanh dây",
+      "quantity": 110,
+      "unit": "gr",
+      "note": "3 trái",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Sữa đặc 1 muỗng canh",
+      "raw_name": "Sữa đặc",
+      "quantity": 1,
+      "unit": "muỗng canh",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Đá viên 1 ít",
+      "raw_name": "Đá viên",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Đường phèn 350 gr",
+      "raw_name": "Đường phèn",
+      "quantity": 350,
+      "unit": "gr",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Muối 1 muỗng cà phê",
+      "raw_name": "Muối",
+      "quantity": 1,
+      "unit": "muỗng cà phê",
+      "note": null,
+      "display_order": 7
+    }
+  ],
+  "scraped_at": "2026-08-19T20:17:28Z",
+  "page_title": "3 cách làm sữa chua hạt đác chanh dây, thơm (dứa), hoa đậu biếc giòn ngon",
+  "variant_index": 1,
+  "variant_count": 3,
+  "original_image_url": "https://cdn.tgdd.vn/2021/08/CookRecipe/Avatar/sua-chua-hat-dac-chanh-day-thumbnail-1.jpg"
+}

@@ -1,0 +1,107 @@
+{
+  "source_id": "23568",
+  "name": "Cháo gà nguyên con",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/1282e804731a5c0b.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-chao-ga-nguyen-con-ngot-mem-thit-khong-bi-bo-chao-23568",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/cach-nau-chao-ga-nguyen-con-ngot-mem-thit-khong-bi-bo-chao-23568",
+  "servings_text": "Cho 4 - 6 người",
+  "topics": [
+    {
+      "slug": "mon-tu-ga",
+      "name": "Món từ gà"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Gà ta 1 con (khoảng 2 kg)",
+      "raw_name": "Gà ta 1 con",
+      "quantity": null,
+      "unit": null,
+      "note": "khoảng 2 kg",
+      "display_order": 1
+    },
+    {
+      "raw_text": "Gạo tẻ 1/2 chén",
+      "raw_name": "Gạo tẻ",
+      "quantity": 0.5,
+      "unit": "chén",
+      "note": null,
+      "display_order": 2
+    },
+    {
+      "raw_text": "Nấm đùi gà/Nấm bào ngư 1 ít (hoặc nấm rơm tùy ý)",
+      "raw_name": "Nấm đùi gà/Nấm bào ngư",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "hoặc nấm rơm tùy ý",
+      "display_order": 3
+    },
+    {
+      "raw_text": "Hành tây to 1 củ",
+      "raw_name": "Hành tây to",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Cà rốt 1 củ",
+      "raw_name": "Cà rốt",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 5
+    },
+    {
+      "raw_text": "Hành tím 1 ít",
+      "raw_name": "Hành tím",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 6
+    },
+    {
+      "raw_text": "Chanh 3 quả",
+      "raw_name": "Chanh",
+      "quantity": 3,
+      "unit": "quả",
+      "note": null,
+      "display_order": 7
+    },
+    {
+      "raw_text": "Rau răm/thân chuối/hoa chuối/rau càng cua 1 ít (để trộn gỏi)",
+      "raw_name": "Rau răm/thân chuối/hoa chuối/rau càng cua",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "để trộn gỏi",
+      "display_order": 8
+    },
+    {
+      "raw_text": "Ớt/tỏi/hành lá 1 ít",
+      "raw_name": "Ớt/tỏi/hành lá",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 9
+    },
+    {
+      "raw_text": "Đậu phộng 1 ít",
+      "raw_name": "Đậu phộng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 10
+    },
+    {
+      "raw_text": "Gia vị thông dụng 1 ít (muối/giấm ăn/đường phèn/hạt nêm/đường/nước mắm ngon/tiêu)",
+      "raw_name": "Gia vị thông dụng",
+      "quantity": 1,
+      "unit": "ít",
+      "note": "muối/giấm ăn/đường phèn/hạt nêm/đường/nước mắm ngon/tiêu",
+      "display_order": 11
+    }
+  ],
+  "scraped_at": "2026-08-19T18:04:48Z",
+  "page_title": "Cách nấu cháo gà nguyên con ngọt mềm, thịt không bị bở, cháo nhanh nhừ",
+  "original_image_url": "https://cdnv2.tgdd.vn/mwg-static/common/Common/H%C3%ACnh%20m%C3%B3n%20an%20t11%20%281200%20x%20676%20px%29%20-%202025-12-01T120737.506.jpg"
+}

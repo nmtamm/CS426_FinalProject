@@ -1,0 +1,61 @@
+{
+  "source_id": "15437",
+  "name": "Người tuyết từ cơm",
+  "image_url": "https://pub-9e84b49e97da4a04bba49c2e0f033ca5.r2.dev/ingredients/4f9853e52aa6d159.jpg",
+  "instruction_url": "https://www.dienmayxanh.com/vao-bep/5-cach-lam-nguoi-tuyet-tu-do-an-cho-be-yeu-ngay-giang-sinh-15437",
+  "source_url": "https://www.dienmayxanh.com/vao-bep/5-cach-lam-nguoi-tuyet-tu-do-an-cho-be-yeu-ngay-giang-sinh-15437",
+  "servings_text": "Cho 2 người",
+  "topics": [
+    {
+      "slug": "ngay-le-tet",
+      "name": "Ngày lễ Tết"
+    }
+  ],
+  "ingredients": [
+    {
+      "raw_text": "Cà chua 1 quả",
+      "raw_name": "Cà chua",
+      "quantity": 1,
+      "unit": "quả",
+      "note": null,
+      "display_order": 1
+    },
+    {
+      "raw_text": "Cơm 2 chén (chén nhỏ)",
+      "raw_name": "Cơm",
+      "quantity": 2,
+      "unit": "chén",
+      "note": "chén nhỏ",
+      "display_order": 2
+    },
+    {
+      "raw_text": "Hành tây 1 củ",
+      "raw_name": "Hành tây",
+      "quantity": 1,
+      "unit": "củ",
+      "note": null,
+      "display_order": 3
+    },
+    {
+      "raw_text": "Tỏi 4 tép",
+      "raw_name": "Tỏi 4 tép",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "display_order": 4
+    },
+    {
+      "raw_text": "Mè đen 1 ít",
+      "raw_name": "Mè đen",
+      "quantity": 1,
+      "unit": "ít",
+      "note": null,
+      "display_order": 5
+    }
+  ],
+  "scraped_at": "2026-08-19T19:40:10Z",
+  "page_title": "5 cách làm người tuyết từ đồ ăn cho bé yêu ngày Giáng Sinh đơn giản dễ làm",
+  "variant_index": 4,
+  "variant_count": 5,
+  "original_image_url": "https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/nguoi-tuyet-tu-com-thumbnail-1.jpg"
+}
