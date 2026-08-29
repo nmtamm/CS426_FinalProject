@@ -1,0 +1,31 @@
+# Environments & Virtual environments
+.venv/
+*.env
+
+# Backend crawler & raw data
+backend/crawler/
+backend/data/raw
+backend/**/__pycache__/
+*.pyc
+
+# Frontend dependencies & build artifacts
+frontend/node_modules/
+frontend/.expo/
+frontend/dist/
+frontend/web-build/
+
+# Android build artifacts inside frontend
+frontend/android/.gradle/
+frontend/android/build/
+frontend/android/app/build/
+frontend/android/.cxx/
+frontend/android/local.properties
+frontend/android/*.iml
+frontend/android/.idea/
+
+# General IDE & System
+.idea/
+.vscode/
+*.iml
+.DS_Store
+*.log
