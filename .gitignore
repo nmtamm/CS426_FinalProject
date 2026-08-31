@@ -29,3 +29,4 @@ frontend/android/.idea/
 *.iml
 .DS_Store
 *.log
+backend/data/app.db
