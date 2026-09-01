@@ -91,8 +91,8 @@ export default function IngredientCard({
           <View
             className={`w-9 h-9 rounded-full items-center justify-center border ${
               isSelected
-                ? "bg-emerald-600 border-emerald-600"
-                : "bg-slate-100 border-slate-300"
+                ? "bg-[#a84f2a] border-[#a84f2a]"
+                : "bg-[#f8f2f2] border-slate-300"
             }`}
           >
             <Icon

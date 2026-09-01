@@ -43,6 +43,8 @@ export default function CategorySelectModal({
           marginVertical: 40,
           alignItems: "center",
           justifyContent: "center",
+          elevation: 0,
+          shadowOpacity: 0,
         }}
       >
         {visible && (
@@ -50,25 +52,19 @@ export default function CategorySelectModal({
             entering={FadeInDown.springify().damping(18).stiffness(200)}
             exiting={FadeOutDown.duration(150)}
             style={{
-              backgroundColor: "#ffffff",
+              backgroundColor: "#a3b18a",
               borderRadius: 24,
               width: "100%",
               maxHeight: 520,
               overflow: "hidden",
-              borderWidth: 1.5,
-              borderColor: "#e2e8f0",
-              shadowColor: "#000",
-              shadowOffset: { width: 0, height: 10 },
-              shadowOpacity: 0.15,
-              shadowRadius: 20,
-              elevation: 8,
             }}
           >
             {/* Modal Header */}
-            <View className="px-5 pt-4 pb-3 border-b border-slate-100 flex-row items-center justify-between">
+            <View className="px-5 pt-2 flex-row items-center justify-between">
               <Text
                 variant="titleMedium"
-                className="font-extrabold text-slate-900 text-base"
+                className="font-extrabold text-base"
+                style={{ color: "#f6f2e8" }}
               >
                 Chọn danh mục
               </Text>
@@ -76,7 +72,7 @@ export default function CategorySelectModal({
                 compact
                 mode="text"
                 onPress={onDismiss}
-                textColor="#64748b"
+                textColor="#a84f2a"
                 labelStyle={{ fontWeight: "bold" }}
               >
                 Đóng
@@ -84,18 +80,16 @@ export default function CategorySelectModal({
             </View>
 
             {/* Modal Search Bar */}
-            <View className="p-3 pb-2">
+            <View className="px-2 pb-2">
               <Searchbar
                 placeholder="Tìm kiếm danh mục..."
                 onChangeText={setFilterText}
                 value={filterText}
                 elevation={1}
                 style={{
-                  backgroundColor: "#ffffff",
+                  backgroundColor: "#f6f2e8",
                   borderRadius: 20,
                   height: 48,
-                  borderWidth: 1.5,
-                  borderColor: "#e2e8f0",
                 }}
                 inputStyle={{
                   minHeight: 0,
@@ -103,7 +97,8 @@ export default function CategorySelectModal({
                   fontSize: 14,
                   color: "#1e293b",
                 }}
-                iconColor="#64748b"
+                iconColor="#a84f2a"
+                placeholderTextColor="#bebebe"
               />
             </View>
 
@@ -112,7 +107,6 @@ export default function CategorySelectModal({
               data={filteredCategories}
               keyExtractor={(item) => item}
               ItemSeparatorComponent={() => <Divider />}
-              contentContainerStyle={{ paddingBottom: 12 }}
               renderItem={({ item, index }) => {
                 const isSelected = item === selectedCategory;
                 return (
@@ -126,7 +120,7 @@ export default function CategorySelectModal({
                         onDismiss();
                       }}
                       className={`flex-row items-center justify-between px-5 py-3.5 ${
-                        isSelected ? "bg-emerald-50" : "bg-white"
+                        isSelected ? "bg-[#f6f2e8]" : "bg-[#f8f2f2]"
                       }`}
                     >
                       <Text
@@ -139,7 +133,7 @@ export default function CategorySelectModal({
                         {item}
                       </Text>
                       {isSelected && (
-                        <Icon source="check" size={20} color="#059669" />
+                        <Icon source="check" size={20} color="#a84f2a" />
                       )}
                     </Pressable>
                   </Animated.View>

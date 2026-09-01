@@ -1,6 +1,6 @@
 import { useMemo, useState } from "react";
 
-import { FlatList, Pressable, View } from "react-native";
+import { FlatList, Pressable, ScrollView, View } from "react-native";
 
 import { Icon, Searchbar, Surface, Text } from "react-native-paper";
 
@@ -81,18 +81,20 @@ export default function SearchRecipesByIngredientsScreen({
         style={{ flex: 1, width: "100%", maxWidth: 640, alignSelf: "center" }}
       >
         <View style={{ paddingHorizontal: 16, paddingTop: 8 }}>
-          <View className="flex-row items-center justify-between mb-4">
+          <View className="flex-row items-center justify-between py-2 mb-1 px-1">
             <Pressable
               hitSlop={8}
               onPress={() => navigation.goBack()}
-              className="w-10 h-10 rounded-full bg-white items-center justify-center border border-slate-200 shadow-sm active:bg-slate-50"
+              className="w-10 h-10 rounded-full items-center justify-center shadow-sm"
+              style={{ backgroundColor: "#f6f2e8" }}
             >
               <Icon source="arrow-left" size={24} color="#c65d42" />
             </Pressable>
 
             <Text
               variant="displaySmall"
-              className="text-white font-extrabold text-center flex-1"
+              className="text-center flex-1"
+              style={{ color: "#f6f2e8", fontSize: 25, fontWeight: "bold" }}
             >
               Tìm công thức
             </Text>
@@ -103,16 +105,14 @@ export default function SearchRecipesByIngredientsScreen({
           <View className="flex-row gap-2 mb-3">
             <View style={{ flex: 1 }}>
               <Searchbar
-                placeholder="Tên công thức"
+                placeholder="Nhập tên công thức"
                 onChangeText={handleSearchChange}
                 value={searchQuery}
                 elevation={1}
                 style={{
-                  backgroundColor: "#ffffff",
+                  backgroundColor: "#f6f2e8",
                   borderRadius: 16,
                   height: 48,
-                  borderWidth: 1.5,
-                  borderColor: "#2d2d2d",
                 }}
                 inputStyle={{
                   minHeight: 0,
@@ -121,21 +121,17 @@ export default function SearchRecipesByIngredientsScreen({
                   color: "#1e293b",
                 }}
                 iconColor="#c65d42"
+                placeholderTextColor="#bebebe"
               />
             </View>
-            <Pressable className="w-12 h-12 rounded-2xl bg-white items-center justify-center border-2 border-slate-300 active:bg-slate-50">
-              <Icon source="magnify" size={24} color="#c65d42" />
-            </Pressable>
           </View>
 
           <Surface
             elevation={1}
             style={{
-              backgroundColor: "#ffffff",
+              backgroundColor: "#f6f2e8",
               borderRadius: 24,
               height: 52,
-              borderWidth: 1.5,
-              borderColor: "#e2e8f0",
               overflow: "hidden",
             }}
           >
@@ -144,25 +140,23 @@ export default function SearchRecipesByIngredientsScreen({
               className="flex-1 flex-row items-center justify-between px-4 active:bg-slate-50"
             >
               <View className="flex-row items-center gap-3">
-                <Icon source="shape-outline" size={24} color="#64748b" />
-                <Text className="text-slate-800 font-medium text-[15px]">
-                  Danh mục:{" "}
-                  <Text className="text-emerald-700 font-bold">
-                    {selectedCategory}
-                  </Text>
+                <Icon source="shape-outline" size={24} color="#a84f2a" />
+                <Text className="text-emerald-700 font-bold">
+                  {selectedCategory}
                 </Text>
               </View>
-              <Icon source="chevron-down" size={24} color="#64748b" />
+              <Icon source="chevron-down" size={24} color="#a84f2a" />
             </Pressable>
           </Surface>
 
           {selectedIngredients.length > 0 && (
-            <View
-              style={{
-                marginTop: 8,
-                marginBottom: 12,
+            <ScrollView
+              horizontal
+              showsHorizontalScrollIndicator={false}
+              contentContainerStyle={{
+                paddingTop: 12,
+                paddingBottom: 8,
                 flexDirection: "row",
-                flexWrap: "wrap",
                 gap: 8,
               }}
             >
@@ -175,24 +169,25 @@ export default function SearchRecipesByIngredientsScreen({
                     borderRadius: 12,
                     paddingHorizontal: 12,
                     paddingVertical: 6,
-                    borderWidth: 1.5,
-                    borderColor: "#2d2d2d",
                   }}
                 >
-                  <Text className="text-slate-800 font-medium text-xs">
+                  <Text style={{ fontSize: 14, color: "black" }}>
                     {ingredient.name}
                   </Text>
                 </Surface>
               ))}
-            </View>
+            </ScrollView>
           )}
         </View>
 
         <View style={{ flex: 1, paddingHorizontal: 16, paddingBottom: 12 }}>
           <Surface
-            elevation={1}
-            style={{ flex: 1, overflow: "hidden" }}
-            className="bg-slate-200/70 border border-slate-300 rounded-3xl"
+            elevation={0}
+            style={{
+              flex: 1,
+              overflow: "hidden",
+              backgroundColor: "transparent",
+            }}
           >
             <PaginationControls
               currentPage={currentPage}
@@ -202,7 +197,14 @@ export default function SearchRecipesByIngredientsScreen({
               onNextPage={handleNextPage}
             />
 
-            <View style={{ flex: 1, overflow: "hidden" }}>
+            <View
+              style={{
+                flex: 1,
+                overflow: "hidden",
+                backgroundColor: "#f6f2e8",
+                borderRadius: 24,
+              }}
+            >
               <Animated.View
                 key={`page-${currentPage}`}
                 entering={
@@ -216,10 +218,6 @@ export default function SearchRecipesByIngredientsScreen({
                   data={paginatedRecipes}
                   keyExtractor={(item) => item.id}
                   style={{ flex: 1 }}
-                  contentContainerStyle={{
-                    padding: 12,
-                    paddingBottom: 24,
-                  }}
                   showsVerticalScrollIndicator={false}
                   ListEmptyComponent={() => (
                     <Animated.View

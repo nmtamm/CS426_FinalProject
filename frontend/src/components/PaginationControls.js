@@ -1,6 +1,6 @@
-import { View } from "react-native";
+import { Pressable, View } from "react-native";
 
-import { Button, Text } from "react-native-paper";
+import { Icon, Text } from "react-native-paper";
 
 export default function PaginationControls({
   currentPage,
@@ -10,33 +10,34 @@ export default function PaginationControls({
   onNextPage,
 }) {
   return (
-    <View className="flex-row items-center justify-between px-4 py-2.5 bg-slate-50 border-b border-slate-200">
-      <Button
-        mode="text"
-        compact
-        disabled={currentPage <= 1}
-        onPress={onPrevPage}
-        className="rounded-lg border-slate-300"
-        textColor="#334155"
-      >
-        ‹ Trang trước
-      </Button>
+    <View className="flex-row items-center justify-between px-4 py-2.5 bg-transparent">
+      <Pressable onPress={onPrevPage} disabled={currentPage <= 1} hitSlop={8}>
+        <Icon
+          source="chevron-left"
+          size={32}
+          color={currentPage <= 1 ? "#bebebe" : "#a84f2a"}
+        />
+      </Pressable>
 
-      <Text variant="labelLarge" className="font-bold text-slate-700">
+      <Text
+        variant="labelLarge"
+        style={{ fontWeight: "bold", fontSize: 16, color: "#f6f2e8" }}
+      >
         Trang {currentPage} / {totalPages}
         {totalCount > 0 ? ` (${totalCount})` : ""}
       </Text>
 
-      <Button
-        mode="text"
-        compact
-        disabled={currentPage >= totalPages}
+      <Pressable
         onPress={onNextPage}
-        className="rounded-lg border-slate-300"
-        textColor="#334155"
+        disabled={currentPage >= totalPages}
+        hitSlop={8}
       >
-        Trang sau ›
-      </Button>
+        <Icon
+          source="chevron-right"
+          size={32}
+          color={currentPage >= totalPages ? "#bebebe" : "#a84f2a"}
+        />
+      </Pressable>
     </View>
   );
 }

@@ -634,6 +634,11 @@
     "@eslint/core" "^1.2.1"
     levn "^0.4.1"
 
+"@expo-google-fonts/patrick-hand@^0.4.1":
+  version "0.4.1"
+  resolved "https://registry.yarnpkg.com/@expo-google-fonts/patrick-hand/-/patrick-hand-0.4.1.tgz#4bfaf3d2a23065389f5dd747b550794eb041cab1"
+  integrity sha512-Z/gioyynhzrsF6Od8E2QKpQooHnEzUmfen9ohVT6uaeWAmQy3pkl9r7AGdJx9ersDSLUciCNFV442leHIieJqQ==
+
 "@expo/cli@^57.0.20":
   version "57.0.20"
   resolved "https://registry.yarnpkg.com/@expo/cli/-/cli-57.0.20.tgz#e22f1a12cccf73b38b365e56406322ee151ad459"
@@ -2647,6 +2652,13 @@ expo-font@~57.0.2:
   dependencies:
     fontfaceobserver "^2.1.0"
 
+expo-font@~57.0.3:
+  version "57.0.3"
+  resolved "https://registry.yarnpkg.com/expo-font/-/expo-font-57.0.3.tgz#b8fcc4a574a39d8b57949132190bf10995e0cff3"
+  integrity sha512-kiVUnc2A8vAvO2FfDJTsQa5BwmY+PAkof/1wRb5MOkcX1jtiaSTwz9gCUAyscMBFLundZDmZrLy1P7LZVC+NvA==
+  dependencies:
+    fontfaceobserver "^2.1.0"
+
 expo-keep-awake@~57.0.1:
   version "57.0.1"
   resolved "https://registry.yarnpkg.com/expo-keep-awake/-/expo-keep-awake-57.0.1.tgz#75dfd3d6faeb0f32eb8b670d6b736375fdf2cdb8"
@@ -2680,6 +2692,15 @@ expo-server@^57.0.3:
   version "57.0.3"
   resolved "https://registry.yarnpkg.com/expo-server/-/expo-server-57.0.3.tgz#02e038a85453f1f4eb00024256b4b3cab949cace"
   integrity sha512-aK+LdKzauHSGmsOStZtyxdzv0zWssCkxTw3m4QuOhfDSJsZaMRTd9O41d8ixU/QfELTbaJ0oRNcF7JFV/7O9YQ==
+
+expo-splash-screen@~57.0.8:
+  version "57.0.8"
+  resolved "https://registry.yarnpkg.com/expo-splash-screen/-/expo-splash-screen-57.0.8.tgz#200c9ef51b27ba1b6a3b8997c9f852f37bb087d8"
+  integrity sha512-BEsrKg4niYBZa5AFzWRyGqxA4ZemtBOPwbCy+C336iGYYPuZYLEgWJGmm2xD1gRfCdrM/TP+l2ONd86Zvk3KyA==
+  dependencies:
+    "@expo/config-plugins" "~57.0.9"
+    "@expo/image-utils" "^0.11.5"
+    xml2js "0.6.0"
 
 expo-status-bar@~57.0.1:
   version "57.0.1"

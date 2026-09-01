@@ -84,15 +84,16 @@ export default function SelectedIngredientsDock({
       >
         <Surface
           elevation={3}
-          style={{ padding: 16 }}
-          className="bg-white border-2 border-emerald-200 rounded-3xl shadow-xl"
+          style={{ padding: 16, backgroundColor: "#f6f2e8" }}
+          className="shadow-xl"
         >
           {/* Dock Header */}
           <View className="flex-row items-center justify-between mb-3">
             <View className="flex-row items-center gap-2">
               <Text
                 variant="labelLarge"
-                className="font-bold text-emerald-950 uppercase tracking-wider text-xs"
+                className="font-bold uppercase tracking-wider"
+                style={{ fontWeight: "bold", color: "black" }}
               >
                 Nguyên liệu đã chọn
               </Text>
@@ -113,7 +114,7 @@ export default function SelectedIngredientsDock({
             >
               <Text
                 variant="labelMedium"
-                className="text-emerald-700 font-bold"
+                style={{ fontWeight: "bold", fontSize: 14, color: "#ff746c" }}
               >
                 Xóa tất cả
               </Text>
@@ -125,11 +126,10 @@ export default function SelectedIngredientsDock({
             horizontal
             showsHorizontalScrollIndicator={false}
             contentContainerStyle={{
-              paddingTop: 6,
-              paddingBottom: 4,
+              paddingTop: 10,
+              paddingBottom: 8,
               gap: 8,
             }}
-            className="mb-3"
           >
             {itemsToDisplay.map((item, index) => (
               <Animated.View
@@ -137,7 +137,7 @@ export default function SelectedIngredientsDock({
                 entering={FadeInRight.delay(index * 40).springify()}
                 exiting={FadeOutRight.duration(150)}
                 layout={LinearTransition.springify()}
-                className="items-center relative bg-slate-50 border border-emerald-300 rounded-2xl p-2 w-[76px] shadow-sm"
+                className="items-center relative rounded-2xl p-2 w-[76px] shadow-sm"
               >
                 {/* Image Thumbnail */}
                 <View className="w-12 h-12 rounded-xl bg-white overflow-hidden items-center justify-center border border-slate-200 mb-1.5">
@@ -166,10 +166,11 @@ export default function SelectedIngredientsDock({
                 {/* Remove Badge Button */}
                 <Pressable
                   onPress={() => onRemoveIngredient(item.id)}
-                  className="absolute -top-2 -right-2 bg-red-500 rounded-full w-5 h-5 items-center justify-center border-2 border-white shadow-md active:bg-red-600"
+                  className="absolute -top-2 -right-1.5 rounded-full w-5 h-5 items-center justify-center shadow-md"
+                  style={{ backgroundColor: "#ff746c" }}
                   hitSlop={8}
                 >
-                  <Icon source="close" size={11} color="#ffffff" />
+                  <Icon source="close" size={10} color="#ffffff" />
                 </Pressable>
               </Animated.View>
             ))}
@@ -182,12 +183,12 @@ export default function SelectedIngredientsDock({
                 mode="outlined"
                 icon="plus-box"
                 onPress={() => onCreateRecipe(itemsToDisplay)}
-                textColor="#059669"
+                textColor="#a84f2a"
                 style={{
                   width: "100%",
                   borderRadius: 12,
                   borderWidth: 2,
-                  borderColor: "#34d399",
+                  borderColor: "#a84f2a",
                 }}
                 contentStyle={{ height: 44 }}
                 labelStyle={{ fontWeight: "bold", fontSize: 13 }}
@@ -201,7 +202,7 @@ export default function SelectedIngredientsDock({
                 mode="contained"
                 icon="magnify"
                 onPress={() => onFindRecipes(itemsToDisplay)}
-                buttonColor="#059669"
+                buttonColor="#a84f2a"
                 style={{ width: "100%", borderRadius: 12 }}
                 contentStyle={{ height: 44 }}
                 labelStyle={{ fontWeight: "bold", fontSize: 13 }}

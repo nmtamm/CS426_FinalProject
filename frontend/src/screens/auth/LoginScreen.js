@@ -60,7 +60,7 @@ export default function LoginScreen({ navigation }) {
         {/* Header */}
         <Text
           variant="displaySmall"
-          style={{color: '#f6f2e8'}}
+          style={{ color: "#f6f2e8" }}
           className="font-extrabold text-center mb-12"
         >
           Đăng nhập
@@ -84,7 +84,7 @@ export default function LoginScreen({ navigation }) {
                 placeholder="Tên đăng nhập"
                 value={username}
                 onChangeText={setUsername}
-                style={{  
+                style={{
                   flex: 1,
                   backgroundColor: "transparent",
                   paddingHorizontal: 8,
@@ -94,11 +94,11 @@ export default function LoginScreen({ navigation }) {
               />
             </View>
           </Surface>
-          {errors.username && (
+          {errors.username ? (
             <Text style={{ color: "#c65d42", marginTop: 4, fontSize: 12 }}>
               {errors.username}
             </Text>
-          )}
+          ) : null}
         </View>
 
         {/* Password Field */}
@@ -140,11 +140,11 @@ export default function LoginScreen({ navigation }) {
               </Pressable>
             </View>
           </Surface>
-          {errors.password && (
+          {errors.password ? (
             <Text style={{ color: "#c65d42", marginTop: 4, fontSize: 12 }}>
               {errors.password}
             </Text>
-          )}
+          ) : null}
         </View>
 
         {/* Forgot Password Link */}

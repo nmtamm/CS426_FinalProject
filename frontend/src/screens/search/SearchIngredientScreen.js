@@ -105,7 +105,7 @@ export default function SearchIngredientScreen({ navigation }) {
   return (
     <SafeAreaView
       edges={["top", "left", "right"]}
-      style={{ flex: 1, backgroundColor: "#f1f5f9" }}
+      style={{ flex: 1, backgroundColor: "#a3b18a" }}
     >
       <View
         style={{ flex: 1, width: "100%", maxWidth: 640, alignSelf: "center" }}
@@ -117,16 +117,21 @@ export default function SearchIngredientScreen({ navigation }) {
               onPress={() =>
                 navigation.navigate("MainTabs", { screen: "Dashboard" })
               }
-              className="w-10 h-10 rounded-full bg-white items-center justify-center border border-slate-200 shadow-sm active:bg-slate-50"
+              className="w-10 h-10 rounded-full items-center justify-center shadow-sm"
+              style={{ backgroundColor: "#f6f2e8" }}
             >
-              <Icon source="home-outline" size={22} color="#334155" />
+              <Icon source="home-outline" size={22} color="#a84f2a" />
             </Pressable>
 
             <Text
               variant="titleLarge"
-              className="font-extrabold text-slate-900 text-lg tracking-tight"
+              style={{
+                color: "#f6f2e8",
+                fontWeight: "bold",
+                fontSize: 25,
+              }}
             >
-              Tìm kiếm nguyên liệu
+              Tìm nguyên liệu
             </Text>
 
             <View className="w-10" />
@@ -139,11 +144,9 @@ export default function SearchIngredientScreen({ navigation }) {
               value={searchQuery}
               elevation={1}
               style={{
-                backgroundColor: "#ffffff",
+                backgroundColor: "#f6f2e8",
                 borderRadius: 24,
                 height: 52,
-                borderWidth: 1.5,
-                borderColor: "#e2e8f0",
               }}
               inputStyle={{
                 minHeight: 0,
@@ -151,17 +154,16 @@ export default function SearchIngredientScreen({ navigation }) {
                 fontSize: 15,
                 color: "#1e293b",
               }}
-              iconColor="#64748b"
+              iconColor="#a84f2a"
+              placeholderTextColor="#bebebe"
             />
 
             <Surface
               elevation={1}
               style={{
-                backgroundColor: "#ffffff",
+                backgroundColor: "#f6f2e8",
                 borderRadius: 24,
                 height: 52,
-                borderWidth: 1.5,
-                borderColor: "#e2e8f0",
                 overflow: "hidden",
               }}
             >
@@ -170,15 +172,12 @@ export default function SearchIngredientScreen({ navigation }) {
                 className="flex-1 flex-row items-center justify-between px-4 active:bg-slate-50"
               >
                 <View className="flex-row items-center gap-3">
-                  <Icon source="shape-outline" size={24} color="#64748b" />
-                  <Text className="text-slate-800 font-medium text-[15px]">
-                    Danh mục:{" "}
-                    <Text className="text-emerald-700 font-bold">
-                      {selectedCategory}
-                    </Text>
+                  <Icon source="shape-outline" size={24} color="#a84f2a" />
+                  <Text className="text-black font-semibold">
+                    {selectedCategory}
                   </Text>
                 </View>
-                <Icon source="chevron-down" size={24} color="#64748b" />
+                <Icon source="chevron-down" size={24} color="#a84f2a" />
               </Pressable>
             </Surface>
           </View>
@@ -192,9 +191,13 @@ export default function SearchIngredientScreen({ navigation }) {
           }}
         >
           <Surface
-            elevation={1}
-            style={{ flex: 1, overflow: "hidden" }}
-            className="bg-slate-200/70 border border-slate-300 rounded-3xl"
+            elevation={0}
+            style={{
+              flex: 1,
+              overflow: "hidden",
+              backgroundColor: "transparent",
+            }}
+            className="border rounded-3xl"
           >
             <PaginationControls
               currentPage={currentPage}
@@ -204,7 +207,7 @@ export default function SearchIngredientScreen({ navigation }) {
               onNextPage={handleNextPage}
             />
 
-            <View style={{ flex: 1, overflow: "hidden" }}>
+            <View style={{ flex: 1, overflow: "hidden", borderRadius: 24 }}>
               <Animated.View
                 key={`page-${currentPage}`}
                 entering={
@@ -212,16 +215,12 @@ export default function SearchIngredientScreen({ navigation }) {
                     ? FadeInRight.duration(220)
                     : FadeInLeft.duration(220)
                 }
-                style={{ flex: 1 }}
+                style={{ flex: 1, backgroundColor: "#f6f2e8" }}
               >
                 <FlatList
                   data={paginatedIngredients}
                   keyExtractor={(item) => item.id}
                   style={{ flex: 1 }}
-                  contentContainerStyle={{
-                    padding: 12,
-                    paddingBottom: 24,
-                  }}
                   showsVerticalScrollIndicator={false}
                   ListEmptyComponent={() => (
                     <Animated.View

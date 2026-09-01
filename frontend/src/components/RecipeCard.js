@@ -62,7 +62,7 @@ export default function RecipeCard({ recipe, onToggleSelect }) {
           </View>
 
           {/* Recipe Info */}
-          <View className="flex-1">
+          <View className="flex-1 justify-center self-stretch">
             {/* Recipe Title */}
             <Text className="font-bold text-slate-900 text-base mb-1.5">
               {recipe.title}
