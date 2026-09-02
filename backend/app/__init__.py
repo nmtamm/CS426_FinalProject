@@ -1,0 +1,1 @@
+"""NutriPlan FastAPI application."""
