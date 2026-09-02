@@ -96,7 +96,7 @@ export default function PaginatedListPanel({
                   <Text
                     style={{
                       color: COLORS.textDark,
-                      fontWeight: "bold",
+                      fontFamily: "Nunito_700Bold",
                       fontSize: 16,
                       textAlign: "center",
                     }}

@@ -3,10 +3,10 @@ import {
   Pressable,
   StatusBar,
   StyleSheet,
-  Text,
   View,
   Image
 } from "react-native";
+import { Text } from "react-native-paper";
 import { SafeAreaView } from "react-native-safe-area-context";
 
 import { COLORS } from "../../theme/colors";
@@ -51,7 +51,7 @@ export default function DashboardScreen({ navigation }) {
             <ProfileIcon
               width={scale(62)}
               height={scale(62)}
-              color={COLORS.accent}
+              color={COLORS.primary}
             />
           </Pressable>
         </View>
@@ -111,7 +111,7 @@ export default function DashboardScreen({ navigation }) {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: COLORS.primary,
+    backgroundColor: COLORS.background,
   },
 
   content: {
@@ -150,7 +150,6 @@ const styles = StyleSheet.create({
   greeting: {
     color: COLORS.black,
     fontSize: scale(30),
-    fontWeight: "400",
   },
 
   username: {
@@ -158,7 +157,7 @@ const styles = StyleSheet.create({
 
     color: COLORS.black,
     fontSize: scale(32),
-    fontWeight: "600",
+    fontFamily: "Nunito_800ExtraBold",
   },
 
   profileButton: {
@@ -178,7 +177,7 @@ const styles = StyleSheet.create({
 
     color: COLORS.secondary,
     fontSize: scale(50),
-    fontWeight: "700",
+    fontFamily: "Nunito_900Black",
 
     textAlign: "center",
   },
@@ -225,7 +224,7 @@ const styles = StyleSheet.create({
 
     color: COLORS.secondary,
     fontSize: scale(40),
-    fontWeight: "700",
+    fontFamily: "Nunito_800ExtraBold",
 
     textAlign: "center",
   },

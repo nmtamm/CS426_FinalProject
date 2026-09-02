@@ -6,9 +6,9 @@ import {
   Pressable,
   StatusBar,
   StyleSheet,
-  Text,
   View,
 } from "react-native";
+import { Text } from "react-native-paper";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { useState } from "react";
 
@@ -89,7 +89,7 @@ export default function RecipeDetailScreen({
     >
       <StatusBar
         barStyle="light-content"
-        backgroundColor={COLORS.primary}
+        backgroundColor={COLORS.background}
       />
 
       <FlatList
@@ -109,7 +109,7 @@ export default function RecipeDetailScreen({
                 <BackIcon
                   width={scale(48)}
                   height={scale(48)}
-                  color={COLORS.accent}
+                  color={COLORS.primary}
                 />
               </Pressable>
 
@@ -126,7 +126,7 @@ export default function RecipeDetailScreen({
                 <SaveIcon
                   width={scale(48)}
                   height={scale(48)}
-                  color={COLORS.accent}
+                  color={COLORS.primary}
                 />
               </Pressable>
             </View>
@@ -227,7 +227,7 @@ const styles = StyleSheet.create({
 
   container: {
     flex: 1,
-    backgroundColor: COLORS.primary,
+    backgroundColor: COLORS.background,
   },
 
   listContent: {
@@ -267,8 +267,8 @@ const styles = StyleSheet.create({
 
     color: COLORS.secondary,
 
-    fontSize: scale(40),
-    fontWeight: "700",
+    fontSize: scale(45),
+    fontFamily: "Nunito_900Black",
 
     textAlign: "center",
   },
@@ -306,7 +306,7 @@ const styles = StyleSheet.create({
     color: COLORS.secondary,
 
     fontSize: scale(40),
-    fontWeight: "700",
+    fontFamily: "Nunito_800ExtraBold",
 
     textAlign: "center",
   },
@@ -322,7 +322,7 @@ const styles = StyleSheet.create({
     color: COLORS.secondary,
 
     fontSize: scale(30),
-    fontWeight: "700",
+    fontFamily: "Nunito_700Bold",
   },
 
   ingredientsContainer: {
@@ -381,7 +381,6 @@ const styles = StyleSheet.create({
     color: COLORS.black,
 
     fontSize: scale(25),
-    fontWeight: "400",
 
     textAlign: "center",
   },
@@ -399,7 +398,6 @@ const styles = StyleSheet.create({
     color: COLORS.black,
 
     fontSize: scale(22),
-    fontWeight: "400",
   },
 
   // =====================================================
@@ -414,7 +412,6 @@ const styles = StyleSheet.create({
     color: COLORS.secondary,
 
     fontSize: scale(25),
-    fontWeight: "400",
 
     textDecorationLine: "none",
   },

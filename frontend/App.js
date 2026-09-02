@@ -1,15 +1,19 @@
 import "react-native-gesture-handler";
 import { GestureHandlerRootView } from "react-native-gesture-handler";
 import { NavigationContainer } from "@react-navigation/native";
-import { MD3LightTheme, Provider as PaperProvider } from "react-native-paper";
 import { SafeAreaProvider } from "react-native-safe-area-context";
 import { useCallback, useEffect } from "react";
 
 import * as SplashScreen from "expo-splash-screen";
 import {
-  PatrickHand_400Regular,
+  Nunito_400Regular,
+  Nunito_500Medium,
+  Nunito_600SemiBold,
+  Nunito_700Bold,
+  Nunito_800ExtraBold,
+  Nunito_900Black,
   useFonts,
-} from "@expo-google-fonts/patrick-hand";
+} from "@expo-google-fonts/nunito";
 
 import {
   configureFonts,
@@ -25,7 +29,7 @@ import RootNavigator from "./src/navigation/RootNavigator";
 SplashScreen.preventAutoHideAsync();
 
 const fontConfig = {
-  fontFamily: "PatrickHand_400Regular",
+  fontFamily: "Nunito_400Regular",
 };
 
 const theme = {
@@ -41,7 +45,12 @@ const theme = {
 
 export default function App() {
   const [fontsLoaded] = useFonts({
-    PatrickHand_400Regular,
+    Nunito_400Regular,
+    Nunito_500Medium,
+    Nunito_600SemiBold,
+    Nunito_700Bold,
+    Nunito_800ExtraBold,
+    Nunito_900Black,
   });
 
   useEffect(() => {

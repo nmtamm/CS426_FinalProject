@@ -103,7 +103,7 @@ export default function SearchIngredientScreen({ navigation }) {
         <ScreenHeader
           title="Tìm nguyên liệu"
           iconName="home-outline"
-          iconSize={22}
+          iconSize={25}
           onBack={() =>
             navigation.navigate("MainTabs", { screen: "Dashboard" })
           }

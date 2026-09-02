@@ -42,7 +42,7 @@ export default function ScreenHeader({
       <Text
         variant={variant}
         className={titleClassName}
-        style={{ color: COLORS.secondary, fontSize: 25, fontWeight: "bold" }}
+        style={{ color: COLORS.secondary, fontSize: 25, fontFamily: "Nunito_900Black" }}
       >
         {title}
       </Text>

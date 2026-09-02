@@ -76,7 +76,7 @@ export default function SearchRecipesByIngredientsScreen({
         <ScreenHeader
           title="Tìm công thức"
           variant="displaySmall"
-          titleClassName="text-center flex-1"
+          titleClassName="tracking-tight"
           onBack={() => navigation.goBack()}
         />
 

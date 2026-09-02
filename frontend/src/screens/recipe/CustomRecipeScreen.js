@@ -8,10 +8,10 @@ import {
   Pressable,
   StatusBar,
   StyleSheet,
-  Text,
   TextInput,
   View,
 } from "react-native";
+import { Text } from "react-native-paper"
 import { SafeAreaView } from "react-native-safe-area-context";
 import Swipeable from "react-native-gesture-handler/ReanimatedSwipeable";
 
@@ -274,7 +274,7 @@ export default function CustomRecipeScreen({
                 <BackIcon
                   width={scale(48)}
                   height={scale(48)}
-                  color={COLORS.accent}
+                  color={COLORS.primary}
                 />
               </Pressable>
 
@@ -295,7 +295,7 @@ export default function CustomRecipeScreen({
                 <SaveIcon
                   width={scale(48)}
                   height={scale(48)}
-                  color={COLORS.accent}
+                  color={COLORS.primary}
                 />
               </Pressable>
             </View>
@@ -387,7 +387,7 @@ export default function CustomRecipeScreen({
                 <MaterialCommunityIcons
                   name="plus"
                   size={scale(35)}
-                  color={COLORS.accent}
+                  color={COLORS.primary}
                 />
               </Pressable>
             </View>
@@ -534,7 +534,7 @@ function EditableIngredientCard({
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: COLORS.primary,
+    backgroundColor: COLORS.background,
   },
 
   listContent: {
@@ -574,8 +574,8 @@ const styles = StyleSheet.create({
 
     color: COLORS.secondary,
 
-    fontSize: scale(40),
-    fontWeight: "700",
+    fontSize: scale(45),
+    fontFamily: "Nunito_900Black",
 
     textAlign: "center",
   },
@@ -618,7 +618,7 @@ const styles = StyleSheet.create({
     color: COLORS.disabled,
 
     fontSize: scale(27),
-    fontWeight: "600",
+    fontFamily: "Nunito_700Bold",
   },
 
   imageEditButton: {
@@ -632,7 +632,7 @@ const styles = StyleSheet.create({
 
     borderRadius: scale(29),
 
-    backgroundColor: COLORS.accent,
+    backgroundColor: COLORS.primary,
 
     justifyContent: "center",
     alignItems: "center",
@@ -652,7 +652,7 @@ const styles = StyleSheet.create({
     color: COLORS.secondary,
 
     fontSize: scale(38),
-    fontWeight: "700",
+    fontFamily: "Nunito_800ExtraBold",
 
     textAlign: "center",
   },
@@ -673,7 +673,7 @@ const styles = StyleSheet.create({
     color: COLORS.secondary,
 
     fontSize: scale(30),
-    fontWeight: "700",
+    fontFamily: "Nunito_700Bold",
   },
 
   addIngredientButton: {
@@ -683,7 +683,7 @@ const styles = StyleSheet.create({
     marginLeft: scale(12),
 
     borderWidth: scale(3),
-    borderColor: COLORS.accent,
+    borderColor: COLORS.primary,
     borderRadius: scale(23),
 
     justifyContent: "center",
@@ -744,7 +744,7 @@ const styles = StyleSheet.create({
     color: COLORS.black,
 
     fontSize: scale(23),
-    fontWeight: "500",
+    fontFamily: "Nunito_700Bold",
 
     textAlign: "center",
   },
@@ -785,7 +785,7 @@ const styles = StyleSheet.create({
     textAlign: "center",
 
     borderBottomWidth: scale(1.5),
-    borderBottomColor: COLORS.accent,
+    borderBottomColor: COLORS.primary,
   },
 
   unitText: {
@@ -837,7 +837,7 @@ const styles = StyleSheet.create({
     color: COLORS.secondary,
 
     fontSize: scale(30),
-    fontWeight: "700",
+    fontFamily: "Nunito_700Bold",
   },
 
   instructionInput: {

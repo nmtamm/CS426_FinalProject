@@ -25,6 +25,7 @@ export default function AppSearchbar({
         minHeight: 0,
         alignSelf: "center",
         fontSize,
+        fontFamily: "Nunito_700Bold",
         color: COLORS.primary,
       }}
       iconColor={COLORS.primary}

@@ -2,10 +2,10 @@ import {
   Pressable,
   StatusBar,
   StyleSheet,
-  Text,
   TextInput,
   View,
 } from "react-native";
+import { Text } from "react-native-paper";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { useState } from "react";
 
@@ -26,7 +26,7 @@ export default function ProfileScreen({ navigation }) {
     <SafeAreaView style={styles.container}>
       <StatusBar
         barStyle="light-content"
-        backgroundColor={COLORS.primary}
+        backgroundColor={COLORS.background}
       />
 
       <View style={styles.content}>
@@ -44,7 +44,7 @@ export default function ProfileScreen({ navigation }) {
             <MaterialCommunityIcons
               name="arrow-left"
               size={scale(48)}
-              color={COLORS.accent}
+              color={COLORS.primary}
             />
           </Pressable>
 
@@ -65,7 +65,7 @@ export default function ProfileScreen({ navigation }) {
             <MaterialCommunityIcons
               name="logout"
               size={scale(48)}
-              color={COLORS.accent}
+              color={COLORS.primary}
             />
           </Pressable>
         </View>
@@ -140,7 +140,7 @@ function ProfileItem({
         <MaterialCommunityIcons
           name={icon}
           size={scale(58)}
-          color={COLORS.accent}
+          color={COLORS.primary}
         />
       </View>
 
@@ -186,7 +186,7 @@ function ProfileItem({
                 : "pencil-outline"
             }
             size={scale(48)}
-            color={COLORS.accent}
+            color={COLORS.primary}
           />
         </Pressable>
       )}
@@ -197,7 +197,7 @@ function ProfileItem({
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: COLORS.primary,
+    backgroundColor: COLORS.background,
   },
 
   content: {
@@ -235,8 +235,8 @@ const styles = StyleSheet.create({
 
   title: {
     color: COLORS.secondary,
-    fontSize: scale(42),
-    fontWeight: "700",
+    fontSize: scale(45),
+    fontFamily: "Nunito_900Black"
   },
 
   // =========================
@@ -290,7 +290,6 @@ const styles = StyleSheet.create({
   label: {
     color: COLORS.black,
     fontSize: scale(21),
-    fontWeight: "400",
   },
 
   value: {
@@ -298,7 +297,7 @@ const styles = StyleSheet.create({
 
     color: COLORS.black,
     fontSize: scale(27),
-    fontWeight: "600",
+    fontFamily: "Nunito_700Bold",
   },
 
   // =========================
@@ -327,9 +326,9 @@ const styles = StyleSheet.create({
 
     color: COLORS.black,
     fontSize: scale(27),
-    fontWeight: "600",
+    fontFamily: "Nunito_700Bold",
 
     borderBottomWidth: scale(1.5),
-    borderBottomColor: COLORS.accent,
+    borderBottomColor: COLORS.primary,
   },
 });

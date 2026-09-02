@@ -6,9 +6,9 @@ import {
   Pressable,
   StatusBar,
   StyleSheet,
-  Text,
   View,
 } from "react-native";
+import { Text } from "react-native-paper";
 import { SafeAreaView } from "react-native-safe-area-context";
 import Swipeable from "react-native-gesture-handler/ReanimatedSwipeable";
 
@@ -124,7 +124,7 @@ export default function CustomizedRecipesScreen({ navigation }) {
     >
       <StatusBar
         barStyle="light-content"
-        backgroundColor={COLORS.primary}
+        backgroundColor={COLORS.background}
       />
 
       {/* Title */}
@@ -149,7 +149,7 @@ export default function CustomizedRecipesScreen({ navigation }) {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: COLORS.primary,
+    backgroundColor: COLORS.background,
   },
 
   // =========================
@@ -162,8 +162,8 @@ const styles = StyleSheet.create({
 
     color: COLORS.secondary,
 
-    fontSize: scale(42),
-    fontWeight: "700",
+    fontSize: scale(45),
+    fontFamily: "Nunito_900Black",
 
     textAlign: "center",
   },
@@ -262,7 +262,7 @@ const styles = StyleSheet.create({
     color: COLORS.black,
 
     fontSize: scale(32),
-    fontWeight: "400",
+    fontFamily: "Nunito_700Bold",
 
     textAlign: "center",
   },

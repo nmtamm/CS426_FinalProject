@@ -25,7 +25,7 @@ export default function MainTabNavigator() {
         tabBarShowLabel: false,
 
         // Icon colors
-        tabBarActiveTintColor: COLORS.accent,
+        tabBarActiveTintColor: COLORS.primary,
         tabBarInactiveTintColor: COLORS.disabled,
 
         // Bottom bar
@@ -66,7 +66,7 @@ export default function MainTabNavigator() {
 
         tabBarIcon: ({ focused }) => {
           const iconColor = focused
-            ? COLORS.accent
+            ? COLORS.primary
             : COLORS.disabled;
 
           if (route.name === "CustomizedRecipes") {

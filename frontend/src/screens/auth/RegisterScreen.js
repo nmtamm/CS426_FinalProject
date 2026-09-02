@@ -63,10 +63,10 @@ export default function RegisterScreen({ navigation }) {
     >
       {/* Header */}
       <Text
-        variant="displaySmall"
+        variant="displayMedium"
         style={{
           color: "white",
-          fontWeight: "800",
+          fontFamily: "Nunito_900Black",
           textAlign: "center",
           marginBottom: 48,
         }}
@@ -107,6 +107,9 @@ export default function RegisterScreen({ navigation }) {
                 flex: 1,
                 backgroundColor: "transparent",
                 paddingHorizontal: 8,
+              }}
+              contentStyle={{
+                fontFamily: "Nunito_700Bold",
                 fontSize: 16,
               }}
               placeholderTextColor={COLORS.placeholder}
@@ -152,6 +155,9 @@ export default function RegisterScreen({ navigation }) {
                 flex: 1,
                 backgroundColor: "transparent",
                 paddingHorizontal: 8,
+              }}
+              contentStyle={{
+                fontFamily: "Nunito_700Bold",
                 fontSize: 16,
               }}
               placeholderTextColor={COLORS.placeholder}
@@ -207,6 +213,9 @@ export default function RegisterScreen({ navigation }) {
                 flex: 1,
                 backgroundColor: "transparent",
                 paddingHorizontal: 8,
+              }}
+              contentStyle={{
+                fontFamily: "Nunito_700Bold",
                 fontSize: 16,
               }}
               placeholderTextColor={COLORS.placeholder}
@@ -239,7 +248,7 @@ export default function RegisterScreen({ navigation }) {
         labelStyle={{
           color: COLORS.background,
           fontSize: 24,
-          fontWeight: "700",
+          fontFamily: "Nunito_800ExtraBold",
         }}
         style={{
           backgroundColor: COLORS.secondary,
@@ -266,7 +275,7 @@ export default function RegisterScreen({ navigation }) {
           <Text
             style={{
               color: COLORS.primary,
-              fontWeight: "bold",
+              fontFamily: "Nunito_700Bold",
               fontSize: 16,
               textDecorationLine: "underline",
             }}

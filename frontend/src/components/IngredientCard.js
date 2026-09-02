@@ -89,7 +89,7 @@ export default function IngredientCard({
               <Text
                 variant="titleMedium"
                 numberOfLines={1}
-                style={{ fontWeight: "bold", color: "black" }}
+                style={{ fontFamily: "Nunito_700Bold", color: "black" }}
               >
                 {ingredient.name}
               </Text>

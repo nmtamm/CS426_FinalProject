@@ -75,7 +75,7 @@ export default function CategorySelectModal({
                 variant="titleMedium"
                 style={{
                   color: COLORS.secondary,
-                  fontWeight: "800",
+                  fontFamily: "Nunito_800ExtraBold",
                   fontSize: 20,
                 }}
               >
@@ -86,7 +86,7 @@ export default function CategorySelectModal({
                 mode="text"
                 onPress={onDismiss}
                 textColor={COLORS.primary}
-                labelStyle={{ fontWeight: "bold" }}
+                labelStyle={{ fontFamily: "Nunito_800ExtraBold" }}
               >
                 Đóng
               </Button>
@@ -108,6 +108,7 @@ export default function CategorySelectModal({
                   minHeight: 0,
                   alignSelf: "center",
                   fontSize: 14,
+                  fontFamily: "Nunito_700Bold",
                   color: COLORS.primary,
                 }}
                 iconColor={COLORS.primary}
@@ -147,7 +148,7 @@ export default function CategorySelectModal({
                       <Text
                         style={{
                           fontSize: 14,
-                          fontWeight: isSelected ? "bold" : "500",
+                          fontFamily: isSelected ? "Nunito_700Bold" : "Nunito_600Regular",
                           color: isSelected ? COLORS.primary : COLORS.textDark,
                         }}
                       >
