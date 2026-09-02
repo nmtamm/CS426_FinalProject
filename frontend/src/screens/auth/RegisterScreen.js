@@ -5,6 +5,7 @@ import { Pressable, View } from "react-native";
 import { Button, Icon, Surface, Text, TextInput } from "react-native-paper";
 
 import ScreenContainer from "../../components/ScreenContainer";
+import { api } from "../../services/api";
 import { COLORS } from "../../theme/colors";
 
 export default function RegisterScreen({ navigation }) {
@@ -13,6 +14,7 @@ export default function RegisterScreen({ navigation }) {
   const [confirmPassword, setConfirmPassword] = useState("");
   const [showPassword, setShowPassword] = useState(false);
   const [showConfirmPassword, setShowConfirmPassword] = useState(false);
+  const [isSubmitting, setIsSubmitting] = useState(false);
   const [errors, setErrors] = useState({
     username: "",
     password: "",
@@ -51,9 +53,16 @@ export default function RegisterScreen({ navigation }) {
     );
   };
 
-  const handleSignup = () => {
-    if (validateForm()) {
+  const handleSignup = async () => {
+    if (!validateForm()) return;
+    setIsSubmitting(true);
+    try {
+      await api.register(username, password);
       navigation.replace("MainTabs");
+    } catch (requestError) {
+      setErrors((current) => ({ ...current, general: requestError.message }));
+    } finally {
+      setIsSubmitting(false);
     }
   };
 
@@ -233,9 +242,22 @@ export default function RegisterScreen({ navigation }) {
       </View>
 
       {/* Sign Up Button */}
+      {errors.general ? (
+        <Text
+          style={{
+            color: COLORS.primary,
+            marginBottom: 12,
+            textAlign: "center",
+          }}
+        >
+          {errors.general}
+        </Text>
+      ) : null}
       <Button
         mode="contained"
         onPress={handleSignup}
+        loading={isSubmitting}
+        disabled={isSubmitting}
         labelStyle={{
           color: COLORS.background,
           fontSize: 24,

@@ -1,4 +1,4 @@
-import { useMemo, useState } from "react";
+import { useEffect, useState } from "react";
 
 import { Alert, View } from "react-native";
 
@@ -10,7 +10,7 @@ import PaginatedListPanel from "../../components/PaginatedListPanel";
 import ScreenContainer from "../../components/ScreenContainer";
 import ScreenHeader from "../../components/ScreenHeader";
 import SelectedIngredientsDock from "../../components/SelectedIngredientsDock";
-import { CATEGORIES, INGREDIENTS } from "../../data/mockIngredients";
+import { api } from "../../services/api";
 
 const ITEMS_PER_PAGE = 10;
 
@@ -21,24 +21,50 @@ export default function SearchIngredientScreen({ navigation }) {
   const [selectedIngredients, setSelectedIngredients] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
   const [pageDirection, setPageDirection] = useState(1);
+  const [ingredients, setIngredients] = useState([]);
+  const [categories, setCategories] = useState(["Tất cả"]);
+  const [totalCount, setTotalCount] = useState(0);
+  const [totalPages, setTotalPages] = useState(1);
+  const [isLoading, setIsLoading] = useState(true);
+  const [error, setError] = useState("");
 
-  const filteredIngredients = useMemo(() => {
-    return INGREDIENTS.filter((item) => {
-      const matchesName = item.name
-        .toLowerCase()
-        .includes(searchQuery.toLowerCase().trim());
-      const matchesCategory =
-        selectedCategory === "Tất cả" || item.category === selectedCategory;
-      return matchesName && matchesCategory;
-    });
-  }, [searchQuery, selectedCategory]);
+  useEffect(() => {
+    api
+      .getIngredientCategories()
+      .then(setCategories)
+      .catch((requestError) => {
+        setError(requestError.message);
+      });
+  }, []);
 
-  const totalPages =
-    Math.ceil(filteredIngredients.length / ITEMS_PER_PAGE) || 1;
-  const paginatedIngredients = useMemo(() => {
-    const start = (currentPage - 1) * ITEMS_PER_PAGE;
-    return filteredIngredients.slice(start, start + ITEMS_PER_PAGE);
-  }, [filteredIngredients, currentPage]);
+  useEffect(() => {
+    let ignore = false;
+    const timeout = setTimeout(async () => {
+      setIsLoading(true);
+      setError("");
+      try {
+        const result = await api.getIngredients({
+          search: searchQuery.trim(),
+          category: selectedCategory,
+          page: currentPage,
+          limit: ITEMS_PER_PAGE,
+        });
+        if (!ignore) {
+          setIngredients(result.items);
+          setTotalCount(result.total);
+          setTotalPages(result.totalPages);
+        }
+      } catch (requestError) {
+        if (!ignore) setError(requestError.message);
+      } finally {
+        if (!ignore) setIsLoading(false);
+      }
+    }, 250);
+    return () => {
+      ignore = true;
+      clearTimeout(timeout);
+    };
+  }, [currentPage, searchQuery, selectedCategory]);
 
   const handleToggleSelect = (ingredient) => {
     setSelectedIngredients((prev) => {
@@ -127,11 +153,13 @@ export default function SearchIngredientScreen({ navigation }) {
       <PaginatedListPanel
         currentPage={currentPage}
         totalPages={totalPages}
-        totalCount={filteredIngredients.length}
+        totalCount={totalCount}
         onPrevPage={handlePrevPage}
         onNextPage={handleNextPage}
         pageDirection={pageDirection}
-        data={paginatedIngredients}
+        data={ingredients}
+        isLoading={isLoading}
+        error={error}
         keyExtractor={(item) => item.id}
         paddingBottom={selectedIngredients.length > 0 ? 4 : 12}
         surfaceClassName="border rounded-3xl"
@@ -151,7 +179,7 @@ export default function SearchIngredientScreen({ navigation }) {
       <CategorySelectModal
         visible={isCategoryModalOpen}
         onDismiss={() => setIsCategoryModalOpen(false)}
-        categories={CATEGORIES}
+        categories={categories}
         selectedCategory={selectedCategory}
         onSelectCategory={handleCategorySelect}
       />

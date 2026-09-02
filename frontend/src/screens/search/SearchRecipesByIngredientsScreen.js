@@ -1,4 +1,4 @@
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 
 import { ScrollView, View } from "react-native";
 
@@ -11,7 +11,7 @@ import PaginatedListPanel from "../../components/PaginatedListPanel";
 import RecipeCard from "../../components/RecipeCard";
 import ScreenContainer from "../../components/ScreenContainer";
 import ScreenHeader from "../../components/ScreenHeader";
-import { RECIPE_CATEGORIES, RECIPES } from "../../data/mockRecipes";
+import { api } from "../../services/api";
 import { COLORS } from "../../theme/colors";
 
 const ITEMS_PER_PAGE = 10;
@@ -20,31 +20,71 @@ export default function SearchRecipesByIngredientsScreen({
   navigation,
   route,
 }) {
-  const selectedIngredients = route.params?.selectedIngredients || [];
+  const selectedIngredients = useMemo(
+    () => route.params?.selectedIngredients || [],
+    [route.params?.selectedIngredients]
+  );
   const [searchQuery, setSearchQuery] = useState("");
   const [selectedCategory, setSelectedCategory] = useState("Tất cả");
   const [isCategoryModalOpen, setIsCategoryModalOpen] = useState(false);
   const [currentPage, setCurrentPage] = useState(1);
   const [pageDirection, setPageDirection] = useState(1);
+  const [recipes, setRecipes] = useState([]);
+  const [categories, setCategories] = useState(["Tất cả"]);
+  const [totalCount, setTotalCount] = useState(0);
+  const [totalPages, setTotalPages] = useState(1);
+  const [isLoading, setIsLoading] = useState(true);
+  const [error, setError] = useState("");
+  const ingredientIds = useMemo(
+    () => selectedIngredients.map((ingredient) => ingredient.id),
+    [selectedIngredients]
+  );
 
-  const filteredRecipes = useMemo(() => {
-    return RECIPES.filter((recipe) => {
-      const matchesName = recipe.title
-        .toLowerCase()
-        .includes(searchQuery.toLowerCase().trim());
+  useEffect(() => {
+    api
+      .getRecipeCategories()
+      .then(setCategories)
+      .catch((requestError) => {
+        setError(requestError.message);
+      });
+  }, []);
 
-      const matchesCategory =
-        selectedCategory === "Tất cả" || recipe.category === selectedCategory;
-
-      return matchesName && matchesCategory;
-    });
-  }, [searchQuery, selectedCategory]);
-
-  const totalPages = Math.ceil(filteredRecipes.length / ITEMS_PER_PAGE) || 1;
-  const paginatedRecipes = useMemo(() => {
-    const start = (currentPage - 1) * ITEMS_PER_PAGE;
-    return filteredRecipes.slice(start, start + ITEMS_PER_PAGE);
-  }, [filteredRecipes, currentPage]);
+  useEffect(() => {
+    let ignore = false;
+    const timeout = setTimeout(async () => {
+      if (!ingredientIds.length) {
+        setRecipes([]);
+        setTotalCount(0);
+        setTotalPages(1);
+        setIsLoading(false);
+        return;
+      }
+      setIsLoading(true);
+      setError("");
+      try {
+        const result = await api.searchRecipesByIngredients({
+          ingredientIds,
+          search: searchQuery.trim(),
+          category: selectedCategory,
+          page: currentPage,
+          limit: ITEMS_PER_PAGE,
+        });
+        if (!ignore) {
+          setRecipes(result.items);
+          setTotalCount(result.total);
+          setTotalPages(result.totalPages);
+        }
+      } catch (requestError) {
+        if (!ignore) setError(requestError.message);
+      } finally {
+        if (!ignore) setIsLoading(false);
+      }
+    }, 250);
+    return () => {
+      ignore = true;
+      clearTimeout(timeout);
+    };
+  }, [currentPage, ingredientIds, searchQuery, selectedCategory]);
 
   const handleSearchChange = (text) => {
     setSearchQuery(text);
@@ -132,11 +172,13 @@ export default function SearchRecipesByIngredientsScreen({
       <PaginatedListPanel
         currentPage={currentPage}
         totalPages={totalPages}
-        totalCount={filteredRecipes.length}
+        totalCount={totalCount}
         onPrevPage={handlePrevPage}
         onNextPage={handleNextPage}
         pageDirection={pageDirection}
-        data={paginatedRecipes}
+        data={recipes}
+        isLoading={isLoading}
+        error={error}
         keyExtractor={(item) => item.id}
         emptyTitle="Không tìm thấy công thức"
         renderItem={({ item }) => (
@@ -147,7 +189,7 @@ export default function SearchRecipesByIngredientsScreen({
       <CategorySelectModal
         visible={isCategoryModalOpen}
         onDismiss={() => setIsCategoryModalOpen(false)}
-        categories={RECIPE_CATEGORIES}
+        categories={categories}
         selectedCategory={selectedCategory}
         onSelectCategory={handleCategorySelect}
       />

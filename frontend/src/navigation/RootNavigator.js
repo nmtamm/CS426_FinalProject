@@ -1,20 +1,17 @@
-import { createNativeStackNavigator } from "@react-navigation/native-stack";
-
 import LoginScreen from "../screens/auth/LoginScreen";
 import RegisterScreen from "../screens/auth/RegisterScreen";
-
 import ProfileScreen from "../screens/main/ProfileScreen";
-
-import SearchIngredientScreen from "../screens/search/SearchIngredientScreen";
-import SearchRecipesByIngredientsScreen from "../screens/search/SearchRecipesByIngredientsScreen";
-import SearchRecipeByNameScreen from "../screens/search/SearchRecipeByNameScreen";
-import IngredientListScreen from "../screens/search/IngredientListScreen";
-
-import RecipeDetailScreen from "../screens/recipe/RecipeDetailScreen";
 import CustomRecipeScreen from "../screens/recipe/CustomRecipeScreen";
+import RecipeDetailScreen from "../screens/recipe/RecipeDetailScreen";
 import SaveSuccessfullyScreen from "../screens/recipe/SaveSuccessfullyScreen";
+import IngredientListScreen from "../screens/search/IngredientListScreen";
+import SearchIngredientScreen from "../screens/search/SearchIngredientScreen";
+import SearchRecipeByNameScreen from "../screens/search/SearchRecipeByNameScreen";
+import SearchRecipesByIngredientsScreen from "../screens/search/SearchRecipesByIngredientsScreen";
 
 import MainTabNavigator from "./MainTabNavigator";
+
+import { createNativeStackNavigator } from "@react-navigation/native-stack";
 
 const Stack = createNativeStackNavigator();
 

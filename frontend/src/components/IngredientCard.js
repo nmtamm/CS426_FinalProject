@@ -99,8 +99,8 @@ export default function IngredientCard({
                 style={{ color: COLORS.textSecondary, marginTop: 2 }}
               >
                 {ingredient.category}
-                {ingredient.caloriesPer100g
-                  ? ` • ${ingredient.caloriesPer100g} kcal/100g`
+                {ingredient.calories !== undefined
+                  ? ` • ${ingredient.calories} kcal/100g`
                   : ""}
               </Text>
             </View>

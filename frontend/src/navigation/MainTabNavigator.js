@@ -1,9 +1,10 @@
-import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import { MaterialCommunityIcons } from "@expo/vector-icons";
 
-import DashboardScreen from "../screens/main/DashboardScreen";
 import CustomizedRecipesScreen from "../screens/main/CustomizedRecipesScreen";
+import DashboardScreen from "../screens/main/DashboardScreen";
 import FavouriteRecipesScreen from "../screens/main/FavouriteRecipesScreen";
+
+import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 
 const Tab = createBottomTabNavigator();
 

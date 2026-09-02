@@ -1,4 +1,4 @@
-import { FlatList, View } from "react-native";
+import { ActivityIndicator, FlatList, View } from "react-native";
 
 import { Icon, Surface, Text } from "react-native-paper";
 
@@ -29,6 +29,8 @@ export default function PaginatedListPanel({
   emptyTitle,
   emptySubtitle = DEFAULT_EMPTY_SUBTITLE,
   surfaceClassName,
+  isLoading = false,
+  error = "",
 }) {
   return (
     <View style={{ flex: 1, paddingHorizontal: 16, paddingBottom: 12 }}>
@@ -63,7 +65,7 @@ export default function PaginatedListPanel({
             style={{ flex: 1 }}
           >
             <FlatList
-              data={data}
+              data={isLoading || error ? [] : data}
               keyExtractor={keyExtractor}
               style={{ flex: 1 }}
               contentContainerStyle={contentContainerStyle}
@@ -76,23 +78,27 @@ export default function PaginatedListPanel({
                     justifyContent: "center",
                   }}
                 >
-                  <View
-                    style={{
-                      width: 64,
-                      height: 64,
-                      borderRadius: 9999,
-                      backgroundColor: "white",
-                      alignItems: "center",
-                      justifyContent: "center",
-                      marginBottom: 12,
-                    }}
-                  >
-                    <Icon
-                      source="food-off"
-                      size={32}
-                      color={COLORS.textSecondary}
-                    />
-                  </View>
+                  {isLoading ? (
+                    <ActivityIndicator size="large" color={COLORS.primary} />
+                  ) : (
+                    <View
+                      style={{
+                        width: 64,
+                        height: 64,
+                        borderRadius: 9999,
+                        backgroundColor: "white",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        marginBottom: 12,
+                      }}
+                    >
+                      <Icon
+                        source="food-off"
+                        size={32}
+                        color={COLORS.textSecondary}
+                      />
+                    </View>
+                  )}
                   <Text
                     style={{
                       color: COLORS.textDark,
@@ -101,7 +107,7 @@ export default function PaginatedListPanel({
                       textAlign: "center",
                     }}
                   >
-                    {emptyTitle}
+                    {isLoading ? "Đang tải..." : error || emptyTitle}
                   </Text>
                   <Text
                     style={{
@@ -111,7 +117,11 @@ export default function PaginatedListPanel({
                       marginTop: 4,
                     }}
                   >
-                    {emptySubtitle}
+                    {isLoading
+                      ? "Vui lòng chờ trong giây lát"
+                      : error
+                        ? "Kiểm tra kết nối API và thử lại"
+                        : emptySubtitle}
                   </Text>
                 </Animated.View>
               )}
