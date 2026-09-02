@@ -57,7 +57,7 @@ export default function CategorySelectModal({
               backgroundColor: COLORS.background,
               borderRadius: 24,
               width: "100%",
-              maxHeight: 520,
+              height: 520,
               overflow: "hidden",
             }}
           >
@@ -118,6 +118,7 @@ export default function CategorySelectModal({
             {/* Category Items List */}
             <FlatList
               data={filteredCategories}
+              style={{ flex: 1 }}
               keyExtractor={(item) => item}
               ItemSeparatorComponent={() => <Divider />}
               renderItem={({ item, index }) => {
