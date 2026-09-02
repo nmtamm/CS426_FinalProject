@@ -1,20 +1,15 @@
 import { useMemo, useState } from "react";
 
-import { FlatList, Pressable, View } from "react-native";
+import { View } from "react-native";
 
-import { Icon, Searchbar, Surface, Text } from "react-native-paper";
-
+import AppSearchbar from "../../components/AppSearchbar";
 import CategorySelectModal from "../../components/CategorySelectModal";
-import PaginationControls from "../../components/PaginationControls";
+import CategorySelectorField from "../../components/CategorySelectorField";
+import PaginatedListPanel from "../../components/PaginatedListPanel";
 import RecipeCard from "../../components/RecipeCard";
+import ScreenContainer from "../../components/ScreenContainer";
+import ScreenHeader from "../../components/ScreenHeader";
 import { RECIPE_CATEGORIES, RECIPES } from "../../data/mockRecipes";
-
-import Animated, {
-  FadeIn,
-  FadeInLeft,
-  FadeInRight,
-} from "react-native-reanimated";
-import { SafeAreaView } from "react-native-safe-area-context";
 
 const ITEMS_PER_PAGE = 10;
 
@@ -67,161 +62,51 @@ export default function SearchRecipeByNameScreen({ navigation }) {
   };
 
   return (
-    <SafeAreaView
-      edges={["top", "left", "right"]}
-      style={{ flex: 1, backgroundColor: "#a3b18a" }}
-    >
-      <View
-        style={{ flex: 1, width: "100%", maxWidth: 640, alignSelf: "center" }}
-      >
-        <View style={{ paddingHorizontal: 16, paddingTop: 8 }}>
-          <View className="flex-row items-center justify-between py-2 mb-1 px-1">
-            <Pressable
-              hitSlop={8}
-              onPress={() => navigation.goBack()}
-              className="w-10 h-10 rounded-full items-center justify-center shadow-sm"
-              style={{ backgroundColor: "#f6f2e8" }}
-            >
-              <Icon source="arrow-left" size={22} color="#a84f2a" />
-            </Pressable>
-
-            <Text
-              variant="titleLarge"
-              className="tracking-tight"
-              style={{ color: "#f6f2e8", fontSize: 25, fontWeight: "bold" }}
-            >
-              Tìm kiếm công thức
-            </Text>
-
-            <View className="w-10" />
-          </View>
-
-          <View className="gap-2.5 mb-3">
-            <Searchbar
-              placeholder="Nhập tên công thức..."
-              onChangeText={handleSearchChange}
-              value={searchQuery}
-              elevation={1}
-              style={{
-                backgroundColor: "#f6f2e8",
-                borderRadius: 24,
-                height: 52,
-              }}
-              inputStyle={{
-                minHeight: 0,
-                alignSelf: "center",
-                fontSize: 15,
-                color: "#1e293b",
-              }}
-              iconColor="#a84f2a"
-              placeholderTextColor="#bebebe"
-            />
-
-            <Surface
-              elevation={1}
-              style={{
-                backgroundColor: "#f6f2e8",
-                borderRadius: 24,
-                height: 52,
-                overflow: "hidden",
-              }}
-            >
-              <Pressable
-                onPress={() => setIsCategoryModalOpen(true)}
-                className="flex-1 flex-row items-center justify-between px-4 active:bg-slate-50"
-              >
-                <View className="flex-row items-center gap-3">
-                  <Icon source="shape-outline" size={24} color="#a84f2a" />
-                  <Text className="text-emerald-700 font-bold">
-                    {selectedCategory}
-                  </Text>
-                </View>
-                <Icon source="chevron-down" size={24} color="#a84f2a" />
-              </Pressable>
-            </Surface>
-          </View>
-        </View>
-
-        <View style={{ flex: 1, paddingHorizontal: 16, paddingBottom: 12 }}>
-          <Surface
-            elevation={0}
-            style={{
-              flex: 1,
-              overflow: "hidden",
-              backgroundColor: "transparent",
-            }}
-          >
-            <PaginationControls
-              currentPage={currentPage}
-              totalPages={totalPages}
-              totalCount={filteredRecipes.length}
-              onPrevPage={handlePrevPage}
-              onNextPage={handleNextPage}
-            />
-
-            <View
-              style={{
-                flex: 1,
-                overflow: "hidden",
-                backgroundColor: "#f6f2e8",
-                borderRadius: 24,
-              }}
-            >
-              <Animated.View
-                key={`page-${currentPage}`}
-                entering={
-                  pageDirection === 1
-                    ? FadeInRight.duration(220)
-                    : FadeInLeft.duration(220)
-                }
-                style={{ flex: 1 }}
-              >
-                <FlatList
-                  data={paginatedRecipes}
-                  keyExtractor={(item) => item.id}
-                  style={{ flex: 1 }}
-                  contentContainerStyle={{
-                    padding: 12,
-                    paddingBottom: 24,
-                  }}
-                  showsVerticalScrollIndicator={false}
-                  ListEmptyComponent={() => (
-                    <Animated.View
-                      entering={FadeIn.duration(200)}
-                      className="items-center justify-center py-20 px-4"
-                    >
-                      <View className="w-16 h-16 rounded-full bg-slate-100 items-center justify-center mb-3">
-                        <Icon source="food-off" size={32} color="#94a3b8" />
-                      </View>
-                      <Text className="text-slate-600 font-bold text-base text-center">
-                        Không tìm thấy công thức
-                      </Text>
-                      <Text className="text-slate-400 text-xs text-center mt-1">
-                        Hãy thử thay đổi từ khóa tìm kiếm hoặc chọn danh mục
-                        khác
-                      </Text>
-                    </Animated.View>
-                  )}
-                  renderItem={({ item }) => (
-                    <RecipeCard
-                      recipe={item}
-                      onToggleSelect={handleRecipePress}
-                    />
-                  )}
-                />
-              </Animated.View>
-            </View>
-          </Surface>
-        </View>
-
-        <CategorySelectModal
-          visible={isCategoryModalOpen}
-          onDismiss={() => setIsCategoryModalOpen(false)}
-          categories={RECIPE_CATEGORIES}
-          selectedCategory={selectedCategory}
-          onSelectCategory={handleCategorySelect}
+    <ScreenContainer>
+      <View style={{ paddingHorizontal: 16, paddingTop: 8 }}>
+        <ScreenHeader
+          title="Tìm kiếm công thức"
+          iconSize={22}
+          titleClassName="tracking-tight"
+          onBack={() => navigation.goBack()}
         />
+
+        <View style={{ gap: 10, marginBottom: 12 }}>
+          <AppSearchbar
+            placeholder="Nhập tên công thức..."
+            value={searchQuery}
+            onChangeText={handleSearchChange}
+          />
+
+          <CategorySelectorField
+            selectedCategory={selectedCategory}
+            onPress={() => setIsCategoryModalOpen(true)}
+          />
+        </View>
       </View>
-    </SafeAreaView>
+
+      <PaginatedListPanel
+        currentPage={currentPage}
+        totalPages={totalPages}
+        totalCount={filteredRecipes.length}
+        onPrevPage={handlePrevPage}
+        onNextPage={handleNextPage}
+        pageDirection={pageDirection}
+        data={paginatedRecipes}
+        keyExtractor={(item) => item.id}
+        emptyTitle="Không tìm thấy công thức"
+        renderItem={({ item }) => (
+          <RecipeCard recipe={item} onToggleSelect={handleRecipePress} />
+        )}
+      />
+
+      <CategorySelectModal
+        visible={isCategoryModalOpen}
+        onDismiss={() => setIsCategoryModalOpen(false)}
+        categories={RECIPE_CATEGORIES}
+        selectedCategory={selectedCategory}
+        onSelectCategory={handleCategorySelect}
+      />
+    </ScreenContainer>
   );
 }

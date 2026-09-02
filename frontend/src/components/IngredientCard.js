@@ -4,6 +4,8 @@ import { Image, Pressable, View } from "react-native";
 
 import { Icon, Surface, Text } from "react-native-paper";
 
+import { COLORS } from "../theme/colors";
+
 import Animated, {
   useAnimatedStyle,
   useSharedValue,
@@ -36,25 +38,44 @@ export default function IngredientCard({
     <Animated.View style={animatedStyle}>
       <Surface
         elevation={isSelected ? 2 : 0}
-        className={`rounded-2xl border-2 mb-2.5 overflow-hidden ${
-          isSelected
-            ? "bg-emerald-50/80 border-emerald-500"
-            : "bg-white border-slate-200"
-        }`}
+        className="rounded-2xl border-2 mb-2.5 overflow-hidden"
       >
         <Pressable
           onPress={() => onToggleSelect(ingredient)}
           onPressIn={handlePressIn}
           onPressOut={handlePressOut}
-          className="flex-row items-center justify-between p-3"
+          style={{
+            flexDirection: "row",
+            alignItems: "center",
+            justifyContent: "space-between",
+            padding: 12,
+            backgroundColor: isSelected ? COLORS.secondary : COLORS.third,
+          }}
         >
-          <View className="flex-row items-center flex-1 gap-3">
+          <View
+            style={{
+              flexDirection: "row",
+              alignItems: "center",
+              flex: 1,
+              gap: 12,
+            }}
+          >
             {/* Thumbnail Image with Fallback */}
-            <View className="w-14 h-14 rounded-xl bg-slate-100 border border-slate-200 items-center justify-center overflow-hidden">
+            <View
+              style={{
+                width: 56,
+                height: 56,
+                borderRadius: 12,
+                backgroundColor: "white",
+                alignItems: "center",
+                justifyContent: "center",
+                overflow: "hidden",
+              }}
+            >
               {ingredient.image && !imageError ? (
                 <Image
                   source={{ uri: ingredient.image }}
-                  className="w-full h-full"
+                  style={{ width: "100%", height: "100%" }}
                   resizeMode="cover"
                   onError={() => setImageError(true)}
                 />
@@ -64,20 +85,18 @@ export default function IngredientCard({
             </View>
 
             {/* Info */}
-            <View className="flex-1 pr-2">
+            <View style={{ flex: 1, paddingRight: 8 }}>
               <Text
                 variant="titleMedium"
                 numberOfLines={1}
-                className={`font-bold ${
-                  isSelected ? "text-emerald-950" : "text-slate-800"
-                }`}
+                style={{ fontWeight: "bold", color: "black" }}
               >
                 {ingredient.name}
               </Text>
               <Text
                 variant="bodySmall"
                 numberOfLines={1}
-                className="text-slate-500 mt-0.5"
+                style={{ color: COLORS.textSecondary, marginTop: 2 }}
               >
                 {ingredient.category}
                 {ingredient.caloriesPer100g
@@ -89,11 +108,16 @@ export default function IngredientCard({
 
           {/* Toggle Action Button */}
           <View
-            className={`w-9 h-9 rounded-full items-center justify-center border ${
-              isSelected
-                ? "bg-[#a84f2a] border-[#a84f2a]"
-                : "bg-[#f8f2f2] border-slate-300"
-            }`}
+            style={{
+              width: 36,
+              height: 36,
+              borderRadius: 9999,
+              alignItems: "center",
+              justifyContent: "center",
+              borderWidth: 1,
+              backgroundColor: isSelected ? COLORS.primary : COLORS.third,
+              borderColor: isSelected ? COLORS.primary : COLORS.textSecondary,
+            }}
           >
             <Icon
               source={isSelected ? "check" : "plus"}

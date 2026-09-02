@@ -4,6 +4,8 @@ import { Image, Pressable, ScrollView, View } from "react-native";
 
 import { Button, Icon, Surface, Text } from "react-native-paper";
 
+import { COLORS } from "../theme/colors";
+
 import Animated, {
   Easing,
   FadeIn,
@@ -84,24 +86,43 @@ export default function SelectedIngredientsDock({
       >
         <Surface
           elevation={3}
-          style={{ padding: 16, backgroundColor: "#f6f2e8" }}
-          className="shadow-xl"
+          style={{ padding: 16, backgroundColor: COLORS.secondary }}
         >
           {/* Dock Header */}
-          <View className="flex-row items-center justify-between mb-3">
-            <View className="flex-row items-center gap-2">
+          <View
+            style={{
+              flexDirection: "row",
+              alignItems: "center",
+              justifyContent: "space-between",
+              marginBottom: 12,
+            }}
+          >
+            <View
+              style={{ flexDirection: "row", alignItems: "center", gap: 8 }}
+            >
               <Text
                 variant="labelLarge"
-                className="font-bold uppercase tracking-wider"
-                style={{ fontWeight: "bold", color: "black" }}
+                style={{
+                  fontWeight: "bold",
+                  color: "black",
+                  textTransform: "uppercase",
+                  letterSpacing: 0.5,
+                }}
               >
                 Nguyên liệu đã chọn
               </Text>
               <Animated.View
                 entering={FadeIn}
-                className="bg-emerald-100 px-2 py-0.5 rounded-full"
+                style={{
+                  backgroundColor: "#d1fae5",
+                  paddingHorizontal: 8,
+                  paddingVertical: 2,
+                  borderRadius: 9999,
+                }}
               >
-                <Text className="text-emerald-800 text-sm font-bold">
+                <Text
+                  style={{ color: "#065f46", fontSize: 14, fontWeight: "bold" }}
+                >
                   {itemsToDisplay.length}
                 </Text>
               </Animated.View>
@@ -114,7 +135,11 @@ export default function SelectedIngredientsDock({
             >
               <Text
                 variant="labelMedium"
-                style={{ fontWeight: "bold", fontSize: 14, color: "#ff746c" }}
+                style={{
+                  fontWeight: "bold",
+                  fontSize: 14,
+                  color: COLORS.warning,
+                }}
               >
                 Xóa tất cả
               </Text>
@@ -140,11 +165,22 @@ export default function SelectedIngredientsDock({
                 className="items-center relative rounded-2xl p-2 w-[76px] shadow-sm"
               >
                 {/* Image Thumbnail */}
-                <View className="w-12 h-12 rounded-xl bg-white overflow-hidden items-center justify-center border border-slate-200 mb-1.5">
+                <View
+                  style={{
+                    width: 48,
+                    height: 48,
+                    borderRadius: 12,
+                    backgroundColor: "white",
+                    overflow: "hidden",
+                    alignItems: "center",
+                    justifyContent: "center",
+                    marginBottom: 6,
+                  }}
+                >
                   {item.image ? (
                     <Image
                       source={{ uri: item.image }}
-                      className="w-full h-full"
+                      style={{ width: "100%", height: "100%" }}
                       resizeMode="cover"
                     />
                   ) : (
@@ -157,8 +193,13 @@ export default function SelectedIngredientsDock({
                   variant="labelSmall"
                   numberOfLines={1}
                   ellipsizeMode="tail"
-                  style={{ width: 62 }}
-                  className="text-[11px] font-semibold text-slate-800 text-center"
+                  style={{
+                    width: 62,
+                    fontSize: 11,
+                    fontWeight: "600",
+                    color: COLORS.textDark,
+                    textAlign: "center",
+                  }}
                 >
                   {item.name}
                 </Text>
@@ -167,7 +208,7 @@ export default function SelectedIngredientsDock({
                 <Pressable
                   onPress={() => onRemoveIngredient(item.id)}
                   className="absolute -top-2 -right-1.5 rounded-full w-5 h-5 items-center justify-center shadow-md"
-                  style={{ backgroundColor: "#ff746c" }}
+                  style={{ backgroundColor: COLORS.warning }}
                   hitSlop={8}
                 >
                   <Icon source="close" size={10} color="#ffffff" />
@@ -183,12 +224,12 @@ export default function SelectedIngredientsDock({
                 mode="outlined"
                 icon="plus-box"
                 onPress={() => onCreateRecipe(itemsToDisplay)}
-                textColor="#a84f2a"
+                textColor={COLORS.primary}
                 style={{
                   width: "100%",
                   borderRadius: 12,
                   borderWidth: 2,
-                  borderColor: "#a84f2a",
+                  borderColor: COLORS.primary,
                 }}
                 contentStyle={{ height: 44 }}
                 labelStyle={{ fontWeight: "bold", fontSize: 13 }}
@@ -202,7 +243,7 @@ export default function SelectedIngredientsDock({
                 mode="contained"
                 icon="magnify"
                 onPress={() => onFindRecipes(itemsToDisplay)}
-                buttonColor="#a84f2a"
+                buttonColor={COLORS.primary}
                 style={{ width: "100%", borderRadius: 12 }}
                 contentStyle={{ height: 44 }}
                 labelStyle={{ fontWeight: "bold", fontSize: 13 }}

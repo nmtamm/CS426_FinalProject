@@ -1,21 +1,16 @@
 import { useMemo, useState } from "react";
 
-import { Alert, FlatList, Pressable, View } from "react-native";
+import { Alert, View } from "react-native";
 
-import { Icon, Searchbar, Surface, Text } from "react-native-paper";
-
+import AppSearchbar from "../../components/AppSearchbar";
 import CategorySelectModal from "../../components/CategorySelectModal";
+import CategorySelectorField from "../../components/CategorySelectorField";
 import IngredientCard from "../../components/IngredientCard";
-import PaginationControls from "../../components/PaginationControls";
+import PaginatedListPanel from "../../components/PaginatedListPanel";
+import ScreenContainer from "../../components/ScreenContainer";
+import ScreenHeader from "../../components/ScreenHeader";
 import SelectedIngredientsDock from "../../components/SelectedIngredientsDock";
 import { CATEGORIES, INGREDIENTS } from "../../data/mockIngredients";
-
-import Animated, {
-  FadeIn,
-  FadeInLeft,
-  FadeInRight,
-} from "react-native-reanimated";
-import { SafeAreaView } from "react-native-safe-area-context";
 
 const ITEMS_PER_PAGE = 10;
 
@@ -103,176 +98,71 @@ export default function SearchIngredientScreen({ navigation }) {
   };
 
   return (
-    <SafeAreaView
-      edges={["top", "left", "right"]}
-      style={{ flex: 1, backgroundColor: "#a3b18a" }}
-    >
-      <View
-        style={{ flex: 1, width: "100%", maxWidth: 640, alignSelf: "center" }}
-      >
-        <View style={{ paddingHorizontal: 16, paddingTop: 8 }}>
-          <View className="flex-row items-center justify-between py-2 mb-1 px-1">
-            <Pressable
-              hitSlop={8}
-              onPress={() =>
-                navigation.navigate("MainTabs", { screen: "Dashboard" })
-              }
-              className="w-10 h-10 rounded-full items-center justify-center shadow-sm"
-              style={{ backgroundColor: "#f6f2e8" }}
-            >
-              <Icon source="home-outline" size={22} color="#a84f2a" />
-            </Pressable>
-
-            <Text
-              variant="titleLarge"
-              style={{
-                color: "#f6f2e8",
-                fontWeight: "bold",
-                fontSize: 25,
-              }}
-            >
-              Tìm nguyên liệu
-            </Text>
-
-            <View className="w-10" />
-          </View>
-
-          <View className="gap-2.5 mb-3">
-            <Searchbar
-              placeholder="Nhập tên nguyên liệu..."
-              onChangeText={handleSearchChange}
-              value={searchQuery}
-              elevation={1}
-              style={{
-                backgroundColor: "#f6f2e8",
-                borderRadius: 24,
-                height: 52,
-              }}
-              inputStyle={{
-                minHeight: 0,
-                alignSelf: "center",
-                fontSize: 15,
-                color: "#1e293b",
-              }}
-              iconColor="#a84f2a"
-              placeholderTextColor="#bebebe"
-            />
-
-            <Surface
-              elevation={1}
-              style={{
-                backgroundColor: "#f6f2e8",
-                borderRadius: 24,
-                height: 52,
-                overflow: "hidden",
-              }}
-            >
-              <Pressable
-                onPress={() => setIsCategoryModalOpen(true)}
-                className="flex-1 flex-row items-center justify-between px-4 active:bg-slate-50"
-              >
-                <View className="flex-row items-center gap-3">
-                  <Icon source="shape-outline" size={24} color="#a84f2a" />
-                  <Text className="text-black font-semibold">
-                    {selectedCategory}
-                  </Text>
-                </View>
-                <Icon source="chevron-down" size={24} color="#a84f2a" />
-              </Pressable>
-            </Surface>
-          </View>
-        </View>
-
-        <View
-          style={{
-            flex: 1,
-            paddingHorizontal: 16,
-            paddingBottom: selectedIngredients.length > 0 ? 4 : 12,
-          }}
-        >
-          <Surface
-            elevation={0}
-            style={{
-              flex: 1,
-              overflow: "hidden",
-              backgroundColor: "transparent",
-            }}
-            className="border rounded-3xl"
-          >
-            <PaginationControls
-              currentPage={currentPage}
-              totalPages={totalPages}
-              totalCount={filteredIngredients.length}
-              onPrevPage={handlePrevPage}
-              onNextPage={handleNextPage}
-            />
-
-            <View style={{ flex: 1, overflow: "hidden", borderRadius: 24 }}>
-              <Animated.View
-                key={`page-${currentPage}`}
-                entering={
-                  pageDirection === 1
-                    ? FadeInRight.duration(220)
-                    : FadeInLeft.duration(220)
-                }
-                style={{ flex: 1, backgroundColor: "#f6f2e8" }}
-              >
-                <FlatList
-                  data={paginatedIngredients}
-                  keyExtractor={(item) => item.id}
-                  style={{ flex: 1 }}
-                  showsVerticalScrollIndicator={false}
-                  ListEmptyComponent={() => (
-                    <Animated.View
-                      entering={FadeIn.duration(200)}
-                      className="items-center justify-center py-20 px-4"
-                    >
-                      <View className="w-16 h-16 rounded-full bg-slate-100 items-center justify-center mb-3">
-                        <Icon source="food-off" size={32} color="#94a3b8" />
-                      </View>
-                      <Text className="text-slate-600 font-bold text-base text-center">
-                        Không tìm thấy nguyên liệu
-                      </Text>
-                      <Text className="text-slate-400 text-xs text-center mt-1">
-                        Hãy thử thay đổi từ khóa tìm kiếm hoặc chọn danh mục
-                        khác
-                      </Text>
-                    </Animated.View>
-                  )}
-                  renderItem={({ item }) => {
-                    const isSelected = selectedIngredients.some(
-                      (i) => i.id === item.id
-                    );
-                    return (
-                      <IngredientCard
-                        ingredient={item}
-                        isSelected={isSelected}
-                        onToggleSelect={handleToggleSelect}
-                      />
-                    );
-                  }}
-                />
-              </Animated.View>
-            </View>
-          </Surface>
-        </View>
-
-        <CategorySelectModal
-          visible={isCategoryModalOpen}
-          onDismiss={() => setIsCategoryModalOpen(false)}
-          categories={CATEGORIES}
-          selectedCategory={selectedCategory}
-          onSelectCategory={handleCategorySelect}
+    <ScreenContainer>
+      <View style={{ paddingHorizontal: 16, paddingTop: 8 }}>
+        <ScreenHeader
+          title="Tìm nguyên liệu"
+          iconName="home-outline"
+          iconSize={22}
+          onBack={() =>
+            navigation.navigate("MainTabs", { screen: "Dashboard" })
+          }
         />
 
-        <SelectedIngredientsDock
-          selectedIngredients={selectedIngredients}
-          onRemoveIngredient={handleRemoveIngredient}
-          onClearAll={handleClearAll}
-          onFindRecipes={handleFindRecipes}
-          onCreateRecipe={handleCreateRecipe}
-        />
+        <View style={{ gap: 10, marginBottom: 12 }}>
+          <AppSearchbar
+            placeholder="Nhập tên nguyên liệu..."
+            value={searchQuery}
+            onChangeText={handleSearchChange}
+          />
+
+          <CategorySelectorField
+            selectedCategory={selectedCategory}
+            onPress={() => setIsCategoryModalOpen(true)}
+            labelClassName="text-black font-semibold"
+          />
+        </View>
       </View>
-    </SafeAreaView>
+
+      <PaginatedListPanel
+        currentPage={currentPage}
+        totalPages={totalPages}
+        totalCount={filteredIngredients.length}
+        onPrevPage={handlePrevPage}
+        onNextPage={handleNextPage}
+        pageDirection={pageDirection}
+        data={paginatedIngredients}
+        keyExtractor={(item) => item.id}
+        paddingBottom={selectedIngredients.length > 0 ? 4 : 12}
+        surfaceClassName="border rounded-3xl"
+        emptyTitle="Không tìm thấy nguyên liệu"
+        renderItem={({ item }) => {
+          const isSelected = selectedIngredients.some((i) => i.id === item.id);
+          return (
+            <IngredientCard
+              ingredient={item}
+              isSelected={isSelected}
+              onToggleSelect={handleToggleSelect}
+            />
+          );
+        }}
+      />
+
+      <CategorySelectModal
+        visible={isCategoryModalOpen}
+        onDismiss={() => setIsCategoryModalOpen(false)}
+        categories={CATEGORIES}
+        selectedCategory={selectedCategory}
+        onSelectCategory={handleCategorySelect}
+      />
+
+      <SelectedIngredientsDock
+        selectedIngredients={selectedIngredients}
+        onRemoveIngredient={handleRemoveIngredient}
+        onClearAll={handleClearAll}
+        onFindRecipes={handleFindRecipes}
+        onCreateRecipe={handleCreateRecipe}
+      />
+    </ScreenContainer>
   );
 }

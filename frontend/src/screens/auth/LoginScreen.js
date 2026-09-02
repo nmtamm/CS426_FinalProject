@@ -4,7 +4,8 @@ import { Pressable, View } from "react-native";
 
 import { Button, Icon, Surface, Text, TextInput } from "react-native-paper";
 
-import { SafeAreaView } from "react-native-safe-area-context";
+import ScreenContainer from "../../components/ScreenContainer";
+import { COLORS } from "../../theme/colors";
 
 export default function LoginScreen({ navigation }) {
   const [username, setUsername] = useState("");
@@ -43,140 +44,181 @@ export default function LoginScreen({ navigation }) {
   };
 
   return (
-    <SafeAreaView
-      edges={["top", "left", "right"]}
-      style={{ flex: 1, backgroundColor: "#a3b18a" }}
+    <ScreenContainer
+      contentStyle={{ paddingHorizontal: 16, justifyContent: "center" }}
     >
+      {/* Header */}
+      <Text
+        variant="displaySmall"
+        style={{
+          color: COLORS.secondary,
+          fontWeight: "800",
+          textAlign: "center",
+          marginBottom: 48,
+        }}
+      >
+        Đăng nhập
+      </Text>
+
+      {/* Username Field */}
+      <View style={{ marginBottom: 24 }}>
+        <Surface
+          elevation={1}
+          style={{
+            backgroundColor: COLORS.secondary,
+            borderRadius: 16,
+            overflow: "hidden",
+            borderWidth: 2,
+            borderColor: COLORS.border,
+          }}
+        >
+          <View
+            style={{
+              flexDirection: "row",
+              alignItems: "center",
+              paddingHorizontal: 16,
+              paddingVertical: 4,
+            }}
+          >
+            <Icon
+              source="information-outline"
+              size={24}
+              color={COLORS.primary}
+            />
+            <TextInput
+              placeholder="Tên đăng nhập"
+              value={username}
+              onChangeText={setUsername}
+              textColor={COLORS.primary}
+              activeUnderlineColor={COLORS.primary}
+              style={{
+                flex: 1,
+                backgroundColor: "transparent",
+                paddingHorizontal: 8,
+                fontSize: 16,
+              }}
+              placeholderTextColor={COLORS.placeholder}
+            />
+          </View>
+        </Surface>
+        {errors.username ? (
+          <Text style={{ color: COLORS.primary, marginTop: 4, fontSize: 12 }}>
+            {errors.username}
+          </Text>
+        ) : null}
+      </View>
+
+      {/* Password Field */}
+      <View style={{ marginBottom: 24 }}>
+        <Surface
+          elevation={1}
+          style={{
+            backgroundColor: COLORS.secondary,
+            borderRadius: 16,
+            overflow: "hidden",
+            borderWidth: 2,
+            borderColor: COLORS.border,
+          }}
+        >
+          <View
+            style={{
+              flexDirection: "row",
+              alignItems: "center",
+              paddingHorizontal: 16,
+              paddingVertical: 4,
+            }}
+          >
+            <Icon source="lock-outline" size={24} color={COLORS.primary} />
+            <TextInput
+              placeholder="Mật khẩu"
+              value={password}
+              onChangeText={setPassword}
+              secureTextEntry={!showPassword}
+              textColor={COLORS.primary}
+              activeUnderlineColor={COLORS.primary}
+              style={{
+                flex: 1,
+                backgroundColor: "transparent",
+                paddingHorizontal: 8,
+                fontSize: 16,
+              }}
+              placeholderTextColor="#aaa"
+            />
+            <Pressable
+              onPress={() => setShowPassword(!showPassword)}
+              hitSlop={6}
+            >
+              <Icon
+                source={showPassword ? "eye-outline" : "eye-off-outline"}
+                size={24}
+                color={COLORS.primary}
+              />
+            </Pressable>
+          </View>
+        </Surface>
+        {errors.password ? (
+          <Text style={{ color: COLORS.primary, marginTop: 4, fontSize: 12 }}>
+            {errors.password}
+          </Text>
+        ) : null}
+      </View>
+
+      {/* Forgot Password Link */}
+      <Text
+        style={{
+          color: COLORS.primary,
+          fontSize: 14,
+          textAlign: "right",
+          marginBottom: 32,
+          textDecorationLine: "underline",
+        }}
+      >
+        Quên mật khẩu?
+      </Text>
+
+      {/* Login Button */}
+      <Button
+        mode="contained"
+        onPress={handleLogin}
+        labelStyle={{
+          color: COLORS.background,
+          fontSize: 24,
+          fontWeight: "700",
+        }}
+        style={{
+          backgroundColor: COLORS.secondary,
+          paddingVertical: 8,
+          marginBottom: 16,
+          borderRadius: 16,
+        }}
+      >
+        Đăng nhập
+      </Button>
+
+      {/* Sign Up Link */}
       <View
         style={{
-          flex: 1,
-          width: "100%",
-          maxWidth: 640,
-          alignSelf: "center",
-          paddingHorizontal: 16,
+          flexDirection: "row",
+          alignItems: "center",
           justifyContent: "center",
         }}
       >
-        {/* Header */}
-        <Text
-          variant="displaySmall"
-          style={{ color: "#f6f2e8" }}
-          className="font-extrabold text-center mb-12"
-        >
-          Đăng nhập
+        <Text style={{ color: COLORS.secondary, fontSize: 16 }}>
+          Chưa có tài khoản?{" "}
         </Text>
-
-        {/* Username Field */}
-        <View className="mb-6">
-          <Surface
-            elevation={1}
+        <Pressable onPress={() => navigation.navigate("Register")}>
+          <Text
             style={{
-              backgroundColor: "#f6f2e8",
-              borderRadius: 16,
-              overflow: "hidden",
-              borderWidth: 2,
-              borderColor: "#2d2d2d",
+              color: COLORS.primary,
+              fontWeight: "bold",
+              fontSize: 16,
+              textDecorationLine: "underline",
             }}
           >
-            <View className="flex-row items-center px-4 py-1">
-              <Icon source="information-outline" size={24} color="#c65d42" />
-              <TextInput
-                placeholder="Tên đăng nhập"
-                value={username}
-                onChangeText={setUsername}
-                style={{
-                  flex: 1,
-                  backgroundColor: "transparent",
-                  paddingHorizontal: 8,
-                  fontSize: 16,
-                }}
-                placeholderTextColor="#bebebe"
-              />
-            </View>
-          </Surface>
-          {errors.username ? (
-            <Text style={{ color: "#c65d42", marginTop: 4, fontSize: 12 }}>
-              {errors.username}
-            </Text>
-          ) : null}
-        </View>
-
-        {/* Password Field */}
-        <View className="mb-6">
-          <Surface
-            elevation={1}
-            style={{
-              backgroundColor: "#f6f2e8",
-              borderRadius: 16,
-              overflow: "hidden",
-              borderWidth: 2,
-              borderColor: "#2d2d2d",
-            }}
-          >
-            <View className="flex-row items-center px-4 py-1">
-              <Icon source="lock-outline" size={24} color="#c65d42" />
-              <TextInput
-                placeholder="Mật khẩu"
-                value={password}
-                onChangeText={setPassword}
-                secureTextEntry={!showPassword}
-                style={{
-                  flex: 1,
-                  backgroundColor: "transparent",
-                  paddingHorizontal: 8,
-                  fontSize: 16,
-                }}
-                placeholderTextColor="#aaa"
-              />
-              <Pressable
-                onPress={() => setShowPassword(!showPassword)}
-                hitSlop={6}
-              >
-                <Icon
-                  source={showPassword ? "eye-outline" : "eye-off-outline"}
-                  size={24}
-                  color="#c65d42"
-                />
-              </Pressable>
-            </View>
-          </Surface>
-          {errors.password ? (
-            <Text style={{ color: "#c65d42", marginTop: 4, fontSize: 12 }}>
-              {errors.password}
-            </Text>
-          ) : null}
-        </View>
-
-        {/* Forgot Password Link */}
-        <Text className="text-red-500 text-sm text-right mb-8 underline">
-          Quên mật khẩu?
-        </Text>
-
-        {/* Login Button */}
-        <Button
-          mode="contained"
-          onPress={handleLogin}
-          labelStyle={{ color: "#a3b18a", fontSize: 16, fontWeight: "700" }}
-          style={{
-            backgroundColor: "#f6f2e8",
-            paddingVertical: 8,
-            marginBottom: 16,
-            borderRadius: 16,
-          }}
-        >
-          Đăng nhập
-        </Button>
-
-        {/* Sign Up Link */}
-        <View className="flex-row items-center justify-center">
-          <Text className="text-white text-base">Chưa có tài khoản? </Text>
-          <Pressable onPress={() => navigation.navigate("Register")}>
-            <Text className="text-red-500 font-bold text-base underline">
-              Đăng ký
-            </Text>
-          </Pressable>
-        </View>
+            Đăng ký
+          </Text>
+        </Pressable>
       </View>
-    </SafeAreaView>
+    </ScreenContainer>
   );
 }

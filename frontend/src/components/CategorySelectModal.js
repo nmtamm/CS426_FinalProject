@@ -12,6 +12,8 @@ import {
   Text,
 } from "react-native-paper";
 
+import { COLORS } from "../theme/colors";
+
 import Animated, {
   FadeIn,
   FadeInDown,
@@ -52,7 +54,7 @@ export default function CategorySelectModal({
             entering={FadeInDown.springify().damping(18).stiffness(200)}
             exiting={FadeOutDown.duration(150)}
             style={{
-              backgroundColor: "#a3b18a",
+              backgroundColor: COLORS.background,
               borderRadius: 24,
               width: "100%",
               maxHeight: 520,
@@ -60,11 +62,22 @@ export default function CategorySelectModal({
             }}
           >
             {/* Modal Header */}
-            <View className="px-5 pt-2 flex-row items-center justify-between">
+            <View
+              style={{
+                paddingHorizontal: 20,
+                paddingTop: 8,
+                flexDirection: "row",
+                alignItems: "center",
+                justifyContent: "space-between",
+              }}
+            >
               <Text
                 variant="titleMedium"
-                className="font-extrabold text-base"
-                style={{ color: "#f6f2e8" }}
+                style={{
+                  color: COLORS.secondary,
+                  fontWeight: "800",
+                  fontSize: 20,
+                }}
               >
                 Chọn danh mục
               </Text>
@@ -72,7 +85,7 @@ export default function CategorySelectModal({
                 compact
                 mode="text"
                 onPress={onDismiss}
-                textColor="#a84f2a"
+                textColor={COLORS.primary}
                 labelStyle={{ fontWeight: "bold" }}
               >
                 Đóng
@@ -80,14 +93,14 @@ export default function CategorySelectModal({
             </View>
 
             {/* Modal Search Bar */}
-            <View className="px-2 pb-2">
+            <View style={{ paddingHorizontal: 8, paddingBottom: 8 }}>
               <Searchbar
                 placeholder="Tìm kiếm danh mục..."
                 onChangeText={setFilterText}
                 value={filterText}
                 elevation={1}
                 style={{
-                  backgroundColor: "#f6f2e8",
+                  backgroundColor: COLORS.secondary,
                   borderRadius: 20,
                   height: 48,
                 }}
@@ -95,10 +108,10 @@ export default function CategorySelectModal({
                   minHeight: 0,
                   alignSelf: "center",
                   fontSize: 14,
-                  color: "#1e293b",
+                  color: COLORS.primary,
                 }}
-                iconColor="#a84f2a"
-                placeholderTextColor="#bebebe"
+                iconColor={COLORS.primary}
+                placeholderTextColor={COLORS.placeholder}
               />
             </View>
 
@@ -119,21 +132,28 @@ export default function CategorySelectModal({
                         onSelectCategory(item);
                         onDismiss();
                       }}
-                      className={`flex-row items-center justify-between px-5 py-3.5 ${
-                        isSelected ? "bg-[#f6f2e8]" : "bg-[#f8f2f2]"
-                      }`}
+                      style={{
+                        flexDirection: "row",
+                        alignItems: "center",
+                        justifyContent: "space-between",
+                        paddingHorizontal: 20,
+                        paddingVertical: 14,
+                        backgroundColor: isSelected
+                          ? COLORS.secondary
+                          : COLORS.third,
+                      }}
                     >
                       <Text
-                        className={`text-sm ${
-                          isSelected
-                            ? "font-bold text-emerald-700"
-                            : "text-slate-700 font-medium"
-                        }`}
+                        style={{
+                          fontSize: 14,
+                          fontWeight: isSelected ? "bold" : "500",
+                          color: isSelected ? COLORS.primary : COLORS.textDark,
+                        }}
                       >
                         {item}
                       </Text>
                       {isSelected && (
-                        <Icon source="check" size={20} color="#a84f2a" />
+                        <Icon source="check" size={20} color={COLORS.primary} />
                       )}
                     </Pressable>
                   </Animated.View>
