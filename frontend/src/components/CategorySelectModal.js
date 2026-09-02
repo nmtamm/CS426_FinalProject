@@ -55,7 +55,7 @@ export default function CategorySelectModal({
             exiting={FadeOutDown.duration(150)}
             style={{
               backgroundColor: COLORS.background,
-              borderRadius: 24,
+              borderRadius: 20,
               width: "100%",
               height: 520,
               overflow: "hidden",
@@ -65,7 +65,7 @@ export default function CategorySelectModal({
             <View
               style={{
                 paddingHorizontal: 20,
-                paddingTop: 8,
+                paddingTop: 5,
                 flexDirection: "row",
                 alignItems: "center",
                 justifyContent: "space-between",
@@ -93,7 +93,7 @@ export default function CategorySelectModal({
             </View>
 
             {/* Modal Search Bar */}
-            <View style={{ paddingHorizontal: 8, paddingBottom: 8 }}>
+            <View style={{ paddingHorizontal: 15, paddingBottom: 15 }}>
               <Searchbar
                 placeholder="Tìm kiếm danh mục..."
                 onChangeText={setFilterText}
@@ -101,7 +101,7 @@ export default function CategorySelectModal({
                 elevation={1}
                 style={{
                   backgroundColor: COLORS.secondary,
-                  borderRadius: 20,
+                  borderRadius: 15,
                   height: 48,
                 }}
                 inputStyle={{
@@ -143,6 +143,7 @@ export default function CategorySelectModal({
                         backgroundColor: isSelected
                           ? COLORS.secondary
                           : COLORS.third,
+                        borderWidth: 0.1
                       }}
                     >
                       <Text

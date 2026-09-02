@@ -22,6 +22,7 @@ module.exports = {
         lightGreen: "#97FF87",
         green: "#3CF71F",
 
+        yellow: "FFB400",
         
         warning: "#ff746c",
         border: "#000000",

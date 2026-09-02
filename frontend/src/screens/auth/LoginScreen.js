@@ -7,6 +7,8 @@ import { Button, Icon, Surface, Text, TextInput } from "react-native-paper";
 import ScreenContainer from "../../components/ScreenContainer";
 import { COLORS } from "../../theme/colors";
 
+import { scale } from "../../utils/responsive";
+
 export default function LoginScreen({ navigation }) {
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
@@ -45,7 +47,7 @@ export default function LoginScreen({ navigation }) {
 
   return (
     <ScreenContainer
-      contentStyle={{ paddingHorizontal: 16, justifyContent: "center" }}
+      contentStyle={{ flex: 1, paddingHorizontal: scale(60), paddingTop: scale(55), justifyContent: "center" }}
     >
       {/* Header */}
       <Text
@@ -188,7 +190,7 @@ export default function LoginScreen({ navigation }) {
         mode="contained"
         onPress={handleLogin}
         labelStyle={{
-          color: COLORS.background,
+          color: COLORS.primary,
           fontSize: 24,
           fontFamily: "Nunito_800ExtraBold",
         }}
@@ -196,6 +198,7 @@ export default function LoginScreen({ navigation }) {
           backgroundColor: COLORS.secondary,
           paddingVertical: 8,
           marginBottom: 16,
+          alignSelf: "center",
           borderRadius: 16,
         }}
       >

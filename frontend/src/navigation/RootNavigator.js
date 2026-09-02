@@ -8,7 +8,6 @@ import ProfileScreen from "../screens/main/ProfileScreen";
 import SearchIngredientScreen from "../screens/search/SearchIngredientScreen";
 import SearchRecipesByIngredientsScreen from "../screens/search/SearchRecipesByIngredientsScreen";
 import SearchRecipeByNameScreen from "../screens/search/SearchRecipeByNameScreen";
-import IngredientListScreen from "../screens/search/IngredientListScreen";
 
 import RecipeDetailScreen from "../screens/recipe/RecipeDetailScreen";
 import CustomRecipeScreen from "../screens/recipe/CustomRecipeScreen";
@@ -60,12 +59,7 @@ export default function RootNavigator() {
         name="SearchRecipeByName"
         component={SearchRecipeByNameScreen}
       />
-
-      <Stack.Screen
-        name="IngredientList"
-        component={IngredientListScreen}
-      />
-
+      
       <Stack.Screen
         name="RecipeDetail"
         component={RecipeDetailScreen}

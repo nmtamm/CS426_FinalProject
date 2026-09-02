@@ -6,7 +6,6 @@ import {
   FlatList,
   Image,
   Pressable,
-  StatusBar,
   StyleSheet,
   TextInput,
   View,
@@ -20,7 +19,11 @@ import { scale } from "../../utils/responsive";
 
 import BackIcon from "../../../assets/icons/back-icon.svg"
 import SaveIcon from "../../../assets/icons/save-icon.svg"
-
+import ScreenContainer from "../../components/ScreenContainer";
+import ScreenHeader from "../../components/ScreenHeader";
+import EditableIngredientCard from "../../components/EditableIngredientCard";
+import DeleteConfirmModal from "../../components/DeleteConfirmModal";
+import SaveConfirmModal from "../../components/SaveConfirmModal";
 
 export default function CustomRecipeScreen({
   navigation,
@@ -33,14 +36,11 @@ export default function CustomRecipeScreen({
   // Later replace with data returned from backend.
   // =====================================================
 
-  const [recipeName, setRecipeName] =
-    useState("Tên món ăn");
+  const [recipeName, setRecipeName] = useState("Tên món ăn");
 
-  const [recipeImage, setRecipeImage] =
-    useState(null);
+  const [recipeImage, setRecipeImage] = useState(null);
 
-  const [instruction, setInstruction] =
-    useState("");
+  const [instruction, setInstruction] = useState("");
 
   const [ingredients, setIngredients] = useState([
     {
@@ -70,6 +70,10 @@ export default function CustomRecipeScreen({
         "https://example.com/images/cheese.png",
     },
   ]);
+
+  const [pendingDeleteIngredientId, setPendingDeleteIngredientId] =useState(null);
+
+  const [showSaveConfirm, setShowSaveConfirm] = useState(false);
 
   // =====================================================
   // Image picker
@@ -131,15 +135,20 @@ export default function CustomRecipeScreen({
   // Delete ingredient
   // =====================================================
 
-  const handleDeleteIngredient = (
-    ingredientId
-  ) => {
-    setIngredients((currentIngredients) =>
-      currentIngredients.filter(
-        (ingredient) =>
-          ingredient.id !== ingredientId
+  const requestDeleteIngredient = (id) => {
+    setPendingDeleteIngredientId(id);
+  };
+
+  const handleDeleteIngredient = () => {
+    if (pendingDeleteIngredientId === null) return;
+
+    setIngredients((prev) =>
+      prev.filter(
+        (item) => item.id !== pendingDeleteIngredientId
       )
     );
+
+    setPendingDeleteIngredientId(null);
   };
 
   // =====================================================
@@ -156,13 +165,12 @@ export default function CustomRecipeScreen({
   // Save recipe
   // =====================================================
 
-  const handleSaveRecipe = async () => {
+  const requestSaveRecipe = () => {
     if (!recipeName.trim()) {
       Alert.alert(
         "Thiếu thông tin",
         "Vui lòng nhập tên món ăn."
       );
-
       return;
     }
 
@@ -171,50 +179,26 @@ export default function CustomRecipeScreen({
         "Thiếu nguyên liệu",
         "Vui lòng thêm ít nhất một nguyên liệu."
       );
-
       return;
     }
 
-    const customRecipe = {
-      id: recipeId,
-      name: recipeName.trim(),
-      image: recipeImage,
-      instruction: instruction.trim(),
+    setShowSaveConfirm(true);
+  };
+  
+  const handleSaveRecipe = async () => {
+    setShowSaveConfirm(false);
 
-      ingredients: ingredients.map(
-        (ingredient) => ({
-          id: ingredient.id,
-          quantity: Number(
-            ingredient.quantity || 0
-          ),
-          unit: ingredient.unit,
-        })
-      ),
+    const recipeData = {
+      name: recipeName,
+      ingredients,
+      instruction,
+      image,
     };
 
-    console.log(
-      "Recipe sent to backend:",
-      customRecipe
-    );
+    console.log("Saving:", recipeData);
 
-    // =================================================
-    // BACKEND CONNECTION LATER
-    // =================================================
-    //
-    // Your backend partner can later replace this with:
-    //
-    // await updateCustomRecipe(
-    //   recipeId,
-    //   customRecipe
-    // );
-    //
-    // Or:
-    //
-    // await createCustomRecipe(customRecipe);
-    //
-    // Image can later be uploaded separately and
-    // backend returns image URL.
-    // =================================================
+    // Backend later:
+    // await updateCustomizedRecipe(recipeData);
 
     navigation.navigate("SaveSuccessfully");
   };
@@ -224,27 +208,18 @@ export default function CustomRecipeScreen({
       <EditableIngredientCard
         ingredient={item}
         onQuantityChange={(value) =>
-          handleQuantityChange(
-            item.id,
-            value
-          )
+          handleQuantityChange(item.id, value)
         }
-        onDelete={() =>
-          handleDeleteIngredient(item.id)
+        onDelete={() => requestDeleteIngredient(item.id)
         }
       />
     );
   };
 
   return (
-    <SafeAreaView
-      style={styles.container}
-      edges={["top", "left", "right"]}
+    <ScreenContainer
+      contentStyle={styles.content}
     >
-      <StatusBar
-        barStyle="light-content"
-        backgroundColor={COLORS.primary}
-      />
 
       <FlatList
         data={ingredients}
@@ -252,53 +227,23 @@ export default function CustomRecipeScreen({
         renderItem={renderIngredient}
         showsVerticalScrollIndicator={false}
         keyboardShouldPersistTaps="handled"
-        contentContainerStyle={
-          styles.listContent
-        }
         ListHeaderComponent={
           <>
             {/* =====================
                 Header
             ====================== */}
 
-            <View style={styles.header}>
-              <Pressable
-                onPress={() =>
-                  navigation.goBack()
-                }
-                style={({ pressed }) => [
-                  styles.headerButton,
-                  pressed && styles.pressed,
-                ]}
-              >
-                <BackIcon
-                  width={scale(48)}
-                  height={scale(48)}
-                  color={COLORS.primary}
-                />
-              </Pressable>
+            <ScreenHeader
+              title="Tùy chỉnh công thức"
+              variant="displaySmall"
+              onLeftPress={() => navigation.goBack()}
+              LeftIconSvg={BackIcon}
+              LeftIconSize="24"
 
-              <Text
-                style={styles.title}
-                numberOfLines={1}
-              >
-                Tùy chỉnh công thức
-              </Text>
-
-              <Pressable
-                onPress={handleSaveRecipe}
-                style={({ pressed }) => [
-                  styles.headerButton,
-                  pressed && styles.pressed,
-                ]}
-              >
-                <SaveIcon
-                  width={scale(48)}
-                  height={scale(48)}
-                  color={COLORS.primary}
-                />
-              </Pressable>
-            </View>
+              onRightPress={() => requestSaveRecipe()}
+              RightIconSvg={SaveIcon}
+              RightIconSize="24"
+            />
 
             {/* =====================
                 Recipe image
@@ -307,6 +252,8 @@ export default function CustomRecipeScreen({
             <Pressable
               onPress={handleChangeImage}
               style={styles.imageCard}
+              hitSlop={8}
+              className="active:opacity-60"
             >
               {recipeImage ? (
                 <Image
@@ -383,6 +330,8 @@ export default function CustomRecipeScreen({
               <Pressable
                 onPress={handleAddIngredient}
                 style={styles.addIngredientButton}
+                hitSlop={8}
+                className="active:opacity-60"
               >
                 <MaterialCommunityIcons
                   name="plus"
@@ -423,161 +372,39 @@ export default function CustomRecipeScreen({
           </View>
         }
       />
-    </SafeAreaView>
+
+      <DeleteConfirmModal
+        visible={pendingDeleteIngredientId !== null}
+        message={
+          "Bạn có chắc chắn muốn xoá nguyên liệu này không?\nHành động này không thể hoàn tác."
+        }
+        onCancel={() => setPendingDeleteIngredientId(null)}
+        onConfirm={handleDeleteIngredient}
+      />
+
+      <SaveConfirmModal
+        visible={showSaveConfirm}
+        onCancel={() => setShowSaveConfirm(false)}
+        onConfirm={handleSaveRecipe}
+      />
+    </ScreenContainer>
   );
 }
 
-// =======================================================
-// Editable Ingredient Card
-// =======================================================
-
-function EditableIngredientCard({
-  ingredient,
-  onQuantityChange,
-  onDelete,
-}) {
-  const [imageError, setImageError] = useState(false);
-
-  const calories = useMemo(() => {
-    const quantity = Number(ingredient.quantity) || 0;
-
-    return Math.round(
-      (ingredient.caloriesPer100 * quantity) / 100
-    );
-  }, [
-    ingredient.quantity,
-    ingredient.caloriesPer100,
-  ]);
-
-  const renderRightActions = () => {
-    return (
-      <Pressable
-        onPress={onDelete}
-        style={styles.deleteButton}
-      >
-        <MaterialCommunityIcons
-          name="trash-can-outline"
-          size={scale(50)}
-          color={COLORS.red}
-        />
-      </Pressable>
-    );
-  };
-
-  return (
-    <Swipeable
-      renderRightActions={renderRightActions}
-      overshootRight={true}
-      friction={2}
-      rightThreshold={scale(40)}
-    >
-      <View style={styles.ingredientCard}>
-        {/* Ingredient image */}
-        <View style={styles.ingredientIconBox}>
-          <Image
-            source={
-              imageError
-                ? require("../../../assets/icons/ingredient-icon.png")
-                : {
-                    uri: ingredient.image,
-                  }
-            }
-            style={styles.ingredientImage}
-            resizeMode="contain"
-            onError={() => setImageError(true)}
-          />
-        </View>
-
-        {/* Ingredient name */}
-        <View style={styles.ingredientNameBox}>
-          <Text
-            style={styles.ingredientName}
-            numberOfLines={2}
-          >
-            {ingredient.name}
-          </Text>
-        </View>
-
-        {/* Quantity + Calories */}
-        <View style={styles.ingredientInfoBox}>
-          <View style={styles.quantityRow}>
-            <Text style={styles.ingredientInfoLabel}>
-              Định lượng:
-            </Text>
-
-            <TextInput
-              style={styles.quantityInput}
-              value={ingredient.quantity}
-              onChangeText={onQuantityChange}
-              keyboardType="decimal-pad"
-              selectTextOnFocus
-            />
-
-            <Text style={styles.unitText}>
-              {ingredient.unit}
-            </Text>
-          </View>
-
-          <Text style={styles.ingredientInfo}>
-            Calories: {calories} cal
-          </Text>
-        </View>
-      </View>
-    </Swipeable>
-  );
-}
 
 // =======================================================
 // Styles
 // =======================================================
 
 const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: COLORS.background,
-  },
-
-  listContent: {
-    paddingHorizontal: scale(52),
-    paddingTop: scale(35),
-    paddingBottom: scale(100),
-  },
-
   // =====================================================
-  // Header
+  // Screen
   // =====================================================
 
-  header: {
-    width: "100%",
-
-    flexDirection: "row",
-    alignItems: "center",
-    justifyContent: "space-between",
-  },
-
-  headerButton: {
-    width: scale(62),
-    height: scale(62),
-
-    borderRadius: scale(31),
-
-    backgroundColor: COLORS.secondary,
-
-    justifyContent: "center",
-    alignItems: "center",
-  },
-
-  title: {
+  content: {
     flex: 1,
-
-    marginHorizontal: scale(15),
-
-    color: COLORS.secondary,
-
-    fontSize: scale(45),
-    fontFamily: "Nunito_900Black",
-
-    textAlign: "center",
+    paddingHorizontal: scale(65),
+    paddingTop: scale(55),
   },
 
   // =====================================================

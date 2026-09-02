@@ -10,6 +10,8 @@ import { Text } from "react-native-paper";
 import { SafeAreaView } from "react-native-safe-area-context";
 
 import { COLORS } from "../../theme/colors";
+import ScreenContainer from "../../components/ScreenContainer";
+
 import { scale } from "../../utils/responsive";
 
 import ProfileIcon from "../../../assets/icons/profile-icon.svg";
@@ -17,16 +19,9 @@ import ProfileIcon from "../../../assets/icons/profile-icon.svg";
 
 export default function DashboardScreen({ navigation }) {
   return (
-    <SafeAreaView
-      style={styles.container}
-      edges={["top", "left", "right"]}
+    <ScreenContainer
+      contentStyle={styles.content}
     >
-      <StatusBar
-        barStyle="dark-content"
-        backgroundColor={COLORS.primary}
-      />
-
-      <View style={styles.content}>
         {/* Welcome */}
         <View style={styles.welcomeCard}>
           <View style={styles.welcomeTextContainer}>
@@ -45,8 +40,8 @@ export default function DashboardScreen({ navigation }) {
 
           <Pressable
             onPress={() => navigation.navigate("Profile")}
-            style={({ pressed }) => [
-              styles.profileButton            ]}
+            hitSlop={8}
+            className="active:opacity-60"
           >
             <ProfileIcon
               width={scale(62)}
@@ -66,8 +61,9 @@ export default function DashboardScreen({ navigation }) {
           {/* Recipe */}
           <Pressable
             style={styles.choice}
-            onPress={() =>
-              navigation.navigate("SearchRecipeByName")
+            hitSlop={8}
+            className="active:opacity-60"
+            onPress={() => navigation.navigate("SearchRecipeByName")
             }
           >
             <View style={styles.choiceBox}>
@@ -86,8 +82,9 @@ export default function DashboardScreen({ navigation }) {
           {/* Ingredient */}
           <Pressable
             style={styles.choice}
-            onPress={() =>
-              navigation.navigate("SearchIngredient")
+            hitSlop={8}
+            className="active:opacity-60"
+            onPress={() => navigation.navigate("SearchIngredient")
             }
           >
             <View style={styles.choiceBox}>
@@ -103,20 +100,15 @@ export default function DashboardScreen({ navigation }) {
             </Text>
           </Pressable>
         </View>
-      </View>
-    </SafeAreaView>
+    </ScreenContainer>
   );
 }
 
 const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: COLORS.background,
-  },
 
   content: {
     flex: 1,
-    paddingHorizontal: scale(60),
+    paddingHorizontal: scale(65),
     paddingTop: scale(55),
   },
 

@@ -14,6 +14,9 @@ import ScreenHeader from "../../components/ScreenHeader";
 import { RECIPE_CATEGORIES, RECIPES } from "../../data/mockRecipes";
 import { COLORS } from "../../theme/colors";
 
+import { scale } from "../../utils/responsive";
+import BackIcon from "../../../assets/icons/back-icon.svg"
+
 const ITEMS_PER_PAGE = 10;
 
 export default function SearchRecipesByIngredientsScreen({
@@ -71,41 +74,37 @@ export default function SearchRecipesByIngredientsScreen({
   };
 
   return (
-    <ScreenContainer>
-      <View style={{ paddingHorizontal: 16, paddingTop: 8 }}>
+    <ScreenContainer style={{paddingHorizontal: scale(65), paddingTop: scale(55), paddingBottom: scale(130)}}>
+      <View>
         <ScreenHeader
           title="Tìm công thức"
           variant="displaySmall"
-          titleClassName="tracking-tight"
           onBack={() => navigation.goBack()}
+          onLeftPress={() => navigation.goBack()}
+          LeftIconSvg={BackIcon}
+          LeftIconSize="24"
         />
 
-        <View style={{ flexDirection: "row", gap: 8, marginBottom: 12 }}>
-          <View style={{ flex: 1 }}>
-            <AppSearchbar
-              placeholder="Nhập tên công thức"
-              value={searchQuery}
-              onChangeText={handleSearchChange}
-              borderRadius={16}
-              height={48}
-              fontSize={14}
-            />
-          </View>
+        <View style={{gap: 10, marginTop: 20, marginBottom: 10 }}>
+          <AppSearchbar
+            placeholder="Nhập tên công thức"
+            value={searchQuery}
+            onChangeText={handleSearchChange}
+          />
+        
+          <CategorySelectorField
+            selectedCategory={selectedCategory}
+            onPress={() => setIsCategoryModalOpen(true)}
+          />
         </View>
-
-        <CategorySelectorField
-          selectedCategory={selectedCategory}
-          onPress={() => setIsCategoryModalOpen(true)}
-        />
 
         {selectedIngredients.length > 0 && (
           <ScrollView
             horizontal
             showsHorizontalScrollIndicator={false}
             contentContainerStyle={{
-              paddingTop: 12,
-              paddingBottom: 8,
               flexDirection: "row",
+              marginBottom: 10,
               gap: 8,
             }}
           >
@@ -115,12 +114,13 @@ export default function SearchRecipesByIngredientsScreen({
                 elevation={1}
                 style={{
                   backgroundColor: COLORS.secondary,
-                  borderRadius: 12,
+                  borderWidth: 1,
+                  borderRadius: 10,
                   paddingHorizontal: 12,
                   paddingVertical: 6,
                 }}
               >
-                <Text style={{ fontSize: 14, color: COLORS.primary }}>
+                <Text style={{ fontSize: 14, fontFamily: "Nunito_700Bold" ,color: COLORS.primary }}>
                   {ingredient.name}
                 </Text>
               </Surface>

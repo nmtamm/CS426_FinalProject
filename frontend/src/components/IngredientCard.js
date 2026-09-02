@@ -38,7 +38,7 @@ export default function IngredientCard({
     <Animated.View style={animatedStyle}>
       <Surface
         elevation={isSelected ? 2 : 0}
-        className="rounded-2xl border-2 mb-2.5 overflow-hidden"
+        className="overflow-hidden"
       >
         <Pressable
           onPress={() => onToggleSelect(ingredient)}
@@ -109,8 +109,8 @@ export default function IngredientCard({
           {/* Toggle Action Button */}
           <View
             style={{
-              width: 36,
-              height: 36,
+              width: 30,
+              height: 30,
               borderRadius: 9999,
               alignItems: "center",
               justifyContent: "center",

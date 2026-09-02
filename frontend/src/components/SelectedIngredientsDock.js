@@ -49,7 +49,7 @@ export default function SelectedIngredientsDock({
 
   useEffect(() => {
     expandProgress.value = withTiming(hasItems ? 1 : 0, {
-      duration: 380,
+      duration: 350,
       easing: Easing.bezier(0.25, 0.1, 0.25, 1),
     });
   }, [hasItems, expandProgress]);
@@ -81,12 +81,12 @@ export default function SelectedIngredientsDock({
           left: 0,
           right: 0,
           paddingTop: 4,
-          paddingBottom: Math.max(insets.bottom, 8),
+          paddingbottom: 4,
         }}
       >
         <Surface
-          elevation={3}
-          style={{ padding: 16, backgroundColor: COLORS.secondary }}
+          elevation={0}
+          style={{ padding: 16, borderWidth: 1, borderRadius: 15, backgroundColor: COLORS.secondary }}
         >
           {/* Dock Header */}
           <View
@@ -106,7 +106,6 @@ export default function SelectedIngredientsDock({
                   fontFamily: "Nunito_800ExtraBold",
                   color: "black",
                   textTransform: "uppercase",
-                  letterSpacing: 0.5,
                 }}
               >
                 Nguyên liệu đã chọn
@@ -121,7 +120,7 @@ export default function SelectedIngredientsDock({
                 }}
               >
                 <Text
-                  style={{ color: "#065f46", fontSize: 14, fontWeight: "bold" }}
+                  style={{ color: "#065f46", fontSize: 14, fontFamily: "Nunito_800ExtraBold" }}
                 >
                   {itemsToDisplay.length}
                 </Text>

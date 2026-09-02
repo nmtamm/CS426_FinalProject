@@ -17,6 +17,11 @@ import { scale } from "../../utils/responsive";
 
 import BackIcon from "../../../assets/icons/back-icon.svg"
 import SaveIcon from "../../../assets/icons/save-icon.svg"
+import ScreenContainer from "../../components/ScreenContainer";
+import ScreenHeader from "../../components/ScreenHeader";
+import ReadOnlyIngredientCard from "../../components/ReadOnlyIngredientCard";
+import SaveConfirmModal from "../../components/SaveConfirmModal";
+
 
 export default function RecipeDetailScreen({
   navigation,
@@ -62,7 +67,14 @@ export default function RecipeDetailScreen({
     ],
   };
 
-  const handleSaveRecipe = () => {
+  const [showSaveConfirm, setShowSaveConfirm] = useState(false);
+
+  const handleSaveRecipe = async () => {
+    setShowSaveConfirm(false);
+
+    // Backend later:
+    // await saveFavouriteRecipe(recipe.id);
+
     navigation.navigate("SaveSuccessfully");
   };
 
@@ -79,18 +91,13 @@ export default function RecipeDetailScreen({
   };
 
   const renderIngredient = ({ item }) => {
-    return <IngredientCard ingredient={item} />;
+    return <ReadOnlyIngredientCard ingredient={item} />;
   };
 
   return (
-    <SafeAreaView
-      style={styles.container}
-      edges={["top", "left", "right"]}
+    <ScreenContainer
+      contentStyle={styles.content}
     >
-      <StatusBar
-        barStyle="light-content"
-        backgroundColor={COLORS.background}
-      />
 
       <FlatList
         data={recipe.ingredients}
@@ -102,34 +109,17 @@ export default function RecipeDetailScreen({
         ListHeaderComponent={
           <>
             {/* Header */}
-            <View style={styles.header}>
-              <Pressable
-                onPress={() => navigation.goBack()}
-              >
-                <BackIcon
-                  width={scale(48)}
-                  height={scale(48)}
-                  color={COLORS.primary}
-                />
-              </Pressable>
+            <ScreenHeader
+              title="Công thức chi tiết"
+              variant="displaySmall"
+              onLeftPress={() => navigation.goBack()}
+              LeftIconSvg={BackIcon}
+              LeftIconSize="24"
 
-              <Text
-                style={styles.title}
-                numberOfLines={1}
-              >
-                Công thức chi tiết
-              </Text>
-
-              <Pressable
-                onPress={handleSaveRecipe}
-              >
-                <SaveIcon
-                  width={scale(48)}
-                  height={scale(48)}
-                  color={COLORS.primary}
-                />
-              </Pressable>
-            </View>
+              onRightPress={() => setShowSaveConfirm(true)}
+              RightIconSvg={SaveIcon}
+              RightIconSize="24"
+            />
 
             {/* Recipe image */}
             <View style={styles.imageCard}>
@@ -172,105 +162,27 @@ export default function RecipeDetailScreen({
           </>
         }
       />
-    </SafeAreaView>
+
+      <SaveConfirmModal
+        visible={showSaveConfirm}
+        message="Bạn có chắc chắn muốn lưu công thức này không?"
+        onCancel={() => setShowSaveConfirm(false)}
+        onConfirm={handleSaveRecipe}
+      />
+    </ScreenContainer>
   );
 }
 
-// =======================================================
-// Ingredient card
-// =======================================================
-
-function IngredientCard({ ingredient }) {
-  const [imageError, setImageError] = useState(false);
-
-  return (
-    <View style={styles.ingredientCard}>
-      <View style={styles.ingredientIconBox}>
-        <Image
-          source={
-            imageError
-              ? require("../../../assets/icons/ingredient-icon.png")
-              : { uri: ingredient.image }
-          }
-          style={styles.ingredientImage}
-          resizeMode="contain"
-          onError={() => setImageError(true)}
-        />
-      </View>
-
-      <View style={styles.ingredientNameBox}>
-        <Text
-          style={styles.ingredientName}
-          numberOfLines={2}
-        >
-          {ingredient.name}
-        </Text>
-      </View>
-
-      <View style={styles.ingredientInfoBox}>
-        <Text style={styles.ingredientInfo}>
-          Định lượng: {ingredient.quantity}
-        </Text>
-
-        <Text style={styles.ingredientInfo}>
-          Calories: {ingredient.calories}
-        </Text>
-      </View>
-    </View>
-  );
-}
 
 const styles = StyleSheet.create({
   // =====================================================
   // Screen
   // =====================================================
 
-  container: {
+  content: {
     flex: 1,
-    backgroundColor: COLORS.background,
-  },
-
-  listContent: {
-    paddingHorizontal: scale(52),
-    paddingTop: scale(35),
-    paddingBottom: scale(100),
-  },
-
-  // =====================================================
-  // Header
-  // =====================================================
-
-  header: {
-    width: "100%",
-
-    flexDirection: "row",
-    alignItems: "center",
-    justifyContent: "space-between",
-  },
-
-  headerButton: {
-    width: scale(62),
-    height: scale(62),
-
-    borderRadius: scale(31),
-
-    backgroundColor: COLORS.secondary,
-
-    justifyContent: "center",
-    alignItems: "center",
-  },
-
-  title: {
-    flex: 1,
-
-    marginHorizontal: scale(15),
-
-    color: COLORS.secondary,
-
-    fontSize: scale(45),
-    fontFamily: "Nunito_900Black",
-
-    textAlign: "center",
+    paddingHorizontal: scale(65),
+    paddingTop: scale(55),
   },
 
   // =====================================================

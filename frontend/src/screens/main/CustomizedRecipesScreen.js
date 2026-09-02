@@ -14,6 +14,9 @@ import Swipeable from "react-native-gesture-handler/ReanimatedSwipeable";
 
 import { COLORS } from "../../theme/colors";
 import { scale } from "../../utils/responsive";
+import ScreenContainer from "../../components/ScreenContainer";
+import ScreenHeader from "../../components/ScreenHeader";
+import DeleteConfirmModal from "../../components/DeleteConfirmModal";
 
 export default function CustomizedRecipesScreen({ navigation }) {
   // Temporary frontend data.
@@ -51,36 +54,48 @@ export default function CustomizedRecipesScreen({ navigation }) {
     },
   ]);
 
+  const [pendingDeleteId, setPendingDeleteId] = useState(null);
+
   const handleRecipePress = (recipe) => {
     navigation.navigate("CustomRecipe", {
       recipeId: recipe.id,
     });
   };
 
-  const handleDelete = (recipeId) => {
-    setRecipes((currentRecipes) =>
-      currentRecipes.filter((recipe) => recipe.id !== recipeId)
+  const requestDelete = (id) => {
+    setPendingDeleteId(id);
+  };
+
+  const handleDelete = () => {
+    if (pendingDeleteId === null) return;
+
+    setRecipes((prev) =>
+      prev.filter((recipe) => recipe.id !== pendingDeleteId)
     );
 
     // Later, your backend partner can replace/add:
     // await deleteCustomizedRecipe(recipeId);
+
+    setPendingDeleteId(null);
   };
 
   const renderRecipe = ({ item }) => {
     const renderRightActions = () => {
-      return (
-        <Pressable
-          style={styles.deleteButton}
-          onPress={() => handleDelete(item.id)}
-        >
-          <MaterialCommunityIcons
-            name="trash-can-outline"
-            size={scale(50)}
-            color={COLORS.red}
-          />
-        </Pressable>
-      );
-    };
+        return (
+          <Pressable
+            style={styles.deleteButton}
+            onPress={() => requestDelete(item.id)}
+            hitSlop={8}
+            className="active:opacity-60"
+          >
+            <MaterialCommunityIcons
+              name="trash-can-outline"
+              size={scale(50)}
+              color={COLORS.red}
+            />
+          </Pressable>
+        );
+      };
 
     return (
       <Swipeable
@@ -92,6 +107,8 @@ export default function CustomizedRecipesScreen({ navigation }) {
         <Pressable
           style={styles.recipeCard}
           onPress={() => handleRecipePress(item)}
+          hitSlop={8}
+          className="active:scale-105"
         >
           <View style={styles.imageBox}>
             {item.image && (
@@ -118,19 +135,15 @@ export default function CustomizedRecipesScreen({ navigation }) {
   };
 
   return (
-    <SafeAreaView
-      style={styles.container}
-      edges={["top", "left", "right"]}
+    <ScreenContainer
+      contentStyle={styles.content}
     >
-      <StatusBar
-        barStyle="light-content"
-        backgroundColor={COLORS.background}
-      />
-
       {/* Title */}
-      <Text style={styles.title}>
-        Công thức tuỳ chỉnh
-      </Text>
+      <ScreenHeader
+        title="Công thức tuỳ chỉnh"
+        variant="displaySmall"
+        titleClassName="tracking-tight"
+      />
 
       {/* Recipe list container */}
       <View style={styles.listContainer}>
@@ -142,30 +155,24 @@ export default function CustomizedRecipesScreen({ navigation }) {
           contentContainerStyle={styles.listContent}
         />
       </View>
-    </SafeAreaView>
+
+      <DeleteConfirmModal
+        visible={pendingDeleteId !== null}
+        message={
+          "Bạn có chắc chắn muốn xoá công thức này không?\nHành động này không thể hoàn tác."
+        }
+        onCancel={() => setPendingDeleteId(null)}
+        onConfirm={handleDelete}
+      />
+    </ScreenContainer>
   );
 }
 
 const styles = StyleSheet.create({
-  container: {
+  content: {
     flex: 1,
-    backgroundColor: COLORS.background,
-  },
-
-  // =========================
-  // Title
-  // =========================
-
-  title: {
-    marginTop: scale(40),
-    paddingHorizontal: scale(30),
-
-    color: COLORS.secondary,
-
-    fontSize: scale(45),
-    fontFamily: "Nunito_900Black",
-
-    textAlign: "center",
+    paddingHorizontal: scale(65),
+    paddingTop: scale(55),
   },
 
   // =========================
@@ -175,8 +182,7 @@ const styles = StyleSheet.create({
   listContainer: {
     flex: 1,
 
-    marginTop: scale(55),
-    marginHorizontal: scale(60),
+    marginTop: scale(30),
 
     // Leave room for your absolute bottom tab bar
     marginBottom: scale(330),
@@ -212,7 +218,7 @@ const styles = StyleSheet.create({
 
     flexDirection: "row",
 
-    backgroundColor: COLORS.surface,
+    backgroundColor: COLORS.third,
 
     borderWidth: scale(2),
     borderColor: COLORS.black,

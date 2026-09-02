@@ -11,6 +11,9 @@ import ScreenContainer from "../../components/ScreenContainer";
 import ScreenHeader from "../../components/ScreenHeader";
 import { RECIPE_CATEGORIES, RECIPES } from "../../data/mockRecipes";
 
+import { scale } from "../../utils/responsive";
+import HomeIcon from "../../../assets/icons/home-icon.svg"
+
 const ITEMS_PER_PAGE = 10;
 
 export default function SearchRecipeByNameScreen({ navigation }) {
@@ -62,16 +65,18 @@ export default function SearchRecipeByNameScreen({ navigation }) {
   };
 
   return (
-    <ScreenContainer>
-      <View style={{ paddingHorizontal: 16, paddingTop: 8 }}>
+    <ScreenContainer style={{paddingHorizontal: scale(65), paddingTop: scale(55), paddingBottom: scale(130)}}>
+      <View>
         <ScreenHeader
-          title="Tìm kiếm công thức"
-          iconSize={22}
+          title="Tìm nguyên liệu"
+          variant="displaySmall"
+          onLeftPress={() => navigation.navigate("MainTabs", { screen: "Dashboard" })}
+          LeftIconSvg={HomeIcon}
+          LeftIconSize={30}
           titleClassName="tracking-tight"
-          onBack={() => navigation.goBack()}
         />
 
-        <View style={{ gap: 10, marginBottom: 12 }}>
+        <View style={{ gap: 10, marginTop: 20, marginBottom: 12 }}>
           <AppSearchbar
             placeholder="Nhập tên công thức..."
             value={searchQuery}

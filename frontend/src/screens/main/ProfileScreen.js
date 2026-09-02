@@ -14,6 +14,10 @@ import { MaterialCommunityIcons } from "@expo/vector-icons";
 
 import { COLORS } from "../../theme/colors";
 import { scale } from "../../utils/responsive";
+import BackIcon from "../../../assets/icons/back-icon.svg"
+import LogoutIcon from "../../../assets/icons/logout-icon.svg"
+import ScreenContainer from "../../components/ScreenContainer";
+import ScreenHeader from "../../components/ScreenHeader";
 
 export default function ProfileScreen({ navigation }) {
   // Temporary frontend data.
@@ -23,90 +27,55 @@ export default function ProfileScreen({ navigation }) {
   const [password, setPassword] = useState("12345");
 
   return (
-    <SafeAreaView style={styles.container}>
-      <StatusBar
-        barStyle="light-content"
-        backgroundColor={COLORS.background}
+    <ScreenContainer contentStyle={styles.content}>
+      <ScreenHeader
+        title="Tùy chỉnh công thức"
+        variant="displaySmall"
+        onLeftPress={() => navigation.goBack()}
+        LeftIconSvg={BackIcon}
+        LeftIconSize="24"
+
+        onRightPress={() => navigation.reset({index: 0, routes: [{ name: "Login" }],})}
+        RightIconSvg={LogoutIcon}
+        RightIconSize="24"
       />
 
-      <View style={styles.content}>
-        {/* =========================
-            HEADER
-        ========================= */}
-        <View style={styles.header}>
-          <Pressable
-            onPress={() => navigation.goBack()}
-            style={({ pressed }) => [
-              styles.headerButton,
-              pressed && styles.buttonPressed,
-            ]}
-          >
-            <MaterialCommunityIcons
-              name="arrow-left"
-              size={scale(48)}
-              color={COLORS.primary}
-            />
-          </Pressable>
+      {/* =========================
+          PROFILE INFORMATION
+      ========================= */}
+      <View style={styles.cardsContainer}>
+        <ProfileItem
+          icon="account-outline"
+          label="Họ và tên"
+          value={fullName}
+          onSave={(newValue) => {
+            setFullName(newValue);
 
-          <Text style={styles.title}>Hồ sơ</Text>
+            // Later:
+            // updateFullNameInDatabase(newValue);
+          }}
+        />
 
-          <Pressable
-            onPress={() =>
-              navigation.reset({
-                index: 0,
-                routes: [{ name: "Login" }],
-              })
-            }
-            style={({ pressed }) => [
-              styles.headerButton,
-              pressed && styles.buttonPressed,
-            ]}
-          >
-            <MaterialCommunityIcons
-              name="logout"
-              size={scale(48)}
-              color={COLORS.primary}
-            />
-          </Pressable>
-        </View>
+        <ProfileItem
+          icon="information-outline"
+          label="Tên đăng nhập"
+          value={username}
+          editable={false}
+        />
 
-        {/* =========================
-            PROFILE INFORMATION
-        ========================= */}
-        <View style={styles.cardsContainer}>
-          <ProfileItem
-            icon="account-outline"
-            label="Họ và tên"
-            value={fullName}
-            onSave={(newValue) => {
-              setFullName(newValue);
+        <ProfileItem
+          icon="lock-outline"
+          label="Mật khẩu"
+          value={password}
+          onSave={(newValue) => {
+            setPassword(newValue);
 
-              // Later:
-              // updateFullNameInDatabase(newValue);
-            }}
-          />
-
-          <ProfileItem
-            icon="information-outline"
-            label="Tên đăng nhập"
-            value={username}
-            editable={false}
-          />
-
-          <ProfileItem
-            icon="lock-outline"
-            label="Mật khẩu"
-            value={password}
-            onSave={(newValue) => {
-              setPassword(newValue);
-
-              // Later:
-              // updatePasswordInDatabase(newValue);
-            }}
-          />
-        </View>
+            // Later:
+            // updatePasswordInDatabase(newValue);
+          }}
+        />
       </View>
-    </SafeAreaView>
+    </ScreenContainer>
   );
 }
 
@@ -174,10 +143,9 @@ function ProfileItem({
       {editable && (
         <Pressable
           onPress={handleButtonPress}
-          style={({ pressed }) => [
-            styles.editButton,
-            pressed && styles.editPressed,
-          ]}
+          hitSlop={8}
+          className="active:opacity-60"
+          style={styles.editButton}
         >
           <MaterialCommunityIcons
             name={
@@ -202,41 +170,8 @@ const styles = StyleSheet.create({
 
   content: {
     flex: 1,
-    paddingHorizontal: scale(60),
-    paddingTop: scale(38),
-  },
-
-  // =========================
-  // Header
-  // =========================
-
-  header: {
-    flexDirection: "row",
-    alignItems: "center",
-    justifyContent: "space-between",
-  },
-
-  headerButton: {
-    width: scale(58),
-    height: scale(58),
-
-    borderRadius: scale(29),
-
-    backgroundColor: COLORS.secondary,
-
-    justifyContent: "center",
-    alignItems: "center",
-  },
-
-  buttonPressed: {
-    opacity: 0.65,
-    transform: [{ scale: 0.94 }],
-  },
-
-  title: {
-    color: COLORS.secondary,
-    fontSize: scale(45),
-    fontFamily: "Nunito_900Black"
+    paddingHorizontal: scale(65),
+    paddingTop: scale(55),
   },
 
   // =========================

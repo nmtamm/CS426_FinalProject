@@ -6,27 +6,30 @@ import { COLORS } from "../theme/colors";
 
 export default function ScreenHeader({
   title,
-  onBack,
-  iconName = "arrow-left",
-  iconSize = 24,
+
+  onLeftPress,
+  leftIconName,
+  LeftIconSvg,
+  LeftIconSize = 24,
+
+  onRightPress,
+  rightIconName,
+  RightIconSvg,
+  RightIconSize = 24,
+
   variant = "titleLarge",
   titleClassName,
 }) {
-  return (
-    <View
-      style={{
-        flexDirection: "row",
-        alignItems: "center",
-        justifyContent: "space-between",
-        paddingVertical: 8,
-        marginBottom: 4,
-        paddingHorizontal: 4,
-      }}
-    >
+  const renderButton = ({ onPress, iconName, SvgIcon, iconSize }) => {
+    if (!onPress || (!iconName && !SvgIcon)) {
+      return <View style={{ width: 40, height: 40 }} />;
+    }
+
+    return (
       <Pressable
         hitSlop={8}
-        onPress={onBack}
-        className="shadow-sm"
+        className="active:opacity-60"
+        onPress={onPress}
         style={{
           width: 40,
           height: 40,
@@ -36,18 +39,59 @@ export default function ScreenHeader({
           backgroundColor: COLORS.secondary,
         }}
       >
-        <Icon source={iconName} size={iconSize} color={COLORS.primary} />
+        {SvgIcon ? (
+          <SvgIcon
+            width={iconSize}
+            height={iconSize}
+            color={COLORS.primary}
+          />
+        ) : (
+          <Icon
+            source={iconName}
+            size={iconSize}
+            color={COLORS.primary}
+          />
+        )}
       </Pressable>
+    );
+  };
+
+  return (
+    <View
+      style={{
+        flexDirection: "row",
+        alignItems: "center",
+        justifyContent: "space-between",
+      }}
+    >
+      {renderButton({
+        onPress: onLeftPress,
+        iconName: leftIconName,
+        SvgIcon: LeftIconSvg,
+        iconSize: LeftIconSize
+      })}
 
       <Text
         variant={variant}
         className={titleClassName}
-        style={{ color: COLORS.secondary, fontSize: 25, fontFamily: "Nunito_900Black" }}
+        numberOfLines={1}
+        style={{
+          flex: 1,
+          textAlign: "center",
+          color: COLORS.secondary,
+          fontSize: 25,
+          fontFamily: "Nunito_900Black",
+        }}
       >
         {title}
       </Text>
 
-      <View style={{ width: 40 }} />
+      {renderButton({
+        onPress: onRightPress,
+        iconName: rightIconName,
+        SvgIcon: RightIconSvg,
+        iconSize: RightIconSize
+      })}
     </View>
   );
 }
