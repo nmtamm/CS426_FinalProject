@@ -5,12 +5,14 @@ import { Pressable, View } from "react-native";
 import { Button, Icon, Surface, Text, TextInput } from "react-native-paper";
 
 import ScreenContainer from "../../components/ScreenContainer";
+import { api } from "../../services/api";
 import { COLORS } from "../../theme/colors";
 
 export default function LoginScreen({ navigation }) {
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
   const [showPassword, setShowPassword] = useState(false);
+  const [isSubmitting, setIsSubmitting] = useState(false);
   const [errors, setErrors] = useState({
     username: "",
     password: "",
@@ -37,9 +39,16 @@ export default function LoginScreen({ navigation }) {
     return !newErrors.username && !newErrors.password;
   };
 
-  const handleLogin = () => {
-    if (validateForm()) {
+  const handleLogin = async () => {
+    if (!validateForm()) return;
+    setIsSubmitting(true);
+    try {
+      await api.login(username, password);
       navigation.replace("MainTabs");
+    } catch (requestError) {
+      setErrors((current) => ({ ...current, general: requestError.message }));
+    } finally {
+      setIsSubmitting(false);
     }
   };
 
@@ -177,9 +186,22 @@ export default function LoginScreen({ navigation }) {
       </Text>
 
       {/* Login Button */}
+      {errors.general ? (
+        <Text
+          style={{
+            color: COLORS.primary,
+            marginBottom: 12,
+            textAlign: "center",
+          }}
+        >
+          {errors.general}
+        </Text>
+      ) : null}
       <Button
         mode="contained"
         onPress={handleLogin}
+        loading={isSubmitting}
+        disabled={isSubmitting}
         labelStyle={{
           color: COLORS.background,
           fontSize: 24,

@@ -2,7 +2,7 @@ from __future__ import annotations
 
 from datetime import date, datetime
 
-from sqlalchemy import Date, DateTime, Float, ForeignKey, Integer, String, Text, UniqueConstraint, func
+from sqlalchemy import Boolean, Date, DateTime, Float, ForeignKey, Integer, String, UniqueConstraint, func
 from sqlalchemy.orm import Mapped, mapped_column, relationship
 
 from app.db.database import Base
@@ -25,6 +25,7 @@ class Ingredient(Base):
 
     id: Mapped[int] = mapped_column(primary_key=True)
     name: Mapped[str] = mapped_column(String(255), unique=True, index=True)
+    category: Mapped[str] = mapped_column(String(80), default="Rau củ", index=True)
     calories_per_100g: Mapped[float] = mapped_column(Float)
     default_quantity: Mapped[float] = mapped_column(Float, default=100)
     default_unit: Mapped[str] = mapped_column(String(30), default="g")
@@ -37,6 +38,7 @@ class Recipe(Base):
 
     id: Mapped[int] = mapped_column(primary_key=True)
     title: Mapped[str] = mapped_column(String(255), index=True)
+    category: Mapped[str] = mapped_column(String(80), default="Thịt", index=True)
     source_key: Mapped[str] = mapped_column(String(512))
     source_url: Mapped[str | None] = mapped_column(String(2048), nullable=True)
     image_url: Mapped[str | None] = mapped_column(String(2048), nullable=True)
@@ -55,6 +57,7 @@ class RecipeIngredient(Base):
     ingredient_name: Mapped[str] = mapped_column(String(255), index=True)
     quantity: Mapped[float | None] = mapped_column(Float, nullable=True)
     unit: Mapped[str | None] = mapped_column(String(40), nullable=True)
+    is_seasoning: Mapped[bool] = mapped_column(Boolean, default=False)
 
     recipe: Mapped[Recipe] = relationship(back_populates="ingredients")
 
