@@ -1,17 +1,25 @@
 import { View } from "react-native";
-import { Button, Text } from "react-native-paper";
 
-export default function SaveSuccessfullyScreen({
-  navigation,
-}) {
-  const backToDashboard = () => {
+import { Button, Icon, Text } from "react-native-paper";
+
+import ScreenContainer from "../../components/ScreenContainer";
+import { ROUTES } from "../../navigation/routes";
+import { COLORS } from "../../theme/colors";
+
+const DEFAULT_BACK_LABEL = "Quay lại trang chủ";
+
+export default function SaveSuccessfullyScreen({ navigation, route }) {
+  const { backLabel = DEFAULT_BACK_LABEL, backToTab = ROUTES.DASHBOARD } =
+    route.params ?? {};
+
+  const handleBack = () => {
     navigation.reset({
       index: 0,
       routes: [
         {
-          name: "MainTabs",
+          name: ROUTES.MAIN_TABS,
           state: {
-            routes: [{ name: "Dashboard" }],
+            routes: [{ name: backToTab }],
           },
         },
       ],
@@ -19,17 +27,65 @@ export default function SaveSuccessfullyScreen({
   };
 
   return (
-    <View className="flex-1 justify-center items-center">
-      <Text variant="headlineMedium">
-        Saved Successfully!
+    <ScreenContainer
+      edges={["top", "left", "right", "bottom"]}
+      contentStyle={{
+        alignItems: "center",
+        justifyContent: "center",
+        paddingHorizontal: 32,
+      }}
+    >
+      <View
+        style={{
+          alignItems: "center",
+          justifyContent: "center",
+          marginBottom: 32,
+          width: 120,
+          height: 120,
+          borderRadius: 28,
+          borderWidth: 4,
+          borderColor: COLORS.primary,
+          backgroundColor: COLORS.secondary,
+        }}
+      >
+        <Icon source="check-bold" size={56} color={COLORS.primary} />
+      </View>
+
+      <Text
+        variant="headlineMedium"
+        style={{
+          color: COLORS.secondary,
+          fontWeight: "800",
+          textAlign: "center",
+          marginBottom: 12,
+        }}
+      >
+        Lưu thành công
+      </Text>
+
+      <Text
+        style={{
+          color: COLORS.secondary,
+          fontSize: 16,
+          textAlign: "center",
+          marginBottom: 40,
+        }}
+      >
+        Công thức của bạn đã được lưu!
       </Text>
 
       <Button
         mode="contained"
-        onPress={backToDashboard}
+        onPress={handleBack}
+        labelStyle={{ color: COLORS.primary, fontSize: 15, fontWeight: "700" }}
+        style={{
+          backgroundColor: COLORS.secondary,
+          borderRadius: 999,
+          paddingHorizontal: 8,
+        }}
       >
-        Back to Dashboard
+        {backLabel}
       </Button>
-    </View>
+    </ScreenContainer>
   );
 }
