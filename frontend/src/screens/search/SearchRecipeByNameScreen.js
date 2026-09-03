@@ -10,6 +10,7 @@ import RecipeCard from "../../components/RecipeCard";
 import ScreenContainer from "../../components/ScreenContainer";
 import ScreenHeader from "../../components/ScreenHeader";
 import { RECIPE_CATEGORIES, RECIPES } from "../../data/mockRecipes";
+import { getRecipes, getRecipeCategories } from "../../services/recipeApi";
 
 import { scale } from "../../utils/responsive";
 import HomeIcon from "../../../assets/icons/home-icon.svg"
@@ -23,6 +24,20 @@ export default function SearchRecipeByNameScreen({ navigation }) {
   const [currentPage, setCurrentPage] = useState(1);
   const [pageDirection, setPageDirection] = useState(1);
 
+  // Backend integration later:
+  //
+  // const result = await getRecipes({
+  //   search: searchQuery,
+  //   category:
+  //     selectedCategory === "Tất cả"
+  //       ? ""
+  //       : selectedCategory,
+  //   page: currentPage,
+  //   limit: ITEMS_PER_PAGE,
+  // });
+  //
+  // Categories:
+  // const categories = await getRecipeCategories();
   const filteredRecipes = useMemo(() => {
     return RECIPES.filter((item) => {
       const matchesName = item.title

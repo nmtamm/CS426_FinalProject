@@ -13,6 +13,7 @@ import ScreenContainer from "../../components/ScreenContainer";
 import ScreenHeader from "../../components/ScreenHeader";
 import { RECIPE_CATEGORIES, RECIPES } from "../../data/mockRecipes";
 import { COLORS } from "../../theme/colors";
+import { searchRecipesByIngredients, getRecipeCategories } from "../../services/recipeApi";
 
 import { scale } from "../../utils/responsive";
 import BackIcon from "../../../assets/icons/back-icon.svg"
@@ -29,6 +30,25 @@ export default function SearchRecipesByIngredientsScreen({
   const [isCategoryModalOpen, setIsCategoryModalOpen] = useState(false);
   const [currentPage, setCurrentPage] = useState(1);
   const [pageDirection, setPageDirection] = useState(1);
+
+  // Backend integration later:
+  //
+  // const ingredientIds = selectedIngredients.map(
+  //   (ingredient) => ingredient.id
+  // );
+  //
+  // const result = await searchRecipesByIngredients(
+  //   ingredientIds,
+  //   {
+  //     search: searchQuery,
+  //     category:
+  //       selectedCategory === "Tất cả"
+  //         ? ""
+  //         : selectedCategory,
+  //     page: currentPage,
+  //     limit: ITEMS_PER_PAGE,
+  //   }
+  // );
 
   const filteredRecipes = useMemo(() => {
     return RECIPES.filter((recipe) => {

@@ -17,10 +17,12 @@ import { scale } from "../../utils/responsive";
 import ScreenContainer from "../../components/ScreenContainer";
 import ScreenHeader from "../../components/ScreenHeader";
 import DeleteConfirmModal from "../../components/DeleteConfirmModal";
+import { getCustomizedRecipes, deleteCustomizedRecipe } from "../../services/customizedRecipeApi";
 
 export default function CustomizedRecipesScreen({ navigation }) {
-  // Temporary frontend data.
-  // Later, replace this with data returned from backend.
+  // Temporary frontend mock data.
+  // Backend later:
+  // const recipes = await getCustomizedRecipes();
   const [recipes, setRecipes] = useState([
     {
       id: "1",
@@ -69,12 +71,14 @@ export default function CustomizedRecipesScreen({ navigation }) {
   const handleDelete = () => {
     if (pendingDeleteId === null) return;
 
-    setRecipes((prev) =>
-      prev.filter((recipe) => recipe.id !== pendingDeleteId)
-    );
+    const recipeId = pendingDeleteId;
 
-    // Later, your backend partner can replace/add:
+    // Backend integration later:
     // await deleteCustomizedRecipe(recipeId);
+
+    setRecipes((prev) =>
+      prev.filter((recipe) => recipe.id !== recipeId)
+    );
 
     setPendingDeleteId(null);
   };

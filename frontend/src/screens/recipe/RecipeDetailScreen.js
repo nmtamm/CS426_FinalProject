@@ -21,7 +21,7 @@ import ScreenContainer from "../../components/ScreenContainer";
 import ScreenHeader from "../../components/ScreenHeader";
 import ReadOnlyIngredientCard from "../../components/ReadOnlyIngredientCard";
 import SaveConfirmModal from "../../components/SaveConfirmModal";
-
+import { getRecipeById, saveFavouriteRecipe } from "../../services/recipeApi";
 
 export default function RecipeDetailScreen({
   navigation,
@@ -29,6 +29,8 @@ export default function RecipeDetailScreen({
 }) {
   const { recipeId } = route.params ?? {};
 
+  // Backend integration later:
+  // const recipe = await getRecipeById(recipeId);
   const recipe = {
     id: recipeId ?? "1",
     name: "Noodle soup",
@@ -72,7 +74,7 @@ export default function RecipeDetailScreen({
   const handleSaveRecipe = async () => {
     setShowSaveConfirm(false);
 
-    // Backend later:
+    // Backend integration later:
     // await saveFavouriteRecipe(recipe.id);
 
     navigation.navigate("SaveSuccessfully");

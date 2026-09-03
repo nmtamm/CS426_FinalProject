@@ -11,6 +11,7 @@ import ScreenContainer from "../../components/ScreenContainer";
 import ScreenHeader from "../../components/ScreenHeader";
 import SelectedIngredientsDock from "../../components/SelectedIngredientsDock";
 import { CATEGORIES, INGREDIENTS } from "../../data/mockIngredients";
+import { getIngredients, getIngredientCategories } from "../../services/ingredientApi";
 
 import { scale } from "../../utils/responsive";
 import HomeIcon from "../../../assets/icons/home-icon.svg"
@@ -25,6 +26,22 @@ export default function SearchIngredientScreen({ navigation }) {
   const [currentPage, setCurrentPage] = useState(1);
   const [pageDirection, setPageDirection] = useState(1);
 
+  // ================================
+  // MOCK DATA
+  // Remove this filtering/pagination
+  // after backend API is connected.
+  //
+  // Backend later:
+  // getIngredients({
+  //   search: searchQuery,
+  //   category:
+  //     selectedCategory === "Tất cả"
+  //       ? ""
+  //       : selectedCategory,
+  //   page: currentPage,
+  //   limit: ITEMS_PER_PAGE,
+  // });
+  // ================================
   const filteredIngredients = useMemo(() => {
     return INGREDIENTS.filter((item) => {
       const matchesName = item.name

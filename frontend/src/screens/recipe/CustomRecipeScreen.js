@@ -24,11 +24,22 @@ import ScreenHeader from "../../components/ScreenHeader";
 import EditableIngredientCard from "../../components/EditableIngredientCard";
 import DeleteConfirmModal from "../../components/DeleteConfirmModal";
 import SaveConfirmModal from "../../components/SaveConfirmModal";
+import { getCustomizedRecipeById, updateCustomizedRecipe, createCustomizedRecipe } from "../../services/customizedRecipeApi";
 
 export default function CustomRecipeScreen({
   navigation,
   route,
 }) {
+  // Backend integration later:
+  //
+  // Existing recipe:
+  // const recipe = await getCustomizedRecipeById(recipeId);
+  //
+  // New recipe:
+  // await createCustomizedRecipe(recipeData);
+  //
+  // Existing customized recipe:
+  // await updateCustomizedRecipe(recipeId, recipeData);
   const { recipeId } = route.params ?? {};
 
   // =====================================================
@@ -189,16 +200,28 @@ export default function CustomRecipeScreen({
     setShowSaveConfirm(false);
 
     const recipeData = {
-      name: recipeName,
-      ingredients,
-      instruction,
-      image,
+      name: recipeName.trim(),
+
+      ingredients: ingredients.map((ingredient) => ({
+        ingredientId: ingredient.id,
+        quantity: Number(ingredient.quantity),
+        unit: ingredient.unit,
+      })),
+
+      instruction: instruction.trim(),
+
+      image: recipeImage,
     };
 
     console.log("Saving:", recipeData);
 
-    // Backend later:
-    // await updateCustomizedRecipe(recipeData);
+    // Backend integration later:
+    //
+    // if (recipeId) {
+    //   await updateCustomizedRecipe(recipeId, recipeData);
+    // } else {
+    //   await createCustomizedRecipe(recipeData);
+    // }
 
     navigation.navigate("SaveSuccessfully");
   };

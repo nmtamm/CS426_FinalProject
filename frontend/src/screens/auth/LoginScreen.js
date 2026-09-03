@@ -8,6 +8,7 @@ import ScreenContainer from "../../components/ScreenContainer";
 import { COLORS } from "../../theme/colors";
 
 import { scale } from "../../utils/responsive";
+import { login } from "../../services/authApi";
 
 export default function LoginScreen({ navigation }) {
   const [username, setUsername] = useState("");
@@ -41,6 +42,11 @@ export default function LoginScreen({ navigation }) {
 
   const handleLogin = () => {
     if (validateForm()) {
+      // Backend integration later:
+      // const result = await login(
+      //   username.trim(),
+      //   password
+      // );
       navigation.replace("MainTabs");
     }
   };

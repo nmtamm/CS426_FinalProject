@@ -17,10 +17,13 @@ import { scale } from "../../utils/responsive";
 import ScreenContainer from "../../components/ScreenContainer";
 import ScreenHeader from "../../components/ScreenHeader";
 import DeleteConfirmModal from "../../components/DeleteConfirmModal";
+import { getFavouriteRecipes, removeFavouriteRecipe } from "../../services/recipeApi";
 
-export default function CustomizedRecipesScreen({ navigation }) {
-  // Temporary frontend data.
-  // Later, replace this with data returned from backend.
+export default function FavouriteRecipesScreen({ navigation }) {
+  // Temporary frontend mock data.
+  //
+  // Backend later:
+  // const recipes = await getFavouriteRecipes();
   const [recipes, setRecipes] = useState([
     {
       id: "1",
@@ -73,8 +76,8 @@ export default function CustomizedRecipesScreen({ navigation }) {
       prev.filter((recipe) => recipe.id !== pendingDeleteId)
     );
 
-    // Later, your backend partner can replace/add:
-    // await deleteCustomizedRecipe(recipeId);
+    // Backend integration later:
+    // await removeFavouriteRecipe(recipeId);
 
     setPendingDeleteId(null);
   };

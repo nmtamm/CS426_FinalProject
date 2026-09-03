@@ -8,7 +8,7 @@ import ScreenContainer from "../../components/ScreenContainer";
 import { COLORS } from "../../theme/colors";
 
 import { scale } from "../../utils/responsive";
-
+import { register } from "../../services/authApi";
 
 export default function RegisterScreen({ navigation }) {
   const [username, setUsername] = useState("");
@@ -56,6 +56,11 @@ export default function RegisterScreen({ navigation }) {
 
   const handleSignup = () => {
     if (validateForm()) {
+      // Backend integration later:
+      // const result = await register(
+      //   username.trim(),
+      //   password
+      // );
       navigation.replace("MainTabs");
     }
   };

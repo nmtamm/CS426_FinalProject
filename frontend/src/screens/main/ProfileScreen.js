@@ -18,13 +18,17 @@ import BackIcon from "../../../assets/icons/back-icon.svg"
 import LogoutIcon from "../../../assets/icons/logout-icon.svg"
 import ScreenContainer from "../../components/ScreenContainer";
 import ScreenHeader from "../../components/ScreenHeader";
+import { getProfile, updateFullName, updatePassword } from "../../services/userApi";
 
 export default function ProfileScreen({ navigation }) {
-  // Temporary frontend data.
-  // Later, replace this with data returned from backend.
+  // Backend later:
+  // const profile = await getProfile();
+  //
+  // setFullName(profile.fullName);
+  // setUsername(profile.username);
   const [fullName, setFullName] = useState("TTH");
   const [username, setUsername] = useState("tth346");
-  const [password, setPassword] = useState("12345");
+  const [password, setPassword] = useState("");
 
   return (
     <ScreenContainer contentStyle={styles.content}>
@@ -51,8 +55,8 @@ export default function ProfileScreen({ navigation }) {
           onSave={(newValue) => {
             setFullName(newValue);
 
-            // Later:
-            // updateFullNameInDatabase(newValue);
+            // Backend integration later:
+            // await updateFullName(newValue);
           }}
         />
 
@@ -70,8 +74,8 @@ export default function ProfileScreen({ navigation }) {
           onSave={(newValue) => {
             setPassword(newValue);
 
-            // Later:
-            // updatePasswordInDatabase(newValue);
+            // Backend integration later:
+            // await updatePassword(newValue);
           }}
         />
       </View>
