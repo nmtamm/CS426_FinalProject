@@ -32,7 +32,7 @@ export default function PaginationControls({
 
       <Text
         variant="labelLarge"
-        style={{ fontWeight: "bold", fontSize: 16, color: COLORS.secondary }}
+        style={{ fontFamily: "Nunito_800ExtraBold", fontSize: 16, color: COLORS.black }}
       >
         Trang {currentPage} / {totalPages}
         {totalCount > 0 ? ` (${totalCount})` : ""}

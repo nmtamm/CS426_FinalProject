@@ -6,7 +6,8 @@ export default function AppSearchbar({
   placeholder,
   value,
   onChangeText,
-  borderRadius = 24,
+  borderRadius = 15,
+  borderWidth = 1,
   height = 52,
   fontSize = 15,
 }) {
@@ -19,12 +20,14 @@ export default function AppSearchbar({
       style={{
         backgroundColor: COLORS.secondary,
         borderRadius,
+        borderWidth,
         height,
       }}
       inputStyle={{
         minHeight: 0,
         alignSelf: "center",
         fontSize,
+        fontFamily: "Nunito_700Bold",
         color: COLORS.primary,
       }}
       iconColor={COLORS.primary}

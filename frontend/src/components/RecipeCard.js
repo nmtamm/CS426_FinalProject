@@ -86,7 +86,7 @@ export default function RecipeCard({ recipe, onToggleSelect }) {
             {/* Recipe Title */}
             <Text
               style={{
-                fontWeight: "bold",
+                fontFamily: "Nunito_800ExtraBold",
                 color: COLORS.textDark,
                 fontSize: 16,
                 marginBottom: 6,

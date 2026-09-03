@@ -55,7 +55,7 @@ export default function SaveSuccessfullyScreen({ navigation, route }) {
         variant="headlineMedium"
         style={{
           color: COLORS.secondary,
-          fontWeight: "800",
+          fontFamily: "Nunito_900Black",
           textAlign: "center",
           marginBottom: 12,
         }}
@@ -66,7 +66,7 @@ export default function SaveSuccessfullyScreen({ navigation, route }) {
       <Text
         style={{
           color: COLORS.secondary,
-          fontSize: 16,
+          fontSize: 18,
           textAlign: "center",
           marginBottom: 40,
         }}
@@ -77,7 +77,7 @@ export default function SaveSuccessfullyScreen({ navigation, route }) {
       <Button
         mode="contained"
         onPress={handleBack}
-        labelStyle={{ color: COLORS.primary, fontSize: 15, fontWeight: "700" }}
+        labelStyle={{ color: COLORS.background, fontSize: 15, fontFamily: "Nunito_800ExtraBold" }}
         style={{
           backgroundColor: COLORS.secondary,
           borderRadius: 999,

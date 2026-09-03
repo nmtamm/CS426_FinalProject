@@ -55,7 +55,7 @@ export default function CategorySelectModal({
             exiting={FadeOutDown.duration(150)}
             style={{
               backgroundColor: COLORS.background,
-              borderRadius: 24,
+              borderRadius: 20,
               width: "100%",
               height: 520,
               overflow: "hidden",
@@ -65,7 +65,7 @@ export default function CategorySelectModal({
             <View
               style={{
                 paddingHorizontal: 20,
-                paddingTop: 8,
+                paddingTop: 5,
                 flexDirection: "row",
                 alignItems: "center",
                 justifyContent: "space-between",
@@ -75,7 +75,7 @@ export default function CategorySelectModal({
                 variant="titleMedium"
                 style={{
                   color: COLORS.secondary,
-                  fontWeight: "800",
+                  fontFamily: "Nunito_800ExtraBold",
                   fontSize: 20,
                 }}
               >
@@ -86,14 +86,14 @@ export default function CategorySelectModal({
                 mode="text"
                 onPress={onDismiss}
                 textColor={COLORS.primary}
-                labelStyle={{ fontWeight: "bold" }}
+                labelStyle={{ fontFamily: "Nunito_800ExtraBold" }}
               >
                 Đóng
               </Button>
             </View>
 
             {/* Modal Search Bar */}
-            <View style={{ paddingHorizontal: 8, paddingBottom: 8 }}>
+            <View style={{ paddingHorizontal: 15, paddingBottom: 15 }}>
               <Searchbar
                 placeholder="Tìm kiếm danh mục..."
                 onChangeText={setFilterText}
@@ -101,13 +101,14 @@ export default function CategorySelectModal({
                 elevation={1}
                 style={{
                   backgroundColor: COLORS.secondary,
-                  borderRadius: 20,
+                  borderRadius: 15,
                   height: 48,
                 }}
                 inputStyle={{
                   minHeight: 0,
                   alignSelf: "center",
                   fontSize: 14,
+                  fontFamily: "Nunito_700Bold",
                   color: COLORS.primary,
                 }}
                 iconColor={COLORS.primary}
@@ -142,12 +143,13 @@ export default function CategorySelectModal({
                         backgroundColor: isSelected
                           ? COLORS.secondary
                           : COLORS.third,
+                        borderWidth: 0.1
                       }}
                     >
                       <Text
                         style={{
                           fontSize: 14,
-                          fontWeight: isSelected ? "bold" : "500",
+                          fontFamily: isSelected ? "Nunito_700Bold" : "Nunito_600Regular",
                           color: isSelected ? COLORS.primary : COLORS.textDark,
                         }}
                       >

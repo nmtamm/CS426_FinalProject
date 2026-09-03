@@ -10,7 +10,8 @@ export default function CategorySelectorField({ selectedCategory, onPress }) {
       elevation={1}
       style={{
         backgroundColor: COLORS.secondary,
-        borderRadius: 24,
+        borderRadius: 15,
+        borderWidth: 1,
         height: 52,
         overflow: "hidden",
       }}
@@ -27,7 +28,7 @@ export default function CategorySelectorField({ selectedCategory, onPress }) {
       >
         <View style={{ flexDirection: "row", alignItems: "center", gap: 12 }}>
           <Icon source="shape-outline" size={24} color={COLORS.primary} />
-          <Text style={{ color: COLORS.primary, fontWeight: "bold" }}>
+          <Text style={{ color: COLORS.primary, fontFamily: "Nunito_700Bold" }}>
             {selectedCategory}
           </Text>
         </View>

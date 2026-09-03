@@ -1,6 +1,6 @@
 import { ActivityIndicator, FlatList, View } from "react-native";
 
-import { Icon, Surface, Text } from "react-native-paper";
+import { Icon, Surface, Text, Divider } from "react-native-paper";
 
 import { COLORS } from "../theme/colors";
 
@@ -33,10 +33,10 @@ export default function PaginatedListPanel({
   error = "",
 }) {
   return (
-    <View style={{ flex: 1, paddingHorizontal: 16, paddingBottom: 12 }}>
+    <View style={{ flex: 1}}>
       <Surface
         elevation={0}
-        style={{ flex: 1, overflow: "hidden", backgroundColor: "transparent" }}
+        style={{ flex: 1, marginBottom:10, borderWidth: 1, borderRadius: 15, overflow: "hidden", backgroundColor: COLORS.secondary }}
         className={surfaceClassName}
       >
         <PaginationControls
@@ -51,8 +51,7 @@ export default function PaginatedListPanel({
           style={{
             flex: 1,
             overflow: "hidden",
-            backgroundColor: COLORS.secondary,
-            borderRadius: 24,
+            backgroundColor: "transparent",
           }}
         >
           <Animated.View
@@ -69,7 +68,7 @@ export default function PaginatedListPanel({
               keyExtractor={keyExtractor}
               style={{ flex: 1 }}
               contentContainerStyle={contentContainerStyle}
-              showsVerticalScrollIndicator={false}
+              ItemSeparatorComponent={() => <Divider />}
               ListEmptyComponent={() => (
                 <Animated.View
                   entering={FadeIn.duration(200)}
@@ -102,7 +101,7 @@ export default function PaginatedListPanel({
                   <Text
                     style={{
                       color: COLORS.textDark,
-                      fontWeight: "bold",
+                      fontFamily: "Nunito_700Bold",
                       fontSize: 16,
                       textAlign: "center",
                     }}

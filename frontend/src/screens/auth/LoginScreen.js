@@ -8,6 +8,9 @@ import ScreenContainer from "../../components/ScreenContainer";
 import { api } from "../../services/api";
 import { COLORS } from "../../theme/colors";
 
+import { scale } from "../../utils/responsive";
+import { login } from "../../services/authApi";
+
 export default function LoginScreen({ navigation }) {
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
@@ -54,14 +57,14 @@ export default function LoginScreen({ navigation }) {
 
   return (
     <ScreenContainer
-      contentStyle={{ paddingHorizontal: 16, justifyContent: "center" }}
+      contentStyle={{ flex: 1, paddingHorizontal: scale(60), paddingTop: scale(55), justifyContent: "center" }}
     >
       {/* Header */}
       <Text
-        variant="displaySmall"
+        variant="displayMedium"
         style={{
           color: COLORS.secondary,
-          fontWeight: "800",
+          fontFamily: "Nunito_900Black",
           textAlign: "center",
           marginBottom: 48,
         }}
@@ -104,6 +107,9 @@ export default function LoginScreen({ navigation }) {
                 flex: 1,
                 backgroundColor: "transparent",
                 paddingHorizontal: 8,
+              }}
+              contentStyle={{
+                fontFamily: "Nunito_700Bold",
                 fontSize: 16,
               }}
               placeholderTextColor={COLORS.placeholder}
@@ -149,6 +155,9 @@ export default function LoginScreen({ navigation }) {
                 flex: 1,
                 backgroundColor: "transparent",
                 paddingHorizontal: 8,
+              }}
+              contentStyle={{
+                fontFamily: "Nunito_700Bold",
                 fontSize: 16,
               }}
               placeholderTextColor="#aaa"
@@ -177,6 +186,7 @@ export default function LoginScreen({ navigation }) {
         style={{
           color: COLORS.primary,
           fontSize: 14,
+          fontFamily: "Nunito_700Bold",
           textAlign: "right",
           marginBottom: 32,
           textDecorationLine: "underline",
@@ -203,14 +213,15 @@ export default function LoginScreen({ navigation }) {
         loading={isSubmitting}
         disabled={isSubmitting}
         labelStyle={{
-          color: COLORS.background,
+          color: COLORS.primary,
           fontSize: 24,
-          fontWeight: "700",
+          fontFamily: "Nunito_800ExtraBold",
         }}
         style={{
           backgroundColor: COLORS.secondary,
           paddingVertical: 8,
           marginBottom: 16,
+          alignSelf: "center",
           borderRadius: 16,
         }}
       >
@@ -232,7 +243,7 @@ export default function LoginScreen({ navigation }) {
           <Text
             style={{
               color: COLORS.primary,
-              fontWeight: "bold",
+              fontFamily: "Nunito_700Bold",
               fontSize: 16,
               textDecorationLine: "underline",
             }}

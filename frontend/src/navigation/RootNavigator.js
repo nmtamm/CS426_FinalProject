@@ -1,10 +1,10 @@
 import LoginScreen from "../screens/auth/LoginScreen";
 import RegisterScreen from "../screens/auth/RegisterScreen";
 import ProfileScreen from "../screens/main/ProfileScreen";
+
 import CustomRecipeScreen from "../screens/recipe/CustomRecipeScreen";
 import RecipeDetailScreen from "../screens/recipe/RecipeDetailScreen";
 import SaveSuccessfullyScreen from "../screens/recipe/SaveSuccessfullyScreen";
-import IngredientListScreen from "../screens/search/IngredientListScreen";
 import SearchIngredientScreen from "../screens/search/SearchIngredientScreen";
 import SearchRecipeByNameScreen from "../screens/search/SearchRecipeByNameScreen";
 import SearchRecipesByIngredientsScreen from "../screens/search/SearchRecipesByIngredientsScreen";
@@ -57,12 +57,7 @@ export default function RootNavigator() {
         name="SearchRecipeByName"
         component={SearchRecipeByNameScreen}
       />
-
-      <Stack.Screen
-        name="IngredientList"
-        component={IngredientListScreen}
-      />
-
+      
       <Stack.Screen
         name="RecipeDetail"
         component={RecipeDetailScreen}

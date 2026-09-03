@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-import { Alert, View } from "react-native";
+import { Alert, View, StyleSheet } from "react-native";
 
 import AppSearchbar from "../../components/AppSearchbar";
 import CategorySelectModal from "../../components/CategorySelectModal";
@@ -11,6 +11,11 @@ import ScreenContainer from "../../components/ScreenContainer";
 import ScreenHeader from "../../components/ScreenHeader";
 import SelectedIngredientsDock from "../../components/SelectedIngredientsDock";
 import { api } from "../../services/api";
+import { CATEGORIES, INGREDIENTS } from "../../data/mockIngredients";
+import { getIngredients, getIngredientCategories } from "../../services/ingredientApi";
+
+import { scale } from "../../utils/responsive";
+import HomeIcon from "../../../assets/icons/home-icon.svg"
 
 const ITEMS_PER_PAGE = 10;
 
@@ -124,18 +129,18 @@ export default function SearchIngredientScreen({ navigation }) {
   };
 
   return (
-    <ScreenContainer>
-      <View style={{ paddingHorizontal: 16, paddingTop: 8 }}>
+    <ScreenContainer style={{paddingHorizontal: scale(65), paddingTop: scale(55), paddingBottom: scale(130)}}>
+      <View>
         <ScreenHeader
           title="Tìm nguyên liệu"
-          iconName="home-outline"
-          iconSize={22}
-          onBack={() =>
-            navigation.navigate("MainTabs", { screen: "Dashboard" })
-          }
+          variant="displaySmall"
+          onLeftPress={() => navigation.navigate("MainTabs", { screen: "Dashboard" })}
+          LeftIconSvg={HomeIcon}
+          LeftIconSize={30}
+          titleClassName="tracking-tight"
         />
 
-        <View style={{ gap: 10, marginBottom: 12 }}>
+        <View style={{ gap: 10, marginTop: 20, marginBottom: 10 }}>
           <AppSearchbar
             placeholder="Nhập tên nguyên liệu..."
             value={searchQuery}

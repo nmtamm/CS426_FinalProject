@@ -49,7 +49,7 @@ export default function SelectedIngredientsDock({
 
   useEffect(() => {
     expandProgress.value = withTiming(hasItems ? 1 : 0, {
-      duration: 380,
+      duration: 350,
       easing: Easing.bezier(0.25, 0.1, 0.25, 1),
     });
   }, [hasItems, expandProgress]);
@@ -81,12 +81,12 @@ export default function SelectedIngredientsDock({
           left: 0,
           right: 0,
           paddingTop: 4,
-          paddingBottom: Math.max(insets.bottom, 8),
+          paddingbottom: 4,
         }}
       >
         <Surface
-          elevation={3}
-          style={{ padding: 16, backgroundColor: COLORS.secondary }}
+          elevation={0}
+          style={{ padding: 16, borderWidth: 1, borderRadius: 15, backgroundColor: COLORS.secondary }}
         >
           {/* Dock Header */}
           <View
@@ -103,10 +103,9 @@ export default function SelectedIngredientsDock({
               <Text
                 variant="labelLarge"
                 style={{
-                  fontWeight: "bold",
+                  fontFamily: "Nunito_800ExtraBold",
                   color: "black",
                   textTransform: "uppercase",
-                  letterSpacing: 0.5,
                 }}
               >
                 Nguyên liệu đã chọn
@@ -121,7 +120,7 @@ export default function SelectedIngredientsDock({
                 }}
               >
                 <Text
-                  style={{ color: "#065f46", fontSize: 14, fontWeight: "bold" }}
+                  style={{ color: "#065f46", fontSize: 14, fontFamily: "Nunito_800ExtraBold" }}
                 >
                   {itemsToDisplay.length}
                 </Text>
@@ -136,7 +135,7 @@ export default function SelectedIngredientsDock({
               <Text
                 variant="labelMedium"
                 style={{
-                  fontWeight: "bold",
+                  fontFamily: "Nunito_800ExtraBold",
                   fontSize: 14,
                   color: COLORS.warning,
                 }}
@@ -196,7 +195,6 @@ export default function SelectedIngredientsDock({
                   style={{
                     width: 62,
                     fontSize: 11,
-                    fontWeight: "600",
                     color: COLORS.textDark,
                     textAlign: "center",
                   }}
@@ -232,7 +230,7 @@ export default function SelectedIngredientsDock({
                   borderColor: COLORS.primary,
                 }}
                 contentStyle={{ height: 44 }}
-                labelStyle={{ fontWeight: "bold", fontSize: 13 }}
+                labelStyle={{ fontFamily: "Nunito_800ExtraBold", fontSize: 13 }}
               >
                 Tạo món ăn
               </Button>
@@ -246,7 +244,7 @@ export default function SelectedIngredientsDock({
                 buttonColor={COLORS.primary}
                 style={{ width: "100%", borderRadius: 12 }}
                 contentStyle={{ height: 44 }}
-                labelStyle={{ fontWeight: "bold", fontSize: 13 }}
+                labelStyle={{ fontFamily: "Nunito_800ExtraBold", fontSize: 13 }}
               >
                 Tìm món
               </Button>
