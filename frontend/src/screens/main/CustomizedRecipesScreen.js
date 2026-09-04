@@ -1,5 +1,6 @@
 import { MaterialCommunityIcons } from "@expo/vector-icons";
-import { useRef, useState } from "react";
+import { useRef, useCallback, useState } from "react";
+import { useFocusEffect} from "@react-navigation/native";
 import {
   FlatList,
   Image,
@@ -20,43 +21,36 @@ import DeleteConfirmModal from "../../components/DeleteConfirmModal";
 import { getCustomizedRecipes, deleteCustomizedRecipe } from "../../services/customizedRecipeApi";
 
 export default function CustomizedRecipesScreen({ navigation }) {
-  // Temporary frontend mock data.
-  // Backend later:
-  // const recipes = await getCustomizedRecipes();
-  const [recipes, setRecipes] = useState([
-    {
-      id: "1",
-      name: "Món ăn",
-      image: require("../../../assets/icons/dish-icon.png"),
-    },
-    {
-      id: "2",
-      name: "Món ăn",
-      image: require("../../../assets/icons/dish-icon.png"),
-    },
-    {
-      id: "3",
-      name: "Món ăn",
-      image: require("../../../assets/icons/dish-icon.png"),
-    },
-    {
-      id: "4",
-      name: "Món ăn",
-      image: require("../../../assets/icons/dish-icon.png"),
-    },
-    {
-      id: "5",
-      name: "Món ăn",
-      image: require("../../../assets/icons/dish-icon.png"),
-    },
-    {
-      id: "7",
-      name: "Món ăn",
-      image: require("../../../assets/icons/dish-icon.png"),
-    },
-  ]);
+  const [recipes, setRecipes] = useState([]);
+
+  const [loading, setLoading] = useState(true);
+
+  const [error, setError] = useState("");
 
   const [pendingDeleteId, setPendingDeleteId] = useState(null);
+
+  useFocusEffect(
+    useCallback(() => {
+      const loadRecipes = async () => {
+        try {
+          setLoading(true);
+          setError("");
+
+          const data = await api.getCustomizedRecipes();
+
+          setRecipes(data.items ?? data ?? []);
+        } catch (error) {
+          console.error("Failed to load customized recipes:", error);
+
+          setError(error.message);
+        } finally {
+          setLoading(false);
+        }
+      };
+
+      loadRecipes();
+    }, [])
+  );
 
   const handleRecipePress = (recipe) => {
     navigation.navigate("CustomRecipe", {
@@ -68,13 +62,24 @@ export default function CustomizedRecipesScreen({ navigation }) {
     setPendingDeleteId(id);
   };
 
-  const handleDelete = () => {
+  const handleDelete = async () => {
     if (pendingDeleteId === null) return;
 
     const recipeId = pendingDeleteId;
 
-    // Backend integration later:
-    // await deleteCustomizedRecipe(recipeId);
+    try {
+      await api.deleteCustomizedRecipe(recipeId);
+
+      setRecipes((prev) =>
+        prev.filter((recipe) =>recipe.id !== recipeId)
+      );
+
+      setPendingDeleteId(null);
+    } catch (error) {
+      console.error("Failed to delete recipe:", error);
+
+      Alert.alert("Lỗi", error.message);
+    }
 
     setRecipes((prev) =>
       prev.filter((recipe) => recipe.id !== recipeId)
@@ -156,7 +161,11 @@ export default function CustomizedRecipesScreen({ navigation }) {
           keyExtractor={(item) => item.id}
           renderItem={renderRecipe}
           showsVerticalScrollIndicator={true}
-          contentContainerStyle={styles.listContent}
+          ListEmptyComponent={
+            <Text>
+              Chưa có công thức tuỳ chỉnh.
+            </Text>
+          }
         />
       </View>
 

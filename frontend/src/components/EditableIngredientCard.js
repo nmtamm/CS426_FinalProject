@@ -23,9 +23,7 @@ export default function EditableIngredientCard({
   const calories = useMemo(() => {
     const quantity = Number(ingredient.quantity) || 0;
 
-    return Math.round(
-      (ingredient.caloriesPer100 * quantity)
-    );
+    return Math.round((ingredient.caloriesPer100 * quantity) / 100);
   }, [ingredient.quantity, ingredient.caloriesPer100]);
 
   const renderRightActions = () => {

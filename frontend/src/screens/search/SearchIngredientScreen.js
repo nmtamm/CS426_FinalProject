@@ -19,11 +19,18 @@ import HomeIcon from "../../../assets/icons/home-icon.svg"
 
 const ITEMS_PER_PAGE = 10;
 
-export default function SearchIngredientScreen({ navigation }) {
+export default function SearchIngredientScreen({ navigation, route }) {
+  const {
+    from,
+    recipeId,
+    draftRecipe,
+    initialSelectedIngredients = [],
+  } = route.params ?? {};
+
   const [searchQuery, setSearchQuery] = useState("");
   const [selectedCategory, setSelectedCategory] = useState({ id: 0, name: "Tất cả" });
   const [isCategoryModalOpen, setIsCategoryModalOpen] = useState(false);
-  const [selectedIngredients, setSelectedIngredients] = useState([]);
+  const [selectedIngredients, setSelectedIngredients] = useState(initialSelectedIngredients);
   const [currentPage, setCurrentPage] = useState(1);
   const [pageDirection, setPageDirection] = useState(1);
   const [ingredients, setIngredients] = useState([]);
@@ -32,6 +39,10 @@ export default function SearchIngredientScreen({ navigation }) {
   const [totalPages, setTotalPages] = useState(1);
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState("");
+
+  useEffect(() => {
+    setSelectedIngredients(initialSelectedIngredients ?? []);
+  }, [initialSelectedIngredients]);
 
   useEffect(() => {
     const fetchCategories = async () => {
@@ -92,7 +103,7 @@ export default function SearchIngredientScreen({ navigation }) {
       if (exists) {
         return prev.filter((item) => item.id !== ingredient.id);
       } else {
-        return [...prev, ingredient];
+        return [...prev, prepareIngredientForRecipe(ingredient)];
       }
     });
   };
@@ -136,13 +147,63 @@ export default function SearchIngredientScreen({ navigation }) {
     }
   };
 
-  const handleCreateRecipe = (ingredients) => {
-    const names = ingredients.map((i) => i.name).join(", ");
-    Alert.alert(
-      "Tạo món ăn",
-      `Đang tạo công thức mới với nguyên liệu: ${names}`
+  const handleCreateRecipe = (selectedIngredients) => {
+    if (selectedIngredients.length === 0) {
+      Alert.alert(
+        "Thông báo",
+        "Vui lòng chọn ít nhất một nguyên liệu"
+      );
+
+      return;
+    }
+
+    if (from === "CustomRecipe") {
+      navigation.navigate(
+        "CustomRecipe",
+        {
+          recipeId,
+          returnedIngredients: selectedIngredients,
+          returnedDraftRecipe: draftRecipe,
+        }
+      );
+
+      return;
+    }
+
+    // Started from Dashboard
+    navigation.navigate(
+      "CustomRecipe",
+      {
+        recipeId: null,
+
+        draftRecipe: {
+          name: "",
+          image: null,
+          instruction: "",
+          ingredients:
+            selectedIngredients,
+        },
+      }
     );
   };
+
+  const handleGoHome = () => {
+    setSelectedIngredients([]);
+
+    navigation.navigate("MainTabs", {screen: "Dashboard"});
+  };
+
+  const prepareIngredientForRecipe = (
+    ingredient
+  ) => ({
+    ...ingredient,
+
+    quantity: String(ingredient.defaultQuantity ?? ingredient.quantity ?? ""),
+
+    unit: ingredient.defaultUnit ?? ingredient.unit ?? "",
+
+    caloriesPer100: ingredient.caloriesPer100 ?? ingredient.calories ?? 0,
+  });
 
   return (
     <ScreenContainer style={{ paddingHorizontal: scale(65), paddingTop: scale(55), paddingBottom: scale(130) }}>
@@ -150,7 +211,7 @@ export default function SearchIngredientScreen({ navigation }) {
         <ScreenHeader
           title="Tìm nguyên liệu"
           variant="displaySmall"
-          onLeftPress={() => navigation.navigate("MainTabs", { screen: "Dashboard" })}
+          onLeftPress={handleGoHome}
           LeftIconSvg={HomeIcon}
           LeftIconSize={30}
           titleClassName="tracking-tight"

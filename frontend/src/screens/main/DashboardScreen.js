@@ -7,7 +7,8 @@ import {
   Image
 } from "react-native";
 import { Text } from "react-native-paper";
-import { SafeAreaView } from "react-native-safe-area-context";
+import { useCallback, useState } from "react";
+import { useFocusEffect } from "@react-navigation/native";
 
 import { COLORS } from "../../theme/colors";
 import ScreenContainer from "../../components/ScreenContainer";
@@ -16,8 +17,35 @@ import { scale } from "../../utils/responsive";
 
 import ProfileIcon from "../../../assets/icons/profile-icon.svg";
 
+import { api } from "../../services/api";
+
 
 export default function DashboardScreen({ navigation }) {
+  const [fullName, setFullName] = useState("");
+
+  useFocusEffect(
+    useCallback(() => {
+      const loadProfile = async () => {
+        try {
+          const profile = await api.getProfile();
+
+          setFullName(
+            profile.fullName ??
+            profile.username ??
+            ""
+          );
+        } catch (error) {
+          console.error(
+            "Failed to load dashboard profile:",
+            error
+          );
+        }
+      };
+
+      loadProfile();
+    }, [])
+  );
+
   return (
     <ScreenContainer
       contentStyle={styles.content}
@@ -34,7 +62,7 @@ export default function DashboardScreen({ navigation }) {
               numberOfLines={1}
               ellipsizeMode="tail"
             >
-              TTH
+              {fullName}
             </Text>
           </View>
 
@@ -84,8 +112,7 @@ export default function DashboardScreen({ navigation }) {
             style={styles.choice}
             hitSlop={8}
             className="active:opacity-60"
-            onPress={() => navigation.navigate("SearchIngredient")
-            }
+            onPress={() => navigation.navigate("SearchIngredient", {from: "Dashboard", initialSelectedIngredients: []})}
           >
             <View style={styles.choiceBox}>
               <Image

@@ -7,7 +7,7 @@ import {
   View,
 } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
-import { useState } from "react";
+import { useEffect ,useState } from "react";
 
 
 import { MaterialCommunityIcons } from "@expo/vector-icons";
@@ -18,17 +18,38 @@ import BackIcon from "../../../assets/icons/back-icon.svg"
 import LogoutIcon from "../../../assets/icons/logout-icon.svg"
 import ScreenContainer from "../../components/ScreenContainer";
 import ScreenHeader from "../../components/ScreenHeader";
-import { getProfile, updateFullName, updatePassword } from "../../services/userApi";
+import { api } from "../../services/api";
 
 export default function ProfileScreen({ navigation }) {
   // Backend later:
-  // const profile = await getProfile();
-  //
-  // setFullName(profile.fullName);
-  // setUsername(profile.username);
-  const [fullName, setFullName] = useState("TTH");
-  const [username, setUsername] = useState("tth346");
+
+  const [fullName, setFullName] = useState("");
+  const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
+
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState("");
+
+  useEffect(() => {
+    const loadProfile = async () => {
+      try {
+        setLoading(true);
+        setError("");
+
+        const profile = await api.getProfile();
+
+        setFullName(profile.fullName ?? "");
+        setUsername(profile.username ?? "");
+      } catch (error) {
+        console.error("Failed to load profile:", error);
+        setError(error.message);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    loadProfile();
+  }, []);
 
   return (
     <ScreenContainer contentStyle={styles.content}>
@@ -52,11 +73,13 @@ export default function ProfileScreen({ navigation }) {
           icon="account-outline"
           label="Họ và tên"
           value={fullName}
-          onSave={(newValue) => {
-            setFullName(newValue);
+          onSave={async (newValue) => {
+            const updatedProfile =
+              await api.updateFullName(newValue);
 
-            // Backend integration later:
-            // await updateFullName(newValue);
+            setFullName(
+              updatedProfile?.fullName ?? newValue
+            );
           }}
         />
 
@@ -71,11 +94,10 @@ export default function ProfileScreen({ navigation }) {
           icon="lock-outline"
           label="Mật khẩu"
           value={password}
-          onSave={(newValue) => {
-            setPassword(newValue);
+          onSave={async (newValue) => {
+            await api.updatePassword(newValue);
 
-            // Backend integration later:
-            // await updatePassword(newValue);
+            setPassword("");
           }}
         />
       </View>
@@ -93,15 +115,20 @@ function ProfileItem({
   const [isEditing, setIsEditing] = useState(false);
   const [inputValue, setInputValue] = useState(value);
 
-  const handleButtonPress = () => {
-    if (isEditing) {
-      // Save new value
-      onSave?.(inputValue);
+  useEffect(() => {
+      setInputValue(value);
+    }, [value]);
 
-      // Exit editing mode
-      setIsEditing(false);
+  const handleButtonPress = async () => {
+    if (isEditing) {
+      try {
+        await onSave?.(inputValue);
+
+        setIsEditing(false);
+      } catch (error) {
+        console.error("Failed to save profile:", error);
+      }
     } else {
-      // Enter editing mode
       setIsEditing(true);
     }
   };
