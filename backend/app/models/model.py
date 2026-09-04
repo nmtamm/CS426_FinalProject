@@ -26,6 +26,7 @@ class User(UserBase):
     display_name = Column(String(80), nullable=False)
     password_hash = Column(String(255), nullable=False)
     created_at = Column(DateTime, server_default=func.now(), nullable=False)
+    full_name = Column(String(80), nullable=True)
 
 
 class IngredientCategory(UserBase):
@@ -96,6 +97,8 @@ class CustomDishIngredient(UserBase):
     id = Column(Integer, primary_key=True, index=True)
     recipe_id = Column(Integer, ForeignKey("custom_recipes.id"), nullable=False)
     ingredient_id = Column(Integer, ForeignKey("ingredients.id"), nullable=False)
+    quantity = Column(Float, nullable=False)
+    unit = Column(String(20), nullable=False)
 
     custom_recipe = relationship("CustomRecipe", backref="custom_recipe_ingredients")
     ingredient = relationship("Ingredient", backref="custom_recipe_ingredients")
@@ -134,6 +137,3 @@ class RecipeCategoryMapping(UserBase):
 
     recipe = relationship("Recipe", backref="category_mappings")
     category = relationship("RecipeCategory", backref="recipe_mappings")
-
-
-

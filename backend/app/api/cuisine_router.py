@@ -24,6 +24,8 @@ from ..schemas.schema import (
     CustomRecipeUpdate as CustomRecipeUpdateSchema,
     IngredientSearchRequest,
 )
+from ..services.security import current_user
+from sqlalchemy import text
 
 router = APIRouter(prefix="/api")
 
@@ -94,122 +96,10 @@ def get_recipe_categories(db: Session = Depends(get_db)):
     return categories
 
 
-# POST /api/recipes/search-by-ingredients?page=&limit=
-# @router.post("/recipes/search-by-ingredients")
-# def search_recipes_by_ingredients(
-#     request_data: IngredientSearchRequest,
-#     page: int = 1,
-#     limit: int = 10,
-#     db: Session = Depends(get_db),
-# ):
-#     ingredient_ids = request_data.ingredient_ids
-
-#     if not ingredient_ids:
-#         raise HTTPException(status_code=400, detail="Ingredient IDs are required.")
-
-#     # Get all ingredients
-#     ingredients = db.query(Ingredient).all()
-
-#     main_requested_ingredient_ids = []
-
-#     # Keep main requested ingredients only
-#     for ingredient in ingredient_ids:
-#         if ingredient not in [ingredient.id for ingredient in ingredients]:
-#             raise HTTPException(
-#                 status_code=400, detail=f"Ingredient ID {ingredient} does not exist."
-#             )
-
-#         if ingredient in [
-#             ingredient.id for ingredient in ingredients if ingredient.is_main
-#         ]:
-#             main_requested_ingredient_ids.append(ingredient)
-
-#     # Get all recipes
-#     recipes = db.query(Recipe).all()
-
-#     recipes_with_all_ingredients = []
-
-#     for recipe in recipes:
-#         # Get all ingredients for the recipe
-#         recipe_ingredient_ids = [
-#             ingredient.id
-#             for ingredient in db.query(DishIngredient)
-#             .filter(DishIngredient.recipe_id == recipe.id)
-#             .all()
-#         ]
-
-#         for ingredient in recipe_ingredient_ids:
-#             # Chek if the ingredient is the main one
-#             if ingredient not in [
-#                 ingredient.id for ingredient in ingredients if ingredient.is_main
-#             ]:
-#                 continue
-
-#             if recipe not in [
-#                 recipe_with_ingredients["recipe"]
-#                 for recipe_with_ingredients in recipes_with_all_ingredients
-#             ]:
-#                 recipes_with_all_ingredients.append(
-#                     {
-#                         "recipe": recipe,
-#                         "ingredients": [ingredient],
-#                     }
-#                 )
-#             else:
-#                 for recipe_with_ingredients in recipes_with_all_ingredients:
-#                     if recipe_with_ingredients["recipe"].id == recipe.id:
-#                         recipe_with_ingredients["ingredients"].append(ingredient)
-#                         break
-
-#     for recipe in recipes_with_all_ingredients:
-#         # Remove and sort ingredients
-#         recipe["ingredients"] = sorted(set(recipe["ingredients"]))
-
-#     ranked_recipes = []
-#     for recipe in recipes_with_all_ingredients:
-#         # Count the number of main ingredients in the recipe that are also in the requested ingredients
-#         main_ingredients_in_recipe = [
-#             ingredient
-#             for ingredient in recipe["ingredients"]
-#             if ingredient in main_requested_ingredient_ids
-#         ]
-#         existing = len(main_ingredients_in_recipe)
-
-#         # Count the number of missing ingredients
-#         ingredients = recipe["ingredients"]
-#         missing = len(ingredients) - existing
-
-#         ranked_recipes.append(
-#             {
-#                 "recipe": recipe["recipe"],
-#                 "existing": existing,
-#                 "missing": missing,
-#             }
-#         )
-
-#     # Sort by missing ingredients first, then by existing ingredients
-#     ranked_recipes.sort(key=lambda x: (x["missing"], -x["existing"]))
-
-#     # Paginate the results
-#     start = (page - 1) * limit
-
-#     end = start + limit
-#     paginated_recipes = ranked_recipes[start:end]
-#     recipes = [recipe["recipe"] for recipe in paginated_recipes]
-
-#     return {
-#         "items": recipes,
-#         "page": page,
-#         "limit": limit,
-#         "totalItems": len(ranked_recipes),
-#         "totalPages": (len(ranked_recipes) + limit - 1) // limit,
-#     }
-from sqlalchemy import text
-
-
 @router.post("/recipes/search-by-ingredients")
 def search_recipes_by_ingredients(
     request_data: IngredientSearchRequest,
+    category: int | None = None,  # This is for recipes category filtering, if needed
     page: int = 1,
     limit: int = 10,
     db: Session = Depends(get_db),
@@ -252,11 +142,19 @@ def search_recipes_by_ingredients(
         # Fix: Use row._mapping to safely read the 'id' by its string name
         recipe_id = row._mapping["id"]
 
-        recipe = db.query(Recipe).filter(Recipe.id == recipe_id).first()
-        if recipe is None:
-            raise HTTPException(
-                status_code=404, detail=f"Recipe with ID {recipe_id} not found."
+        # Only fetch recipes if it belong to the specified category (if provided)
+        if category and category != 0:
+            recipe_category = (
+                db.query(RecipeCategoryMapping)
+                .filter(
+                    RecipeCategoryMapping.recipe_id == recipe_id,
+                    RecipeCategoryMapping.category_id == category,
+                )
+                .first()
             )
+            if not recipe_category:
+                continue
+        recipe = db.query(Recipe).filter(Recipe.id == recipe_id).first()
 
         recipes.append(recipe)
 
@@ -267,3 +165,137 @@ def search_recipes_by_ingredients(
         "totalItems": len(recipes),
         "totalPages": (len(recipes) + limit - 1) // limit,
     }
+
+
+@router.post("/custom-recipes")
+def create_custom_recipe(
+    custom_recipe: CustomRecipeCreateSchema,
+    db: Session = Depends(get_db),
+    current_user: int = Depends(current_user),
+):
+    db_custom_recipe = CustomRecipe(
+        user_id=current_user.id,
+        title=custom_recipe.title,
+        instructions=custom_recipe.instructions,
+        image=custom_recipe.image if custom_recipe.image else None,
+    )
+    db.add(db_custom_recipe)
+    db.commit()
+    db.refresh(db_custom_recipe)
+
+    # Add ingredients to the custom recipe
+    for ingredient in custom_recipe.ingredients:
+        db_ingredient = CustomDishIngredient(
+            custom_recipe_id=db_custom_recipe.id,
+            ingredient_id=ingredient.ingredient_id,
+            quantity=ingredient.quantity,
+            unit=ingredient.unit,
+        )
+        db.add(db_ingredient)
+
+    db.commit()
+
+
+@router.get("/custom-recipes", response_model=list[CustomRecipeSchema])
+def get_custom_recipes(
+    db: Session = Depends(get_db),
+    current_user: int = Depends(current_user),
+):
+    custom_recipes = (
+        db.query(CustomRecipe).filter(CustomRecipe.user_id == current_user.id).all()
+    )
+    return custom_recipes
+
+
+@router.post("/recipes/{recipe_id}/favorite")
+def favorite_recipe(
+    recipe_id: int,
+    db: Session = Depends(get_db),
+    current_user: int = Depends(current_user),
+):
+    # Check if the recipe exists
+    recipe = db.query(Recipe).filter(Recipe.id == recipe_id).first()
+    if not recipe:
+        raise HTTPException(status_code=404, detail="Recipe not found.")
+
+    # Check if the user has already favorited this recipe
+    existing_favorite = (
+        db.query(FavoriteRecipe)
+        .filter(
+            FavoriteRecipe.user_id == current_user.id,
+            FavoriteRecipe.recipe_id == recipe_id,
+        )
+        .first()
+    )
+    if existing_favorite:
+        raise HTTPException(status_code=400, detail="Recipe already favorited.")
+
+    # Create a new favorite entry
+    favorite = FavoriteRecipe(user_id=current_user.id, recipe_id=recipe_id)
+    db.add(favorite)
+    db.commit()
+
+
+@router.get("/recipes/favorites", response_model=list[RecipeSchema])
+def get_favorite_recipes(
+    db: Session = Depends(get_db),
+    current_user: int = Depends(current_user),
+):
+    favorite_recipes = (
+        db.query(Recipe)
+        .join(FavoriteRecipe, FavoriteRecipe.recipe_id == Recipe.id)
+        .filter(FavoriteRecipe.user_id == current_user.id)
+        .all()
+    )
+    return favorite_recipes
+
+
+@router.delete("/recipes/{recipe_id}/favorite")
+def unfavorite_recipe(
+    recipe_id: int,
+    db: Session = Depends(get_db),
+    current_user: int = Depends(current_user),
+):
+    # Check if the favorite entry exists
+    favorite = (
+        db.query(FavoriteRecipe)
+        .filter(
+            FavoriteRecipe.user_id == current_user.id,
+            FavoriteRecipe.recipe_id == recipe_id,
+        )
+        .first()
+    )
+    if not favorite:
+        raise HTTPException(status_code=404, detail="Favorite entry not found.")
+
+    # Delete the favorite entry
+    db.delete(favorite)
+    db.commit()
+
+
+@router.delete("/custom-recipes/{custom_recipe_id}")
+def delete_custom_recipe(
+    custom_recipe_id: int,
+    db: Session = Depends(get_db),
+    current_user: int = Depends(current_user),
+):
+    # Check if the custom recipe exists and belongs to the current user
+    custom_recipe = (
+        db.query(CustomRecipe)
+        .filter(
+            CustomRecipe.id == custom_recipe_id,
+            CustomRecipe.user_id == current_user.id,
+        )
+        .first()
+    )
+    if not custom_recipe:
+        raise HTTPException(status_code=404, detail="Custom recipe not found.")
+
+    # Delete associated ingredients first due to foreign key constraints
+    db.query(CustomDishIngredient).filter(
+        CustomDishIngredient.custom_recipe_id == custom_recipe_id
+    ).delete()
+
+    # Delete the custom recipe
+    db.delete(custom_recipe)
+    db.commit()

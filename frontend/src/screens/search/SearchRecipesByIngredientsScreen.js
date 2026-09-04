@@ -45,6 +45,22 @@ export default function SearchRecipesByIngredientsScreen({
   );
 
   useEffect(() => {
+    api
+      .getRecipeCategories()
+      .then((result) => {
+        // Safely check and map fields to ensure everything follows the object structure
+        const mapped = [
+          { id: 0, name: "Tất cả" },
+          ...result.map((cat) => ({ id: cat.id, name: cat.name }))
+        ];
+        setCategories(mapped);
+      })
+      .catch((requestError) => {
+        setError(requestError.message);
+      });
+  }, []);
+
+  useEffect(() => {
     let ignore = false;
     const timeout = setTimeout(async () => {
       if (!ingredientIds.length) {

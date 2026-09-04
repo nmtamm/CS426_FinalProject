@@ -18,7 +18,12 @@ from app.schemas.frontend_contracts import (
     IngredientPage,
     RecipePage,
 )
-from app.services.security import create_access_token, hash_password, verify_password
+from app.services.security import (
+    create_access_token,
+    hash_password,
+    verify_password,
+    current_user,
+)
 
 router = APIRouter(prefix="/api")
 
@@ -68,6 +73,11 @@ TOKEN_ALIASES = {
 
 def _frontend_user(user: User) -> FrontendUser:
     return FrontendUser(id=f"user-{user.id}", username=user.display_name)
+
+
+@router.get("/users/me", response_model=FrontendUser)
+def frontend_me(current_user: User = Depends(get_db)):
+    return _frontend_user(current_user)
 
 
 # def _ingredient_item(ingredient: Ingredient) -> FrontendIngredient:
@@ -124,6 +134,7 @@ def frontend_register(payload: FrontendAuthRequest, db: Session = Depends(get_db
         email=lookup,
         display_name=username,
         password_hash=hash_password(payload.password),
+        full_name=payload.full_name.strip() if payload.full_name else username.strip(),
     )
     db.add(user)
     db.commit()
@@ -145,6 +156,36 @@ def frontend_login(payload: FrontendAuthRequest, db: Session = Depends(get_db)):
     return FrontendAuthResponse(
         token=create_access_token(user.id), user=_frontend_user(user)
     )
+
+
+@router.put("/users/me/")
+def updateFullName(
+    fullName: str,
+    db: Session = Depends(get_db),
+    current_user: User = Depends(current_user),
+):
+    user = db.scalar(select(User).where(User.id == current_user.id))
+    if not user:
+        raise HTTPException(status_code=404, detail="Người dùng không tồn tại")
+    user.full_name = fullName.strip()
+    db.commit()
+    db.refresh(user)
+    return {"message": "Cập nhật tên đầy đủ thành công", "full_name": user.full_name}
+
+
+@router.put("/users/me/password")
+def updatePassword(
+    password: str,
+    db: Session = Depends(get_db),
+    current_user: User = Depends(current_user),
+):
+    user = db.scalar(select(User).where(User.id == current_user.id))
+    if not user:
+        raise HTTPException(status_code=404, detail="Người dùng không tồn tại")
+    user.password_hash = hash_password(password)
+    db.commit()
+    db.refresh(user)
+    return {"message": "Cập nhật mật khẩu thành công"}
 
 
 # @router.get("/ingredients/categories", response_model=list[str])
