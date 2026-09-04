@@ -1,7 +1,5 @@
 import { useState } from "react";
-
 import { FlatList, Pressable, View } from "react-native";
-
 import {
   Button,
   Divider,
@@ -11,9 +9,7 @@ import {
   Searchbar,
   Text,
 } from "react-native-paper";
-
 import { COLORS } from "../theme/colors";
-
 import Animated, {
   FadeIn,
   FadeInDown,
@@ -30,9 +26,11 @@ export default function CategorySelectModal({
 }) {
   const [filterText, setFilterText] = useState("");
 
-  const filteredCategories = categories.filter((cat) =>
-    cat.toLowerCase().includes(filterText.toLowerCase().trim())
-  );
+  // 1. Fixed: Access cat.name instead of cat directly
+  const filteredCategories = categories.filter((cat) => {
+    const name = cat?.name || (typeof cat === 'string' ? cat : "");
+    return name.toLowerCase().includes(filterText.toLowerCase().trim());
+  });
 
   return (
     <Portal>
@@ -120,10 +118,11 @@ export default function CategorySelectModal({
             <FlatList
               data={filteredCategories}
               style={{ flex: 1 }}
-              keyExtractor={(item) => item}
+              keyExtractor={(item, index) => item?.id ? item.id.toString() : index.toString()}
               ItemSeparatorComponent={() => <Divider />}
               renderItem={({ item, index }) => {
-                const isSelected = item === selectedCategory;
+                // 3. Fixed: Compare by unique ID rather than direct string match
+                const isSelected = item?.id !== undefined && item?.id === selectedCategory?.id;
                 return (
                   <Animated.View
                     entering={FadeIn.delay(Math.min(index * 25, 200))}
@@ -131,7 +130,7 @@ export default function CategorySelectModal({
                   >
                     <Pressable
                       onPress={() => {
-                        onSelectCategory(item);
+                        onSelectCategory(item); // Returns the whole object {id, name}
                         onDismiss();
                       }}
                       style={{
@@ -153,7 +152,7 @@ export default function CategorySelectModal({
                           color: isSelected ? COLORS.primary : COLORS.textDark,
                         }}
                       >
-                        {item}
+                        {typeof item === "string" ? item : item?.name || ""}
                       </Text>
                       {isSelected && (
                         <Icon source="check" size={20} color={COLORS.primary} />

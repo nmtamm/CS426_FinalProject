@@ -29,7 +29,7 @@ export default function CategorySelectorField({ selectedCategory, onPress }) {
         <View style={{ flexDirection: "row", alignItems: "center", gap: 12 }}>
           <Icon source="shape-outline" size={24} color={COLORS.primary} />
           <Text style={{ color: COLORS.primary, fontFamily: "Nunito_700Bold" }}>
-            {selectedCategory}
+            {typeof selectedCategory === "object" ? selectedCategory?.name : selectedCategory}
           </Text>
         </View>
         <Icon source="chevron-down" size={24} color={COLORS.primary} />

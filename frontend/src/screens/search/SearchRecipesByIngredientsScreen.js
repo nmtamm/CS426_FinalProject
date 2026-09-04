@@ -29,12 +29,12 @@ export default function SearchRecipesByIngredientsScreen({
     [route.params?.selectedIngredients]
   );
   const [searchQuery, setSearchQuery] = useState("");
-  const [selectedCategory, setSelectedCategory] = useState("Tất cả");
+  const [selectedCategory, setSelectedCategory] = useState({ id: 0, name: "Tất cả" });
   const [isCategoryModalOpen, setIsCategoryModalOpen] = useState(false);
   const [currentPage, setCurrentPage] = useState(1);
   const [pageDirection, setPageDirection] = useState(1);
   const [recipes, setRecipes] = useState([]);
-  const [categories, setCategories] = useState(["Tất cả"]);
+  const [categories, setCategories] = useState([{ id: 0, name: "Tất cả" }]);
   const [totalCount, setTotalCount] = useState(0);
   const [totalPages, setTotalPages] = useState(1);
   const [isLoading, setIsLoading] = useState(true);
@@ -43,15 +43,6 @@ export default function SearchRecipesByIngredientsScreen({
     () => selectedIngredients.map((ingredient) => ingredient.id),
     [selectedIngredients]
   );
-
-  useEffect(() => {
-    api
-      .getRecipeCategories()
-      .then(setCategories)
-      .catch((requestError) => {
-        setError(requestError.message);
-      });
-  }, []);
 
   useEffect(() => {
     let ignore = false;
@@ -66,13 +57,16 @@ export default function SearchRecipesByIngredientsScreen({
       setIsLoading(true);
       setError("");
       try {
-        const result = await api.searchRecipesByIngredients({
+        const result = await api.searchRecipesByIngredients(
           ingredientIds,
-          search: searchQuery.trim(),
-          category: selectedCategory,
-          page: currentPage,
-          limit: ITEMS_PER_PAGE,
-        });
+          {
+            search: searchQuery.trim(),
+            category: selectedCategory?.id || 0, // 🌟 Clean numeric parameter
+            page: currentPage,
+            limit: ITEMS_PER_PAGE,
+          }
+        );
+
         if (!ignore) {
           setRecipes(result.items);
           setTotalCount(result.total);
@@ -88,7 +82,9 @@ export default function SearchRecipesByIngredientsScreen({
       ignore = true;
       clearTimeout(timeout);
     };
-  }, [currentPage, ingredientIds, searchQuery, selectedCategory]);
+
+    // 🌟 FIXED: Change selectedCategory here to selectedCategory?.id
+  }, [currentPage, ingredientIds, searchQuery, selectedCategory?.id]);
 
   const handleSearchChange = (text) => {
     setSearchQuery(text);
@@ -96,7 +92,8 @@ export default function SearchRecipesByIngredientsScreen({
   };
 
   const handleCategorySelect = (category) => {
-    setSelectedCategory(category);
+    // If a string slips through somehow, default to it, otherwise save the whole object
+    setSelectedCategory(category && typeof category === 'object' ? category : { id: 0, name: "Tất cả" });
     setCurrentPage(1);
   };
 
@@ -115,7 +112,7 @@ export default function SearchRecipesByIngredientsScreen({
   };
 
   return (
-    <ScreenContainer style={{paddingHorizontal: scale(65), paddingTop: scale(55), paddingBottom: scale(130)}}>
+    <ScreenContainer style={{ paddingHorizontal: scale(65), paddingTop: scale(55), paddingBottom: scale(130) }}>
       <View>
         <ScreenHeader
           title="Tìm công thức"
@@ -126,15 +123,15 @@ export default function SearchRecipesByIngredientsScreen({
           LeftIconSize="24"
         />
 
-        <View style={{gap: 10, marginTop: 20, marginBottom: 10 }}>
+        <View style={{ gap: 10, marginTop: 20, marginBottom: 10 }}>
           <AppSearchbar
             placeholder="Nhập tên công thức"
             value={searchQuery}
             onChangeText={handleSearchChange}
           />
-        
+
           <CategorySelectorField
-            selectedCategory={selectedCategory}
+            selectedCategory={selectedCategory.name}
             onPress={() => setIsCategoryModalOpen(true)}
           />
         </View>
@@ -161,7 +158,7 @@ export default function SearchRecipesByIngredientsScreen({
                   paddingVertical: 6,
                 }}
               >
-                <Text style={{ fontSize: 14, fontFamily: "Nunito_700Bold" ,color: COLORS.primary }}>
+                <Text style={{ fontSize: 14, fontFamily: "Nunito_700Bold", color: COLORS.primary }}>
                   {ingredient.name}
                 </Text>
               </Surface>
@@ -191,7 +188,7 @@ export default function SearchRecipesByIngredientsScreen({
         visible={isCategoryModalOpen}
         onDismiss={() => setIsCategoryModalOpen(false)}
         categories={categories}
-        selectedCategory={selectedCategory}
+        selectedCategory={selectedCategory} // Pass the whole object
         onSelectCategory={handleCategorySelect}
       />
     </ScreenContainer>

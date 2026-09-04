@@ -64,7 +64,9 @@ export const api = {
     request(`/api/ingredients${queryString(parameters)}`),
   getRecipeCategories: () => request("/api/recipes/categories"),
   getRecipes: (parameters) => request(`/api/recipes${queryString(parameters)}`),
-  searchRecipesByIngredients: ({ ingredientIds, ...parameters }) =>
+
+  // 🌟 FIXED: Accept two parameters separately to align with the frontend UI screen invocation
+  searchRecipesByIngredients: (ingredientIds, parameters = {}) =>
     request(`/api/recipes/search-by-ingredients${queryString(parameters)}`, {
       method: "POST",
       body: JSON.stringify({ ingredientIds }),

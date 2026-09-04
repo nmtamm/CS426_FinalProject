@@ -13,6 +13,13 @@ cp .env.example .env
 uvicorn app.main:app --reload
 ```
 
+or run with docker
+```
+cd backend
+docker build -t myapp .
+docker run --rm -it --name mycontainer -p 8000:8000 -v path-to-project-directory\backend:/app myapp
+```
+
 Open `http://127.0.0.1:8000/docs` for the interactive API contract. On its first start, the server imports the existing scraped catalog databases into `backend/data/app.db`; this generated file is local runtime data and is not committed.
 
 SQLite is the zero-configuration local default. For PostgreSQL, set `DATABASE_URL=postgresql+psycopg://USER:PASSWORD@HOST:5432/nutriplan` in `backend/.env` before the first startup; the same SQLAlchemy models are used.
