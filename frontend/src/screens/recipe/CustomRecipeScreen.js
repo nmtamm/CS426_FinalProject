@@ -1,6 +1,6 @@
 import { MaterialCommunityIcons } from "@expo/vector-icons";
 import * as ImagePicker from "expo-image-picker";
-import { useMemo, useState } from "react";
+import { useMemo, useEffect, useState } from "react";
 import {
   Alert,
   FlatList,
@@ -24,67 +24,101 @@ import ScreenHeader from "../../components/ScreenHeader";
 import EditableIngredientCard from "../../components/EditableIngredientCard";
 import DeleteConfirmModal from "../../components/DeleteConfirmModal";
 import SaveConfirmModal from "../../components/SaveConfirmModal";
-import { getCustomizedRecipeById, updateCustomizedRecipe, createCustomizedRecipe } from "../../services/customizedRecipeApi";
+import { api } from "../../services/api";
 
-export default function CustomRecipeScreen({
-  navigation,
-  route,
-}) {
-  // Backend integration later:
-  //
-  // Existing recipe:
-  // const recipe = await getCustomizedRecipeById(recipeId);
-  //
-  // New recipe:
-  // await createCustomizedRecipe(recipeData);
-  //
-  // Existing customized recipe:
-  // await updateCustomizedRecipe(recipeId, recipeData);
-  const { recipeId } = route.params ?? {};
+export default function CustomRecipeScreen({ navigation, route }) {
+  const {
+    recipeId,
+    draftRecipe,
+    returnedIngredients,
+    returnedDraftRecipe,
+  } = route.params ?? {};
 
-  // =====================================================
-  // Temporary frontend data
-  // Later replace with data returned from backend.
-  // =====================================================
-
-  const [recipeName, setRecipeName] = useState("Tên món ăn");
+  const [recipeName, setRecipeName] = useState("");
 
   const [recipeImage, setRecipeImage] = useState(null);
 
   const [instruction, setInstruction] = useState("");
 
-  const [ingredients, setIngredients] = useState([
-    {
-      id: "1",
-      name: "Thịt bò",
+  const [ingredients, setIngredients] = useState([]);
 
-      // Amount currently selected by user
-      quantity: "100",
+  const [loading, setLoading] = useState(Boolean(recipeId));
 
-      unit: "g",
-
-      // Calories stored/calculated from DB.
-      // Example:
-      // 250 calories / 100 g
-      caloriesPer100: 250,
-
-      image:
-        "https://example.com/images/beef.png",
-    },
-    {
-      id: "2",
-      name: "Phô mai",
-      quantity: "100",
-      unit: "g",
-      caloriesPer100: 402,
-      image:
-        "https://example.com/images/cheese.png",
-    },
-  ]);
+  const [error, setError] = useState("");
 
   const [pendingDeleteIngredientId, setPendingDeleteIngredientId] =useState(null);
 
   const [showSaveConfirm, setShowSaveConfirm] = useState(false);
+
+  useEffect(() => {
+    if (!recipeId) return;
+
+    const loadRecipe = async () => {
+      try {
+        setLoading(true);
+        setError("");
+
+        const recipe =
+          await api.getCustomizedRecipeById(
+            recipeId
+          );
+
+        setRecipeName(recipe.name ?? "");
+        setRecipeImage(recipe.image ?? null);
+        setInstruction(
+          recipe.instruction ?? ""
+        );
+
+        setIngredients(
+          (recipe.ingredients ?? []).map(
+            (ingredient) => ({
+              ...ingredient,
+
+              id:ingredient.id ?? ingredient.ingredientId,
+
+              quantity: String(ingredient.quantity ?? ingredient.defaultQuantity ?? ""),
+
+              unit:ingredient.unit ??ingredient.defaultUnit ?? "",
+            })
+          )
+        );
+      } catch (error) {
+        console.error(
+          "Failed to load customized recipe:",
+          error
+        );
+
+        setError(error.message);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    loadRecipe();
+  }, [recipeId]);
+
+  
+  useEffect(() => {
+    if (recipeId) return;
+    if (!draftRecipe) return;
+
+    setRecipeName(draftRecipe.name ?? "");
+    setRecipeImage(draftRecipe.image ?? null);
+    setInstruction(draftRecipe.instruction ?? "");
+    setIngredients(draftRecipe.ingredients ?? []);
+  }, [recipeId, draftRecipe]);
+
+  useEffect(() => {
+    if (!returnedIngredients) return;
+
+    setIngredients(returnedIngredients);
+
+    if (returnedDraftRecipe) {
+      setRecipeName(returnedDraftRecipe.name ?? "");
+      setRecipeImage(returnedDraftRecipe.image ?? null);
+      setInstruction(returnedDraftRecipe.instruction ?? "");
+    }
+  }, [returnedIngredients, returnedDraftRecipe]);
 
   // =====================================================
   // Image picker
@@ -167,9 +201,19 @@ export default function CustomRecipeScreen({
   // =====================================================
 
   const handleAddIngredient = () => {
-    navigation.navigate("SearchIngredient", {
-      from: "CustomRecipe",
-    });
+    navigation.navigate(
+      "SearchIngredient",
+      {
+        from: "CustomRecipe",
+        recipeId,
+        initialSelectedIngredients: ingredients,
+        draftRecipe: {
+          name: recipeName,
+          image: recipeImage,
+          instruction,
+        },
+      }
+    );
   };
 
   // =====================================================
@@ -202,28 +246,31 @@ export default function CustomRecipeScreen({
     const recipeData = {
       name: recipeName.trim(),
 
-      ingredients: ingredients.map((ingredient) => ({
-        ingredientId: ingredient.id,
-        quantity: Number(ingredient.quantity),
-        unit: ingredient.unit,
-      })),
+      ingredients: ingredients.map(
+        (ingredient) => ({
+          ingredientId: ingredient.id,
+          quantity: Number(ingredient.quantity),
+          unit: ingredient.unit,
+        })
+      ),
 
       instruction: instruction.trim(),
-
       image: recipeImage,
     };
 
-    console.log("Saving:", recipeData);
+    try {
+      if (recipeId) {
+        await api.updateCustomizedRecipe(recipeId, recipeData);
+      } else {
+        await api.createCustomizedRecipe(recipeData);
+      }
 
-    // Backend integration later:
-    //
-    // if (recipeId) {
-    //   await updateCustomizedRecipe(recipeId, recipeData);
-    // } else {
-    //   await createCustomizedRecipe(recipeData);
-    // }
+      navigation.navigate("SaveSuccessfully");
+    } catch (error) {
+      console.error("Failed to save customized recipe:", error);
 
-    navigation.navigate("SaveSuccessfully");
+      Alert.alert("Lỗi", error.message);
+    }
   };
 
   const renderIngredient = ({ item }) => {

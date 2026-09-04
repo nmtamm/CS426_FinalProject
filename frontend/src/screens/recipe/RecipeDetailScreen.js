@@ -10,7 +10,7 @@ import {
   View,
 } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 
 import { COLORS } from "../../theme/colors";
 import { scale } from "../../utils/responsive";
@@ -21,7 +21,7 @@ import ScreenContainer from "../../components/ScreenContainer";
 import ScreenHeader from "../../components/ScreenHeader";
 import ReadOnlyIngredientCard from "../../components/ReadOnlyIngredientCard";
 import SaveConfirmModal from "../../components/SaveConfirmModal";
-import { getRecipeById, saveFavouriteRecipe } from "../../services/recipeApi";
+import { api } from "../../services/api";
 
 export default function RecipeDetailScreen({
   navigation,
@@ -29,59 +29,61 @@ export default function RecipeDetailScreen({
 }) {
   const { recipeId } = route.params ?? {};
 
-  // Backend integration later:
-  // const recipe = await getRecipeById(recipeId);
-  const recipe = {
-    id: recipeId ?? "1",
-    name: "Noodle soup",
-
-    image:
-      "https://example.com/images/noodle-soup.png",
-
-    instructionUrl:
-      "https://www.recipetineats.com/",
-
-    ingredients: [
-      {
-        id: "1",
-        name: "Beef",
-        quantity: "100g",
-        calories: "1500cal",
-        image:
-          "https://example.com/images/beef.png",
-      },
-      {
-        id: "2",
-        name: "Noodle",
-        quantity: "200g",
-        calories: "1000cal",
-        image:
-          "https://example.com/images/noodle.png",
-      },
-      {
-        id: "3",
-        name: "Vegetable",
-        quantity: "300g",
-        calories: "300cal",
-        image:
-          "https://example.com/images/vegetable.png",
-      },
-    ],
-  };
+  const [recipe, setRecipe] = useState(null);
+  const [isFavourite, setIsFavourite] = useState(false);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState("");
 
   const [showSaveConfirm, setShowSaveConfirm] = useState(false);
 
+  useEffect(() => {
+    const loadRecipe = async () => {
+      if (!recipeId) return;
+
+      try {
+        setLoading(true);
+        setError("");
+
+        const [recipeData, favouriteData] =
+          await Promise.all([
+            api.getRecipeById(recipeId),
+            api.isFavouriteRecipe(recipeId),
+          ]);
+
+        setRecipe(recipeData);
+
+        setIsFavourite(favouriteData?.isFavourite ?? false);
+      } catch (error) {
+        console.error("Failed to load recipe:", error);
+
+        setError(error.message);
+      } finally {setLoading(false);}
+    };
+
+    loadRecipe();
+  }, [recipeId]);
+
+
   const handleSaveRecipe = async () => {
-    setShowSaveConfirm(false);
+    if (!recipe || isFavourite) return;
 
-    // Backend integration later:
-    // await saveFavouriteRecipe(recipe.id);
+    try {
+      await api.saveFavouriteRecipe(recipe.id);
 
-    navigation.navigate("SaveSuccessfully");
+      setIsFavourite(true);
+      setShowSaveConfirm(false);
+
+      navigation.navigate("SaveSuccessfully");
+    } catch (error) {
+      console.error(
+        "Failed to save favourite recipe:",
+        error
+      );
+    }
   };
 
   const handleOpenInstruction = async () => {
-    if (!recipe.instructionUrl) return;
+    if (!recipe?.instructionUrl) return;
 
     const supported = await Linking.canOpenURL(
       recipe.instructionUrl
@@ -102,7 +104,7 @@ export default function RecipeDetailScreen({
     >
 
       <FlatList
-        data={recipe.ingredients}
+        data={recipe?.ingredients ?? []}
         keyExtractor={(item) => item.id}
         renderItem={renderIngredient}
         showsVerticalScrollIndicator={false}
@@ -118,23 +120,26 @@ export default function RecipeDetailScreen({
               LeftIconSvg={BackIcon}
               LeftIconSize="24"
 
-              onRightPress={() => setShowSaveConfirm(true)}
+              onRightPress={isFavourite ? undefined : () => setShowSaveConfirm(true)}
+              rightDisabled={isFavourite}
               RightIconSvg={SaveIcon}
               RightIconSize="24"
             />
 
             {/* Recipe image */}
             <View style={styles.imageCard}>
-              <Image
-                source={{ uri: recipe.image }}
-                style={styles.recipeImage}
-                resizeMode="contain"
-              />
+              {recipe?.image && (
+                <Image
+                  source={{ uri: recipe.image }}
+                  style={styles.recipeImage}
+                  resizeMode="contain"
+                />
+              )}
             </View>
 
             {/* Recipe name */}
             <Text style={styles.recipeName}>
-              {recipe.name}
+              {recipe?.name ?? ""}
             </Text>
 
             {/* Ingredient title */}
@@ -158,7 +163,7 @@ export default function RecipeDetailScreen({
               ]}
             >
               <Text style={styles.url}>
-                {recipe.instructionUrl}
+                {recipe?.instructionUrl ?? ""}
               </Text>
             </Pressable>
           </>

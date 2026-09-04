@@ -65,10 +65,62 @@ export const api = {
   getRecipeCategories: () => request("/api/recipes/categories"),
   getRecipes: (parameters) => request(`/api/recipes${queryString(parameters)}`),
 
+  getRecipeById: (recipeId) => request(`/api/recipes/${recipeId}`),
+
+  // Favourite recipes
+  getFavouriteRecipes: () => request("/api/recipe/favourites"),
+
+  isFavouriteRecipe: (recipeId) => request(`/api/recipe//${recipeId}/favourites`),
+
+  saveFavouriteRecipe: (recipeId) => request(`/api/users/me/favourites/${recipeId}`, {method: "POST",}),
+
+  removeFavouriteRecipe: (recipeId) => request(`/api/users/me/favourites/${recipeId}`, {method: "DELETE",}),
+
+  // Customized recipes
+  getCustomizedRecipes: () => request("/api/custom-recipes"),
+
+  getCustomizedRecipeById: (recipeId) => request(`/api/custom-recipes/${recipeId}`),
+
+  createCustomizedRecipe: (recipeData) =>
+    request("/api/custom-recipes", {
+      method: "POST",
+      body: JSON.stringify(recipeData),
+    }),
+
+  updateCustomizedRecipe: (recipeId, recipeData) =>
+    request(`/api/custom-recipes/${recipeId}`, {
+      method: "PATCH",
+      body: JSON.stringify(recipeData),
+    }),
+
+  deleteCustomizedRecipe: (recipeId) =>
+    request(`/api/custom-recipes/${recipeId}`, {
+      method: "DELETE",
+    }),
+
   // 🌟 FIXED: Accept two parameters separately to align with the frontend UI screen invocation
   searchRecipesByIngredients: (ingredientIds, parameters = {}) =>
     request(`/api/recipes/search-by-ingredients${queryString(parameters)}`, {
       method: "POST",
       body: JSON.stringify({ ingredientIds }),
+    }),
+
+  // Profile
+  getProfile: () => request("/api/users/me"),
+
+  updateFullName: (fullName) =>
+    request("/api/users/me", {
+      method: "PATCH",
+      body: JSON.stringify({
+        fullName: fullName.trim(),
+      }),
+    }),
+
+  updatePassword: (password) =>
+    request("/api/users/me/password", {
+      method: "PATCH",
+      body: JSON.stringify({
+        password,
+      }),
     }),
 };
