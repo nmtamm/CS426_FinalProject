@@ -25,15 +25,29 @@ function queryString(parameters) {
 
 async function request(path, options = {}) {
   const headers = { Accept: "application/json", ...options.headers };
-  if (options.body) headers["Content-Type"] = "application/json";
+
+  // 🌟 FIX 1: Create a safe mutable copy of options
+  const fetchOptions = { ...options };
+
+  if (fetchOptions.body) {
+    headers["Content-Type"] = "application/json";
+
+    // 🌟 FIX 2: Automatically stringify bodies if they are objects
+    if (typeof fetchOptions.body === "object") {
+      fetchOptions.body = JSON.stringify(fetchOptions.body);
+    }
+  }
+
   if (authToken) headers.Authorization = `Bearer ${authToken}`;
 
   let response;
   try {
-    response = await fetch(`${API_BASE_URL}${path}`, { ...options, headers });
+    // 🌟 FIX 3: Pass fetchOptions instead of raw options
+    response = await fetch(`${API_BASE_URL}${path}`, { ...fetchOptions, headers });
   } catch {
     throw new Error(`Không thể kết nối API tại ${API_BASE_URL}`);
   }
+
   const payload = await response.json().catch(() => null);
   if (!response.ok) {
     const detail = payload?.detail;
@@ -48,7 +62,7 @@ async function request(path, options = {}) {
 async function authenticate(endpoint, username, password) {
   const result = await request(endpoint, {
     method: "POST",
-    body: JSON.stringify({ username: username.trim(), password }),
+    body: { username: username.trim(), password }, // Passed cleanly as object
   });
   setAuthToken(result.token);
   return result;
@@ -68,29 +82,36 @@ export const api = {
   getRecipeById: (recipeId) => request(`/api/recipes/${recipeId}`),
 
   // Favourite recipes
-  getFavouriteRecipes: () => request("/api/recipe/favourites"),
+  getFavouriteRecipes: () => request("/api/recipes/favorites"),
 
-  isFavouriteRecipe: (recipeId) => request(`/api/recipe//${recipeId}/favourites`),
+  isFavouriteRecipe: (recipeId) => request(`/api/recipe/${recipeId}/favourite`),
 
-  saveFavouriteRecipe: (recipeId) => request(`/api/users/me/favourites/${recipeId}`, {method: "POST",}),
+  saveFavouriteRecipe: (recipeId) =>
+    request(`/api/recipes/${recipeId}/favorite`, {
+      method: "POST",
+      body: {},
+    }),
 
-  removeFavouriteRecipe: (recipeId) => request(`/api/users/me/favourites/${recipeId}`, {method: "DELETE",}),
+  removeFavouriteRecipe: (recipeId) =>
+    request(`/api/recipes/${recipeId}/favorite`, {
+      method: "DELETE",
+    }),
 
   // Customized recipes
-  getCustomizedRecipes: () => request("/api/custom-recipes"),
+  getCustomizedRecipes: () => request("/api/custom-recipes"), // 🌟 Standardized to GET (no body)
 
-  getCustomizedRecipeById: (recipeId) => request(`/api/custom-recipes/${recipeId}`),
+  getCustomizedRecipeById: (recipeId) => request(`/api/custom-recipes/${recipeId}`), // 🌟 Standardized to GET (no body)
 
   createCustomizedRecipe: (recipeData) =>
     request("/api/custom-recipes", {
       method: "POST",
-      body: JSON.stringify(recipeData),
+      body: recipeData, // Object maps smoothly now!
     }),
 
   updateCustomizedRecipe: (recipeId, recipeData) =>
     request(`/api/custom-recipes/${recipeId}`, {
-      method: "PATCH",
-      body: JSON.stringify(recipeData),
+      method: "PUT",
+      body: recipeData,
     }),
 
   deleteCustomizedRecipe: (recipeId) =>
@@ -98,11 +119,10 @@ export const api = {
       method: "DELETE",
     }),
 
-  // 🌟 FIXED: Accept two parameters separately to align with the frontend UI screen invocation
   searchRecipesByIngredients: (ingredientIds, parameters = {}) =>
     request(`/api/recipes/search-by-ingredients${queryString(parameters)}`, {
       method: "POST",
-      body: JSON.stringify({ ingredientIds }),
+      body: { ingredientIds },
     }),
 
   // Profile
@@ -110,17 +130,17 @@ export const api = {
 
   updateFullName: (fullName) =>
     request("/api/users/me", {
-      method: "PATCH",
-      body: JSON.stringify({
+      method: "PUT",
+      body: {
         fullName: fullName.trim(),
-      }),
+      },
     }),
 
   updatePassword: (password) =>
     request("/api/users/me/password", {
-      method: "PATCH",
-      body: JSON.stringify({
+      method: "PUT",
+      body: {
         password,
-      }),
+      },
     }),
 };

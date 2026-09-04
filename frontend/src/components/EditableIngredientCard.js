@@ -19,12 +19,15 @@ export default function EditableIngredientCard({
   onDelete,
 }) {
   const [imageError, setImageError] = useState(false);
+  console.log("EditableIngredientCard ingredient:", ingredient);
+  const default_quantity = ingredient.default_quantity ?? 0;
+  const default_unit = ingredient.default_unit ?? "";
 
   const calories = useMemo(() => {
     const quantity = Number(ingredient.quantity) || 0;
 
-    return Math.round((ingredient.caloriesPer100 * quantity) / 100);
-  }, [ingredient.quantity, ingredient.caloriesPer100]);
+    return Math.round((ingredient.calories * quantity) / default_quantity);
+  }, [ingredient.quantity, ingredient.calories]);
 
   const renderRightActions = () => {
     return (
@@ -67,32 +70,32 @@ export default function EditableIngredientCard({
 
         {/* Ingredient information */}
         <View
-            style={{
-              flex: 1,
-              marginLeft: scale(12),
-              marginRight: scale(10),
-              justifyContent: "center",
-            }}
+          style={{
+            flex: 1,
+            marginLeft: scale(12),
+            marginRight: scale(10),
+            justifyContent: "center",
+          }}
+        >
+          <Text
+            numberOfLines={1}
+            ellipsizeMode="tail"
+            style={styles.name}
           >
-            <Text
-              numberOfLines={1}
-              ellipsizeMode="tail"
-              style={styles.name}
-            >
-              {ingredient.name}
-            </Text>
+            {ingredient.name}
+          </Text>
 
-            <Text
-                variant="bodySmall"
-                numberOfLines={1}
-                style={{ color: COLORS.textSecondary, marginTop: 2 }}
-            >
-                {ingredient.category}
-                {ingredient.caloriesPer100g
-                    ? ` • ${ingredient.caloriesPer100g} cal/100g`
-                    : ""}
-            </Text>
-          </View>
+          <Text
+            variant="bodySmall"
+            numberOfLines={1}
+            style={{ color: COLORS.textSecondary, marginTop: 2 }}
+          >
+            {ingredient.category}
+            {ingredient.calories
+              ? ` • ${ingredient.calories} kcal/${default_quantity}${default_unit}`
+              : ""}
+          </Text>
+        </View>
 
         {/* Editable quantity */}
         <View
@@ -102,17 +105,17 @@ export default function EditableIngredientCard({
             minWidth: 80,
           }}
         >
-        
-          <View style={{ flexDirection: "row", alignItems: "center",}}>
+
+          <View style={{ flexDirection: "row", alignItems: "center", }}>
             <TextInput
-                value={String(
+              value={String(
                 ingredient.quantity ?? ""
-                )}
-                onChangeText={onQuantityChange}
-                keyboardType="decimal-pad"
-                selectTextOnFocus
-                maxLength={7}
-                style={{
+              )}
+              onChangeText={onQuantityChange}
+              keyboardType="decimal-pad"
+              selectTextOnFocus
+              maxLength={7}
+              style={{
                 minWidth: 55,
 
                 paddingHorizontal: 6,
@@ -130,20 +133,20 @@ export default function EditableIngredientCard({
                 borderRadius: 8,
 
                 backgroundColor: COLORS.third,
-                }}
+              }}
             />
 
             <Text
-                style={{
-                    marginLeft: 5,
+              style={{
+                marginLeft: 5,
 
-                    fontSize: 15,
-                    fontFamily: "Nunito_700Bold",
+                fontSize: 15,
+                fontFamily: "Nunito_700Bold",
 
-                    color: COLORS.primary,
-                }}
-                >
-                {ingredient.unit}
+                color: COLORS.primary,
+              }}
+            >
+              {ingredient.unit}
             </Text>
           </View>
 
@@ -161,7 +164,7 @@ export default function EditableIngredientCard({
               textAlign: "center",
             }}
           >
-            {calories} cal
+            {calories} kcal
           </Text>
         </View>
       </View>

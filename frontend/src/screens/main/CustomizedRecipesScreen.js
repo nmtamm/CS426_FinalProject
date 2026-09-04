@@ -1,6 +1,6 @@
 import { MaterialCommunityIcons } from "@expo/vector-icons";
 import { useRef, useCallback, useState } from "react";
-import { useFocusEffect} from "@react-navigation/native";
+import { useFocusEffect } from "@react-navigation/native";
 import {
   FlatList,
   Image,
@@ -18,7 +18,7 @@ import { scale } from "../../utils/responsive";
 import ScreenContainer from "../../components/ScreenContainer";
 import ScreenHeader from "../../components/ScreenHeader";
 import DeleteConfirmModal from "../../components/DeleteConfirmModal";
-import { getCustomizedRecipes, deleteCustomizedRecipe } from "../../services/customizedRecipeApi";
+import { api } from "../../services/api";
 
 export default function CustomizedRecipesScreen({ navigation }) {
   const [recipes, setRecipes] = useState([]);
@@ -71,7 +71,7 @@ export default function CustomizedRecipesScreen({ navigation }) {
       await api.deleteCustomizedRecipe(recipeId);
 
       setRecipes((prev) =>
-        prev.filter((recipe) =>recipe.id !== recipeId)
+        prev.filter((recipe) => recipe.id !== recipeId)
       );
 
       setPendingDeleteId(null);
@@ -90,21 +90,21 @@ export default function CustomizedRecipesScreen({ navigation }) {
 
   const renderRecipe = ({ item }) => {
     const renderRightActions = () => {
-        return (
-          <Pressable
-            style={styles.deleteButton}
-            onPress={() => requestDelete(item.id)}
-            hitSlop={8}
-            className="active:opacity-60"
-          >
-            <MaterialCommunityIcons
-              name="trash-can-outline"
-              size={scale(50)}
-              color={COLORS.red}
-            />
-          </Pressable>
-        );
-      };
+      return (
+        <Pressable
+          style={styles.deleteButton}
+          onPress={() => requestDelete(item.id)}
+          hitSlop={8}
+          className="active:opacity-60"
+        >
+          <MaterialCommunityIcons
+            name="trash-can-outline"
+            size={scale(50)}
+            color={COLORS.red}
+          />
+        </Pressable>
+      );
+    };
 
     return (
       <Swipeable
@@ -135,7 +135,7 @@ export default function CustomizedRecipesScreen({ navigation }) {
               numberOfLines={2}
               ellipsizeMode="tail"
             >
-              {item.name}
+              {item.title}
             </Text>
           </View>
         </Pressable>

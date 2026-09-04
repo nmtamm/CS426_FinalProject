@@ -46,7 +46,7 @@ export default function CustomRecipeScreen({ navigation, route }) {
 
   const [error, setError] = useState("");
 
-  const [pendingDeleteIngredientId, setPendingDeleteIngredientId] =useState(null);
+  const [pendingDeleteIngredientId, setPendingDeleteIngredientId] = useState(null);
 
   const [showSaveConfirm, setShowSaveConfirm] = useState(false);
 
@@ -63,23 +63,28 @@ export default function CustomRecipeScreen({ navigation, route }) {
             recipeId
           );
 
-        setRecipeName(recipe.name ?? "");
+        setRecipeName(recipe.title ?? "");
         setRecipeImage(recipe.image ?? null);
         setInstruction(
-          recipe.instruction ?? ""
+          recipe.instructions ?? ""
         );
+        console.log("Loaded recipe:", recipe);
+        console.log("Loaded ingredients:", recipe.ingredients);
 
         setIngredients(
           (recipe.ingredients ?? []).map(
             (ingredient) => ({
               ...ingredient,
 
-              id:ingredient.id ?? ingredient.ingredientId,
+              id: ingredient.id ?? ingredient.ingredientId,
 
-              quantity: String(ingredient.quantity ?? ingredient.defaultQuantity ?? ""),
+              quantity: String(ingredient.quantity ?? ingredient.default_quantity ?? ""),
 
-              unit:ingredient.unit ??ingredient.defaultUnit ?? "",
-            })
+              unit: ingredient.unit ?? ingredient.default_unit ?? "",
+
+            }
+
+            )
           )
         );
       } catch (error) {
@@ -97,7 +102,7 @@ export default function CustomRecipeScreen({ navigation, route }) {
     loadRecipe();
   }, [recipeId]);
 
-  
+
   useEffect(() => {
     if (recipeId) return;
     if (!draftRecipe) return;
@@ -168,9 +173,9 @@ export default function CustomRecipeScreen({ navigation, route }) {
       currentIngredients.map((ingredient) =>
         ingredient.id === ingredientId
           ? {
-              ...ingredient,
-              quantity: numericValue,
-            }
+            ...ingredient,
+            quantity: numericValue,
+          }
           : ingredient
       )
     );
@@ -239,24 +244,26 @@ export default function CustomRecipeScreen({ navigation, route }) {
 
     setShowSaveConfirm(true);
   };
-  
+
   const handleSaveRecipe = async () => {
     setShowSaveConfirm(false);
 
     const recipeData = {
-      name: recipeName.trim(),
-
+      title: recipeName.trim(),
+      id: recipeId,
       ingredients: ingredients.map(
         (ingredient) => ({
-          ingredientId: ingredient.id,
+          id: ingredient.id,
           quantity: Number(ingredient.quantity),
           unit: ingredient.unit,
         })
       ),
 
-      instruction: instruction.trim(),
+      instructions: instruction.trim(),
       image: recipeImage,
     };
+
+    console.log("Saving recipe:", recipeData);
 
     try {
       if (recipeId) {

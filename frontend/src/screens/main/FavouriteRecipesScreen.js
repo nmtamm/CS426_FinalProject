@@ -41,7 +41,7 @@ export default function FavouriteRecipesScreen({ navigation }) {
               (recipe) => ({
                 ...recipe,
 
-                name:recipe.name ?? recipe.title ?? "",
+                name: recipe.name ?? recipe.title ?? "",
               })
             )
           );
@@ -75,7 +75,7 @@ export default function FavouriteRecipesScreen({ navigation }) {
       await api.removeFavouriteRecipe(pendingDeleteId);
 
       setRecipes((prev) =>
-        prev.filter((recipe) =>recipe.id !== pendingDeleteId));
+        prev.filter((recipe) => recipe.id !== pendingDeleteId));
 
       setPendingDeleteId(null);
     } catch (error) {

@@ -7,7 +7,7 @@ import {
   View,
 } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
-import { useEffect ,useState } from "react";
+import { useEffect, useState } from "react";
 
 
 import { MaterialCommunityIcons } from "@expo/vector-icons";
@@ -54,13 +54,13 @@ export default function ProfileScreen({ navigation }) {
   return (
     <ScreenContainer contentStyle={styles.content}>
       <ScreenHeader
-        title="Tùy chỉnh công thức"
+        title="Cập nhật thông tin"
         variant="displaySmall"
         onLeftPress={() => navigation.goBack()}
         LeftIconSvg={BackIcon}
         LeftIconSize="24"
 
-        onRightPress={() => navigation.reset({index: 0, routes: [{ name: "Login" }],})}
+        onRightPress={() => navigation.reset({ index: 0, routes: [{ name: "Login" }], })}
         RightIconSvg={LogoutIcon}
         RightIconSize="24"
       />
@@ -116,8 +116,8 @@ function ProfileItem({
   const [inputValue, setInputValue] = useState(value);
 
   useEffect(() => {
-      setInputValue(value);
-    }, [value]);
+    setInputValue(value);
+  }, [value]);
 
   const handleButtonPress = async () => {
     if (isEditing) {

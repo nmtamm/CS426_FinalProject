@@ -17,6 +17,8 @@ from app.schemas.frontend_contracts import (
     IngredientIdsRequest,
     IngredientPage,
     RecipePage,
+    UpdateNameRequest,
+    UpdatePasswordRequest,
 )
 from app.services.security import (
     create_access_token,
@@ -75,9 +77,9 @@ def _frontend_user(user: User) -> FrontendUser:
     return FrontendUser(id=f"user-{user.id}", username=user.display_name)
 
 
-@router.get("/users/me", response_model=FrontendUser)
-def frontend_me(current_user: User = Depends(get_db)):
-    return _frontend_user(current_user)
+@router.get("/users/me")
+def get_current_user(current_user: User = Depends(current_user)):
+    return {"fullName": current_user.full_name, "username": current_user.display_name}
 
 
 # def _ingredient_item(ingredient: Ingredient) -> FrontendIngredient:
@@ -158,33 +160,34 @@ def frontend_login(payload: FrontendAuthRequest, db: Session = Depends(get_db)):
     )
 
 
-@router.put("/users/me/")
+@router.put("/users/me")
 def updateFullName(
-    fullName: str,
+    payload: UpdateNameRequest,
     db: Session = Depends(get_db),
     current_user: User = Depends(current_user),
 ):
     user = db.scalar(select(User).where(User.id == current_user.id))
     if not user:
         raise HTTPException(status_code=404, detail="Người dùng không tồn tại")
-    user.full_name = fullName.strip()
+    user.full_name = payload.fullName.strip()
     db.commit()
     db.refresh(user)
-    return {"message": "Cập nhật tên đầy đủ thành công", "full_name": user.full_name}
+    return {"message": "Cập nhật tên đầy đủ thành công"}
 
 
-@router.put("/users/me/password")
+@router.put("/users/me/password")  # Added trailing slash if your frontend uses it
 def updatePassword(
-    password: str,
+    payload: UpdatePasswordRequest,  # Look for JSON body
     db: Session = Depends(get_db),
     current_user: User = Depends(current_user),
 ):
     user = db.scalar(select(User).where(User.id == current_user.id))
     if not user:
         raise HTTPException(status_code=404, detail="Người dùng không tồn tại")
-    user.password_hash = hash_password(password)
+
+    # Access the password from payload
+    user.password_hash = hash_password(payload.password)
     db.commit()
-    db.refresh(user)
     return {"message": "Cập nhật mật khẩu thành công"}
 
 

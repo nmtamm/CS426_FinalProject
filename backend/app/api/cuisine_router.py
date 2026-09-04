@@ -23,6 +23,8 @@ from ..schemas.schema import (
     CustomRecipeCreate as CustomRecipeCreateSchema,
     CustomRecipeUpdate as CustomRecipeUpdateSchema,
     IngredientSearchRequest,
+    RecipeIngredient as RecipeIngredientSchema,
+    CustomRecipeIngredient as CustomRecipeIngredientSchema,
 )
 from ..services.security import current_user
 from sqlalchemy import text
@@ -186,8 +188,8 @@ def create_custom_recipe(
     # Add ingredients to the custom recipe
     for ingredient in custom_recipe.ingredients:
         db_ingredient = CustomDishIngredient(
-            custom_recipe_id=db_custom_recipe.id,
-            ingredient_id=ingredient.ingredient_id,
+            recipe_id=db_custom_recipe.id,
+            ingredient_id=ingredient.id,
             quantity=ingredient.quantity,
             unit=ingredient.unit,
         )
@@ -196,7 +198,7 @@ def create_custom_recipe(
     db.commit()
 
 
-@router.get("/custom-recipes", response_model=list[CustomRecipeSchema])
+@router.get("/custom-recipes")
 def get_custom_recipes(
     db: Session = Depends(get_db),
     current_user: int = Depends(current_user),
@@ -236,7 +238,7 @@ def favorite_recipe(
     db.commit()
 
 
-@router.get("/recipes/favorites", response_model=list[RecipeSchema])
+@router.get("/recipes/favorites")
 def get_favorite_recipes(
     db: Session = Depends(get_db),
     current_user: int = Depends(current_user),
@@ -293,9 +295,258 @@ def delete_custom_recipe(
 
     # Delete associated ingredients first due to foreign key constraints
     db.query(CustomDishIngredient).filter(
-        CustomDishIngredient.custom_recipe_id == custom_recipe_id
+        CustomDishIngredient.recipe_id == custom_recipe_id
     ).delete()
 
     # Delete the custom recipe
     db.delete(custom_recipe)
+    db.commit()
+
+
+@router.get("/recipes/{recipe_id}", response_model=RecipeSchema)
+def get_recipe_by_id(recipe_id: int, db: Session = Depends(get_db)):
+    recipe = db.query(Recipe).filter(Recipe.id == recipe_id).first()
+    if not recipe:
+        raise HTTPException(status_code=404, detail="Recipe not found.")
+
+    # Find the main ingredients for the recipe
+    raw_main_ingredients = (
+        db.query(DishIngredient)
+        .join(Ingredient, DishIngredient.ingredient_id == Ingredient.id)
+        .filter(DishIngredient.recipe_id == recipe_id, Ingredient.is_main == 1)
+        .all()
+    )
+
+    # Make sure the main ingredients follow IngredientSchema structure
+    temp_ingredients = []
+    for ingredient in raw_main_ingredients:
+        ingredient_name = (
+            db.query(Ingredient)
+            .filter(Ingredient.id == ingredient.ingredient_id)
+            .first()
+            .name
+        )
+        ingredient_image = (
+            db.query(Ingredient)
+            .filter(Ingredient.id == ingredient.ingredient_id)
+            .first()
+            .image
+        )
+        temp_ingredients.append(
+            RecipeIngredientSchema(
+                id=ingredient.ingredient_id,
+                name=ingredient_name,
+                quantity=ingredient.quantity,
+                unit=ingredient.unit,
+                image=ingredient_image,
+            )
+        )
+    main_ingredients = temp_ingredients
+
+    # Find the supplementary ingredients for the recipe
+    raw_supplements = (
+        db.query(DishIngredient)
+        .join(Ingredient, DishIngredient.ingredient_id == Ingredient.id)
+        .filter(DishIngredient.recipe_id == recipe_id, Ingredient.is_main == 0)
+        .all()
+    )
+
+    # Make sure the supplementary ingredients follow IngredientSchema structure
+    temp_supplements = []
+    for ingredient in raw_supplements:
+        ingredient_name = (
+            db.query(Ingredient)
+            .filter(Ingredient.id == ingredient.ingredient_id)
+            .first()
+            .name
+        )
+        ingredient_image = (
+            db.query(Ingredient)
+            .filter(Ingredient.id == ingredient.ingredient_id)
+            .first()
+            .image
+        )
+        temp_supplements.append(
+            RecipeIngredientSchema(
+                id=ingredient.ingredient_id,
+                name=ingredient_name,
+                quantity=ingredient.quantity,
+                unit=ingredient.unit,
+                image=ingredient_image,
+            )
+        )
+    supplements = temp_supplements
+
+    # Find the categories for the recipe
+    categories = (
+        db.query(RecipeCategory)
+        .join(
+            RecipeCategoryMapping,
+            RecipeCategoryMapping.category_id == RecipeCategory.id,
+        )
+        .filter(RecipeCategoryMapping.recipe_id == recipe_id)
+        .all()
+    )
+
+    # Make sure the categories follow RecipeCategorySchema structure
+    categories = [
+        RecipeCategorySchema(id=category.id, name=category.name, image=category.image)
+        for category in categories
+    ]
+
+    # Construct the response
+    recipe_response = RecipeSchema(
+        id=recipe.id,
+        title=recipe.title,
+        instructions=recipe.instructions,
+        main_ingredients=main_ingredients,
+        supplements=supplements,
+        image=recipe.image,
+        categories=categories,
+    )
+
+    print(f"Recipe response: {recipe_response}")  # Debugging line
+    return recipe_response
+
+
+@router.get("/custom-recipes/{recipe_id}", response_model=CustomRecipeSchema)
+def get_custom_recipe_by_id(
+    recipe_id: int,
+    db: Session = Depends(get_db),
+    current_user: int = Depends(current_user),
+):
+    custom_recipe = (
+        db.query(CustomRecipe)
+        .filter(CustomRecipe.id == recipe_id, CustomRecipe.user_id == current_user.id)
+        .first()
+    )
+    if not custom_recipe:
+        raise HTTPException(status_code=404, detail="Custom recipe not found.")
+
+    # Find the ingredients for the custom recipe
+    raw_ingredients = (
+        db.query(CustomDishIngredient)
+        .join(Ingredient, CustomDishIngredient.ingredient_id == Ingredient.id)
+        .filter(CustomDishIngredient.recipe_id == recipe_id)
+        .all()
+    )
+
+    # Make sure the ingredients follow IngredientSchema structure
+    ingredients = []
+    for ingredient in raw_ingredients:
+        ingredient_name = (
+            db.query(Ingredient)
+            .filter(Ingredient.id == ingredient.ingredient_id)
+            .first()
+            .name
+        )
+        ingredient_image = (
+            db.query(Ingredient)
+            .filter(Ingredient.id == ingredient.ingredient_id)
+            .first()
+            .image
+        )
+        ingredient_default_quantity = (
+            db.query(Ingredient)
+            .filter(Ingredient.id == ingredient.ingredient_id)
+            .first()
+            .default_quantity
+        )
+        ingredient_default_unit = (
+            db.query(Ingredient)
+            .filter(Ingredient.id == ingredient.ingredient_id)
+            .first()
+            .default_unit
+        )
+        ingredient_calories = (
+            db.query(Ingredient).
+            filter(Ingredient.id == ingredient.ingredient_id)
+            .first()
+            .calories
+        )
+
+        ingredients.append(
+            CustomRecipeIngredientSchema(
+                id=ingredient.ingredient_id,
+                name=ingredient_name,
+                quantity=ingredient.quantity,
+                unit=ingredient.unit,
+                default_quantity=ingredient_default_quantity,
+                default_unit=ingredient_default_unit,
+                image=ingredient_image,
+                calories=ingredient_calories
+            )
+        )
+
+    # Construct the response
+    custom_recipe_response = CustomRecipeSchema(
+        id=custom_recipe.id,
+        title=custom_recipe.title,
+        instructions=custom_recipe.instructions,
+        ingredients=ingredients,
+        image=custom_recipe.image,
+    )
+
+    return custom_recipe_response
+
+@router.put("/custom-recipes/{recipe_id}")
+def update_custom_recipe(
+    recipe: CustomRecipeUpdateSchema,
+    db: Session = Depends(get_db),
+    current_user: int = Depends(current_user)
+):
+    # Check if the custom recipe exists and belongs to the current user
+    db_custom_recipe = (
+        db.query(CustomRecipe)
+        .filter(
+            CustomRecipe.id == recipe.id,
+            CustomRecipe.user_id == current_user.id,
+        )
+        .first()
+    )
+    if not db_custom_recipe:
+        raise HTTPException(status_code=404, detail="Custom recipe not found.")
+
+    # Update the custom recipe fields
+    db_custom_recipe.title = recipe.title
+    db_custom_recipe.instructions = recipe.instructions
+    db_custom_recipe.image = recipe.image if recipe.image else None
+
+    # Delete existing ingredients for the custom recipe
+    db.query(CustomDishIngredient).filter(
+        CustomDishIngredient.recipe_id == recipe.id
+    ).delete()
+
+    # Add updated ingredients to the custom recipe
+    for ingredient in recipe.ingredients:
+        db_ingredient = CustomDishIngredient(
+            recipe_id=db_custom_recipe.id,
+            ingredient_id=ingredient.id,
+            quantity=ingredient.quantity,
+            unit=ingredient.unit,
+        )
+        db.add(db_ingredient)
+
+    db.commit()
+
+@router.delete("recipes/{recipe_id}/favorite")
+def unfavorite_recipe(
+    recipe_id: int,
+    db: Session = Depends(get_db),
+    current_user: int = Depends(current_user),
+):
+    # Check if the favorite entry exists
+    favorite = (
+        db.query(FavoriteRecipe)
+        .filter(
+            FavoriteRecipe.user_id == current_user.id,
+            FavoriteRecipe.recipe_id == recipe_id,
+        )
+        .first()
+    )
+    if not favorite:
+        raise HTTPException(status_code=404, detail="Favorite entry not found.")
+
+    # Delete the favorite entry
+    db.delete(favorite)
     db.commit()
