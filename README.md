@@ -1,6 +1,27 @@
-# NutriPlan
+# Nuti Plan
 
-Android mobile project with a FastAPI backend for recipe discovery, pantry tracking, calorie calculation, meal logs, goals, and recipe recommendations.
+**Course:** CS426 - Mobile Device Application Development
+**Final Project**
+
+Mobile app (React Native / Expo) with a FastAPI backend for ingredient-based recipe discovery, calorie calculation, custom recipes, and favorites.
+
+## Group Info
+
+| Student ID | Name |
+|---|---|
+| 23125030 | Phan Tan Dat |
+| 24125042 | Nguyen Minh Tam |
+| 24125055 | Tran Trung Hau |
+| 24125074 | Le Gia Phuc |
+
+GitHub repository: https://github.com/nmtamm/CS426_Seminar
+
+## Test Credentials
+
+The database ships with the crawled recipe/ingredient catalog only — no user accounts are pre-seeded. Register a new account from the app's **Register** screen (or `POST /api/auth/register`) before logging in. Any username/password works, for example:
+
+- Username: `testuser`
+- Password: `testpass123`
 
 ## Backend quick start
 
@@ -18,6 +39,21 @@ Open `http://127.0.0.1:8000/docs` for the interactive API contract. On its first
 SQLite is the zero-configuration local default. For PostgreSQL, set `DATABASE_URL=postgresql+psycopg://USER:PASSWORD@HOST:5432/nutriplan` in `backend/.env` before the first startup; the same SQLAlchemy models are used.
 
 The Android emulator should use `http://10.0.2.2:8000/` as its base URL. A physical device needs the computer's LAN IP instead.
+
+## Frontend quick start
+
+```bash
+cd frontend
+yarn install
+cp .env.example .env   # only needed for a physical device, see below
+yarn start             # opens the Expo dev tools; press "a" for Android, "i" for iOS
+```
+
+Requires [Expo Go](https://expo.dev/go) on a physical device, or an Android/iOS emulator/simulator. With the backend already running:
+
+- Android emulator: no changes needed, it reaches the backend at `http://10.0.2.2:8000` automatically.
+- iOS simulator / web: no changes needed, it uses `http://localhost:8000`.
+- Physical device: edit `frontend/.env` and set `EXPO_PUBLIC_API_URL` to the development machine's LAN IP (e.g. `http://192.168.1.172:8000`), then restart `yarn start`.
 
 ## Initial API
 
