@@ -32,6 +32,7 @@ export default function CustomRecipeScreen({ navigation, route }) {
     draftRecipe,
     returnedIngredients,
     returnedDraftRecipe,
+    returnedFromSearch,
   } = route.params ?? {};
 
   const [recipeName, setRecipeName] = useState("");
@@ -52,7 +53,8 @@ export default function CustomRecipeScreen({ navigation, route }) {
 
   useEffect(() => {
     if (!recipeId) return;
-
+    if (returnedFromSearch) return;
+    
     const loadRecipe = async () => {
       try {
         setLoading(true);
@@ -98,30 +100,31 @@ export default function CustomRecipeScreen({ navigation, route }) {
     };
 
     loadRecipe();
-  }, [recipeId]);
+  }, [recipeId, returnedFromSearch]);
 
 
   useEffect(() => {
     if (recipeId) return;
     if (!draftRecipe) return;
+    if (returnedFromSearch) return;
 
     setRecipeName(draftRecipe.name ?? "");
     setRecipeImage(draftRecipe.image ?? null);
     setInstruction(draftRecipe.instruction ?? "");
     setIngredients(draftRecipe.ingredients ?? []);
-  }, [recipeId, draftRecipe]);
+  }, [recipeId, draftRecipe, returnedFromSearch]);
 
   useEffect(() => {
-    if (!returnedIngredients) return;
+    if (!returnedFromSearch) return;
 
-    setIngredients(returnedIngredients);
+    setIngredients(returnedIngredients ?? []);
 
     if (returnedDraftRecipe) {
       setRecipeName(returnedDraftRecipe.name ?? "");
       setRecipeImage(returnedDraftRecipe.image ?? null);
       setInstruction(returnedDraftRecipe.instruction ?? "");
     }
-  }, [returnedIngredients, returnedDraftRecipe]);
+  }, [returnedFromSearch, returnedIngredients, returnedDraftRecipe]);
 
   // =====================================================
   // Image picker
@@ -214,6 +217,7 @@ export default function CustomRecipeScreen({ navigation, route }) {
           name: recipeName,
           image: recipeImage,
           instruction,
+          ingredients,
         },
       }
     );

@@ -11,8 +11,6 @@ import ScreenContainer from "../../components/ScreenContainer";
 import ScreenHeader from "../../components/ScreenHeader";
 import SelectedIngredientsDock from "../../components/SelectedIngredientsDock";
 import { api } from "../../services/api";
-import { CATEGORIES, INGREDIENTS } from "../../data/mockIngredients";
-import { getIngredients, getIngredientCategories } from "../../services/ingredientApi";
 
 import { scale } from "../../utils/responsive";
 import HomeIcon from "../../../assets/icons/home-icon.svg"
@@ -164,6 +162,7 @@ export default function SearchIngredientScreen({ navigation, route }) {
           recipeId,
           returnedIngredients: selectedIngredients,
           returnedDraftRecipe: draftRecipe,
+          returnedFromSearch: true,
         }
       );
 
@@ -198,9 +197,9 @@ export default function SearchIngredientScreen({ navigation, route }) {
   ) => ({
     ...ingredient,
 
-    quantity: String(ingredient.defaultQuantity ?? ingredient.quantity ?? ""),
+    quantity: String(ingredient.quantity ?? ingredient.defaultQuantity ?? ""),
 
-    unit: ingredient.defaultUnit ?? ingredient.unit ?? "",
+    unit: ingredient.unit ?? ingredient.defaultUnit ?? "",
 
     caloriesPer100: ingredient.caloriesPer100 ?? ingredient.calories ?? 0,
   });
