@@ -56,16 +56,16 @@ Requires [Expo Go](https://expo.dev/go) on a physical device, or an emulator/sim
 
 ## Build an APK
 
+Requires Android SDK + NDK and JDK 17.
+
 ```bash
 cd frontend
 npx expo prebuild -p android
 cd android
-./gradlew assembleRelease \
-  -PreactNativeArchitectures=arm64-v8a \
-  -Pandroid.enableMinifyInReleaseBuilds=true \
-  -Pandroid.enableShrinkResourcesInReleaseBuilds=true \
-  -Pexpo.useLegacyPackaging=true
-```
+echo sdk.dir=C:/path/to/Android/Sdk > local.properties
+./gradlew assembleRelease "-PreactNativeArchitectures=arm64-v8a" "-Pandroid.enableMinifyInReleaseBuilds=true" "-Pandroid.enableShrinkResourcesInReleaseBuilds=true" "-Pexpo.useLegacyPackaging=true"
+
+`local.properties` is wiped on every `expo prebuild` re-run — for a persistent alternative, set `ANDROID_HOME` as an OS environment variable instead.
 
 Output: `frontend/android/app/build/outputs/apk/release/app-release.apk`. Signed with the checked-in debug keystore.
 
