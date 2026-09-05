@@ -136,7 +136,7 @@ def frontend_register(payload: FrontendAuthRequest, db: Session = Depends(get_db
         email=lookup,
         display_name=username,
         password_hash=hash_password(payload.password),
-        full_name=payload.full_name.strip() if payload.full_name else username.strip(),
+        full_name=username,
     )
     db.add(user)
     db.commit()

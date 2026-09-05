@@ -41,42 +41,66 @@ export default function RecipeDetailScreen({
 
   useFocusEffect(
     useCallback(() => {
+      let active = true;
+
       const loadRecipe = async () => {
         if (!recipeId) return;
-        console.log(`Loading recipe with ID: ${recipeId}`);
+
         try {
           setLoading(true);
           setError("");
-          setRecipe(null); // Clear old data
 
-          console.log("Fetching data for recipeId:", recipeId);
+          const [
+            recipeData,
+            favouriteData,
+          ] = await Promise.all([
+            api.getRecipeById(recipeId),
+            api.getFavouriteRecipes(),
+          ]);
 
-          // 1. Fetch recipe data safely
-          try {
-            const recipeData = await api.getRecipeById(recipeId);
-            console.log("Recipe data loaded successfully:", recipeData);
-            setRecipe(recipeData);
-          } catch (recipeError) {
-            console.error("Error fetching recipe description (404):", recipeError);
-            setError("Không tìm thấy dữ liệu công thức này.");
-          }
+          if (!active) return;
 
+          setRecipe(recipeData);
+
+          const favourites =
+            favouriteData?.items ??
+            favouriteData ??
+            [];
+
+          const alreadyFavourite =
+            favourites.some(
+              (item) =>
+                String(item.id) ===
+                String(recipeId)
+            );
+
+          setIsFavourite(
+            alreadyFavourite
+          );
         } catch (error) {
-          console.error("General loading exception:", error);
-        } finally {
-          setLoading(false);
-        }
+          console.error(
+            "Failed to load recipe:",
+            error
+          );
 
+          if (active) {
+            setError(
+              "Không thể tải thông tin công thức."
+            );
+          }
+        } finally {
+          if (active) {
+            setLoading(false);
+          }
+        }
       };
 
       loadRecipe();
 
-      // Optional clean-up when leaving the screen
       return () => {
-        // You can reset states here if you want to avoid seeing old data briefly next time
-        // setRecipe(null); 
+        active = false;
       };
-    }, [recipeId]) // Triggered whenever the screen gains focus OR recipeId changes
+    }, [recipeId])
   );
 
 
@@ -90,11 +114,7 @@ export default function RecipeDetailScreen({
       setIsFavourite(true);
       setShowSaveConfirm(false);
 
-      Alert.alert(
-        "Thành công", // Title
-        "Đã lưu công thức này vào danh sách yêu thích của bạn!", // Message
-        [{ text: "OK", style: "default" }] // Button
-      );
+      navigation.navigate("SaveSuccessfully");
 
     } catch (error) {
       console.error("Failed to save favourite recipe:", error);
@@ -111,6 +131,27 @@ export default function RecipeDetailScreen({
         ]
       );
     }
+  };
+
+  const handleSavePress = () => {
+    if (!recipe) return;
+
+    if (isFavourite) {
+      Alert.alert(
+        "Đã lưu",
+        "Công thức này đã có trong danh sách yêu thích của bạn.",
+        [
+          {
+            text: "OK",
+            style: "default",
+          },
+        ]
+      );
+
+      return;
+    }
+
+    setShowSaveConfirm(true);
   };
 
 
@@ -161,8 +202,7 @@ export default function RecipeDetailScreen({
               LeftIconSvg={BackIcon}
               LeftIconSize="24"
 
-              onRightPress={isFavourite ? undefined : () => setShowSaveConfirm(true)}
-              rightDisabled={isFavourite}
+              onRightPress={handleSavePress}
               RightIconSvg={SaveIcon}
               RightIconSize="24"
             />
