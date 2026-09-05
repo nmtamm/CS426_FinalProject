@@ -155,14 +155,14 @@ export default function RecipeDetailScreen({
 
 
   const handleOpenInstruction = async () => {
-    if (!recipe?.instructionUrl) return;
+    if (!recipe?.instructions) return;
 
     const supported = await Linking.canOpenURL(
-      recipe.instructionUrl
+      recipe.instructions
     );
 
     if (supported) {
-      await Linking.openURL(recipe.instructionUrl);
+      await Linking.openURL(recipe.instructions);
     }
   };
 
@@ -437,11 +437,11 @@ const styles = StyleSheet.create({
   },
 
   url: {
-    color: COLORS.secondary,
+    color: COLORS.primary,
 
     fontSize: scale(25),
 
-    textDecorationLine: "none",
+    textDecorationLine: "underline",
   },
 
   // =====================================================
