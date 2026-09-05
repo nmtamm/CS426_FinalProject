@@ -27,7 +27,8 @@ from ..schemas.schema import (
     CustomRecipeIngredient as CustomRecipeIngredientSchema,
 )
 from ..services.security import current_user
-from sqlalchemy import text
+from sqlalchemy import text, case
+from ..services.ingredient_search import ingredient_search
 
 router = APIRouter(prefix="/api")
 
@@ -42,19 +43,38 @@ def get_ingredients(
     db: Session = Depends(get_db),
 ):
     query = db.query(Ingredient)
+
     if search:
-        query = query.filter(Ingredient.name.ilike(f"%{search}%"))
+        ingredient_ids = ingredient_search(search)  # Ordered by score
+
+        if ingredient_ids:
+            query = query.filter(Ingredient.id.in_(ingredient_ids))
+
+            # Map each ID to its position index to preserve semantic order
+            ordering = case(
+                {id_: index for index, id_ in enumerate(ingredient_ids)},
+                value=Ingredient.id,
+            )
+            query = query.order_by(ordering)
+        else:
+            # Handle empty search results gracefully
+            query = query.filter(False)
+
     if category:
         query = query.join(IngredientCategoryMapping).filter(
             IngredientCategoryMapping.category_id == category
         )
+
+    total_items = query.count()
+
     ingredients = query.offset((page - 1) * limit).limit(limit).all()
+
     return {
         "items": ingredients,
         "page": page,
         "limit": limit,
-        "totalItems": query.count(),  # Calculate database count
-        "totalPages": (query.count() + limit - 1) // limit,
+        "totalItems": total_items,
+        "totalPages": (total_items + limit - 1) // limit,
     }
 
 
@@ -86,7 +106,7 @@ def get_recipes(
         "items": recipes,
         "page": page,
         "limit": limit,
-        "totalItems": query.count(),  # Calculate database count
+        "totalItems": query.count(),
         "totalPages": (query.count() + limit - 1) // limit,
     }
 
@@ -101,25 +121,22 @@ def get_recipe_categories(db: Session = Depends(get_db)):
 @router.post("/recipes/search-by-ingredients")
 def search_recipes_by_ingredients(
     request_data: IngredientSearchRequest,
-    category: int | None = None,  # This is for recipes category filtering, if needed
+    category: int | None = None,
     page: int = 1,
     limit: int = 10,
     db: Session = Depends(get_db),
 ):
-    ingredient_ids = request_data.ingredientIds  # adjust to match your schema setup
+    ingredient_ids = request_data.ingredientIds
 
     if not ingredient_ids:
         raise HTTPException(status_code=400, detail="Ingredient IDs are required.")
 
-    # Convert Python list to a safe SQL-compatible string format: (1, 2, 3)
-    # If there's only 1 item, trailing comma avoids syntax issues in SQL 'IN' clauses
     ids_tuple = (
         f"({', '.join(map(str, ingredient_ids))})"
         if len(ingredient_ids) > 1
         else f"({ingredient_ids[0]})"
     )
 
-    # Raw SQL Query doing all ranking, counting, and sorting in SQLite memory
     sql_query = text(f"""
         SELECT r.*,
                COUNT(DISTINCT CASE WHEN di.ingredient_id IN {ids_tuple} THEN di.ingredient_id END) AS existing,
@@ -141,10 +158,8 @@ def search_recipes_by_ingredients(
     # 2. Iterate through the results and map them to full Recipe objects
     recipes = []
     for row in result:
-        # Fix: Use row._mapping to safely read the 'id' by its string name
         recipe_id = row._mapping["id"]
 
-        # Only fetch recipes if it belong to the specified category (if provided)
         if category and category != 0:
             recipe_category = (
                 db.query(RecipeCategoryMapping)
@@ -185,7 +200,6 @@ def create_custom_recipe(
     db.commit()
     db.refresh(db_custom_recipe)
 
-    # Add ingredients to the custom recipe
     for ingredient in custom_recipe.ingredients:
         db_ingredient = CustomDishIngredient(
             recipe_id=db_custom_recipe.id,
@@ -405,7 +419,6 @@ def get_recipe_by_id(recipe_id: int, db: Session = Depends(get_db)):
         categories=categories,
     )
 
-    print(f"Recipe response: {recipe_response}")  # Debugging line
     return recipe_response
 
 
@@ -459,8 +472,8 @@ def get_custom_recipe_by_id(
             .default_unit
         )
         ingredient_calories = (
-            db.query(Ingredient).
-            filter(Ingredient.id == ingredient.ingredient_id)
+            db.query(Ingredient)
+            .filter(Ingredient.id == ingredient.ingredient_id)
             .first()
             .calories
         )
@@ -474,7 +487,7 @@ def get_custom_recipe_by_id(
                 default_quantity=ingredient_default_quantity,
                 default_unit=ingredient_default_unit,
                 image=ingredient_image,
-                calories=ingredient_calories
+                calories=ingredient_calories,
             )
         )
 
@@ -489,11 +502,12 @@ def get_custom_recipe_by_id(
 
     return custom_recipe_response
 
+
 @router.put("/custom-recipes/{recipe_id}")
 def update_custom_recipe(
     recipe: CustomRecipeUpdateSchema,
     db: Session = Depends(get_db),
-    current_user: int = Depends(current_user)
+    current_user: int = Depends(current_user),
 ):
     # Check if the custom recipe exists and belongs to the current user
     db_custom_recipe = (
@@ -528,6 +542,7 @@ def update_custom_recipe(
         db.add(db_ingredient)
 
     db.commit()
+
 
 @router.delete("recipes/{recipe_id}/favorite")
 def unfavorite_recipe(

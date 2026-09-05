@@ -43,18 +43,14 @@ export default function RecipeDetailScreen({
     useCallback(() => {
       const loadRecipe = async () => {
         if (!recipeId) return;
-        console.log(`Loading recipe with ID: ${recipeId}`);
         try {
           setLoading(true);
           setError("");
           setRecipe(null); // Clear old data
 
-          console.log("Fetching data for recipeId:", recipeId);
-
           // 1. Fetch recipe data safely
           try {
             const recipeData = await api.getRecipeById(recipeId);
-            console.log("Recipe data loaded successfully:", recipeData);
             setRecipe(recipeData);
           } catch (recipeError) {
             console.error("Error fetching recipe description (404):", recipeError);

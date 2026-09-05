@@ -4,6 +4,7 @@ WORKDIR /app
 
 COPY requirements.txt ./
 RUN pip install --default-timeout=120 --no-cache-dir -r requirements.txt
+RUN python -c 'from sentence_transformers import SentenceTransformer'
 
 COPY app/ ./app/
 COPY data/databases/ ./data/databases/

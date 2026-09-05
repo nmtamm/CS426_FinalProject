@@ -19,7 +19,6 @@ export default function EditableIngredientCard({
   onDelete,
 }) {
   const [imageError, setImageError] = useState(false);
-  console.log("EditableIngredientCard ingredient:", ingredient);
   const default_quantity = ingredient.default_quantity ?? 0;
   const default_unit = ingredient.default_unit ?? "";
 
