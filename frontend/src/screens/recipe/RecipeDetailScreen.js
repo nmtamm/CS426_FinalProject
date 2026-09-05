@@ -45,7 +45,6 @@ export default function RecipeDetailScreen({
 
       const loadRecipe = async () => {
         if (!recipeId) return;
-
         try {
           setLoading(true);
           setError("");

@@ -175,9 +175,9 @@ def updateFullName(
     return {"message": "Cập nhật tên đầy đủ thành công"}
 
 
-@router.put("/users/me/password")  # Added trailing slash if your frontend uses it
+@router.put("/users/me/password")
 def updatePassword(
-    payload: UpdatePasswordRequest,  # Look for JSON body
+    payload: UpdatePasswordRequest,
     db: Session = Depends(get_db),
     current_user: User = Depends(current_user),
 ):

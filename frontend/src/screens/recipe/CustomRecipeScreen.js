@@ -70,8 +70,6 @@ export default function CustomRecipeScreen({ navigation, route }) {
         setInstruction(
           recipe.instructions ?? ""
         );
-        console.log("Loaded recipe:", recipe);
-        console.log("Loaded ingredients:", recipe.ingredients);
 
         setIngredients(
           (recipe.ingredients ?? []).map(
@@ -266,8 +264,6 @@ export default function CustomRecipeScreen({ navigation, route }) {
       instructions: instruction.trim(),
       image: recipeImage,
     };
-
-    console.log("Saving recipe:", recipeData);
 
     try {
       if (recipeId) {
