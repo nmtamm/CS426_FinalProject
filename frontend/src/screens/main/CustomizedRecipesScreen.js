@@ -122,7 +122,7 @@ export default function CustomizedRecipesScreen({ navigation }) {
           <View style={styles.imageBox}>
             {item.image ? (
               <Image
-                source={item.image}
+                source={{ uri: item.image }}
                 style={styles.recipeImage}
                 resizeMode="cover"
               />
