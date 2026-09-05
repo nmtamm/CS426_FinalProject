@@ -20,12 +20,12 @@ const ITEMS_PER_PAGE = 10;
 
 export default function SearchRecipeByNameScreen({ navigation }) {
   const [searchQuery, setSearchQuery] = useState("");
-  const [selectedCategory, setSelectedCategory] = useState("Tất cả");
+  const [selectedCategory, setSelectedCategory] = useState({ id: 0, name: "Tất cả" });
   const [isCategoryModalOpen, setIsCategoryModalOpen] = useState(false);
   const [currentPage, setCurrentPage] = useState(1);
   const [pageDirection, setPageDirection] = useState(1);
   const [recipes, setRecipes] = useState([]);
-  const [categories, setCategories] = useState(["Tất cả"]);
+  const [categories, setCategories] = useState([{ id: 0, name: "Tất cả" }]);
   const [totalCount, setTotalCount] = useState(0);
   const [totalPages, setTotalPages] = useState(1);
   const [isLoading, setIsLoading] = useState(true);
@@ -34,7 +34,14 @@ export default function SearchRecipeByNameScreen({ navigation }) {
   useEffect(() => {
     api
       .getRecipeCategories()
-      .then(setCategories)
+      .then((result) => {
+        // Safely check and map fields to ensure everything follows the object structure
+        const mapped = [
+          { id: 0, name: "Tất cả" },
+          ...result.map((cat) => ({ id: cat.id, name: cat.name }))
+        ];
+        setCategories(mapped);
+      })
       .catch((requestError) => {
         setError(requestError.message);
       });
@@ -48,7 +55,7 @@ export default function SearchRecipeByNameScreen({ navigation }) {
       try {
         const result = await api.getRecipes({
           search: searchQuery.trim(),
-          category: selectedCategory,
+          category: selectedCategory?.id || 0, // 🌟 Pass the ID number here
           page: currentPage,
           limit: ITEMS_PER_PAGE,
         });
@@ -67,7 +74,8 @@ export default function SearchRecipeByNameScreen({ navigation }) {
       ignore = true;
       clearTimeout(timeout);
     };
-  }, [currentPage, searchQuery, selectedCategory]);
+    // 🌟 Watch the primitive numeric ID here instead of the whole object
+  }, [currentPage, searchQuery, selectedCategory?.id]);
 
   const handleSearchChange = (text) => {
     setSearchQuery(text);
@@ -94,10 +102,10 @@ export default function SearchRecipeByNameScreen({ navigation }) {
   };
 
   return (
-    <ScreenContainer style={{paddingHorizontal: scale(65), paddingTop: scale(55), paddingBottom: scale(130)}}>
+    <ScreenContainer style={{ paddingHorizontal: scale(65), paddingTop: scale(55), paddingBottom: scale(55) }}>
       <View>
         <ScreenHeader
-          title="Tìm nguyên liệu"
+          title="Tìm công thức"
           variant="displaySmall"
           onLeftPress={() => navigation.navigate("MainTabs", { screen: "Dashboard" })}
           LeftIconSvg={HomeIcon}
@@ -113,7 +121,7 @@ export default function SearchRecipeByNameScreen({ navigation }) {
           />
 
           <CategorySelectorField
-            selectedCategory={selectedCategory}
+            selectedCategory={selectedCategory.name}
             onPress={() => setIsCategoryModalOpen(true)}
           />
         </View>

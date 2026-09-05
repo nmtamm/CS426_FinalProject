@@ -167,7 +167,7 @@ export default function SelectedIngredientsDock({
                 <View
                   style={{
                     width: 48,
-                    height: 48,
+                    height: "48",
                     borderRadius: 12,
                     backgroundColor: "white",
                     overflow: "hidden",
@@ -194,7 +194,8 @@ export default function SelectedIngredientsDock({
                   ellipsizeMode="tail"
                   style={{
                     width: 62,
-                    fontSize: 11,
+                    fontSize: 12,
+                    fontFamily: "Nunito_700Bold",
                     color: COLORS.textDark,
                     textAlign: "center",
                   }}

@@ -6,7 +6,7 @@ import {
   TextInput,
   View,
 } from "react-native";
-import { Text } from "react-native-paper";
+import { Text, Icon } from "react-native-paper";
 import { MaterialCommunityIcons } from "@expo/vector-icons";
 import Swipeable from "react-native-gesture-handler/ReanimatedSwipeable";
 
@@ -18,59 +18,54 @@ export default function ReadOnlyIngredientCard({
 }) {
   const [imageError, setImageError] = useState(false);
 
-  const calories = useMemo(() => {
-    const quantity = Number(ingredient.quantity) || 0;
-
-    return Math.round(
-      (ingredient.caloriesPer100 * quantity)
-    );
-  }, [ingredient.quantity, ingredient.caloriesPer100]);
+  const quantity = ingredient.quantity ? Number(ingredient.quantity) : 0;
+  const unit = ingredient.unit || "";
 
   return (
-      <View style={styles.card}>
-        {/* Ingredient image */}
-        <View style={styles.imageContainer}>
+    <View style={styles.card}>
+      {/* Ingredient image */}
+      <View style={styles.imageContainer}>
+        {!imageError && ingredient.image ? (
           <Image
-            source={
-              imageError
-                ? require("../../assets/icons/ingredient-icon.png")
-                : { uri: ingredient.image }
-            }
+            source={{ uri: ingredient.image }}
             style={styles.image}
-            resizeMode="contain"
+            resizeMode="cover"
             onError={() => setImageError(true)}
           />
-        </View>
-
-        {/* Ingredient information */}
-        <View
-            style={{
-              flex: 1,
-              marginLeft: scale(12),
-              marginRight: scale(10),
-              justifyContent: "center",
-            }}
-          >
-            <Text
-              numberOfLines={1}
-              ellipsizeMode="tail"
-              style={styles.name}
-            >
-              {ingredient.name}
-            </Text>
-
-            <Text
-                variant="bodySmall"
-                numberOfLines={1}
-                style={{ color: COLORS.textSecondary, marginTop: 2 }}
-            >
-                {ingredient.category}
-                {ingredient.caloriesPer100g
-                    ? ` • ${ingredient.caloriesPer100g} cal/100 ${ingredient.unit}`
-                    : ""}
-            </Text>
-          </View>
+        ) : (
+          <Icon source="food-variant" size={32} color={COLORS.textSecondary} />
+        )}
       </View>
+
+      {/* Ingredient information */}
+      <View
+        style={{
+          flex: 1,
+          marginLeft: scale(12),
+          marginRight: scale(10),
+          justifyContent: "center",
+        }}
+      >
+        <Text
+          numberOfLines={1}
+          ellipsizeMode="tail"
+          style={styles.name}
+        >
+          {ingredient.name}
+        </Text>
+
+        <Text
+          variant="bodySmall"
+          numberOfLines={1}
+          style={{ color: COLORS.textSecondary, marginTop: 2 }}
+        >
+          {ingredient.category}
+          {ingredient.quantity && ingredient.unit
+            ? ` • ${quantity} ${unit}`
+            : ""}
+        </Text>
+      </View>
+    </View>
   );
 }
 
@@ -113,8 +108,8 @@ const styles = StyleSheet.create({
   },
 
   image: {
-    width: scale(74),
-    height: scale(74),
+    width: "100%",
+    height: "100%",
   },
 
   // ============================

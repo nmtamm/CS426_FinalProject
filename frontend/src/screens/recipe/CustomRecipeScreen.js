@@ -1,6 +1,6 @@
 import { MaterialCommunityIcons } from "@expo/vector-icons";
 import * as ImagePicker from "expo-image-picker";
-import { useMemo, useState } from "react";
+import { useMemo, useEffect, useState } from "react";
 import {
   Alert,
   FlatList,
@@ -24,67 +24,107 @@ import ScreenHeader from "../../components/ScreenHeader";
 import EditableIngredientCard from "../../components/EditableIngredientCard";
 import DeleteConfirmModal from "../../components/DeleteConfirmModal";
 import SaveConfirmModal from "../../components/SaveConfirmModal";
-import { getCustomizedRecipeById, updateCustomizedRecipe, createCustomizedRecipe } from "../../services/customizedRecipeApi";
+import { api } from "../../services/api";
 
-export default function CustomRecipeScreen({
-  navigation,
-  route,
-}) {
-  // Backend integration later:
-  //
-  // Existing recipe:
-  // const recipe = await getCustomizedRecipeById(recipeId);
-  //
-  // New recipe:
-  // await createCustomizedRecipe(recipeData);
-  //
-  // Existing customized recipe:
-  // await updateCustomizedRecipe(recipeId, recipeData);
-  const { recipeId } = route.params ?? {};
+export default function CustomRecipeScreen({ navigation, route }) {
+  const {
+    recipeId,
+    draftRecipe,
+    returnedIngredients,
+    returnedDraftRecipe,
+    returnedFromSearch,
+  } = route.params ?? {};
 
-  // =====================================================
-  // Temporary frontend data
-  // Later replace with data returned from backend.
-  // =====================================================
-
-  const [recipeName, setRecipeName] = useState("Tên món ăn");
+  const [recipeName, setRecipeName] = useState("");
 
   const [recipeImage, setRecipeImage] = useState(null);
 
   const [instruction, setInstruction] = useState("");
 
-  const [ingredients, setIngredients] = useState([
-    {
-      id: "1",
-      name: "Thịt bò",
+  const [ingredients, setIngredients] = useState([]);
 
-      // Amount currently selected by user
-      quantity: "100",
+  const [loading, setLoading] = useState(Boolean(recipeId));
 
-      unit: "g",
+  const [error, setError] = useState("");
 
-      // Calories stored/calculated from DB.
-      // Example:
-      // 250 calories / 100 g
-      caloriesPer100: 250,
-
-      image:
-        "https://example.com/images/beef.png",
-    },
-    {
-      id: "2",
-      name: "Phô mai",
-      quantity: "100",
-      unit: "g",
-      caloriesPer100: 402,
-      image:
-        "https://example.com/images/cheese.png",
-    },
-  ]);
-
-  const [pendingDeleteIngredientId, setPendingDeleteIngredientId] =useState(null);
+  const [pendingDeleteIngredientId, setPendingDeleteIngredientId] = useState(null);
 
   const [showSaveConfirm, setShowSaveConfirm] = useState(false);
+
+  useEffect(() => {
+    if (!recipeId) return;
+    if (returnedFromSearch) return;
+    
+    const loadRecipe = async () => {
+      try {
+        setLoading(true);
+        setError("");
+
+        const recipe =
+          await api.getCustomizedRecipeById(
+            recipeId
+          );
+
+        setRecipeName(recipe.title ?? "");
+        setRecipeImage(recipe.image ?? null);
+        setInstruction(
+          recipe.instructions ?? ""
+        );
+
+        setIngredients(
+          (recipe.ingredients ?? []).map(
+            (ingredient) => ({
+              ...ingredient,
+
+              id: ingredient.id ?? ingredient.ingredientId,
+
+              quantity: String(ingredient.quantity ?? ingredient.default_quantity ?? ""),
+
+              unit: ingredient.unit ?? ingredient.default_unit ?? "",
+
+            }
+
+            )
+          )
+        );
+      } catch (error) {
+        console.error(
+          "Failed to load customized recipe:",
+          error
+        );
+
+        setError(error.message);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    loadRecipe();
+  }, [recipeId, returnedFromSearch]);
+
+
+  useEffect(() => {
+    if (recipeId) return;
+    if (!draftRecipe) return;
+    if (returnedFromSearch) return;
+
+    setRecipeName(draftRecipe.name ?? "");
+    setRecipeImage(draftRecipe.image ?? null);
+    setInstruction(draftRecipe.instruction ?? "");
+    setIngredients(draftRecipe.ingredients ?? []);
+  }, [recipeId, draftRecipe, returnedFromSearch]);
+
+  useEffect(() => {
+    if (!returnedFromSearch) return;
+
+    setIngredients(returnedIngredients ?? []);
+
+    if (returnedDraftRecipe) {
+      setRecipeName(returnedDraftRecipe.name ?? "");
+      setRecipeImage(returnedDraftRecipe.image ?? null);
+      setInstruction(returnedDraftRecipe.instruction ?? "");
+    }
+  }, [returnedFromSearch, returnedIngredients, returnedDraftRecipe]);
 
   // =====================================================
   // Image picker
@@ -134,9 +174,9 @@ export default function CustomRecipeScreen({
       currentIngredients.map((ingredient) =>
         ingredient.id === ingredientId
           ? {
-              ...ingredient,
-              quantity: numericValue,
-            }
+            ...ingredient,
+            quantity: numericValue,
+          }
           : ingredient
       )
     );
@@ -167,9 +207,20 @@ export default function CustomRecipeScreen({
   // =====================================================
 
   const handleAddIngredient = () => {
-    navigation.navigate("SearchIngredient", {
-      from: "CustomRecipe",
-    });
+    navigation.navigate(
+      "SearchIngredient",
+      {
+        from: "CustomRecipe",
+        recipeId,
+        initialSelectedIngredients: ingredients,
+        draftRecipe: {
+          name: recipeName,
+          image: recipeImage,
+          instruction,
+          ingredients,
+        },
+      }
+    );
   };
 
   // =====================================================
@@ -195,35 +246,38 @@ export default function CustomRecipeScreen({
 
     setShowSaveConfirm(true);
   };
-  
+
   const handleSaveRecipe = async () => {
     setShowSaveConfirm(false);
 
     const recipeData = {
-      name: recipeName.trim(),
+      title: recipeName.trim(),
+      id: recipeId,
+      ingredients: ingredients.map(
+        (ingredient) => ({
+          id: ingredient.id,
+          quantity: Number(ingredient.quantity),
+          unit: ingredient.unit,
+        })
+      ),
 
-      ingredients: ingredients.map((ingredient) => ({
-        ingredientId: ingredient.id,
-        quantity: Number(ingredient.quantity),
-        unit: ingredient.unit,
-      })),
-
-      instruction: instruction.trim(),
-
+      instructions: instruction.trim(),
       image: recipeImage,
     };
 
-    console.log("Saving:", recipeData);
+    try {
+      if (recipeId) {
+        await api.updateCustomizedRecipe(recipeId, recipeData);
+      } else {
+        await api.createCustomizedRecipe(recipeData);
+      }
 
-    // Backend integration later:
-    //
-    // if (recipeId) {
-    //   await updateCustomizedRecipe(recipeId, recipeData);
-    // } else {
-    //   await createCustomizedRecipe(recipeData);
-    // }
+      navigation.navigate("SaveSuccessfully");
+    } catch (error) {
+      console.error("Failed to save customized recipe:", error);
 
-    navigation.navigate("SaveSuccessfully");
+      Alert.alert("Lỗi", error.message);
+    }
   };
 
   const renderIngredient = ({ item }) => {
@@ -333,6 +387,19 @@ export default function CustomRecipeScreen({
               }
               textAlign="center"
               maxLength={80}
+              multiline
+            />
+
+            {/* Divider */}
+            <View
+              style={{
+                height: 1.5,
+                backgroundColor: COLORS.secondary,
+                opacity: 0.7,
+                marginTop: 10,
+                marginHorizontal: 16,
+                borderRadius:999,
+              }}
             />
 
             {/* =====================
@@ -442,7 +509,7 @@ const styles = StyleSheet.create({
 
     backgroundColor: COLORS.secondary,
 
-    borderWidth: scale(2),
+    borderWidth: scale(3),
     borderColor: COLORS.black,
     borderRadius: scale(28),
 
@@ -501,7 +568,7 @@ const styles = StyleSheet.create({
 
     color: COLORS.secondary,
 
-    fontSize: scale(38),
+    fontSize: scale(40),
     fontFamily: "Nunito_800ExtraBold",
 
     textAlign: "center",

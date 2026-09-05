@@ -16,11 +16,12 @@ export default function ScreenHeader({
   rightIconName,
   RightIconSvg,
   RightIconSize = 24,
+  rightDisabled = false,
 
   variant = "titleLarge",
   titleClassName,
 }) {
-  const renderButton = ({ onPress, iconName, SvgIcon, iconSize }) => {
+  const renderButton = ({ onPress, iconName, SvgIcon, iconSize, disabled = false }) => {
     if (!onPress || (!iconName && !SvgIcon)) {
       return <View style={{ width: 40, height: 40 }} />;
     }
@@ -28,7 +29,8 @@ export default function ScreenHeader({
     return (
       <Pressable
         hitSlop={8}
-        className="active:opacity-60"
+        disabled={disabled}
+        className={disabled ? "opacity-50" : "active:opacity-60"}
         onPress={onPress}
         style={{
           width: 40,
@@ -90,7 +92,8 @@ export default function ScreenHeader({
         onPress: onRightPress,
         iconName: rightIconName,
         SvgIcon: RightIconSvg,
-        iconSize: RightIconSize
+        iconSize: RightIconSize,
+        disabled: rightDisabled,
       })}
     </View>
   );

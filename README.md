@@ -34,7 +34,14 @@ cp .env.example .env
 uvicorn app.main:app --reload
 ```
 
-API docs: `http://127.0.0.1:8000/docs`. First run imports the scraped catalog into `backend/data/app.db` (gitignored).
+or run with docker
+```
+cd backend
+docker build -t myapp .
+docker run --rm -it --name mycontainer -p 8000:8000 -v path-to-project-directory\backend:/app myapp
+```
+
+Open `http://127.0.0.1:8000/docs` for the interactive API contract. On its first start, the server imports the existing scraped catalog databases into `backend/data/app.db`; this generated file is local runtime data and is not committed.
 
 Default DB is SQLite. For PostgreSQL, set `DATABASE_URL=postgresql+psycopg://USER:PASSWORD@HOST:5432/nutriplan` in `backend/.env` before first run.
 

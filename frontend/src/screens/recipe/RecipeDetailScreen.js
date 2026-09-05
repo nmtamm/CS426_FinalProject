@@ -1,4 +1,4 @@
-import { Button, Text } from "react-native-paper";
+import { Button, Text, Icon } from "react-native-paper";
 import { MaterialCommunityIcons } from "@expo/vector-icons";
 import {
   FlatList,
@@ -8,9 +8,12 @@ import {
   StatusBar,
   StyleSheet,
   View,
+  ScrollView,
+  Alert,
 } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
-import { useState } from "react";
+import { useEffect, useState, useCallback } from "react";
+import { useFocusEffect } from "@react-navigation/native";
 
 import { COLORS } from "../../theme/colors";
 import { scale } from "../../utils/responsive";
@@ -21,7 +24,7 @@ import ScreenContainer from "../../components/ScreenContainer";
 import ScreenHeader from "../../components/ScreenHeader";
 import ReadOnlyIngredientCard from "../../components/ReadOnlyIngredientCard";
 import SaveConfirmModal from "../../components/SaveConfirmModal";
-import { getRecipeById, saveFavouriteRecipe } from "../../services/recipeApi";
+import { api } from "../../services/api";
 
 export default function RecipeDetailScreen({
   navigation,
@@ -29,66 +32,137 @@ export default function RecipeDetailScreen({
 }) {
   const { recipeId } = route.params ?? {};
 
-  // Backend integration later:
-  // const recipe = await getRecipeById(recipeId);
-  const recipe = {
-    id: recipeId ?? "1",
-    name: "Noodle soup",
-
-    image:
-      "https://example.com/images/noodle-soup.png",
-
-    instructionUrl:
-      "https://www.recipetineats.com/",
-
-    ingredients: [
-      {
-        id: "1",
-        name: "Beef",
-        quantity: "100g",
-        calories: "1500cal",
-        image:
-          "https://example.com/images/beef.png",
-      },
-      {
-        id: "2",
-        name: "Noodle",
-        quantity: "200g",
-        calories: "1000cal",
-        image:
-          "https://example.com/images/noodle.png",
-      },
-      {
-        id: "3",
-        name: "Vegetable",
-        quantity: "300g",
-        calories: "300cal",
-        image:
-          "https://example.com/images/vegetable.png",
-      },
-    ],
-  };
+  const [recipe, setRecipe] = useState(null);
+  const [isFavourite, setIsFavourite] = useState(false);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState("");
 
   const [showSaveConfirm, setShowSaveConfirm] = useState(false);
 
+  useFocusEffect(
+    useCallback(() => {
+      let active = true;
+
+      const loadRecipe = async () => {
+        if (!recipeId) return;
+        try {
+          setLoading(true);
+          setError("");
+
+          const [
+            recipeData,
+            favouriteData,
+          ] = await Promise.all([
+            api.getRecipeById(recipeId),
+            api.getFavouriteRecipes(),
+          ]);
+
+          if (!active) return;
+
+          setRecipe(recipeData);
+
+          const favourites =
+            favouriteData?.items ??
+            favouriteData ??
+            [];
+
+          const alreadyFavourite =
+            favourites.some(
+              (item) =>
+                String(item.id) ===
+                String(recipeId)
+            );
+
+          setIsFavourite(
+            alreadyFavourite
+          );
+        } catch (error) {
+          console.error(
+            "Failed to load recipe:",
+            error
+          );
+
+          if (active) {
+            setError(
+              "Không thể tải thông tin công thức."
+            );
+          }
+        } finally {
+          if (active) {
+            setLoading(false);
+          }
+        }
+      };
+
+      loadRecipe();
+
+      return () => {
+        active = false;
+      };
+    }, [recipeId])
+  );
+
+
   const handleSaveRecipe = async () => {
-    setShowSaveConfirm(false);
+    if (!recipe || isFavourite) return;
 
-    // Backend integration later:
-    // await saveFavouriteRecipe(recipe.id);
+    try {
+      await api.saveFavouriteRecipe(recipe.id);
 
-    navigation.navigate("SaveSuccessfully");
+      // If successful:
+      setIsFavourite(true);
+      setShowSaveConfirm(false);
+
+      navigation.navigate("SaveSuccessfully");
+
+    } catch (error) {
+      console.error("Failed to save favourite recipe:", error);
+
+      // First, close the initial confirmation modal
+      setShowSaveConfirm(false);
+
+      // Show the error popup to the user
+      Alert.alert(
+        "Lỗi hệ thống", // Title
+        "Không thể lưu công thức này lúc này. Vui lòng thử lại sau.", // Message
+        [
+          { text: "OK", style: "default" } // Action Button
+        ]
+      );
+    }
   };
 
+  const handleSavePress = () => {
+    if (!recipe) return;
+
+    if (isFavourite) {
+      Alert.alert(
+        "Đã lưu",
+        "Công thức này đã có trong danh sách yêu thích của bạn.",
+        [
+          {
+            text: "OK",
+            style: "default",
+          },
+        ]
+      );
+
+      return;
+    }
+
+    setShowSaveConfirm(true);
+  };
+
+
   const handleOpenInstruction = async () => {
-    if (!recipe.instructionUrl) return;
+    if (!recipe?.instructions) return;
 
     const supported = await Linking.canOpenURL(
-      recipe.instructionUrl
+      recipe.instructions
     );
 
     if (supported) {
-      await Linking.openURL(recipe.instructionUrl);
+      await Linking.openURL(recipe.instructions);
     }
   };
 
@@ -96,13 +170,22 @@ export default function RecipeDetailScreen({
     return <ReadOnlyIngredientCard ingredient={item} />;
   };
 
+  const showIngredients = () => {
+    if (!recipe) return "";
+
+    let mainIngredients = recipe.main_ingredients
+    let supplementIngredients = recipe.supplements
+    let allIngredients = [...mainIngredients, ...supplementIngredients]
+    return allIngredients
+  }
+
   return (
     <ScreenContainer
       contentStyle={styles.content}
     >
 
       <FlatList
-        data={recipe.ingredients}
+        data={recipe?.ingredients ?? []}
         keyExtractor={(item) => item.id}
         renderItem={renderIngredient}
         showsVerticalScrollIndicator={false}
@@ -118,29 +201,60 @@ export default function RecipeDetailScreen({
               LeftIconSvg={BackIcon}
               LeftIconSize="24"
 
-              onRightPress={() => setShowSaveConfirm(true)}
+              onRightPress={handleSavePress}
               RightIconSvg={SaveIcon}
               RightIconSize="24"
             />
 
             {/* Recipe image */}
             <View style={styles.imageCard}>
-              <Image
-                source={{ uri: recipe.image }}
-                style={styles.recipeImage}
-                resizeMode="contain"
-              />
+              {recipe?.image ? (
+                <Image
+                  source={{ uri: recipe.image }}
+                  style={{ width: "100%", height: "100%" }}
+                  resizeMode="cover"
+                />
+              ) : (
+                <Icon source="food" size={32} color={COLORS.textSecondary} />
+              )}
             </View>
 
             {/* Recipe name */}
             <Text style={styles.recipeName}>
-              {recipe.name}
+              {recipe?.title ?? ""}
             </Text>
+
+            {/* Divider */}
+            <View
+              style={{
+                height: 1.5,
+                backgroundColor: COLORS.secondary,
+                opacity: 0.7,
+                marginTop: 10,
+                marginHorizontal: 16,
+                borderRadius:999,
+              }}
+            />
 
             {/* Ingredient title */}
             <Text style={styles.sectionTitle}>
               Nguyên liệu:
             </Text>
+
+            {showIngredients().length === 0 ? (
+              <Text style={styles.ingredientInfo}>
+                Không có nguyên liệu nào được liệt kê.
+              </Text>
+            ) : (
+              <View style={styles.ingredientsContainer}>
+                {showIngredients().map((ingredient) => (
+                  <ReadOnlyIngredientCard
+                    key={ingredient.id}
+                    ingredient={ingredient}
+                  />
+                ))}
+              </View>
+            )}
           </>
         }
 
@@ -158,7 +272,7 @@ export default function RecipeDetailScreen({
               ]}
             >
               <Text style={styles.url}>
-                {recipe.instructionUrl}
+                {recipe?.instructions ?? ""}
               </Text>
             </Pressable>
           </>
@@ -199,7 +313,7 @@ const styles = StyleSheet.create({
 
     backgroundColor: COLORS.secondary,
 
-    borderWidth: scale(2),
+    borderWidth: scale(3),
     borderColor: COLORS.black,
     borderRadius: scale(28),
 
@@ -323,11 +437,11 @@ const styles = StyleSheet.create({
   },
 
   url: {
-    color: COLORS.secondary,
+    color: COLORS.primary,
 
     fontSize: scale(25),
 
-    textDecorationLine: "none",
+    textDecorationLine: "underline",
   },
 
   // =====================================================

@@ -25,15 +25,29 @@ function queryString(parameters) {
 
 async function request(path, options = {}) {
   const headers = { Accept: "application/json", ...options.headers };
-  if (options.body) headers["Content-Type"] = "application/json";
+
+  // 🌟 FIX 1: Create a safe mutable copy of options
+  const fetchOptions = { ...options };
+
+  if (fetchOptions.body) {
+    headers["Content-Type"] = "application/json";
+
+    // 🌟 FIX 2: Automatically stringify bodies if they are objects
+    if (typeof fetchOptions.body === "object") {
+      fetchOptions.body = JSON.stringify(fetchOptions.body);
+    }
+  }
+
   if (authToken) headers.Authorization = `Bearer ${authToken}`;
 
   let response;
   try {
-    response = await fetch(`${API_BASE_URL}${path}`, { ...options, headers });
+    // 🌟 FIX 3: Pass fetchOptions instead of raw options
+    response = await fetch(`${API_BASE_URL}${path}`, { ...fetchOptions, headers });
   } catch {
     throw new Error(`Không thể kết nối API tại ${API_BASE_URL}`);
   }
+
   const payload = await response.json().catch(() => null);
   if (!response.ok) {
     const detail = payload?.detail;
@@ -48,7 +62,7 @@ async function request(path, options = {}) {
 async function authenticate(endpoint, username, password) {
   const result = await request(endpoint, {
     method: "POST",
-    body: JSON.stringify({ username: username.trim(), password }),
+    body: { username: username.trim(), password }, // Passed cleanly as object
   });
   setAuthToken(result.token);
   return result;
@@ -64,9 +78,69 @@ export const api = {
     request(`/api/ingredients${queryString(parameters)}`),
   getRecipeCategories: () => request("/api/recipes/categories"),
   getRecipes: (parameters) => request(`/api/recipes${queryString(parameters)}`),
-  searchRecipesByIngredients: ({ ingredientIds, ...parameters }) =>
+
+  getRecipeById: (recipeId) => request(`/api/recipes/${recipeId}`),
+
+  // Favourite recipes
+  getFavouriteRecipes: () => request("/api/recipes/favorites"),
+
+  isFavouriteRecipe: (recipeId) => request(`/api/recipe/${recipeId}/favourite`),
+
+  saveFavouriteRecipe: (recipeId) =>
+    request(`/api/recipes/${recipeId}/favorite`, {
+      method: "POST",
+      body: {},
+    }),
+
+  removeFavouriteRecipe: (recipeId) =>
+    request(`/api/recipes/${recipeId}/favorite`, {
+      method: "DELETE",
+    }),
+
+  // Customized recipes
+  getCustomizedRecipes: () => request("/api/custom-recipes"), // 🌟 Standardized to GET (no body)
+
+  getCustomizedRecipeById: (recipeId) => request(`/api/custom-recipes/${recipeId}`), // 🌟 Standardized to GET (no body)
+
+  createCustomizedRecipe: (recipeData) =>
+    request("/api/custom-recipes", {
+      method: "POST",
+      body: recipeData, // Object maps smoothly now!
+    }),
+
+  updateCustomizedRecipe: (recipeId, recipeData) =>
+    request(`/api/custom-recipes/${recipeId}`, {
+      method: "PUT",
+      body: recipeData,
+    }),
+
+  deleteCustomizedRecipe: (recipeId) =>
+    request(`/api/custom-recipes/${recipeId}`, {
+      method: "DELETE",
+    }),
+
+  searchRecipesByIngredients: (ingredientIds, parameters = {}) =>
     request(`/api/recipes/search-by-ingredients${queryString(parameters)}`, {
       method: "POST",
-      body: JSON.stringify({ ingredientIds }),
+      body: { ingredientIds },
+    }),
+
+  // Profile
+  getProfile: () => request("/api/users/me"),
+
+  updateFullName: (fullName) =>
+    request("/api/users/me", {
+      method: "PUT",
+      body: {
+        fullName: fullName.trim(),
+      },
+    }),
+
+  updatePassword: (password) =>
+    request("/api/users/me/password", {
+      method: "PUT",
+      body: {
+        password,
+      },
     }),
 };

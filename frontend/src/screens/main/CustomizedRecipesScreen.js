@@ -1,5 +1,6 @@
 import { MaterialCommunityIcons } from "@expo/vector-icons";
-import { useRef, useState } from "react";
+import { useRef, useCallback, useState } from "react";
+import { useFocusEffect } from "@react-navigation/native";
 import {
   FlatList,
   Image,
@@ -8,7 +9,7 @@ import {
   StyleSheet,
   View,
 } from "react-native";
-import { Text } from "react-native-paper";
+import { Text, Icon } from "react-native-paper";
 import { SafeAreaView } from "react-native-safe-area-context";
 import Swipeable from "react-native-gesture-handler/ReanimatedSwipeable";
 
@@ -17,46 +18,39 @@ import { scale } from "../../utils/responsive";
 import ScreenContainer from "../../components/ScreenContainer";
 import ScreenHeader from "../../components/ScreenHeader";
 import DeleteConfirmModal from "../../components/DeleteConfirmModal";
-import { getCustomizedRecipes, deleteCustomizedRecipe } from "../../services/customizedRecipeApi";
+import { api } from "../../services/api";
 
 export default function CustomizedRecipesScreen({ navigation }) {
-  // Temporary frontend mock data.
-  // Backend later:
-  // const recipes = await getCustomizedRecipes();
-  const [recipes, setRecipes] = useState([
-    {
-      id: "1",
-      name: "Món ăn",
-      image: require("../../../assets/icons/dish-icon.png"),
-    },
-    {
-      id: "2",
-      name: "Món ăn",
-      image: require("../../../assets/icons/dish-icon.png"),
-    },
-    {
-      id: "3",
-      name: "Món ăn",
-      image: require("../../../assets/icons/dish-icon.png"),
-    },
-    {
-      id: "4",
-      name: "Món ăn",
-      image: require("../../../assets/icons/dish-icon.png"),
-    },
-    {
-      id: "5",
-      name: "Món ăn",
-      image: require("../../../assets/icons/dish-icon.png"),
-    },
-    {
-      id: "7",
-      name: "Món ăn",
-      image: require("../../../assets/icons/dish-icon.png"),
-    },
-  ]);
+  const [recipes, setRecipes] = useState([]);
+
+  const [loading, setLoading] = useState(true);
+
+  const [error, setError] = useState("");
 
   const [pendingDeleteId, setPendingDeleteId] = useState(null);
+
+  useFocusEffect(
+    useCallback(() => {
+      const loadRecipes = async () => {
+        try {
+          setLoading(true);
+          setError("");
+
+          const data = await api.getCustomizedRecipes();
+
+          setRecipes(data.items ?? data ?? []);
+        } catch (error) {
+          console.error("Failed to load customized recipes:", error);
+
+          setError(error.message);
+        } finally {
+          setLoading(false);
+        }
+      };
+
+      loadRecipes();
+    }, [])
+  );
 
   const handleRecipePress = (recipe) => {
     navigation.navigate("CustomRecipe", {
@@ -68,13 +62,24 @@ export default function CustomizedRecipesScreen({ navigation }) {
     setPendingDeleteId(id);
   };
 
-  const handleDelete = () => {
+  const handleDelete = async () => {
     if (pendingDeleteId === null) return;
 
     const recipeId = pendingDeleteId;
 
-    // Backend integration later:
-    // await deleteCustomizedRecipe(recipeId);
+    try {
+      await api.deleteCustomizedRecipe(recipeId);
+
+      setRecipes((prev) =>
+        prev.filter((recipe) => recipe.id !== recipeId)
+      );
+
+      setPendingDeleteId(null);
+    } catch (error) {
+      console.error("Failed to delete recipe:", error);
+
+      Alert.alert("Lỗi", error.message);
+    }
 
     setRecipes((prev) =>
       prev.filter((recipe) => recipe.id !== recipeId)
@@ -85,21 +90,21 @@ export default function CustomizedRecipesScreen({ navigation }) {
 
   const renderRecipe = ({ item }) => {
     const renderRightActions = () => {
-        return (
-          <Pressable
-            style={styles.deleteButton}
-            onPress={() => requestDelete(item.id)}
-            hitSlop={8}
-            className="active:opacity-60"
-          >
-            <MaterialCommunityIcons
-              name="trash-can-outline"
-              size={scale(50)}
-              color={COLORS.red}
-            />
-          </Pressable>
-        );
-      };
+      return (
+        <Pressable
+          style={styles.deleteButton}
+          onPress={() => requestDelete(item.id)}
+          hitSlop={8}
+          className="active:opacity-60"
+        >
+          <MaterialCommunityIcons
+            name="trash-can-outline"
+            size={scale(50)}
+            color={COLORS.red}
+          />
+        </Pressable>
+      );
+    };
 
     return (
       <Swipeable
@@ -115,12 +120,14 @@ export default function CustomizedRecipesScreen({ navigation }) {
           className="active:scale-105"
         >
           <View style={styles.imageBox}>
-            {item.image && (
+            {item.image ? (
               <Image
                 source={item.image}
                 style={styles.recipeImage}
-                resizeMode="contain"
+                resizeMode="cover"
               />
+            ) : (
+              <Icon source="food" size={32} color={COLORS.textSecondary} />
             )}
           </View>
 
@@ -130,7 +137,7 @@ export default function CustomizedRecipesScreen({ navigation }) {
               numberOfLines={2}
               ellipsizeMode="tail"
             >
-              {item.name}
+              {item.title}
             </Text>
           </View>
         </Pressable>
@@ -157,6 +164,11 @@ export default function CustomizedRecipesScreen({ navigation }) {
           renderItem={renderRecipe}
           showsVerticalScrollIndicator={true}
           contentContainerStyle={styles.listContent}
+          ListEmptyComponent={
+            <Text>
+              Chưa có công thức tuỳ chỉnh.
+            </Text>
+          }
         />
       </View>
 
@@ -224,7 +236,7 @@ const styles = StyleSheet.create({
 
     backgroundColor: COLORS.third,
 
-    borderWidth: scale(2),
+    borderWidth: scale(3),
     borderColor: COLORS.black,
     borderRadius: scale(26),
 
@@ -244,15 +256,16 @@ const styles = StyleSheet.create({
     justifyContent: "center",
     alignItems: "center",
 
-    borderRightWidth: scale(2),
+    borderRightWidth: scale(3),
     borderRightColor: COLORS.black,
 
     borderRadius: scale(26),
+    overflow: "hidden",
   },
 
   recipeImage: {
-    width: scale(135),
-    height: scale(135),
+    width: "100%",
+    height: "100%",
   },
 
   // =========================
@@ -292,7 +305,7 @@ const styles = StyleSheet.create({
 
     backgroundColor: COLORS.lightRed,
 
-    borderWidth: scale(2),
+    borderWidth: scale(3),
     borderColor: COLORS.black,
     borderRadius: scale(26),
   },

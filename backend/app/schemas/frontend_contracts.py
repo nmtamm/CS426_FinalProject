@@ -52,3 +52,11 @@ class RecipePage(BaseModel):
     limit: int
     total: int
     totalPages: int
+
+
+class UpdateNameRequest(BaseModel):
+    fullName: str
+
+
+class UpdatePasswordRequest(BaseModel):
+    password: str = Field(min_length=6, max_length=128)

@@ -274,6 +274,7 @@ export default function RegisterScreen({ navigation }) {
           color: COLORS.primary,
           fontSize: 24,
           fontFamily: "Nunito_800ExtraBold",
+          lineHeight: 28,
         }}
         style={{
           backgroundColor: COLORS.secondary,
@@ -298,7 +299,11 @@ export default function RegisterScreen({ navigation }) {
         <Text style={{ color: COLORS.secondary, fontSize: 16 }}>
           Đã có tài khoản?{" "}
         </Text>
-        <Pressable onPress={() => navigation.navigate("Login")}>
+        <Pressable 
+          onPress={() => navigation.navigate("Login")}
+          hitSlop={8}
+          className="active:opacity-60"
+        >
           <Text
             style={{
               color: COLORS.primary,

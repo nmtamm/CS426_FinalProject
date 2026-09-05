@@ -1,5 +1,6 @@
 import { MaterialCommunityIcons } from "@expo/vector-icons";
-import { useRef, useState } from "react";
+import { useCallback, useState } from "react";
+import { useFocusEffect } from "@react-navigation/native";
 import {
   FlatList,
   Image,
@@ -17,47 +18,45 @@ import { scale } from "../../utils/responsive";
 import ScreenContainer from "../../components/ScreenContainer";
 import ScreenHeader from "../../components/ScreenHeader";
 import DeleteConfirmModal from "../../components/DeleteConfirmModal";
-import { getFavouriteRecipes, removeFavouriteRecipe } from "../../services/recipeApi";
+import { api } from "../../services/api";
 
 export default function FavouriteRecipesScreen({ navigation }) {
-  // Temporary frontend mock data.
-  //
-  // Backend later:
-  // const recipes = await getFavouriteRecipes();
-  const [recipes, setRecipes] = useState([
-    {
-      id: "1",
-      name: "Món ăn",
-      image: require("../../../assets/icons/dish-icon.png"),
-    },
-    {
-      id: "2",
-      name: "Món ăn",
-      image: require("../../../assets/icons/dish-icon.png"),
-    },
-    {
-      id: "3",
-      name: "Món ăn",
-      image: require("../../../assets/icons/dish-icon.png"),
-    },
-    {
-      id: "4",
-      name: "Món ăn",
-      image: require("../../../assets/icons/dish-icon.png"),
-    },
-    {
-      id: "5",
-      name: "Món ăn",
-      image: require("../../../assets/icons/dish-icon.png"),
-    },
-    {
-      id: "7",
-      name: "Món ăn",
-      image: require("../../../assets/icons/dish-icon.png"),
-    },
-  ]);
-
+  const [recipes, setRecipes] = useState([]);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState("");
   const [pendingDeleteId, setPendingDeleteId] = useState(null);
+
+  useFocusEffect(
+    useCallback(() => {
+      const loadFavouriteRecipes = async () => {
+        try {
+          setLoading(true);
+          setError("");
+
+          const data = await api.getFavouriteRecipes();
+          const favouriteRecipes = data?.items ?? data ?? [];
+
+          setRecipes(
+            favouriteRecipes.map(
+              (recipe) => ({
+                ...recipe,
+
+                name: recipe.name ?? recipe.title ?? "",
+              })
+            )
+          );
+        } catch (error) {
+          console.error("Failed to load favourite recipes:", error);
+
+          setError(error.message);
+        } finally {
+          setLoading(false);
+        }
+      };
+
+      loadFavouriteRecipes();
+    }, [])
+  );
 
   const handleRecipePress = (recipe) => {
     navigation.navigate("RecipeDetail", {
@@ -69,17 +68,19 @@ export default function FavouriteRecipesScreen({ navigation }) {
     setPendingDeleteId(id);
   };
 
-  const handleDelete = () => {
+  const handleDelete = async () => {
     if (pendingDeleteId === null) return;
 
-    setRecipes((prev) =>
-      prev.filter((recipe) => recipe.id !== pendingDeleteId)
-    );
+    try {
+      await api.removeFavouriteRecipe(pendingDeleteId);
 
-    // Backend integration later:
-    // await removeFavouriteRecipe(recipeId);
+      setRecipes((prev) =>
+        prev.filter((recipe) => recipe.id !== pendingDeleteId));
 
-    setPendingDeleteId(null);
+      setPendingDeleteId(null);
+    } catch (error) {
+      console.error("Failed to remove favourite recipe:", error);
+    }
   };
 
   const renderRecipe = ({ item }) => {
@@ -116,9 +117,9 @@ export default function FavouriteRecipesScreen({ navigation }) {
           <View style={styles.imageBox}>
             {item.image && (
               <Image
-                source={item.image}
+                source={{ uri: item.image }}
                 style={styles.recipeImage}
-                resizeMode="contain"
+                resizeMode="cover"
               />
             )}
           </View>
@@ -157,6 +158,11 @@ export default function FavouriteRecipesScreen({ navigation }) {
           renderItem={renderRecipe}
           showsVerticalScrollIndicator={true}
           contentContainerStyle={styles.listContent}
+          ListEmptyComponent={
+            <Text>
+              Chưa có công thức yêu thích.
+            </Text>
+          }
         />
       </View>
 
@@ -224,7 +230,7 @@ const styles = StyleSheet.create({
 
     backgroundColor: COLORS.third,
 
-    borderWidth: scale(2),
+    borderWidth: scale(3),
     borderColor: COLORS.black,
     borderRadius: scale(26),
 
@@ -244,15 +250,16 @@ const styles = StyleSheet.create({
     justifyContent: "center",
     alignItems: "center",
 
-    borderRightWidth: scale(2),
+    borderRightWidth: scale(3),
     borderRightColor: COLORS.black,
 
     borderRadius: scale(26),
+    overflow: "hidden",
   },
 
   recipeImage: {
-    width: scale(135),
-    height: scale(135),
+    width: "100%", 
+    height: "100%", 
   },
 
   // =========================
@@ -292,7 +299,7 @@ const styles = StyleSheet.create({
 
     backgroundColor: COLORS.lightRed,
 
-    borderWidth: scale(2),
+    borderWidth: scale(3),
     borderColor: COLORS.black,
     borderRadius: scale(26),
   },
