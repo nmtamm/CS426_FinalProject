@@ -53,7 +53,7 @@ export default function IngredientCard({
                 onError={() => setImageError(true)}
               />
             ) : (
-              <Icon source="food-apple" size={28} color="#94a3b8" />
+              <Icon source="food-variant" size={28} color="#94a3b8" />
             )}
           </View>
 
@@ -78,7 +78,7 @@ export default function IngredientCard({
             >
               {ingredient.category}
               {ingredient.calories !== undefined
-                ? ` • ${ingredient.calories} kcal/100g`
+                ? ` • ${ingredient.calories} kcal/${ingredient.default_quantity}${ingredient.default_unit}`
                 : ""}
             </Text>
           </View>

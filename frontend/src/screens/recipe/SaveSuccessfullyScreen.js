@@ -77,10 +77,10 @@ export default function SaveSuccessfullyScreen({ navigation, route }) {
       <Button
         mode="contained"
         onPress={handleBack}
-        labelStyle={{ color: COLORS.background, fontSize: 15, fontFamily: "Nunito_800ExtraBold" }}
+        labelStyle={{ color: COLORS.primary, fontSize: 15, fontFamily: "Nunito_800ExtraBold" }}
         style={{
           backgroundColor: COLORS.secondary,
-          borderRadius: 999,
+          borderRadius: 12,
           paddingHorizontal: 8,
         }}
       >

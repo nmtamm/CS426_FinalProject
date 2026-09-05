@@ -391,6 +391,19 @@ export default function CustomRecipeScreen({ navigation, route }) {
               }
               textAlign="center"
               maxLength={80}
+              multiline
+            />
+
+            {/* Divider */}
+            <View
+              style={{
+                height: 1.5,
+                backgroundColor: COLORS.secondary,
+                opacity: 0.7,
+                marginTop: 10,
+                marginHorizontal: 16,
+                borderRadius:999,
+              }}
             />
 
             {/* =====================
@@ -500,7 +513,7 @@ const styles = StyleSheet.create({
 
     backgroundColor: COLORS.secondary,
 
-    borderWidth: scale(2),
+    borderWidth: scale(3),
     borderColor: COLORS.black,
     borderRadius: scale(28),
 
@@ -559,7 +572,7 @@ const styles = StyleSheet.create({
 
     color: COLORS.secondary,
 
-    fontSize: scale(38),
+    fontSize: scale(40),
     fontFamily: "Nunito_800ExtraBold",
 
     textAlign: "center",

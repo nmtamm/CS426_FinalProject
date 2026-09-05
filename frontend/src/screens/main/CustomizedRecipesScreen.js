@@ -9,7 +9,7 @@ import {
   StyleSheet,
   View,
 } from "react-native";
-import { Text } from "react-native-paper";
+import { Text, Icon } from "react-native-paper";
 import { SafeAreaView } from "react-native-safe-area-context";
 import Swipeable from "react-native-gesture-handler/ReanimatedSwipeable";
 
@@ -120,12 +120,14 @@ export default function CustomizedRecipesScreen({ navigation }) {
           className="active:scale-105"
         >
           <View style={styles.imageBox}>
-            {item.image && (
+            {item.image ? (
               <Image
                 source={item.image}
                 style={styles.recipeImage}
-                resizeMode="contain"
+                resizeMode="cover"
               />
+            ) : (
+              <Icon source="food" size={32} color={COLORS.textSecondary} />
             )}
           </View>
 
@@ -161,6 +163,7 @@ export default function CustomizedRecipesScreen({ navigation }) {
           keyExtractor={(item) => item.id}
           renderItem={renderRecipe}
           showsVerticalScrollIndicator={true}
+          contentContainerStyle={styles.listContent}
           ListEmptyComponent={
             <Text>
               Chưa có công thức tuỳ chỉnh.
@@ -233,7 +236,7 @@ const styles = StyleSheet.create({
 
     backgroundColor: COLORS.third,
 
-    borderWidth: scale(2),
+    borderWidth: scale(3),
     borderColor: COLORS.black,
     borderRadius: scale(26),
 
@@ -253,15 +256,16 @@ const styles = StyleSheet.create({
     justifyContent: "center",
     alignItems: "center",
 
-    borderRightWidth: scale(2),
+    borderRightWidth: scale(3),
     borderRightColor: COLORS.black,
 
     borderRadius: scale(26),
+    overflow: "hidden",
   },
 
   recipeImage: {
-    width: scale(135),
-    height: scale(135),
+    width: "100%",
+    height: "100%",
   },
 
   // =========================
@@ -301,7 +305,7 @@ const styles = StyleSheet.create({
 
     backgroundColor: COLORS.lightRed,
 
-    borderWidth: scale(2),
+    borderWidth: scale(3),
     borderColor: COLORS.black,
     borderRadius: scale(26),
   },

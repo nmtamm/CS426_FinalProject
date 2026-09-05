@@ -181,20 +181,6 @@ export default function LoginScreen({ navigation }) {
         ) : null}
       </View>
 
-      {/* Forgot Password Link */}
-      <Text
-        style={{
-          color: COLORS.primary,
-          fontSize: 14,
-          fontFamily: "Nunito_700Bold",
-          textAlign: "right",
-          marginBottom: 32,
-          textDecorationLine: "underline",
-        }}
-      >
-        Quên mật khẩu?
-      </Text>
-
       {/* Login Button */}
       {errors.general ? (
         <Text
@@ -216,6 +202,7 @@ export default function LoginScreen({ navigation }) {
           color: COLORS.primary,
           fontSize: 24,
           fontFamily: "Nunito_800ExtraBold",
+          lineHeight: 28,
         }}
         style={{
           backgroundColor: COLORS.secondary,
@@ -239,7 +226,11 @@ export default function LoginScreen({ navigation }) {
         <Text style={{ color: COLORS.secondary, fontSize: 16 }}>
           Chưa có tài khoản?{" "}
         </Text>
-        <Pressable onPress={() => navigation.navigate("Register")}>
+        <Pressable 
+          onPress={() => navigation.navigate("Register")}
+          hitSlop={8}
+          className="active:opacity-60"
+        >
           <Text
             style={{
               color: COLORS.primary,

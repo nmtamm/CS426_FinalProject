@@ -119,7 +119,7 @@ export default function FavouriteRecipesScreen({ navigation }) {
               <Image
                 source={{ uri: item.image }}
                 style={styles.recipeImage}
-                resizeMode="contain"
+                resizeMode="cover"
               />
             )}
           </View>
@@ -230,7 +230,7 @@ const styles = StyleSheet.create({
 
     backgroundColor: COLORS.third,
 
-    borderWidth: scale(2),
+    borderWidth: scale(3),
     borderColor: COLORS.black,
     borderRadius: scale(26),
 
@@ -250,15 +250,16 @@ const styles = StyleSheet.create({
     justifyContent: "center",
     alignItems: "center",
 
-    borderRightWidth: scale(2),
+    borderRightWidth: scale(3),
     borderRightColor: COLORS.black,
 
     borderRadius: scale(26),
+    overflow: "hidden",
   },
 
   recipeImage: {
-    width: scale(135),
-    height: scale(135),
+    width: "100%", 
+    height: "100%", 
   },
 
   // =========================
@@ -298,7 +299,7 @@ const styles = StyleSheet.create({
 
     backgroundColor: COLORS.lightRed,
 
-    borderWidth: scale(2),
+    borderWidth: scale(3),
     borderColor: COLORS.black,
     borderRadius: scale(26),
   },

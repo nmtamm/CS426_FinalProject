@@ -1,4 +1,4 @@
-import { Button, Text } from "react-native-paper";
+import { Button, Text, Icon } from "react-native-paper";
 import { MaterialCommunityIcons } from "@expo/vector-icons";
 import {
   FlatList,
@@ -209,19 +209,33 @@ export default function RecipeDetailScreen({
 
             {/* Recipe image */}
             <View style={styles.imageCard}>
-              {recipe?.image && (
+              {recipe?.image ? (
                 <Image
                   source={{ uri: recipe.image }}
-                  style={styles.recipeImage}
-                  resizeMode="contain"
+                  style={{ width: "100%", height: "100%" }}
+                  resizeMode="cover"
                 />
+              ) : (
+                <Icon source="food" size={32} color={COLORS.textSecondary} />
               )}
             </View>
 
             {/* Recipe name */}
             <Text style={styles.recipeName}>
-              {recipe?.name ?? ""}
+              {recipe?.title ?? ""}
             </Text>
+
+            {/* Divider */}
+            <View
+              style={{
+                height: 1.5,
+                backgroundColor: COLORS.secondary,
+                opacity: 0.7,
+                marginTop: 10,
+                marginHorizontal: 16,
+                borderRadius:999,
+              }}
+            />
 
             {/* Ingredient title */}
             <Text style={styles.sectionTitle}>
@@ -300,7 +314,7 @@ const styles = StyleSheet.create({
 
     backgroundColor: COLORS.secondary,
 
-    borderWidth: scale(2),
+    borderWidth: scale(3),
     borderColor: COLORS.black,
     borderRadius: scale(28),
 

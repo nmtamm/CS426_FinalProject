@@ -6,7 +6,7 @@ import {
   TextInput,
   View,
 } from "react-native";
-import { Text } from "react-native-paper";
+import { Text, Icon } from "react-native-paper";
 import { MaterialCommunityIcons } from "@expo/vector-icons";
 import Swipeable from "react-native-gesture-handler/ReanimatedSwipeable";
 
@@ -56,16 +56,16 @@ export default function EditableIngredientCard({
       <View style={styles.card}>
         {/* Ingredient image */}
         <View style={styles.imageContainer}>
-          <Image
-            source={
-              imageError
-                ? require("../../assets/icons/ingredient-icon.png")
-                : { uri: ingredient.image }
-            }
-            style={styles.image}
-            resizeMode="contain"
-            onError={() => setImageError(true)}
-          />
+          {!imageError && ingredient.image ? (
+            <Image
+              source={{ uri: ingredient.image }}
+              style={styles.image}
+              resizeMode="cover"
+              onError={() => setImageError(true)}
+            />
+          ) : (
+            <Icon source="food-variant" size={32} color={COLORS.textSecondary} />
+          )}
         </View>
 
         {/* Ingredient information */}
@@ -146,7 +146,7 @@ export default function EditableIngredientCard({
                 color: COLORS.primary,
               }}
             >
-              {ingredient.unit}
+              {default_unit}
             </Text>
           </View>
 
@@ -211,8 +211,8 @@ const styles = StyleSheet.create({
   },
 
   image: {
-    width: scale(74),
-    height: scale(74),
+    width: "100%",
+    height: "100%",
   },
 
   // ============================

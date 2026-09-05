@@ -105,7 +105,7 @@ export default function SearchRecipeByNameScreen({ navigation }) {
     <ScreenContainer style={{ paddingHorizontal: scale(65), paddingTop: scale(55), paddingBottom: scale(130) }}>
       <View>
         <ScreenHeader
-          title="Tìm nguyên liệu"
+          title="Tìm công thức"
           variant="displaySmall"
           onLeftPress={() => navigation.navigate("MainTabs", { screen: "Dashboard" })}
           LeftIconSvg={HomeIcon}
