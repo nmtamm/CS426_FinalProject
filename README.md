@@ -71,3 +71,6 @@ With all flags: ~20 MB. With none: 200+ MB (4 architectures, unminified, uncompr
 
 **Windows path-length limit:** `react-native-gesture-handler`'s codegen can exceed 260 characters if the repo path is long. `LongPathsEnabled=1` does not fix this — the SDK's bundled Ninja predates Windows long-path support. Fix: replace `<sdk>/cmake/<version>/bin/ninja.exe` with a build ≥1.11 from https://github.com/ninja-build/ninja/releases.
 ```
+
+## Demo
+Check out our demo here: [Demo](https://drive.google.com/file/d/1ieDwf8MvGjAR3O9WAufYqqswLc7p4wuk/view?usp=drive_link)
