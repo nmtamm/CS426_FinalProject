@@ -102,7 +102,7 @@ export default function SearchRecipeByNameScreen({ navigation }) {
   };
 
   return (
-    <ScreenContainer style={{ paddingHorizontal: scale(65), paddingTop: scale(55), paddingBottom: scale(130) }}>
+    <ScreenContainer style={{ paddingHorizontal: scale(65), paddingTop: scale(55), paddingBottom: scale(55) }}>
       <View>
         <ScreenHeader
           title="Tìm công thức"

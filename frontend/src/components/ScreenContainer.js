@@ -6,7 +6,7 @@ import { SafeAreaView } from "react-native-safe-area-context";
 
 export default function ScreenContainer({
   children,
-  edges = ["top", "left", "right"],
+  edges = ["top", "bottom", "left", "right"],
   style,
   contentStyle,
 }) {
