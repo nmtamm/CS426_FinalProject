@@ -3,7 +3,7 @@
 **Course:** CS426 - Mobile Device Application Development
 **Final Project**
 
-Mobile app (React Native / Expo) with a FastAPI backend for ingredient-based recipe discovery, calorie calculation, custom recipes, and favorites.
+React Native (Expo) app with a FastAPI backend for ingredient-based recipe discovery, calorie calculation, custom recipes, and favorites.
 
 ## Group Info
 
@@ -18,44 +18,75 @@ GitHub repository: https://github.com/nmtamm/CS426_Seminar
 
 ## Test Credentials
 
-The database ships with the crawled recipe/ingredient catalog only — no user accounts are pre-seeded. Register a new account from the app's **Register** screen (or `POST /api/auth/register`) before logging in. Any username/password works, for example:
+No accounts are pre-seeded. Register via the app's **Register** screen or `POST /api/auth/register`, then log in with the same credentials. Example:
 
 - Username: `testuser`
 - Password: `testpass123`
 
-## Backend quick start
+## Backend Setup
 
 ```bash
 cd backend
 python -m venv .venv
-source .venv/bin/activate
+source .venv/bin/activate      # Windows: source .venv/Scripts/activate
 pip install -r requirements.txt
 cp .env.example .env
 uvicorn app.main:app --reload
 ```
 
-Open `http://127.0.0.1:8000/docs` for the interactive API contract. On its first start, the server imports the existing scraped catalog databases into `backend/data/app.db`; this generated file is local runtime data and is not committed.
+API docs: `http://127.0.0.1:8000/docs`. First run imports the scraped catalog into `backend/data/app.db` (gitignored).
 
-SQLite is the zero-configuration local default. For PostgreSQL, set `DATABASE_URL=postgresql+psycopg://USER:PASSWORD@HOST:5432/nutriplan` in `backend/.env` before the first startup; the same SQLAlchemy models are used.
+Default DB is SQLite. For PostgreSQL, set `DATABASE_URL=postgresql+psycopg://USER:PASSWORD@HOST:5432/nutriplan` in `backend/.env` before first run.
 
-The Android emulator should use `http://10.0.2.2:8000/` as its base URL. A physical device needs the computer's LAN IP instead.
+Base URL: `http://10.0.2.2:8000` from an Android emulator, LAN IP from a physical device.
 
-## Frontend quick start
+## Frontend Setup (Dev)
 
 ```bash
 cd frontend
 yarn install
-cp .env.example .env   # only needed for a physical device, see below
-yarn start             # opens the Expo dev tools; press "a" for Android, "i" for iOS
+cp .env.example .env    # physical device only, see below
+yarn start               # press "a" for Android, "i" for iOS
 ```
 
-Requires [Expo Go](https://expo.dev/go) on a physical device, or an Android/iOS emulator/simulator. With the backend already running:
+Requires [Expo Go](https://expo.dev/go) on a physical device, or an emulator/simulator, with the backend running.
 
-- Android emulator: no changes needed, it reaches the backend at `http://10.0.2.2:8000` automatically.
-- iOS simulator / web: no changes needed, it uses `http://localhost:8000`.
-- Physical device: edit `frontend/.env` and set `EXPO_PUBLIC_API_URL` to the development machine's LAN IP (e.g. `http://192.168.1.172:8000`), then restart `yarn start`.
+- Android emulator / iOS simulator / web: no config needed.
+- Physical device: set `EXPO_PUBLIC_API_URL` in `frontend/.env` to the backend machine's LAN IP, then restart `yarn start`.
 
-## Initial API
+## Build an APK
+
+```bash
+cd frontend
+npx expo prebuild -p android
+cd android
+./gradlew assembleRelease \
+  -PreactNativeArchitectures=arm64-v8a \
+  -Pandroid.enableMinifyInReleaseBuilds=true \
+  -Pandroid.enableShrinkResourcesInReleaseBuilds=true \
+  -Pexpo.useLegacyPackaging=true
+```
+
+Output: `frontend/android/app/build/outputs/apk/release/app-release.apk`. Signed with the checked-in debug keystore.
+
+Flags (all optional, each reduces APK size):
+
+| Flag | Effect |
+|---|---|
+| `-PreactNativeArchitectures=arm64-v8a` | Build one CPU architecture instead of 4 |
+| `-Pandroid.enableMinifyInReleaseBuilds=true` | R8 code shrinking |
+| `-Pandroid.enableShrinkResourcesInReleaseBuilds=true` | Unused-resource removal |
+| `-Pexpo.useLegacyPackaging=true` | Compress native `.so` libraries |
+
+With all flags: ~20 MB. With none: 200+ MB (4 architectures, unminified, uncompressed).
+
+**Android Studio:** `Build → Build Bundle(s) / APK(s) → Build APK(s)`. Applies the flags above only if set in `frontend/android/gradle.properties`; otherwise builds the unoptimized 200+ MB variant.
+
+**Windows path-length limit:** `react-native-gesture-handler`'s codegen can exceed 260 characters if the repo path is long. `LongPathsEnabled=1` does not fix this — the SDK's bundled Ninja predates Windows long-path support. Fix: replace `<sdk>/cmake/<version>/bin/ninja.exe` with a build ≥1.11 from https://github.com/ninja-build/ninja/releases.
+
+## API Reference
+
+Legacy endpoints (`/api/v1/...`):
 
 - `POST /api/v1/auth/register`, `POST /api/v1/auth/login`, `GET /api/v1/users/me`
 - `GET /api/v1/ingredients`, `GET /api/v1/recipes`, `GET /api/v1/recipes/{id}`
@@ -63,22 +94,18 @@ Requires [Expo Go](https://expo.dev/go) on a physical device, or an Android/iOS 
 - `POST /api/v1/meals/calculate`, `POST /api/v1/meals`, `GET /api/v1/meals/today`
 - `GET|PUT /api/v1/goals`, `POST /api/v1/recommendations`
 
-Calories are calculated deterministically from catalog nutrition values, and recommendations are initially ranked from pantry/recipe overlap. This keeps the core demo useful before adding an LLM or embeddings.
+Calories are computed from catalog nutrition values; recommendations rank by pantry/recipe ingredient overlap.
 
-## Mobile search API
+Mobile endpoints (used by `frontend/src/screens`):
 
-The screens under `frontend/src/screens` use these endpoints:
-
-- `POST /api/auth/register` and `POST /api/auth/login`
-- `GET /api/ingredients` and `GET /api/ingredients/categories`
-- `GET /api/recipes` and `GET /api/recipes/categories`
+- `POST /api/auth/register`, `POST /api/auth/login`
+- `GET /api/ingredients`, `GET /api/ingredients/categories`
+- `GET /api/recipes`, `GET /api/recipes/categories`
 - `POST /api/recipes/search-by-ingredients`
 
-List responses use `{ items, page, limit, total, totalPages }`. The older `/api/v1` routes remain available for pantry, meals, goals, and recommendations.
+List responses: `{ items, page, limit, total, totalPages }`.
 
-The API client defaults to `http://10.0.2.2:8000` on the Android emulator and `http://localhost:8000` elsewhere. For a physical device, copy `frontend/.env.example` to `frontend/.env` and replace the host with the development computer's LAN IP.
-
-Run backend contract tests with:
+## Tests
 
 ```bash
 cd backend
